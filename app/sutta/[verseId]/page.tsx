@@ -95,7 +95,7 @@ export default function SuttaPage() {
           </div>
 
           {/* 팔리어 원문 */}
-          <div className="bg-card border border-border rounded-lg p-6 mb-8">
+          <div className="bg-card border rounded-lg p-6 mb-8">
             <h3 className="text-lg font-bold text-foreground mb-4">
               🙏 팔리어 원문
             </h3>
@@ -105,7 +105,7 @@ export default function SuttaPage() {
           </div>
 
           {/* 한국어 번역 */}
-          <div className="bg-card border border-border rounded-lg p-6 mb-8">
+          <div className="bg-card border rounded-lg p-6 mb-8">
             <h3 className="text-lg font-bold text-foreground mb-4">
               📖 한국어 번역
             </h3>
@@ -124,7 +124,7 @@ export default function SuttaPage() {
                 <button
                   key={phrase.id}
                   onClick={() => handlePhraseSelect(phrase.id)}
-                  className={`text-left bg-card border border-border rounded-lg p-4 transition-all ${
+                  className={`text-left bg-card border rounded-lg p-4 transition-all ${
                     selectedPhraseId === phrase.id
                       ? 'ring-2 ring-primary/50'
                       : 'hover:border-primary/50'

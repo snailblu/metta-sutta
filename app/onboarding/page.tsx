@@ -44,7 +44,7 @@ export default function OnboardingPage() {
         {/* 스� 1: 환영 */}
         {step === 1 && (
           <div className="space-y-6">
-            <div className="bg-card border border-border rounded-lg p-6">
+            <div className="bg-card border rounded-lg p-6">
               <p className="text-lg text-foreground mb-4">
                 이 앱은 팔리어 경전을 연구하고
                 수행의 의미를 깊이 탐구하는 도구입니다.

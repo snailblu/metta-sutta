@@ -88,7 +88,7 @@ export default function HomePage() {
         </div>
 
         {/* 설명 */}
-        <div className="bg-card border border-border rounded-lg p-6 text-left space-y-4">
+        <div className="bg-card border rounded-lg p-6 text-left space-y-4">
           <p className="text-foreground">
             팔리어 원전을 한국어로 직접 탐구하고
             수행의 깊은 의미를 발견하세요.

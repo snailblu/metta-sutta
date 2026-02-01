@@ -56,7 +56,7 @@ export function NoteEditor({ targetType, targetId, onClose }: Props) {
   if (loading) {
     return (
       <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">
-        <div className="bg-card border border-border rounded-lg p-6 max-w-md w-full">
+        <div className="bg-card border rounded-lg p-6 max-w-md w-full">
           <p className="text-center text-muted-foreground">로딩 중...</p>
         </div>
       </div>
@@ -65,7 +65,7 @@ export function NoteEditor({ targetType, targetId, onClose }: Props) {
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">
-      <div className="bg-card border border-border rounded-lg max-w-md w-full">
+      <div className="bg-card border rounded-lg max-w-md w-full">
         {/* 헤더 */}
         <div className="flex items-center justify-between mb-4">
           <h2 className="text-xl font-bold">📝 메모 {note ? '편집' : '추가'}</h2>
@@ -79,7 +79,7 @@ export function NoteEditor({ targetType, targetId, onClose }: Props) {
           value={content}
           onChange={(e) => setContent(e.target.value)}
           placeholder="메모를 입력하세요..."
-          className="w-full min-h-[200px] p-3 border border-border rounded-lg bg-background text-foreground focus:outline-none focus:ring-2 focus:ring-ring/50"
+          className="w-full min-h-[200px] p-3 border rounded-lg bg-background text-foreground focus:outline-none focus:ring-2 focus:ring-ring/50"
           disabled={saving}
         />
 

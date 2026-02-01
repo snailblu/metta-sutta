@@ -77,13 +77,13 @@ export default function WordPage() {
 
           {/* 기본 정보 */}
           <section className="grid grid-cols-2 gap-4">
-            <div className="bg-card border border-border rounded-lg p-4">
+            <div className="bg-card border rounded-lg p-4">
               <p className="text-sm text-muted-foreground mb-1">품사</p>
               <p className={`${fontSizeClass} text-foreground`}>
                 {word.partOfSpeech}
               </p>
             </div>
-            <div className="bg-card border border-border rounded-lg p-4">
+            <div className="bg-card border rounded-lg p-4">
               <p className="text-sm text-muted-foreground mb-1">어근</p>
               <p className={`${fontSizeClass} text-foreground`}>
                 {word.root}
@@ -106,7 +106,7 @@ export default function WordPage() {
                 {note ? '편집' : '+ 추가'}
               </Button>
             </div>
-            <div className="bg-card border border-border rounded-lg">
+            <div className="bg-card border rounded-lg">
               <CardContent className="pt-4">
                 {note ? (
                   <p className="text-foreground whitespace-pre-wrap">{note}</p>

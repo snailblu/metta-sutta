@@ -9,7 +9,7 @@ export function WordDetailCard({ word, onWordSelect }: Props) {
   return (
     <div 
       onClick={() => onWordSelect?.(word.id)}
-      className="bg-card border border-border rounded-lg p-6 hover:border-primary/50 cursor-pointer transition-all"
+      className="bg-card border rounded-lg p-6 hover:border-primary/50 cursor-pointer transition-all"
     >
       <div className="space-y-4">
         {/* 단어 제목 */}
