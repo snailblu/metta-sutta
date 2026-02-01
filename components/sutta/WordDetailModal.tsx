@@ -25,8 +25,8 @@ export function WordDetailModal({ wordId, onClose }: Props) {
 
   if (!word) {
     return createPortal(
-      <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/50 backdrop-blur-sm p-4">
-        <div className="bg-card border rounded-lg max-w-2xl w-full p-6 text-center">
+      <div className="fixed inset-0 z-[60] flex items-center justify-center bg-black/60 backdrop-blur-sm p-4">
+        <div className="bg-neutral-50 dark:bg-neutral-950 border rounded-lg max-w-2xl w-full p-6 text-center shadow-2xl">
           <p>단어를 찾을 수 없습니다</p>
           <Button variant="outline" className="mt-4" onClick={onClose}>
             닫기
@@ -39,8 +39,8 @@ export function WordDetailModal({ wordId, onClose }: Props) {
 
   const content = (
     <>
-      <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/50 backdrop-blur-sm p-4">
-        <div className="bg-card border rounded-lg max-w-2xl w-full max-h-[90vh] overflow-hidden flex flex-col">
+      <div className="fixed inset-0 z-[60] flex items-center justify-center bg-black/60 backdrop-blur-sm p-4">
+        <div className="bg-neutral-50 dark:bg-neutral-950 border rounded-lg max-w-2xl w-full max-h-[90vh] overflow-hidden flex flex-col shadow-2xl">
           {/* 헤더 */}
           <div className="flex items-center justify-between p-4 border-b">
             <h3 className="text-lg font-bold">단어 상세</h3>
