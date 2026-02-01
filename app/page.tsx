@@ -13,28 +13,35 @@ export default function HomePage() {
   const [isOnboarded, setIsOnboarded] = useState(false);
   
   useEffect(() => {
-    setMounted(true);
-    
     // localStorage에서 온보딩 여부 체크
+    let onboarded = false;
     try {
       const settings = localStorage.getItem('metta-sutta-settings');
       if (settings) {
         const parsed = JSON.parse(settings);
         if (parsed.onboardingCompleted) {
-          setIsOnboarded(true);
+          onboarded = true;
         }
       }
     } catch (err) {
       console.error('Failed to read settings:', err);
     }
-  }, []);
+
+    setIsOnboarded(onboarded);
+    setMounted(true);
+
+    // 온보딩이 완료되지 않으면 자동 리다이렉트
+    if (!onboarded) {
+      router.replace('/onboarding');
+    }
+  }, [router]);
 
   const handleStart = () => {
     const settings = localStorage.getItem('metta-sutta-settings');
     if (settings) {
       const parsed = JSON.parse(settings);
       const lastPosition = parsed.lastPosition;
-      const startLink = lastPosition 
+      const startLink = lastPosition
         ? `/sutta/v${lastPosition.verseNumber}`
         : '/sutta/v1';
       router.push(startLink);
@@ -54,24 +61,9 @@ export default function HomePage() {
     }
   };
 
-  if (!mounted) {
-    return null;
-  }
-
-  // 온보딩이 완료되지 않으면 자동 리다이렉트
-  useEffect(() => {
-    if (mounted && !isOnboarded) {
-      router.replace('/onboarding');
-    }
-  }, [mounted, isOnboarded]);
-
   // 온보딩 완료 전까지는 렌더링 방지
   if (!mounted) {
-    return (
-      <div className="min-h-screen flex items-center justify-center">
-        <p>로딩 중...</p>
-      </div>
-    );
+    return null;
   }
 
   return (
