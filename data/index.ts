@@ -32,7 +32,9 @@ export function getWord(id: string): Word | undefined {
 export function getWordsForPhrase(phraseId: string): Word[] {
   const phrase = getPhrase(phraseId);
   if (!phrase) return [];
-  return phrase.wordIds.map((wordId) => getWord(wordId)).filter((w): w is Word);
+  return phrase.wordIds
+    .map((wordId) => getWord(wordId))
+    .filter((w): w is Word => w !== null && w !== undefined);
 }
 
 // 구절-단어 매핑
