@@ -1,13 +1,14 @@
 'use client';
 
-import { useRouter } from 'next/navigation';
+import { useState } from 'react';
+import { useRouter, useParams } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { CardContent } from '@/components/ui/card';
 import { WordDetailCard } from '@/components/sutta/WordDetailCard';
 import { NoteEditor } from '@/components/notes/NoteEditor';
 import { useSettings, getFontSizeClass } from '@/store/settings';
 import { useNotes } from '@/lib/db/hooks';
-import { getWord, getPhraseWord } from '@/data';
+import { getWord } from '@/data';
 import { useSearchParams } from 'next/navigation';
 
 export default function WordPage() {
@@ -19,13 +20,12 @@ export default function WordPage() {
 
   const [selectedWordId, setSelectedWordId] = useState<string | null>(wordId);
   const [showNote, setShowNote] = useState(false);
-  
+
   const { fontSize } = useSettings();
   const fontSizeClass = getFontSizeClass(fontSize);
   const { note } = useNotes('word', wordId);
 
   const word = getWord(wordId);
-  const phraseWord = fromPhraseId ? getPhraseWord(fromPhraseId, wordId) : null;
 
   if (!word) {
     return (
@@ -92,11 +92,7 @@ export default function WordPage() {
           </section>
 
           {/* 단어 상세 카드 */}
-          <WordDetailCard
-            word={word}
-            phraseWord={phraseWord}
-            onWordSelect={handleWordSelect}
-          />
+          <WordDetailCard word={word} onWordSelect={handleWordSelect} />
 
           {/* 메모 섹션 */}
           <section className="space-y-4">

@@ -95,7 +95,7 @@ export function useProgress(suttaId: string) {
     setLoading(true);
     try {
       const data = await progressHelpers.get(suttaId);
-      setProgress(data);
+      setProgress(data ?? null);
     } catch (error) {
       console.error('Failed to load progress:', error);
     } finally {

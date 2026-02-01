@@ -19,7 +19,7 @@ interface WordsData {
 }
 
 interface PhraseWordsData {
-  phraseWords: PhraseWord[];
+  phraseWords: Array<{ phraseId: string; wordIds: string[] }>;
 }
 
 // 구절 데이터
@@ -52,14 +52,11 @@ export function getWordsForPhrase(phraseId: string): Word[] {
 
 // 구절-단어 매핑
 import phraseWordsData from './metta-sutta/phrase-words.json';
-export const allPhraseWords: PhraseWord[] = (phraseWordsData as PhraseWordsData).phraseWords;
+export const allPhraseWords = (phraseWordsData as PhraseWordsData).phraseWords;
 
-export function getPhraseWord(phraseId: string, wordId: string): PhraseWord | undefined {
-  return allPhraseWords.find((pw) => pw.phraseId === phraseId && pw.wordId === wordId);
-}
-
-export function getPhraseWords(phraseId: string): PhraseWord[] {
-  return allPhraseWords.filter((pw) => pw.phraseId === phraseId);
+export function getPhraseWordIds(phraseId: string): string[] {
+  const phraseWord = allPhraseWords.find((pw) => pw.phraseId === phraseId);
+  return phraseWord?.wordIds ?? [];
 }
 
 // 게송 데이터 (기존)
