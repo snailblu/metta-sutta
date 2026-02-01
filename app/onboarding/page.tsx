@@ -68,7 +68,6 @@ export default function OnboardingPage() {
                 </li>
               </ul>
             </div>
-            </div>
 
             <Button onClick={handleStart} size="lg" className="w-full text-lg py-6">
               시작하기
