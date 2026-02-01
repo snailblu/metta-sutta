@@ -62,9 +62,12 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
               <h4 className="font-medium text-foreground">단어 분석</h4>
               <span className="text-xs text-muted-foreground">{phrase.wordIds?.length || 0}개</span>
             </div>
-            <WordList 
+            <WordList
               wordIds={phrase.wordIds}
-              onWordSelect={(wordId) => router.push(`/word/${wordId}?from=${phraseId}`)}
+              onWordSelect={(wordId) => {
+                onClose();
+                router.push(`/word/${wordId}?from=${phraseId}`);
+              }}
             />
           </div>
 
