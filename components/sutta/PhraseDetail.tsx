@@ -1,12 +1,12 @@
 'use client';
 
 import { useState } from 'react';
-import { useRouter } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { X } from 'lucide-react';
 import { WordList } from './WordList';
 import { AiExplanation } from '@/components/ai/AiExplanation';
 import { NoteEditor } from '@/components/notes/NoteEditor';
+import { WordDetailModal } from './WordDetailModal';
 import { useSettings, getFontSizeClass } from '@/store/settings';
 import { getPhrase } from '@/data';
 
@@ -16,10 +16,10 @@ interface Props {
 }
 
 export function PhraseDetail({ phraseId, onClose }: Props) {
-  const router = useRouter();
   const [showAi, setShowAi] = useState(false);
   const [showNote, setShowNote] = useState(false);
-  
+  const [selectedWordId, setSelectedWordId] = useState<string | null>(null);
+
   const { fontSize } = useSettings();
   const fontSizeClass = getFontSizeClass(fontSize);
   const phrase = getPhrase(phraseId);
@@ -62,13 +62,7 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
               <h4 className="font-medium text-foreground">단어 분석</h4>
               <span className="text-xs text-muted-foreground">{phrase.wordIds?.length || 0}개</span>
             </div>
-            <WordList
-              wordIds={phrase.wordIds}
-              onWordSelect={(wordId) => {
-                onClose();
-                router.push(`/word/${wordId}?from=${phraseId}`);
-              }}
-            />
+            <WordList wordIds={phrase.wordIds} onWordSelect={setSelectedWordId} />
           </div>
 
           {/* 액션 버튼 */}
@@ -99,10 +93,7 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
 
       {/* AI 해설 모달 */}
       {showAi && (
-        <AiExplanation
-          phraseId={phraseId}
-          onClose={() => setShowAi(false)}
-        />
+        <AiExplanation phraseId={phraseId} onClose={() => setShowAi(false)} />
       )}
 
       {/* 메모 에디터 모달 */}
@@ -111,6 +102,14 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
           targetType="phrase"
           targetId={phraseId}
           onClose={() => setShowNote(false)}
+        />
+      )}
+
+      {/* 단어 상세 모달 */}
+      {selectedWordId && (
+        <WordDetailModal
+          wordId={selectedWordId}
+          onClose={() => setSelectedWordId(null)}
         />
       )}
     </div>
