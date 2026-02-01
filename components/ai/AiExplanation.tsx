@@ -1,13 +1,20 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
-import { X, Loader2 } from 'lucide-react';
+import { X } from 'lucide-react';
 import { useSettings } from '@/store/settings';
+import explanations from '@/data/metta-sutta/phrase-explanations.json';
 
 interface Props {
   phraseId: string;
   onClose: () => void;
+}
+
+interface Explanation {
+  phraseId: string;
+  context: string;
+  practice: string;
 }
 
 interface AiExplanationResult {
@@ -17,9 +24,7 @@ interface AiExplanationResult {
 }
 
 export function AiExplanation({ phraseId, onClose }: Props) {
-  const [loading, setLoading] = useState(false);
   const [result, setResult] = useState<AiExplanationResult | null>(null);
-  const [error, setError] = useState<string | null>(null);
   const [activeTab, setActiveTab] = useState<'context' | 'practice'>('context');
   const { fontSize } = useSettings();
 
@@ -30,33 +35,24 @@ export function AiExplanation({ phraseId, onClose }: Props) {
     xlarge: 'text-2xl',
   }[fontSize] || 'text-lg';
 
-  const fetchAiExplanation = async () => {
-    setLoading(true);
-    setError(null);
-    setActiveTab('context');
+  // 컴포넌트 마운트 시 데이터 로드
+  useEffect(() => {
+    const explanation = (explanations.explanations as Explanation[]).find(
+      (e) => e.phraseId === phraseId
+    );
 
-    try {
-      const res = await fetch('/api/ai/explain', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ phraseId }),
+    if (explanation) {
+      setResult({
+        contextTranslation: explanation.context,
+        practiceExplanation: explanation.practice,
       });
-
-      if (!res.ok) throw new Error('API 요청 실패');
-
-      const data = await res.json();
-      setResult(data);
-    } catch (err) {
-      setError('AI 해설을 가져오는 데 실패했습니다.');
-      console.error(err);
-    } finally {
-      setLoading(false);
     }
-  };
+    setActiveTab('context');
+  }, [phraseId]);
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">
-      <div className="bg-card border rounded-lg max-w-2xl w-full max-h-[80vh] overflow-hidden flex flex-col">
+    <div className="fixed inset-0 z-[70] flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">
+      <div className="bg-neutral-50 dark:bg-neutral-950 border rounded-lg max-w-2xl w-full max-h-[80vh] overflow-hidden flex flex-col shadow-2xl">
         {/* 헤더 */}
         <div className="flex items-center justify-between p-4 border-b">
           <h2 className="text-xl font-bold">🤖 AI 해설</h2>
@@ -67,20 +63,9 @@ export function AiExplanation({ phraseId, onClose }: Props) {
 
         {/* 콘텐츠 */}
         <div className="flex-1 overflow-y-auto p-6">
-          {loading && (
+          {!result && (
             <div className="flex flex-col items-center justify-center py-12 space-y-4">
-              <Loader2 className="h-8 w-8 animate-spin text-primary" />
-              <p className="text-muted-foreground">AI가 생각하고 있습니다...</p>
-              <p className="text-sm text-muted-foreground">문맥을 분석하여 문맥 번역과 수행적 의미를 제안합니다.</p>
-            </div>
-          )}
-
-          {error && (
-            <div className="bg-destructive/10 text-destructive rounded-lg p-4 text-center">
-              <p className="font-medium">❌ {error}</p>
-              <Button onClick={fetchAiExplanation} className="mt-4">
-                다시 시도
-              </Button>
+              <p className="text-muted-foreground">해설을 찾을 수 없습니다.</p>
             </div>
           )}
 
@@ -149,7 +134,7 @@ export function AiExplanation({ phraseId, onClose }: Props) {
         {/* 푸터 */}
         <div className="p-4 border-t">
           <p className="text-xs text-center text-muted-foreground">
-            AI가 제안하는 해석입니다. 참고용으로 활용해주세요.
+            메따 숫따(자비 경)의 전통적인 해설을 참고하여 작성되었습니다.
           </p>
         </div>
       </div>

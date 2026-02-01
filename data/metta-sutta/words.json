@@ -233,6 +233,747 @@
         "생명체 (being, creature)"
       ],
       "etymology": "hoti(존재하다). 존재하는 것, 존재하는 자"
+    },
+    {
+      "id": "w-yan",
+      "pali": "yaṃ",
+      "pronunciation": "양",
+      "partOfSpeech": "대명사 (중성 단수)",
+      "root": "(관계대명사)",
+      "meanings": [
+        "것 (what)",
+        "무엇 (that which)",
+        "~하는 것 (which)"
+      ],
+      "etymology": "관계대명사. 선행하는 명사를 받는 지시대명사 역할"
+    },
+    {
+      "id": "w-tam",
+      "pali": "taṃ",
+      "pronunciation": "탐",
+      "partOfSpeech": "대명사 (중성 단수)",
+      "root": "(지시대명사)",
+      "meanings": [
+        "그것 (that)",
+        "저것 (this)"
+      ],
+      "etymology": "지시대명사 ta의 중성 단수 대격 형태"
+    },
+    {
+      "id": "w-santam",
+      "pali": "santaṃ",
+      "pronunciation": "산탐",
+      "partOfSpeech": "형용사 (중성 단수)",
+      "root": "√sam (평온해지다)",
+      "meanings": [
+        "평화로운 것 (peaceful one)",
+        "고요한 경지 (calm state)"
+      ],
+      "etymology": "santa의 중성 단수 목적격/대격 형태. '평화로운 것'을 지칭"
+    },
+    {
+      "id": "w-padam",
+      "pali": "padaṃ",
+      "pronunciation": "빠담",
+      "partOfSpeech": "명사 (중성 단수)",
+      "root": "√pad (가다)",
+      "meanings": [
+        "경지 (stage)",
+        "상태 (state)",
+        "발자국 (footstep)"
+      ],
+      "etymology": "pada의 중성 단수 목적격 형태"
+    },
+    {
+      "id": "w-suju",
+      "pali": "sūjū",
+      "pronunciation": "수주",
+      "partOfSpeech": "형용사",
+      "root": "(복합어)",
+      "meanings": [
+        "곧은, 올바른 (straight)",
+        "정직한 (upright)"
+      ],
+      "etymology": "su(잘, 매우) + uju(곧은)의 복합. '매우 곧은, 올바른'"
+    },
+    {
+      "id": "w-suvaco",
+      "pali": "suvaco",
+      "pronunciation": "수바코",
+      "partOfSpeech": "형용사",
+      "root": "(복합어)",
+      "meanings": [
+        "말 잘 듣는 (easy to speak to)",
+        "충고를 받아들이는 (teachable)",
+        "순종하는 (obedient)"
+      ],
+      "etymology": "su(잘) + vac(말하다) + o(현재분사). '잘 말을 듣는', '충고를 받아들이는'"
+    },
+    {
+      "id": "w-cassa",
+      "pali": "cassa",
+      "pronunciation": "쏏사",
+      "partOfSpeech": "대명사 (소유격)",
+      "root": "(지시대명사)",
+      "meanings": [
+        "그의 (his)",
+        "저의 (one's)"
+      ],
+      "etymology": "대명사 타의 소유격 단수 형태. '그의', '누군가의'"
+    },
+    {
+      "id": "w-mudu",
+      "pali": "mudu",
+      "pronunciation": "무두",
+      "partOfSpeech": "형용사",
+      "root": "√mud (부드럽다)",
+      "meanings": [
+        "부드러운 (soft)",
+        "온화한 (gentle)",
+        "유순한 (tender)"
+      ],
+      "etymology": "√mud(부드럽다)에서 파생. 성격이나 태도가 부드러운 것"
+    },
+    {
+      "id": "w-santussako",
+      "pali": "santussako",
+      "pronunciation": "산투싸코",
+      "partOfSpeech": "형용사",
+      "root": "(복합어)",
+      "meanings": [
+        "만족할 줄 아는 (easily contented)",
+        "족 줄 아는 (knowing satisfaction)"
+      ],
+      "etymology": "santusso(만족한) + k(소유 접미사) + a(형용사화). '만족을 아는'"
+    },
+    {
+      "id": "w-ca",
+      "pali": "ca",
+      "pronunciation": "짜",
+      "partOfSpeech": "접속사",
+      "root": "(불변사)",
+      "meanings": [
+        "그리고 (and)",
+        "또한 (also)",
+        "~도 (too)"
+      ],
+      "etymology": "범어 ca에서 유래. 열거할 때 사용하는 접속사"
+    },
+    {
+      "id": "w-appakicco",
+      "pali": "appakicco",
+      "pronunciation": "아빠끼초",
+      "partOfSpeech": "형용사",
+      "root": "(복합어)",
+      "meanings": [
+        "할 일이 적은 (having few duties)",
+        "일이 간단한 (simple tasks)"
+      ],
+      "etymology": "appa(적은) + kicca(할 일, 의무). '할 일이 적은'"
+    },
+    {
+      "id": "w-sallahukavutti",
+      "pali": "sallahukavutti",
+      "pronunciation": "싸라후카띳티",
+      "partOfSpeech": "명사 (여성)",
+      "root": "(복합어)",
+      "meanings": [
+        "단순한 생활 (simple livelihood)",
+        "간소한 생활방식 (easy living)"
+      ],
+      "etymology": "sallahuka(가벼운, 간단한) + vutti(생활). '단순한 생활'"
+    },
+    {
+      "id": "w-santindriyo",
+      "pali": "santindriyo",
+      "pronunciation": "산딴드리요",
+      "partOfSpeech": "형용사",
+      "root": "(복합어)",
+      "meanings": [
+        "감각이 절제된 (with restrained senses)",
+        "감각이 고요한 (calmed senses)"
+      ],
+      "etymology": "santa(고요한) + indriya(감각 기관). '감각이 고요한'"
+    },
+    {
+      "id": "w-nipako",
+      "pali": "nipako",
+      "pronunciation": "니빠코",
+      "partOfSpeech": "형용사",
+      "root": "(복합어)",
+      "meanings": [
+        "현명한 (wise)",
+        "신중한 (prudent)",
+        "사려 깊은 (thoughtful)"
+      ],
+      "etymology": "ni(아래로) + √pṛ(지키다, 보호하다) + ka(형용사화). '안으로 지키는' → '신중한, 현명한'"
+    },
+    {
+      "id": "w-appagabbho",
+      "pali": "appagabbho",
+      "pronunciation": "아빠가보",
+      "partOfSpeech": "형용사",
+      "root": "(복합어)",
+      "meanings": [
+        "거만하지 않은 (not arrogant)",
+        "오만하지 않은 (not haughty)",
+        "겸손한 (humble)"
+      ],
+      "etymology": "appa(없는) + garu(무거운) + bha(되다). '거만함이 없는'"
+    },
+    {
+      "id": "w-kulesu",
+      "pali": "kulesu",
+      "pronunciation": "쿨레수",
+      "partOfSpeech": "명사 (처소격 복수)",
+      "root": "kula (가족, 가문)",
+      "meanings": [
+        "가정에서 (in families)",
+        "집안에서 (in households)"
+      ],
+      "etymology": "kula(가족, 가문)의 처소격 복수 형태. '가정에, 집안에'"
+    },
+    {
+      "id": "w-ananugiddho",
+      "pali": "ananugiddho",
+      "pronunciation": "아나누기도",
+      "partOfSpeech": "형용사 (과거분사)",
+      "root": "(복합어)",
+      "meanings": [
+        "집착하지 않은 (not attached)",
+        "갈망하지 않는 (not craving)"
+      ],
+      "etymology": "an(부정) + anu(따라서) + √gadh(집착하다) + ta(과거분사). '집착하지 않은'"
+    },
+    {
+      "id": "w-na",
+      "pali": "na",
+      "pronunciation": "나",
+      "partOfSpeech": "부정사",
+      "root": "(불변사)",
+      "meanings": [
+        "아니 (not)",
+        "하지 말라 (do not)"
+      ],
+      "etymology": "부정을 나타내는 불변사. 동사 앞에서 부정의 의미"
+    },
+    {
+      "id": "w-kuddam",
+      "pali": "khuddaṃ",
+      "pronunciation": "쿰담",
+      "partOfSpeech": "명사/형용사 (중성)",
+      "root": "(복합어)",
+      "meanings": [
+        "사소한 (trivial)",
+        "작은 (small)",
+        "하찮은 (insignificant)"
+      ],
+      "etymology": "산스크리트어 kṣudra에서 유래. '작은, 사소한'"
+    },
+    {
+      "id": "w-samacare",
+      "pali": "samācare",
+      "pronunciation": "사마체레",
+      "partOfSpeech": "동사 (명령법)",
+      "root": "√car (하다, 행하다)",
+      "meanings": [
+        "행하다 (to do)",
+        "실행하다 (to practice)",
+        "지내다 (to behave)"
+      ],
+      "etymology": "sam(함께) + √car(가다, 하다) + e(명령법). '행하라', '실천하라'"
+    },
+    {
+      "id": "w-kinci",
+      "pali": "kiñci",
+      "pronunciation": "킨치",
+      "partOfSpeech": "대명사",
+      "root": "(의문대명사)",
+      "meanings": [
+        "무엇이든 (anything)",
+        "어떤 것 (something)",
+        "조금 (a little)"
+      ],
+      "etymology": "kim(무엇) + ci(약간의, 어떤). '무엇이든', '어떤 것'"
+    },
+    {
+      "id": "w-khemino",
+      "pali": "khemino",
+      "pronunciation": "케미노",
+      "partOfSpeech": "형용사 (남성 복수)",
+      "root": "khema (평안, 안전)",
+      "meanings": [
+        "평안한 (peaceful)",
+        "안전한 (safe)"
+      ],
+      "etymology": "khema(평안) + in(소유 형용사). '평안을 가진', '평안한'"
+    },
+    {
+      "id": "w-sabba",
+      "pali": "sabba",
+      "pronunciation": "싸빠",
+      "partOfSpeech": "형용사",
+      "root": "(복합어)",
+      "meanings": [
+        "모든 (all)",
+        "전체의 (whole)",
+        "온갖 (every)"
+      ],
+      "etymology": "산스크리트어 sarva에서 유래. '모든', '전체'"
+    },
+    {
+      "id": "w-bhavantu",
+      "pali": "bhavantu",
+      "pronunciation": "바반투",
+      "partOfSpeech": "동사 (명령법)",
+      "root": "√bhū (되다, 있다)",
+      "meanings": [
+        "되기를 (may become)",
+        "존재하기를 (may exist)",
+        "~이 되기를 (let them be)"
+      ],
+      "etymology": "√bhū(되다) + a(현재) + ntu(명령법 3인칭 복수). '~이 되기를', '~이 있기를'"
+    },
+    {
+      "id": "w-sukhitatta",
+      "pali": "sukhitattā",
+      "pronunciation": "수히타따",
+      "partOfSpeech": "명사 (중성)",
+      "root": "(복합어)",
+      "meanings": [
+        "행복한 상태 (happy state)",
+        "마음의 기쁨 (mental happiness)"
+      ],
+      "etymology": "sukhita(행복한) + tatta(상태). '행복한 상태', '마음으로 행복한 것'"
+    },
+    {
+      "id": "w-panabhutthi",
+      "pali": "pāṇabhūtatthi",
+      "pronunciation": "파나부타티",
+      "partOfSpeech": "명사 (여성)",
+      "root": "(복합어)",
+      "meanings": [
+        "생명체의 존재 (existence of beings)",
+        "살아있는 것 (living things)"
+      ],
+      "etymology": "pāṇa(생명, 숨) + bhūta(존재하는) + atthi(있다). '생명체가 존재하는 것'"
+    },
+    {
+      "id": "w-tasa",
+      "pali": "tasā",
+      "pronunciation": "타사",
+      "partOfSpeech": "형용사",
+      "root": "√tas (두려워하다)",
+      "meanings": [
+        "두려워하는 (fearful)",
+        "겁먹은 (afraid)"
+      ],
+      "etymology": "√tas(떨다, 두려워하다)에서 파생. '두려워하는'"
+    },
+    {
+      "id": "w-thavara",
+      "pali": "thāvarā",
+      "pronunciation": "타바라",
+      "partOfSpeech": "형용사 (여성 복수)",
+      "root": "thāvara (굳은, 확고한)",
+      "meanings": [
+        "견고한 (firm)",
+        "굳은 (solid)",
+        "확고한 (steady)"
+      ],
+      "etymology": "thāvara(굳은, 흔들리지 않는)의 여성 복수 형태"
+    },
+    {
+      "id": "w-ditta",
+      "pali": "diṭṭhā",
+      "pronunciation": "딧따",
+      "partOfSpeech": "형용사 (과거분사 여성 복수)",
+      "root": "√dṛś (보다)",
+      "meanings": [
+        "보이는 (seen)",
+        "본 수 있는 (visible)"
+      ],
+      "etymology": "√dṛś(보다)의 과거분사 여성 복수 형태. '보여진', '보이는'"
+    },
+    {
+      "id": "w-aditta",
+      "pali": "adiṭṭhā",
+      "pronunciation": "아딧따",
+      "partOfSpeech": "형용사 (과거분사 여성 복수)",
+      "root": "√dṛś (보다)",
+      "meanings": [
+        "보이지 않는 (unseen)",
+        "보지 못한 (not seen)"
+      ],
+      "etymology": "an(부정) + √dṛś(보다)의 과거분사. '보이지 않는'"
+    },
+    {
+      "id": "w-avidure",
+      "pali": "avidūre",
+      "pronunciation": "아비두레",
+      "partOfSpeech": "형용사/부사",
+      "root": "dūra (멀리)",
+      "meanings": [
+        "가까운 (near)",
+        "멀지 않은 (not far)"
+      ],
+      "etymology": "an(부정) + dūre(멀리). '멀지 않은', '가까운'"
+    },
+    {
+      "id": "w-dure",
+      "pali": "dūre",
+      "pronunciation": "두레",
+      "partOfSpeech": "부사 (처소격)",
+      "root": "dūra (멀리)",
+      "meanings": [
+        "멀리 (far)",
+        "먼 곳에 (at a distance)"
+      ],
+      "etymology": "dūra(멀리)의 처소격 단수 형태. '멀리에'"
+    },
+    {
+      "id": "w-vasanti",
+      "pali": "vasanti",
+      "pronunciation": "바산티",
+      "partOfSpeech": "동사 (현재 3인칭 복수)",
+      "root": "√vas (살다, 거주하다)",
+      "meanings": [
+        "산다 (live)",
+        "거주한다 (reside)",
+        "머문다 (dwell)"
+      ],
+      "etymology": "√vas(살다) + anti(현재 3인칭 복수). '그들은 산다', '거주한다'"
+    },
+    {
+      "id": "w-paro",
+      "pali": "paro",
+      "pronunciation": "파로",
+      "partOfSpeech": "대명사/형용사",
+      "root": "para (다른)",
+      "meanings": [
+        "다른 (other)",
+        "타인 (another person)",
+        "상대방 (the other)"
+      ],
+      "etymology": "para(다른)에서 파생. '다른 사람', '타인'"
+    },
+    {
+      "id": "w-param",
+      "pali": "paraṃ",
+      "pronunciation": "파랑",
+      "partOfSpeech": "명사/대명사 (중성 목적격)",
+      "root": "para (다른)",
+      "meanings": [
+        "다른 사람을 (another)",
+        "타인을 (someone else)"
+      ],
+      "etymology": "para의 중성 목적격 형태. '다른 사람을'"
+    },
+    {
+      "id": "w-nikubbetha",
+      "pali": "nikubbetha",
+      "pronunciation": "니쿠베타",
+      "partOfSpeech": "동사 (optative)",
+      "root": "(복합어)",
+      "meanings": [
+        "속이지 말라 (should not deceive)",
+        "기만하지 말라 (should not cheat)"
+      ],
+      "etymology": "ni(아래로) + √kub(구부리다, 속이다) + etha(권유). '속이지 말라'"
+    },
+    {
+      "id": "w-natimanjetha",
+      "pali": "nātimaññetha",
+      "pronunciation": "나티만예타",
+      "partOfSpeech": "동사 (optative)",
+      "root": "(복합어)",
+      "meanings": [
+        "업신여기지 말라 (should not despise)",
+        "깔보지 말라 (should not look down on)"
+      ],
+      "etymology": "nāti(과도하게) + √māñ(생각하다, 여기다) + etha(권유). '과소평가하지 말라'"
+    },
+    {
+      "id": "w-katthaci",
+      "pali": "katthaci",
+      "pronunciation": "카타찌",
+      "partOfSpeech": "부사",
+      "root": "(복합어)",
+      "meanings": [
+        "어디서든 (anywhere)",
+        "어느 곳에서도 (in any place)"
+      ],
+      "etymology": "kattha(어디, 어느 곳) + ci(약간의, 어떤). '어디서든'"
+    },
+    {
+      "id": "w-mata",
+      "pali": "mātā",
+      "pronunciation": "마따",
+      "partOfSpeech": "명사 (여성)",
+      "root": "√mā (만들다)",
+      "meanings": [
+        "어머니 (mother)"
+      ],
+      "etymology": "산스크리트어 mātṛ에서 유래. '어머니', '모친'"
+    },
+    {
+      "id": "w-yatha",
+      "pali": "yathā",
+      "pronunciation": "야타",
+      "partOfSpeech": "접속사/부사",
+      "root": "(관계사)",
+      "meanings": [
+        "같이 (as)",
+        "처럼 (like)",
+        "~한 대로 (as, in the way)"
+      ],
+      "etymology": "관계사 yad의 여성 형태. '~와 같이', '~처럼'"
+    },
+    {
+      "id": "w-niya",
+      "pali": "niyaṃ",
+      "pronunciation": "니양",
+      "partOfSpeech": "명사/부사",
+      "root": "(복합어)",
+      "meanings": [
+        "제대로 (properly)",
+        "올바르게 (correctly)",
+        "확실히 (surely)"
+      ],
+      "etymology": "ni(아래로, 완전히) + √ī(가지다, 인도하다). '올바르게 인도하여'"
+    },
+    {
+      "id": "w-puttam",
+      "pali": "puttaṃ",
+      "pronunciation": "뿟탐",
+      "partOfSpeech": "명사 (남성 단수 목적격)",
+      "root": "putta (아들)",
+      "meanings": [
+        "아들을 (son)",
+        "자식을 (child)"
+      ],
+      "etymology": "산스크리트어 putra에서 유래. putta의 목적격 형태"
+    },
+    {
+      "id": "w-ayusa",
+      "pali": "āyusā",
+      "pronunciation": "아유사",
+      "partOfSpeech": "명사 (여성)",
+      "root": "āyu (생명, 수명)",
+      "meanings": [
+        "목숨을 (with life)",
+        "생명을 (with vitality)"
+      ],
+      "etymology": "āyu(생명, 수명) + sa(함께). '목숨을 다하여', '생명을 걸고'"
+    },
+    {
+      "id": "w-ekaputta",
+      "pali": "ekaputta",
+      "pronunciation": "에까뿟타",
+      "partOfSpeech": "명사 (복합어)",
+      "root": "(복합어)",
+      "meanings": [
+        "외아들 (only son)",
+        "하나뿐인 아들 (sole son)"
+      ],
+      "etymology": "eka(하나) + putta(아들). '하나뿐인 아들', '외아들'"
+    },
+    {
+      "id": "w-anurakkhe",
+      "pali": "anurakkhe",
+      "pronunciation": "아누라케",
+      "partOfSpeech": "동사 (optative)",
+      "root": "(복합어)",
+      "meanings": [
+        "보호하다 (should protect)",
+        "지키다 (should guard)"
+      ],
+      "etymology": "anu(따라서) + √rakṣ(보호하다, 지키다) + e(권유). '따라서 보호하다'"
+    },
+    {
+      "id": "w-evampi",
+      "pali": "evaṃpi",
+      "pronunciation": "에왐피",
+      "partOfSpeech": "부사/접속사",
+      "root": "(복합어)",
+      "meanings": [
+        "이와 같이 (in this way)",
+        "그렇게도 (also thus)",
+        "이렇게 (so)"
+      ],
+      "etymology": "evam(이렇게, 같이) + pi(또한, ~도). '이와 같이도', '이렇게 또한'"
+    },
+    {
+      "id": "w-manasam",
+      "pali": "mānasaṃ",
+      "pronunciation": "마나상",
+      "partOfSpeech": "명사 (중성)",
+      "root": "manas (마음, 생각)",
+      "meanings": [
+        "마음 (mind)",
+        "생각 (thought)",
+        "의도 (intention)"
+      ],
+      "etymology": "manas(마음, 생각)의 중성 목적격 형태"
+    },
+    {
+      "id": "w-bhavaye",
+      "pali": "bhāvaye",
+      "pronunciation": "바바예",
+      "partOfSpeech": "동사 (causative 현재)",
+      "root": "√bhū (되다, 있다)",
+      "meanings": [
+        "닦다 (to cultivate)",
+        "개발하다 (to develop)",
+        "만들다 (to create)"
+      ],
+      "etymology": "√bhū(되다)의 사역(使役) 현재형. '되게 하다' → '만들다', '닦다', '개발하다'"
+    },
+    {
+      "id": "w-aparimana",
+      "pali": "aparimāṇaṃ",
+      "pronunciation": "아파리마낭",
+      "partOfSpeech": "형용사 (중성)",
+      "root": "(복합어)",
+      "meanings": [
+        "무한한 (infinite)",
+        "한이 없는 (boundless)",
+        "측량할 수 없는 (immeasurable)"
+      ],
+      "etymology": "a(부정) + parimāṇa(한계, 측량). '한계가 없는', '무한한'"
+    },
+    {
+      "id": "w-sabbaloka",
+      "pali": "sabbaloka",
+      "pronunciation": "싸빠로카",
+      "partOfSpeech": "명사 (남성 복합어)",
+      "root": "(복합어)",
+      "meanings": [
+        "온 세상 (the whole world)",
+        "모든 세계 (all worlds)"
+      ],
+      "etymology": "sabba(모든) + loka(세상). '온 세상', '모든 세계'"
+    },
+    {
+      "id": "w-si",
+      "pali": "smiṃ",
+      "pronunciation": "씸",
+      "partOfSpeech": "명사 (처소격)",
+      "meanings": [
+        "~에 (in)",
+        "~속에 (within)"
+      ],
+      "etymology": "loka(세상)와 결합되는 처소격 어미. '세상에(in the world)'"
+    },
+    {
+      "id": "w-uddham",
+      "pali": "uddhaṃ",
+      "pronunciation": "웟담",
+      "partOfSpeech": "부사/명사",
+      "meanings": [
+        "위로 (upward)",
+        "위쪽으로 (upwards)",
+        "위에 (above)"
+      ],
+      "etymology": "ut(위) + dhan(가지다). '위로', '위쪽으로'"
+    },
+    {
+      "id": "w-adho",
+      "pali": "adho",
+      "pronunciation": "아도",
+      "partOfSpeech": "부사",
+      "meanings": [
+        "아래로 (downward)",
+        "아래에 (below)",
+        "밑으로 (underneath)"
+      ],
+      "etymology": "산스크리트어 adhas에서 유래. '아래로', '밑에'"
+    },
+    {
+      "id": "w-tiriyamca",
+      "pali": "tiriyañca",
+      "pronunciation": "티리양짜",
+      "partOfSpeech": "부사",
+      "root": "(복합어)",
+      "meanings": [
+        "옆으로 (across)",
+        "가로질러 (transverse)",
+        "사방으로 (around)"
+      ],
+      "etymology": "tiriya(가로, 옆) + ca(그리고). '옆으로도', '가로질러'"
+    },
+    {
+      "id": "w-asambadha",
+      "pali": "asambādhaṃ",
+      "pronunciation": "아삼바당",
+      "partOfSpeech": "형용사 (중성)",
+      "root": "(복합어)",
+      "meanings": [
+        "장애 없는 (unobstructed)",
+        "막힘 없는 (unhindered)",
+        "자유로운 (free)"
+      ],
+      "etymology": "an(부정) + sambādha(장애, 막힘). '장애가 없는'"
+    },
+    {
+      "id": "w-avera",
+      "pali": "averaṃ",
+      "pronunciation": "아베랑",
+      "partOfSpeech": "명사 (중성)",
+      "root": "(복합어)",
+      "meanings": [
+        "원한 없음 (without enmity)",
+        "증오 없음 (without hatred)"
+      ],
+      "etymology": "a(부정) + vera(원한, 적개심). '원한이 없는'"
+    },
+    {
+      "id": "w-asapatta",
+      "pali": "asapattaṃ",
+      "pronunciation": "아사빳탐",
+      "partOfSpeech": "명사 (중성)",
+      "root": "(복합어)",
+      "meanings": [
+        "적의 없음 (without hostility)",
+        "악의 없음 (without ill-will)"
+      ],
+      "etymology": "a(부정) + sapatta(적의, 악의). '적의가 없는'"
+    },
+    {
+      "id": "w-ye",
+      "pali": "ye",
+      "pronunciation": "예",
+      "partOfSpeech": "대명사 (남성 복수)",
+      "root": "(관계대명사)",
+      "meanings": [
+        "그들은 (they who)",
+        "~하는 자들은 (those who)"
+      ],
+      "etymology": "관계대명사 ya의 남성 복수 주격 형태. '그들은', '~하는 자들은'"
+    },
+    {
+      "id": "w-keci",
+      "pali": "keci",
+      "pronunciation": "케치",
+      "partOfSpeech": "대명사",
+      "root": "(복합어)",
+      "meanings": [
+        "누구든 (whoever)",
+        "어떤 이든 (anyone)"
+      ],
+      "etymology": "ko(누구) + ci(약간의, 어떤). '누구든', '어떤 이든'"
+    },
+    {
+      "id": "w-adi-tta",
+      "pali": "adiṭṭhā",
+      "pronunciation": "아딧따",
+      "partOfSpeech": "형용사 (과거분사 여성 복수)",
+      "root": "√dṛś (보다)",
+      "meanings": [
+        "보이지 않는 (unseen)",
+        "보지 못한 (not seen)"
+      ],
+      "etymology": "an(부정) + √dṛś(보다)의 과거분사. '보이지 않는'"
     }
   ]
 }

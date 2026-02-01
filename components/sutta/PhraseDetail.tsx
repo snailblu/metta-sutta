@@ -8,7 +8,7 @@ import { AiExplanation } from '@/components/ai/AiExplanation';
 import { NoteEditor } from '@/components/notes/NoteEditor';
 import { WordDetailModal } from './WordDetailModal';
 import { useSettings, getFontSizeClass } from '@/store/settings';
-import { getPhrase } from '@/data';
+import { getPhrase, getWord } from '@/data';
 
 interface Props {
   phraseId: string;
@@ -35,7 +35,7 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
 
   return (
     <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/50 backdrop-blur-sm p-4 sm:p-6">
-      <div className="bg-card border rounded-lg max-w-2xl w-full max-h-[90vh] overflow-hidden flex flex-col">
+      <div className="bg-neutral-50 dark:bg-neutral-950 border rounded-lg max-w-2xl w-full max-h-[90vh] overflow-hidden flex flex-col shadow-xl">
         {/* 헤더 */}
         <div className="flex items-center justify-between p-4 border-b">
           <h3 className="text-lg font-bold">구절 상세</h3>
@@ -60,9 +60,14 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
           <div className="space-y-4">
             <div className="flex items-center justify-between">
               <h4 className="font-medium text-foreground">단어 분석</h4>
-              <span className="text-xs text-muted-foreground">{phrase.wordIds?.length || 0}개</span>
+              <span className="text-xs text-muted-foreground">
+                {(phrase.wordIds?.filter(id => !!getWord(id)).length || 0)}개
+              </span>
             </div>
-            <WordList wordIds={phrase.wordIds} onWordSelect={setSelectedWordId} />
+            <WordList 
+              wordIds={phrase.wordIds?.filter(id => !!getWord(id)) || []} 
+              onWordSelect={setSelectedWordId} 
+            />
           </div>
 
           {/* 액션 버튼 */}

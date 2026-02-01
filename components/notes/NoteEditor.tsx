@@ -55,8 +55,8 @@ export function NoteEditor({ targetType, targetId, onClose }: Props) {
 
   if (loading) {
     return (
-      <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">
-        <div className="bg-card border rounded-lg p-6 max-w-md w-full">
+      <div className="fixed inset-0 z-[70] flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">
+        <div className="bg-neutral-50 dark:bg-neutral-950 border rounded-lg p-6 max-w-md w-full shadow-2xl">
           <p className="text-center text-muted-foreground">로딩 중...</p>
         </div>
       </div>
@@ -64,8 +64,8 @@ export function NoteEditor({ targetType, targetId, onClose }: Props) {
   }
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">
-      <div className="bg-card border rounded-lg max-w-md w-full">
+    <div className="fixed inset-0 z-[70] flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">
+      <div className="bg-neutral-50 dark:bg-neutral-950 border rounded-lg max-w-md w-full p-6 shadow-2xl">
         {/* 헤더 */}
         <div className="flex items-center justify-between mb-4">
           <h2 className="text-xl font-bold">📝 메모 {note ? '편집' : '추가'}</h2>
