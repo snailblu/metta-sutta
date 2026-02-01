@@ -11,7 +11,7 @@ interface Props {
 export function WordList({ wordIds, onWordSelect }: Props) {
   const words = wordIds
     .map((id) => getWord(id))
-    .filter((w): w is Word);
+    .filter((w): w is Word => w !== null && w !== undefined);
 
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
