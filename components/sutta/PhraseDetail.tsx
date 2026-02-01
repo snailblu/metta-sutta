@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { X } from 'lucide-react';
 import { WordList } from './WordList';
-import { AiExplanation } from './AiExplanation';
+import { AiExplanation } from '@/components/ai/AiExplanation';
 import { NoteEditor } from '@/components/notes/NoteEditor';
 import { useSettings, getFontSizeClass } from '@/store/settings';
 import { getPhrase } from '@/data';
