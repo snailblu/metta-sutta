@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { noteHelpers, progressHelpers, bookmarkHelpers } from './schema';
+import { noteHelpers, progressHelpers, bookmarkHelpers, type UserNote, type ReadingProgress, type Bookmark } from './schema';
 
 // 노트 훅
 export function useNotes(targetType: 'phrase' | 'word', targetId: string) {
@@ -60,7 +60,7 @@ export function useNotes(targetType: 'phrase' | 'word', targetId: string) {
 
 // 모든 노트 목록 훅
 export function useAllNotes() {
-  const [notes, setNotes] = useState<any[]>([]);
+  const [notes, setNotes] = useState<UserNote[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -84,7 +84,7 @@ export function useAllNotes() {
 
 // 진도 훅
 export function useProgress(suttaId: string) {
-  const [progress, setProgress] = useState<any>(null);
+  const [progress, setProgress] = useState<ReadingProgress | null>(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -133,7 +133,7 @@ export function useProgress(suttaId: string) {
 
 // 북마크 훅
 export function useBookmarks() {
-  const [bookmarks, setBookmarks] = useState<any[]>([]);
+  const [bookmarks, setBookmarks] = useState<Bookmark[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {

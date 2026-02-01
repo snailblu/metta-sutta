@@ -9,9 +9,22 @@ export const sutta: Sutta = {
   verseCount: 10,
 } as const;
 
+// JSON 데이터 타입 정의
+interface PhrasesData {
+  phrases: Phrase[];
+}
+
+interface WordsData {
+  words: Word[];
+}
+
+interface PhraseWordsData {
+  phraseWords: PhraseWord[];
+}
+
 // 구절 데이터
 import phrasesData from './metta-sutta/phrases.json';
-export const allPhrases: Phrase[] = (phrasesData as any).phrases;
+export const allPhrases: Phrase[] = (phrasesData as PhrasesData).phrases;
 
 export function getPhrase(id: string): Phrase | undefined {
   return allPhrases.find((p) => p.id === id);
@@ -23,7 +36,7 @@ export function getPhrasesForVerse(verseId: string): Phrase[] {
 
 // 단어 데이터
 import wordsData from './metta-sutta/words.json';
-export const allWords: Word[] = (wordsData as any).words;
+export const allWords: Word[] = (wordsData as WordsData).words;
 
 export function getWord(id: string): Word | undefined {
   return allWords.find((w) => w.id === id);
@@ -39,7 +52,7 @@ export function getWordsForPhrase(phraseId: string): Word[] {
 
 // 구절-단어 매핑
 import phraseWordsData from './metta-sutta/phrase-words.json';
-export const allPhraseWords: PhraseWord[] = (phraseWordsData as any).phraseWords;
+export const allPhraseWords: PhraseWord[] = (phraseWordsData as PhraseWordsData).phraseWords;
 
 export function getPhraseWord(phraseId: string, wordId: string): PhraseWord | undefined {
   return allPhraseWords.find((pw) => pw.phraseId === phraseId && pw.wordId === wordId);

@@ -10,9 +10,15 @@ interface Props {
   onClose: () => void;
 }
 
+interface AiExplanationResult {
+  contextTranslation?: string;
+  practiceExplanation?: string;
+  relatedConcepts?: string[];
+}
+
 export function AiExplanation({ phraseId, onClose }: Props) {
   const [loading, setLoading] = useState(false);
-  const [result, setResult] = useState<any>(null);
+  const [result, setResult] = useState<AiExplanationResult | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [activeTab, setActiveTab] = useState<'context' | 'practice'>('context');
   const { fontSize } = useSettings();

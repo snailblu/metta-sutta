@@ -2,7 +2,7 @@
 
 import { useRouter } from 'next/navigation';
 import { Button } from '@/components/ui/button';
-import { X } from 'lucide-react';
+import { CardContent } from '@/components/ui/card';
 import { WordDetailCard } from '@/components/sutta/WordDetailCard';
 import { NoteEditor } from '@/components/notes/NoteEditor';
 import { useSettings, getFontSizeClass } from '@/store/settings';
