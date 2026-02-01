@@ -55,7 +55,7 @@ export default function WordPage() {
   };
 
   return (
-    <div className="min-h-screen bg-background flex flex-col">
+    <div className="fixed inset-0 bg-background flex flex-col overflow-y-auto z-[100]">
       {/* 헤더 */}
       <header className="sticky top-0 bg-background/95 backdrop-blur border-b border-border p-4 z-10">
         <Button variant="ghost" onClick={handleBack} className="flex items-center gap-2">
