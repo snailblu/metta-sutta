@@ -1,15 +1,35 @@
+'use client';
+
 import { useParams, useRouter } from 'next/navigation';
+import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { getPhrase, getWordsForPhrase } from '@/data';
+import { useSettings, getFontSizeClass } from '@/store/settings';
+import { NoteEditor } from '@/components/notes/NoteEditor';
+import { useNotes } from '@/lib/db/hooks';
 
 export default function PhrasePage() {
   const params = useParams();
   const router = useRouter();
   const phraseId = params.phraseId as string;
 
+  // Zustand store hydration
+  const [mounted, setMounted] = useState(false);
+  const settingsStore = useSettings();
+  
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  const fontSize = mounted ? settingsStore.fontSize : 'large';
+  const defaultView = mounted ? settingsStore.defaultView : 'both';
+
+  const [showNoteEditor, setShowNoteEditor] = useState(false);
+
   const phrase = getPhrase(phraseId);
   const words = getWordsForPhrase(phraseId);
+  const { note } = useNotes('phrase', phraseId);
 
   if (!phrase) {
     return (
@@ -19,17 +39,14 @@ export default function PhrasePage() {
     );
   }
 
-  const fontSizeClass = {
-    small: 'text-base',
-    medium: 'text-xl',
-    large: 'text-2xl',
-    xlarge: 'text-3xl',
-  }['large' as const]; // TODO: settings에서 가져오기
+  const fontSizeClass = getFontSizeClass(fontSize);
+  const showPali = defaultView === 'pali' || defaultView === 'both';
+  const showKorean = defaultView === 'korean' || defaultView === 'both';
 
   return (
     <div className="min-h-screen bg-background">
       {/* 헤더 */}
-      <header className="sticky top-0 bg-background/95 backdrop-blur border-b border-border p-4">
+      <header className="sticky top-0 bg-background/95 backdrop-blur border-b border-border p-4 z-10">
         <Button variant="ghost" onClick={() => router.back()}>
           ← 뒤로
         </Button>
@@ -40,12 +57,16 @@ export default function PhrasePage() {
           {/* 구절 원문 */}
           <Card>
             <CardContent className="pt-6">
-              <p className={`${fontSizeClass} text-primary leading-relaxed mb-4`}>
-                {phrase.paliText}
-              </p>
-              <p className={`${fontSizeClass} text-foreground leading-relaxed`}>
-                {phrase.koreanTranslation}
-              </p>
+              {showPali && (
+                <p className={`${fontSizeClass} text-primary leading-relaxed ${showKorean ? 'mb-4' : ''}`}>
+                  {phrase.paliText}
+                </p>
+              )}
+              {showKorean && (
+                <p className={`${fontSizeClass} text-foreground leading-relaxed`}>
+                  {phrase.koreanTranslation}
+                </p>
+              )}
             </CardContent>
           </Card>
 
@@ -74,8 +95,38 @@ export default function PhrasePage() {
               </button>
             ))}
           </div>
+
+          {/* 메모 섹션 */}
+          <div className="space-y-4">
+            <div className="flex items-center justify-between">
+              <h3 className="text-lg font-bold text-foreground">📝 내 메모</h3>
+              <Button variant="outline" size="sm" onClick={() => setShowNoteEditor(true)}>
+                {note ? '편집' : '+ 추가'}
+              </Button>
+            </div>
+            <Card>
+              <CardContent className="pt-4">
+                {note ? (
+                  <p className="text-foreground whitespace-pre-wrap">{note}</p>
+                ) : (
+                  <p className="text-muted-foreground text-center py-8">
+                    아직 메모가 없습니다
+                  </p>
+                )}
+              </CardContent>
+            </Card>
+          </div>
         </div>
       </main>
+
+      {/* 메모 에디터 모달 */}
+      {showNoteEditor && (
+        <NoteEditor
+          targetType="phrase"
+          targetId={phraseId}
+          onClose={() => setShowNoteEditor(false)}
+        />
+      )}
     </div>
   );
 }

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>192x192 Icon</title>
+  <style>
+    body { margin: 0; padding: 0; }
+    canvas { display: block; }
+  </style>
+</head>
+<body>
+  <canvas id="icon" width="192" height="192"></canvas>
+  <script>
+    const canvas = document.getElementById('icon');
+    const ctx = canvas.getContext('2d');
+    
+    // Background
+    ctx.fillStyle = '#16a34a';
+    ctx.fillRect(0, 0, 192, 192);
+    
+    // Simple "자비경" text representation with 佛
+    ctx.font = 'bold 80px sans-serif';
+    ctx.fillStyle = '#ffffff';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillText('🙏', 96, 96);
+  </script>
+</body>
+</html>

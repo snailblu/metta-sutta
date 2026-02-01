@@ -11,9 +11,7 @@
         "우정, 친애 (friendliness)",
         "선의, 호의 (goodwill)"
       ],
-      "etymology": "mitta(친구)의 추상명사. 친구에게 느끼는 따뜻한 마음",
-      "relatedTerms": ["mettā-bhāvanā (자비 수행)", "brahmavihāra (범천주)"],
-      "notes": "사무량심(四無量心) 중 첫 번째"
+      "etymology": "mitta(친구)의 추상명사. 친구에게 느끼는 따뜻한 마음. 불교 수행의 기본인 사무량심(四無量心) 중 첫 번째"
     },
     {
       "id": "w-kusala",
@@ -26,9 +24,7 @@
         "능숙한, 숙련된 (skillful)",
         "공덕, 선업 (merit)"
       ],
-      "etymology": "어근 √kus에서 파생. '잘 쌓인, 축적된' → '건전한, 선한'의 의미로 발전",
-      "relatedTerms": ["akusala (불선)", "kusalamūla (선근)"],
-      "notes": "불교에서 가장 중요한 윤리적 개념 중 하나"
+      "etymology": "어근 √kus에서 파생. '잘 쌓인, 축적된' → '건전한, 선한'의 의미로 발전. 불교 윤리의 핵심 개념"
     },
     {
       "id": "w-attha",
@@ -42,9 +38,7 @@
         "목적, 목표 (purpose)",
         "부, 재산 (wealth)"
       ],
-      "etymology": "산스크리트어 artha에서 유래",
-      "relatedTerms": ["paramattha (최고의 의미)", "atthakathā (주석서)"],
-      "notes": "맥락에 따라 다양한 의미로 사용됨"
+      "etymology": "산스크리트어 artha에서 유래. 맥락에 따라 '목적, 이익, 부, 재산' 등 다양한 의미로 사용됨"
     },
     {
       "id": "w-santa",
@@ -54,12 +48,10 @@
       "root": "√sam (평온해지다)",
       "meanings": [
         "평화로운, 고요한 (peaceful)",
-        "잠잠해진, 가라앉은 (calmed)",
+        "잠잠해진, 가라앉아 있는 (calmed)",
         "성자, 선인 (saint)"
       ],
-      "etymology": "√sam(평온해지다)의 과거분사",
-      "relatedTerms": ["santī (평화)", "upasama (적멸)"],
-      "notes": "열반을 가리키기도 함"
+      "etymology": "√sam의 과거분사. 평온해진 상태, 고요해짐. 번역할 때 성현자/선인으로 의미되기도 함"
     },
     {
       "id": "w-pada",
@@ -68,407 +60,179 @@
       "partOfSpeech": "명사 (중성)",
       "root": "√pad (가다)",
       "meanings": [
-        "발 (foot)",
-        "발자국 (footstep)",
+        "발, 발자국 (foot)",
+        "발자국, 발짝 (footstep)",
         "경지, 상태 (state, stage)",
         "구절, 문구 (verse, phrase)"
       ],
-      "etymology": "√pad(가다)에서 파생. '가는 곳' → '도달 지점, 경지'",
-      "relatedTerms": ["nibbāna-pada (열반의 경지)", "dhammapada (법구)"],
-      "notes": "여기서는 '평화의 경지(열반)'를 의미"
+      "etymology": "√pad(가다)에서 파생. '가는 곳' → '경지에 도달한 곳'. 불교에서 '열반의 경지(pada)'를 의미하기도 함"
+    },
+    {
+      "id": "w-sutta",
+      "pali": "sutta",
+      "pronunciation": "숫따",
+      "partOfSpeech": "명사 (여성)",
+      "root": "(복합어)",
+      "meanings": [
+        "경전, 가르침 (discourse)",
+        "가르침 (teaching)",
+        "말씀 (word)"
+      ],
+      "etymology": "팔리어 sutta는 산스크리트어 sūtra(실)에서 유래. '실을 엮은 말'이라는 의미. 초기불교 경전들은 팔리어로 구전됨"
     },
     {
       "id": "w-satta",
       "pali": "satta",
       "pronunciation": "삿따",
       "partOfSpeech": "명사 (남성)",
-      "root": "√sañj (집착하다) 또는 √as (있다)",
+      "root": "√as (존재하다)",
       "meanings": [
-        "중생, 존재 (being)",
-        "생명체 (living creature)"
+        "중생, 생명체 (being)",
+        "생명체, 생명 (living creature)",
+        "존재 (existence)"
       ],
-      "etymology": "두 가지 어원설: 1) √sañj에서 '오온에 집착하는 자', 2) √as에서 '존재하는 자'",
-      "relatedTerms": ["sabbasatta (모든 중생)", "sattāvāsa (중생계)"],
-      "notes": "불교에서 깨달음을 얻지 못한 모든 존재를 지칭"
+      "etymology": "어근 √as(존재하다)에서 파생. 존재하는 것, 존재하는 자. 불교에서 5온(五蘊)과 6온(六趣)의 모든 존재를 통칭"
     },
     {
-      "id": "w-sabba",
-      "pali": "sabba",
-      "pronunciation": "삽바",
-      "partOfSpeech": "형용사/대명사",
-      "root": "√sarv (모든)",
+      "id": "w-bhava",
+      "pali": "bhava",
+      "pronunciation": "바와",
+      "partOfSpeech": "동사 (존재)",
+      "root": "√bhū (되다)",
       "meanings": [
-        "모든, 일체의 (all)",
-        "전체의 (whole)"
+        "존재하다, 있다 (to exist, to be)",
+        "된다, 있는 (become)"
       ],
-      "etymology": "산스크리트어 sarva에서 유래",
-      "relatedTerms": ["sabbañña (일체지)", "sabbaloka (온 세상)"],
-      "notes": "팔리어에서 가장 흔히 쓰이는 형용사 중 하나"
-    },
-    {
-      "id": "w-sukhi",
-      "pali": "sukhī",
-      "pronunciation": "수키",
-      "partOfSpeech": "형용사",
-      "root": "sukha (행복) + -ī (소유 접미사)",
-      "meanings": [
-        "행복한 (happy)",
-        "안락한 (comfortable)",
-        "기쁜 (joyful)"
-      ],
-      "etymology": "sukha(행복, 안락)의 형용사형",
-      "relatedTerms": ["sukha (행복)", "sukhitatta (행복한 마음)"],
-      "notes": "불교에서 추구하는 궁극적 목표 중 하나"
-    },
-    {
-      "id": "w-bhaveti",
-      "pali": "bhāveti",
-      "pronunciation": "바웨띠",
-      "partOfSpeech": "동사 (사역형)",
-      "root": "√bhū (되다, 있다)",
-      "meanings": [
-        "닦다, 수행하다 (to cultivate)",
-        "발전시키다 (to develop)",
-        "명상하다 (to meditate on)"
-      ],
-      "etymology": "√bhū의 사역형. '있게 하다' → '발전시키다, 닦다'",
-      "relatedTerms": ["bhāvanā (수행)", "cittabhāvanā (마음 닦음)"],
-      "notes": "명상과 수행의 핵심 동사"
-    },
-    {
-      "id": "w-aparimana",
-      "pali": "aparimāṇa",
-      "pronunciation": "아빠리마나",
-      "partOfSpeech": "형용사",
-      "root": "a- (부정) + pari- (둘레) + √mā (측량하다)",
-      "meanings": [
-        "무한한, 한량없는 (immeasurable)",
-        "무변의 (boundless)"
-      ],
-      "etymology": "a(부정) + parimāṇa(측량, 한계). '측량할 수 없는'",
-      "relatedTerms": ["appamāṇa (무량)", "brahmavihāra (범천주)"],
-      "notes": "사무량심의 '무량'과 같은 의미"
-    },
-    {
-      "id": "w-manasa",
-      "pali": "mānasa",
-      "pronunciation": "마나사",
-      "partOfSpeech": "명사 (중성)",
-      "root": "manas (마음) + -a",
-      "meanings": [
-        "마음, 의식 (mind)",
-        "마음의 (mental)"
-      ],
-      "etymology": "manas(마음)에서 파생",
-      "relatedTerms": ["mano (마음)", "manasikāra (작의)"],
-      "notes": "여기서는 '자비의 마음'을 의미"
-    },
-    {
-      "id": "w-mata",
-      "pali": "mātā",
-      "pronunciation": "마따",
-      "partOfSpeech": "명사 (여성)",
-      "root": "√mā (측량하다) 또는 기본 어휘",
-      "meanings": [
-        "어머니 (mother)"
-      ],
-      "etymology": "인도-유럽어 공통 어휘",
-      "relatedTerms": ["mātugāma (여성)", "mātupitaro (부모)"],
-      "notes": "자비의 비유로 자주 사용됨"
-    },
-    {
-      "id": "w-putta",
-      "pali": "putta",
-      "pronunciation": "뿟따",
-      "partOfSpeech": "명사 (남성)",
-      "root": "√pū (정화하다) 또는 기본 어휘",
-      "meanings": [
-        "아들 (son)",
-        "자식 (child)"
-      ],
-      "etymology": "전통적으로 '조상을 지옥에서 구하는 자'로 해석",
-      "relatedTerms": ["ekaputta (외아들)", "puttaka (작은 아들)"],
-      "notes": "불교에서 집착의 대상으로도 언급됨"
-    },
-    {
-      "id": "w-loka",
-      "pali": "loka",
-      "pronunciation": "로까",
-      "partOfSpeech": "명사 (남성)",
-      "root": "√lok (보다)",
-      "meanings": [
-        "세계, 세상 (world)",
-        "우주 (universe)",
-        "사람들 (people)"
-      ],
-      "etymology": "√lok(보다)에서 '보이는 것' → '세계'",
-      "relatedTerms": ["lokiya (세속적인)", "lokuttara (출세간의)"],
-      "notes": "불교에서 삼계(欲界, 色界, 無色界)로 분류"
+      "etymology": "어근 √bhū(되다) + -a(현재분사)에서 파생. '있는 것', '존재하는 것'. 불교에서 유위법(有爲)을 설명하는 핵심 동사"
     },
     {
       "id": "w-karaniya",
       "pali": "karaṇīya",
       "pronunciation": "까라니야",
-      "partOfSpeech": "동사적 형용사 (미래 수동 분사)",
-      "root": "√kar (하다) + -anīya",
+      "partOfSpeech": "동명사(미래수동분사)",
+      "root": "√kar (하다)",
       "meanings": [
-        "행해야 할 (to be done)",
-        "해야 할 것 (what should be done)"
+        "행해야 할 것 (to be done)",
+        "적합한 것 (fit, suitable)",
+        "가치 있는 것 (valuable)"
       ],
-      "etymology": "√kar(하다)의 미래 수동 분사형",
-      "relatedTerms": ["kamma (업)", "kiriyā (행위)"],
-      "notes": "경전 제목 Karaṇīyametta의 첫 단어"
+      "etymology": "√kar(하다) + -anīya(해야 할 미래분사)에서 파생. '행해야 할 것', '적합한 것'의 의미"
     },
     {
-      "id": "w-yan",
-      "pali": "yaṃ",
-      "pronunciation": "얌",
-      "partOfSpeech": "대명사/관계사 (중성 단수 대격)",
-      "root": "√i (가다)",
+      "id": "w-sakka",
+      "pali": "sakkha",
+      "pronunciation": "삭카",
+      "partOfSpeech": "명사/형용사",
+      "root": "√saksh (능력, 권능)",
       "meanings": [
-        "~하는 것 (what)",
-        "그것 (that, which)"
+        "유능한 (capable)",
+        "권능자, 왕 (able)",
+        "능력 (power, ability)"
       ],
-      "etymology": "관계사",
-      "relatedTerms": [],
-      "notes": "복잡한 문장에서 앞의 내용을 가리키는 데 사용"
+      "etymology": "복합어: sak(할 수 있다) + kha(할 수 있다). 불교에서 '완벽한 능력(완전한 능력)'을 뜻하는 중요 개념"
     },
     {
-      "id": "w-tam",
-      "pali": "taṃ",
-      "pronunciation": "탐",
-      "partOfSpeech": "대명사 (중성 단수 대격)",
-      "root": "√tad (그것)",
+      "id": "w-uju",
+      "pali": "ujū",
+      "pronunciation": "우�",
+      "partOfSpeech": "형용사",
+      "root": "(복합어)",
       "meanings": [
-        "그것 (that, it)"
+        "곧은, 올바른 (straight)",
+        "정직한 (upright)",
+        "연속하는 (consistent)"
       ],
-      "etymology": "3인칭 대명사",
-      "relatedTerms": [],
-      "notes": "앞의 명사를 가리킴"
+      "etymology": "u(부정) + ju(곧다)의 복합. '곧바른', '정직한'의 의미"
+    },
+    {
+      "id": "w-subharo",
+      "pali": "suharū",
+      "pronunciation": "수하르",
+      "partOfSpeech": "형용사",
+      "root": "(복합어)",
+      "meanings": [
+        "좋은, 우아한 (good)",
+        "훌륭한 (fine)",
+        "우수한 (excellent)"
+      ],
+      "etymology": "su(좋은) + bharu(지탄/낙)의 복합"
     },
     {
       "id": "w-abhisamecca",
       "pali": "abhisamecca",
-      "pronunciation": "아비사멧챠",
-      "partOfSpeech": "동구 (제2원망법)",
-      "root": "abhi- (완전히) + √sam (이해하다) + ecca (복수혼합)",
+      "pronunciation": "아비사메쪠",
+      "partOfSpeech": "동사",
+      "root": "abhi- (향하여) + sam (함께) + ī (가지다) + ecca (이해하다)",
       "meanings": [
-        "완전히 이해하여",
-        "깊이 통찰하여"
+        "완전히 이해하다 (to understand completely)",
+        "깊이 깨닫다 (to realize thoroughly)",
+        "명백히 파악하다 (to comprehend clearly)"
       ],
-      "etymology": "복잡한 어형 변화",
-      "relatedTerms": ["abhiññā (통찰지)"],
-      "notes": "깊은 이해를 강조"
+      "etymology": "복합 전치사. abhi(완전히, 향하여) + sam(함께) + ī(가지다) + ecca(이해하다)의 조합"
     },
     {
-      "id": "w-sakka",
-      "pali": "sakko",
-      "pronunciation": "싹꼬",
-      "partOfSpeech": "형용사 (남성 단수 주격)",
-      "root": "√śak (할 수 있다)",
+      "id": "w-mudita",
+      "pali": "mudita",
+      "pronunciation": "무디따",
+      "partOfSpeech": "명사",
+      "root": "√mud (자만, 취한)",
       "meanings": [
-        "유능한 (capable)",
-        "할 수 있는 (able)"
+        "겸손한 (humble)",
+        "취한, 절제한 (modest)",
+        "자만한, 악한 (arrogant)의 반대말"
       ],
-      "etymology": "능력을 나타내는 형용사",
-      "relatedTerms": [],
-      "notes": "수행자의 첫 번째 자질"
-    },
-    {
-      "id": "w-uju",
-      "pali": "uju",
-      "pronunciation": "우주",
-      "partOfSpeech": "형용사",
-      "root": "√ñcu (곧게 하다)",
-      "meanings": [
-        "정직한 (honest)",
-        "곧은 (straight)"
-      ],
-      "etymology": "곧음을 의미",
-      "relatedTerms": [],
-      "notes": "도덕적 곧음"
-    },
-    {
-      "id": "w-suju",
-      "pali": "sūjū",
-      "pronunciation": "수주",
-      "partOfSpeech": "형용사",
-      "root": "su- (착하게) + √ñju (곧게 하다)",
-      "meanings": [
-        "올곧은 (upright)",
-        "정직한 (honest)"
-      ],
-      "etymology": "착하게 곧게",
-      "relatedTerms": [],
-      "notes": "도덕적 올바름"
-    },
-    {
-      "id": "w-suvaca",
-      "pali": "suvaco",
-      "pronunciation": "수바초",
-      "partOfSpeech": "형용사 (남성 단수 주격)",
-      "root": "su- (착하게) + √vac (말하다)",
-      "meanings": [
-        "말 잘 듣는 (easy to advise)",
-        "훈계를 잘 받는"
-      ],
-      "etymology": "말 잘 듣음",
-      "relatedTerms": [],
-      "notes": "겸손의 표현"
-    },
-    {
-      "id": "w-mudu",
-      "pali": "mudu",
-      "pronunciation": "무두",
-      "partOfSpeech": "형용사",
-      "root": "",
-      "meanings": [
-        "부드러운 (soft)",
-        "온화한 (gentle)"
-      ],
-      "etymology": "기본 어휘",
-      "relatedTerms": [],
-      "notes": "성품의 온화함"
+      "etymology": "√mud(자만) + -ita(형용사 접미사). '자만스러운 것' → '겸손한', '취한'의 의미로 발전"
     },
     {
       "id": "w-anatimani",
       "pali": "anatimānī",
       "pronunciation": "아나티마니",
-      "partOfSpeech": "형용사 (여성 단수 주격)",
-      "root": "a- (부정) + atimāna (거만한)",
+      "partOfSpeech": "형용사",
+      "root": "anatiman (자만, 교만한)",
       "meanings": [
-        "겸손한 (humble)",
-        "거만하지 않은 (not arrogant)"
+        "거만하지 않은 (not arrogant)",
+        "자만하지 않은 (not conceited)",
+        "교만하지 않은 (not haughty)"
       ],
-      "etymology": "거만함의 부정",
-      "relatedTerms": [],
-      "notes": "수행자의 덕목"
+      "etymology": "anatiman(자만하다) + -i(부정 접미사) + -anī(형용사 접미사). '자만하지 않은'의 의미"
+    },
+    {
+      "id": "w-sukhino",
+      "pali": "sukhino",
+      "pronunciation": "수키노",
+      "partOfSpeech": "명사 (남성 복수)",
+      "root": "sukhi (행복, 기쁨)",
+      "meanings": [
+        "행복한 (happy)",
+        "기쁨한 (blissful)",
+        "즐거운, 즐겨운 (joyful)"
+      ],
+      "etymology": "sukhi(행복) + -no(형용사 복수 접미사). 행복과 기쁨의 복수형"
     },
     {
       "id": "w-khemi",
-      "pali": "khemi",
-      "pronunciation": "케미",
-      "partOfSpeech": "형용사 (남성 복수 주격)",
-      "root": "√kham (고요하다)",
+      "pali": "khemino",
+      "pronunciation": "케미노",
+      "partOfSpeech": "형용사 (여성 복수)",
+      "root": "khema (평안)",
       "meanings": [
         "평안한 (peaceful)",
-        "안전한 (safe)"
+        "안전한, 무사함이 없는 (safe)",
+        "고요하고 평안한 (serene)"
       ],
-      "etymology": "고요함, 평안",
-      "relatedTerms": [],
-      "notes": "평안과 안전"
+      "etymology": "khema(평안) + -in(형용사 복수 접미사)"
     },
     {
-      "id": "w-hotu",
+      "id": "w-hontu",
       "pali": "hontu",
-      "pronunciation": "호투",
-      "partOfSpeech": "동사 (명령형)",
-      "root": "√bhū (되다)",
+      "pronunciation": "호누",
+      "partOfSpeech": "명사",
+      "root": "hoti (존재하다)",
       "meanings": [
-        "되게 하라 (let them be)",
-        "~하기를 (~hontu)"
+        "존재, 있다 (existence)",
+        "생명체 (being, creature)"
       ],
-      "etymology": "존재, 되다의 명령형",
-      "relatedTerms": [],
-      "notes": "축원문에서 흔히 쓰이는 표현"
-    },
-    {
-      "id": "w-bhavati",
-      "pali": "bhavantu",
-      "pronunciation": "바완투",
-      "partOfSpeech": "동사 (명령형, 복수)",
-      "root": "√bhū (되다)",
-      "meanings": [
-        "되게 하라 (let them be)"
-      ],
-      "etymology": "되다의 명령형 복수",
-      "relatedTerms": [],
-      "notes": "축원문"
-    },
-    {
-      "id": "w-sukhitatta",
-      "pali": "sukhitattā",
-      "pronunciation": "수히타따",
-      "partOfSpeech": "명사 (중성)",
-      "root": "sukhi (행복한) +atta (존재/상태)",
-      "meanings": [
-        "행복한 마음 (happy mind)",
-        "마음의 행복 (mental happiness)"
-      ],
-      "etymology": "행복 + 존재",
-      "relatedTerms": [],
-      "notes": "마음의 행복 상태"
-    },
-    {
-      "id": "w-yatha",
-      "pali": "yathā",
-      "pronunciation": "야타",
-      "partOfSpeech": "부사",
-      "root": "√yat (가다)",
-      "meanings": [
-        "마치 ~와 같이 (just as)",
-        "~인 대로 (as)",
-        "~처럼 (like)"
-      ],
-      "etymology": "비교 부사",
-      "relatedTerms": [],
-      "notes": "비유 표현"
-    },
-    {
-      "id": "w-niya",
-      "pali": "niyaṃ",
-      "pronunciation": "니얌",
-      "partOfSpeech": "명사 (중성)",
-      "root": "ni- (아래로) + √i (가다)",
-      "meanings": [
-        "끈기 있게 (firmly)",
-        "단단히 (strongly)"
-      ],
-      "etymology": "끈기 있음",
-      "relatedTerms": [],
-      "notes": "보호의 강도를 나타냄"
-    },
-    {
-      "id": "w-ayu",
-      "pali": "āyusā",
-      "pronunciation": "아유사",
-      "partOfSpeech": "명사 (여성 처격)",
-      "root": "āyu (목숨, 생명)",
-      "meanings": [
-        "목숨으로 (with life)",
-        "생명을 걸고 (risking life)"
-      ],
-      "etymology": "목숨, 생명",
-      "relatedTerms": [],
-      "notes": "자비의 깊이를 강조"
-    },
-    {
-      "id": "w-ekaputta",
-      "pali": "ekaputta",
-      "pronunciation": "에카뿟따",
-      "partOfSpeech": "형용사 (대격)",
-      "root": "eka (하나) + putta (아들)",
-      "meanings": [
-        "외아들을 (only son)",
-        "하나밖에 없는 아들을"
-      ],
-      "etymology": "하나 + 아들",
-      "relatedTerms": [],
-      "notes": "어머니의 사랑의 대상"
-    },
-    {
-      "id": "w-anurakkhati",
-      "pali": "anurakkhe",
-      "pronunciation": "아누라케",
-      "partOfSpeech": "동사 (원망법)",
-      "root": "anu- (따라서) + √rakkh (보호하다)",
-      "meanings": [
-        "보호하다 (protect)",
-        "지키다 (guard)"
-      ],
-      "etymology": "따라서 보호하다",
-      "relatedTerms": [],
-      "notes": "보호와 보살핌"
+      "etymology": "hoti(존재하다). 존재하는 것, 존재하는 자"
     }
   ]
 }

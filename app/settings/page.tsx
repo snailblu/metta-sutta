@@ -1,11 +1,29 @@
+'use client';
+
+import Link from 'next/link';
+import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import Link from 'next/link';
+import { useSettings, getFontSizeClass, type FontSize, type Theme, type DefaultView } from '@/store/settings';
 
 export default function SettingsPage() {
-  // TODO: useSettings 훅에서 현재 설정 가져오기
-  const currentFontSize = 'large';
-  const currentTheme = 'light';
+  const [mounted, setMounted] = useState(false);
+  const { fontSize, theme, defaultView, setFontSize, setTheme, setDefaultView } = useSettings();
+
+  const fontPreviewClass = getFontSizeClass(fontSize);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  // 테마 적용
+  useEffect(() => {
+    if (mounted) {
+      const root = document.documentElement;
+      root.classList.remove('light', 'dark');
+      root.classList.add(theme);
+    }
+  }, [mounted, theme]);
 
   return (
     <div className="min-h-screen bg-background">
@@ -26,20 +44,37 @@ export default function SettingsPage() {
               <CardTitle>글자 크기</CardTitle>
             </CardHeader>
             <CardContent className="space-y-3">
-              {['small', 'medium', 'large', 'xlarge'] as const).map((size) => (
+              {(['small', 'medium', 'large', 'xlarge'] as const).map((size) => (
                 <Button
                   key={size}
-                  variant={currentFontSize === size ? 'default' : 'outline'}
+                  variant={fontSize === size ? 'default' : 'outline'}
                   className="w-full justify-start"
-                  // onClick={() => updateFontSize(size)}
+                  onClick={() => setFontSize(size)}
                 >
                   {size === 'small' && '작게'}
                   {size === 'medium' && '보통'}
                   {size === 'large' && '크게'}
                   {size === 'xlarge' && '아주 크게'}
-                  {currentFontSize === size && ' ✓'}
+                  {fontSize === size && ' ✓'}
                 </Button>
               ))}
+            </CardContent>
+          </Card>
+
+          {/* 미리보기 */}
+          <Card>
+            <CardHeader>
+              <CardTitle>미리보기</CardTitle>
+            </CardHeader>
+            <CardContent>
+              <div className="bg-muted/30 rounded-lg p-4 space-y-2">
+                <p className={`${fontPreviewClass} text-primary`}>
+                  Karaṇīyam attha-kusalena
+                </p>
+                <p className={`${fontPreviewClass} text-foreground`}>
+                  선을 행하는 데 능숙한 자가
+                </p>
+              </div>
             </CardContent>
           </Card>
 
@@ -49,22 +84,17 @@ export default function SettingsPage() {
               <CardTitle>테마</CardTitle>
             </CardHeader>
             <CardContent className="space-y-3">
-              <Button
-                variant={currentTheme === 'light' ? 'default' : 'outline'}
-                className="w-full justify-start"
-                // onClick={() => updateTheme('light')}
-              >
-                밝은 모드
-                {currentTheme === 'light' && ' ✓'}
-              </Button>
-              <Button
-                variant={currentTheme === 'dark' ? 'default' : 'outline'}
-                className="w-full justify-start"
-                // onClick={() => updateTheme('dark')}
-              >
-                어두운 모드
-                {currentTheme === 'dark' && ' ✓'}
-              </Button>
+              {(['light', 'dark'] as const).map((t) => (
+                <Button
+                  key={t}
+                  variant={theme === t ? 'default' : 'outline'}
+                  className="w-full justify-start"
+                  onClick={() => setTheme(t)}
+                >
+                  {t === 'light' ? '밝은 모드' : '어두운 모드'}
+                  {theme === t && ' ✓'}
+                </Button>
+              ))}
             </CardContent>
           </Card>
 
@@ -74,15 +104,19 @@ export default function SettingsPage() {
               <CardTitle>기본 표시</CardTitle>
             </CardHeader>
             <CardContent className="space-y-3">
-              <Button variant="outline" className="w-full justify-start">
-                팔리어만
-              </Button>
-              <Button variant="outline" className="w-full justify-start">
-                번역만
-              </Button>
-              <Button variant="outline" className="w-full justify-start">
-                둘 다
-              </Button>
+              {(['pali', 'korean', 'both'] as const).map((view) => (
+                <Button
+                  key={view}
+                  variant={defaultView === view ? 'default' : 'outline'}
+                  className="w-full justify-start"
+                  onClick={() => setDefaultView(view)}
+                >
+                  {view === 'pali' && '팔리어만'}
+                  {view === 'korean' && '번역만'}
+                  {view === 'both' && '둘 다'}
+                  {defaultView === view && ' ✓'}
+                </Button>
+              ))}
             </CardContent>
           </Card>
         </div>

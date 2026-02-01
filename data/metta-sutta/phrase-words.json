@@ -2,275 +2,83 @@
   "phraseWords": [
     {
       "phraseId": "p1-1",
-      "wordId": "w-karaniya",
-      "position": 1,
-      "form": "karaṇīyam",
-      "grammar": "동사적 형용사, 중성 단수 주격",
-      "contextMeaning": "행해야 할 것, 해야 할 일"
-    },
-    {
-      "phraseId": "p1-1",
-      "wordId": "w-attha",
-      "position": 2,
-      "form": "attha-",
-      "grammar": "복합어의 전분(前分)",
-      "contextMeaning": "이익, 목적 (여기서는 '진정한 이익/수행의 목적')"
-    },
-    {
-      "phraseId": "p1-1",
-      "wordId": "w-kusala",
-      "position": 3,
-      "form": "kusalena",
-      "grammar": "형용사의 명사적 용법, 남성 단수 도구격",
-      "contextMeaning": "능숙한 자에 의해, ~에 숙달된 자가"
+      "wordIds": ["w-karaniya", "w-attha", "w-kusala"]
     },
     {
       "phraseId": "p1-2",
-      "wordId": "w-yan",
-      "position": 1,
-      "form": "yan",
-      "grammar": "대명사, 중성 단수 주격",
-      "contextMeaning": "~하는 것, 그것을"
-    },
-    {
-      "phraseId": "p1-2",
-      "wordId": "w-tam",
-      "position": 2,
-      "form": "taṃ",
-      "grammar": "대명사, 중성 단수 대격",
-      "contextMeaning": "그것을, 경지를"
-    },
-    {
-      "phraseId": "p1-2",
-      "wordId": "w-santa",
-      "position": 3,
-      "form": "santaṃ",
-      "grammar": "형용사, 중성 단수 대격",
-      "contextMeaning": "평화로운, 고요한 (열반을 가리킴)"
-    },
-    {
-      "phraseId": "p1-2",
-      "wordId": "w-pada",
-      "position": 4,
-      "form": "padaṃ",
-      "grammar": "명사, 중성 단수 대격",
-      "contextMeaning": "경지를, 상태를"
-    },
-    {
-      "phraseId": "p1-2",
-      "wordId": "w-abhisamecca",
-      "position": 5,
-      "form": "abhisamecca",
-      "grammar": "동구, 제2원망법 복수혼합",
-      "contextMeaning": "완전히 이해하여, 깊이 통찰하여"
+      "wordIds": ["w-yan", "w-tam", "w-santam", "w-padam", "w-abhisamecca"]
     },
     {
       "phraseId": "p2-1",
-      "wordId": "w-sakka",
-      "position": 1,
-      "form": "Sakko",
-      "grammar": "형용사, 남성 단수 주격",
-      "contextMeaning": "유능한, 할 수 있는 (수행 능력)"
-    },
-    {
-      "phraseId": "p2-1",
-      "wordId": "w-uju",
-      "position": 2,
-      "form": "ujū",
-      "grammar": "형용사, 남성/중성 복수 주격",
-      "contextMeaning": "곧은, 올바른 (도덕적 곧음)"
-    },
-    {
-      "phraseId": "p2-1",
-      "wordId": "w-suju",
-      "position": 3,
-      "form": "sūjū",
-      "grammar": "형용사, 남성/중성 복수 주격",
-      "contextMeaning": "올곧은, 올바른"
+      "wordIds": ["w-sakka", "w-uju", "w-suju"]
     },
     {
       "phraseId": "p2-2",
-      "wordId": "w-suvaca",
-      "position": 1,
-      "form": "suvaco",
-      "grammar": "형용사, 남성 단수 주격",
-      "contextMeaning": "말 잘 듣는, 가르침 잘 받는"
+      "wordIds": ["w-suvaco", "w-cassa", "w-mudu", "w-anatimani"]
     },
     {
-      "phraseId": "p2-2",
-      "wordId": "w-mudu",
-      "position": 2,
-      "form": "mudu",
-      "grammar": "형용사, 남성 단수 주격",
-      "contextMeaning": "부드러운, 온화한"
+      "phraseId": "p3-1",
+      "wordIds": ["w-santussako", "w-subharo", "w-appakicco", "w-sallahukavutti", "w-santindriyo", "w-nipako", "w-appagabbho"]
     },
     {
-      "phraseId": "p2-2",
-      "wordId": "w-anatimani",
-      "position": 3,
-      "form": "anatimānī",
-      "grammar": "형용사, 여성 단수 주격",
-      "contextMeaning": "겸손한, 거만하지 않은"
+      "phraseId": "p3-2",
+      "wordIds": ["w-santussako", "w-appakicco", "w-sallahukavutti", "w-santindriyo", "w-nipako"]
+    },
+    {
+      "phraseId": "p4-1",
+      "wordIds": ["w-sukhino", "w-khemi", "w-hotu"]
+    },
+    {
+      "phraseId": "p4-2",
+      "wordIds": ["w-sabba", "w-satta", "w-bhavantu", "w-sukhitatta"]
     },
     {
       "phraseId": "p5-1",
-      "wordId": "w-sukhi",
-      "position": 1,
-      "form": "sukhino",
-      "grammar": "형용사, 남성 복수 주격",
-      "contextMeaning": "행복한 (존재들이)"
-    },
-    {
-      "phraseId": "p5-1",
-      "wordId": "w-khemi",
-      "position": 2,
-      "form": "khemino",
-      "grammar": "형용사, 남성 복수 주격",
-      "contextMeaning": "평안한, 안전한"
-    },
-    {
-      "phraseId": "p5-1",
-      "wordId": "w-hotu",
-      "position": 3,
-      "form": "hontu",
-      "grammar": "동사, 명령형 복수",
-      "contextMeaning": "되게 하라, ~하기를"
+      "wordIds": ["w-sukhi", "w-khemi", "w-hotu", "w-sabba", "w-satta"]
     },
     {
       "phraseId": "p5-2",
-      "wordId": "w-sabba",
-      "position": 1,
-      "form": "sabbe",
-      "grammar": "형용사, 남성 복수 주격",
-      "contextMeaning": "모든"
+      "wordIds": ["w-ye", "w-keci", "w-pana", "w-bhuta", "w-sattā"]
     },
     {
-      "phraseId": "p5-2",
-      "wordId": "w-satta",
-      "position": 2,
-      "form": "sattā",
-      "grammar": "명사, 남성 복수 주격",
-      "contextMeaning": "존재들, 중생들"
+      "phraseId": "p6-1",
+      "wordIds": ["w-ye", "w-keci", "w-pana", "w-bhuta", "w-sattā"]
     },
     {
-      "phraseId": "p5-2",
-      "wordId": "w-bhavati",
-      "position": 3,
-      "form": "bhavantu",
-      "grammar": "동사, 명령형 복수",
-      "contextMeaning": "되게 하라, ~하기를"
+      "phraseId": "p6-2",
+      "wordIds": ["w-tasā", "w-thāvarā", "w-dīghā", "w-vā", "w-ye", "w-mahantā", "w-rassakā", "w-aṇukathūlā"]
     },
     {
-      "phraseId": "p5-2",
-      "wordId": "w-sukhitatta",
-      "position": 4,
-      "form": "sukhitattā",
-      "grammar": "명사, 중성 처격",
-      "contextMeaning": "마음으로 행복하기를"
+      "phraseId": "p7-1",
+      "wordIds": ["w-diṭḥā", "w-ye", "w-ca", "w-dūre", "w-vasanti", "w-avidūre", "w-bhūtā"]
+    },
+    {
+      "phraseId": "p7-2",
+      "wordIds": ["w-ye", "w-ca", "w-dūre", "w-vasanti", "w-avidūre", "w-bhūtā", "w-sambhavesī"]
+    },
+    {
+      "phraseId": "p8-1",
+      "wordIds": ["w-na", "w-paro", "w-param", "w-nikañci"]
+    },
+    {
+      "phraseId": "p8-2",
+      "wordIds": ["w-mata", "w-yatha", "w-niya", "w-putta", "w-anurakkhe"]
     },
     {
       "phraseId": "p9-1",
-      "wordId": "w-mata",
-      "position": 1,
-      "form": "Mātā",
-      "grammar": "명사, 여성 단수 주격",
-      "contextMeaning": "어머니"
-    },
-    {
-      "phraseId": "p9-1",
-      "wordId": "w-yatha",
-      "position": 2,
-      "form": "yathā",
-      "grammar": "부사",
-      "contextMeaning": "마치 ~처럼, ~와 같이"
-    },
-    {
-      "phraseId": "p9-1",
-      "wordId": "w-niya",
-      "position": 3,
-      "form": "niyaṃ",
-      "grammar": "명사, 중성 단수 대격",
-      "contextMeaning": "끈기 있게, 단단히"
-    },
-    {
-      "phraseId": "p9-1",
-      "wordId": "w-putta",
-      "position": 4,
-      "form": "puttaṃ",
-      "grammar": "명사, 남성 단수 대격",
-      "contextMeaning": "아들을"
+      "wordIds": ["w-metta", "w-sabbaloka"]
     },
     {
       "phraseId": "p9-2",
-      "wordId": "w-ayu",
-      "position": 1,
-      "form": "āyusā",
-      "grammar": "명사, 여성 도구격",
-      "contextMeaning": "목숨을, 생명을 걸고"
-    },
-    {
-      "phraseId": "p9-2",
-      "wordId": "w-ekaputta",
-      "position": 2,
-      "form": "ekaputta-",
-      "grammar": "형용사, 대격 전분",
-      "contextMeaning": "외아들을"
-    },
-    {
-      "phraseId": "p9-2",
-      "wordId": "w-anurakkhati",
-      "position": 3,
-      "form": "anurakkhe",
-      "grammar": "동사, 원망법 3인칭 단수",
-      "contextMeaning": "보호하다, 지키다"
+      "wordIds": ["w-manasa", "w-bhavaye", "w-aparimāna"]
     },
     {
       "phraseId": "p10-1",
-      "wordId": "w-metta",
-      "position": 1,
-      "form": "Mettañca",
-      "grammar": "명사, 여성 단수 대격 + ca (그리고)",
-      "contextMeaning": "자비를 (그리고)"
-    },
-    {
-      "phraseId": "p10-1",
-      "wordId": "w-sabba",
-      "position": 2,
-      "form": "sabba-",
-      "grammar": "형용사, 복합어 전분",
-      "contextMeaning": "모든, 온"
-    },
-    {
-      "phraseId": "p10-1",
-      "wordId": "w-loka",
-      "position": 3,
-      "form": "lokasmiṃ",
-      "grammar": "명사, 남성 단수 처격",
-      "contextMeaning": "세상에서, 세계 안에서"
+      "wordIds": ["w-metta", "w-sabbaloka"]
     },
     {
       "phraseId": "p10-2",
-      "wordId": "w-manasa",
-      "position": 1,
-      "form": "mānasaṃ",
-      "grammar": "명사, 중성 단수 대격",
-      "contextMeaning": "마음을"
-    },
-    {
-      "phraseId": "p10-2",
-      "wordId": "w-bhaveti",
-      "position": 2,
-      "form": "bhāvaye",
-      "grammar": "동사, 원망법 3인칭 단수",
-      "contextMeaning": "닦아야 하리, 수행해야 하리"
-    },
-    {
-      "phraseId": "p10-2",
-      "wordId": "w-aparimana",
-      "position": 3,
-      "form": "aparimāṇaṃ",
-      "grammar": "형용사, 중성 단수 대격",
-      "contextMeaning": "무한한, 한량없는"
+      "wordIds": ["w-uddham", "w-adho", "w-ca", "w-tiriyañca", "w-asambādha", "w-avera", "w-sapatta", "w-aparimāṇ"]
     }
   ]
 }

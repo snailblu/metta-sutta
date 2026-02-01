@@ -6,7 +6,7 @@
       "order": 1,
       "paliText": "Karaṇīyam atthakusalena",
       "koreanTranslation": "선을 행하는 데 능숙한 자가",
-      "wordIds": ["w-karaniya", "w-attha", "w-kusala"]
+      "wordIds": ["w-karaniya", "w-attha", "w-kusalena"]
     },
     {
       "id": "p1-2",
@@ -14,7 +14,7 @@
       "order": 2,
       "paliText": "yan taṃ santaṃ padaṃ abhisamecca",
       "koreanTranslation": "평화로운 경지를 얻고자 한다면",
-      "wordIds": ["w-yan", "w-tam", "w-santa", "w-pada", "w-abhisamecca"]
+      "wordIds": ["w-yan", "w-tam", "w-santam", "w-padam", "w-abhisamecca"]
     },
     {
       "id": "p2-1",
@@ -30,7 +30,47 @@
       "order": 2,
       "paliText": "suvaco cassa mudu anatimānī",
       "koreanTranslation": "말 잘 듣고 부드럽고 겸손해야 하리",
-      "wordIds": ["w-suvaca", "w-mudu", "w-anatimani"]
+      "wordIds": ["w-suvaco", "w-cassa", "w-mudu", "w-anatimani"]
+    },
+    {
+      "id": "p3-1",
+      "verseId": "v3",
+      "order": 1,
+      "paliText": "Santussako ca subharo ca",
+      "koreanTranslation": "만족할 줄 알고 부양하기 쉬우며",
+      "wordIds": ["w-santussako", "w-subharo", "w-ca"]
+    },
+    {
+      "id": "p3-2",
+      "verseId": "v3",
+      "order": 2,
+      "paliText": "appakicco ca sallahukavutti",
+      "koreanTranslation": "할 일 적고 생활이 단순하며",
+      "wordIds": ["w-appakicco", "w-sallahukavutti"]
+    },
+    {
+      "id": "p3-3",
+      "verseId": "v3",
+      "order": 3,
+      "paliText": "santindriyo ca nipako ca",
+      "koreanTranslation": "감각이 고요하고 현명하며",
+      "wordIds": ["w-santindriyo", "w-nipako", "w-ca"]
+    },
+    {
+      "id": "p3-4",
+      "verseId": "v3",
+      "order": 4,
+      "paliText": "appagabbho kulesu ananugiddho",
+      "koreanTranslation": "거만하지 않고 가정에 집착하지 않아야 하리",
+      "wordIds": ["w-appagabbho", "w-kulesu", "w-ananugiddho"]
+    },
+    {
+      "id": "p4-1",
+      "verseId": "v4",
+      "order": 1,
+      "paliText": "Na ca khuddaṃ samācare kiñci",
+      "koreanTranslation": "현명한 자들이 비난할 어떤 사소한 잘못도 저지르지 말라",
+      "wordIds": ["w-na", "w-ca", "w-kuddam", "w-samacare", "wa-kinci"]
     },
     {
       "id": "p5-1",
@@ -38,7 +78,7 @@
       "order": 1,
       "paliText": "Sukhino vā khemino hontu",
       "koreanTranslation": "모든 존재가 행복하고 평안하기를",
-      "wordIds": ["w-sukhi", "w-khemi", "w-hotu"]
+      "wordIds": ["w-sukhino", "w-khemino", "w-hontu"]
     },
     {
       "id": "p5-2",
@@ -46,39 +86,71 @@
       "order": 2,
       "paliText": "sabbe sattā bhavantu sukhitattā",
       "koreanTranslation": "모든 존재가 마음으로 행복하기를",
-      "wordIds": ["w-sabba", "w-satta", "w-bhavati", "w-sukhitatta"]
+      "wordIds": ["w-sabba", "w-satta", "w-bhavantu", "w-sukhitatta"]
+    },
+    {
+      "id": "p6-1",
+      "verseId": "v6",
+      "order": 1,
+      "paliText": "Ye keci pāṇabhūtatthi tasā vā thāvarā vā anavasesā dīghā vā ye mahantā vā majjhimā rassakā aṇukathūlā",
+      "koreanTranslation": "어떤 생명이든 존재하는 것들 두려워하는 것이든 두려워하지 않는 것이든",
+      "wordIds": ["w-ye", "w-keci", "w-panabhutthi", "w-tasa", "w-thavara"]
+    },
+    {
+      "id": "p7-1",
+      "verseId": "v7",
+      "order": 1,
+      "paliText": "Diṭṭhā vā ye ca adiṭṭhā ye ca dūre vasanti avidūre bhūtā vā sambhavesī vā",
+      "koreanTranslation": "보이는 것이든 보이지 않는 것이든 멀리 사는 것이든",
+      "wordIds": ["w-ditta", "w-adi-tta", "w-avidure", "w-dure", "w-vasanti"]
+    },
+    {
+      "id": "p8-1",
+      "verseId": "v8",
+      "order": 1,
+      "paliText": "Na paro paraṃ paraṃ nikubbetha nātimaññetha katthaci naṃ kiñci byārosanā paṭighasaññā nāññamaññassa dukkhamiccheyya",
+      "koreanTranslation": "어느 누구도 다른 이를 속이지 말고 어디서든 누구도 업신여기지 말라",
+      "wordIds": ["w-na", "w-paro", "w-param", "w-nikubbetha", "w-natimanjetha", "w-katthaci"]
+    },
+    {
+      "id": "p8-2",
+      "verseId": "v8",
+      "order": 2,
+      "paliText": "Mātā yathā niyaṃ puttaṃ āyusā ekaputtamanurakkhe",
+      "koreanTranslation": "어머니가 자신의 아들을 목숨을 걸고 외아들을 보호하듯",
+      "wordIds": ["w-mata", "w-yatha", "w-niya", "w-puttam", "w-ayusa", "w-ekaputta", "w-anurakkhe"]
     },
     {
       "id": "p9-1",
       "verseId": "v9",
       "order": 1,
-      "paliText": "Mātā yathā niyaṃ puttaṃ",
-      "koreanTranslation": "마치 어머니가 자신의 아들을",
-      "wordIds": ["w-mata", "w-yatha", "w-niya", "w-putta"]
+      "paliText": "evampi mānasaṃ bhāvaye aparimāṇaṃ",
+      "koreanTranslation": "모든 존재에 대해 무한한 마음을 닦아야 하리",
+      "wordIds": ["w-evampi", "w-manasam", "w-bhavaye", "w-aparimana"]
     },
     {
       "id": "p9-2",
       "verseId": "v9",
       "order": 2,
-      "paliText": "āyusā ekaputtamanurakkhe",
-      "koreanTranslation": "목숨을 걸고 외아들을 보호하듯",
-      "wordIds": ["w-ayu", "w-ekaputta", "w-anurakkhati"]
+      "paliText": "Mettañca sabbalokasmiṃ mānasaṃ bhāvaye aparimāṇaṃ",
+      "koreanTranslation": "온 세상에 대한 자비로 무한한 마음을 닦아야 하리",
+      "wordIds": ["w-metta", "w-sabbaloka", "w-si", "w-manasam", "w-bhavaye", "w-aparimana"]
     },
     {
       "id": "p10-1",
       "verseId": "v10",
       "order": 1,
-      "paliText": "Mettañca sabbalokasmiṃ",
-      "koreanTranslation": "온 세상에 대한 자비로",
-      "wordIds": ["w-metta", "w-sabba", "w-loka"]
+      "paliText": "Mettañca sabbalokasmiṃ mānasaṃ bhāvaye aparimāṇaṃ",
+      "koreanTranslation": "온 세상에 대한 자비로 무한한 마음을 닦아야 하리",
+      "wordIds": ["w-metta", "w-sabbaloka", "w-si", "w-manasam", "w-bhavaye", "w-aparimana"]
     },
     {
       "id": "p10-2",
       "verseId": "v10",
       "order": 2,
-      "paliText": "mānasaṃ bhāvaye aparimāṇaṃ",
-      "koreanTranslation": "무한한 마음을 닦아야 하리",
-      "wordIds": ["w-manasa", "w-bhaveti", "w-aparimana"]
+      "paliText": "uddhaṃ adho ca tiriyañca asambādhaṃ averaṃ asapattaṃ",
+      "koreanTranslation": "위로 아래로 옆으로 장애 없이 원한도 적의 없이",
+      "wordIds": ["w-uddham", "w-adho", "w-tiriyamca", "w-asambadha", "w-avera", "w-asapatta"]
     }
   ]
 }
