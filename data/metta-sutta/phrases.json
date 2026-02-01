@@ -1,0 +1,84 @@
+{
+  "phrases": [
+    {
+      "id": "p1-1",
+      "verseId": "v1",
+      "order": 1,
+      "paliText": "Karaṇīyam atthakusalena",
+      "koreanTranslation": "선을 행하는 데 능숙한 자가",
+      "wordIds": ["w-karaniya", "w-attha", "w-kusala"]
+    },
+    {
+      "id": "p1-2",
+      "verseId": "v1",
+      "order": 2,
+      "paliText": "yan taṃ santaṃ padaṃ abhisamecca",
+      "koreanTranslation": "평화로운 경지를 얻고자 한다면",
+      "wordIds": ["w-yan", "w-tam", "w-santa", "w-pada", "w-abhisamecca"]
+    },
+    {
+      "id": "p2-1",
+      "verseId": "v2",
+      "order": 1,
+      "paliText": "Sakko ujū ca sūjū ca",
+      "koreanTranslation": "유능하고 정직하며 올곧고",
+      "wordIds": ["w-sakka", "w-uju", "w-suju"]
+    },
+    {
+      "id": "p2-2",
+      "verseId": "v2",
+      "order": 2,
+      "paliText": "suvaco cassa mudu anatimānī",
+      "koreanTranslation": "말 잘 듣고 부드럽고 겸손해야 하리",
+      "wordIds": ["w-suvaca", "w-mudu", "w-anatimani"]
+    },
+    {
+      "id": "p5-1",
+      "verseId": "v5",
+      "order": 1,
+      "paliText": "Sukhino vā khemino hontu",
+      "koreanTranslation": "모든 존재가 행복하고 평안하기를",
+      "wordIds": ["w-sukhi", "w-khemi", "w-hotu"]
+    },
+    {
+      "id": "p5-2",
+      "verseId": "v5",
+      "order": 2,
+      "paliText": "sabbe sattā bhavantu sukhitattā",
+      "koreanTranslation": "모든 존재가 마음으로 행복하기를",
+      "wordIds": ["w-sabba", "w-satta", "w-bhavati", "w-sukhitatta"]
+    },
+    {
+      "id": "p9-1",
+      "verseId": "v9",
+      "order": 1,
+      "paliText": "Mātā yathā niyaṃ puttaṃ",
+      "koreanTranslation": "마치 어머니가 자신의 아들을",
+      "wordIds": ["w-mata", "w-yatha", "w-niya", "w-putta"]
+    },
+    {
+      "id": "p9-2",
+      "verseId": "v9",
+      "order": 2,
+      "paliText": "āyusā ekaputtamanurakkhe",
+      "koreanTranslation": "목숨을 걸고 외아들을 보호하듯",
+      "wordIds": ["w-ayu", "w-ekaputta", "w-anurakkhati"]
+    },
+    {
+      "id": "p10-1",
+      "verseId": "v10",
+      "order": 1,
+      "paliText": "Mettañca sabbalokasmiṃ",
+      "koreanTranslation": "온 세상에 대한 자비로",
+      "wordIds": ["w-metta", "w-sabba", "w-loka"]
+    },
+    {
+      "id": "p10-2",
+      "verseId": "v10",
+      "order": 2,
+      "paliText": "mānasaṃ bhāvaye aparimāṇaṃ",
+      "koreanTranslation": "무한한 마음을 닦아야 하리",
+      "wordIds": ["w-manasa", "w-bhaveti", "w-aparimana"]
+    }
+  ]
+}
