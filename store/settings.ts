@@ -4,6 +4,7 @@ import { persist, createJSONStorage } from 'zustand/middleware';
 export type FontSize = 'small' | 'medium' | 'large' | 'xlarge';
 export type Theme = 'light' | 'dark';
 export type DefaultView = 'pali' | 'korean' | 'both';
+export type TranslationVersion = 'default' | 'daelim' | 'mahavihara';
 
 export interface LastPosition {
   suttaId: string;
@@ -14,12 +15,14 @@ interface SettingsState {
   fontSize: FontSize;
   theme: Theme;
   defaultView: DefaultView;
+  translationVersion: TranslationVersion;
   lastPosition: LastPosition | null;
   onboardingCompleted: boolean;
 
   setFontSize: (size: FontSize) => void;
   setTheme: (theme: Theme) => void;
   setDefaultView: (view: DefaultView) => void;
+  setTranslationVersion: (version: TranslationVersion) => void;
   setLastPosition: (position: LastPosition) => void;
   completeOnboarding: () => void;
 }
@@ -30,12 +33,14 @@ export const useSettings = create<SettingsState>()(
       fontSize: 'large', // 76세 사용자 기본값
       theme: 'light',
       defaultView: 'both',
+      translationVersion: 'default',
       lastPosition: null,
       onboardingCompleted: false,
 
       setFontSize: (size) => set({ fontSize: size }),
       setTheme: (theme) => set({ theme }),
       setDefaultView: (view) => set({ defaultView: view }),
+      setTranslationVersion: (version) => set({ translationVersion: version }),
       setLastPosition: (position) => set({ lastPosition: position }),
       completeOnboarding: () => set({ onboardingCompleted: true }),
     }),

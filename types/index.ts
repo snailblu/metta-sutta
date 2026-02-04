@@ -12,7 +12,12 @@ export interface Verse {
   id: string;
   number: number;
   paliText: string;
-  koreanTranslation: string;
+  translations: {
+    default: string;
+    daelim: string;
+    mahavihara: string;
+  };
+  source?: string;
 }
 
 export interface Phrase {

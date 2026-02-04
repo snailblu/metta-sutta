@@ -7,11 +7,13 @@ import { PhraseDetail } from '@/components/sutta/PhraseDetail';
 import { ProgressBar } from '@/components/sutta/ProgressBar';
 import { useProgress } from '@/lib/db/hooks';
 import { getVerse, getPhrasesForVerse } from '@/data';
+import { useSettings } from '@/store/settings';
 
 export default function SuttaPage() {
   const params = useParams();
   const router = useRouter();
   const verseId = params.verseId as string;
+  const { translationVersion } = useSettings();
 
   const [selectedPhraseId, setSelectedPhraseId] = useState<string | null>(null);
   
@@ -20,13 +22,13 @@ export default function SuttaPage() {
 
   const verse = getVerse(verseId);
   const phrases = getPhrasesForVerse(verseId);
-  const totalVerses = 10;
+  const totalVerses = 12;
 
   useEffect(() => {
     if (verse) {
       saveProgress(verse.number);
     }
-  }, [verseId, saveProgress]);
+  }, [verseId, saveProgress, verse]);
 
   if (!verse) {
     return (
@@ -48,6 +50,8 @@ export default function SuttaPage() {
   };
 
   const completedCount = progress?.completedVerses?.length || 0;
+
+  const currentTranslation = verse.translations[translationVersion] || verse.translations.default;
 
   return (
     <div className="min-h-screen bg-background flex flex-col">
@@ -77,9 +81,14 @@ export default function SuttaPage() {
         <div className="max-w-3xl mx-auto p-4 space-y-6 pb-24">
           {/* 게송 번호 */}
           <div className="text-center mb-8">
-            <h2 className="text-2xl font-bold text-primary mb-2">
+            <h2 className="text-2xl font-bold text-primary mb-1">
               제 {verse.number} 게송
             </h2>
+            {verse.source && (
+              <p className="text-xs text-muted-foreground mb-2">
+                {verse.source}
+              </p>
+            )}
             <p className="text-sm text-muted-foreground">
               {verse.number === 1 && '수행자의 자질'}
               {verse.number === 2 && '수행자의 태도'}
@@ -91,6 +100,8 @@ export default function SuttaPage() {
               {verse.number === 8 && '어머니의 자비'}
               {verse.number === 9 && '어머니의 자비 (비유)'}
               {verse.number === 10 && '자비의 완성'}
+              {verse.number === 11 && '수행의 일상화'}
+              {verse.number === 12 && '열반의 성취'}
             </p>
           </div>
 
@@ -106,11 +117,18 @@ export default function SuttaPage() {
 
           {/* 한국어 번역 */}
           <div className="bg-card border rounded-lg p-6 mb-8">
-            <h3 className="text-lg font-bold text-foreground mb-4">
-              📖 한국어 번역
-            </h3>
+            <div className="flex justify-between items-center mb-4">
+              <h3 className="text-lg font-bold text-foreground">
+                📖 한국어 번역
+              </h3>
+              <span className="text-xs text-muted-foreground">
+                {translationVersion === 'default' && '표준 번역'}
+                {translationVersion === 'daelim' && '대림스님 번역'}
+                {translationVersion === 'mahavihara' && '마하위하라 번역'}
+              </span>
+            </div>
             <p className="text-xl text-foreground leading-relaxed">
-              {verse.koreanTranslation}
+              {currentTranslation || verse.translations.default}
             </p>
           </div>
 

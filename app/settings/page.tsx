@@ -8,7 +8,16 @@ import { useSettings, getFontSizeClass, type FontSize, type Theme, type DefaultV
 
 export default function SettingsPage() {
   const [mounted, setMounted] = useState(false);
-  const { fontSize, theme, defaultView, setFontSize, setTheme, setDefaultView } = useSettings();
+  const { 
+    fontSize, 
+    theme, 
+    defaultView, 
+    translationVersion,
+    setFontSize, 
+    setTheme, 
+    setDefaultView,
+    setTranslationVersion 
+  } = useSettings();
 
   const fontPreviewClass = getFontSizeClass(fontSize);
 
@@ -115,6 +124,28 @@ export default function SettingsPage() {
                   {view === 'korean' && '번역만'}
                   {view === 'both' && '둘 다'}
                   {defaultView === view && ' ✓'}
+                </Button>
+              ))}
+            </CardContent>
+          </Card>
+
+          {/* 번역 버전 */}
+          <Card>
+            <CardHeader>
+              <CardTitle>번역 버전</CardTitle>
+            </CardHeader>
+            <CardContent className="space-y-3">
+              {(['default', 'daelim', 'mahavihara'] as const).map((version) => (
+                <Button
+                  key={version}
+                  variant={translationVersion === version ? 'default' : 'outline'}
+                  className="w-full justify-start"
+                  onClick={() => setTranslationVersion(version)}
+                >
+                  {version === 'default' && '표준 번역'}
+                  {version === 'daelim' && '대림스님 번역'}
+                  {version === 'mahavihara' && '마하위하라 번역'}
+                  {translationVersion === version && ' ✓'}
                 </Button>
               ))}
             </CardContent>
