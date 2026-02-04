@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { Button } from '@/components/ui/button';
-import { X } from 'lucide-react';
+import { X, Brain, FileText } from 'lucide-react';
 import { WordList } from './WordList';
 import { AiExplanation } from '@/components/ai/AiExplanation';
 import { NoteEditor } from '@/components/notes/NoteEditor';
@@ -78,7 +78,7 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
               onClick={() => setShowAi(true)}
               className="flex items-center gap-3 p-4 bg-primary/10 hover:bg-primary/20 rounded-lg text-left transition-colors"
             >
-              <span className="text-2xl">🤖</span>
+              <Brain className="w-8 h-8 text-primary" />
               <div className="flex-1">
                 <p className="font-medium text-foreground">AI 해설 보기</p>
                 <p className="text-sm text-muted-foreground">문맥 번역 + 수행적 의미</p>
@@ -88,7 +88,7 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
               onClick={() => setShowNote(true)}
               className="flex items-center gap-3 p-4 bg-muted hover:bg-muted/80 rounded-lg text-left transition-colors"
             >
-              <span className="text-2xl">📝</span>
+              <FileText className="w-8 h-8 text-muted-foreground" />
               <div className="flex-1">
                 <p className="font-medium text-foreground">메모 추가</p>
                 <p className="text-sm text-muted-foreground">나만의 정리</p>

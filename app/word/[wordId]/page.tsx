@@ -10,6 +10,7 @@ import { useSettings, getFontSizeClass } from '@/store/settings';
 import { useNotes } from '@/lib/db/hooks';
 import { getWord } from '@/data';
 import { useSearchParams } from 'next/navigation';
+import { ArrowLeft, FileText } from 'lucide-react';
 
 export default function WordPage() {
   const router = useRouter();
@@ -61,7 +62,7 @@ export default function WordPage() {
       {/* 헤더 */}
       <header className="sticky top-0 bg-background/95 backdrop-blur border-b border-border p-4 z-10">
         <Button variant="ghost" onClick={handleBack} className="flex items-center gap-2">
-          ← 뒤로
+          <ArrowLeft className="w-4 h-4" /> 뒤로
         </Button>
       </header>
 
@@ -99,7 +100,10 @@ export default function WordPage() {
           {/* 메모 섹션 */}
           <section className="space-y-4">
             <div className="flex items-center justify-between">
-              <h2 className="text-lg font-bold text-foreground">📝 내 메모</h2>
+              <div className="flex items-center gap-2">
+                <FileText className="w-5 h-5 text-primary" />
+                <h2 className="text-lg font-bold text-foreground">내 메모</h2>
+              </div>
               <Button variant="outline" size="sm" onClick={() => setShowNote(true)}>
                 {note ? '편집' : '+ 추가'}
               </Button>

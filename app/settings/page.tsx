@@ -5,6 +5,7 @@ import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { useSettings, getFontSizeClass } from '@/store/settings';
+import { ArrowLeft, Check } from 'lucide-react';
 
 export default function SettingsPage() {
   const [mounted, setMounted] = useState(false);
@@ -39,8 +40,10 @@ export default function SettingsPage() {
     <div className="min-h-screen bg-background">
       {/* 헤더 */}
       <header className="sticky top-0 bg-background/95 backdrop-blur border-b border-border p-4">
-        <Button variant="ghost" asChild>
-          <Link href="/">← 홈</Link>
+        <Button variant="ghost" asChild className="flex items-center gap-2">
+          <Link href="/">
+            <ArrowLeft className="w-4 h-4" /> 홈
+          </Link>
         </Button>
       </header>
 
@@ -65,7 +68,7 @@ export default function SettingsPage() {
                   {size === 'medium' && '보통'}
                   {size === 'large' && '크게'}
                   {size === 'xlarge' && '아주 크게'}
-                  {fontSize === size && ' ✓'}
+                  {fontSize === size && <Check className="ml-auto w-4 h-4" />}
                 </Button>
               ))}
             </CardContent>
@@ -102,7 +105,7 @@ export default function SettingsPage() {
                   onClick={() => setTheme(t)}
                 >
                   {t === 'light' ? '밝은 모드' : '어두운 모드'}
-                  {theme === t && ' ✓'}
+                  {theme === t && <Check className="ml-auto w-4 h-4" />}
                 </Button>
               ))}
             </CardContent>
@@ -124,7 +127,7 @@ export default function SettingsPage() {
                   {view === 'pali' && '팔리어만'}
                   {view === 'korean' && '번역만'}
                   {view === 'both' && '둘 다'}
-                  {defaultView === view && ' ✓'}
+                  {defaultView === view && <Check className="ml-auto w-4 h-4" />}
                 </Button>
               ))}
             </CardContent>
@@ -146,7 +149,7 @@ export default function SettingsPage() {
                   {version === 'default' && '표준 번역'}
                   {version === 'daelim' && '대림스님 번역'}
                   {version === 'mahavihara' && '마하위하라 번역'}
-                  {translationVersion === version && ' ✓'}
+                  {translationVersion === version && <Check className="ml-auto w-4 h-4" />}
                 </Button>
               ))}
             </CardContent>

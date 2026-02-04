@@ -8,6 +8,7 @@ import { ProgressBar } from '@/components/sutta/ProgressBar';
 import { useProgress } from '@/lib/db/hooks';
 import { getVerse, getPhrasesForVerse } from '@/data';
 import { useSettings } from '@/store/settings';
+import { Home, Settings, Book, Languages, FileText, ChevronLeft, ChevronRight } from 'lucide-react';
 
 export default function SuttaPage() {
   const params = useParams();
@@ -58,14 +59,14 @@ export default function SuttaPage() {
       {/* 헤더 */}
       <header className="sticky top-0 bg-background/95 backdrop-blur border-b border-border z-10">
         <div className="flex items-center justify-between px-4">
-          <Button variant="ghost" onClick={() => router.push('/')}>
-            ← 홈
+          <Button variant="ghost" onClick={() => router.push('/')} className="flex items-center gap-2">
+            <Home className="w-4 h-4" /> 홈
           </Button>
           <span className="text-sm text-muted-foreground">
             제 {verse.number} 게송
           </span>
-          <Button variant="ghost" onClick={() => router.push('/settings')}>
-            설정
+          <Button variant="ghost" onClick={() => router.push('/settings')} className="flex items-center gap-2">
+            <Settings className="w-4 h-4" /> 설정
           </Button>
         </div>
         
@@ -107,9 +108,12 @@ export default function SuttaPage() {
 
           {/* 팔리어 원문 */}
           <div className="bg-card border rounded-lg p-6 mb-8">
-            <h3 className="text-lg font-bold text-foreground mb-4">
-              🙏 팔리어 원문
-            </h3>
+            <div className="flex items-center gap-2 mb-4">
+              <Book className="w-5 h-5 text-primary" />
+              <h3 className="text-lg font-bold text-foreground">
+                팔리어 원문
+              </h3>
+            </div>
             <p className="text-xl text-primary leading-relaxed">
               {verse.paliText}
             </p>
@@ -118,9 +122,12 @@ export default function SuttaPage() {
           {/* 한국어 번역 */}
           <div className="bg-card border rounded-lg p-6 mb-8">
             <div className="flex justify-between items-center mb-4">
-              <h3 className="text-lg font-bold text-foreground">
-                📖 한국어 번역
-              </h3>
+              <div className="flex items-center gap-2">
+                <Languages className="w-5 h-5 text-primary" />
+                <h3 className="text-lg font-bold text-foreground">
+                  한국어 번역
+                </h3>
+              </div>
               <span className="text-xs text-muted-foreground">
                 {translationVersion === 'default' && '표준 번역'}
                 {translationVersion === 'daelim' && '대림스님 번역'}
@@ -134,9 +141,12 @@ export default function SuttaPage() {
 
           {/* 구절 목록 */}
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-foreground mb-4">
-              📝 구절 상세보기
-            </h3>
+            <div className="flex items-center gap-2 mb-4">
+              <FileText className="w-5 h-5 text-primary" />
+              <h3 className="text-lg font-bold text-foreground">
+                구절 상세보기
+              </h3>
+            </div>
             <div className="grid grid-cols-1 gap-4">
               {phrases.map((phrase) => (
                 <button
@@ -172,15 +182,17 @@ export default function SuttaPage() {
             disabled={verse.number === 1}
             variant="outline"
             size="lg"
+            className="flex items-center gap-2"
           >
-            ← 이전
+            <ChevronLeft className="w-4 h-4" /> 이전
           </Button>
           <Button
             onClick={() => navigateVerse('next')}
             disabled={verse.number === totalVerses}
             size="lg"
+            className="flex items-center gap-2"
           >
-            다음 →
+            다음 <ChevronRight className="w-4 h-4" />
           </Button>
         </div>
       </nav>

@@ -8,6 +8,7 @@ import { getPhrase, getWordsForPhrase } from '@/data';
 import { useSettings, getFontSizeClass } from '@/store/settings';
 import { NoteEditor } from '@/components/notes/NoteEditor';
 import { useNotes } from '@/lib/db/hooks';
+import { ArrowLeft, ChevronRight, FileText } from 'lucide-react';
 
 export default function PhrasePage() {
   const params = useParams();
@@ -48,8 +49,8 @@ export default function PhrasePage() {
     <div className="min-h-screen bg-background">
       {/* 헤더 */}
       <header className="sticky top-0 bg-background/95 backdrop-blur border-b border-border p-4 z-10">
-        <Button variant="ghost" onClick={() => router.back()}>
-          ← 뒤로
+        <Button variant="ghost" onClick={() => router.back()} className="flex items-center gap-2">
+          <ArrowLeft className="w-4 h-4" /> 뒤로
         </Button>
       </header>
 
@@ -89,8 +90,8 @@ export default function PhrasePage() {
                       {word.pronunciation}
                     </p>
                   </div>
-                  <div className="text-muted-foreground text-sm">
-                    →
+                  <div className="text-muted-foreground">
+                    <ChevronRight className="w-5 h-5" />
                   </div>
                 </div>
               </button>
@@ -100,7 +101,10 @@ export default function PhrasePage() {
           {/* 메모 섹션 */}
           <div className="space-y-4">
             <div className="flex items-center justify-between">
-              <h3 className="text-lg font-bold text-foreground">📝 내 메모</h3>
+              <div className="flex items-center gap-2">
+                <FileText className="w-5 h-5 text-primary" />
+                <h3 className="text-lg font-bold text-foreground">내 메모</h3>
+              </div>
               <Button variant="outline" size="sm" onClick={() => setShowNoteEditor(true)}>
                 {note ? '편집' : '+ 추가'}
               </Button>

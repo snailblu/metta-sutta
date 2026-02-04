@@ -1,4 +1,5 @@
 import { Word } from '@/types';
+import { Book, History, Link as LinkIcon } from 'lucide-react';
 
 interface Props {
   word: Word;
@@ -36,7 +37,10 @@ export function WordDetailCard({ word, onWordSelect }: Props) {
 
         {/* 사전적 의미 */}
         <div className="space-y-3">
-          <h4 className="text-sm font-medium text-foreground">📖 사전적 의미</h4>
+          <div className="flex items-center gap-2">
+            <Book className="w-4 h-4 text-primary" />
+            <h4 className="text-sm font-medium text-foreground">사전적 의미</h4>
+          </div>
           <div className="space-y-2">
             {word.meanings.map((meaning, i) => (
               <div key={i} className="flex gap-3 items-start">
@@ -52,7 +56,10 @@ export function WordDetailCard({ word, onWordSelect }: Props) {
         {/* 어원 */}
         {word.etymology && (
           <div className="space-y-3">
-            <h4 className="text-sm font-medium text-foreground">📚 어원</h4>
+            <div className="flex items-center gap-2">
+              <History className="w-4 h-4 text-primary" />
+              <h4 className="text-sm font-medium text-foreground">어원</h4>
+            </div>
             <div className="bg-muted/30 rounded-md p-4">
               <p className="text-base leading-relaxed">{word.etymology}</p>
             </div>
@@ -62,7 +69,10 @@ export function WordDetailCard({ word, onWordSelect }: Props) {
         {/* 관련 용어 */}
         {word.relatedTerms && word.relatedTerms.length > 0 && (
           <div className="space-y-3">
-            <h4 className="text-sm font-medium text-foreground">🔗 관련 용어</h4>
+            <div className="flex items-center gap-2">
+              <LinkIcon className="w-4 h-4 text-primary" />
+              <h4 className="text-sm font-medium text-foreground">관련 용어</h4>
+            </div>
             <div className="flex flex-wrap gap-2">
               {word.relatedTerms.map((term, i) => (
                 <span key={i} className="px-3 py-1.5 bg-muted rounded-full text-sm">
