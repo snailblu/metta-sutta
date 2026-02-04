@@ -18,7 +18,7 @@ export default function SuttaPage() {
   const [selectedPhraseId, setSelectedPhraseId] = useState<string | null>(null);
   
   // 진도 저장
-  const { progress, saveProgress } = useProgress('metta-sutta');
+  const { saveProgress } = useProgress('metta-sutta');
 
   const verse = getVerse(verseId);
   const phrases = getPhrasesForVerse(verseId);
@@ -49,7 +49,7 @@ export default function SuttaPage() {
     setSelectedPhraseId(phraseId);
   };
 
-  const completedCount = progress?.completedVerses?.length || 0;
+  // const completedCount = progress?.completedVerses?.length || 0;
 
   const currentTranslation = verse.translations[translationVersion] || verse.translations.default;
 

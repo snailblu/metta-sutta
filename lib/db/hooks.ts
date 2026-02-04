@@ -8,20 +8,20 @@ export function useNotes(targetType: 'phrase' | 'word', targetId: string) {
   const [saving, setSaving] = useState(false);
 
   useEffect(() => {
+    const loadNote = async () => {
+      setLoading(true);
+      try {
+        const data = await noteHelpers.get(targetType, targetId);
+        setNote(data?.content || null);
+      } catch (error) {
+        console.error('Failed to load note:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
     loadNote();
   }, [targetType, targetId]);
-
-  const loadNote = async () => {
-    setLoading(true);
-    try {
-      const data = await noteHelpers.get(targetType, targetId);
-      setNote(data?.content || null);
-    } catch (error) {
-      console.error('Failed to load note:', error);
-    } finally {
-      setLoading(false);
-    }
-  };
 
   const saveNote = async (content: string) => {
     setSaving(true);
@@ -88,25 +88,26 @@ export function useProgress(suttaId: string) {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
+    const loadProgress = async () => {
+      setLoading(true);
+      try {
+        const data = await progressHelpers.get(suttaId);
+        setProgress(data ?? null);
+      } catch (error) {
+        console.error('Failed to load progress:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
     loadProgress();
   }, [suttaId]);
-
-  const loadProgress = async () => {
-    setLoading(true);
-    try {
-      const data = await progressHelpers.get(suttaId);
-      setProgress(data ?? null);
-    } catch (error) {
-      console.error('Failed to load progress:', error);
-    } finally {
-      setLoading(false);
-    }
-  };
 
   const saveProgress = async (verseNumber: number) => {
     try {
       await progressHelpers.save(suttaId, verseNumber);
-      await loadProgress();
+      const data = await progressHelpers.get(suttaId);
+      setProgress(data ?? null);
     } catch (error) {
       console.error('Failed to save progress:', error);
       throw error;
@@ -116,7 +117,8 @@ export function useProgress(suttaId: string) {
   const markVerseCompleted = async (verseNumber: number) => {
     try {
       await progressHelpers.save(suttaId, verseNumber, [verseNumber]);
-      await loadProgress();
+      const data = await progressHelpers.get(suttaId);
+      setProgress(data ?? null);
     } catch (error) {
       console.error('Failed to mark verse completed:', error);
       throw error;

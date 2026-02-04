@@ -42,6 +42,7 @@ export function AiExplanation({ phraseId, onClose }: Props) {
     );
 
     if (explanation) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setResult({
         contextTranslation: explanation.context,
         practiceExplanation: explanation.practice,

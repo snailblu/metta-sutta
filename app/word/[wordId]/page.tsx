@@ -18,7 +18,7 @@ export default function WordPage() {
   const wordId = params.wordId as string;
   const fromPhraseId = searchParams.get('from');
 
-  const [selectedWordId, setSelectedWordId] = useState<string | null>(wordId);
+  // const [selectedWordId, setSelectedWordId] = useState<string | null>(wordId);
   const [showNote, setShowNote] = useState(false);
 
   const { fontSize } = useSettings();
@@ -35,12 +35,14 @@ export default function WordPage() {
     );
   }
 
+  /*
   const fontSizeClassSm = {
     small: 'text-base',
     medium: 'text-lg',
     large: 'text-xl',
     xlarge: 'text-2xl',
   }[fontSize] || 'text-lg';
+  */
 
   const handleBack = () => {
     if (fromPhraseId) {
@@ -50,8 +52,8 @@ export default function WordPage() {
     }
   };
 
-  const handleWordSelect = (newWordId: string) => {
-    setSelectedWordId(newWordId);
+  const handleWordSelect = () => {
+    // setSelectedWordId(_newWordId);
   };
 
   return (

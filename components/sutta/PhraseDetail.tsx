@@ -26,12 +26,14 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
 
   if (!phrase) return null;
 
+  /*
   const fontSizeClassSm = {
     small: 'text-base',
     medium: 'text-lg',
     large: 'text-xl',
     xlarge: 'text-2xl',
   }[fontSize] || 'text-lg';
+  */
 
   return (
     <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/50 backdrop-blur-sm p-4 sm:p-6">

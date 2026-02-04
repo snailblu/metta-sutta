@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
-import { X, Save } from 'lucide-react';
+import { X } from 'lucide-react';
 import { useNotes } from '@/lib/db/hooks';
 
 interface Props {

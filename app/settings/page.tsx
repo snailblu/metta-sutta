@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { useSettings, getFontSizeClass, type FontSize, type Theme, type DefaultView } from '@/store/settings';
+import { useSettings, getFontSizeClass } from '@/store/settings';
 
 export default function SettingsPage() {
   const [mounted, setMounted] = useState(false);
@@ -22,6 +22,7 @@ export default function SettingsPage() {
   const fontPreviewClass = getFontSizeClass(fontSize);
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setMounted(true);
   }, []);
 

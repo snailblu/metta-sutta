@@ -1,4 +1,4 @@
-import { Sutta, Verse, Phrase, Word, PhraseWord, VerseContext } from '@/types';
+import { Sutta, Verse, Phrase, Word, VerseContext } from '@/types';
 
 // 경전 정보
 export const sutta: Sutta = {
@@ -59,9 +59,13 @@ export function getPhraseWordIds(phraseId: string): string[] {
   return phraseWord?.wordIds ?? [];
 }
 
+interface VersesData {
+  verses: Verse[];
+}
+
 // 게송 데이터
 import versesData from './metta-sutta/verses.json';
-export const allVerses: Verse[] = (versesData as any).verses;
+export const allVerses: Verse[] = (versesData as VersesData).verses;
 
 export function getVerse(id: string): Verse | undefined {
   return allVerses.find((v) => v.id === id);
