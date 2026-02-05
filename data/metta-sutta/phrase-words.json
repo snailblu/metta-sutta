@@ -1,84 +1,88 @@
 {
   "phraseWords": [
-    {
-      "phraseId": "p1-1",
-      "wordIds": ["w-karaniya", "w-attha", "w-kusala"]
-    },
-    {
-      "phraseId": "p1-2",
-      "wordIds": ["w-yan", "w-tam", "w-santam", "w-padam", "w-abhisamecca"]
-    },
-    {
-      "phraseId": "p2-1",
-      "wordIds": ["w-sakka", "w-uju", "w-suju"]
-    },
-    {
-      "phraseId": "p2-2",
-      "wordIds": ["w-suvaco", "w-cassa", "w-mudu", "w-anatimani"]
-    },
-    {
-      "phraseId": "p3-1",
-      "wordIds": ["w-santussako", "w-subharo", "w-appakicco", "w-sallahukavutti", "w-santindriyo", "w-nipako", "w-appagabbho"]
-    },
-    {
-      "phraseId": "p3-2",
-      "wordIds": ["w-santussako", "w-appakicco", "w-sallahukavutti", "w-santindriyo", "w-nipako"]
-    },
-    {
-      "phraseId": "p4-1",
-      "wordIds": ["w-sukhino", "w-khemi", "w-hotu"]
-    },
-    {
-      "phraseId": "p4-2",
-      "wordIds": ["w-sabba", "w-satta", "w-bhavantu", "w-sukhitatta"]
-    },
-    {
-      "phraseId": "p5-1",
-      "wordIds": ["w-sukhi", "w-khemi", "w-hotu", "w-sabba", "w-satta"]
-    },
-    {
-      "phraseId": "p5-2",
-      "wordIds": ["w-ye", "w-keci", "w-pana", "w-bhuta", "w-sattā"]
-    },
-    {
-      "phraseId": "p6-1",
-      "wordIds": ["w-ye", "w-keci", "w-pana", "w-bhuta", "w-sattā"]
-    },
-    {
-      "phraseId": "p6-2",
-      "wordIds": ["w-tasā", "w-thāvarā", "w-dīghā", "w-vā", "w-ye", "w-mahantā", "w-rassakā", "w-aṇukathūlā"]
-    },
-    {
-      "phraseId": "p7-1",
-      "wordIds": ["w-diṭḥā", "w-ye", "w-ca", "w-dūre", "w-vasanti", "w-avidūre", "w-bhūtā"]
-    },
-    {
-      "phraseId": "p7-2",
-      "wordIds": ["w-ye", "w-ca", "w-dūre", "w-vasanti", "w-avidūre", "w-bhūtā", "w-sambhavesī"]
-    },
-    {
-      "phraseId": "p8-1",
-      "wordIds": ["w-na", "w-paro", "w-param", "w-nikañci"]
-    },
-    {
-      "phraseId": "p8-2",
-      "wordIds": ["w-mata", "w-yatha", "w-niya", "w-putta", "w-anurakkhe"]
-    },
-    {
-      "phraseId": "p9-1",
-      "wordIds": ["w-metta", "w-sabbaloka"]
-    },
-    {
-      "phraseId": "p9-2",
-      "wordIds": ["w-manasa", "w-bhavaye", "w-aparimāna"]
-    },
-    {
-      "phraseId": "p10-1",
-      "wordIds": ["w-metta", "w-sabbaloka"]
-    },
-    {
-      "phraseId": "p10-2",
-      "wordIds": ["w-uddham", "w-adho", "w-ca", "w-tiriyañca", "w-asambādha", "w-avera", "w-sapatta", "w-aparimāṇ"]
-    }
+    { "id": "pw1-1", "phraseId": "p1-1", "verseId": "v1", "wordId": "w-karaniya" },
+    { "id": "pw1-2", "phraseId": "p1-1", "verseId": "v1", "wordId": "w-attha" },
+    { "id": "pw1-3", "phraseId": "p1-1", "verseId": "v1", "wordId": "w-kusala" },
+    { "id": "pw1-4", "phraseId": "p1-2", "verseId": "v1", "wordId": "w-yan" },
+    { "id": "pw1-5", "phraseId": "p1-2", "verseId": "v1", "wordId": "w-tam" },
+    { "id": "pw1-6", "phraseId": "p1-2", "verseId": "v1", "wordId": "w-santam" },
+    { "id": "pw1-7", "phraseId": "p1-2", "verseId": "v1", "wordId": "w-padam" },
+    { "id": "pw1-8", "phraseId": "p1-2", "verseId": "v1", "wordId": "w-abhisamecca" },
+    { "id": "pw2-1", "phraseId": "p2-1", "verseId": "v2", "wordId": "w-sakka" },
+    { "id": "pw2-2", "phraseId": "p2-1", "verseId": "v2", "wordId": "w-uju" },
+    { "id": "pw2-3", "phraseId": "p2-1", "verseId": "v2", "wordId": "w-suju" },
+    { "id": "pw2-4", "phraseId": "p2-2", "verseId": "v2", "wordId": "w-suvaco" },
+    { "id": "pw2-5", "phraseId": "p2-2", "verseId": "v2", "wordId": "w-cassa" },
+    { "id": "pw2-6", "phraseId": "p2-2", "verseId": "v2", "wordId": "w-mudu" },
+    { "id": "pw2-7", "phraseId": "p2-2", "verseId": "v2", "wordId": "w-anatimani" },
+    { "id": "pw3-1", "phraseId": "p3-1", "verseId": "v3", "wordId": "w-santussako" },
+    { "id": "pw3-2", "phraseId": "p3-1", "verseId": "v3", "wordId": "w-subharo" },
+    { "id": "pw3-3", "phraseId": "p3-1", "verseId": "v3", "wordId": "w-ca" },
+    { "id": "pw3-4", "phraseId": "p3-2", "verseId": "v3", "wordId": "w-appakicco" },
+    { "id": "pw3-5", "phraseId": "p3-2", "verseId": "v3", "wordId": "w-sallahukavutti" },
+    { "id": "pw3-6", "phraseId": "p3-3", "verseId": "v3", "wordId": "w-santindriyo" },
+    { "id": "pw3-7", "phraseId": "p3-3", "verseId": "v3", "wordId": "w-nipako" },
+    { "id": "pw3-8", "phraseId": "p3-3", "verseId": "v3", "wordId": "w-ca" },
+    { "id": "pw3-9", "phraseId": "p3-4", "verseId": "v3", "wordId": "w-appagabbho" },
+    { "id": "pw3-10", "phraseId": "p3-4", "verseId": "v3", "wordId": "w-kulesu" },
+    { "id": "pw3-11", "phraseId": "p3-4", "verseId": "v3", "wordId": "w-ananugiddho" },
+    { "id": "pw4-1", "phraseId": "p4-1", "verseId": "v4", "wordId": "w-na" },
+    { "id": "pw4-2", "phraseId": "p4-1", "verseId": "v4", "wordId": "w-ca" },
+    { "id": "pw4-3", "phraseId": "p4-1", "verseId": "v4", "wordId": "w-kuddam" },
+    { "id": "pw4-4", "phraseId": "p4-1", "verseId": "v4", "wordId": "w-samacare" },
+    { "id": "pw4-5", "phraseId": "p4-1", "verseId": "v4", "wordId": "w-kinci" },
+    { "id": "pw5-1", "phraseId": "p5-1", "verseId": "v5", "wordId": "w-sukhino" },
+    { "id": "pw5-2", "phraseId": "p5-1", "verseId": "v5", "wordId": "w-khemino" },
+    { "id": "pw5-3", "phraseId": "p5-1", "verseId": "v5", "wordId": "w-hontu" },
+    { "id": "pw5-4", "phraseId": "p5-1", "verseId": "v5", "wordId": "w-sabba" },
+    { "id": "pw5-5", "phraseId": "p5-1", "verseId": "v5", "wordId": "w-satta" },
+    { "id": "pw5-6", "phraseId": "p5-1", "verseId": "v5", "wordId": "w-bhavantu" },
+    { "id": "pw5-7", "phraseId": "p5-1", "verseId": "v5", "wordId": "w-sukhitatta" },
+    { "id": "pw6-1", "phraseId": "p6-1", "verseId": "v6", "wordId": "w-ye" },
+    { "id": "pw6-2", "phraseId": "p6-1", "verseId": "v6", "wordId": "w-keci" },
+    { "id": "pw6-3", "phraseId": "p6-1", "verseId": "v6", "wordId": "w-panabhutthi" },
+    { "id": "pw6-4", "phraseId": "p6-1", "verseId": "v6", "wordId": "w-tasa" },
+    { "id": "pw6-5", "phraseId": "p6-1", "verseId": "v6", "wordId": "w-thavara" },
+    { "id": "pw7-1", "phraseId": "p7-1", "verseId": "v7", "wordId": "w-ditta" },
+    { "id": "pw7-2", "phraseId": "p7-1", "verseId": "v7", "wordId": "w-aditta" },
+    { "id": "pw7-3", "phraseId": "p7-1", "verseId": "v7", "wordId": "w-avidure" },
+    { "id": "pw7-4", "phraseId": "p7-1", "verseId": "v7", "wordId": "w-dure" },
+    { "id": "pw7-5", "phraseId": "p7-1", "verseId": "v7", "wordId": "w-vasanti" },
+    { "id": "pw8-1", "phraseId": "p8-1", "verseId": "v8", "wordId": "w-na" },
+    { "id": "pw8-2", "phraseId": "p8-1", "verseId": "v8", "wordId": "w-paro" },
+    { "id": "pw8-3", "phraseId": "p8-1", "verseId": "v8", "wordId": "w-param" },
+    { "id": "pw8-4", "phraseId": "p8-1", "verseId": "v8", "wordId": "w-nikubbetha" },
+    { "id": "pw8-5", "phraseId": "p8-1", "verseId": "v8", "wordId": "w-natimanjetha" },
+    { "id": "pw8-6", "phraseId": "p8-1", "verseId": "v8", "wordId": "w-katthaci" },
+    { "id": "pw9-1", "phraseId": "p9-1", "verseId": "v9", "wordId": "w-mata" },
+    { "id": "pw9-2", "phraseId": "p9-1", "verseId": "v9", "wordId": "w-yatha" },
+    { "id": "pw9-3", "phraseId": "p9-1", "verseId": "v9", "wordId": "w-niya" },
+    { "id": "pw9-4", "phraseId": "p9-1", "verseId": "v9", "wordId": "w-puttam" },
+    { "id": "pw9-5", "phraseId": "p9-1", "verseId": "v9", "wordId": "w-ayusa" },
+    { "id": "pw9-6", "phraseId": "p9-1", "verseId": "v9", "wordId": "w-ekaputta" },
+    { "id": "pw9-7", "phraseId": "p9-1", "verseId": "v9", "wordId": "w-anurakkhe" },
+    { "id": "pw9-8", "phraseId": "p9-1", "verseId": "v9", "wordId": "w-evampi" },
+    { "id": "pw9-9", "phraseId": "p9-1", "verseId": "v9", "wordId": "w-manasam" },
+    { "id": "pw9-10", "phraseId": "p9-1", "verseId": "v9", "wordId": "w-bhavaye" },
+    { "id": "pw9-11", "phraseId": "p9-1", "verseId": "v9", "wordId": "w-aparimana" },
+    { "id": "pw10-1", "phraseId": "p10-1", "verseId": "v10", "wordId": "w-metta" },
+    { "id": "pw10-2", "phraseId": "p10-1", "verseId": "v10", "wordId": "w-sabbaloka" },
+    { "id": "pw10-3", "phraseId": "p10-1", "verseId": "v10", "wordId": "w-si" },
+    { "id": "pw10-4", "phraseId": "p10-1", "verseId": "v10", "wordId": "w-manasam" },
+    { "id": "pw10-5", "phraseId": "p10-1", "verseId": "v10", "wordId": "w-bhavaye" },
+    { "id": "pw10-6", "phraseId": "p10-1", "verseId": "v10", "wordId": "w-aparimana" },
+    { "id": "pw10-7", "phraseId": "p10-1", "verseId": "v10", "wordId": "w-uddham" },
+    { "id": "pw10-8", "phraseId": "p10-1", "verseId": "v10", "wordId": "w-adho" },
+    { "id": "pw10-9", "phraseId": "p10-1", "verseId": "v10", "wordId": "w-tiriyamca" },
+    { "id": "pw10-10", "phraseId": "p10-1", "verseId": "v10", "wordId": "w-asambadha" },
+    { "id": "pw10-11", "phraseId": "p10-1", "verseId": "v10", "wordId": "w-avera" },
+    { "id": "pw10-12", "phraseId": "p10-1", "verseId": "v10", "wordId": "w-asapatta" },
+    { "id": "pw11-1", "phraseId": "p11-1", "verseId": "v11", "wordId": "w-titta" },
+    { "id": "pw11-2", "phraseId": "p11-1", "verseId": "v11", "wordId": "w-caram" },
+    { "id": "pw11-3", "phraseId": "p11-1", "verseId": "v11", "wordId": "w-nisinno" },
+    { "id": "pw11-4", "phraseId": "p11-1", "verseId": "v11", "wordId": "w-sayano" },
+    { "id": "pw12-1", "phraseId": "p12-1", "verseId": "v12", "wordId": "w-dittim" },
+    { "id": "pw12-2", "phraseId": "p12-1", "verseId": "v12", "wordId": "w-anupaggamma" },
+    { "id": "pw12-3", "phraseId": "p12-1", "verseId": "v12", "wordId": "w-silava" }
   ]
 }
