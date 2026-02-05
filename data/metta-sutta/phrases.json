@@ -113,28 +113,20 @@
       "wordIds": ["w-na", "w-paro", "w-param", "w-nikubbetha", "w-natimanjetha", "w-katthaci"]
     },
     {
-      "id": "p8-2",
-      "verseId": "v8",
-      "order": 2,
+      "id": "p9-1",
+      "verseId": "v9",
+      "order": 1,
       "paliText": "Mātā yathā niyaṃ puttaṃ āyusā ekaputtamanurakkhe",
       "koreanTranslation": "어머니가 자신의 아들을 목숨을 걸고 외아들을 보호하듯",
       "wordIds": ["w-mata", "w-yatha", "w-niya", "w-puttam", "w-ayusa", "w-ekaputta", "w-anurakkhe"]
     },
     {
-      "id": "p9-1",
-      "verseId": "v9",
-      "order": 1,
-      "paliText": "evampi mānasaṃ bhāvaye aparimāṇaṃ",
-      "koreanTranslation": "모든 존재에 대해 무한한 마음을 닦아야 하리",
-      "wordIds": ["w-evampi", "w-manasam", "w-bhavaye", "w-aparimana"]
-    },
-    {
       "id": "p9-2",
       "verseId": "v9",
       "order": 2,
-      "paliText": "Mettañca sabbalokasmiṃ mānasaṃ bhāvaye aparimāṇaṃ",
-      "koreanTranslation": "온 세상에 대한 자비로 무한한 마음을 닦아야 하리",
-      "wordIds": ["w-metta", "w-sabbaloka", "w-si", "w-manasam", "w-bhavaye", "w-aparimana"]
+      "paliText": "evampi sabbabhūtesu mānasaṃ bhāvaye aparimāṇaṃ",
+      "koreanTranslation": "그와 같이 모든 존재에 대해 무한한 마음을 닦아야 하리",
+      "wordIds": ["w-evampi", "w-sabba", "w-bhuta", "w-manasam", "w-bhavaye", "w-aparimana"]
     },
     {
       "id": "p10-1",
