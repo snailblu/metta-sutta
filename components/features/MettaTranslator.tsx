@@ -1,6 +1,6 @@
 'use client';
 
-import { useObject } from 'ai/react';
+import { experimental_useObject as useObject } from '@ai-sdk/react';
 import { useState } from 'react';
 import { z } from 'zod';
 
