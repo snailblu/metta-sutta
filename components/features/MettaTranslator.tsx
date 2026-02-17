@@ -31,7 +31,7 @@ export default function MettaTranslator() {
   return (
     <div className="max-w-3xl mx-auto p-6 bg-white rounded-2xl shadow-lg border border-gray-100">
       <h2 className="text-2xl font-bold text-gray-800 mb-4 flex items-center gap-2">
-        <span>🧘</span> 백봉 스타일 경전 분석기
+        <span>🧘</span> 경전 분석기
       </h2>
 
       {/* 입력 영역 */}
@@ -80,7 +80,7 @@ export default function MettaTranslator() {
                 <p className="text-lg text-gray-800 mt-1">{object.translations?.literal}</p>
               </div>
               <div className="pt-4 border-t border-blue-200">
-                <span className="text-sm font-medium text-blue-500 uppercase tracking-wide">백봉 스타일 (의역)</span>
+                <span className="text-sm font-medium text-blue-500 uppercase tracking-wide">의역 (수행적 번역)</span>
                 <p className="text-2xl font-bold text-blue-900 mt-2 leading-relaxed">
                   "{object.translations?.zen_style}"
                 </p>
