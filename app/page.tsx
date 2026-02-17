@@ -94,6 +94,26 @@ export default function HomePage() {
           </ul>
         </div>
 
+        {/* 백봉 스타일 경전 분석기 카드 */}
+        <Link href="/translator" className="block">
+          <div className="bg-gradient-to-br from-blue-50 to-indigo-100 border-2 border-blue-200 rounded-xl p-6 text-left space-y-3 hover:shadow-lg transition-shadow cursor-pointer">
+            <div className="flex items-center gap-3">
+              <span className="text-4xl">🧘</span>
+              <div>
+                <h2 className="text-2xl font-bold text-blue-900">백봉 스타일 경전 분석기</h2>
+                <p className="text-blue-700">도반이 함께하는 쉬운 풀이</p>
+              </div>
+            </div>
+            <p className="text-blue-800 text-lg">
+              빨리어 문구를 넣으면<br />
+              <strong>단어 · 문법 · 해설</strong>을 알려드려요
+            </p>
+            <div className="flex items-center justify-end text-blue-600 font-semibold text-lg">
+              분석 시작 <span className="ml-1">→</span>
+            </div>
+          </div>
+        </Link>
+
         {/* 버튼 */}
         <div className="space-y-4">
           <Button onClick={handleStart} size="lg" className="w-full text-lg py-6">
