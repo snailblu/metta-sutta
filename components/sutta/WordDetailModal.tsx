@@ -1,13 +1,13 @@
-'use client';
+"use client";
 
-import { useState } from 'react';
-import { Button } from '@/components/ui/button';
-import { X } from 'lucide-react';
-import { NoteEditor } from '@/components/notes/NoteEditor';
-import { useSettings, getFontSizeClass } from '@/store/settings';
-import { useNotes } from '@/lib/db/hooks';
-import { getWord } from '@/data';
-import { createPortal } from 'react-dom';
+import { useState } from "react";
+import { Button } from "@/components/ui/button";
+import { X, Book, History, Link as LinkIcon, FileText } from "lucide-react";
+import { NoteEditor } from "@/components/notes/NoteEditor";
+import { useSettings, getFontSizeClass } from "@/store/settings";
+import { useNotes } from "@/lib/db/hooks";
+import { getWord } from "@/data";
+import { createPortal } from "react-dom";
 
 interface Props {
   wordId: string;
@@ -19,7 +19,7 @@ export function WordDetailModal({ wordId, onClose }: Props) {
 
   const { fontSize } = useSettings();
   const fontSizeClass = getFontSizeClass(fontSize);
-  const { note } = useNotes('word', wordId);
+  const { note } = useNotes("word", wordId);
 
   const word = getWord(wordId);
 
@@ -71,7 +71,10 @@ export function WordDetailModal({ wordId, onClose }: Props) {
 
             {/* 사전적 의미 */}
             <div className="space-y-3">
-              <h4 className="text-lg font-bold text-foreground">📖 사전적 의미</h4>
+              <div className="flex items-center gap-2">
+                <Book className="w-5 h-5 text-primary" />
+                <h4 className="text-lg font-bold text-foreground">사전적 의미</h4>
+              </div>
               <div className="space-y-2">
                 {word.meanings.map((meaning, i) => (
                   <div key={i} className="flex gap-3 items-start">
@@ -87,7 +90,10 @@ export function WordDetailModal({ wordId, onClose }: Props) {
             {/* 어원 */}
             {word.etymology && (
               <div className="space-y-3">
-                <h4 className="text-lg font-bold text-foreground">📚 어원</h4>
+                <div className="flex items-center gap-2">
+                  <History className="w-5 h-5 text-primary" />
+                  <h4 className="text-lg font-bold text-foreground">어원</h4>
+                </div>
                 <div className="bg-muted/30 rounded-lg p-4">
                   <p className="text-base leading-relaxed text-foreground">{word.etymology}</p>
                 </div>
@@ -97,7 +103,10 @@ export function WordDetailModal({ wordId, onClose }: Props) {
             {/* 관련 용어 */}
             {word.relatedTerms && word.relatedTerms.length > 0 && (
               <div className="space-y-3">
-                <h4 className="text-lg font-bold text-foreground">🔗 관련 용어</h4>
+                <div className="flex items-center gap-2">
+                  <LinkIcon className="w-5 h-5 text-primary" />
+                  <h4 className="text-lg font-bold text-foreground">관련 용어</h4>
+                </div>
                 <div className="flex flex-wrap gap-2">
                   {word.relatedTerms.map((term, i) => (
                     <span key={i} className="px-3 py-1.5 bg-muted rounded-full text-sm">
@@ -111,18 +120,19 @@ export function WordDetailModal({ wordId, onClose }: Props) {
             {/* 메모 섹션 */}
             <div className="space-y-4">
               <div className="flex items-center justify-between">
-                <h4 className="text-lg font-bold text-foreground">📝 내 메모</h4>
+                <div className="flex items-center gap-2">
+                  <FileText className="w-5 h-5 text-primary" />
+                  <h4 className="text-lg font-bold text-foreground">내 메모</h4>
+                </div>
                 <Button variant="outline" size="sm" onClick={() => setShowNote(true)}>
-                  {note ? '편집' : '+ 추가'}
+                  {note ? "편집" : "+ 추가"}
                 </Button>
               </div>
               <div className="bg-muted/30 rounded-lg p-4">
                 {note ? (
                   <p className="text-foreground whitespace-pre-wrap">{note}</p>
                 ) : (
-                  <p className="text-muted-foreground text-center py-4">
-                    아직 메모가 없습니다
-                  </p>
+                  <p className="text-muted-foreground text-center py-4">아직 메모가 없습니다</p>
                 )}
               </div>
             </div>
@@ -132,11 +142,7 @@ export function WordDetailModal({ wordId, onClose }: Props) {
 
       {/* 메모 에디터 모달 */}
       {showNote && (
-        <NoteEditor
-          targetType="word"
-          targetId={wordId}
-          onClose={() => setShowNote(false)}
-        />
+        <NoteEditor targetType="word" targetId={wordId} onClose={() => setShowNote(false)} />
       )}
     </>
   );

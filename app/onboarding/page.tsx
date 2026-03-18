@@ -1,8 +1,9 @@
-'use client';
+"use client";
 
-import { useState, useEffect } from 'react';
-import { useRouter } from 'next/navigation';
-import { Button } from '@/components/ui/button';
+import { useState, useEffect } from "react";
+import { useRouter } from "next/navigation";
+import { Button } from "@/components/ui/button";
+import { BookOpen, Search, Sparkles, FileText, ArrowLeft, Brain } from "lucide-react";
 
 export default function OnboardingPage() {
   const router = useRouter();
@@ -21,7 +22,7 @@ export default function OnboardingPage() {
 
   const handleComplete = () => {
     // 스� 2: 완료, 홈으로 이동
-    router.push('/');
+    router.push("/");
   };
 
   if (!mounted) {
@@ -33,13 +34,11 @@ export default function OnboardingPage() {
       <div className="max-w-md w-full text-center space-y-8">
         {/* 헤더 */}
         <div className="space-y-4">
-          <div className="text-6xl">🙏</div>
-          <h1 className="text-4xl font-bold text-primary mb-2">
-            자비경 연구에
-          </h1>
-          <p className="text-lg text-muted-foreground">
-            오신 것을 환영합니다
-          </p>
+          <div className="flex justify-center">
+            <BookOpen className="w-16 h-16 text-primary" />
+          </div>
+          <h1 className="text-4xl font-bold text-primary mb-2">자비경 연구에</h1>
+          <p className="text-lg text-muted-foreground">오신 것을 환영합니다</p>
         </div>
 
         {/* 스� 1: 환영 */}
@@ -47,24 +46,23 @@ export default function OnboardingPage() {
           <div className="space-y-6">
             <div className="bg-card border rounded-lg p-6">
               <p className="text-lg text-foreground mb-4">
-                이 앱은 팔리어 경전을 연구하고
-                수행의 의미를 깊이 탐구하는 도구입니다.
+                이 앱은 팔리어 경전을 연구하고 수행의 의미를 깊이 탐구하는 도구입니다.
               </p>
               <ul className="space-y-2 text-left text-muted-foreground text-base">
-                <li className="flex gap-2">
-                  <span>📖</span>
+                <li className="flex gap-2 items-center">
+                  <BookOpen className="w-5 h-5 text-primary" />
                   <span>팔리어 원문 + 한국어 번역</span>
                 </li>
-                <li className="flex gap-2">
-                  <span>🔍</span>
+                <li className="flex gap-2 items-center">
+                  <Search className="w-5 h-5 text-primary" />
                   <span>단어별 상세 분석</span>
                 </li>
-                <li className="flex gap-2">
-                  <span>🤖</span>
+                <li className="flex gap-2 items-center">
+                  <Brain className="w-5 h-5 text-primary" />
                   <span>AI 문맥 해석</span>
                 </li>
-                <li className="flex gap-2">
-                  <span>📝</span>
+                <li className="flex gap-2 items-center">
+                  <FileText className="w-5 h-5 text-primary" />
                   <span>개인 메모</span>
                 </li>
               </ul>
@@ -79,9 +77,7 @@ export default function OnboardingPage() {
         {/* 스� 2: 글자 크기 선택 */}
         {step === 2 && (
           <div className="space-y-6">
-            <h2 className="text-2xl font-bold text-foreground">
-              글자 크기 선택
-            </h2>
+            <h2 className="text-2xl font-bold text-foreground">글자 크기 선택</h2>
             <p className="text-muted-foreground mb-6">
               편하게 보시기 위한 글자 크기를 선택해주세요.
             </p>
@@ -92,9 +88,9 @@ export default function OnboardingPage() {
                 onClick={() => {
                   setStep(1);
                 }}
-                className="w-full py-4"
+                className="w-full py-4 flex items-center justify-center gap-2"
               >
-                ← 뒤로
+                <ArrowLeft className="w-4 h-4" /> 뒤로
               </Button>
 
               <Button
@@ -102,13 +98,13 @@ export default function OnboardingPage() {
                 onClick={() => {
                   // 기본값: large
                   const settings = {
-                    fontSize: 'large',
-                    theme: 'light',
-                    defaultView: 'both',
+                    fontSize: "large",
+                    theme: "light",
+                    defaultView: "both",
                     lastPosition: null,
-                    onboardingCompleted: true
+                    onboardingCompleted: true,
                   };
-                  localStorage.setItem('metta-sutta-settings', JSON.stringify(settings));
+                  localStorage.setItem("metta-sutta-settings", JSON.stringify(settings));
                   handleComplete();
                 }}
                 className="w-full py-4 text-lg"
@@ -120,13 +116,13 @@ export default function OnboardingPage() {
                 variant="outline"
                 onClick={() => {
                   const settings = {
-                    fontSize: 'xlarge',
-                    theme: 'light',
-                    defaultView: 'both',
+                    fontSize: "xlarge",
+                    theme: "light",
+                    defaultView: "both",
                     lastPosition: null,
-                    onboardingCompleted: true
+                    onboardingCompleted: true,
                   };
-                  localStorage.setItem('metta-sutta-settings', JSON.stringify(settings));
+                  localStorage.setItem("metta-sutta-settings", JSON.stringify(settings));
                   handleComplete();
                 }}
                 className="w-full py-4 text-lg"
@@ -141,14 +137,14 @@ export default function OnboardingPage() {
         {step === 3 && (
           <div className="space-y-6">
             <div className="bg-primary/10 border border-primary/20 rounded-lg p-8">
-              <p className="text-6xl mb-4">✨</p>
-              <h2 className="text-2xl font-bold text-foreground mb-2">
-                준비 완료!
-              </h2>
+              <div className="flex justify-center mb-4">
+                <Sparkles className="w-16 h-16 text-primary" />
+              </div>
+              <h2 className="text-2xl font-bold text-foreground mb-2">준비 완료!</h2>
               <p className="text-base text-muted-foreground mb-4">
                 이제 자비경을 연구할 준비가 되었습니다.
               </p>
-              <Button onClick={() => router.push('/')} size="lg" className="w-full text-lg py-6">
+              <Button onClick={() => router.push("/")} size="lg" className="w-full text-lg py-6">
                 경전 보기
               </Button>
             </div>

@@ -1,22 +1,23 @@
-'use client';
+"use client";
 
-import Link from 'next/link';
-import { useState, useEffect } from 'react';
-import { Button } from '@/components/ui/button';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { useSettings, getFontSizeClass } from '@/store/settings';
+import Link from "next/link";
+import { useState, useEffect } from "react";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { useSettings, getFontSizeClass } from "@/store/settings";
+import { ArrowLeft, Check } from "lucide-react";
 
 export default function SettingsPage() {
   const [mounted, setMounted] = useState(false);
-  const { 
-    fontSize, 
-    theme, 
-    defaultView, 
+  const {
+    fontSize,
+    theme,
+    defaultView,
     translationVersion,
-    setFontSize, 
-    setTheme, 
+    setFontSize,
+    setTheme,
     setDefaultView,
-    setTranslationVersion 
+    setTranslationVersion,
   } = useSettings();
 
   const fontPreviewClass = getFontSizeClass(fontSize);
@@ -30,7 +31,7 @@ export default function SettingsPage() {
   useEffect(() => {
     if (mounted) {
       const root = document.documentElement;
-      root.classList.remove('light', 'dark');
+      root.classList.remove("light", "dark");
       root.classList.add(theme);
     }
   }, [mounted, theme]);
@@ -39,8 +40,10 @@ export default function SettingsPage() {
     <div className="min-h-screen bg-background">
       {/* 헤더 */}
       <header className="sticky top-0 bg-background/95 backdrop-blur border-b border-border p-4">
-        <Button variant="ghost" asChild>
-          <Link href="/">← 홈</Link>
+        <Button variant="ghost" asChild className="flex items-center gap-2">
+          <Link href="/">
+            <ArrowLeft className="w-4 h-4" /> 홈
+          </Link>
         </Button>
       </header>
 
@@ -54,18 +57,18 @@ export default function SettingsPage() {
               <CardTitle>글자 크기</CardTitle>
             </CardHeader>
             <CardContent className="space-y-3">
-              {(['small', 'medium', 'large', 'xlarge'] as const).map((size) => (
+              {(["small", "medium", "large", "xlarge"] as const).map(size => (
                 <Button
                   key={size}
-                  variant={fontSize === size ? 'default' : 'outline'}
+                  variant={fontSize === size ? "default" : "outline"}
                   className="w-full justify-start"
                   onClick={() => setFontSize(size)}
                 >
-                  {size === 'small' && '작게'}
-                  {size === 'medium' && '보통'}
-                  {size === 'large' && '크게'}
-                  {size === 'xlarge' && '아주 크게'}
-                  {fontSize === size && ' ✓'}
+                  {size === "small" && "작게"}
+                  {size === "medium" && "보통"}
+                  {size === "large" && "크게"}
+                  {size === "xlarge" && "아주 크게"}
+                  {fontSize === size && <Check className="ml-auto w-4 h-4" />}
                 </Button>
               ))}
             </CardContent>
@@ -78,12 +81,8 @@ export default function SettingsPage() {
             </CardHeader>
             <CardContent>
               <div className="bg-muted/30 rounded-lg p-4 space-y-2">
-                <p className={`${fontPreviewClass} text-primary`}>
-                  Karaṇīyam attha-kusalena
-                </p>
-                <p className={`${fontPreviewClass} text-foreground`}>
-                  선을 행하는 데 능숙한 자가
-                </p>
+                <p className={`${fontPreviewClass} text-primary`}>Karaṇīyam attha-kusalena</p>
+                <p className={`${fontPreviewClass} text-foreground`}>선을 행하는 데 능숙한 자가</p>
               </div>
             </CardContent>
           </Card>
@@ -94,15 +93,15 @@ export default function SettingsPage() {
               <CardTitle>테마</CardTitle>
             </CardHeader>
             <CardContent className="space-y-3">
-              {(['light', 'dark'] as const).map((t) => (
+              {(["light", "dark"] as const).map(t => (
                 <Button
                   key={t}
-                  variant={theme === t ? 'default' : 'outline'}
+                  variant={theme === t ? "default" : "outline"}
                   className="w-full justify-start"
                   onClick={() => setTheme(t)}
                 >
-                  {t === 'light' ? '밝은 모드' : '어두운 모드'}
-                  {theme === t && ' ✓'}
+                  {t === "light" ? "밝은 모드" : "어두운 모드"}
+                  {theme === t && <Check className="ml-auto w-4 h-4" />}
                 </Button>
               ))}
             </CardContent>
@@ -114,17 +113,17 @@ export default function SettingsPage() {
               <CardTitle>기본 표시</CardTitle>
             </CardHeader>
             <CardContent className="space-y-3">
-              {(['pali', 'korean', 'both'] as const).map((view) => (
+              {(["pali", "korean", "both"] as const).map(view => (
                 <Button
                   key={view}
-                  variant={defaultView === view ? 'default' : 'outline'}
+                  variant={defaultView === view ? "default" : "outline"}
                   className="w-full justify-start"
                   onClick={() => setDefaultView(view)}
                 >
-                  {view === 'pali' && '팔리어만'}
-                  {view === 'korean' && '번역만'}
-                  {view === 'both' && '둘 다'}
-                  {defaultView === view && ' ✓'}
+                  {view === "pali" && "팔리어만"}
+                  {view === "korean" && "번역만"}
+                  {view === "both" && "둘 다"}
+                  {defaultView === view && <Check className="ml-auto w-4 h-4" />}
                 </Button>
               ))}
             </CardContent>
@@ -136,17 +135,17 @@ export default function SettingsPage() {
               <CardTitle>번역 버전</CardTitle>
             </CardHeader>
             <CardContent className="space-y-3">
-              {(['default', 'daelim', 'mahavihara'] as const).map((version) => (
+              {(["default", "daelim", "mahavihara"] as const).map(version => (
                 <Button
                   key={version}
-                  variant={translationVersion === version ? 'default' : 'outline'}
+                  variant={translationVersion === version ? "default" : "outline"}
                   className="w-full justify-start"
                   onClick={() => setTranslationVersion(version)}
                 >
-                  {version === 'default' && '표준 번역'}
-                  {version === 'daelim' && '대림스님 번역'}
-                  {version === 'mahavihara' && '마하위하라 번역'}
-                  {translationVersion === version && ' ✓'}
+                  {version === "default" && "표준 번역"}
+                  {version === "daelim" && "대림스님 번역"}
+                  {version === "mahavihara" && "마하위하라 번역"}
+                  {translationVersion === version && <Check className="ml-auto w-4 h-4" />}
                 </Button>
               ))}
             </CardContent>

@@ -1,14 +1,14 @@
-'use client';
+"use client";
 
-import { useState } from 'react';
-import { Button } from '@/components/ui/button';
-import { X } from 'lucide-react';
-import { WordList } from './WordList';
-import { AiExplanation } from '@/components/ai/AiExplanation';
-import { NoteEditor } from '@/components/notes/NoteEditor';
-import { WordDetailModal } from './WordDetailModal';
-import { useSettings, getFontSizeClass } from '@/store/settings';
-import { getPhrase, getWord } from '@/data';
+import { useState } from "react";
+import { Button } from "@/components/ui/button";
+import { X, Brain, FileText } from "lucide-react";
+import { WordList } from "./WordList";
+import { AiExplanation } from "@/components/ai/AiExplanation";
+import { NoteEditor } from "@/components/notes/NoteEditor";
+import { WordDetailModal } from "./WordDetailModal";
+import { useSettings, getFontSizeClass } from "@/store/settings";
+import { getPhrase, getWord } from "@/data";
 
 interface Props {
   phraseId: string;
@@ -63,12 +63,12 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
             <div className="flex items-center justify-between">
               <h4 className="font-medium text-foreground">단어 분석</h4>
               <span className="text-xs text-muted-foreground">
-                {(phrase.wordIds?.filter(id => !!getWord(id)).length || 0)}개
+                {phrase.wordIds?.filter(id => !!getWord(id)).length || 0}개
               </span>
             </div>
-            <WordList 
-              wordIds={phrase.wordIds?.filter(id => !!getWord(id)) || []} 
-              onWordSelect={setSelectedWordId} 
+            <WordList
+              wordIds={phrase.wordIds?.filter(id => !!getWord(id)) || []}
+              onWordSelect={setSelectedWordId}
             />
           </div>
 
@@ -78,7 +78,7 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
               onClick={() => setShowAi(true)}
               className="flex items-center gap-3 p-4 bg-primary/10 hover:bg-primary/20 rounded-lg text-left transition-colors"
             >
-              <span className="text-2xl">🤖</span>
+              <Brain className="w-8 h-8 text-primary" />
               <div className="flex-1">
                 <p className="font-medium text-foreground">AI 해설 보기</p>
                 <p className="text-sm text-muted-foreground">문맥 번역 + 수행적 의미</p>
@@ -88,7 +88,7 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
               onClick={() => setShowNote(true)}
               className="flex items-center gap-3 p-4 bg-muted hover:bg-muted/80 rounded-lg text-left transition-colors"
             >
-              <span className="text-2xl">📝</span>
+              <FileText className="w-8 h-8 text-muted-foreground" />
               <div className="flex-1">
                 <p className="font-medium text-foreground">메모 추가</p>
                 <p className="text-sm text-muted-foreground">나만의 정리</p>
@@ -99,25 +99,16 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
       </div>
 
       {/* AI 해설 모달 */}
-      {showAi && (
-        <AiExplanation phraseId={phraseId} onClose={() => setShowAi(false)} />
-      )}
+      {showAi && <AiExplanation phraseId={phraseId} onClose={() => setShowAi(false)} />}
 
       {/* 메모 에디터 모달 */}
       {showNote && (
-        <NoteEditor
-          targetType="phrase"
-          targetId={phraseId}
-          onClose={() => setShowNote(false)}
-        />
+        <NoteEditor targetType="phrase" targetId={phraseId} onClose={() => setShowNote(false)} />
       )}
 
       {/* 단어 상세 모달 */}
       {selectedWordId && (
-        <WordDetailModal
-          wordId={selectedWordId}
-          onClose={() => setSelectedWordId(null)}
-        />
+        <WordDetailModal wordId={selectedWordId} onClose={() => setSelectedWordId(null)} />
       )}
     </div>
   );
