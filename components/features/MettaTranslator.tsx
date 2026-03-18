@@ -20,6 +20,26 @@ const analysisSchema = z.object({
   commentary: z.string(),
 });
 
+interface Translation {
+  _id: string;
+  original: string;
+  result: {
+    original: string;
+    pali_analysis: Array<{
+      word: string;
+      grammar: string;
+      meaning: string;
+      note?: string;
+    }>;
+    translations: {
+      literal: string;
+      zen_style: string;
+    };
+    commentary: string;
+  };
+  createdAt: number;
+}
+
 export default function MettaTranslator() {
   const { object, submit, isLoading, error } = useObject({
     api: '/api/analyze',
@@ -28,6 +48,9 @@ export default function MettaTranslator() {
 
   const [input, setInput] = useState('Sabbe sattā bhavantu sukhitattā');
   const [showErrorPopup, setShowErrorPopup] = useState(false);
+  const [showHistory, setShowHistory] = useState(false);
+  const [history, setHistory] = useState<Translation[]>([]);
+  const [searchQuery, setSearchQuery] = useState('');
 
   // 에러 발생 시 팝업 표시
   useEffect(() => {
@@ -36,8 +59,107 @@ export default function MettaTranslator() {
     }
   }, [error]);
 
+  // 분석 완료 후 저장
+  useEffect(() => {
+    if (object && !isLoading) {
+      saveTranslation(object);
+      loadHistory();
+    }
+  }, [object, isLoading]);
+
+  const saveTranslation = async (result: any) => {
+    try {
+      await fetch('/api/translations/save', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          original: result.original,
+          result,
+        }),
+      });
+    } catch (error) {
+      console.error('Save failed:', error);
+    }
+  };
+
+  const loadHistory = async () => {
+    try {
+      const res = await fetch('/api/translations/list');
+      const data = await res.json();
+      setHistory(data);
+    } catch (error) {
+      console.error('Load history failed:', error);
+    }
+  };
+
+  const searchHistory = async (query: string) => {
+    try {
+      const res = await fetch(`/api/translations/list?q=${encodeURIComponent(query)}`);
+      const data = await res.json();
+      setHistory(data);
+    } catch (error) {
+      console.error('Search failed:', error);
+    }
+  };
+
   return (
-    <div className="max-w-3xl mx-auto p-6 bg-white rounded-2xl shadow-lg border border-gray-100">
+    <div className="max-w-4xl mx-auto p-6">
+      {/* 히스토리 섹션 */}
+      <div className="mb-6">
+        <button
+          onClick={() => {
+            setShowHistory(!showHistory);
+            if (!showHistory) loadHistory();
+          }}
+          className="text-blue-600 hover:text-blue-700 font-medium mb-2 flex items-center gap-1"
+        >
+          {showHistory ? '📚 숨기' : '📚 히스토리 보기'}
+        </button>
+
+        {showHistory && (
+          <div className="bg-gray-50 rounded-xl p-4 border border-gray-200">
+            <div className="mb-3">
+              <input
+                type="text"
+                placeholder="검색어 입력..."
+                value={searchQuery}
+                onChange={(e) => {
+                  setSearchQuery(e.target.value);
+                  if (e.target.value) {
+                    searchHistory(e.target.value);
+                  } else {
+                    loadHistory();
+                  }
+                }}
+                className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
+              />
+            </div>
+            <div className="space-y-2 max-h-64 overflow-y-auto">
+              {history.length === 0 ? (
+                <p className="text-gray-500 text-sm text-center py-4">아직 번역 기록이 없습니다.</p>
+              ) : (
+                history.map((item) => (
+                  <button
+                    key={item._id}
+                    onClick={() => {
+                      setInput(item.original);
+                      setShowHistory(false);
+                    }}
+                    className="w-full text-left p-2 hover:bg-white rounded-lg transition-colors border border-transparent hover:border-gray-200"
+                  >
+                    <p className="text-sm text-gray-800 font-medium">{item.original}</p>
+                    <p className="text-xs text-gray-500 truncate">
+                      {new Date(item.createdAt).toLocaleString('ko-KR')}
+                    </p>
+                  </button>
+                ))
+              )}
+            </div>
+          </div>
+        )}
+      </div>
+
+      <div className="max-w-3xl mx-auto p-6 bg-white rounded-2xl shadow-lg border border-gray-100">
       <h2 className="text-2xl font-bold text-gray-800 mb-4 flex items-center gap-2">
         <span>🧘</span> 경전 분석기
       </h2>
