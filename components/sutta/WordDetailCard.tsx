@@ -1,5 +1,5 @@
-import { Word } from '@/types';
-import { Book, History, Link as LinkIcon } from 'lucide-react';
+import { Word } from "@/types";
+import { Book, History, Link as LinkIcon } from "lucide-react";
 
 interface Props {
   word: Word;
@@ -8,19 +8,15 @@ interface Props {
 
 export function WordDetailCard({ word, onWordSelect }: Props) {
   return (
-    <div 
+    <div
       onClick={() => onWordSelect?.(word.id)}
       className="bg-card border rounded-lg p-6 hover:border-primary/50 cursor-pointer transition-all"
     >
       <div className="space-y-4">
         {/* 단어 제목 */}
         <div>
-          <h3 className="text-2xl font-bold text-primary mb-2">
-            {word.pali}
-          </h3>
-          <p className="text-lg text-muted-foreground">
-            {word.pronunciation}
-          </p>
+          <h3 className="text-2xl font-bold text-primary mb-2">{word.pali}</h3>
+          <p className="text-lg text-muted-foreground">{word.pronunciation}</p>
         </div>
 
         {/* 기본 정보 */}

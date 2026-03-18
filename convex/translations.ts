@@ -21,11 +21,7 @@ export const list = query({
   },
   handler: async (ctx, args) => {
     const limit = args.limit ?? 50;
-    return await ctx.db
-      .query("translations")
-      .withIndex("by_created")
-      .order("desc")
-      .take(limit);
+    return await ctx.db.query("translations").withIndex("by_created").order("desc").take(limit);
   },
 });
 
@@ -37,9 +33,8 @@ export const search = query({
     const translations = await ctx.db.query("translations").collect();
     const lowerQuery = args.query.toLowerCase();
     return translations.filter(
-      (t) =>
-        t.original.toLowerCase().includes(lowerQuery) ||
-        t.result.toLowerCase().includes(lowerQuery)
+      t =>
+        t.original.toLowerCase().includes(lowerQuery) || t.result.toLowerCase().includes(lowerQuery)
     );
   },
 });

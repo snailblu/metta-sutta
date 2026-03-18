@@ -1,13 +1,13 @@
-'use client';
+"use client";
 
-import { useState } from 'react';
-import { Button } from '@/components/ui/button';
-import { X, Book, History, Link as LinkIcon, FileText } from 'lucide-react';
-import { NoteEditor } from '@/components/notes/NoteEditor';
-import { useSettings, getFontSizeClass } from '@/store/settings';
-import { useNotes } from '@/lib/db/hooks';
-import { getWord } from '@/data';
-import { createPortal } from 'react-dom';
+import { useState } from "react";
+import { Button } from "@/components/ui/button";
+import { X, Book, History, Link as LinkIcon, FileText } from "lucide-react";
+import { NoteEditor } from "@/components/notes/NoteEditor";
+import { useSettings, getFontSizeClass } from "@/store/settings";
+import { useNotes } from "@/lib/db/hooks";
+import { getWord } from "@/data";
+import { createPortal } from "react-dom";
 
 interface Props {
   wordId: string;
@@ -19,7 +19,7 @@ export function WordDetailModal({ wordId, onClose }: Props) {
 
   const { fontSize } = useSettings();
   const fontSizeClass = getFontSizeClass(fontSize);
-  const { note } = useNotes('word', wordId);
+  const { note } = useNotes("word", wordId);
 
   const word = getWord(wordId);
 
@@ -125,16 +125,14 @@ export function WordDetailModal({ wordId, onClose }: Props) {
                   <h4 className="text-lg font-bold text-foreground">내 메모</h4>
                 </div>
                 <Button variant="outline" size="sm" onClick={() => setShowNote(true)}>
-                  {note ? '편집' : '+ 추가'}
+                  {note ? "편집" : "+ 추가"}
                 </Button>
               </div>
               <div className="bg-muted/30 rounded-lg p-4">
                 {note ? (
                   <p className="text-foreground whitespace-pre-wrap">{note}</p>
                 ) : (
-                  <p className="text-muted-foreground text-center py-4">
-                    아직 메모가 없습니다
-                  </p>
+                  <p className="text-muted-foreground text-center py-4">아직 메모가 없습니다</p>
                 )}
               </div>
             </div>
@@ -144,11 +142,7 @@ export function WordDetailModal({ wordId, onClose }: Props) {
 
       {/* 메모 에디터 모달 */}
       {showNote && (
-        <NoteEditor
-          targetType="word"
-          targetId={wordId}
-          onClose={() => setShowNote(false)}
-        />
+        <NoteEditor targetType="word" targetId={wordId} onClose={() => setShowNote(false)} />
       )}
     </>
   );

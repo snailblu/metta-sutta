@@ -51,6 +51,7 @@ export default function MettaTranslator() {
   const [showHistory, setShowHistory] = useState(false);
   const [history, setHistory] = useState<Translation[]>([]);
   const [searchQuery, setSearchQuery] = useState('');
+  const [selectedHistory, setSelectedHistory] = useState<Translation | null>(null);
 
   // 에러 발생 시 팝업 표시
   useEffect(() => {
@@ -102,6 +103,13 @@ export default function MettaTranslator() {
     }
   };
 
+  const handleReanalyze = (original: string) => {
+    setInput(original);
+    setSelectedHistory(null);
+    setShowHistory(false);
+    submit({ prompt: original });
+  };
+
   return (
     <div className="max-w-4xl mx-auto p-6">
       {/* 히스토리 섹션 */}
@@ -141,10 +149,7 @@ export default function MettaTranslator() {
                 history.map((item) => (
                   <button
                     key={item._id}
-                    onClick={() => {
-                      setInput(item.original);
-                      setShowHistory(false);
-                    }}
+                    onClick={() => setSelectedHistory(item)}
                     className="w-full text-left p-2 hover:bg-white rounded-lg transition-colors border border-transparent hover:border-gray-200"
                   >
                     <p className="text-sm text-gray-800 font-medium">{item.original}</p>
@@ -158,6 +163,90 @@ export default function MettaTranslator() {
           </div>
         )}
       </div>
+
+      {/* 히스토리 상세 모달 */}
+      {selectedHistory && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">
+          <div className="bg-white rounded-2xl shadow-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto p-6">
+            <div className="flex items-center justify-between mb-4">
+              <h3 className="text-xl font-bold text-gray-800">📚 저장된 분석 결과</h3>
+              <button
+                onClick={() => setSelectedHistory(null)}
+                className="text-gray-400 hover:text-gray-600 text-2xl"
+              >
+                ✕
+              </button>
+            </div>
+
+            {/* 저장된 결과 표시 */}
+            <div className="space-y-6">
+              {/* 번역 */}
+              <div className="bg-blue-50 p-4 rounded-xl border border-blue-100">
+                <h4 className="text-lg font-semibold text-blue-900 mb-3">📜 번역</h4>
+                <div className="space-y-3">
+                  <div>
+                    <span className="text-sm font-medium text-blue-500">직역</span>
+                    <p className="text-gray-800 mt-1">{selectedHistory.result.translations?.literal}</p>
+                  </div>
+                  <div className="pt-3 border-t border-blue-200">
+                    <span className="text-sm font-medium text-blue-500">의역</span>
+                    <p className="text-xl font-bold text-blue-900 mt-1">
+                      "{selectedHistory.result.translations?.zen_style}"
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              {/* 해설 */}
+              <div className="bg-green-50 p-4 rounded-xl border border-green-100">
+                <h4 className="text-lg font-semibold text-green-900 mb-2">🧘 도반의 해설</h4>
+                <p className="text-gray-800 whitespace-pre-wrap">
+                  {selectedHistory.result.commentary}
+                </p>
+              </div>
+
+              {/* 단어 분석 */}
+              <div className="bg-gray-50 p-4 rounded-xl border border-gray-200">
+                <h4 className="text-lg font-semibold text-gray-800 mb-3">🔍 단어 분석</h4>
+                <table className="w-full text-left">
+                  <thead>
+                    <tr className="border-b border-gray-300 text-gray-500 text-sm">
+                      <th className="py-2 px-2">단어</th>
+                      <th className="py-2 px-2">문법</th>
+                      <th className="py-2 px-2">뜻</th>
+                    </tr>
+                  </thead>
+                  <tbody className="divide-y divide-gray-200">
+                    {selectedHistory.result.pali_analysis?.map((item, idx) => (
+                      <tr key={idx}>
+                        <td className="py-2 px-2 font-medium">{item?.word}</td>
+                        <td className="py-2 px-2 text-sm text-gray-600">{item?.grammar}</td>
+                        <td className="py-2 px-2">{item?.meaning}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+
+            {/* 버튼 */}
+            <div className="mt-6 flex gap-3">
+              <button
+                onClick={() => handleReanalyze(selectedHistory.original)}
+                className="flex-1 py-3 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-xl transition-colors"
+              >
+                🔄 다시 분석
+              </button>
+              <button
+                onClick={() => setSelectedHistory(null)}
+                className="flex-1 py-3 bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold rounded-xl transition-colors"
+              >
+                닫기
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
 
       <div className="max-w-3xl mx-auto p-6 bg-white rounded-2xl shadow-lg border border-gray-100">
       <h2 className="text-2xl font-bold text-gray-800 mb-4 flex items-center gap-2">

@@ -1,14 +1,14 @@
-'use client';
+"use client";
 
-import { useState } from 'react';
-import { Button } from '@/components/ui/button';
-import { X, Brain, FileText } from 'lucide-react';
-import { WordList } from './WordList';
-import { AiExplanation } from '@/components/ai/AiExplanation';
-import { NoteEditor } from '@/components/notes/NoteEditor';
-import { WordDetailModal } from './WordDetailModal';
-import { useSettings, getFontSizeClass } from '@/store/settings';
-import { getPhrase, getWord } from '@/data';
+import { useState } from "react";
+import { Button } from "@/components/ui/button";
+import { X, Brain, FileText } from "lucide-react";
+import { WordList } from "./WordList";
+import { AiExplanation } from "@/components/ai/AiExplanation";
+import { NoteEditor } from "@/components/notes/NoteEditor";
+import { WordDetailModal } from "./WordDetailModal";
+import { useSettings, getFontSizeClass } from "@/store/settings";
+import { getPhrase, getWord } from "@/data";
 
 interface Props {
   phraseId: string;
@@ -63,12 +63,12 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
             <div className="flex items-center justify-between">
               <h4 className="font-medium text-foreground">단어 분석</h4>
               <span className="text-xs text-muted-foreground">
-                {(phrase.wordIds?.filter(id => !!getWord(id)).length || 0)}개
+                {phrase.wordIds?.filter(id => !!getWord(id)).length || 0}개
               </span>
             </div>
-            <WordList 
-              wordIds={phrase.wordIds?.filter(id => !!getWord(id)) || []} 
-              onWordSelect={setSelectedWordId} 
+            <WordList
+              wordIds={phrase.wordIds?.filter(id => !!getWord(id)) || []}
+              onWordSelect={setSelectedWordId}
             />
           </div>
 
@@ -99,25 +99,16 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
       </div>
 
       {/* AI 해설 모달 */}
-      {showAi && (
-        <AiExplanation phraseId={phraseId} onClose={() => setShowAi(false)} />
-      )}
+      {showAi && <AiExplanation phraseId={phraseId} onClose={() => setShowAi(false)} />}
 
       {/* 메모 에디터 모달 */}
       {showNote && (
-        <NoteEditor
-          targetType="phrase"
-          targetId={phraseId}
-          onClose={() => setShowNote(false)}
-        />
+        <NoteEditor targetType="phrase" targetId={phraseId} onClose={() => setShowNote(false)} />
       )}
 
       {/* 단어 상세 모달 */}
       {selectedWordId && (
-        <WordDetailModal
-          wordId={selectedWordId}
-          onClose={() => setSelectedWordId(null)}
-        />
+        <WordDetailModal wordId={selectedWordId} onClose={() => setSelectedWordId(null)} />
       )}
     </div>
   );

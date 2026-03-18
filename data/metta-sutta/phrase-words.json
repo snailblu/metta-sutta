@@ -9,12 +9,57 @@
     { "phraseId": "p3-3", "wordIds": ["w-santindriyo", "w-nipako", "w-ca"] },
     { "phraseId": "p3-4", "wordIds": ["w-appagabbho", "w-kulesu", "w-ananugiddho"] },
     { "phraseId": "p4-1", "wordIds": ["w-na", "w-ca", "w-kuddam", "w-samacare", "w-kinci"] },
-    { "phraseId": "p5-1", "wordIds": ["w-sukhino", "w-khemino", "w-hontu", "w-sabba", "w-satta", "w-bhavantu", "w-sukhitatta"] },
+    {
+      "phraseId": "p5-1",
+      "wordIds": [
+        "w-sukhino",
+        "w-khemino",
+        "w-hontu",
+        "w-sabba",
+        "w-satta",
+        "w-bhavantu",
+        "w-sukhitatta"
+      ]
+    },
     { "phraseId": "p6-1", "wordIds": ["w-ye", "w-keci", "w-panabhutthi", "w-tasa", "w-thavara"] },
     { "phraseId": "p7-1", "wordIds": ["w-ditta", "w-aditta", "w-avidure", "w-dure", "w-vasanti"] },
-    { "phraseId": "p8-1", "wordIds": ["w-na", "w-paro", "w-param", "w-nikubbetha", "w-natimanjetha", "w-katthaci"] },
-    { "phraseId": "p9-1", "wordIds": ["w-mata", "w-yatha", "w-niya", "w-puttam", "w-ayusa", "w-ekaputta", "w-anurakkhe", "w-evampi", "w-manasam", "w-bhavaye", "w-aparimana"] },
-    { "phraseId": "p10-1", "wordIds": ["w-metta", "w-sabbaloka", "w-si", "w-manasam", "w-bhavaye", "w-aparimana", "w-uddham", "w-adho", "w-tiriyamca", "w-asambadha", "w-avera", "w-asapatta"] },
+    {
+      "phraseId": "p8-1",
+      "wordIds": ["w-na", "w-paro", "w-param", "w-nikubbetha", "w-natimanjetha", "w-katthaci"]
+    },
+    {
+      "phraseId": "p9-1",
+      "wordIds": [
+        "w-mata",
+        "w-yatha",
+        "w-niya",
+        "w-puttam",
+        "w-ayusa",
+        "w-ekaputta",
+        "w-anurakkhe",
+        "w-evampi",
+        "w-manasam",
+        "w-bhavaye",
+        "w-aparimana"
+      ]
+    },
+    {
+      "phraseId": "p10-1",
+      "wordIds": [
+        "w-metta",
+        "w-sabbaloka",
+        "w-si",
+        "w-manasam",
+        "w-bhavaye",
+        "w-aparimana",
+        "w-uddham",
+        "w-adho",
+        "w-tiriyamca",
+        "w-asambadha",
+        "w-avera",
+        "w-asapatta"
+      ]
+    },
     { "phraseId": "p11-1", "wordIds": ["w-titta", "w-caram", "w-nisinno", "w-sayano"] },
     { "phraseId": "p12-1", "wordIds": ["w-dittim", "w-anupaggamma", "w-silava"] }
   ]

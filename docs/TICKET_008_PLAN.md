@@ -1,18 +1,22 @@
 # Ticket_008: AI Pali Translator Implementation Plan
 
 ## 1. Overview
+
 Implement an AI-powered Pali translator feature geared towards a 76-year-old user. The feature will analyze Pali text (or English) and provide:
+
 - Word-by-word analysis (Grammar, meaning).
 - Translations (Literal, liberal).
 - Contextual/Dharma explanation.
 
 ## 2. Technical Stack
+
 - **Framework**: Next.js 16 (App Router).
 - **UI**: Tailwind CSS 4, Shadcn/UI (Radix), Lucide React.
 - **AI**: Vercel AI SDK + Google Generative AI (Gemini).
 - **State**: React `useState` (for local input/result), `zustand` (for global settings if needed).
 
 ## 3. UI/UX Design
+
 - **Location**: New route `/translator`.
 - **Entry Point**: Add "번역기" button to the main header in `app/sutta/[verseId]/page.tsx`.
 - **Layout**:
@@ -27,15 +31,19 @@ Implement an AI-powered Pali translator feature geared towards a 76-year-old use
 ## 4. Implementation Steps
 
 ### Step 1: Dependencies
+
 - Install Vercel AI SDK and Google provider.
+
 ```bash
 npm install ai @ai-sdk/google
 ```
 
 ### Step 2: Environment Setup
+
 - Ensure `GOOGLE_GENERATIVE_AI_API_KEY` is set in `.env.local`.
 
 ### Step 3: Backend API (`src/app/api/analyze/route.ts`)
+
 - **Route**: `POST /api/analyze`
 - **Input**: `{ text: string }`
 - **Logic**:
@@ -47,15 +55,18 @@ npm install ai @ai-sdk/google
   - Output format: JSON with `words[]`, `translation`, `explanation`.
 
 ### Step 4: Frontend Components (`src/components/features/translator/`)
+
 - `TranslatorPage.tsx`: Main container.
 - `TranslationInput.tsx`: Textarea component.
 - `AnalysisResult.tsx`: Display component for the AI response.
 
 ### Step 5: Integration
+
 - Add link/button to `/translator` in `SuttaPage` header.
 - Test with sample Pali sentences (e.g., "Sabbe sattā bhavantu sukhitattā").
 
 ## 5. File Structure Changes
+
 ```text
 metta-sutta/
 ├── app/
@@ -72,6 +83,7 @@ metta-sutta/
 ```
 
 ## 6. Action Items
+
 1. Install dependencies.
 2. Create API route.
 3. Create UI components.
