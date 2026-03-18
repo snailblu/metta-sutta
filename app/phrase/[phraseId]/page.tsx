@@ -1,14 +1,14 @@
-'use client';
+"use client";
 
-import { useParams, useRouter } from 'next/navigation';
-import { useState, useEffect } from 'react';
-import { Button } from '@/components/ui/button';
-import { Card, CardContent } from '@/components/ui/card';
-import { getPhrase, getWordsForPhrase } from '@/data';
-import { useSettings, getFontSizeClass } from '@/store/settings';
-import { NoteEditor } from '@/components/notes/NoteEditor';
-import { useNotes } from '@/lib/db/hooks';
-import { ArrowLeft, ChevronRight, FileText } from 'lucide-react';
+import { useParams, useRouter } from "next/navigation";
+import { useState, useEffect } from "react";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "@/components/ui/card";
+import { getPhrase, getWordsForPhrase } from "@/data";
+import { useSettings, getFontSizeClass } from "@/store/settings";
+import { NoteEditor } from "@/components/notes/NoteEditor";
+import { useNotes } from "@/lib/db/hooks";
+import { ArrowLeft, ChevronRight, FileText } from "lucide-react";
 
 export default function PhrasePage() {
   const params = useParams();
@@ -18,20 +18,20 @@ export default function PhrasePage() {
   // Zustand store hydration
   const [mounted, setMounted] = useState(false);
   const settingsStore = useSettings();
-  
+
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setMounted(true);
   }, []);
 
-  const fontSize = mounted ? settingsStore.fontSize : 'large';
-  const defaultView = mounted ? settingsStore.defaultView : 'both';
+  const fontSize = mounted ? settingsStore.fontSize : "large";
+  const defaultView = mounted ? settingsStore.defaultView : "both";
 
   const [showNoteEditor, setShowNoteEditor] = useState(false);
 
   const phrase = getPhrase(phraseId);
   const words = getWordsForPhrase(phraseId);
-  const { note } = useNotes('phrase', phraseId);
+  const { note } = useNotes("phrase", phraseId);
 
   if (!phrase) {
     return (
@@ -42,8 +42,8 @@ export default function PhrasePage() {
   }
 
   const fontSizeClass = getFontSizeClass(fontSize);
-  const showPali = defaultView === 'pali' || defaultView === 'both';
-  const showKorean = defaultView === 'korean' || defaultView === 'both';
+  const showPali = defaultView === "pali" || defaultView === "both";
+  const showKorean = defaultView === "korean" || defaultView === "both";
 
   return (
     <div className="min-h-screen bg-background">
@@ -60,7 +60,9 @@ export default function PhrasePage() {
           <Card>
             <CardContent className="pt-6">
               {showPali && (
-                <p className={`${fontSizeClass} text-primary leading-relaxed ${showKorean ? 'mb-4' : ''}`}>
+                <p
+                  className={`${fontSizeClass} text-primary leading-relaxed ${showKorean ? "mb-4" : ""}`}
+                >
                   {phrase.paliText}
                 </p>
               )}
@@ -75,7 +77,7 @@ export default function PhrasePage() {
           {/* 단어 분석 */}
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-foreground">단어 분석</h3>
-            {words.map((word) => (
+            {words.map(word => (
               <button
                 key={word.id}
                 className="w-full text-left bg-muted/50 hover:bg-muted rounded-lg p-4 transition-colors"
@@ -83,12 +85,8 @@ export default function PhrasePage() {
               >
                 <div className="flex items-center justify-between">
                   <div>
-                    <p className="text-xl font-medium text-primary mb-1">
-                      {word.pali}
-                    </p>
-                    <p className="text-sm text-muted-foreground">
-                      {word.pronunciation}
-                    </p>
+                    <p className="text-xl font-medium text-primary mb-1">{word.pali}</p>
+                    <p className="text-sm text-muted-foreground">{word.pronunciation}</p>
                   </div>
                   <div className="text-muted-foreground">
                     <ChevronRight className="w-5 h-5" />
@@ -106,7 +104,7 @@ export default function PhrasePage() {
                 <h3 className="text-lg font-bold text-foreground">내 메모</h3>
               </div>
               <Button variant="outline" size="sm" onClick={() => setShowNoteEditor(true)}>
-                {note ? '편집' : '+ 추가'}
+                {note ? "편집" : "+ 추가"}
               </Button>
             </div>
             <Card>
@@ -114,9 +112,7 @@ export default function PhrasePage() {
                 {note ? (
                   <p className="text-foreground whitespace-pre-wrap">{note}</p>
                 ) : (
-                  <p className="text-muted-foreground text-center py-8">
-                    아직 메모가 없습니다
-                  </p>
+                  <p className="text-muted-foreground text-center py-8">아직 메모가 없습니다</p>
                 )}
               </CardContent>
             </Card>

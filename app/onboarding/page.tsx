@@ -1,9 +1,9 @@
-'use client';
+"use client";
 
-import { useState, useEffect } from 'react';
-import { useRouter } from 'next/navigation';
-import { Button } from '@/components/ui/button';
-import { BookOpen, Search, Sparkles, FileText, ArrowLeft, Brain } from 'lucide-react';
+import { useState, useEffect } from "react";
+import { useRouter } from "next/navigation";
+import { Button } from "@/components/ui/button";
+import { BookOpen, Search, Sparkles, FileText, ArrowLeft, Brain } from "lucide-react";
 
 export default function OnboardingPage() {
   const router = useRouter();
@@ -22,7 +22,7 @@ export default function OnboardingPage() {
 
   const handleComplete = () => {
     // 스� 2: 완료, 홈으로 이동
-    router.push('/');
+    router.push("/");
   };
 
   if (!mounted) {
@@ -37,12 +37,8 @@ export default function OnboardingPage() {
           <div className="flex justify-center">
             <BookOpen className="w-16 h-16 text-primary" />
           </div>
-          <h1 className="text-4xl font-bold text-primary mb-2">
-            자비경 연구에
-          </h1>
-          <p className="text-lg text-muted-foreground">
-            오신 것을 환영합니다
-          </p>
+          <h1 className="text-4xl font-bold text-primary mb-2">자비경 연구에</h1>
+          <p className="text-lg text-muted-foreground">오신 것을 환영합니다</p>
         </div>
 
         {/* 스� 1: 환영 */}
@@ -50,8 +46,7 @@ export default function OnboardingPage() {
           <div className="space-y-6">
             <div className="bg-card border rounded-lg p-6">
               <p className="text-lg text-foreground mb-4">
-                이 앱은 팔리어 경전을 연구하고
-                수행의 의미를 깊이 탐구하는 도구입니다.
+                이 앱은 팔리어 경전을 연구하고 수행의 의미를 깊이 탐구하는 도구입니다.
               </p>
               <ul className="space-y-2 text-left text-muted-foreground text-base">
                 <li className="flex gap-2 items-center">
@@ -82,9 +77,7 @@ export default function OnboardingPage() {
         {/* 스� 2: 글자 크기 선택 */}
         {step === 2 && (
           <div className="space-y-6">
-            <h2 className="text-2xl font-bold text-foreground">
-              글자 크기 선택
-            </h2>
+            <h2 className="text-2xl font-bold text-foreground">글자 크기 선택</h2>
             <p className="text-muted-foreground mb-6">
               편하게 보시기 위한 글자 크기를 선택해주세요.
             </p>
@@ -105,13 +98,13 @@ export default function OnboardingPage() {
                 onClick={() => {
                   // 기본값: large
                   const settings = {
-                    fontSize: 'large',
-                    theme: 'light',
-                    defaultView: 'both',
+                    fontSize: "large",
+                    theme: "light",
+                    defaultView: "both",
                     lastPosition: null,
-                    onboardingCompleted: true
+                    onboardingCompleted: true,
                   };
-                  localStorage.setItem('metta-sutta-settings', JSON.stringify(settings));
+                  localStorage.setItem("metta-sutta-settings", JSON.stringify(settings));
                   handleComplete();
                 }}
                 className="w-full py-4 text-lg"
@@ -123,13 +116,13 @@ export default function OnboardingPage() {
                 variant="outline"
                 onClick={() => {
                   const settings = {
-                    fontSize: 'xlarge',
-                    theme: 'light',
-                    defaultView: 'both',
+                    fontSize: "xlarge",
+                    theme: "light",
+                    defaultView: "both",
                     lastPosition: null,
-                    onboardingCompleted: true
+                    onboardingCompleted: true,
                   };
-                  localStorage.setItem('metta-sutta-settings', JSON.stringify(settings));
+                  localStorage.setItem("metta-sutta-settings", JSON.stringify(settings));
                   handleComplete();
                 }}
                 className="w-full py-4 text-lg"
@@ -147,13 +140,11 @@ export default function OnboardingPage() {
               <div className="flex justify-center mb-4">
                 <Sparkles className="w-16 h-16 text-primary" />
               </div>
-              <h2 className="text-2xl font-bold text-foreground mb-2">
-                준비 완료!
-              </h2>
+              <h2 className="text-2xl font-bold text-foreground mb-2">준비 완료!</h2>
               <p className="text-base text-muted-foreground mb-4">
                 이제 자비경을 연구할 준비가 되었습니다.
               </p>
-              <Button onClick={() => router.push('/')} size="lg" className="w-full text-lg py-6">
+              <Button onClick={() => router.push("/")} size="lg" className="w-full text-lg py-6">
                 경전 보기
               </Button>
             </div>

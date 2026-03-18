@@ -1,22 +1,22 @@
-'use client';
+"use client";
 
-import Link from 'next/link';
-import { useState, useEffect } from 'react';
-import { useRouter } from 'next/navigation';
-import { Button } from '@/components/ui/button';
+import Link from "next/link";
+import { useState, useEffect } from "react";
+import { useRouter } from "next/navigation";
+import { Button } from "@/components/ui/button";
 
 export default function HomePage() {
   const router = useRouter();
-  
+
   // 온보딩 체크
   const [mounted, setMounted] = useState(false);
   const [isOnboarded, setIsOnboarded] = useState(false);
-  
+
   useEffect(() => {
     // localStorage에서 온보딩 여부 체크
     let onboarded = false;
     try {
-      const settings = localStorage.getItem('metta-sutta-settings');
+      const settings = localStorage.getItem("metta-sutta-settings");
       if (settings) {
         const parsed = JSON.parse(settings);
         if (parsed.onboardingCompleted) {
@@ -24,7 +24,7 @@ export default function HomePage() {
         }
       }
     } catch (err) {
-      console.error('Failed to read settings:', err);
+      console.error("Failed to read settings:", err);
     }
 
     // eslint-disable-next-line react-hooks/set-state-in-effect
@@ -33,26 +33,24 @@ export default function HomePage() {
 
     // 온보딩이 완료되지 않으면 자동 리다이렉트
     if (!onboarded) {
-      router.replace('/onboarding');
+      router.replace("/onboarding");
     }
   }, [router]);
 
   const handleStart = () => {
-    const settings = localStorage.getItem('metta-sutta-settings');
+    const settings = localStorage.getItem("metta-sutta-settings");
     if (settings) {
       const parsed = JSON.parse(settings);
       const lastPosition = parsed.lastPosition;
-      const startLink = lastPosition
-        ? `/sutta/v${lastPosition.verseNumber}`
-        : '/sutta/v1';
+      const startLink = lastPosition ? `/sutta/v${lastPosition.verseNumber}` : "/sutta/v1";
       router.push(startLink);
     } else {
-      router.push('/sutta/v1');
+      router.push("/sutta/v1");
     }
   };
 
   const handleContinue = () => {
-    const settings = localStorage.getItem('metta-sutta-settings');
+    const settings = localStorage.getItem("metta-sutta-settings");
     if (settings) {
       const parsed = JSON.parse(settings);
       const lastPosition = parsed.lastPosition;
@@ -72,19 +70,14 @@ export default function HomePage() {
       <div className="max-w-md w-full text-center space-y-8">
         {/* 헤더 */}
         <div className="space-y-4">
-          <h1 className="text-4xl font-bold text-primary">
-            자비경 연구
-          </h1>
-          <p className="text-lg text-muted-foreground">
-            메타 숫타 팔리어 학습 도구
-          </p>
+          <h1 className="text-4xl font-bold text-primary">자비경 연구</h1>
+          <p className="text-lg text-muted-foreground">메타 숫타 팔리어 학습 도구</p>
         </div>
 
         {/* 설명 */}
         <div className="bg-card border rounded-lg p-6 text-left space-y-4">
           <p className="text-foreground">
-            팔리어 원전을 한국어로 직접 탐구하고
-            수행의 깊은 의미를 발견하세요.
+            팔리어 원전을 한국어로 직접 탐구하고 수행의 깊은 의미를 발견하세요.
           </p>
           <ul className="space-y-2 text-muted-foreground text-sm">
             <li>• 팔리어 원문 + 한국어 번역</li>
@@ -105,7 +98,8 @@ export default function HomePage() {
               </div>
             </div>
             <p className="text-blue-800 text-lg">
-              빨리어 문구를 넣으면<br />
+              빨리어 문구를 넣으면
+              <br />
               <strong>단어 · 문법 · 해설</strong>을 알려드려요
             </p>
             <div className="flex items-center justify-end text-blue-600 font-semibold text-lg">
@@ -129,9 +123,7 @@ export default function HomePage() {
 
         {/* 설정 */}
         <Button asChild variant="ghost" size="sm">
-          <Link href="/settings">
-            설정
-          </Link>
+          <Link href="/settings">설정</Link>
         </Button>
       </div>
     </div>
