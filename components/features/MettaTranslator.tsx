@@ -269,6 +269,7 @@ export default function MettaTranslator() {
           </div>
         </div>
       )}
+      </div>
     </div>
   );
 }
