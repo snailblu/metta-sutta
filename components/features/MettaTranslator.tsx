@@ -1,7 +1,7 @@
 'use client';
 
 import { experimental_useObject as useObject } from '@ai-sdk/react';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { z } from 'zod';
 
 // Zod 스키마 정의 (서버와 동일)
@@ -27,6 +27,14 @@ export default function MettaTranslator() {
   });
 
   const [input, setInput] = useState('Sabbe sattā bhavantu sukhitattā');
+  const [showErrorPopup, setShowErrorPopup] = useState(false);
+
+  // 에러 발생 시 팝업 표시
+  useEffect(() => {
+    if (error) {
+      setShowErrorPopup(true);
+    }
+  }, [error]);
 
   return (
     <div className="max-w-3xl mx-auto p-6 bg-white rounded-2xl shadow-lg border border-gray-100">
@@ -61,10 +69,27 @@ export default function MettaTranslator() {
         </button>
       </div>
 
-      {/* 에러 메시지 */}
-      {error && (
-        <div className="p-4 mb-6 bg-red-50 text-red-700 rounded-xl border border-red-200">
-          ⚠️ 오류가 발생했습니다: {error.message}
+      {/* 에러 팝업 */}
+      {showErrorPopup && error && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">
+          <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full p-6 border-2 border-red-200">
+            <div className="flex items-center gap-3 mb-4">
+              <span className="text-4xl">⚠️</span>
+              <h3 className="text-xl font-bold text-red-600">분석 오류</h3>
+            </div>
+            <p className="text-gray-700 mb-4">
+              AI 분석 중 오류가 발생했습니다.
+            </p>
+            <div className="bg-red-50 p-3 rounded-lg mb-4 text-sm text-red-700 break-all">
+              {error.message || '알 수 없는 오류'}
+            </div>
+            <button
+              onClick={() => setShowErrorPopup(false)}
+              className="w-full py-3 bg-red-600 hover:bg-red-700 text-white font-bold rounded-xl transition-colors"
+            >
+              닫기
+            </button>
+          </div>
         </div>
       )}
 

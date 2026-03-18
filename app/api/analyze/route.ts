@@ -30,7 +30,7 @@ export async function POST(req: Request) {
   const { prompt } = await req.json();
 
   const result = streamObject({
-    model: google('models/gemini-3-flash-preview'), // Gemini 3.0 Flash Preview 시도
+    model: google('models/gemini-2.5-flash-preview'), // Gemini 2.5 Flash Preview
     schema: analysisSchema,
     system: METTA_SYSTEM_PROMPT,
     prompt: prompt,
