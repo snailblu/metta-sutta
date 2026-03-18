@@ -18,8 +18,15 @@ interface WordsData {
   words: Word[];
 }
 
+interface PhraseWordEntry {
+  id: string;
+  phraseId: string;
+  verseId: string;
+  wordId: string;
+}
+
 interface PhraseWordsData {
-  phraseWords: Array<{ phraseId: string; wordIds: string[] }>;
+  phraseWords: PhraseWordEntry[];
 }
 
 // 구절 데이터
@@ -55,8 +62,9 @@ import phraseWordsData from './metta-sutta/phrase-words.json';
 export const allPhraseWords = (phraseWordsData as PhraseWordsData).phraseWords;
 
 export function getPhraseWordIds(phraseId: string): string[] {
-  const phraseWord = allPhraseWords.find((pw) => pw.phraseId === phraseId);
-  return phraseWord?.wordIds ?? [];
+  return allPhraseWords
+    .filter((pw) => pw.phraseId === phraseId)
+    .map((pw) => pw.wordId);
 }
 
 interface VersesData {
