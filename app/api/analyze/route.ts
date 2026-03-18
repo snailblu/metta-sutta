@@ -27,14 +27,32 @@ const analysisSchema = z.object({
 });
 
 export async function POST(req: Request) {
-  const { prompt } = await req.json();
+  try {
+    const { prompt } = await req.json();
 
-  const result = streamObject({
-    model: google('models/gemini-2.5-flash-preview'), // Gemini 2.5 Flash Preview
-    schema: analysisSchema,
-    system: METTA_SYSTEM_PROMPT,
-    prompt: prompt,
-  });
+    if (!prompt) {
+      return new Response(JSON.stringify({ error: 'prompt is required' }), {
+        status: 400,
+        headers: { 'Content-Type': 'application/json' },
+      });
+    }
 
-  return result.toTextStreamResponse();
+    const result = streamObject({
+      model: google('gemini-2.5-flash'), // Gemini 2.5 Flash (안정 버전)
+      schema: analysisSchema,
+      system: METTA_SYSTEM_PROMPT,
+      prompt: prompt,
+    });
+
+    return result.toTextStreamResponse();
+  } catch (error) {
+    console.error('Analyze API error:', error);
+    
+    const errorMessage = error instanceof Error ? error.message : 'Unknown error';
+    
+    return new Response(JSON.stringify({ error: errorMessage }), {
+      status: 500,
+      headers: { 'Content-Type': 'application/json' },
+    });
+  }
 }
