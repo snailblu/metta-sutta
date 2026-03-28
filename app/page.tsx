@@ -27,7 +27,6 @@ export default function HomePage() {
       console.error("Failed to read settings:", err);
     }
 
-    // eslint-disable-next-line react-hooks/set-state-in-effect
     setIsOnboarded(onboarded);
     setMounted(true);
 

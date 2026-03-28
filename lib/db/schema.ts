@@ -1,8 +1,8 @@
-import Dexie, { Table } from 'dexie';
+import Dexie, { Table } from "dexie";
 
 export interface UserNote {
   id?: string;
-  targetType: 'phrase' | 'word';
+  targetType: "phrase" | "word";
   targetId: string;
   content: string;
   createdAt: Date;
@@ -19,7 +19,7 @@ export interface ReadingProgress {
 
 export interface Bookmark {
   id?: string;
-  type: 'verse' | 'phrase' | 'word';
+  type: "verse" | "phrase" | "word";
   targetId: string;
   title: string;
   createdAt: Date;
@@ -31,13 +31,13 @@ class MettaSuttaDB extends Dexie {
   bookmarks!: Table<Bookmark>;
 
   constructor() {
-    super('MettaSuttaDB');
+    super("MettaSuttaDB");
 
     // 스키마 정의
     this.version(1).stores({
-      notes: '++id, targetType, targetId, createdAt, updatedAt',
-      progress: '++id, suttaId, verseNumber, lastReadAt',
-      bookmarks: '++id, type, targetId, createdAt',
+      notes: "++id, targetType, targetId, createdAt, updatedAt",
+      progress: "++id, suttaId, verseNumber, lastReadAt",
+      bookmarks: "++id, type, targetId, createdAt",
     });
   }
 }
@@ -48,10 +48,8 @@ export const db = new MettaSuttaDB();
 // 헬퍼 함수: 노트 CRUD
 export const noteHelpers = {
   // 노트 추가/업데이트
-  async upsert(targetType: UserNote['targetType'], targetId: string, content: string) {
-    const existing = await db.notes
-      .where({ targetType, targetId })
-      .first();
+  async upsert(targetType: UserNote["targetType"], targetId: string, content: string) {
+    const existing = await db.notes.where({ targetType, targetId }).first();
 
     if (existing) {
       await db.notes.update(existing.id!, {
@@ -72,7 +70,7 @@ export const noteHelpers = {
   },
 
   // 노트 조회
-  async get(targetType: UserNote['targetType'], targetId: string) {
+  async get(targetType: UserNote["targetType"], targetId: string) {
     return await db.notes.where({ targetType, targetId }).first();
   },
 
@@ -83,7 +81,7 @@ export const noteHelpers = {
 
   // 모든 노트 목록
   async list() {
-    return await db.notes.orderBy('updatedAt').reverse().toArray();
+    return await db.notes.orderBy("updatedAt").reverse().toArray();
   },
 };
 
@@ -118,7 +116,7 @@ export const progressHelpers = {
 // 헬퍼 함수: 북마크
 export const bookmarkHelpers = {
   // 북마크 추가
-  async add(type: Bookmark['type'], targetId: string, title: string) {
+  async add(type: Bookmark["type"], targetId: string, title: string) {
     return await db.bookmarks.add({
       type,
       targetId,
@@ -134,11 +132,11 @@ export const bookmarkHelpers = {
 
   // 북마크 목록
   async list() {
-    return await db.bookmarks.orderBy('createdAt').reverse().toArray();
+    return await db.bookmarks.orderBy("createdAt").reverse().toArray();
   },
 
   // 북마크 여부 확인
-  async exists(type: Bookmark['type'], targetId: string) {
-    return await db.bookmarks.where({ type, targetId }).count() > 0;
+  async exists(type: Bookmark["type"], targetId: string) {
+    return (await db.bookmarks.where({ type, targetId }).count()) > 0;
   },
 };

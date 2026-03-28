@@ -78,7 +78,15 @@
       "order": 1,
       "paliText": "Sukhino vā khemino hontu sabbe sattā bhavantu sukhitattā",
       "koreanTranslation": "모든 존재가 행복하고 평안하기를 모든 존재가 마음으로 행복하기를",
-      "wordIds": ["w-sukhino", "w-khemino", "w-hontu", "w-sabba", "w-satta", "w-bhavantu", "w-sukhitatta"]
+      "wordIds": [
+        "w-sukhino",
+        "w-khemino",
+        "w-hontu",
+        "w-sabba",
+        "w-satta",
+        "w-bhavantu",
+        "w-sukhitatta"
+      ]
     },
     {
       "id": "p6-1",
@@ -110,7 +118,19 @@
       "order": 1,
       "paliText": "Mātā yathā niyaṃ puttaṃ āyusā ekaputtamanurakkhe evampi sabbabhūtesu mānasaṃ bhāvaye aparimāṇaṃ",
       "koreanTranslation": "마치 어머니가 자신의 아들을 목숨을 걸고 외아들을 보호하듯 그와 같이 모든 존재에 대해 무한한 마음을 닦아야 하리",
-      "wordIds": ["w-mata", "w-yatha", "w-niya", "w-puttam", "w-ayusa", "w-ekaputta", "w-anurakkhe", "w-evampi", "w-manasam", "w-bhavaye", "w-aparimana"]
+      "wordIds": [
+        "w-mata",
+        "w-yatha",
+        "w-niya",
+        "w-puttam",
+        "w-ayusa",
+        "w-ekaputta",
+        "w-anurakkhe",
+        "w-evampi",
+        "w-manasam",
+        "w-bhavaye",
+        "w-aparimana"
+      ]
     },
     {
       "id": "p10-1",
@@ -118,7 +138,20 @@
       "order": 1,
       "paliText": "Mettañca sabbalokasmiṃ mānasaṃ bhāvaye aparimāṇaṃ uddhaṃ adho ca tiriyañca asambādhaṃ averaṃ asapattaṃ",
       "koreanTranslation": "온 세상에 대한 자비로 무한한 마음을 닦아야 하리 위로 아래로 옆으로 장애 없이 원한 없이 적의 없이",
-      "wordIds": ["w-metta", "w-sabbaloka", "w-si", "w-manasam", "w-bhavaye", "w-aparimana", "w-uddham", "w-adho", "w-tiriyamca", "w-asambadha", "w-avera", "w-asapatta"]
+      "wordIds": [
+        "w-metta",
+        "w-sabbaloka",
+        "w-si",
+        "w-manasam",
+        "w-bhavaye",
+        "w-aparimana",
+        "w-uddham",
+        "w-adho",
+        "w-tiriyamca",
+        "w-asambadha",
+        "w-avera",
+        "w-asapatta"
+      ]
     },
     {
       "id": "p11-1",

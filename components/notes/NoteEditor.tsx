@@ -1,18 +1,18 @@
-'use client';
+"use client";
 
-import { useState, useEffect } from 'react';
-import { Button } from '@/components/ui/button';
-import { X } from 'lucide-react';
-import { useNotes } from '@/lib/db/hooks';
+import { useState, useEffect } from "react";
+import { Button } from "@/components/ui/button";
+import { X } from "lucide-react";
+import { useNotes } from "@/lib/db/hooks";
 
 interface Props {
-  targetType: 'phrase' | 'word';
+  targetType: "phrase" | "word";
   targetId: string;
   onClose: () => void;
 }
 
 export function NoteEditor({ targetType, targetId, onClose }: Props) {
-  const [content, setContent] = useState('');
+  const [content, setContent] = useState("");
   const [saving, setSaving] = useState(false);
   const [deleting, setDeleting] = useState(false);
   const { note, loading, saveNote, deleteNote } = useNotes(targetType, targetId);
@@ -28,7 +28,7 @@ export function NoteEditor({ targetType, targetId, onClose }: Props) {
     try {
       await saveNote(content);
     } catch (err) {
-      alert('메모 저장에 실패했습니다.');
+      alert("메모 저장에 실패했습니다.");
       console.error(err);
     } finally {
       setSaving(false);
@@ -36,13 +36,13 @@ export function NoteEditor({ targetType, targetId, onClose }: Props) {
   };
 
   const handleDelete = async () => {
-    if (!confirm('정말로 이 메모를 삭제하시겠습니까?')) return;
+    if (!confirm("정말로 이 메모를 삭제하시겠습니까?")) return;
 
     setDeleting(true);
     try {
       await deleteNote();
     } catch (err) {
-      alert('메모 삭제에 실패했습니다.');
+      alert("메모 삭제에 실패했습니다.");
       console.error(err);
     } finally {
       setDeleting(false);
@@ -68,7 +68,7 @@ export function NoteEditor({ targetType, targetId, onClose }: Props) {
       <div className="bg-neutral-50 dark:bg-neutral-950 border rounded-lg max-w-md w-full p-6 shadow-2xl">
         {/* 헤더 */}
         <div className="flex items-center justify-between mb-4">
-          <h2 className="text-xl font-bold">📝 메모 {note ? '편집' : '추가'}</h2>
+          <h2 className="text-xl font-bold">📝 메모 {note ? "편집" : "추가"}</h2>
           <Button variant="ghost" size="sm" onClick={handleCancel}>
             <X className="h-4 w-4" />
           </Button>
@@ -77,7 +77,7 @@ export function NoteEditor({ targetType, targetId, onClose }: Props) {
         {/* 텍스트 에리어 */}
         <textarea
           value={content}
-          onChange={(e) => setContent(e.target.value)}
+          onChange={e => setContent(e.target.value)}
           placeholder="메모를 입력하세요..."
           className="w-full min-h-[200px] p-3 border rounded-lg bg-background text-foreground focus:outline-none focus:ring-2 focus:ring-ring/50"
           disabled={saving}
@@ -100,7 +100,7 @@ export function NoteEditor({ targetType, targetId, onClose }: Props) {
               disabled={saving || deleting}
               className="flex-1"
             >
-              {deleting ? '삭제 중...' : '삭제'}
+              {deleting ? "삭제 중..." : "삭제"}
             </Button>
           )}
           <Button
@@ -108,7 +108,7 @@ export function NoteEditor({ targetType, targetId, onClose }: Props) {
             disabled={saving || deleting || !content.trim()}
             className="flex-1 bg-primary text-primary-foreground hover:bg-primary/90"
           >
-            {saving ? '저장 중...' : '저장'}
+            {saving ? "저장 중..." : "저장"}
           </Button>
         </div>
 

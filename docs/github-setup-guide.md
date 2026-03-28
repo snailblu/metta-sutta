@@ -6,15 +6,15 @@
 
 ## 🎯 깃헙브 옵션 비교
 
-| 옵션 | GitHub Pages | GitHub Codespaces | Vercel | 추천 |
-|--------|--------------|----------------|--------|--------|
-| **비용** | 완전 무료 | 완전 무료 (300MB) | 완전 무료 (Hobby) | ⭐ |
-| **저장소** | 1GB | 300MB | 무제한 (Hobby) | ⭐ |
-| **CI/CD** | GitHub Actions | GitHub Actions | 자동 | ⭐ |
-| **오프라인** | 지원하지 않음 | 자동 지원 | 자동 지원 | ⭐ |
-| **배포** | GitHub Actions | GitHub Actions | Vercel CLI | ⭐ |
-| **프라이빗** | 공개 | 프라이빗/공개 | 프라이빗/무료 | ⭐ |
-| **팀** | 제한 있음 | 제한 있음 | 유료 계정 필요 | - |
+| 옵션         | GitHub Pages   | GitHub Codespaces | Vercel            | 추천 |
+| ------------ | -------------- | ----------------- | ----------------- | ---- |
+| **비용**     | 완전 무료      | 완전 무료 (300MB) | 완전 무료 (Hobby) | ⭐   |
+| **저장소**   | 1GB            | 300MB             | 무제한 (Hobby)    | ⭐   |
+| **CI/CD**    | GitHub Actions | GitHub Actions    | 자동              | ⭐   |
+| **오프라인** | 지원하지 않음  | 자동 지원         | 자동 지원         | ⭐   |
+| **배포**     | GitHub Actions | GitHub Actions    | Vercel CLI        | ⭐   |
+| **프라이빗** | 공개           | 프라이빗/공개     | 프라이빗/무료     | ⭐   |
+| **팀**       | 제한 있음      | 제한 있음         | 유료 계정 필요    | -    |
 
 **🏆 추천: Vercel (프라이빗 + 무제한 저장소 + 오프라인 자동 지원)**
 
@@ -23,6 +23,7 @@
 ## 🚀 추천: Vercel 배포 (프라이빗)
 
 ### 장점
+
 - ⭐ **무제한 저장소** - S3 벡엘 스토리지 사용
 - ⭐ **자동 CI/CD** - git push만 하면 자동 배포
 - ⭐ **오프라인 지원** - 자동으로 static assets 캐싱
@@ -31,6 +32,7 @@
 - ⭐ **빠른 배포** - 보통 1분 이내 배포 완료
 
 ### 설정 방법
+
 1. **Vercel 계정 생성** - https://vercel.com/signup
 2. **GitHub 연동** - Vercel에서 GitHub 계정 연동
 3. **프로젝트 임포트** - 'Add New' → 'Git' → 저장소 선택
@@ -41,7 +43,9 @@
 ## 🎯 옵션 A: GitHub Codespaces (프라이빗, 300MB)
 
 ### 설정 단계
+
 1. **저장소 생성**
+
    ```bash
    cd /home/node/.openclaw/workspace/metta-sutta
    git init
@@ -74,6 +78,7 @@
    - commit 메시지 입력 후 'Commit & Push' 클릭
 
 ### 배포 (GitHub Pages)
+
 - 저장소 Settings → Pages → Branch: `main` → Save
 - 배포가 완료되면 `https://YOUR_USERNAME.github.io/metta-sutta-app`에서 접속
 
@@ -82,6 +87,7 @@
 ## 🎯 옵션 B: GitHub Organization Repository (팀, 비공개)
 
 ### 설정 단계
+
 1. **팀 생성** (또는 기존 팀 사용)
    - https://github.com/organizations/new
    - Organization name: `metta-sutta` (또는 원하는 이름)
@@ -96,6 +102,7 @@
    - Add .gitignore 체크
 
 3. **로컬 git 설정**
+
    ```bash
    cd /home/node/.openclaw/workspace/metta-sutta
    git remote add origin https://github.com/YOUR_ORG/metta-sutta-app.git
@@ -112,6 +119,7 @@
 ## 🎯 옵션 C: GitHub Organization Repository + Vercel 배포
 
 ### 설정 단계
+
 1-2. 옵션 B와 동일 (Organization Repository 생성)
 
 3. **Vercel 연결**
@@ -128,6 +136,7 @@
 5. **GitHub Actions Workflow 설정**
    - 저장소 Actions → New workflow → `deploy.yml` 생성
    - 아래 YAML 복사
+
    ```yaml
    name: Deploy to Vercel
    on:
@@ -201,16 +210,19 @@ metta-sutta-app/
 ## 🚀 배포 체크리스트
 
 ### GitHub Pages 배포 전
+
 - [ ] `.gitignore` 설정 (node_modules, .next)
 - [ ] `output: 'export'` (next.config.js)
 - [ ] GitHub Pages 설정에서 Build & Deployment
 
 ### Vercel 배포 전
+
 - [ ] `.env` 파일 생성 및 .gitignore에 추가
 - [ ] `vercel.json` 설정 (프레임워크, 빌드 명령)
 - [ ] 로컬 빌드 테스트: `npm run build`
 
 ### Vercel 배포 후
+
 - [ ] 배포된 URL 접속 테스트
 - [ ] PWA manifest 로드 확인
 - [ ] Service Worker 등록 확인
