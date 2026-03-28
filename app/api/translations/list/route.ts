@@ -1,12 +1,13 @@
 import { ConvexHttpClient } from "convex/browser";
 import { api } from "@/convex/_generated/api";
 import { logger } from "@/lib/logger";
+import {
+  analysisSchema,
+  type StoredTranslationRecord,
+  type TranslationHistoryItem,
+} from "@/lib/translations";
 
 const convex = new ConvexHttpClient(process.env.NEXT_PUBLIC_CONVEX_URL!);
-
-interface StoredTranslation {
-  result: string;
-}
 
 export async function GET(req: Request) {
   try {
@@ -22,9 +23,9 @@ export async function GET(req: Request) {
     }
 
     // Parse result JSON
-    const parsed = translations.map((t: StoredTranslation) => ({
+    const parsed: TranslationHistoryItem[] = translations.map((t: StoredTranslationRecord) => ({
       ...t,
-      result: JSON.parse(t.result),
+      result: analysisSchema.parse(JSON.parse(t.result)),
     }));
 
     return new Response(JSON.stringify(parsed), {

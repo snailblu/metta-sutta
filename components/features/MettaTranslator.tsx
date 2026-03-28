@@ -2,48 +2,12 @@
 
 import { experimental_useObject as useObject } from "@ai-sdk/react";
 import { useState, useEffect } from "react";
-import { z } from "zod";
 import { logger } from "@/lib/logger";
-
-// Zod 스키마 정의 (서버와 동일)
-const analysisSchema = z.object({
-  original: z.string(),
-  pali_analysis: z.array(
-    z.object({
-      word: z.string(),
-      grammar: z.string(),
-      meaning: z.string(),
-      note: z.string().optional(),
-    })
-  ),
-  translations: z.object({
-    literal: z.string(),
-    zen_style: z.string(),
-  }),
-  commentary: z.string(),
-});
-
-interface Translation {
-  _id: string;
-  original: string;
-  result: {
-    original: string;
-    pali_analysis: Array<{
-      word: string;
-      grammar: string;
-      meaning: string;
-      note?: string;
-    }>;
-    translations: {
-      literal: string;
-      zen_style: string;
-    };
-    commentary: string;
-  };
-  createdAt: number;
-}
-
-type AnalysisResult = z.infer<typeof analysisSchema>;
+import {
+  analysisSchema,
+  type AnalysisResult,
+  type TranslationHistoryItem,
+} from "@/lib/translations";
 
 export default function MettaTranslator() {
   const { object, submit, isLoading, error } = useObject({
@@ -54,9 +18,9 @@ export default function MettaTranslator() {
   const [input, setInput] = useState("Sabbe sattā bhavantu sukhitattā");
   const [showErrorPopup, setShowErrorPopup] = useState(false);
   const [showHistory, setShowHistory] = useState(false);
-  const [history, setHistory] = useState<Translation[]>([]);
+  const [history, setHistory] = useState<TranslationHistoryItem[]>([]);
   const [searchQuery, setSearchQuery] = useState("");
-  const [selectedHistory, setSelectedHistory] = useState<Translation | null>(null);
+  const [selectedHistory, setSelectedHistory] = useState<TranslationHistoryItem | null>(null);
 
   // 에러 발생 시 팝업 표시
   useEffect(() => {
@@ -91,7 +55,7 @@ export default function MettaTranslator() {
   const loadHistory = async () => {
     try {
       const res = await fetch("/api/translations/list");
-      const data = await res.json();
+      const data: TranslationHistoryItem[] = await res.json();
       setHistory(data);
     } catch (error) {
       logger.error("Load translation history failed", error);
@@ -101,7 +65,7 @@ export default function MettaTranslator() {
   const searchHistory = async (query: string) => {
     try {
       const res = await fetch(`/api/translations/list?q=${encodeURIComponent(query)}`);
-      const data = await res.json();
+      const data: TranslationHistoryItem[] = await res.json();
       setHistory(data);
     } catch (error) {
       logger.error("Search translation history failed", error);

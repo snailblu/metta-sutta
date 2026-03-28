@@ -1,6 +1,7 @@
 import { describe, it, expect, vi } from "vitest";
 import { render, screen } from "@testing-library/react";
 import MettaTranslator from "./MettaTranslator";
+import type { TranslationHistoryItem } from "@/lib/translations";
 
 // Mock @ai-sdk/react
 vi.mock("@ai-sdk/react", () => ({
@@ -12,12 +13,14 @@ vi.mock("@ai-sdk/react", () => ({
   })),
 }));
 
-// Mock fetch
-global.fetch = vi.fn(() =>
-  Promise.resolve({
-    json: () => Promise.resolve([]),
-  })
-) as unknown as typeof fetch;
+const createMockResponse = (data: TranslationHistoryItem[]): Response =>
+  ({
+    json: vi.fn().mockResolvedValue(data),
+  }) as unknown as Response;
+
+const mockFetch: typeof fetch = vi.fn(async () => createMockResponse([]));
+
+global.fetch = mockFetch;
 
 describe("MettaTranslator", () => {
   it("renders the translator component", () => {
