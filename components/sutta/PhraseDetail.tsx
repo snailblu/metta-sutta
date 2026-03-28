@@ -27,7 +27,7 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
   if (!phrase) return null;
 
   const columnTitleClass = "text-sm font-semibold tracking-wide text-muted-foreground";
-  const textClass = `${fontSizeClass} leading-relaxed`;
+  const textClass = `${fontSizeClass} leading-relaxed break-words`;
 
   return (
     <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/50 backdrop-blur-sm p-4 sm:p-6">
@@ -45,15 +45,15 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
           {/* 3열 비교 */}
           <div className="bg-muted/30 rounded-lg p-4 sm:p-6">
             <div className="grid grid-cols-1 gap-4 lg:grid-cols-3">
-              <section className="rounded-lg bg-background/80 p-4 sm:p-5">
+              <section className="min-w-0 rounded-lg bg-background/80 p-4 sm:p-5">
                 <p className={columnTitleClass}>Pali</p>
                 <p className={`${textClass} mt-3 text-primary`}>{phrase.paliText}</p>
               </section>
-              <section className="rounded-lg bg-background/80 p-4 sm:p-5">
+              <section className="min-w-0 rounded-lg bg-background/80 p-4 sm:p-5">
                 <p className={columnTitleClass}>한국어</p>
                 <p className={`${textClass} mt-3 text-foreground`}>{phrase.koreanTranslation}</p>
               </section>
-              <section className="rounded-lg bg-background/80 p-4 sm:p-5">
+              <section className="min-w-0 rounded-lg bg-background/80 p-4 sm:p-5">
                 <p className={columnTitleClass}>漢字</p>
                 <p className={`${textClass} mt-3 text-foreground`}>{phrase.chineseTranslation}</p>
               </section>

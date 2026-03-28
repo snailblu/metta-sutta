@@ -31,8 +31,14 @@ export default function MettaTranslator() {
 
   // 분석 완료 후 저장
   useEffect(() => {
-    if (object && !isLoading && object.original) {
-      saveTranslation(object as AnalysisResult);
+    if (isLoading || !object) {
+      return;
+    }
+
+    const parsedResult = analysisSchema.safeParse(object);
+
+    if (parsedResult.success) {
+      saveTranslation(parsedResult.data);
       loadHistory();
     }
   }, [object, isLoading]);
