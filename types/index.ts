@@ -26,7 +26,6 @@ export interface Phrase {
   order: number;
   paliText: string;
   koreanTranslation: string;
-  chineseTranslation: string;
   wordIds: string[];
 }
 
