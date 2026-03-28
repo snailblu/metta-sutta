@@ -1,5 +1,6 @@
 import { ConvexHttpClient } from "convex/browser";
 import { api } from "@/convex/_generated/api";
+import { logger } from "@/lib/logger";
 
 const convex = new ConvexHttpClient(process.env.NEXT_PUBLIC_CONVEX_URL!);
 
@@ -23,7 +24,7 @@ export async function POST(req: Request) {
       headers: { "Content-Type": "application/json" },
     });
   } catch (error) {
-    console.error("Save translation error:", error);
+    logger.error("Save translation error", error);
     return new Response(JSON.stringify({ error: "Failed to save" }), {
       status: 500,
       headers: { "Content-Type": "application/json" },
