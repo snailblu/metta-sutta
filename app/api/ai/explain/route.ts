@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getPhrase } from "@/data";
+import { logger } from "@/lib/logger";
 
 export async function POST(request: NextRequest) {
   try {
@@ -26,7 +27,7 @@ export async function POST(request: NextRequest) {
 
     return NextResponse.json(response);
   } catch (error) {
-    console.error("AI explanation error:", error);
+    logger.error("AI explanation error", error);
     return NextResponse.json({ error: "Internal server error" }, { status: 500 });
   }
 }

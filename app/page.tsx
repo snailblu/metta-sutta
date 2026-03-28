@@ -23,9 +23,7 @@ export default function HomePage() {
           onboarded = true;
         }
       }
-    } catch (err) {
-      console.error("Failed to read settings:", err);
-    }
+    } catch {}
 
     setIsOnboarded(onboarded);
     setMounted(true);

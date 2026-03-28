@@ -3,6 +3,7 @@
 import { experimental_useObject as useObject } from "@ai-sdk/react";
 import { useState, useEffect } from "react";
 import { z } from "zod";
+import { logger } from "@/lib/logger";
 
 // Zod 스키마 정의 (서버와 동일)
 const analysisSchema = z.object({
@@ -42,6 +43,8 @@ interface Translation {
   createdAt: number;
 }
 
+type AnalysisResult = z.infer<typeof analysisSchema>;
+
 export default function MettaTranslator() {
   const { object, submit, isLoading, error } = useObject({
     api: "/api/analyze",
@@ -70,7 +73,7 @@ export default function MettaTranslator() {
     }
   }, [object, isLoading]);
 
-  const saveTranslation = async (result: any) => {
+  const saveTranslation = async (result: AnalysisResult) => {
     try {
       await fetch("/api/translations/save", {
         method: "POST",
@@ -81,7 +84,7 @@ export default function MettaTranslator() {
         }),
       });
     } catch (error) {
-      console.error("Save failed:", error);
+      logger.error("Save translation failed", error);
     }
   };
 
@@ -91,7 +94,7 @@ export default function MettaTranslator() {
       const data = await res.json();
       setHistory(data);
     } catch (error) {
-      console.error("Load history failed:", error);
+      logger.error("Load translation history failed", error);
     }
   };
 
@@ -101,7 +104,7 @@ export default function MettaTranslator() {
       const data = await res.json();
       setHistory(data);
     } catch (error) {
-      console.error("Search failed:", error);
+      logger.error("Search translation history failed", error);
     }
   };
 

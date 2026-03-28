@@ -2,6 +2,7 @@ import { createGoogleGenerativeAI } from "@ai-sdk/google";
 import { streamObject } from "ai";
 import { z } from "zod";
 import { METTA_SYSTEM_PROMPT } from "@/lib/ai/prompts";
+import { logger } from "@/lib/logger";
 
 // 최대 실행 시간 설정 (Vercel 호환)
 export const maxDuration = 60;
@@ -50,7 +51,7 @@ export async function POST(req: Request) {
 
     return result.toTextStreamResponse();
   } catch (error) {
-    console.error("Analyze API error:", error);
+    logger.error("Analyze API error", error);
 
     const errorMessage = error instanceof Error ? error.message : "Unknown error";
 

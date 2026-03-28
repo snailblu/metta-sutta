@@ -17,7 +17,7 @@ global.fetch = vi.fn(() =>
   Promise.resolve({
     json: () => Promise.resolve([]),
   })
-) as any;
+) as unknown as typeof fetch;
 
 describe("MettaTranslator", () => {
   it("renders the translator component", () => {

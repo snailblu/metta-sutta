@@ -27,9 +27,8 @@ export function NoteEditor({ targetType, targetId, onClose }: Props) {
     setSaving(true);
     try {
       await saveNote(content);
-    } catch (err) {
+    } catch {
       alert("메모 저장에 실패했습니다.");
-      console.error(err);
     } finally {
       setSaving(false);
     }
@@ -41,9 +40,8 @@ export function NoteEditor({ targetType, targetId, onClose }: Props) {
     setDeleting(true);
     try {
       await deleteNote();
-    } catch (err) {
+    } catch {
       alert("메모 삭제에 실패했습니다.");
-      console.error(err);
     } finally {
       setDeleting(false);
     }
