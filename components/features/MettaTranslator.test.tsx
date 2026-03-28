@@ -1,57 +1,308 @@
-import { describe, it, expect, vi } from "vitest";
-import { render, screen } from "@testing-library/react";
+import { describe, it, expect, vi, beforeEach, afterEach } from "vitest";
+import { render, screen, waitFor } from "@testing-library/react";
+import userEvent from "@testing-library/user-event";
+import type { AnalysisResult, TranslationHistoryItem } from "@/lib/translations";
 import MettaTranslator from "./MettaTranslator";
-import type { TranslationHistoryItem } from "@/lib/translations";
+import { logger } from "@/lib/logger";
 
-// Mock @ai-sdk/react
+const mockUseObject = vi.fn();
+
 vi.mock("@ai-sdk/react", () => ({
-  experimental_useObject: vi.fn(() => ({
-    object: null,
-    submit: vi.fn(),
-    isLoading: false,
-    error: null,
-  })),
+  experimental_useObject: () => mockUseObject(),
 }));
 
-const createMockResponse = (data: TranslationHistoryItem[]): Response =>
-  ({
-    json: vi.fn().mockResolvedValue(data),
-  }) as unknown as Response;
+vi.mock("@/lib/logger", () => ({
+  logger: {
+    error: vi.fn(),
+    warn: vi.fn(),
+    info: vi.fn(),
+    debug: vi.fn(),
+  },
+}));
 
-const mockFetch: typeof fetch = vi.fn(async () => createMockResponse([]));
+const analysisResult: AnalysisResult = {
+  original: "Sabbe sattā bhavantu sukhitattā",
+  translations: {
+    literal: "May all beings be happy-minded.",
+    zen_style: "May all beings rest in ease.",
+  },
+  commentary: "A wish for universal well-being.",
+  pali_analysis: [
+    {
+      word: "Sabbe",
+      grammar: "adjective",
+      meaning: "all",
+    },
+    {
+      word: "sattā",
+      grammar: "noun",
+      meaning: "beings",
+    },
+  ],
+};
 
-global.fetch = mockFetch;
+const historyItem: TranslationHistoryItem = {
+  _id: "history-1",
+  original: analysisResult.original,
+  result: analysisResult,
+  createdAt: new Date("2025-01-02T03:04:05Z").getTime(),
+};
 
 describe("MettaTranslator", () => {
-  it("renders the translator component", () => {
+  beforeEach(() => {
+    mockUseObject.mockReturnValue({
+      object: null,
+      submit: vi.fn(),
+      isLoading: false,
+      error: null,
+    });
+    global.fetch = vi.fn();
+    vi.clearAllMocks();
+  });
+
+  afterEach(() => {
+    vi.unstubAllGlobals();
+  });
+
+  it("submits the current input and shows loading state", async () => {
+    const submit = vi.fn();
+    const user = userEvent.setup();
+
+    mockUseObject.mockReturnValue({
+      object: null,
+      submit,
+      isLoading: true,
+      error: null,
+    });
+
+    const { rerender } = render(<MettaTranslator />);
+
+    expect(screen.getByRole("button", { name: /분석 중/i })).toBeDisabled();
+
+    mockUseObject.mockReturnValue({
+      object: null,
+      submit,
+      isLoading: false,
+      error: null,
+    });
+
+    rerender(<MettaTranslator />);
+
+    const textarea = screen.getByLabelText("빨리어 또는 영어 문구를 입력하세요");
+    await user.clear(textarea);
+    await user.type(textarea, "Metta for everyone");
+    await user.click(screen.getByRole("button", { name: "분석 시작" }));
+
+    expect(submit).toHaveBeenCalledWith({ prompt: "Metta for everyone" });
+
+    await user.clear(textarea);
+    expect(screen.getByRole("button", { name: "분석 시작" })).toBeDisabled();
+  });
+
+  it("renders analysis results and persists them after a completed response", async () => {
+    const fetchMock = vi.fn(async (input: RequestInfo | URL, init?: RequestInit) => {
+      const url = String(input);
+
+      if (url === "/api/translations/save") {
+        return {
+          json: vi.fn().mockResolvedValue({ ok: true }),
+        } as unknown as Response;
+      }
+
+      if (url === "/api/translations/list") {
+        return {
+          json: vi.fn().mockResolvedValue([historyItem]),
+        } as unknown as Response;
+      }
+
+      throw new Error(`Unexpected fetch: ${url} ${JSON.stringify(init)}`);
+    });
+
+    global.fetch = fetchMock;
+    mockUseObject.mockReturnValue({
+      object: analysisResult,
+      submit: vi.fn(),
+      isLoading: false,
+      error: null,
+    });
+
     render(<MettaTranslator />);
 
-    // Check for main title - use function matcher for split text
+    expect(screen.getByText("May all beings be happy-minded.")).toBeInTheDocument();
+    expect(screen.getByText('"May all beings rest in ease."')).toBeInTheDocument();
+    expect(screen.getByText("A wish for universal well-being.")).toBeInTheDocument();
+    expect(screen.getByText("Sabbe")).toBeInTheDocument();
+    expect(screen.getByText("sattā")).toBeInTheDocument();
+
+    await waitFor(() => {
+      expect(fetchMock).toHaveBeenCalledWith("/api/translations/save", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          original: analysisResult.original,
+          result: analysisResult,
+        }),
+      });
+      expect(fetchMock).toHaveBeenCalledWith("/api/translations/list");
+    });
+  });
+
+  it("shows and dismisses the error popup when analysis fails", async () => {
+    const user = userEvent.setup();
+
+    mockUseObject.mockReturnValue({
+      object: null,
+      submit: vi.fn(),
+      isLoading: false,
+      error: new Error("API exploded"),
+    });
+
+    render(<MettaTranslator />);
+
+    expect(screen.getByText("분석 오류")).toBeInTheDocument();
+    expect(screen.getByText("API exploded")).toBeInTheDocument();
+
+    await user.click(screen.getByRole("button", { name: "닫기" }));
+
+    await waitFor(() => {
+      expect(screen.queryByText("분석 오류")).not.toBeInTheDocument();
+    });
+  });
+
+  it("loads history, supports search, shows detail, and reanalyzes a saved item", async () => {
+    const submit = vi.fn();
+    const user = userEvent.setup();
+    const fetchMock = vi.fn(async (input: RequestInfo | URL) => {
+      const url = String(input);
+
+      if (url === "/api/translations/list") {
+        return {
+          json: vi.fn().mockResolvedValue([historyItem]),
+        } as unknown as Response;
+      }
+
+      if (url === "/api/translations/list?q=Sabbe") {
+        return {
+          json: vi.fn().mockResolvedValue([historyItem]),
+        } as unknown as Response;
+      }
+
+      if (url === "/api/translations/list?q=mett%C4%81") {
+        return {
+          json: vi.fn().mockResolvedValue([]),
+        } as unknown as Response;
+      }
+
+      throw new Error(`Unexpected fetch: ${url}`);
+    });
+
+    global.fetch = fetchMock;
+    mockUseObject.mockReturnValue({
+      object: null,
+      submit,
+      isLoading: false,
+      error: null,
+    });
+
+    render(<MettaTranslator />);
+
+    await user.click(screen.getByRole("button", { name: "📚 히스토리 보기" }));
+
     expect(
-      screen.getByText((content, element) => {
-        return element?.textContent === "🧘 경전 분석기";
+      await screen.findByRole("button", {
+        name: new RegExp(historyItem.original),
       })
     ).toBeInTheDocument();
 
-    // Check for input label
-    expect(screen.getByLabelText("빨리어 또는 영어 문구를 입력하세요")).toBeInTheDocument();
+    const searchInput = screen.getByPlaceholderText("검색어 입력...");
+    await user.type(searchInput, "Sabbe");
 
-    // Check for submit button
-    expect(screen.getByText("분석 시작")).toBeInTheDocument();
+    await waitFor(() => {
+      expect(fetchMock).toHaveBeenCalledWith("/api/translations/list?q=Sabbe");
+    });
+
+    await user.clear(searchInput);
+
+    await waitFor(() => {
+      expect(fetchMock).toHaveBeenCalledWith("/api/translations/list");
+    });
+
+    await user.clear(searchInput);
+    await user.type(searchInput, "mettā");
+
+    expect(await screen.findByText("아직 번역 기록이 없습니다.")).toBeInTheDocument();
+
+    await user.clear(searchInput);
+    expect(
+      await screen.findByRole("button", {
+        name: new RegExp(historyItem.original),
+      })
+    ).toBeInTheDocument();
+
+    await user.click(
+      screen.getByRole("button", {
+        name: new RegExp(historyItem.original),
+      })
+    );
+
+    expect(await screen.findByText("📚 저장된 분석 결과")).toBeInTheDocument();
+    expect(screen.getByText("May all beings be happy-minded.")).toBeInTheDocument();
+
+    await user.click(screen.getByRole("button", { name: "🔄 다시 분석" }));
+
+    expect(submit).toHaveBeenCalledWith({ prompt: historyItem.original });
+    await waitFor(() => {
+      expect(screen.queryByText("📚 저장된 분석 결과")).not.toBeInTheDocument();
+      expect(screen.queryByPlaceholderText("검색어 입력...")).not.toBeInTheDocument();
+    });
   });
 
-  it("renders history toggle button", () => {
+  it("logs save, load, and search failures", async () => {
+    const user = userEvent.setup();
+    const fetchMock = vi.fn(async (input: RequestInfo | URL) => {
+      const url = String(input);
+
+      if (url === "/api/translations/save") {
+        throw new Error("save failed");
+      }
+
+      if (url === "/api/translations/list") {
+        throw new Error("load failed");
+      }
+
+      if (url === "/api/translations/list?q=mett%C4%81") {
+        throw new Error("search failed");
+      }
+
+      throw new Error(`Unexpected fetch: ${url}`);
+    });
+
+    global.fetch = fetchMock;
+    mockUseObject.mockReturnValue({
+      object: analysisResult,
+      submit: vi.fn(),
+      isLoading: false,
+      error: null,
+    });
+
     render(<MettaTranslator />);
 
-    const historyButton = screen.getByText("📚 히스토리 보기");
-    expect(historyButton).toBeInTheDocument();
-  });
+    await waitFor(() => {
+      expect(logger.error).toHaveBeenCalledWith("Save translation failed", expect.any(Error));
+      expect(logger.error).toHaveBeenCalledWith(
+        "Load translation history failed",
+        expect.any(Error)
+      );
+    });
 
-  it("renders textarea with default value", () => {
-    render(<MettaTranslator />);
+    await user.click(screen.getByRole("button", { name: "📚 히스토리 보기" }));
+    await user.type(screen.getByPlaceholderText("검색어 입력..."), "mettā");
 
-    const textarea = screen.getByPlaceholderText("예: Sabbe sattā bhavantu sukhitattā");
-    expect(textarea).toBeInTheDocument();
-    expect(textarea).toHaveValue("Sabbe sattā bhavantu sukhitattā");
+    await waitFor(() => {
+      expect(logger.error).toHaveBeenCalledWith(
+        "Search translation history failed",
+        expect.any(Error)
+      );
+    });
   });
 });
