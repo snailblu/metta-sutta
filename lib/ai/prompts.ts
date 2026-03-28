@@ -19,8 +19,16 @@ export const METTA_SYSTEM_PROMPT = `
   ],
   "translations": {
     "literal": "직역 (문법에 충실한 번역)",
-    "zen_style": "의역 (수행적 번역)"
+    "zen_style": "의역 (수행적 번역)",
+    "chineseTranslation": "한문 번역 (전통 불교 한문 번역체, 5-7자 내외)"
   },
   "commentary": "해설 (2~3문장. '모습'과 '성품'의 관점에서 서술)"
 }
+
+translations 객체에는 반드시 다음 3개 필드를 모두 포함합니다:
+1. literal
+2. zen_style
+3. chineseTranslation
+
+"chineseTranslation"은 한문 번역 - 전통 불교 한문 번역체로 간결하게 (5-7자 내외) 작성합니다.
 `;

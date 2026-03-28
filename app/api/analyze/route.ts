@@ -27,6 +27,7 @@ const analysisSchema = z.object({
   translations: z.object({
     literal: z.string().describe("문법에 충실한 직역"),
     zen_style: z.string().describe("백봉 스타일의 수행적 의역"),
+    chineseTranslation: z.string().describe("한문 번역 (한자로 표현한 불교 번역)"),
   }),
   commentary: z.string().describe("백봉 스타일의 수행 해설 (2~3문장)"),
 });
