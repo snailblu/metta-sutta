@@ -25,6 +25,7 @@ const analysisResult: AnalysisResult = {
   translations: {
     literal: "May all beings be happy-minded.",
     zen_style: "May all beings rest in ease.",
+    chineseTranslation: "一切有情",
   },
   commentary: "A wish for universal well-being.",
   pali_analysis: [
@@ -32,11 +33,13 @@ const analysisResult: AnalysisResult = {
       word: "Sabbe",
       grammar: "adjective",
       meaning: "all",
+      chineseMeaning: "一切",
     },
     {
       word: "sattā",
       grammar: "noun",
       meaning: "beings",
+      chineseMeaning: "有情",
     },
   ],
 };

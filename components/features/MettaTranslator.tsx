@@ -207,6 +207,7 @@ export default function MettaTranslator() {
                       <th className="py-2 px-2">단어</th>
                       <th className="py-2 px-2">문법</th>
                       <th className="py-2 px-2">뜻</th>
+                      <th className="py-2 px-2">한자</th>
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-neutral-200 dark:divide-neutral-700">
@@ -217,6 +218,9 @@ export default function MettaTranslator() {
                           {item?.grammar}
                         </td>
                         <td className="py-2 px-2">{item?.meaning}</td>
+                        <td className="py-2 px-2 text-sm text-neutral-700 dark:text-neutral-300">
+                          {item?.chineseMeaning || "-"}
+                        </td>
                       </tr>
                     ))}
                   </tbody>
@@ -358,6 +362,7 @@ export default function MettaTranslator() {
                       <th className="py-2 px-3">단어 (Pali)</th>
                       <th className="py-2 px-3">문법</th>
                       <th className="py-2 px-3">뜻</th>
+                      <th className="py-2 px-3">한자</th>
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-neutral-200 dark:divide-neutral-700">
@@ -374,6 +379,9 @@ export default function MettaTranslator() {
                         </td>
                         <td className="py-3 px-3 text-neutral-900 dark:text-neutral-100">
                           {item?.meaning}
+                        </td>
+                        <td className="py-3 px-3 text-sm text-neutral-700 dark:text-neutral-300">
+                          {item?.chineseMeaning || "-"}
                         </td>
                       </tr>
                     ))}
