@@ -7,6 +7,7 @@ export const analysisSchema = z.object({
       word: z.string(),
       grammar: z.string(),
       meaning: z.string(),
+      chineseMeaning: z.string().optional(),
       note: z.string().optional(),
     })
   ),
