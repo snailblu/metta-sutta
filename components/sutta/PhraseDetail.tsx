@@ -26,18 +26,12 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
 
   if (!phrase) return null;
 
-  /*
-  const fontSizeClassSm = {
-    small: 'text-base',
-    medium: 'text-lg',
-    large: 'text-xl',
-    xlarge: 'text-2xl',
-  }[fontSize] || 'text-lg';
-  */
+  const columnTitleClass = "text-sm font-semibold tracking-wide text-muted-foreground";
+  const textClass = `${fontSizeClass} leading-relaxed break-words`;
 
   return (
     <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/50 backdrop-blur-sm p-4 sm:p-6">
-      <div className="bg-neutral-50 dark:bg-neutral-950 border rounded-lg max-w-2xl w-full max-h-[90vh] overflow-hidden flex flex-col shadow-xl">
+      <div className="bg-neutral-50 dark:bg-neutral-950 border rounded-lg max-w-6xl w-full max-h-[90vh] overflow-hidden flex flex-col shadow-xl">
         {/* 헤더 */}
         <div className="flex items-center justify-between p-4 border-b">
           <h3 className="text-lg font-bold">구절 상세</h3>
@@ -48,14 +42,22 @@ export function PhraseDetail({ phraseId, onClose }: Props) {
 
         {/* 스크 영역 */}
         <div className="flex-1 overflow-y-auto p-6 space-y-6">
-          {/* 구절 원문 */}
-          <div className="bg-muted/30 rounded-lg p-6">
-            <p className={`${fontSizeClass} text-primary leading-relaxed mb-4`}>
-              {phrase.paliText}
-            </p>
-            <p className={`${fontSizeClass} text-foreground leading-relaxed`}>
-              {phrase.koreanTranslation}
-            </p>
+          {/* 3열 비교 */}
+          <div className="bg-muted/30 rounded-lg p-4 sm:p-6">
+            <div className="grid grid-cols-1 gap-4 lg:grid-cols-3">
+              <section className="min-w-0 rounded-lg bg-background/80 p-4 sm:p-5">
+                <p className={columnTitleClass}>Pali</p>
+                <p className={`${textClass} mt-3 text-primary`}>{phrase.paliText}</p>
+              </section>
+              <section className="min-w-0 rounded-lg bg-background/80 p-4 sm:p-5">
+                <p className={columnTitleClass}>한국어</p>
+                <p className={`${textClass} mt-3 text-foreground`}>{phrase.koreanTranslation}</p>
+              </section>
+              <section className="min-w-0 rounded-lg bg-background/80 p-4 sm:p-5">
+                <p className={columnTitleClass}>漢字</p>
+                <p className={`${textClass} mt-3 text-foreground`}>{phrase.chineseTranslation}</p>
+              </section>
+            </div>
           </div>
 
           {/* 단어 분석 */}
