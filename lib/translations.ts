@@ -13,6 +13,7 @@ export const analysisSchema = z.object({
   translations: z.object({
     literal: z.string(),
     zen_style: z.string(),
+    chineseTranslation: z.string(),
   }),
   commentary: z.string(),
 });

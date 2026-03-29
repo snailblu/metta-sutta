@@ -31,8 +31,14 @@ export default function MettaTranslator() {
 
   // 분석 완료 후 저장
   useEffect(() => {
-    if (object && !isLoading) {
-      saveTranslation(object);
+    if (isLoading || !object) {
+      return;
+    }
+
+    const parsedResult = analysisSchema.safeParse(object);
+
+    if (parsedResult.success) {
+      saveTranslation(parsedResult.data);
       loadHistory();
     }
   }, [object, isLoading]);
@@ -171,6 +177,14 @@ export default function MettaTranslator() {
                       "{selectedHistory.result.translations?.zen_style}"
                     </p>
                   </div>
+                  {selectedHistory.result.translations?.chineseTranslation && (
+                    <div className="pt-3 border-t border-blue-200">
+                      <span className="text-sm font-medium text-blue-500">한문</span>
+                      <p className="text-lg text-neutral-900 dark:text-neutral-100 mt-1">
+                        {selectedHistory.result.translations.chineseTranslation}
+                      </p>
+                    </div>
+                  )}
                 </div>
               </div>
 
@@ -311,6 +325,16 @@ export default function MettaTranslator() {
                     "{object.translations?.zen_style}"
                   </p>
                 </div>
+                {object.translations?.chineseTranslation && (
+                  <div className="pt-4 border-t border-blue-200">
+                    <span className="text-sm font-medium text-blue-500 uppercase tracking-wide">
+                      한문
+                    </span>
+                    <p className="text-lg text-neutral-900 dark:text-neutral-100 mt-2">
+                      {object.translations.chineseTranslation}
+                    </p>
+                  </div>
+                )}
               </div>
             </div>
 
