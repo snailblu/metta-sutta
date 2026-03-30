@@ -20,6 +20,7 @@ const analysisSchema = z.object({
         word: z.string().describe("빨리어 단어"),
         grammar: z.string().describe("문법 분석 (품사/성/수/격)"),
         meaning: z.string().describe("단어의 의미"),
+        chineseMeaning: z.string().optional().describe("한자 뜻 (1-3자 한자로 간결하게)"),
         note: z.string().optional().describe("추가 설명 또는 어원"),
       })
     )

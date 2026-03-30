@@ -25,6 +25,7 @@ const analysisResult: AnalysisResult = {
   translations: {
     literal: "May all beings be happy-minded.",
     zen_style: "May all beings rest in ease.",
+    chineseTranslation: "一切有情",
   },
   commentary: "A wish for universal well-being.",
   pali_analysis: [
@@ -32,11 +33,13 @@ const analysisResult: AnalysisResult = {
       word: "Sabbe",
       grammar: "adjective",
       meaning: "all",
+      chineseMeaning: "一切",
     },
     {
       word: "sattā",
       grammar: "noun",
       meaning: "beings",
+      chineseMeaning: "有情",
     },
   ],
 };
@@ -133,16 +136,21 @@ describe("MettaTranslator", () => {
     expect(screen.getByText("A wish for universal well-being.")).toBeInTheDocument();
     expect(screen.getByText("Sabbe")).toBeInTheDocument();
     expect(screen.getByText("sattā")).toBeInTheDocument();
+    expect(screen.getByText("一切")).toBeInTheDocument();
+    expect(screen.getByText("有情")).toBeInTheDocument();
 
     await waitFor(() => {
-      expect(fetchMock).toHaveBeenCalledWith("/api/translations/save", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          original: analysisResult.original,
-          result: analysisResult,
-        }),
-      });
+      const saveCall = fetchMock.mock.calls.find(call => call[0] === "/api/translations/save");
+      expect(saveCall).toBeTruthy();
+
+      const [, init] = saveCall as [string, RequestInit];
+      expect(init?.method).toBe("POST");
+      expect(init?.headers).toEqual({ "Content-Type": "application/json" });
+
+      const body = JSON.parse(String(init?.body));
+      expect(body.original).toBe(analysisResult.original);
+      expect(body.result).toMatchObject(analysisResult);
+
       expect(fetchMock).toHaveBeenCalledWith("/api/translations/list");
     });
   });
