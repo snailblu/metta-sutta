@@ -23,7 +23,6 @@ export default function SettingsPage() {
   const fontPreviewClass = getFontSizeClass(fontSize);
 
   useEffect(() => {
-    // eslint-disable-next-line react-hooks/set-state-in-effect
     setMounted(true);
   }, []);
 

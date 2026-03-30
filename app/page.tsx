@@ -23,11 +23,8 @@ export default function HomePage() {
           onboarded = true;
         }
       }
-    } catch (err) {
-      console.error("Failed to read settings:", err);
-    }
+    } catch {}
 
-    // eslint-disable-next-line react-hooks/set-state-in-effect
     setIsOnboarded(onboarded);
     setMounted(true);
 

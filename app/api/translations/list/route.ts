@@ -1,5 +1,11 @@
 import { ConvexHttpClient } from "convex/browser";
 import { api } from "@/convex/_generated/api";
+import { logger } from "@/lib/logger";
+import {
+  analysisSchema,
+  type StoredTranslationRecord,
+  type TranslationHistoryItem,
+} from "@/lib/translations";
 
 const convex = new ConvexHttpClient(process.env.NEXT_PUBLIC_CONVEX_URL!);
 
@@ -17,16 +23,16 @@ export async function GET(req: Request) {
     }
 
     // Parse result JSON
-    const parsed = translations.map((t: any) => ({
+    const parsed: TranslationHistoryItem[] = translations.map((t: StoredTranslationRecord) => ({
       ...t,
-      result: JSON.parse(t.result),
+      result: analysisSchema.parse(JSON.parse(t.result)),
     }));
 
     return new Response(JSON.stringify(parsed), {
       headers: { "Content-Type": "application/json" },
     });
   } catch (error) {
-    console.error("List translations error:", error);
+    logger.error("List translations error", error);
     return new Response(JSON.stringify({ error: "Failed to list" }), {
       status: 500,
       headers: { "Content-Type": "application/json" },

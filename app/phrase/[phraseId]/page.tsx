@@ -20,7 +20,6 @@ export default function PhrasePage() {
   const settingsStore = useSettings();
 
   useEffect(() => {
-    // eslint-disable-next-line react-hooks/set-state-in-effect
     setMounted(true);
   }, []);
 

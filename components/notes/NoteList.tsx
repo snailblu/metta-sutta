@@ -1,7 +1,7 @@
-'use client';
+"use client";
 
-import { useAllNotes } from '@/lib/db/hooks';
-import { Card, CardContent } from '@/components/ui/card';
+import { useAllNotes } from "@/lib/db/hooks";
+import { Card, CardContent } from "@/components/ui/card";
 
 export function NoteList() {
   const { notes, loading } = useAllNotes();
@@ -22,13 +22,13 @@ export function NoteList() {
 
   return (
     <div className="space-y-3">
-      {notes.map((note) => (
+      {notes.map(note => (
         <Card key={note.id}>
           <CardContent className="p-4">
             <p className="text-foreground whitespace-pre-wrap">{note.content}</p>
             <div className="flex justify-between mt-2 text-xs text-muted-foreground">
-              <span>{note.targetType === 'phrase' ? '구절' : '단어'}</span>
-              <span>{new Date(note.updatedAt).toLocaleDateString('ko-KR')}</span>
+              <span>{note.targetType === "phrase" ? "구절" : "단어"}</span>
+              <span>{new Date(note.updatedAt).toLocaleDateString("ko-KR")}</span>
             </div>
           </CardContent>
         </Card>
