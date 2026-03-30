@@ -1,8 +1,16 @@
-import { useEffect, useState } from 'react';
-import { noteHelpers, progressHelpers, bookmarkHelpers, type UserNote, type ReadingProgress, type Bookmark } from './schema';
+import { useEffect, useState } from "react";
+import {
+  noteHelpers,
+  progressHelpers,
+  bookmarkHelpers,
+  type UserNote,
+  type ReadingProgress,
+  type Bookmark,
+} from "./schema";
+import { logger } from "@/lib/logger";
 
 // 노트 훅
-export function useNotes(targetType: 'phrase' | 'word', targetId: string) {
+export function useNotes(targetType: "phrase" | "word", targetId: string) {
   const [note, setNote] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
@@ -14,7 +22,7 @@ export function useNotes(targetType: 'phrase' | 'word', targetId: string) {
         const data = await noteHelpers.get(targetType, targetId);
         setNote(data?.content || null);
       } catch (error) {
-        console.error('Failed to load note:', error);
+        logger.error("Failed to load note", error);
       } finally {
         setLoading(false);
       }
@@ -29,7 +37,7 @@ export function useNotes(targetType: 'phrase' | 'word', targetId: string) {
       await noteHelpers.upsert(targetType, targetId, content);
       setNote(content);
     } catch (error) {
-      console.error('Failed to save note:', error);
+      logger.error("Failed to save note", error);
       throw error;
     } finally {
       setSaving(false);
@@ -44,7 +52,7 @@ export function useNotes(targetType: 'phrase' | 'word', targetId: string) {
         setNote(null);
       }
     } catch (error) {
-      console.error('Failed to delete note:', error);
+      logger.error("Failed to delete note", error);
       throw error;
     }
   };
@@ -73,7 +81,7 @@ export function useAllNotes() {
       const data = await noteHelpers.list();
       setNotes(data);
     } catch (error) {
-      console.error('Failed to load notes:', error);
+      logger.error("Failed to load notes", error);
     } finally {
       setLoading(false);
     }
@@ -94,7 +102,7 @@ export function useProgress(suttaId: string) {
         const data = await progressHelpers.get(suttaId);
         setProgress(data ?? null);
       } catch (error) {
-        console.error('Failed to load progress:', error);
+        logger.error("Failed to load progress", error);
       } finally {
         setLoading(false);
       }
@@ -109,7 +117,7 @@ export function useProgress(suttaId: string) {
       const data = await progressHelpers.get(suttaId);
       setProgress(data ?? null);
     } catch (error) {
-      console.error('Failed to save progress:', error);
+      logger.error("Failed to save progress", error);
       throw error;
     }
   };
@@ -120,7 +128,7 @@ export function useProgress(suttaId: string) {
       const data = await progressHelpers.get(suttaId);
       setProgress(data ?? null);
     } catch (error) {
-      console.error('Failed to mark verse completed:', error);
+      logger.error("Failed to mark verse completed", error);
       throw error;
     }
   };
@@ -148,18 +156,22 @@ export function useBookmarks() {
       const data = await bookmarkHelpers.list();
       setBookmarks(data);
     } catch (error) {
-      console.error('Failed to load bookmarks:', error);
+      logger.error("Failed to load bookmarks", error);
     } finally {
       setLoading(false);
     }
   };
 
-  const addBookmark = async (type: 'verse' | 'phrase' | 'word', targetId: string, title: string) => {
+  const addBookmark = async (
+    type: "verse" | "phrase" | "word",
+    targetId: string,
+    title: string
+  ) => {
     try {
       await bookmarkHelpers.add(type, targetId, title);
       await loadBookmarks();
     } catch (error) {
-      console.error('Failed to add bookmark:', error);
+      logger.error("Failed to add bookmark", error);
       throw error;
     }
   };
@@ -169,16 +181,16 @@ export function useBookmarks() {
       await bookmarkHelpers.remove(id);
       await loadBookmarks();
     } catch (error) {
-      console.error('Failed to remove bookmark:', error);
+      logger.error("Failed to remove bookmark", error);
       throw error;
     }
   };
 
-  const isBookmarked = async (type: 'verse' | 'phrase' | 'word', targetId: string) => {
+  const isBookmarked = async (type: "verse" | "phrase" | "word", targetId: string) => {
     try {
       return await bookmarkHelpers.exists(type, targetId);
     } catch (error) {
-      console.error('Failed to check bookmark:', error);
+      logger.error("Failed to check bookmark", error);
       return false;
     }
   };

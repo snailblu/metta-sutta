@@ -1,10 +1,10 @@
-'use client';
+"use client";
 
-import { useState, useEffect } from 'react';
-import { Button } from '@/components/ui/button';
-import { X } from 'lucide-react';
-import { useSettings } from '@/store/settings';
-import explanations from '@/data/metta-sutta/phrase-explanations.json';
+import { useState, useEffect } from "react";
+import { Button } from "@/components/ui/button";
+import { X } from "lucide-react";
+import { useSettings } from "@/store/settings";
+import explanations from "@/data/metta-sutta/phrase-explanations.json";
 
 interface Props {
   phraseId: string;
@@ -25,30 +25,30 @@ interface AiExplanationResult {
 
 export function AiExplanation({ phraseId, onClose }: Props) {
   const [result, setResult] = useState<AiExplanationResult | null>(null);
-  const [activeTab, setActiveTab] = useState<'context' | 'practice'>('context');
+  const [activeTab, setActiveTab] = useState<"context" | "practice">("context");
   const { fontSize } = useSettings();
 
-  const fontSizeClass = {
-    small: 'text-base',
-    medium: 'text-lg',
-    large: 'text-xl',
-    xlarge: 'text-2xl',
-  }[fontSize] || 'text-lg';
+  const fontSizeClass =
+    {
+      small: "text-base",
+      medium: "text-lg",
+      large: "text-xl",
+      xlarge: "text-2xl",
+    }[fontSize] || "text-lg";
 
   // 컴포넌트 마운트 시 데이터 로드
   useEffect(() => {
     const explanation = (explanations.explanations as Explanation[]).find(
-      (e) => e.phraseId === phraseId
+      e => e.phraseId === phraseId
     );
 
     if (explanation) {
-      // eslint-disable-next-line react-hooks/set-state-in-effect
       setResult({
         contextTranslation: explanation.context,
         practiceExplanation: explanation.practice,
       });
     }
-    setActiveTab('context');
+    setActiveTab("context");
   }, [phraseId]);
 
   return (
@@ -75,21 +75,21 @@ export function AiExplanation({ phraseId, onClose }: Props) {
               {/* 탭 */}
               <div className="flex gap-2 bg-muted p-1 rounded-lg">
                 <button
-                  onClick={() => setActiveTab('context')}
+                  onClick={() => setActiveTab("context")}
                   className={`flex-1 py-2 px-4 rounded-md font-medium transition-colors ${
-                    activeTab === 'context'
-                      ? 'bg-primary text-primary-foreground'
-                      : 'hover:bg-primary/10'
+                    activeTab === "context"
+                      ? "bg-primary text-primary-foreground"
+                      : "hover:bg-primary/10"
                   }`}
                 >
                   문맥 번역
                 </button>
                 <button
-                  onClick={() => setActiveTab('practice')}
+                  onClick={() => setActiveTab("practice")}
                   className={`flex-1 py-2 px-4 rounded-md font-medium transition-colors ${
-                    activeTab === 'practice'
-                      ? 'bg-primary text-primary-foreground'
-                      : 'hover:bg-primary/10'
+                    activeTab === "practice"
+                      ? "bg-primary text-primary-foreground"
+                      : "hover:bg-primary/10"
                   }`}
                 >
                   수행적 의미
@@ -97,23 +97,27 @@ export function AiExplanation({ phraseId, onClose }: Props) {
               </div>
 
               {/* 문맥 번역 */}
-              {activeTab === 'context' && result.contextTranslation && (
+              {activeTab === "context" && result.contextTranslation && (
                 <div className="space-y-4">
                   <h3 className="text-lg font-bold text-foreground">📖 문맥 번역</h3>
-                  <div className={`bg-muted/30 rounded-lg p-4 ${fontSizeClass} text-foreground leading-relaxed`}>
+                  <div
+                    className={`bg-muted/30 rounded-lg p-4 ${fontSizeClass} text-foreground leading-relaxed`}
+                  >
                     {result.contextTranslation}
                   </div>
                 </div>
               )}
 
               {/* 수행적 의미 */}
-              {activeTab === 'practice' && result.practiceExplanation && (
+              {activeTab === "practice" && result.practiceExplanation && (
                 <div className="space-y-4">
                   <h3 className="text-lg font-bold text-foreground">🧘 수행적 의미</h3>
-                  <div className={`bg-muted/30 rounded-lg p-4 ${fontSizeClass} text-foreground leading-relaxed`}>
+                  <div
+                    className={`bg-muted/30 rounded-lg p-4 ${fontSizeClass} text-foreground leading-relaxed`}
+                  >
                     {result.practiceExplanation}
                   </div>
-                  
+
                   {result.relatedConcepts && result.relatedConcepts.length > 0 && (
                     <div className="mt-4">
                       <h4 className="text-sm font-medium text-muted-foreground">관련 개념</h4>
