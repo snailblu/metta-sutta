@@ -1,6 +1,6 @@
 "use client";
 
-import { Word } from "@/types";
+import type { Word } from "@/types";
 import { getWord } from "@/data";
 
 interface Props {
