@@ -1,4 +1,4 @@
-import { Sutta, Verse, Phrase, Word, VerseContext } from "@/types";
+import type { Sutta, Verse, Phrase, Word, VerseContext } from "@/types";
 
 // 경전 정보
 export const sutta: Sutta = {
