@@ -27,7 +27,7 @@ export default function SuttaPage() {
 
   useEffect(() => {
     if (verse) {
-      saveProgress(verse.number);
+      void saveProgress(verse.number);
     }
   }, [verseId, saveProgress, verse]);
 

@@ -1,4 +1,4 @@
-import { Word } from "@/types";
+import type { Word } from "@/types";
 import { Book, History, Link as LinkIcon } from "lucide-react";
 
 interface Props {
