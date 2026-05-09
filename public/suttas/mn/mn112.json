@@ -1,0 +1,587 @@
+{
+  "uid": "mn112",
+  "title": "Chabbisodhanasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn112:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn112:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn112:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn112:1.4",
+      "pali": "“bhikkhavo”ti."
+    },
+    {
+      "id": "mn112:1.5",
+      "pali": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn112:1.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn112:2.1",
+      "pali": "“Idha, bhikkhave, bhikkhu aññaṁ byākaroti:"
+    },
+    {
+      "id": "mn112:2.2",
+      "pali": "‘khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyāti pajānāmī’ti."
+    },
+    {
+      "id": "mn112:3.1",
+      "pali": "Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ."
+    },
+    {
+      "id": "mn112:3.2",
+      "pali": "Anabhinanditvā appaṭikkositvā pañho pucchitabbo:"
+    },
+    {
+      "id": "mn112:3.3",
+      "pali": "‘cattārome, āvuso, vohārā tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātā."
+    },
+    {
+      "id": "mn112:3.4",
+      "pali": "Katame cattāro?"
+    },
+    {
+      "id": "mn112:3.5",
+      "pali": "Diṭṭhe diṭṭhavāditā, sute sutavāditā, mute mutavāditā, viññāte viññātavāditā—"
+    },
+    {
+      "id": "mn112:3.6",
+      "pali": "ime kho, āvuso, cattāro vohārā tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātā."
+    },
+    {
+      "id": "mn112:3.7",
+      "pali": "Kathaṁ jānato panāyasmato, kathaṁ passato imesu catūsu vohāresu anupādāya āsavehi cittaṁ vimuttan’ti?"
+    },
+    {
+      "id": "mn112:4.1",
+      "pali": "Khīṇāsavassa, bhikkhave, bhikkhuno vusitavato katakaraṇīyassa ohitabhārassa anuppattasadatthassa parikkhīṇabhavasaṁyojanassa sammadaññāvimuttassa ayamanudhammo hoti veyyākaraṇāya:"
+    },
+    {
+      "id": "mn112:4.2",
+      "pali": "‘diṭṭhe kho ahaṁ, āvuso, anupāyo anapāyo anissito appaṭibaddho vippamutto visaṁyutto vimariyādīkatena cetasā viharāmi."
+    },
+    {
+      "id": "mn112:4.3",
+      "pali": "Sute kho ahaṁ, āvuso …pe…"
+    },
+    {
+      "id": "mn112:4.4",
+      "pali": "mute kho ahaṁ, āvuso …"
+    },
+    {
+      "id": "mn112:4.5",
+      "pali": "viññāte kho ahaṁ, āvuso, anupāyo anapāyo anissito appaṭibaddho vippamutto visaṁyutto vimariyādīkatena cetasā viharāmi."
+    },
+    {
+      "id": "mn112:4.6",
+      "pali": "Evaṁ kho me, āvuso, jānato evaṁ passato imesu catūsu vohāresu anupādāya āsavehi cittaṁ vimuttan’ti."
+    },
+    {
+      "id": "mn112:5.1",
+      "pali": "Tassa, bhikkhave, bhikkhuno ‘sādhū’ti bhāsitaṁ abhinanditabbaṁ anumoditabbaṁ."
+    },
+    {
+      "id": "mn112:5.2",
+      "pali": "‘Sādhū’ti bhāsitaṁ abhinanditvā anumoditvā uttariṁ pañho pucchitabbo."
+    },
+    {
+      "id": "mn112:5.3",
+      "pali": "‘Pañcime, āvuso, upādānakkhandhā tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātā."
+    },
+    {
+      "id": "mn112:5.4",
+      "pali": "Katame pañca?"
+    },
+    {
+      "id": "mn112:5.5",
+      "pali": "Seyyathidaṁ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho—"
+    },
+    {
+      "id": "mn112:5.6",
+      "pali": "ime kho, āvuso, pañcupādānakkhandhā tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātā."
+    },
+    {
+      "id": "mn112:5.7",
+      "pali": "Kathaṁ jānato panāyasmato, kathaṁ passato imesu pañcasu upādānakkhandhesu anupādāya āsavehi cittaṁ vimuttan’ti?"
+    },
+    {
+      "id": "mn112:6.1",
+      "pali": "Khīṇāsavassa, bhikkhave, bhikkhuno vusitavato katakaraṇīyassa ohitabhārassa anuppattasadatthassa parikkhīṇabhavasaṁyojanassa sammadaññāvimuttassa ayamanudhammo hoti veyyākaraṇāya:"
+    },
+    {
+      "id": "mn112:6.2",
+      "pali": "‘rūpaṁ kho ahaṁ, āvuso, abalaṁ virāgunaṁ anassāsikanti viditvā ye rūpe upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṁ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṁ me cittanti pajānāmi."
+    },
+    {
+      "id": "mn112:6.3",
+      "pali": "Vedanaṁ kho ahaṁ, āvuso …pe…"
+    },
+    {
+      "id": "mn112:6.4",
+      "pali": "saññaṁ kho ahaṁ, āvuso …"
+    },
+    {
+      "id": "mn112:6.5",
+      "pali": "saṅkhāre kho ahaṁ, āvuso …"
+    },
+    {
+      "id": "mn112:6.6",
+      "pali": "viññāṇaṁ kho ahaṁ, āvuso, abalaṁ virāgunaṁ anassāsikanti viditvā ye viññāṇe upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṁ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṁ me cittanti pajānāmi."
+    },
+    {
+      "id": "mn112:6.7",
+      "pali": "Evaṁ kho me, āvuso, jānato evaṁ passato imesu pañcasu upādānakkhandhesu anupādāya āsavehi cittaṁ vimuttan’ti."
+    },
+    {
+      "id": "mn112:7.1",
+      "pali": "Tassa, bhikkhave, bhikkhuno ‘sādhū’ti bhāsitaṁ abhinanditabbaṁ, anumoditabbaṁ."
+    },
+    {
+      "id": "mn112:7.2",
+      "pali": "‘Sādhū’ti bhāsitaṁ abhinanditvā anumoditvā uttariṁ pañho pucchitabbo."
+    },
+    {
+      "id": "mn112:7.3",
+      "pali": "‘Chayimā, āvuso, dhātuyo tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātā."
+    },
+    {
+      "id": "mn112:7.4",
+      "pali": "Katamā cha?"
+    },
+    {
+      "id": "mn112:7.5",
+      "pali": "Pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu, ākāsadhātu, viññāṇadhātu—"
+    },
+    {
+      "id": "mn112:7.6",
+      "pali": "imā kho, āvuso, cha dhātuyo tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātā."
+    },
+    {
+      "id": "mn112:7.7",
+      "pali": "Kathaṁ jānato panāyasmato, kathaṁ passato imāsu chasu dhātūsu anupādāya āsavehi cittaṁ vimuttan’ti?"
+    },
+    {
+      "id": "mn112:8.1",
+      "pali": "Khīṇāsavassa, bhikkhave, bhikkhuno vusitavato katakaraṇīyassa ohitabhārassa anuppattasadatthassa parikkhīṇabhavasaṁyojanassa sammadaññāvimuttassa ayamanudhammo hoti veyyākaraṇāya:"
+    },
+    {
+      "id": "mn112:8.2",
+      "pali": "‘pathavīdhātuṁ kho ahaṁ, āvuso, na attato upagacchiṁ, na ca pathavīdhātunissitaṁ attānaṁ."
+    },
+    {
+      "id": "mn112:8.3",
+      "pali": "Ye ca pathavīdhātunissitā upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṁ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṁ me cittanti pajānāmi."
+    },
+    {
+      "id": "mn112:8.4",
+      "pali": "Āpodhātuṁ kho ahaṁ, āvuso …pe…"
+    },
+    {
+      "id": "mn112:8.5",
+      "pali": "tejodhātuṁ kho ahaṁ, āvuso …"
+    },
+    {
+      "id": "mn112:8.6",
+      "pali": "vāyodhātuṁ kho ahaṁ, āvuso …"
+    },
+    {
+      "id": "mn112:8.7",
+      "pali": "ākāsadhātuṁ kho ahaṁ, āvuso …"
+    },
+    {
+      "id": "mn112:8.8",
+      "pali": "viññāṇadhātuṁ kho ahaṁ, āvuso, na attato upagacchiṁ, na ca viññāṇadhātunissitaṁ attānaṁ."
+    },
+    {
+      "id": "mn112:8.9",
+      "pali": "Ye ca viññāṇadhātunissitā upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṁ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṁ me cittanti pajānāmi."
+    },
+    {
+      "id": "mn112:8.10",
+      "pali": "Evaṁ kho me, āvuso, jānato, evaṁ passato imāsu chasu dhātūsu anupādāya āsavehi cittaṁ vimuttan’ti."
+    },
+    {
+      "id": "mn112:9.1",
+      "pali": "Tassa, bhikkhave, bhikkhuno ‘sādhū’ti bhāsitaṁ abhinanditabbaṁ, anumoditabbaṁ."
+    },
+    {
+      "id": "mn112:9.2",
+      "pali": "‘Sādhū’ti bhāsitaṁ abhinanditvā anumoditvā uttariṁ pañho pucchitabbo."
+    },
+    {
+      "id": "mn112:9.3",
+      "pali": "‘Cha kho panimāni, āvuso, ajjhattikabāhirāni āyatanāni tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātāni."
+    },
+    {
+      "id": "mn112:9.4",
+      "pali": "Katamāni cha?"
+    },
+    {
+      "id": "mn112:9.5",
+      "pali": "Cakkhu ceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca—"
+    },
+    {
+      "id": "mn112:9.6",
+      "pali": "imāni kho, āvuso, cha ajjhattikabāhirāni āyatanāni tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātāni."
+    },
+    {
+      "id": "mn112:9.7",
+      "pali": "Kathaṁ jānato panāyasmato, kathaṁ passato imesu chasu ajjhattikabāhiresu āyatanesu anupādāya āsavehi cittaṁ vimuttan’ti?"
+    },
+    {
+      "id": "mn112:10.1",
+      "pali": "Khīṇāsavassa, bhikkhave, bhikkhuno vusitavato katakaraṇīyassa ohitabhārassa anuppattasadatthassa parikkhīṇabhavasaṁyojanassa sammadaññāvimuttassa ayamanudhammo hoti veyyākaraṇāya:"
+    },
+    {
+      "id": "mn112:10.2",
+      "pali": "‘cakkhusmiṁ, āvuso, rūpe cakkhuviññāṇe cakkhuviññāṇaviññātabbesu dhammesu yo chando yo rāgo yā nandī yā taṇhā ye ca upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṁ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṁ me cittanti pajānāmi."
+    },
+    {
+      "id": "mn112:10.3",
+      "pali": "Sotasmiṁ, āvuso, sadde sotaviññāṇe …pe…"
+    },
+    {
+      "id": "mn112:10.4",
+      "pali": "ghānasmiṁ, āvuso, gandhe ghānaviññāṇe …"
+    },
+    {
+      "id": "mn112:10.5",
+      "pali": "jivhāya, āvuso, rase jivhāviññāṇe …"
+    },
+    {
+      "id": "mn112:10.6",
+      "pali": "kāyasmiṁ, āvuso, phoṭṭhabbe kāyaviññāṇe …"
+    },
+    {
+      "id": "mn112:10.7",
+      "pali": "manasmiṁ, āvuso, dhamme manoviññāṇe manoviññāṇaviññātabbesu dhammesu yo chando yo rāgo yā nandī yā taṇhā ye ca upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṁ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṁ me cittanti pajānāmi."
+    },
+    {
+      "id": "mn112:10.8",
+      "pali": "Evaṁ kho me, āvuso, jānato evaṁ passato imesu chasu ajjhattikabāhiresu āyatanesu anupādāya āsavehi cittaṁ vimuttan’ti."
+    },
+    {
+      "id": "mn112:11.1",
+      "pali": "Tassa, bhikkhave, bhikkhuno ‘sādhū’ti bhāsitaṁ abhinanditabbaṁ anumoditabbaṁ."
+    },
+    {
+      "id": "mn112:11.2",
+      "pali": "‘Sādhū’ti bhāsitaṁ abhinanditvā anumoditvā uttariṁ pañho pucchitabbo."
+    },
+    {
+      "id": "mn112:11.3",
+      "pali": "‘Kathaṁ jānato panāyasmato, kathaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā samūhatā’ti?"
+    },
+    {
+      "id": "mn112:12.1",
+      "pali": "Khīṇāsavassa, bhikkhave, bhikkhuno vusitavato katakaraṇīyassa ohitabhārassa anuppattasadatthassa parikkhīṇabhavasaṁyojanassa sammadaññāvimuttassa ayamanudhammo hoti veyyākaraṇāya:"
+    },
+    {
+      "id": "mn112:12.2",
+      "pali": "‘pubbe kho ahaṁ, āvuso, agāriyabhūto samāno aviddasu ahosiṁ."
+    },
+    {
+      "id": "mn112:12.3",
+      "pali": "Tassa me tathāgato vā tathāgatasāvako vā dhammaṁ desesi."
+    },
+    {
+      "id": "mn112:12.4",
+      "pali": "Tāhaṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhiṁ."
+    },
+    {
+      "id": "mn112:12.5",
+      "pali": "So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhiṁ:"
+    },
+    {
+      "id": "mn112:12.6",
+      "pali": "“sambādho gharāvāso rajāpatho, abbhokāso pabbajjā."
+    },
+    {
+      "id": "mn112:12.7",
+      "pali": "Nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ saṅkhalikhitaṁ brahmacariyaṁ carituṁ."
+    },
+    {
+      "id": "mn112:12.8",
+      "pali": "Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan”ti."
+    },
+    {
+      "id": "mn112:13.1",
+      "pali": "So kho ahaṁ, āvuso, aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya, appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajiṁ."
+    },
+    {
+      "id": "mn112:13.2",
+      "pali": "So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīvasamāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato ahosiṁ nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī vihāsiṁ."
+    },
+    {
+      "id": "mn112:13.3",
+      "pali": "Adinnādānaṁ pahāya adinnādānā paṭivirato ahosiṁ dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā vihāsiṁ."
+    },
+    {
+      "id": "mn112:13.4",
+      "pali": "Abrahmacariyaṁ pahāya brahmacārī ahosiṁ ārācārī virato methunā gāmadhammā."
+    },
+    {
+      "id": "mn112:13.5",
+      "pali": "Musāvādaṁ pahāya musāvādā paṭivirato ahosiṁ saccavādī saccasandho theto paccayiko avisaṁvādako lokassa."
+    },
+    {
+      "id": "mn112:13.6",
+      "pali": "Pisuṇaṁ vācaṁ pahāya pisuṇāya vācāya paṭivirato ahosiṁ, ito sutvā na amutra akkhātā imesaṁ bhedāya, amutra vā sutvā na imesaṁ akkhātā amūsaṁ bhedāya; iti bhinnānaṁ vā sandhātā sahitānaṁ vā anuppadātā samaggārāmo samaggarato samagganandī samaggakaraṇiṁ vācaṁ bhāsitā ahosiṁ."
+    },
+    {
+      "id": "mn112:13.7",
+      "pali": "Pharusaṁ vācaṁ pahāya pharusāya vācāya paṭivirato ahosiṁ; yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṁ vācaṁ bhāsitā ahosiṁ."
+    },
+    {
+      "id": "mn112:13.8",
+      "pali": "Samphappalāpaṁ pahāya samphappalāpā paṭivirato ahosiṁ; kālavādī bhūtavādī atthavādī dhammavādī vinayavādī nidhānavatiṁ vācaṁ bhāsitā ahosiṁ kālena sāpadesaṁ pariyantavatiṁ atthasaṁhitaṁ."
+    },
+    {
+      "id": "mn112:14.1",
+      "pali": "So bījagāmabhūtagāmasamārambhā paṭivirato ahosiṁ, ekabhattiko ahosiṁ rattūparato virato vikālabhojanā."
+    },
+    {
+      "id": "mn112:14.2",
+      "pali": "Naccagītavāditavisūkadassanā paṭivirato ahosiṁ."
+    },
+    {
+      "id": "mn112:14.3",
+      "pali": "Mālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā paṭivirato ahosiṁ."
+    },
+    {
+      "id": "mn112:14.4",
+      "pali": "Uccāsayanamahāsayanā paṭivirato ahosiṁ."
+    },
+    {
+      "id": "mn112:14.5",
+      "pali": "Jātarūparajatapaṭiggahaṇā paṭivirato ahosiṁ,"
+    },
+    {
+      "id": "mn112:14.6",
+      "pali": "āmakadhaññapaṭiggahaṇā paṭivirato ahosiṁ,"
+    },
+    {
+      "id": "mn112:14.7",
+      "pali": "āmakamaṁsapaṭiggahaṇā paṭivirato ahosiṁ;"
+    },
+    {
+      "id": "mn112:14.8",
+      "pali": "itthikumārikapaṭiggahaṇā paṭivirato ahosiṁ,"
+    },
+    {
+      "id": "mn112:14.9",
+      "pali": "dāsidāsapaṭiggahaṇā paṭivirato ahosiṁ,"
+    },
+    {
+      "id": "mn112:14.10",
+      "pali": "ajeḷakapaṭiggahaṇā paṭivirato ahosiṁ,"
+    },
+    {
+      "id": "mn112:14.11",
+      "pali": "kukkuṭasūkarapaṭiggahaṇā paṭivirato ahosiṁ,"
+    },
+    {
+      "id": "mn112:14.12",
+      "pali": "hatthigavassavaḷavapaṭiggahaṇā paṭivirato ahosiṁ,"
+    },
+    {
+      "id": "mn112:14.13",
+      "pali": "khettavatthupaṭiggahaṇā paṭivirato ahosiṁ."
+    },
+    {
+      "id": "mn112:14.14",
+      "pali": "Dūteyyapahiṇagamanānuyogā paṭivirato ahosiṁ,"
+    },
+    {
+      "id": "mn112:14.15",
+      "pali": "kayavikkayā paṭivirato ahosiṁ,"
+    },
+    {
+      "id": "mn112:14.16",
+      "pali": "tulākūṭakaṁsakūṭamānakūṭā paṭivirato ahosiṁ,"
+    },
+    {
+      "id": "mn112:14.17",
+      "pali": "ukkoṭanavañcananikatisāciyogā paṭivirato ahosiṁ,"
+    },
+    {
+      "id": "mn112:14.18",
+      "pali": "chedanavadhabandhanaviparāmosaālopasahasākārā paṭivirato ahosiṁ."
+    },
+    {
+      "id": "mn112:14.19",
+      "pali": "So santuṭṭho ahosiṁ kāyaparihārikena cīvarena, kucchiparihārikena piṇḍapātena. So yena yeneva pakkamiṁ samādāyeva pakkamiṁ."
+    },
+    {
+      "id": "mn112:14.20",
+      "pali": "Seyyathāpi nāma pakkhī sakuṇo yena yeneva ḍeti sapattabhārova ḍeti;"
+    },
+    {
+      "id": "mn112:14.21",
+      "pali": "evameva kho ahaṁ, āvuso; santuṭṭho ahosiṁ kāyaparihārikena cīvarena, kucchiparihārikena piṇḍapātena. So yena yeneva pakkamiṁ samādāyeva pakkamiṁ."
+    },
+    {
+      "id": "mn112:14.22",
+      "pali": "So iminā ariyena sīlakkhandhena samannāgato ajjhattaṁ anavajjasukhaṁ paṭisaṁvedesiṁ."
+    },
+    {
+      "id": "mn112:15.1",
+      "pali": "So cakkhunā rūpaṁ disvā na nimittaggāhī ahosiṁ nānubyañjanaggāhī;"
+    },
+    {
+      "id": "mn112:15.2",
+      "pali": "yatvādhikaraṇamenaṁ cakkhundriyaṁ asaṁvutaṁ viharantaṁ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṁ, tassa saṁvarāya paṭipajjiṁ; rakkhiṁ cakkhundriyaṁ, cakkhundriye saṁvaraṁ āpajjiṁ."
+    },
+    {
+      "id": "mn112:15.3",
+      "pali": "Sotena saddaṁ sutvā …pe…"
+    },
+    {
+      "id": "mn112:15.4",
+      "pali": "ghānena gandhaṁ ghāyitvā …pe…"
+    },
+    {
+      "id": "mn112:15.5",
+      "pali": "jivhāya rasaṁ sāyitvā …pe…"
+    },
+    {
+      "id": "mn112:15.6",
+      "pali": "kāyena phoṭṭhabbaṁ phusitvā …pe…"
+    },
+    {
+      "id": "mn112:15.7",
+      "pali": "manasā dhammaṁ viññāya na nimittaggāhī ahosiṁ nānubyañjanaggāhī;"
+    },
+    {
+      "id": "mn112:15.8",
+      "pali": "yatvādhikaraṇamenaṁ manindriyaṁ asaṁvutaṁ viharantaṁ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṁ, tassa saṁvarāya paṭipajjiṁ; rakkhiṁ manindriyaṁ, manindriye saṁvaraṁ āpajjiṁ."
+    },
+    {
+      "id": "mn112:15.9",
+      "pali": "So iminā ariyena indriyasaṁvarena samannāgato ajjhattaṁ abyāsekasukhaṁ paṭisaṁvedesiṁ."
+    },
+    {
+      "id": "mn112:16.1",
+      "pali": "So abhikkante paṭikkante sampajānakārī ahosiṁ, ālokite vilokite sampajānakārī ahosiṁ, samiñjite pasārite sampajānakārī ahosiṁ, saṅghāṭipattacīvaradhāraṇe sampajānakārī ahosiṁ, asite pīte khāyite sāyite sampajānakārī ahosiṁ, uccārapassāvakamme sampajānakārī ahosiṁ, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī ahosiṁ."
+    },
+    {
+      "id": "mn112:16.2",
+      "pali": "So iminā ca ariyena sīlakkhandhena samannāgato, imāya ca ariyāya santuṭṭhiyā samannāgato, iminā ca ariyena indriyasaṁvarena samannāgato, iminā ca ariyena satisampajaññena samannāgato"
+    },
+    {
+      "id": "mn112:16.3",
+      "pali": "vivittaṁ senāsanaṁ bhajiṁ araññaṁ rukkhamūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vanapatthaṁ abbhokāsaṁ palālapuñjaṁ."
+    },
+    {
+      "id": "mn112:16.4",
+      "pali": "So pacchābhattaṁ piṇḍapātapaṭikkanto nisīdiṁ pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā."
+    },
+    {
+      "id": "mn112:17.1",
+      "pali": "So abhijjhaṁ loke pahāya vigatābhijjhena cetasā vihāsiṁ, abhijjhāya cittaṁ parisodhesiṁ."
+    },
+    {
+      "id": "mn112:17.2",
+      "pali": "Byāpādapadosaṁ pahāya abyāpannacitto vihāsiṁ sabbapāṇabhūtahitānukampī, byāpādapadosā cittaṁ parisodhesiṁ."
+    },
+    {
+      "id": "mn112:17.3",
+      "pali": "Thinamiddhaṁ pahāya vigatathinamiddho vihāsiṁ ālokasaññī sato sampajāno, thinamiddhā cittaṁ parisodhesiṁ."
+    },
+    {
+      "id": "mn112:17.4",
+      "pali": "Uddhaccakukkuccaṁ pahāya anuddhato vihāsiṁ ajjhattaṁ, vūpasantacitto, uddhaccakukkuccā cittaṁ parisodhesiṁ."
+    },
+    {
+      "id": "mn112:17.5",
+      "pali": "Vicikicchaṁ pahāya tiṇṇavicikiccho vihāsiṁ akathaṅkathī kusalesu dhammesu, vicikicchāya cittaṁ parisodhesiṁ."
+    },
+    {
+      "id": "mn112:18.1",
+      "pali": "So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe"
+    },
+    {
+      "id": "mn112:18.2",
+      "pali": "vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja vihāsiṁ."
+    },
+    {
+      "id": "mn112:18.3",
+      "pali": "Vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ …pe…"
+    },
+    {
+      "id": "mn112:18.4",
+      "pali": "tatiyaṁ jhānaṁ …"
+    },
+    {
+      "id": "mn112:18.5",
+      "pali": "catutthaṁ jhānaṁ upasampajja vihāsiṁ."
+    },
+    {
+      "id": "mn112:19.1",
+      "pali": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṁ khayañāṇāya cittaṁ abhininnāmesiṁ."
+    },
+    {
+      "id": "mn112:19.2",
+      "pali": "So idaṁ dukkhanti yathābhūtaṁ abbhaññāsiṁ, ayaṁ dukkhasamudayoti yathābhūtaṁ abbhaññāsiṁ, ayaṁ dukkhanirodhoti yathābhūtaṁ abbhaññāsiṁ, ayaṁ dukkhanirodhagāminī paṭipadāti yathābhūtaṁ abbhaññāsiṁ;"
+    },
+    {
+      "id": "mn112:19.3",
+      "pali": "ime āsavāti yathābhūtaṁ abbhaññāsiṁ, ayaṁ āsavasamudayoti yathābhūtaṁ abbhaññāsiṁ, ayaṁ āsavanirodhoti yathābhūtaṁ abbhaññāsiṁ, ayaṁ āsavanirodhagāminī paṭipadāti yathābhūtaṁ abbhaññāsiṁ."
+    },
+    {
+      "id": "mn112:20.1",
+      "pali": "Tassa me evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccittha, bhavāsavāpi cittaṁ vimuccittha, avijjāsavāpi cittaṁ vimuccittha."
+    },
+    {
+      "id": "mn112:20.2",
+      "pali": "Vimuttasmiṁ vimuttamiti ñāṇaṁ ahosi."
+    },
+    {
+      "id": "mn112:20.3",
+      "pali": "Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyāti abbhaññāsiṁ."
+    },
+    {
+      "id": "mn112:20.4",
+      "pali": "Evaṁ kho me, āvuso, jānato evaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā samūhatā’ti."
+    },
+    {
+      "id": "mn112:21.1",
+      "pali": "Tassa, bhikkhave, bhikkhuno ‘sādhū’ti bhāsitaṁ abhinanditabbaṁ anumoditabbaṁ."
+    },
+    {
+      "id": "mn112:21.2",
+      "pali": "‘Sādhū’ti bhāsitaṁ abhinanditvā anumoditvā evamassa vacanīyo:"
+    },
+    {
+      "id": "mn112:21.3",
+      "pali": "‘lābhā no, āvuso, suladdhaṁ no, āvuso,"
+    },
+    {
+      "id": "mn112:21.4",
+      "pali": "ye mayaṁ āyasmantaṁ tādisaṁ sabrahmacāriṁ samanupassāmā’”ti."
+    },
+    {
+      "id": "mn112:21.5",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn112:21.6",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn112:21.7",
+      "pali": "Chabbisodhanasuttaṁ niṭṭhitaṁ dutiyaṁ."
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "uid": "mn152",
+  "title": "Indriyabhāvanāsutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn152:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn152:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā gajaṅgalāyaṁ viharati suveḷuvane."
+    },
+    {
+      "id": "mn152:2.1",
+      "pali": "Atha kho uttaro māṇavo pārāsiviyantevāsī yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn152:2.2",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho uttaraṁ māṇavaṁ pārāsiviyantevāsiṁ bhagavā etadavoca:"
+    },
+    {
+      "id": "mn152:2.3",
+      "pali": "“deseti, uttara, pārāsiviyo brāhmaṇo sāvakānaṁ indriyabhāvanan”ti?"
+    },
+    {
+      "id": "mn152:2.4",
+      "pali": "“Deseti, bho gotama, pārāsiviyo brāhmaṇo sāvakānaṁ indriyabhāvanan”ti."
+    },
+    {
+      "id": "mn152:2.5",
+      "pali": "“Yathā kathaṁ pana, uttara, deseti pārāsiviyo brāhmaṇo sāvakānaṁ indriyabhāvanan”ti?"
+    },
+    {
+      "id": "mn152:2.6",
+      "pali": "“Idha, bho gotama, cakkhunā rūpaṁ na passati, sotena saddaṁ na suṇāti—"
+    },
+    {
+      "id": "mn152:2.7",
+      "pali": "evaṁ kho, bho gotama, deseti pārāsiviyo brāhmaṇo sāvakānaṁ indriyabhāvanan”ti."
+    },
+    {
+      "id": "mn152:2.8",
+      "pali": "“Evaṁ sante kho, uttara, andho bhāvitindriyo bhavissati, badhiro bhāvitindriyo bhavissati;"
+    },
+    {
+      "id": "mn152:2.9",
+      "pali": "yathā pārāsiviyassa brāhmaṇassa vacanaṁ."
+    },
+    {
+      "id": "mn152:2.10",
+      "pali": "Andho hi, uttara, cakkhunā rūpaṁ na passati, badhiro sotena saddaṁ na suṇātī”ti."
+    },
+    {
+      "id": "mn152:2.11",
+      "pali": "Evaṁ vutte, uttaro māṇavo pārāsiviyantevāsī tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi."
+    },
+    {
+      "id": "mn152:3.1",
+      "pali": "Atha kho bhagavā uttaraṁ māṇavaṁ pārāsiviyantevāsiṁ tuṇhībhūtaṁ maṅkubhūtaṁ pattakkhandhaṁ adhomukhaṁ pajjhāyantaṁ appaṭibhānaṁ viditvā āyasmantaṁ ānandaṁ āmantesi:"
+    },
+    {
+      "id": "mn152:3.2",
+      "pali": "“aññathā kho, ānanda, deseti pārāsiviyo brāhmaṇo sāvakānaṁ indriyabhāvanaṁ, aññathā ca panānanda, ariyassa vinaye anuttarā indriyabhāvanā hotī”ti."
+    },
+    {
+      "id": "mn152:3.3",
+      "pali": "“Etassa, bhagavā, kālo; etassa, sugata, kālo"
+    },
+    {
+      "id": "mn152:3.4",
+      "pali": "yaṁ bhagavā ariyassa vinaye anuttaraṁ indriyabhāvanaṁ deseyya. Bhagavato sutvā bhikkhū dhāressantī”ti."
+    },
+    {
+      "id": "mn152:3.5",
+      "pali": "“Tenahānanda, suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti."
+    },
+    {
+      "id": "mn152:3.6",
+      "pali": "“Evaṁ, bhante”ti kho āyasmā ānando bhagavato paccassosi."
+    },
+    {
+      "id": "mn152:3.7",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn152:4.1",
+      "pali": "“Kathañcānanda, ariyassa vinaye anuttarā indriyabhāvanā hoti?"
+    },
+    {
+      "id": "mn152:4.2",
+      "pali": "Idhānanda, bhikkhuno cakkhunā rūpaṁ disvā uppajjati manāpaṁ, uppajjati amanāpaṁ, uppajjati manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:4.3",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn152:4.4",
+      "pali": "‘uppannaṁ kho me idaṁ manāpaṁ, uppannaṁ amanāpaṁ, uppannaṁ manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:4.5",
+      "pali": "Tañca kho saṅkhataṁ oḷārikaṁ paṭiccasamuppannaṁ."
+    },
+    {
+      "id": "mn152:4.6",
+      "pali": "Etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ—"
+    },
+    {
+      "id": "mn152:4.7",
+      "pali": "upekkhā’ti."
+    },
+    {
+      "id": "mn152:4.8",
+      "pali": "Tassa taṁ uppannaṁ manāpaṁ uppannaṁ amanāpaṁ uppannaṁ manāpāmanāpaṁ nirujjhati;"
+    },
+    {
+      "id": "mn152:4.9",
+      "pali": "upekkhā saṇṭhāti."
+    },
+    {
+      "id": "mn152:4.10",
+      "pali": "Seyyathāpi, ānanda, cakkhumā puriso ummīletvā vā nimīleyya, nimīletvā vā ummīleyya;"
+    },
+    {
+      "id": "mn152:4.11",
+      "pali": "evameva kho, ānanda, yassa kassaci evaṁsīghaṁ evaṁtuvaṭaṁ evaṁappakasirena uppannaṁ manāpaṁ uppannaṁ amanāpaṁ uppannaṁ manāpāmanāpaṁ nirujjhati, upekkhā saṇṭhāti—"
+    },
+    {
+      "id": "mn152:4.12",
+      "pali": "ayaṁ vuccatānanda, ariyassa vinaye anuttarā indriyabhāvanā cakkhuviññeyyesu rūpesu."
+    },
+    {
+      "id": "mn152:5.1",
+      "pali": "Puna caparaṁ, ānanda, bhikkhuno sotena saddaṁ sutvā uppajjati manāpaṁ, uppajjati amanāpaṁ, uppajjati manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:5.2",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn152:5.3",
+      "pali": "‘uppannaṁ kho me idaṁ manāpaṁ, uppannaṁ amanāpaṁ, uppannaṁ manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:5.4",
+      "pali": "Tañca kho saṅkhataṁ oḷārikaṁ paṭiccasamuppannaṁ."
+    },
+    {
+      "id": "mn152:5.5",
+      "pali": "Etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ—"
+    },
+    {
+      "id": "mn152:5.6",
+      "pali": "upekkhā’ti."
+    },
+    {
+      "id": "mn152:5.7",
+      "pali": "Tassa taṁ uppannaṁ manāpaṁ uppannaṁ amanāpaṁ uppannaṁ manāpāmanāpaṁ nirujjhati;"
+    },
+    {
+      "id": "mn152:5.8",
+      "pali": "upekkhā saṇṭhāti."
+    },
+    {
+      "id": "mn152:5.9",
+      "pali": "Seyyathāpi, ānanda, balavā puriso appakasireneva accharaṁ pahareyya;"
+    },
+    {
+      "id": "mn152:5.10",
+      "pali": "evameva kho, ānanda, yassa kassaci evaṁsīghaṁ evaṁtuvaṭaṁ evaṁappakasirena uppannaṁ manāpaṁ uppannaṁ amanāpaṁ uppannaṁ manāpāmanāpaṁ nirujjhati, upekkhā saṇṭhāti—"
+    },
+    {
+      "id": "mn152:5.11",
+      "pali": "ayaṁ vuccatānanda, ariyassa vinaye anuttarā indriyabhāvanā sotaviññeyyesu saddesu."
+    },
+    {
+      "id": "mn152:6.1",
+      "pali": "Puna caparaṁ, ānanda, bhikkhuno ghānena gandhaṁ ghāyitvā uppajjati manāpaṁ, uppajjati amanāpaṁ, uppajjati manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:6.2",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn152:6.3",
+      "pali": "‘uppannaṁ kho me idaṁ manāpaṁ, uppannaṁ amanāpaṁ, uppannaṁ manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:6.4",
+      "pali": "Tañca kho saṅkhataṁ oḷārikaṁ paṭiccasamuppannaṁ."
+    },
+    {
+      "id": "mn152:6.5",
+      "pali": "Etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ—"
+    },
+    {
+      "id": "mn152:6.6",
+      "pali": "upekkhā’ti."
+    },
+    {
+      "id": "mn152:6.7",
+      "pali": "Tassa taṁ uppannaṁ manāpaṁ uppannaṁ amanāpaṁ uppannaṁ manāpāmanāpaṁ nirujjhati;"
+    },
+    {
+      "id": "mn152:6.8",
+      "pali": "upekkhā saṇṭhāti."
+    },
+    {
+      "id": "mn152:6.9",
+      "pali": "Seyyathāpi, ānanda, īsakampoṇe padumapalāse udakaphusitāni pavattanti, na saṇṭhanti;"
+    },
+    {
+      "id": "mn152:6.10",
+      "pali": "evameva kho, ānanda, yassa kassaci evaṁsīghaṁ evaṁtuvaṭaṁ evaṁappakasirena uppannaṁ manāpaṁ uppannaṁ amanāpaṁ uppannaṁ manāpāmanāpaṁ nirujjhati, upekkhā saṇṭhāti—"
+    },
+    {
+      "id": "mn152:6.11",
+      "pali": "ayaṁ vuccatānanda, ariyassa vinaye anuttarā indriyabhāvanā ghānaviññeyyesu gandhesu."
+    },
+    {
+      "id": "mn152:7.1",
+      "pali": "Puna caparaṁ, ānanda, bhikkhuno jivhāya rasaṁ sāyitvā uppajjati manāpaṁ, uppajjati amanāpaṁ, uppajjati manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:7.2",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn152:7.3",
+      "pali": "‘uppannaṁ kho me idaṁ manāpaṁ, uppannaṁ amanāpaṁ, uppannaṁ manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:7.4",
+      "pali": "Tañca kho saṅkhataṁ oḷārikaṁ paṭiccasamuppannaṁ."
+    },
+    {
+      "id": "mn152:7.5",
+      "pali": "Etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ—"
+    },
+    {
+      "id": "mn152:7.6",
+      "pali": "upekkhā’ti."
+    },
+    {
+      "id": "mn152:7.7",
+      "pali": "Tassa taṁ uppannaṁ manāpaṁ uppannaṁ amanāpaṁ uppannaṁ manāpāmanāpaṁ nirujjhati;"
+    },
+    {
+      "id": "mn152:7.8",
+      "pali": "upekkhā saṇṭhāti."
+    },
+    {
+      "id": "mn152:7.9",
+      "pali": "Seyyathāpi, ānanda, balavā puriso jivhagge kheḷapiṇḍaṁ saṁyūhitvā appakasirena vameyya;"
+    },
+    {
+      "id": "mn152:7.10",
+      "pali": "evameva kho, ānanda, yassa kassaci evaṁsīghaṁ evaṁtuvaṭaṁ evaṁappakasirena uppannaṁ manāpaṁ uppannaṁ amanāpaṁ uppannaṁ manāpāmanāpaṁ nirujjhati, upekkhā saṇṭhāti—"
+    },
+    {
+      "id": "mn152:7.11",
+      "pali": "ayaṁ vuccatānanda, ariyassa vinaye anuttarā indriyabhāvanā jivhāviññeyyesu rasesu."
+    },
+    {
+      "id": "mn152:8.1",
+      "pali": "Puna caparaṁ, ānanda, bhikkhuno kāyena phoṭṭhabbaṁ phusitvā uppajjati manāpaṁ, uppajjati amanāpaṁ, uppajjati manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:8.2",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn152:8.3",
+      "pali": "‘uppannaṁ kho me idaṁ manāpaṁ, uppannaṁ amanāpaṁ, uppannaṁ manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:8.4",
+      "pali": "Tañca kho saṅkhataṁ oḷārikaṁ paṭiccasamuppannaṁ."
+    },
+    {
+      "id": "mn152:8.5",
+      "pali": "Etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ—"
+    },
+    {
+      "id": "mn152:8.6",
+      "pali": "upekkhā’ti."
+    },
+    {
+      "id": "mn152:8.7",
+      "pali": "Tassa taṁ uppannaṁ manāpaṁ uppannaṁ amanāpaṁ uppannaṁ manāpāmanāpaṁ nirujjhati;"
+    },
+    {
+      "id": "mn152:8.8",
+      "pali": "upekkhā saṇṭhāti."
+    },
+    {
+      "id": "mn152:8.9",
+      "pali": "Seyyathāpi, ānanda, balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya;"
+    },
+    {
+      "id": "mn152:8.10",
+      "pali": "evameva kho, ānanda, yassa kassaci evaṁsīghaṁ evaṁtuvaṭaṁ evaṁappakasirena uppannaṁ manāpaṁ uppannaṁ amanāpaṁ uppannaṁ manāpāmanāpaṁ nirujjhati, upekkhā saṇṭhāti—"
+    },
+    {
+      "id": "mn152:8.11",
+      "pali": "ayaṁ vuccatānanda, ariyassa vinaye anuttarā indriyabhāvanā kāyaviññeyyesu phoṭṭhabbesu."
+    },
+    {
+      "id": "mn152:9.1",
+      "pali": "Puna caparaṁ, ānanda, bhikkhuno manasā dhammaṁ viññāya uppajjati manāpaṁ, uppajjati amanāpaṁ, uppajjati manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:9.2",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn152:9.3",
+      "pali": "‘uppannaṁ kho me idaṁ manāpaṁ, uppannaṁ amanāpaṁ, uppannaṁ manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:9.4",
+      "pali": "Tañca kho saṅkhataṁ oḷārikaṁ paṭiccasamuppannaṁ."
+    },
+    {
+      "id": "mn152:9.5",
+      "pali": "Etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ—"
+    },
+    {
+      "id": "mn152:9.6",
+      "pali": "upekkhā’ti."
+    },
+    {
+      "id": "mn152:9.7",
+      "pali": "Tassa taṁ uppannaṁ manāpaṁ uppannaṁ amanāpaṁ uppannaṁ manāpāmanāpaṁ nirujjhati;"
+    },
+    {
+      "id": "mn152:9.8",
+      "pali": "upekkhā saṇṭhāti."
+    },
+    {
+      "id": "mn152:9.9",
+      "pali": "Seyyathāpi, ānanda, balavā puriso divasaṁsantatte ayokaṭāhe dve vā tīṇi vā udakaphusitāni nipāteyya."
+    },
+    {
+      "id": "mn152:9.10",
+      "pali": "Dandho, ānanda, udakaphusitānaṁ nipāto, atha kho naṁ khippameva parikkhayaṁ pariyādānaṁ gaccheyya;"
+    },
+    {
+      "id": "mn152:9.11",
+      "pali": "evameva kho, ānanda, yassa kassaci evaṁsīghaṁ evaṁtuvaṭaṁ evaṁappakasirena uppannaṁ manāpaṁ uppannaṁ amanāpaṁ uppannaṁ manāpāmanāpaṁ nirujjhati, upekkhā saṇṭhāti—"
+    },
+    {
+      "id": "mn152:9.12",
+      "pali": "ayaṁ vuccatānanda, ariyassa vinaye anuttarā indriyabhāvanā manoviññeyyesu dhammesu."
+    },
+    {
+      "id": "mn152:9.13",
+      "pali": "Evaṁ kho, ānanda, ariyassa vinaye anuttarā indriyabhāvanā hoti."
+    },
+    {
+      "id": "mn152:10.1",
+      "pali": "Kathañcānanda, sekho hoti pāṭipado?"
+    },
+    {
+      "id": "mn152:10.2",
+      "pali": "Idhānanda, bhikkhuno cakkhunā rūpaṁ disvā uppajjati manāpaṁ, uppajjati amanāpaṁ, uppajjati manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:10.3",
+      "pali": "So tena uppannena manāpena uppannena amanāpena uppannena manāpāmanāpena aṭṭīyati harāyati jigucchati."
+    },
+    {
+      "id": "mn152:10.4",
+      "pali": "Sotena saddaṁ sutvā …pe…"
+    },
+    {
+      "id": "mn152:10.5",
+      "pali": "ghānena gandhaṁ ghāyitvā …"
+    },
+    {
+      "id": "mn152:10.6",
+      "pali": "jivhāya rasaṁ sāyitvā …"
+    },
+    {
+      "id": "mn152:10.7",
+      "pali": "kāyena phoṭṭhabbaṁ phusitvā …"
+    },
+    {
+      "id": "mn152:10.8",
+      "pali": "manasā dhammaṁ viññāya uppajjati manāpaṁ, uppajjati amanāpaṁ, uppajjati manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:10.9",
+      "pali": "So tena uppannena manāpena uppannena amanāpena uppannena manāpāmanāpena aṭṭīyati harāyati jigucchati."
+    },
+    {
+      "id": "mn152:10.10",
+      "pali": "Evaṁ kho, ānanda, sekho hoti pāṭipado."
+    },
+    {
+      "id": "mn152:11-15.1",
+      "pali": "Kathañcānanda, ariyo hoti bhāvitindriyo?"
+    },
+    {
+      "id": "mn152:11-15.2",
+      "pali": "Idhānanda, bhikkhuno cakkhunā rūpaṁ disvā uppajjati manāpaṁ, uppajjati amanāpaṁ, uppajjati manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:11-15.3",
+      "pali": "So sace ākaṅkhati: ‘paṭikūle appaṭikūlasaññī vihareyyan’ti, appaṭikūlasaññī tattha viharati."
+    },
+    {
+      "id": "mn152:11-15.4",
+      "pali": "Sace ākaṅkhati: ‘appaṭikūle paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha viharati."
+    },
+    {
+      "id": "mn152:11-15.5",
+      "pali": "Sace ākaṅkhati: ‘paṭikūle ca appaṭikūle ca appaṭikūlasaññī vihareyyan’ti, appaṭikūlasaññī tattha viharati."
+    },
+    {
+      "id": "mn152:11-15.6",
+      "pali": "Sace ākaṅkhati: ‘appaṭikūle ca paṭikūle ca paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha viharati."
+    },
+    {
+      "id": "mn152:11-15.7",
+      "pali": "Sace ākaṅkhati: ‘paṭikūlañca appaṭikūlañca tadubhayaṁ abhinivajjetvā upekkhako vihareyyaṁ sato sampajāno’ti, upekkhako tattha viharati sato sampajāno."
+    },
+    {
+      "id": "mn152:16.1",
+      "pali": "Puna caparaṁ, ānanda, bhikkhuno sotena saddaṁ sutvā …pe…"
+    },
+    {
+      "id": "mn152:16.2",
+      "pali": "ghānena gandhaṁ ghāyitvā …"
+    },
+    {
+      "id": "mn152:16.3",
+      "pali": "jivhāya rasaṁ sāyitvā …"
+    },
+    {
+      "id": "mn152:16.4",
+      "pali": "kāyena phoṭṭhabbaṁ phusitvā …"
+    },
+    {
+      "id": "mn152:16.5",
+      "pali": "manasā dhammaṁ viññāya uppajjati manāpaṁ, uppajjati amanāpaṁ, uppajjati manāpāmanāpaṁ."
+    },
+    {
+      "id": "mn152:16.6",
+      "pali": "So sace ākaṅkhati: ‘paṭikūle appaṭikūlasaññī vihareyyan’ti, appaṭikūlasaññī tattha viharati."
+    },
+    {
+      "id": "mn152:16.7",
+      "pali": "Sace ākaṅkhati: ‘appaṭikūle paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha viharati."
+    },
+    {
+      "id": "mn152:16.8",
+      "pali": "Sace ākaṅkhati: ‘paṭikūle ca appaṭikūle ca appaṭikūlasaññī vihareyyan’ti, appaṭikūlasaññī tattha viharati."
+    },
+    {
+      "id": "mn152:16.9",
+      "pali": "Sace ākaṅkhati: ‘appaṭikūle ca paṭikūle ca paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha viharati."
+    },
+    {
+      "id": "mn152:16.10",
+      "pali": "Sace ākaṅkhati: ‘paṭikūlañca appaṭikūlañca tadubhayampi abhinivajjetvā upekkhako vihareyyaṁ sato sampajāno’ti, upekkhako tattha viharati sato sampajāno."
+    },
+    {
+      "id": "mn152:16.11",
+      "pali": "Evaṁ kho, ānanda, ariyo hoti bhāvitindriyo."
+    },
+    {
+      "id": "mn152:17.1",
+      "pali": "Iti kho, ānanda, desitā mayā ariyassa vinaye anuttarā indriyabhāvanā, desito sekho pāṭipado, desito ariyo bhāvitindriyo."
+    },
+    {
+      "id": "mn152:18.1",
+      "pali": "Yaṁ kho, ānanda, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā."
+    },
+    {
+      "id": "mn152:18.2",
+      "pali": "Etāni, ānanda, rukkhamūlāni, etāni suññāgārāni, jhāyathānanda, mā pamādattha, mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanī”ti."
+    },
+    {
+      "id": "mn152:18.3",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn152:18.4",
+      "pali": "Attamano āyasmā ānando bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn152:18.5",
+      "pali": "Indriyabhāvanāsuttaṁ niṭṭhitaṁ dasamaṁ."
+    },
+    {
+      "id": "mn152:18.6",
+      "pali": "Saḷāyatanavaggo niṭṭhito pañcamo."
+    },
+    {
+      "id": "mn152:19.1",
+      "pali": "Anāthapiṇḍiko channo,"
+    },
+    {
+      "id": "mn152:19.2",
+      "pali": "puṇṇo nandakarāhulā;"
+    },
+    {
+      "id": "mn152:19.3",
+      "pali": "Chachakkaṁ saḷāyatanikaṁ,"
+    },
+    {
+      "id": "mn152:19.4",
+      "pali": "nagaravindeyyasuddhikā;"
+    },
+    {
+      "id": "mn152:19.5",
+      "pali": "Indriyabhāvanā cāpi,"
+    },
+    {
+      "id": "mn152:19.6",
+      "pali": "vaggo ovādapañcamoti."
+    },
+    {
+      "id": "mn152:20.1",
+      "pali": "Devadahonupado ca,"
+    },
+    {
+      "id": "mn152:20.2",
+      "pali": "Suññato ca vibhaṅgako;"
+    },
+    {
+      "id": "mn152:20.3",
+      "pali": "Saḷāyatanoti vaggā,"
+    },
+    {
+      "id": "mn152:20.4",
+      "pali": "Uparipaṇṇāsake ṭhitāti."
+    },
+    {
+      "id": "mn152:20.5",
+      "pali": "Uparipaṇṇāsakaṁ samattaṁ."
+    },
+    {
+      "id": "mn152:20.6",
+      "pali": "Tīhi paṇṇāsakehi paṭimaṇḍito sakalo"
+    },
+    {
+      "id": "mn152:20.7",
+      "pali": "majjhimanikāyo samatto."
+    }
+  ]
+}

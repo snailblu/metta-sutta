@@ -1,0 +1,367 @@
+{
+  "uid": "mil6.3.2",
+  "title": "Vessantaravagga",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "mil6.3.2:1.1",
+      "pali": "“Bhante nāgasena, sabbeva bodhisattā dukkarakārikaṁ karonti, udāhu gotameneva bodhisattena dukkarakārikā katā”ti?"
+    },
+    {
+      "id": "mil6.3.2:1.2",
+      "pali": "“Natthi, mahārāja, sabbesaṁ bodhisattānaṁ dukkarakārikā, gotameneva bodhisattena dukkarakārikā katā”ti."
+    },
+    {
+      "id": "mil6.3.2:2.1",
+      "pali": "“Bhante nāgasena, yadi evaṁ ayuttaṁ, yaṁ bodhisattānaṁ bodhisattehi vemattatā hotī”ti."
+    },
+    {
+      "id": "mil6.3.2:2.2",
+      "pali": "“Catūhi, mahārāja, ṭhānehi bodhisattānaṁ bodhisattehi vemattatā hoti."
+    },
+    {
+      "id": "mil6.3.2:2.3",
+      "pali": "Katamehi catūhi?"
+    },
+    {
+      "id": "mil6.3.2:2.4",
+      "pali": "Kulavemattatā padhānavemattatā āyuvemattatā pamāṇavemattatāti."
+    },
+    {
+      "id": "mil6.3.2:2.5",
+      "pali": "Imehi kho, mahārāja, catūhi ṭhānehi bodhisattānaṁ bodhisattehi vemattatā hoti."
+    },
+    {
+      "id": "mil6.3.2:2.6",
+      "pali": "Sabbesampi, mahārāja, buddhānaṁ rūpe sīle samādhimhi paññāya vimuttiyā vimuttiñāṇadassane catuvesārajje dasatathāgatabale chaasādhāraṇañāṇe cuddasabuddhañāṇe aṭṭhārasabuddhadhamme kevale ca buddhaguṇe natthi vemattatā, sabbepi buddhā buddhadhammehi samasamā”ti."
+    },
+    {
+      "id": "mil6.3.2:3.1",
+      "pali": "“Yadi, bhante nāgasena, sabbepi buddhā buddhadhammehi samasamā, kena kāraṇena gotameneva bodhisattena dukkarakārikā katā”ti?"
+    },
+    {
+      "id": "mil6.3.2:3.2",
+      "pali": "“Aparipakke, mahārāja, ñāṇe aparipakkāya bodhiyā gotamo bodhisatto nekkhammamabhinikkhanto aparipakkaṁ ñāṇaṁ paripācayamānena dukkarakārikā katā”ti."
+    },
+    {
+      "id": "mil6.3.2:4.1",
+      "pali": "“Bhante nāgasena, kena kāraṇena bodhisatto aparipakke ñāṇe aparipakkāya bodhiyā mahābhinikkhamanaṁ nikkhanto, nanu nāma ñāṇaṁ paripācetvā paripakke ñāṇe nikkhamitabban”ti?"
+    },
+    {
+      "id": "mil6.3.2:5.1",
+      "pali": "“Bodhisatto, mahārāja, viparītaṁ itthāgāraṁ disvā vippaṭisārī ahosi, tassa vippaṭisārissa arati uppajji, araticittaṁ uppannaṁ disvā aññataro mārakāyiko devaputto ‘ayaṁ kho kālo araticittassa vinodanāyā’ti vehāse ṭhatvā idaṁ vacanamabravi—"
+    },
+    {
+      "id": "mil6.3.2:6.1",
+      "pali": "‘Mārisa, mā kho tvaṁ ukkaṇṭhito ahosi, ito te sattame divase dibbaṁ cakkaratanaṁ pātubhavissati sahassāraṁ sanemikaṁ sanābhikaṁ sabbākāraparipūraṁ, pathavigatāni ca te ratanāni ākāsaṭṭhāni ca sayameva upagacchissanti, dvisahassaparittadīpaparivāresu catūsu mahādīpesu ekamukhena āṇā pavattissati, parosahassañca te puttā bhavissanti sūrā vīraṅgarūpā parasenappamaddanā, tehi puttehi parikiṇṇo sattaratanasamannāgato catuddīpamanusāsissasī’ti."
+    },
+    {
+      "id": "mil6.3.2:7.1",
+      "pali": "Yathā nāma divasasantattaṁ ayosūlaṁ sabbattha upaḍahantaṁ kaṇṇasotaṁ paviseyya;"
+    },
+    {
+      "id": "mil6.3.2:7.2",
+      "pali": "evameva kho, mahārāja, bodhisattassa taṁ vacanaṁ kaṇṇasotaṁ pavisittha, iti so pakatiyāva ukkaṇṭhito tassā devatāya vacanena bhiyyoso mattāya ubbijji saṁvijji saṁvegamāpajji."
+    },
+    {
+      "id": "mil6.3.2:8.1",
+      "pali": "Yathā pana, mahārāja, mahatimahāaggikkhandho jalamāno aññena kaṭṭhena upaḍahito bhiyyoso mattāya jaleyya;"
+    },
+    {
+      "id": "mil6.3.2:8.2",
+      "pali": "evameva kho, mahārāja, bodhisatto pakatiyāva ukkaṇṭhito tassā devatāya vacanena bhiyyoso mattāya ubbijji saṁvijji saṁvegamāpajji."
+    },
+    {
+      "id": "mil6.3.2:9.1",
+      "pali": "Yathā vā pana, mahārāja, mahāpathavī pakatitintā nibbattaharitasaddalā āsittodakā cikkhallajātā punadeva mahāmeghe abhivuṭṭhe bhiyyoso mattāya cikkhallatarā assa;"
+    },
+    {
+      "id": "mil6.3.2:9.2",
+      "pali": "evameva kho, mahārāja, bodhisatto pakatiyāva ukkaṇṭhito tassā devatāya vacanena bhiyyoso mattāya ubbijji saṁvijji saṁvegamāpajjī”ti."
+    },
+    {
+      "id": "mil6.3.2:10.1",
+      "pali": "“Api nu kho, bhante nāgasena, bodhisattassa yadi sattame divase dibbaṁ cakkaratanaṁ nibbatteyya, paṭinivatteyya bodhisatto dibbe cakkaratane nibbatte”ti?"
+    },
+    {
+      "id": "mil6.3.2:10.2",
+      "pali": "“Na hi, mahārāja, sattame divase bodhisattassa dibbaṁ cakkaratanaṁ nibbatteyya, api ca palobhanatthāya tāya devatāya musā bhaṇitaṁ, yadipi, mahārāja, sattame divase dibbaṁ cakkaratanaṁ nibbatteyya, bodhisatto na nivatteyya."
+    },
+    {
+      "id": "mil6.3.2:10.3",
+      "pali": "Kiṅkāraṇaṁ?"
+    },
+    {
+      "id": "mil6.3.2:10.4",
+      "pali": "‘Aniccan’ti, mahārāja, bodhisatto daḷhaṁ aggahesi, ‘dukkhaṁ anattā’ti daḷhaṁ aggahesi, upādānakkhayaṁ patto."
+    },
+    {
+      "id": "mil6.3.2:11.1",
+      "pali": "Yathā, mahārāja, anotattadahato udakaṁ gaṅgaṁ nadiṁ pavisati, gaṅgāya nadiyā mahāsamuddaṁ pavisati, mahāsamuddato pātālamukhaṁ pavisati, api nu, mahārāja, taṁ udakaṁ pātālamukhagataṁ paṭinivattitvā mahāsamuddaṁ paviseyya, mahāsamuddato gaṅgaṁ nadiṁ paviseyya, gaṅgāya nadiyā puna anotattaṁ paviseyyā”ti?"
+    },
+    {
+      "id": "mil6.3.2:11.2",
+      "pali": "“Na hi, bhante”ti."
+    },
+    {
+      "id": "mil6.3.2:11.3",
+      "pali": "“Evameva kho, mahārāja, bodhisattena kappānaṁ satasahassaṁ caturo ca asaṅkhyeyye kusalaṁ paripācitaṁ imassa bhavassa kāraṇā, soyaṁ antimabhavo anuppatto paripakkaṁ bodhiñāṇaṁ chahi vassehi buddho bhavissati sabbaññū loke aggapuggalo, api nu kho, mahārāja, bodhisatto cakkaratanakāraṇā paṭinivatteyyā”ti?"
+    },
+    {
+      "id": "mil6.3.2:11.4",
+      "pali": "“Na hi, bhante”ti."
+    },
+    {
+      "id": "mil6.3.2:12.1",
+      "pali": "“Api ca, mahārāja, mahāpathavī parivatteyya sakānanā sapabbatā, na tveva bodhisatto paṭinivatteyya apatvā sammāsambodhiṁ."
+    },
+    {
+      "id": "mil6.3.2:12.2",
+      "pali": "Āroheyyapi ce, mahārāja, gaṅgāya udakaṁ paṭisotaṁ, na tveva bodhisatto paṭinivatteyya apatvā sammāsambodhiṁ;"
+    },
+    {
+      "id": "mil6.3.2:12.3",
+      "pali": "visusseyyapi ce, mahārāja, mahāsamuddo aparimitajaladharo gopade udakaṁ viya, na tveva bodhisatto paṭinivatteyya apatvā sammāsambodhiṁ;"
+    },
+    {
+      "id": "mil6.3.2:12.4",
+      "pali": "phaleyyapi ce, mahārāja, sinerupabbatarājā satadhā vā sahassadhā vā, na tveva bodhisatto paṭinivatteyya apatvā sammāsambodhiṁ;"
+    },
+    {
+      "id": "mil6.3.2:12.5",
+      "pali": "pateyyumpi ce, mahārāja, candimasūriyā satārakā leḍḍu viya chamāyaṁ, na tveva bodhisatto paṭinivatteyya apatvā sammāsambodhiṁ;"
+    },
+    {
+      "id": "mil6.3.2:12.6",
+      "pali": "saṁvatteyyapi ce, mahārāja, ākāso kilañjamiva, na tveva bodhisatto paṭinivatteyya apatvā sammāsambodhiṁ."
+    },
+    {
+      "id": "mil6.3.2:12.7",
+      "pali": "Kiṁ kāraṇā?"
+    },
+    {
+      "id": "mil6.3.2:12.8",
+      "pali": "Padālitattā sabbabandhanānan”ti."
+    },
+    {
+      "id": "mil6.3.2:13.1",
+      "pali": "“Bhante nāgasena, kati loke bandhanānī”ti?"
+    },
+    {
+      "id": "mil6.3.2:13.2",
+      "pali": "“Dasa kho panimāni, mahārāja, loke bandhanāni, yehi bandhanehi baddhā sattā na nikkhamanti, nikkhamitvāpi paṭinivattanti."
+    },
+    {
+      "id": "mil6.3.2:13.3",
+      "pali": "Katamāni dasa?"
+    },
+    {
+      "id": "mil6.3.2:13.4",
+      "pali": "Mātā, mahārāja, loke bandhanaṁ, pitā, mahārāja, loke bandhanaṁ, bhariyā, mahārāja, loke bandhanaṁ, puttā, mahārāja, loke bandhanaṁ, ñātī, mahārāja, loke bandhanaṁ, mittaṁ, mahārāja, loke bandhanaṁ, dhanaṁ, mahārāja, loke bandhanaṁ, lābhasakkāro, mahārāja, loke bandhanaṁ, issariyaṁ, mahārāja, loke bandhanaṁ, pañca kāmaguṇā, mahārāja, loke bandhanaṁ, imāni kho, mahārāja, dasa loke bandhanāni, yehi bandhanehi baddhā sattā na nikkhamanti, nikkhamitvāpi paṭinivattanti, tāni dasa bandhanāni bodhisattassa chinnāni padālitāni, tasmā, mahārāja, bodhisatto na paṭinivattatī”ti."
+    },
+    {
+      "id": "mil6.3.2:14.1",
+      "pali": "“Bhante nāgasena, yadi bodhisatto uppanne araticitte devatāya vacanena aparipakke ñāṇe aparipakkāya bodhiyā nekkhammamabhinikkhanto, kiṁ tassa dukkarakārikāya katāya, nanu nāma sabbabhakkhena bhavitabbaṁ ñāṇaparipākaṁ āgamayamānenā”ti?"
+    },
+    {
+      "id": "mil6.3.2:15.1",
+      "pali": "“Dasa kho panime, mahārāja, puggalā lokasmiṁ oññātā avaññātā hīḷitā khīḷitā garahitā paribhūtā acittīkatā."
+    },
+    {
+      "id": "mil6.3.2:15.2",
+      "pali": "Katame dasa?"
+    },
+    {
+      "id": "mil6.3.2:15.3",
+      "pali": "Itthī, mahārāja, vidhavā lokasmiṁ oññātā avaññātā hīḷitā khīḷitā garahitā paribhūtā acittīkatā."
+    },
+    {
+      "id": "mil6.3.2:15.4",
+      "pali": "Dubbalo, mahārāja, puggalo …pe…"
+    },
+    {
+      "id": "mil6.3.2:15.5",
+      "pali": "amittañāti, mahārāja, puggalo …"
+    },
+    {
+      "id": "mil6.3.2:15.6",
+      "pali": "mahagghaso, mahārāja, puggalo …"
+    },
+    {
+      "id": "mil6.3.2:15.7",
+      "pali": "agarukulavāsiko, mahārāja, puggalo …"
+    },
+    {
+      "id": "mil6.3.2:15.8",
+      "pali": "pāpamitto, mahārāja, puggalo …"
+    },
+    {
+      "id": "mil6.3.2:15.9",
+      "pali": "dhanahīno, mahārāja, puggalo …"
+    },
+    {
+      "id": "mil6.3.2:15.10",
+      "pali": "ācārahīno, mahārāja, puggalo …"
+    },
+    {
+      "id": "mil6.3.2:15.11",
+      "pali": "kammahīno, mahārāja, puggalo …"
+    },
+    {
+      "id": "mil6.3.2:15.12",
+      "pali": "payogahīno, mahārāja, puggalo lokasmiṁ oññāto avaññāto hīḷito khīḷito garahito paribhūto acittīkato."
+    },
+    {
+      "id": "mil6.3.2:15.13",
+      "pali": "Ime kho, mahārāja, dasa puggalā lokasmiṁ oññātā avaññātā hīḷitā khīḷitā garahitā paribhūtā acittīkatā."
+    },
+    {
+      "id": "mil6.3.2:15.14",
+      "pali": "Imāni kho, mahārāja, dasa ṭhānāni anussaramānassa bodhisattassa evaṁ saññā uppajji ‘māhaṁ kammahīno assaṁ payogahīno garahito devamanussānaṁ, yannūnāhaṁ kammassāmī assaṁ kammagaru kammādhipateyyo kammasīlo kammadhorayho kammaniketavā appamatto vihareyyan’ti, evaṁ kho, mahārāja, bodhisatto ñāṇaṁ paripācento dukkarakārikaṁ akāsī”ti."
+    },
+    {
+      "id": "mil6.3.2:16.1",
+      "pali": "“Bhante nāgasena, bodhisatto dukkarakārikaṁ karonto evamāha ‘na kho panāhaṁ imāya kaṭukāya dukkarakārikāya adhigacchāmi uttari manussadhammaṁ alamariyañāṇadassanavisesaṁ, siyā nu kho añño maggo bodhāyā’ti."
+    },
+    {
+      "id": "mil6.3.2:16.2",
+      "pali": "Api nu tasmiṁ samaye bodhisattassa maggaṁ ārabbha satisammoso ahosī”ti?"
+    },
+    {
+      "id": "mil6.3.2:17.1",
+      "pali": "“Pañcavīsati kho panime, mahārāja, cittadubbalīkaraṇā dhammā, yehi dubbalīkataṁ cittaṁ na sammā samādhiyati āsavānaṁ khayāya."
+    },
+    {
+      "id": "mil6.3.2:17.2",
+      "pali": "Katame pañcavīsati?"
+    },
+    {
+      "id": "mil6.3.2:17.3",
+      "pali": "Kodho, mahārāja, cittadubbalīkaraṇo dhammo, yena dubbalīkataṁ cittaṁ na sammā samādhiyati āsavānaṁ khayāya, upanāho …pe…"
+    },
+    {
+      "id": "mil6.3.2:17.4",
+      "pali": "makkho …"
+    },
+    {
+      "id": "mil6.3.2:17.5",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "mil6.3.2:17.6",
+      "pali": "issā …"
+    },
+    {
+      "id": "mil6.3.2:17.7",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "mil6.3.2:17.8",
+      "pali": "māyā …"
+    },
+    {
+      "id": "mil6.3.2:17.9",
+      "pali": "sāṭheyyaṁ …"
+    },
+    {
+      "id": "mil6.3.2:17.10",
+      "pali": "thambho …"
+    },
+    {
+      "id": "mil6.3.2:17.11",
+      "pali": "sārambho …"
+    },
+    {
+      "id": "mil6.3.2:17.12",
+      "pali": "māno …"
+    },
+    {
+      "id": "mil6.3.2:17.13",
+      "pali": "atimāno …"
+    },
+    {
+      "id": "mil6.3.2:17.14",
+      "pali": "mado …"
+    },
+    {
+      "id": "mil6.3.2:17.15",
+      "pali": "pamādo …"
+    },
+    {
+      "id": "mil6.3.2:17.16",
+      "pali": "thinamiddhaṁ …"
+    },
+    {
+      "id": "mil6.3.2:17.17",
+      "pali": "tandi …"
+    },
+    {
+      "id": "mil6.3.2:17.18",
+      "pali": "ālasyaṁ …"
+    },
+    {
+      "id": "mil6.3.2:17.19",
+      "pali": "pāpamittatā …"
+    },
+    {
+      "id": "mil6.3.2:17.20",
+      "pali": "rūpā …"
+    },
+    {
+      "id": "mil6.3.2:17.21",
+      "pali": "saddā …"
+    },
+    {
+      "id": "mil6.3.2:17.22",
+      "pali": "gandhā …"
+    },
+    {
+      "id": "mil6.3.2:17.23",
+      "pali": "rasā …"
+    },
+    {
+      "id": "mil6.3.2:17.24",
+      "pali": "phoṭṭhabbā …"
+    },
+    {
+      "id": "mil6.3.2:17.25",
+      "pali": "khudāpipāsā …"
+    },
+    {
+      "id": "mil6.3.2:17.26",
+      "pali": "arati, mahārāja, cittadubbalīkaraṇo dhammo, yena dubbalīkataṁ cittaṁ na sammā samādhiyati āsavānaṁ khayāya."
+    },
+    {
+      "id": "mil6.3.2:17.27",
+      "pali": "Ime kho, mahārāja, pañcavīsati cittadubbalīkaraṇā dhammā, yehi dubbalīkataṁ cittaṁ na sammā samādhiyati āsavānaṁ khayāya."
+    },
+    {
+      "id": "mil6.3.2:18.1",
+      "pali": "Bodhisattassa kho, mahārāja, khudāpipāsā kāyaṁ pariyādiyiṁsu, kāye pariyādinne cittaṁ na sammā samādhiyati āsavānaṁ khayāya."
+    },
+    {
+      "id": "mil6.3.2:18.2",
+      "pali": "Satasahassaṁ, mahārāja, kappānaṁ caturo ca asaṅkhyeyye kappe bodhisatto catunnaṁyeva ariyasaccānaṁ abhisamayaṁ anvesi tāsu tāsu jātīsu, kiṁ panassa pacchime bhave abhisamayajātiyaṁ maggaṁ ārabbha satisammoso hessati?"
+    },
+    {
+      "id": "mil6.3.2:18.3",
+      "pali": "Api ca, mahārāja, bodhisattassa saññāmattaṁ uppajji ‘siyā nu kho añño maggo bodhāyā’ti."
+    },
+    {
+      "id": "mil6.3.2:18.4",
+      "pali": "Pubbe kho, mahārāja, bodhisatto ekamāsiko samāno pitu sakkassa kammante sītāya jambucchāyāya sirisayane pallaṅkaṁ ābhujitvā nisinno vivicceva kāmehi vicicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja vihāsi …pe…"
+    },
+    {
+      "id": "mil6.3.2:18.5",
+      "pali": "catutthaṁ jhānaṁ upasampajja vihāsī”ti."
+    },
+    {
+      "id": "mil6.3.2:18.6",
+      "pali": "“Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmi, ñāṇaṁ paripācento bodhisatto dukkarakārikaṁ akāsī”ti."
+    },
+    {
+      "id": "mil6.3.2:19.1",
+      "pali": "Dukkarakārikapañho dutiyo."
+    }
+  ]
+}

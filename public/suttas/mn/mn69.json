@@ -1,0 +1,415 @@
+{
+  "uid": "mn69",
+  "title": "Goliyānisutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn69:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn69:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe."
+    },
+    {
+      "id": "mn69:2.1",
+      "pali": "Tena kho pana samayena goliyāni nāma bhikkhu āraññiko padasamācāro saṅghamajjhe osaṭo hoti kenacideva karaṇīyena."
+    },
+    {
+      "id": "mn69:2.2",
+      "pali": "Tatra kho āyasmā sāriputto goliyāniṁ bhikkhuṁ ārabbha bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn69:3.1",
+      "pali": "“Āraññikenāvuso, bhikkhunā saṅghagatena saṅghe viharantena sabrahmacārīsu sagāravena bhavitabbaṁ sappatissena."
+    },
+    {
+      "id": "mn69:3.2",
+      "pali": "Sace, āvuso, āraññiko bhikkhu saṅghagato saṅghe viharanto sabrahmacārīsu agāravo hoti appatisso, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:3.3",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena, yo ayamāyasmā sabrahmacārīsu agāravo hoti appatisso’ti—"
+    },
+    {
+      "id": "mn69:3.4",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:3.5",
+      "pali": "Tasmā āraññikena bhikkhunā saṅghagatena saṅghe viharantena sabrahmacārīsu sagāravena bhavitabbaṁ sappatissena."
+    },
+    {
+      "id": "mn69:4.1",
+      "pali": "Āraññikenāvuso, bhikkhunā saṅghagatena saṅghe viharantena āsanakusalena bhavitabbaṁ:"
+    },
+    {
+      "id": "mn69:4.2",
+      "pali": "‘iti there ca bhikkhū nānupakhajja nisīdissāmi nave ca bhikkhū na āsanena paṭibāhissāmī’ti."
+    },
+    {
+      "id": "mn69:4.3",
+      "pali": "Sace, āvuso, āraññiko bhikkhu saṅghagato saṅghe viharanto na āsanakusalo hoti, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:4.4",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena, yo ayamāyasmā āsanakusalo na hotī’ti—"
+    },
+    {
+      "id": "mn69:4.5",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:4.6",
+      "pali": "Tasmā āraññikena bhikkhunā saṅghagatena saṅghe viharantena āsanakusalena bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:4.7",
+      "pali": "Āraññikenāvuso, bhikkhunā saṅghagatena saṅghe viharantena ābhisamācārikopi dhammo jānitabbo."
+    },
+    {
+      "id": "mn69:4.8",
+      "pali": "Sace, āvuso, āraññiko bhikkhu saṅghagato saṅghe viharanto ābhisamācārikampi dhammaṁ na jānāti, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:4.9",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā ābhisamācārikampi dhammaṁ na jānātī’ti—"
+    },
+    {
+      "id": "mn69:4.10",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:4.11",
+      "pali": "Tasmā āraññikena bhikkhunā saṅghagatena saṅghe viharantena ābhisamācārikopi dhammo jānitabbo."
+    },
+    {
+      "id": "mn69:5.1",
+      "pali": "Āraññikenāvuso, bhikkhunā saṅghagatena saṅghe viharantena nātikālena gāmo pavisitabbo nātidivā paṭikkamitabbaṁ."
+    },
+    {
+      "id": "mn69:5.2",
+      "pali": "Sace, āvuso, āraññiko bhikkhu saṅghagato saṅghe viharanto atikālena gāmaṁ pavisati atidivā paṭikkamati, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:5.3",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā atikālena gāmaṁ pavisati atidivā paṭikkamatī’ti—"
+    },
+    {
+      "id": "mn69:5.4",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:5.5",
+      "pali": "Tasmā āraññikena bhikkhunā saṅghagatena saṅghe viharantena nātikālena gāmo pavisitabbo, nātidivā paṭikkamitabbaṁ."
+    },
+    {
+      "id": "mn69:6.1",
+      "pali": "Āraññikenāvuso, bhikkhunā saṅghagatena saṅghe viharantena na purebhattaṁ pacchābhattaṁ kulesu cārittaṁ āpajjitabbaṁ."
+    },
+    {
+      "id": "mn69:6.2",
+      "pali": "Sace, āvuso, āraññiko bhikkhu saṅghagato saṅghe viharanto purebhattaṁ pacchābhattaṁ kulesu cārittaṁ āpajjati, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:6.3",
+      "pali": "‘Ayaṁ nūnimassāyasmato āraññikassa ekassāraññe serivihārena viharato vikālacariyā bahulīkatā, tamenaṁ saṅghagatampi samudācaratī’ti—"
+    },
+    {
+      "id": "mn69:6.4",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:6.5",
+      "pali": "Tasmā āraññikena bhikkhunā saṅghagatena saṅghe viharantena na purebhattaṁ pacchābhattaṁ kulesu cārittaṁ āpajjitabbaṁ."
+    },
+    {
+      "id": "mn69:7.1",
+      "pali": "Āraññikenāvuso, bhikkhunā saṅghagatena saṅghe viharantena anuddhatena bhavitabbaṁ acapalena."
+    },
+    {
+      "id": "mn69:7.2",
+      "pali": "Sace, āvuso, āraññiko bhikkhu saṅghagato saṅghe viharanto uddhato hoti capalo, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:7.3",
+      "pali": "‘Idaṁ nūnimassāyasmato āraññikassa ekassāraññe serivihārena viharato uddhaccaṁ cāpalyaṁ bahulīkataṁ, tamenaṁ saṅghagatampi samudācaratī’ti—"
+    },
+    {
+      "id": "mn69:7.4",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:7.5",
+      "pali": "Tasmā āraññikena bhikkhunā saṅghagatena saṅghe viharantena anuddhatena bhavitabbaṁ acapalena."
+    },
+    {
+      "id": "mn69:8.1",
+      "pali": "Āraññikenāvuso, bhikkhunā saṅghagatena saṅghe viharantena amukharena bhavitabbaṁ avikiṇṇavācena."
+    },
+    {
+      "id": "mn69:8.2",
+      "pali": "Sace, āvuso, āraññiko bhikkhu saṅghagato saṅghe viharanto mukharo hoti vikiṇṇavāco, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:8.3",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā mukharo vikiṇṇavāco’ti—"
+    },
+    {
+      "id": "mn69:8.4",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:8.5",
+      "pali": "Tasmā āraññikena bhikkhunā saṅghagatena saṅghe viharantena amukharena bhavitabbaṁ avikiṇṇavācena."
+    },
+    {
+      "id": "mn69:9.1",
+      "pali": "Āraññikenāvuso, bhikkhunā saṅghagatena saṅghe viharantena suvacena bhavitabbaṁ kalyāṇamittena."
+    },
+    {
+      "id": "mn69:9.2",
+      "pali": "Sace, āvuso, āraññiko bhikkhu saṅghagato saṅghe viharanto dubbaco hoti pāpamitto, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:9.3",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā dubbaco pāpamitto’ti—"
+    },
+    {
+      "id": "mn69:9.4",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:9.5",
+      "pali": "Tasmā āraññikena bhikkhunā saṅghagatena saṅghe viharantena suvacena bhavitabbaṁ kalyāṇamittena."
+    },
+    {
+      "id": "mn69:10.1",
+      "pali": "Āraññikenāvuso, bhikkhunā indriyesu guttadvārena bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:10.2",
+      "pali": "Sace, āvuso, āraññiko bhikkhu indriyesu aguttadvāro hoti, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:10.3",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā indriyesu aguttadvāro’ti—"
+    },
+    {
+      "id": "mn69:10.4",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:10.5",
+      "pali": "Tasmā āraññikena bhikkhunā indriyesu guttadvārena bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:11.1",
+      "pali": "Āraññikenāvuso, bhikkhunā bhojane mattaññunā bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:11.2",
+      "pali": "Sace, āvuso, āraññiko bhikkhu bhojane amattaññū hoti, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:11.3",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā bhojane amattaññū’ti—"
+    },
+    {
+      "id": "mn69:11.4",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:11.5",
+      "pali": "Tasmā āraññikena bhikkhunā bhojane mattaññunā bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:12.1",
+      "pali": "Āraññikenāvuso, bhikkhunā jāgariyaṁ anuyuttena bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:12.2",
+      "pali": "Sace, āvuso, āraññiko bhikkhu jāgariyaṁ ananuyutto hoti, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:12.3",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā jāgariyaṁ ananuyutto’ti—"
+    },
+    {
+      "id": "mn69:12.4",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:12.5",
+      "pali": "Tasmā āraññikena bhikkhunā jāgariyaṁ anuyuttena bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:13.1",
+      "pali": "Āraññikenāvuso, bhikkhunā āraddhavīriyena bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:13.2",
+      "pali": "Sace, āvuso, āraññiko bhikkhu kusīto hoti, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:13.3",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā kusīto’ti—"
+    },
+    {
+      "id": "mn69:13.4",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:13.5",
+      "pali": "Tasmā āraññikena bhikkhunā āraddhavīriyena bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:14.1",
+      "pali": "Āraññikenāvuso, bhikkhunā upaṭṭhitassatinā bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:14.2",
+      "pali": "Sace, āvuso, āraññiko bhikkhu muṭṭhassatī hoti, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:14.3",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā muṭṭhassatī’ti—"
+    },
+    {
+      "id": "mn69:14.4",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:14.5",
+      "pali": "Tasmā āraññikena bhikkhunā upaṭṭhitassatinā bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:15.1",
+      "pali": "Āraññikenāvuso, bhikkhunā samāhitena bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:15.2",
+      "pali": "Sace, āvuso, āraññiko bhikkhu asamāhito hoti, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:15.3",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā asamāhito’ti—"
+    },
+    {
+      "id": "mn69:15.4",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:15.5",
+      "pali": "Tasmā āraññikena bhikkhunā samāhitena bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:16.1",
+      "pali": "Āraññikenāvuso, bhikkhunā paññavatā bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:16.2",
+      "pali": "Sace, āvuso, āraññiko bhikkhu duppañño hoti, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:16.3",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā duppañño’ti—"
+    },
+    {
+      "id": "mn69:16.4",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:16.5",
+      "pali": "Tasmā āraññikena bhikkhunā paññavatā bhavitabbaṁ."
+    },
+    {
+      "id": "mn69:17.1",
+      "pali": "Āraññikenāvuso, bhikkhunā abhidhamme abhivinaye yogo karaṇīyo."
+    },
+    {
+      "id": "mn69:17.2",
+      "pali": "Santāvuso, āraññikaṁ bhikkhuṁ abhidhamme abhivinaye pañhaṁ pucchitāro."
+    },
+    {
+      "id": "mn69:17.3",
+      "pali": "Sace, āvuso, āraññiko bhikkhu abhidhamme abhivinaye pañhaṁ puṭṭho na sampāyati, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:17.4",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā abhidhamme abhivinaye pañhaṁ puṭṭho na sampāyatī’ti—"
+    },
+    {
+      "id": "mn69:17.5",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:17.6",
+      "pali": "Tasmā āraññikena bhikkhunā abhidhamme abhivinaye yogo karaṇīyo."
+    },
+    {
+      "id": "mn69:18.1",
+      "pali": "Āraññikenāvuso, bhikkhunā ye te santā vimokkhā atikkamma rūpe āruppā tattha yogo karaṇīyo."
+    },
+    {
+      "id": "mn69:18.2",
+      "pali": "Santāvuso, āraññikaṁ bhikkhuṁ ye te santā vimokkhā atikkamma rūpe āruppā tattha pañhaṁ pucchitāro."
+    },
+    {
+      "id": "mn69:18.3",
+      "pali": "Sace, āvuso, āraññiko bhikkhu ye te santā vimokkhā atikkamma rūpe āruppā tattha pañhaṁ puṭṭho na sampāyati, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:18.4",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā ye te santā vimokkhā atikkamma rūpe āruppā tattha pañhaṁ puṭṭho na sampāyatī’ti—"
+    },
+    {
+      "id": "mn69:18.5",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:18.6",
+      "pali": "Tasmā āraññikena bhikkhunā ye te santā vimokkhā atikkamma rūpe āruppā tattha yogo karaṇīyo."
+    },
+    {
+      "id": "mn69:19.1",
+      "pali": "Āraññikenāvuso, bhikkhunā uttari manussadhamme yogo karaṇīyo."
+    },
+    {
+      "id": "mn69:19.2",
+      "pali": "Santāvuso, āraññikaṁ bhikkhuṁ uttari manussadhamme pañhaṁ pucchitāro."
+    },
+    {
+      "id": "mn69:19.3",
+      "pali": "Sace, āvuso, āraññiko bhikkhu uttari manussadhamme pañhaṁ puṭṭho na sampāyati, tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:19.4",
+      "pali": "‘Kiṁ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā yassatthāya pabbajito tamatthaṁ na jānātī’ti—"
+    },
+    {
+      "id": "mn69:19.5",
+      "pali": "tassa bhavanti vattāro."
+    },
+    {
+      "id": "mn69:19.6",
+      "pali": "Tasmā āraññikena bhikkhunā uttari manussadhamme yogo karaṇīyo”ti."
+    },
+    {
+      "id": "mn69:19.7",
+      "pali": "Evaṁ vutte, āyasmā mahāmoggallāno āyasmantaṁ sāriputtaṁ etadavoca:"
+    },
+    {
+      "id": "mn69:19.8",
+      "pali": "“āraññikeneva nu kho, āvuso sāriputta, bhikkhunā ime dhammā samādāya vattitabbā udāhu gāmantavihārināpī”ti?"
+    },
+    {
+      "id": "mn69:19.9",
+      "pali": "“Āraññikenāpi kho, āvuso moggallāna, bhikkhunā ime dhammā samādāya vattitabbā pageva gāmantavihārinā”ti."
+    },
+    {
+      "id": "mn69:19.10",
+      "pali": "Goliyānisuttaṁ niṭṭhitaṁ navamaṁ."
+    }
+  ]
+}

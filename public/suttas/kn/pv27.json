@@ -1,0 +1,547 @@
+{
+  "uid": "pv27",
+  "title": "2. Sāṇavāsītherapetavatthu",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "pv27:1.1",
+      "pali": "Kuṇḍināgariyo thero,"
+    },
+    {
+      "id": "pv27:1.2",
+      "pali": "sāṇavāsinivāsiko;"
+    },
+    {
+      "id": "pv27:1.3",
+      "pali": "Poṭṭhapādoti nāmena,"
+    },
+    {
+      "id": "pv27:1.4",
+      "pali": "samaṇo bhāvitindriyo."
+    },
+    {
+      "id": "pv27:2.1",
+      "pali": "Tassa mātā pitā bhātā,"
+    },
+    {
+      "id": "pv27:2.2",
+      "pali": "duggatā yamalokikā;"
+    },
+    {
+      "id": "pv27:2.3",
+      "pali": "Pāpakammaṁ karitvāna,"
+    },
+    {
+      "id": "pv27:2.4",
+      "pali": "petalokaṁ ito gatā."
+    },
+    {
+      "id": "pv27:3.1",
+      "pali": "Te duggatā sūcikaṭṭā,"
+    },
+    {
+      "id": "pv27:3.2",
+      "pali": "kilantā naggino kisā;"
+    },
+    {
+      "id": "pv27:3.3",
+      "pali": "Uttasantā mahattāsā,"
+    },
+    {
+      "id": "pv27:3.4",
+      "pali": "na dassenti kurūrino."
+    },
+    {
+      "id": "pv27:4.1",
+      "pali": "Tassa bhātā vitaritvā,"
+    },
+    {
+      "id": "pv27:4.2",
+      "pali": "naggo ekapathekako;"
+    },
+    {
+      "id": "pv27:4.3",
+      "pali": "Catukuṇḍiko bhavitvāna,"
+    },
+    {
+      "id": "pv27:4.4",
+      "pali": "therassa dassayītumaṁ."
+    },
+    {
+      "id": "pv27:5.1",
+      "pali": "Thero cāmanasikatvā,"
+    },
+    {
+      "id": "pv27:5.2",
+      "pali": "tuṇhībhūto atikkami;"
+    },
+    {
+      "id": "pv27:5.3",
+      "pali": "So ca viññāpayī theraṁ,"
+    },
+    {
+      "id": "pv27:5.4",
+      "pali": "“bhātā petagato ahaṁ."
+    },
+    {
+      "id": "pv27:6.1",
+      "pali": "Mātā pitā ca te bhante,"
+    },
+    {
+      "id": "pv27:6.2",
+      "pali": "duggatā yamalokikā;"
+    },
+    {
+      "id": "pv27:6.3",
+      "pali": "Pāpakammaṁ karitvāna,"
+    },
+    {
+      "id": "pv27:6.4",
+      "pali": "petalokaṁ ito gatā."
+    },
+    {
+      "id": "pv27:7.1",
+      "pali": "Te duggatā sūcikaṭṭā,"
+    },
+    {
+      "id": "pv27:7.2",
+      "pali": "kilantā naggino kisā;"
+    },
+    {
+      "id": "pv27:7.3",
+      "pali": "Uttasantā mahattāsā,"
+    },
+    {
+      "id": "pv27:7.4",
+      "pali": "na dassenti kurūrino."
+    },
+    {
+      "id": "pv27:8.1",
+      "pali": "Anukampassu kāruṇiko,"
+    },
+    {
+      "id": "pv27:8.2",
+      "pali": "datvā anvādisāhi no;"
+    },
+    {
+      "id": "pv27:8.3",
+      "pali": "Tava dinnena dānena,"
+    },
+    {
+      "id": "pv27:8.4",
+      "pali": "yāpessanti kurūrino”ti."
+    },
+    {
+      "id": "pv27:9.1",
+      "pali": "Thero caritvā piṇḍāya,"
+    },
+    {
+      "id": "pv27:9.2",
+      "pali": "bhikkhū aññe ca dvādasa;"
+    },
+    {
+      "id": "pv27:9.3",
+      "pali": "Ekajjhaṁ sannipatiṁsu,"
+    },
+    {
+      "id": "pv27:9.4",
+      "pali": "bhattavissaggakāraṇā."
+    },
+    {
+      "id": "pv27:10.1",
+      "pali": "Thero sabbeva te āha,"
+    },
+    {
+      "id": "pv27:10.2",
+      "pali": "“yathāladdhaṁ dadātha me;"
+    },
+    {
+      "id": "pv27:10.3",
+      "pali": "Saṅghabhattaṁ karissāmi,"
+    },
+    {
+      "id": "pv27:10.4",
+      "pali": "anukampāya ñātinaṁ”."
+    },
+    {
+      "id": "pv27:11.1",
+      "pali": "Niyyādayiṁsu therassa,"
+    },
+    {
+      "id": "pv27:11.2",
+      "pali": "thero saṅghaṁ nimantayi;"
+    },
+    {
+      "id": "pv27:11.3",
+      "pali": "Datvā anvādisi thero,"
+    },
+    {
+      "id": "pv27:11.4",
+      "pali": "mātu pitu ca bhātuno;"
+    },
+    {
+      "id": "pv27:11.5",
+      "pali": "“Idaṁ me ñātīnaṁ hotu,"
+    },
+    {
+      "id": "pv27:11.6",
+      "pali": "sukhitā hontu ñātayo”."
+    },
+    {
+      "id": "pv27:12.1",
+      "pali": "Samanantarānuddiṭṭhe,"
+    },
+    {
+      "id": "pv27:12.2",
+      "pali": "bhojanaṁ udapajjatha;"
+    },
+    {
+      "id": "pv27:12.3",
+      "pali": "Suciṁ paṇītaṁ sampannaṁ,"
+    },
+    {
+      "id": "pv27:12.4",
+      "pali": "anekarasabyañjanaṁ."
+    },
+    {
+      "id": "pv27:13.1",
+      "pali": "Tato uddassayī bhātā,"
+    },
+    {
+      "id": "pv27:13.2",
+      "pali": "vaṇṇavā balavā sukhī;"
+    },
+    {
+      "id": "pv27:13.3",
+      "pali": "“Pahūtaṁ bhojanaṁ bhante,"
+    },
+    {
+      "id": "pv27:13.4",
+      "pali": "passa naggāmhase mayaṁ;"
+    },
+    {
+      "id": "pv27:13.5",
+      "pali": "Tathā bhante parakkama,"
+    },
+    {
+      "id": "pv27:13.6",
+      "pali": "yathā vatthaṁ labhāmase”ti."
+    },
+    {
+      "id": "pv27:14.1",
+      "pali": "Thero saṅkārakūṭamhā,"
+    },
+    {
+      "id": "pv27:14.2",
+      "pali": "uccinitvāna nantake;"
+    },
+    {
+      "id": "pv27:14.3",
+      "pali": "Pilotikaṁ paṭaṁ katvā,"
+    },
+    {
+      "id": "pv27:14.4",
+      "pali": "saṅghe cātuddise adā."
+    },
+    {
+      "id": "pv27:15.1",
+      "pali": "Datvā anvādisī thero,"
+    },
+    {
+      "id": "pv27:15.2",
+      "pali": "mātu pitu ca bhātuno;"
+    },
+    {
+      "id": "pv27:15.3",
+      "pali": "“Idaṁ me ñātīnaṁ hotu,"
+    },
+    {
+      "id": "pv27:15.4",
+      "pali": "sukhitā hontu ñātayo”."
+    },
+    {
+      "id": "pv27:16.1",
+      "pali": "Samanantarānuddiṭṭhe,"
+    },
+    {
+      "id": "pv27:16.2",
+      "pali": "vatthāni udapajjisuṁ;"
+    },
+    {
+      "id": "pv27:16.3",
+      "pali": "Tato suvatthavasano,"
+    },
+    {
+      "id": "pv27:16.4",
+      "pali": "therassa dassayītumaṁ."
+    },
+    {
+      "id": "pv27:17.1",
+      "pali": "“Yāvatā nandarājassa,"
+    },
+    {
+      "id": "pv27:17.2",
+      "pali": "vijitasmiṁ paṭicchadā;"
+    },
+    {
+      "id": "pv27:17.3",
+      "pali": "Tato bahutarā bhante,"
+    },
+    {
+      "id": "pv27:17.4",
+      "pali": "vatthānacchādanāni no."
+    },
+    {
+      "id": "pv27:18.1",
+      "pali": "Koseyyakambalīyāni,"
+    },
+    {
+      "id": "pv27:18.2",
+      "pali": "khoma kappāsikāni ca;"
+    },
+    {
+      "id": "pv27:18.3",
+      "pali": "Vipulā ca mahagghā ca,"
+    },
+    {
+      "id": "pv27:18.4",
+      "pali": "tepākāsevalambare."
+    },
+    {
+      "id": "pv27:19.1",
+      "pali": "Te mayaṁ paridahāma,"
+    },
+    {
+      "id": "pv27:19.2",
+      "pali": "yaṁ yaṁ hi manaso piyaṁ;"
+    },
+    {
+      "id": "pv27:19.3",
+      "pali": "Tathā bhante parakkama,"
+    },
+    {
+      "id": "pv27:19.4",
+      "pali": "yathā gehaṁ labhāmase”ti."
+    },
+    {
+      "id": "pv27:20.1",
+      "pali": "Thero paṇṇakuṭiṁ katvā,"
+    },
+    {
+      "id": "pv27:20.2",
+      "pali": "saṅghe cātuddise adā;"
+    },
+    {
+      "id": "pv27:20.3",
+      "pali": "Datvā anvādisī thero,"
+    },
+    {
+      "id": "pv27:20.4",
+      "pali": "mātu pitu ca bhātuno;"
+    },
+    {
+      "id": "pv27:20.5",
+      "pali": "“Idaṁ me ñātīnaṁ hotu,"
+    },
+    {
+      "id": "pv27:20.6",
+      "pali": "sukhitā hontu ñātayo”."
+    },
+    {
+      "id": "pv27:21.1",
+      "pali": "Samanantarānuddiṭṭhe,"
+    },
+    {
+      "id": "pv27:21.2",
+      "pali": "gharāni udapajjisuṁ;"
+    },
+    {
+      "id": "pv27:21.3",
+      "pali": "Kūṭāgāranivesanā,"
+    },
+    {
+      "id": "pv27:21.4",
+      "pali": "vibhattā bhāgaso mitā."
+    },
+    {
+      "id": "pv27:22.1",
+      "pali": "“Na manussesu īdisā,"
+    },
+    {
+      "id": "pv27:22.2",
+      "pali": "yādisā no gharā idha;"
+    },
+    {
+      "id": "pv27:22.3",
+      "pali": "Api dibbesu yādisā,"
+    },
+    {
+      "id": "pv27:22.4",
+      "pali": "tādisā no gharā idha."
+    },
+    {
+      "id": "pv27:23.1",
+      "pali": "Daddallamānā ābhenti,"
+    },
+    {
+      "id": "pv27:23.2",
+      "pali": "Samantā caturo disā;"
+    },
+    {
+      "id": "pv27:23.3",
+      "pali": "Tathā bhante parakkama,"
+    },
+    {
+      "id": "pv27:23.4",
+      "pali": "Yathā pānīyaṁ labhāmase”ti."
+    },
+    {
+      "id": "pv27:24.1",
+      "pali": "Thero karaṇaṁ pūretvā,"
+    },
+    {
+      "id": "pv27:24.2",
+      "pali": "saṅghe cātuddise adā;"
+    },
+    {
+      "id": "pv27:24.3",
+      "pali": "Datvā anvādisī thero,"
+    },
+    {
+      "id": "pv27:24.4",
+      "pali": "mātu pitu ca bhātuno;"
+    },
+    {
+      "id": "pv27:24.5",
+      "pali": "“Idaṁ me ñātīnaṁ hotu,"
+    },
+    {
+      "id": "pv27:24.6",
+      "pali": "sukhitā hontu ñātayo”."
+    },
+    {
+      "id": "pv27:25.1",
+      "pali": "Samanantarānuddiṭṭhe,"
+    },
+    {
+      "id": "pv27:25.2",
+      "pali": "pānīyaṁ udapajjatha;"
+    },
+    {
+      "id": "pv27:25.3",
+      "pali": "Gambhīrā caturassā ca,"
+    },
+    {
+      "id": "pv27:25.4",
+      "pali": "pokkharañño sunimmitā."
+    },
+    {
+      "id": "pv27:26.1",
+      "pali": "Sītodikā suppatitthā,"
+    },
+    {
+      "id": "pv27:26.2",
+      "pali": "sītā appaṭigandhiyā;"
+    },
+    {
+      "id": "pv27:26.3",
+      "pali": "Padumuppalasañchannā,"
+    },
+    {
+      "id": "pv27:26.4",
+      "pali": "vārikiñjakkhapūritā."
+    },
+    {
+      "id": "pv27:27.1",
+      "pali": "Tattha nhatvā pivitvā ca,"
+    },
+    {
+      "id": "pv27:27.2",
+      "pali": "therassa paṭidassayuṁ;"
+    },
+    {
+      "id": "pv27:27.3",
+      "pali": "“Pahūtaṁ pānīyaṁ bhante,"
+    },
+    {
+      "id": "pv27:27.4",
+      "pali": "pādā dukkhā phalanti no”."
+    },
+    {
+      "id": "pv27:28.1",
+      "pali": "“Āhiṇḍamānā khañjāma,"
+    },
+    {
+      "id": "pv27:28.2",
+      "pali": "sakkhare kusakaṇṭake;"
+    },
+    {
+      "id": "pv27:28.3",
+      "pali": "‘Tathā bhante parakkama,"
+    },
+    {
+      "id": "pv27:28.4",
+      "pali": "yathā yānaṁ labhāmase’”ti."
+    },
+    {
+      "id": "pv27:29.1",
+      "pali": "Thero sipāṭikaṁ laddhā,"
+    },
+    {
+      "id": "pv27:29.2",
+      "pali": "saṅghe cātuddise adā;"
+    },
+    {
+      "id": "pv27:29.3",
+      "pali": "Datvā anvādisī thero,"
+    },
+    {
+      "id": "pv27:29.4",
+      "pali": "mātu pitu ca bhātuno;"
+    },
+    {
+      "id": "pv27:29.5",
+      "pali": "“Idaṁ me ñātīnaṁ hotu,"
+    },
+    {
+      "id": "pv27:29.6",
+      "pali": "sukhitā hontu ñātayo”."
+    },
+    {
+      "id": "pv27:30.1",
+      "pali": "Samanantarānuddiṭṭhe,"
+    },
+    {
+      "id": "pv27:30.2",
+      "pali": "petā rathena māgamuṁ;"
+    },
+    {
+      "id": "pv27:30.3",
+      "pali": "“Anukampitamha bhadante,"
+    },
+    {
+      "id": "pv27:30.4",
+      "pali": "bhattenacchādanena ca."
+    },
+    {
+      "id": "pv27:31.1",
+      "pali": "Gharena pānīyadānena,"
+    },
+    {
+      "id": "pv27:31.2",
+      "pali": "yānadānena cūbhayaṁ;"
+    },
+    {
+      "id": "pv27:31.3",
+      "pali": "Muniṁ kāruṇikaṁ loke,"
+    },
+    {
+      "id": "pv27:31.4",
+      "pali": "bhante vanditumāgatā”ti."
+    },
+    {
+      "id": "pv27:32.1",
+      "pali": "Sāṇavāsītherapetavatthu dutiyaṁ."
+    }
+  ]
+}

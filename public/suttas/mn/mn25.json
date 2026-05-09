@@ -1,0 +1,795 @@
+{
+  "uid": "mn25",
+  "title": "Nivāpasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn25:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn25:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn25:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn25:1.4",
+      "pali": "“bhikkhavo”ti."
+    },
+    {
+      "id": "mn25:1.5",
+      "pali": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn25:1.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn25:2.1",
+      "pali": "“Na, bhikkhave, nevāpiko nivāpaṁ nivapati migajātānaṁ:"
+    },
+    {
+      "id": "mn25:2.2",
+      "pali": "‘imaṁ me nivāpaṁ nivuttaṁ migajātā paribhuñjantā dīghāyukā vaṇṇavanto ciraṁ dīghamaddhānaṁ yāpentū’ti."
+    },
+    {
+      "id": "mn25:2.3",
+      "pali": "Evañca kho, bhikkhave, nevāpiko nivāpaṁ nivapati migajātānaṁ:"
+    },
+    {
+      "id": "mn25:2.4",
+      "pali": "‘imaṁ me nivāpaṁ nivuttaṁ migajātā anupakhajja mucchitā bhojanāni bhuñjissanti, anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjissanti, mattā samānā pamādaṁ āpajjissanti, pamattā samānā yathākāmakaraṇīyā bhavissanti imasmiṁ nivāpe’ti."
+    },
+    {
+      "id": "mn25:3.1",
+      "pali": "Tatra, bhikkhave, paṭhamā migajātā amuṁ nivāpaṁ nivuttaṁ nevāpikassa anupakhajja mucchitā bhojanāni bhuñjiṁsu, te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu, mattā samānā pamādaṁ āpajjiṁsu, pamattā samānā yathākāmakaraṇīyā ahesuṁ nevāpikassa amusmiṁ nivāpe."
+    },
+    {
+      "id": "mn25:3.2",
+      "pali": "Evañhi te, bhikkhave, paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:4.1",
+      "pali": "Tatra, bhikkhave, dutiyā migajātā evaṁ samacintesuṁ:"
+    },
+    {
+      "id": "mn25:4.2",
+      "pali": "‘ye kho te paṭhamā migajātā amuṁ nivāpaṁ nivuttaṁ nevāpikassa anupakhajja mucchitā bhojanāni bhuñjiṁsu."
+    },
+    {
+      "id": "mn25:4.3",
+      "pali": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu, mattā samānā pamādaṁ āpajjiṁsu, pamattā samānā yathākāmakaraṇīyā ahesuṁ nevāpikassa amusmiṁ nivāpe."
+    },
+    {
+      "id": "mn25:4.4",
+      "pali": "Evañhi te paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:4.5",
+      "pali": "Yannūna mayaṁ sabbaso nivāpabhojanā paṭivirameyyāma, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā’ti."
+    },
+    {
+      "id": "mn25:4.6",
+      "pali": "Te sabbaso nivāpabhojanā paṭiviramiṁsu, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihariṁsu."
+    },
+    {
+      "id": "mn25:4.7",
+      "pali": "Tesaṁ gimhānaṁ pacchime māse, tiṇodakasaṅkhaye, adhimattakasimānaṁ patto kāyo hoti."
+    },
+    {
+      "id": "mn25:4.8",
+      "pali": "Tesaṁ adhimattakasimānaṁ pattakāyānaṁ balavīriyaṁ parihāyi."
+    },
+    {
+      "id": "mn25:4.9",
+      "pali": "Balavīriye parihīne tameva nivāpaṁ nivuttaṁ nevāpikassa paccāgamiṁsu."
+    },
+    {
+      "id": "mn25:4.10",
+      "pali": "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṁsu."
+    },
+    {
+      "id": "mn25:4.11",
+      "pali": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu, mattā samānā pamādaṁ āpajjiṁsu, pamattā samānā yathākāmakaraṇīyā ahesuṁ nevāpikassa amusmiṁ nivāpe."
+    },
+    {
+      "id": "mn25:4.12",
+      "pali": "Evañhi te, bhikkhave, dutiyāpi migajātā na parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:5.1",
+      "pali": "Tatra, bhikkhave, tatiyā migajātā evaṁ samacintesuṁ:"
+    },
+    {
+      "id": "mn25:5.2",
+      "pali": "‘ye kho te paṭhamā migajātā amuṁ nivāpaṁ nivuttaṁ nevāpikassa …pe…"
+    },
+    {
+      "id": "mn25:5.3",
+      "pali": "evañhi te paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:5.4",
+      "pali": "Yepi te dutiyā migajātā evaṁ samacintesuṁ:"
+    },
+    {
+      "id": "mn25:5.5",
+      "pali": "“ye kho te paṭhamā migajātā amuṁ nivāpaṁ nivuttaṁ nevāpikassa …pe…"
+    },
+    {
+      "id": "mn25:5.6",
+      "pali": "evañhi te paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:5.7",
+      "pali": "Yannūna mayaṁ sabbaso nivāpabhojanā paṭivirameyyāma, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā”ti."
+    },
+    {
+      "id": "mn25:5.8",
+      "pali": "Te sabbaso nivāpabhojanā paṭiviramiṁsu, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihariṁsu."
+    },
+    {
+      "id": "mn25:5.9",
+      "pali": "Tesaṁ gimhānaṁ pacchime māse tiṇodakasaṅkhaye adhimattakasimānaṁ patto kāyo hoti."
+    },
+    {
+      "id": "mn25:5.10",
+      "pali": "Tesaṁ adhimattakasimānaṁ pattakāyānaṁ balavīriyaṁ parihāyi."
+    },
+    {
+      "id": "mn25:5.11",
+      "pali": "Balavīriye parihīne tameva nivāpaṁ nivuttaṁ nevāpikassa paccāgamiṁsu."
+    },
+    {
+      "id": "mn25:5.12",
+      "pali": "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṁsu."
+    },
+    {
+      "id": "mn25:5.13",
+      "pali": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu, mattā samānā pamādaṁ āpajjiṁsu, pamattā samānā yathākāmakaraṇīyā ahesuṁ nevāpikassa amusmiṁ nivāpe."
+    },
+    {
+      "id": "mn25:5.14",
+      "pali": "Evañhi te dutiyāpi migajātā na parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:5.15",
+      "pali": "Yannūna mayaṁ amuṁ nivāpaṁ nivuttaṁ nevāpikassa upanissāya āsayaṁ kappeyyāma."
+    },
+    {
+      "id": "mn25:5.16",
+      "pali": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjissāma, amattā samānā na pamādaṁ āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma nevāpikassa amusmiṁ nivāpe’ti."
+    },
+    {
+      "id": "mn25:5.17",
+      "pali": "Te amuṁ nivāpaṁ nivuttaṁ nevāpikassa upanissāya āsayaṁ kappayiṁsu."
+    },
+    {
+      "id": "mn25:5.18",
+      "pali": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjiṁsu, te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjiṁsu, amattā samānā na pamādaṁ āpajjiṁsu, appamattā samānā na yathākāmakaraṇīyā ahesuṁ nevāpikassa amusmiṁ nivāpe."
+    },
+    {
+      "id": "mn25:5.19",
+      "pali": "Tatra, bhikkhave, nevāpikassa ca nevāpikaparisāya ca etadahosi:"
+    },
+    {
+      "id": "mn25:5.20",
+      "pali": "‘saṭhāssunāmime tatiyā migajātā ketabino, iddhimantāssunāmime tatiyā migajātā parajanā;"
+    },
+    {
+      "id": "mn25:5.21",
+      "pali": "imañca nāma nivāpaṁ nivuttaṁ paribhuñjanti, na ca nesaṁ jānāma āgatiṁ vā gatiṁ vā."
+    },
+    {
+      "id": "mn25:5.22",
+      "pali": "Yannūna mayaṁ imaṁ nivāpaṁ nivuttaṁ mahatīhi daṇḍavākarāhi samantā sappadesaṁ anuparivāreyyāma, appeva nāma tatiyānaṁ migajātānaṁ āsayaṁ passeyyāma, yattha te gāhaṁ gaccheyyun’ti."
+    },
+    {
+      "id": "mn25:5.23",
+      "pali": "Te amuṁ nivāpaṁ nivuttaṁ mahatīhi daṇḍavākarāhi samantā sappadesaṁ anuparivāresuṁ."
+    },
+    {
+      "id": "mn25:5.24",
+      "pali": "Addasaṁsu kho, bhikkhave, nevāpiko ca nevāpikaparisā ca tatiyānaṁ migajātānaṁ āsayaṁ, yattha te gāhaṁ agamaṁsu."
+    },
+    {
+      "id": "mn25:5.25",
+      "pali": "Evañhi te, bhikkhave, tatiyāpi migajātā na parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:6.1",
+      "pali": "Tatra, bhikkhave, catutthā migajātā evaṁ samacintesuṁ:"
+    },
+    {
+      "id": "mn25:6.2",
+      "pali": "‘ye kho te paṭhamā migajātā …pe…"
+    },
+    {
+      "id": "mn25:6.3",
+      "pali": "evañhi te paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:6.4",
+      "pali": "Yepi te dutiyā migajātā evaṁ samacintesuṁ:"
+    },
+    {
+      "id": "mn25:6.5",
+      "pali": "“ye kho te paṭhamā migajātā …pe…"
+    },
+    {
+      "id": "mn25:6.6",
+      "pali": "evañhi te paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:6.7",
+      "pali": "Yannūna mayaṁ sabbaso nivāpabhojanā paṭivirameyyāma, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā”ti."
+    },
+    {
+      "id": "mn25:6.8",
+      "pali": "Te sabbaso nivāpabhojanā paṭiviramiṁsu …pe…"
+    },
+    {
+      "id": "mn25:6.9",
+      "pali": "evañhi te dutiyāpi migajātā na parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:6.10",
+      "pali": "Yepi te tatiyā migajātā evaṁ samacintesuṁ:"
+    },
+    {
+      "id": "mn25:6.11",
+      "pali": "“ye kho te paṭhamā migajātā …pe…"
+    },
+    {
+      "id": "mn25:6.12",
+      "pali": "evañhi te paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:6.13",
+      "pali": "Yepi te dutiyā migajātā evaṁ samacintesuṁ:"
+    },
+    {
+      "id": "mn25:6.14",
+      "pali": "‘ye kho te paṭhamā migajātā …pe…"
+    },
+    {
+      "id": "mn25:6.15",
+      "pali": "evañhi te paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:6.16",
+      "pali": "Yannūna mayaṁ sabbaso nivāpabhojanā paṭivirameyyāma, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā’ti."
+    },
+    {
+      "id": "mn25:6.17",
+      "pali": "Te sabbaso nivāpabhojanā paṭiviramiṁsu …pe…"
+    },
+    {
+      "id": "mn25:6.18",
+      "pali": "evañhi te dutiyāpi migajātā na parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:6.19",
+      "pali": "Yannūna mayaṁ amuṁ nivāpaṁ nivuttaṁ nevāpikassa upanissāya āsayaṁ kappeyyāma, tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjissāma, amattā samānā na pamādaṁ āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma nevāpikassa amusmiṁ nivāpe”ti."
+    },
+    {
+      "id": "mn25:6.20",
+      "pali": "Te amuṁ nivāpaṁ nivuttaṁ nevāpikassa upanissāya āsayaṁ kappayiṁsu, tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjiṁsu, te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjiṁsu, amattā samānā na pamādaṁ āpajjiṁsu, appamattā samānā na yathākāmakaraṇīyā ahesuṁ nevāpikassa amusmiṁ nivāpe."
+    },
+    {
+      "id": "mn25:6.21",
+      "pali": "Tatra nevāpikassa ca nevāpikaparisāya ca etadahosi:"
+    },
+    {
+      "id": "mn25:6.22",
+      "pali": "“saṭhāssunāmime tatiyā migajātā ketabino, iddhimantāssunāmime tatiyā migajātā parajanā, imañca nāma nivāpaṁ nivuttaṁ paribhuñjanti."
+    },
+    {
+      "id": "mn25:6.23",
+      "pali": "Na ca nesaṁ jānāma āgatiṁ vā gatiṁ vā."
+    },
+    {
+      "id": "mn25:6.24",
+      "pali": "Yannūna mayaṁ imaṁ nivāpaṁ nivuttaṁ mahatīhi daṇḍavākarāhi samantā sappadesaṁ anuparivāreyyāma, appeva nāma tatiyānaṁ migajātānaṁ āsayaṁ passeyyāma, yattha te gāhaṁ gaccheyyun”ti."
+    },
+    {
+      "id": "mn25:6.25",
+      "pali": "Te amuṁ nivāpaṁ nivuttaṁ mahatīhi daṇḍavākarāhi samantā sappadesaṁ anuparivāresuṁ."
+    },
+    {
+      "id": "mn25:6.26",
+      "pali": "Addasaṁsu kho nevāpiko ca nevāpikaparisā ca tatiyānaṁ migajātānaṁ āsayaṁ, yattha te gāhaṁ agamaṁsu."
+    },
+    {
+      "id": "mn25:6.27",
+      "pali": "Evañhi te tatiyāpi migajātā na parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:6.28",
+      "pali": "Yannūna mayaṁ yattha agati nevāpikassa ca nevāpikaparisāya ca tatrāsayaṁ kappeyyāma, tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjissāma, amattā samānā na pamādaṁ āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma nevāpikassa amusmiṁ nivāpe’ti."
+    },
+    {
+      "id": "mn25:6.29",
+      "pali": "Te yattha agati nevāpikassa ca nevāpikaparisāya ca tatrāsayaṁ kappayiṁsu."
+    },
+    {
+      "id": "mn25:6.30",
+      "pali": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjiṁsu, te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjiṁsu, amattā samānā na pamādaṁ āpajjiṁsu, appamattā samānā na yathākāmakaraṇīyā ahesuṁ nevāpikassa amusmiṁ nivāpe."
+    },
+    {
+      "id": "mn25:6.31",
+      "pali": "Tatra, bhikkhave, nevāpikassa ca nevāpikaparisāya ca etadahosi:"
+    },
+    {
+      "id": "mn25:6.32",
+      "pali": "‘saṭhāssunāmime catutthā migajātā ketabino, iddhimantāssunāmime catutthā migajātā parajanā."
+    },
+    {
+      "id": "mn25:6.33",
+      "pali": "Imañca nāma nivāpaṁ nivuttaṁ paribhuñjanti, na ca nesaṁ jānāma āgatiṁ vā gatiṁ vā."
+    },
+    {
+      "id": "mn25:6.34",
+      "pali": "Yannūna mayaṁ imaṁ nivāpaṁ nivuttaṁ mahatīhi daṇḍavākarāhi samantā sappadesaṁ anuparivāreyyāma, appeva nāma catutthānaṁ migajātānaṁ āsayaṁ passeyyāma yattha te gāhaṁ gaccheyyun’ti."
+    },
+    {
+      "id": "mn25:6.35",
+      "pali": "Te amuṁ nivāpaṁ nivuttaṁ mahatīhi daṇḍavākarāhi samantā sappadesaṁ anuparivāresuṁ."
+    },
+    {
+      "id": "mn25:6.36",
+      "pali": "Neva kho, bhikkhave, addasaṁsu nevāpiko ca nevāpikaparisā ca catutthānaṁ migajātānaṁ āsayaṁ, yattha te gāhaṁ gaccheyyuṁ."
+    },
+    {
+      "id": "mn25:6.37",
+      "pali": "Tatra, bhikkhave, nevāpikassa ca nevāpikaparisāya ca etadahosi:"
+    },
+    {
+      "id": "mn25:6.38",
+      "pali": "‘sace kho mayaṁ catutthe migajāte ghaṭṭessāma, te ghaṭṭitā aññe ghaṭṭissanti te ghaṭṭitā aññe ghaṭṭissanti."
+    },
+    {
+      "id": "mn25:6.39",
+      "pali": "Evaṁ imaṁ nivāpaṁ nivuttaṁ sabbaso migajātā parimuñcissanti."
+    },
+    {
+      "id": "mn25:6.40",
+      "pali": "Yannūna mayaṁ catutthe migajāte ajjhupekkheyyāmā’ti."
+    },
+    {
+      "id": "mn25:6.41",
+      "pali": "Ajjhupekkhiṁsu kho, bhikkhave, nevāpiko ca nevāpikaparisā ca catutthe migajāte."
+    },
+    {
+      "id": "mn25:6.42",
+      "pali": "Evañhi te, bhikkhave, catutthā migajātā parimucciṁsu nevāpikassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:7.1",
+      "pali": "Upamā kho me ayaṁ, bhikkhave, katā atthassa viññāpanāya."
+    },
+    {
+      "id": "mn25:7.2",
+      "pali": "Ayaṁ cevettha attho—"
+    },
+    {
+      "id": "mn25:7.3",
+      "pali": "nivāpoti kho, bhikkhave, pañcannetaṁ kāmaguṇānaṁ adhivacanaṁ."
+    },
+    {
+      "id": "mn25:7.4",
+      "pali": "Nevāpikoti kho, bhikkhave, mārassetaṁ pāpimato adhivacanaṁ."
+    },
+    {
+      "id": "mn25:7.5",
+      "pali": "Nevāpikaparisāti kho, bhikkhave, māraparisāyetaṁ adhivacanaṁ."
+    },
+    {
+      "id": "mn25:7.6",
+      "pali": "Migajātāti kho, bhikkhave, samaṇabrāhmaṇānametaṁ adhivacanaṁ."
+    },
+    {
+      "id": "mn25:8.1",
+      "pali": "Tatra, bhikkhave, paṭhamā samaṇabrāhmaṇā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni anupakhajja mucchitā bhojanāni bhuñjiṁsu."
+    },
+    {
+      "id": "mn25:8.2",
+      "pali": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu, mattā samānā pamādaṁ āpajjiṁsu, pamattā samānā yathākāmakaraṇīyā ahesuṁ mārassa amusmiṁ nivāpe amusmiñca lokāmise."
+    },
+    {
+      "id": "mn25:8.3",
+      "pali": "Evañhi te, bhikkhave, paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:8.4",
+      "pali": "Seyyathāpi te, bhikkhave, paṭhamā migajātā tathūpame ahaṁ ime paṭhame samaṇabrāhmaṇe vadāmi."
+    },
+    {
+      "id": "mn25:9.1",
+      "pali": "Tatra, bhikkhave, dutiyā samaṇabrāhmaṇā evaṁ samacintesuṁ:"
+    },
+    {
+      "id": "mn25:9.2",
+      "pali": "‘ye kho te paṭhamā samaṇabrāhmaṇā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni anupakhajja mucchitā bhojanāni bhuñjiṁsu."
+    },
+    {
+      "id": "mn25:9.3",
+      "pali": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu, mattā samānā pamādaṁ āpajjiṁsu, pamattā samānā yathākāmakaraṇīyā ahesuṁ mārassa amusmiṁ nivāpe amusmiñca lokāmise."
+    },
+    {
+      "id": "mn25:9.4",
+      "pali": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:9.5",
+      "pali": "Yannūna mayaṁ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā’ti."
+    },
+    {
+      "id": "mn25:9.6",
+      "pali": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṁsu, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmāti."
+    },
+    {
+      "id": "mn25:9.7",
+      "pali": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṁsu, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihariṁsu."
+    },
+    {
+      "id": "mn25:9.8",
+      "pali": "Te tattha sākabhakkhāpi ahesuṁ, sāmākabhakkhāpi ahesuṁ, nīvārabhakkhāpi ahesuṁ, daddulabhakkhāpi ahesuṁ, haṭabhakkhāpi ahesuṁ, kaṇabhakkhāpi ahesuṁ, ācāmabhakkhāpi ahesuṁ, piññākabhakkhāpi ahesuṁ, tiṇabhakkhāpi ahesuṁ, gomayabhakkhāpi ahesuṁ, vanamūlaphalāhārā yāpesuṁ pavattaphalabhojī."
+    },
+    {
+      "id": "mn25:9.9",
+      "pali": "Tesaṁ gimhānaṁ pacchime māse, tiṇodakasaṅkhaye, adhimattakasimānaṁ patto kāyo hoti."
+    },
+    {
+      "id": "mn25:9.10",
+      "pali": "Tesaṁ adhimattakasimānaṁ pattakāyānaṁ balavīriyaṁ parihāyi."
+    },
+    {
+      "id": "mn25:9.11",
+      "pali": "Balavīriye parihīne cetovimutti parihāyi."
+    },
+    {
+      "id": "mn25:9.12",
+      "pali": "Cetovimuttiyā parihīnāya tameva nivāpaṁ nivuttaṁ mārassa paccāgamiṁsu tāni ca lokāmisāni."
+    },
+    {
+      "id": "mn25:9.13",
+      "pali": "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṁsu."
+    },
+    {
+      "id": "mn25:9.14",
+      "pali": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu, mattā samānā pamādaṁ āpajjiṁsu, pamattā samānā yathākāmakaraṇīyā ahesuṁ mārassa amusmiṁ nivāpe amusmiñca lokāmise."
+    },
+    {
+      "id": "mn25:9.15",
+      "pali": "Evañhi te, bhikkhave, dutiyāpi samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:9.16",
+      "pali": "Seyyathāpi te, bhikkhave, dutiyā migajātā tathūpame ahaṁ ime dutiye samaṇabrāhmaṇe vadāmi."
+    },
+    {
+      "id": "mn25:10.1",
+      "pali": "Tatra, bhikkhave, tatiyā samaṇabrāhmaṇā evaṁ samacintesuṁ:"
+    },
+    {
+      "id": "mn25:10.2",
+      "pali": "‘ye kho te paṭhamā samaṇabrāhmaṇā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni …pe…."
+    },
+    {
+      "id": "mn25:10.3",
+      "pali": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:10.4",
+      "pali": "Yepi te dutiyā samaṇabrāhmaṇā evaṁ samacintesuṁ:"
+    },
+    {
+      "id": "mn25:10.5",
+      "pali": "“ye kho te paṭhamā samaṇabrāhmaṇā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni …pe…."
+    },
+    {
+      "id": "mn25:10.6",
+      "pali": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:10.7",
+      "pali": "Yannūna mayaṁ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā”ti."
+    },
+    {
+      "id": "mn25:10.8",
+      "pali": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṁsu."
+    },
+    {
+      "id": "mn25:10.9",
+      "pali": "Bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihariṁsu."
+    },
+    {
+      "id": "mn25:10.10",
+      "pali": "Te tattha sākabhakkhāpi ahesuṁ …pe… pavattaphalabhojī."
+    },
+    {
+      "id": "mn25:10.11",
+      "pali": "Tesaṁ gimhānaṁ pacchime māse tiṇodakasaṅkhaye adhimattakasimānaṁ patto kāyo hoti."
+    },
+    {
+      "id": "mn25:10.12",
+      "pali": "Tesaṁ adhimattakasimānaṁ pattakāyānaṁ balavīriyaṁ parihāyi, balavīriye parihīne cetovimutti parihāyi, cetovimuttiyā parihīnāya tameva nivāpaṁ nivuttaṁ mārassa paccāgamiṁsu tāni ca lokāmisāni."
+    },
+    {
+      "id": "mn25:10.13",
+      "pali": "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṁsu."
+    },
+    {
+      "id": "mn25:10.14",
+      "pali": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu, mattā samānā pamādaṁ āpajjiṁsu, pamattā samānā yathākāmakaraṇīyā ahesuṁ mārassa amusmiṁ nivāpe amusmiñca lokāmise."
+    },
+    {
+      "id": "mn25:10.15",
+      "pali": "Evañhi te dutiyāpi samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:10.16",
+      "pali": "Yannūna mayaṁ amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni upanissāya āsayaṁ kappeyyāma, tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjissāma, amattā samānā na pamādaṁ āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma mārassa amusmiṁ nivāpe amusmiñca lokāmise’ti."
+    },
+    {
+      "id": "mn25:10.17",
+      "pali": "Te amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni upanissāya āsayaṁ kappayiṁsu."
+    },
+    {
+      "id": "mn25:10.18",
+      "pali": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjiṁsu."
+    },
+    {
+      "id": "mn25:10.19",
+      "pali": "Te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjiṁsu, amattā samānā na pamādaṁ āpajjiṁsu, appamattā samānā na yathākāmakaraṇīyā ahesuṁ mārassa amusmiṁ nivāpe amusmiñca lokāmise."
+    },
+    {
+      "id": "mn25:10.20",
+      "pali": "Api ca kho evaṁdiṭṭhikā ahesuṁ—"
+    },
+    {
+      "id": "mn25:10.21",
+      "pali": "sassato loko itipi, asassato loko itipi;"
+    },
+    {
+      "id": "mn25:10.22",
+      "pali": "antavā loko itipi, anantavā loko itipi;"
+    },
+    {
+      "id": "mn25:10.23",
+      "pali": "taṁ jīvaṁ taṁ sarīraṁ itipi, aññaṁ jīvaṁ aññaṁ sarīraṁ itipi;"
+    },
+    {
+      "id": "mn25:10.24",
+      "pali": "hoti tathāgato paraṁ maraṇā itipi, na hoti tathāgato paraṁ maraṇā itipi, hoti ca na ca hoti tathāgato paraṁ maraṇā itipi, neva hoti na na hoti tathāgato paraṁ maraṇā itipi."
+    },
+    {
+      "id": "mn25:10.25",
+      "pali": "Evañhi te, bhikkhave, tatiyāpi samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:10.26",
+      "pali": "Seyyathāpi te, bhikkhave, tatiyā migajātā tathūpame ahaṁ ime tatiye samaṇabrāhmaṇe vadāmi."
+    },
+    {
+      "id": "mn25:11.1",
+      "pali": "Tatra, bhikkhave, catutthā samaṇabrāhmaṇā evaṁ samacintesuṁ:"
+    },
+    {
+      "id": "mn25:11.2",
+      "pali": "‘ye kho te paṭhamā samaṇabrāhmaṇā amuṁ nivāpaṁ nivuttaṁ mārassa …pe…."
+    },
+    {
+      "id": "mn25:11.3",
+      "pali": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:11.4",
+      "pali": "Yepi te dutiyā samaṇabrāhmaṇā evaṁ samacintesuṁ:"
+    },
+    {
+      "id": "mn25:11.5",
+      "pali": "‘ye kho te paṭhamā samaṇabrāhmaṇā …pe…."
+    },
+    {
+      "id": "mn25:11.6",
+      "pali": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:11.7",
+      "pali": "Yannūna mayaṁ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā’ti."
+    },
+    {
+      "id": "mn25:11.8",
+      "pali": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṁsu …pe…."
+    },
+    {
+      "id": "mn25:11.9",
+      "pali": "Evañhi te dutiyāpi samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:11.10",
+      "pali": "Yepi te tatiyā samaṇabrāhmaṇā evaṁ samacintesuṁ ye kho te paṭhamā samaṇabrāhmaṇā …pe…."
+    },
+    {
+      "id": "mn25:11.11",
+      "pali": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:11.12",
+      "pali": "Yepi te dutiyā samaṇabrāhmaṇā evaṁ samacintesuṁ ye kho te paṭhamā samaṇabrāhmaṇā …pe…."
+    },
+    {
+      "id": "mn25:11.13",
+      "pali": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:11.14",
+      "pali": "Yannūna mayaṁ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā’ti."
+    },
+    {
+      "id": "mn25:11.15",
+      "pali": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṁsu …pe…."
+    },
+    {
+      "id": "mn25:11.16",
+      "pali": "Evañhi te dutiyāpi samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:11.17",
+      "pali": "Yannūna mayaṁ amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni upanissāya āsayaṁ kappeyyāma."
+    },
+    {
+      "id": "mn25:11.18",
+      "pali": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjissāma, amattā samānā na pamādaṁ āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma mārassa amusmiṁ nivāpe amusmiñca lokāmiseti."
+    },
+    {
+      "id": "mn25:11.19",
+      "pali": "Te amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni upanissāya āsayaṁ kappayiṁsu."
+    },
+    {
+      "id": "mn25:11.20",
+      "pali": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjiṁsu."
+    },
+    {
+      "id": "mn25:11.21",
+      "pali": "Te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjiṁsu."
+    },
+    {
+      "id": "mn25:11.22",
+      "pali": "Amattā samānā na pamādaṁ āpajjiṁsu."
+    },
+    {
+      "id": "mn25:11.23",
+      "pali": "Appamattā samānā na yathākāmakaraṇīyā ahesuṁ mārassa amusmiṁ nivāpe amusmiñca lokāmise."
+    },
+    {
+      "id": "mn25:11.24",
+      "pali": "Api ca kho evaṁdiṭṭhikā ahesuṁ sassato loko itipi …pe…"
+    },
+    {
+      "id": "mn25:11.25",
+      "pali": "neva hoti na na hoti tathāgato paraṁ maraṇā itipi."
+    },
+    {
+      "id": "mn25:11.26",
+      "pali": "Evañhi te tatiyāpi samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:11.27",
+      "pali": "Yannūna mayaṁ yattha agati mārassa ca māraparisāya ca tatrāsayaṁ kappeyyāma."
+    },
+    {
+      "id": "mn25:11.28",
+      "pali": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjissāma, amattā samānā na pamādaṁ āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma mārassa amusmiṁ nivāpe amusmiñca lokāmiseti."
+    },
+    {
+      "id": "mn25:11.29",
+      "pali": "Te yattha agati mārassa ca māraparisāya ca tatrāsayaṁ kappayiṁsu."
+    },
+    {
+      "id": "mn25:11.30",
+      "pali": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjiṁsu, te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjiṁsu, amattā samānā na pamādaṁ āpajjiṁsu, appamattā samānā na yathākāmakaraṇīyā ahesuṁ mārassa amusmiṁ nivāpe amusmiñca lokāmise."
+    },
+    {
+      "id": "mn25:11.31",
+      "pali": "Evañhi te, bhikkhave, catutthā samaṇabrāhmaṇā parimucciṁsu mārassa iddhānubhāvā."
+    },
+    {
+      "id": "mn25:11.32",
+      "pali": "Seyyathāpi te, bhikkhave, catutthā migajātā tathūpame ahaṁ ime catutthe samaṇabrāhmaṇe vadāmi."
+    },
+    {
+      "id": "mn25:12.1",
+      "pali": "Kathañca, bhikkhave, agati mārassa ca māraparisāya ca?"
+    },
+    {
+      "id": "mn25:12.2",
+      "pali": "Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn25:12.3",
+      "pali": "Ayaṁ vuccati, bhikkhave, bhikkhu andhamakāsi māraṁ, apadaṁ vadhitvā māracakkhuṁ adassanaṁ gato pāpimato."
+    },
+    {
+      "id": "mn25:13.1",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhu vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn25:13.2",
+      "pali": "Ayaṁ vuccati, bhikkhave …pe… pāpimato."
+    },
+    {
+      "id": "mn25:14.1",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti yaṁ taṁ ariyā ācikkhanti ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn25:14.2",
+      "pali": "Ayaṁ vuccati, bhikkhave …pe… pāpimato."
+    },
+    {
+      "id": "mn25:15.1",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassadomanassānaṁ atthaṅgamā, adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn25:15.2",
+      "pali": "Ayaṁ vuccati, bhikkhave …pe… pāpimato."
+    },
+    {
+      "id": "mn25:16.1",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhu sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn25:16.2",
+      "pali": "Ayaṁ vuccati, bhikkhave …pe… pāpimato."
+    },
+    {
+      "id": "mn25:17.1",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn25:17.2",
+      "pali": "Ayaṁ vuccati, bhikkhave …pe… pāpimato."
+    },
+    {
+      "id": "mn25:18.1",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn25:18.2",
+      "pali": "Ayaṁ vuccati, bhikkhave …pe… pāpimato."
+    },
+    {
+      "id": "mn25:19.1",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhu sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn25:19.2",
+      "pali": "Ayaṁ vuccati, bhikkhave …pe… pāpimato."
+    },
+    {
+      "id": "mn25:20.1",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhu sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharati. Paññāya cassa disvā āsavā parikkhīṇā honti."
+    },
+    {
+      "id": "mn25:20.2",
+      "pali": "Ayaṁ vuccati, bhikkhave, bhikkhu andhamakāsi māraṁ, apadaṁ vadhitvā māracakkhuṁ adassanaṁ gato pāpimato tiṇṇo loke visattikan”ti."
+    },
+    {
+      "id": "mn25:20.3",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn25:20.4",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn25:20.5",
+      "pali": "Nivāpasuttaṁ niṭṭhitaṁ pañcamaṁ."
+    }
+  ]
+}

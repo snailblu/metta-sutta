@@ -1,0 +1,283 @@
+{
+  "uid": "mn124",
+  "title": "Bākulasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn124:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn124:1.2",
+      "pali": "ekaṁ samayaṁ āyasmā bākulo rājagahe viharati veḷuvane kalandakanivāpe."
+    },
+    {
+      "id": "mn124:2.1",
+      "pali": "Atha kho acelakassapo āyasmato bākulassa purāṇagihisahāyo yenāyasmā bākulo tenupasaṅkami; upasaṅkamitvā āyasmatā bākulena saddhiṁ sammodi."
+    },
+    {
+      "id": "mn124:2.2",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho acelakassapo āyasmantaṁ bākulaṁ etadavoca:"
+    },
+    {
+      "id": "mn124:3.1",
+      "pali": "“Kīvaciraṁ pabbajitosi, āvuso bākulā”ti?"
+    },
+    {
+      "id": "mn124:3.2",
+      "pali": "“Asīti me, āvuso, vassāni pabbajitassā”ti."
+    },
+    {
+      "id": "mn124:3.3",
+      "pali": "“Imehi pana te, āvuso bākula, asītiyā vassehi katikkhattuṁ methuno dhammo paṭisevito”ti?"
+    },
+    {
+      "id": "mn124:3.4",
+      "pali": "“Na kho maṁ, āvuso kassapa, evaṁ pucchitabbaṁ:"
+    },
+    {
+      "id": "mn124:3.5",
+      "pali": "‘imehi pana te, āvuso bākula, asītiyā vassehi katikkhattuṁ methuno dhammo paṭisevito’ti."
+    },
+    {
+      "id": "mn124:3.6",
+      "pali": "Evañca kho maṁ, āvuso kassapa, pucchitabbaṁ:"
+    },
+    {
+      "id": "mn124:3.7",
+      "pali": "‘imehi pana te, āvuso bākula, asītiyā vassehi katikkhattuṁ kāmasaññā uppannapubbā’”ti?"
+    },
+    {
+      "id": "mn124:3.8",
+      "pali": "(…)"
+    },
+    {
+      "id": "mn124:3.9",
+      "pali": "“Asīti me, āvuso, vassāni pabbajitassa nābhijānāmi kāmasaññaṁ uppannapubbaṁ”."
+    },
+    {
+      "id": "mn124:3.10",
+      "pali": "“Yampāyasmā bākulo asītiyā vassehi nābhijānāti kāmasaññaṁ uppannapubbaṁ idampi mayaṁ āyasmato bākulassa acchariyaṁ abbhutadhammaṁ dhārema”."
+    },
+    {
+      "id": "mn124:4-5.1",
+      "pali": "“Asīti me, āvuso, vassāni pabbajitassa nābhijānāmi byāpādasaññaṁ …pe…"
+    },
+    {
+      "id": "mn124:4-5.2",
+      "pali": "vihiṁsāsaññaṁ uppannapubbaṁ”."
+    },
+    {
+      "id": "mn124:4-5.3",
+      "pali": "“Yampāyasmā bākulo asītiyā vassehi nābhijānāti vihiṁsāsaññaṁ uppannapubbaṁ, idampi mayaṁ āyasmato bākulassa acchariyaṁ abbhutadhammaṁ dhārema”."
+    },
+    {
+      "id": "mn124:6.1",
+      "pali": "“Asīti me, āvuso, vassāni pabbajitassa nābhijānāmi kāmavitakkaṁ uppannapubbaṁ”."
+    },
+    {
+      "id": "mn124:6.2",
+      "pali": "“Yampāyasmā bākulo asītiyā vassehi nābhijānāti kāmavitakkaṁ uppannapubbaṁ, idampi mayaṁ āyasmato bākulassa acchariyaṁ abbhutadhammaṁ dhārema”."
+    },
+    {
+      "id": "mn124:7-8.1",
+      "pali": "“Asīti me, āvuso, vassāni pabbajitassa nābhijānāmi byāpādavitakkaṁ …pe…"
+    },
+    {
+      "id": "mn124:7-8.2",
+      "pali": "vihiṁsāvitakkaṁ uppannapubbaṁ”."
+    },
+    {
+      "id": "mn124:7-8.3",
+      "pali": "“Yampāyasmā bākulo asītiyā vassehi nābhijānāti vihiṁsāvitakkaṁ uppannapubbaṁ, idampi mayaṁ āyasmato bākulassa acchariyaṁ abbhutadhammaṁ dhārema”."
+    },
+    {
+      "id": "mn124:9.1",
+      "pali": "“Asīti me, āvuso, vassāni pabbajitassa nābhijānāmi gahapaticīvaraṁ sāditā”."
+    },
+    {
+      "id": "mn124:9.2",
+      "pali": "“Yampāyasmā bākulo asītiyā vassehi nābhijānāti gahapaticīvaraṁ sāditā, idampi mayaṁ āyasmato bākulassa acchariyaṁ abbhutadhammaṁ dhārema”."
+    },
+    {
+      "id": "mn124:10.1",
+      "pali": "“Asīti me, āvuso, vassāni pabbajitassa nābhijānāmi satthena cīvaraṁ chinditā”."
+    },
+    {
+      "id": "mn124:10.2",
+      "pali": "“Yampāyasmā bākulo asītiyā vassehi nābhijānāti satthena cīvaraṁ chinditā …pe… dhārema”."
+    },
+    {
+      "id": "mn124:11-15.1",
+      "pali": "“Asīti me, āvuso, vassāni pabbajitassa nābhijānāmi sūciyā cīvaraṁ sibbitā …pe…"
+    },
+    {
+      "id": "mn124:11-15.2",
+      "pali": "nābhijānāmi rajanena cīvaraṁ rajitā …"
+    },
+    {
+      "id": "mn124:11-15.3",
+      "pali": "nābhijānāmi kathine cīvaraṁ sibbitā …"
+    },
+    {
+      "id": "mn124:11-15.4",
+      "pali": "nābhijānāmi sabrahmacārīnaṁ cīvarakamme vicāritā …"
+    },
+    {
+      "id": "mn124:16-19.1",
+      "pali": "nābhijānāmi nimantanaṁ sāditā …"
+    },
+    {
+      "id": "mn124:16-19.2",
+      "pali": "nābhijānāmi evarūpaṁ cittaṁ uppannapubbaṁ:"
+    },
+    {
+      "id": "mn124:16-19.3",
+      "pali": "‘aho vata maṁ koci nimanteyyā’ti …"
+    },
+    {
+      "id": "mn124:16-19.4",
+      "pali": "nābhijānāmi antaraghare nisīditā …"
+    },
+    {
+      "id": "mn124:16-19.5",
+      "pali": "nābhijānāmi antaraghare bhuñjitā …"
+    },
+    {
+      "id": "mn124:20-25.1",
+      "pali": "nābhijānāmi mātugāmassa anubyañjanaso nimittaṁ gahetā …"
+    },
+    {
+      "id": "mn124:20-25.2",
+      "pali": "nābhijānāmi mātugāmassa dhammaṁ desitā antamaso catuppadampi gāthaṁ …"
+    },
+    {
+      "id": "mn124:20-25.3",
+      "pali": "nābhijānāmi bhikkhunupassayaṁ upasaṅkamitā …"
+    },
+    {
+      "id": "mn124:20-25.4",
+      "pali": "nābhijānāmi bhikkhuniyā dhammaṁ desitā …"
+    },
+    {
+      "id": "mn124:20-25.5",
+      "pali": "nābhijānāmi sikkhamānāya dhammaṁ desitā …"
+    },
+    {
+      "id": "mn124:20-25.6",
+      "pali": "nābhijānāmi sāmaṇeriyā dhammaṁ desitā …"
+    },
+    {
+      "id": "mn124:26-29.1",
+      "pali": "nābhijānāmi pabbājetā …"
+    },
+    {
+      "id": "mn124:26-29.2",
+      "pali": "nābhijānāmi upasampādetā …"
+    },
+    {
+      "id": "mn124:26-29.3",
+      "pali": "nābhijānāmi nissayaṁ dātā …"
+    },
+    {
+      "id": "mn124:26-29.4",
+      "pali": "nābhijānāmi sāmaṇeraṁ upaṭṭhāpetā …"
+    },
+    {
+      "id": "mn124:30-36.1",
+      "pali": "nābhijānāmi jantāghare nhāyitā …"
+    },
+    {
+      "id": "mn124:30-36.2",
+      "pali": "nābhijānāmi cuṇṇena nhāyitā …"
+    },
+    {
+      "id": "mn124:30-36.3",
+      "pali": "nābhijānāmi sabrahmacārīgattaparikamme vicāritā …"
+    },
+    {
+      "id": "mn124:30-36.4",
+      "pali": "nābhijānāmi ābādhaṁ uppannapubbaṁ, antamaso gaddūhanamattampi …"
+    },
+    {
+      "id": "mn124:30-36.5",
+      "pali": "nābhijānāmi bhesajjaṁ upaharitā, antamaso haritakikhaṇḍampi …"
+    },
+    {
+      "id": "mn124:30-36.6",
+      "pali": "nābhijānāmi apassenakaṁ apassayitā …"
+    },
+    {
+      "id": "mn124:30-36.7",
+      "pali": "nābhijānāmi seyyaṁ kappetā”."
+    },
+    {
+      "id": "mn124:30-36.8",
+      "pali": "“Yampāyasmā …pe… dhārema”."
+    },
+    {
+      "id": "mn124:37.1",
+      "pali": "“Asīti me, āvuso, vassāni pabbajitassa nābhijānāmi gāmantasenāsane vassaṁ upagantā”."
+    },
+    {
+      "id": "mn124:37.2",
+      "pali": "“Yampāyasmā bākulo asītiyā vassehi nābhijānāti gāmantasenāsane vassaṁ upagantā, idampi mayaṁ āyasmato bākulassa acchariyaṁ abbhutadhammaṁ dhārema”."
+    },
+    {
+      "id": "mn124:38.1",
+      "pali": "“Sattāhameva kho ahaṁ, āvuso, saraṇo raṭṭhapiṇḍaṁ bhuñjiṁ;"
+    },
+    {
+      "id": "mn124:38.2",
+      "pali": "atha aṭṭhamiyaṁ aññā udapādi."
+    },
+    {
+      "id": "mn124:38.3",
+      "pali": "Yampāyasmā bākulo sattāhameva saraṇo raṭṭhapiṇḍaṁ bhuñji; atha aṭṭhamiyaṁ aññā udapādi idampi mayaṁ āyasmato bākulassa acchariyaṁ abbhutadhammaṁ dhārema."
+    },
+    {
+      "id": "mn124:39.1",
+      "pali": "Labheyyāhaṁ, āvuso bākula, imasmiṁ dhammavinaye pabbajjaṁ, labheyyaṁ upasampadan”ti."
+    },
+    {
+      "id": "mn124:39.2",
+      "pali": "Alattha kho acelakassapo imasmiṁ dhammavinaye pabbajjaṁ, alattha upasampadaṁ."
+    },
+    {
+      "id": "mn124:39.3",
+      "pali": "Acirūpasampanno panāyasmā kassapo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi."
+    },
+    {
+      "id": "mn124:39.4",
+      "pali": "“Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi."
+    },
+    {
+      "id": "mn124:39.5",
+      "pali": "Aññataro kho panāyasmā kassapo arahataṁ ahosi."
+    },
+    {
+      "id": "mn124:40.1",
+      "pali": "Atha kho āyasmā bākulo aparena samayena avāpuraṇaṁ ādāya vihārena vihāraṁ upasaṅkamitvā evamāha:"
+    },
+    {
+      "id": "mn124:40.2",
+      "pali": "“abhikkamathāyasmanto, abhikkamathāyasmanto. Ajja me parinibbānaṁ bhavissatī”ti."
+    },
+    {
+      "id": "mn124:40.3",
+      "pali": "“Yampāyasmā bākulo avāpuraṇaṁ ādāya vihārena vihāraṁ upasaṅkamitvā evamāha: ‘abhikkamathāyasmanto, abhikkamathāyasmanto; ajja me parinibbānaṁ bhavissatī’ti, idampi mayaṁ āyasmato bākulassa acchariyaṁ abbhutadhammaṁ dhārema”."
+    },
+    {
+      "id": "mn124:41.1",
+      "pali": "Āyasmā bākulo majjhe bhikkhusaṅghassa nisinnakova parinibbāyi."
+    },
+    {
+      "id": "mn124:41.2",
+      "pali": "“Yampāyasmā bākulo majjhe bhikkhusaṅghassa nisinnakova parinibbāyi, idampi mayaṁ āyasmato bākulassa acchariyaṁ abbhutadhammaṁ dhāremā”ti."
+    },
+    {
+      "id": "mn124:41.3",
+      "pali": "Bākulasuttaṁ niṭṭhitaṁ catutthaṁ."
+    }
+  ]
+}

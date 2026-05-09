@@ -1,0 +1,575 @@
+{
+  "uid": "mn14",
+  "title": "Cūḷadukkhakkhandhasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn14:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn14:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme."
+    },
+    {
+      "id": "mn14:2.1",
+      "pali": "Atha kho mahānāmo sakko yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho mahānāmo sakko bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn14:2.2",
+      "pali": "“dīgharattāhaṁ, bhante, bhagavatā evaṁ dhammaṁ desitaṁ ājānāmi:"
+    },
+    {
+      "id": "mn14:2.3",
+      "pali": "‘lobho cittassa upakkileso, doso cittassa upakkileso, moho cittassa upakkileso’ti."
+    },
+    {
+      "id": "mn14:2.4",
+      "pali": "Evañcāhaṁ, bhante, bhagavatā dhammaṁ desitaṁ ājānāmi:"
+    },
+    {
+      "id": "mn14:2.5",
+      "pali": "‘lobho cittassa upakkileso, doso cittassa upakkileso, moho cittassa upakkileso’ti."
+    },
+    {
+      "id": "mn14:2.6",
+      "pali": "Atha ca pana me ekadā lobhadhammāpi cittaṁ pariyādāya tiṭṭhanti, dosadhammāpi cittaṁ pariyādāya tiṭṭhanti, mohadhammāpi cittaṁ pariyādāya tiṭṭhanti."
+    },
+    {
+      "id": "mn14:2.7",
+      "pali": "Tassa mayhaṁ, bhante, evaṁ hoti:"
+    },
+    {
+      "id": "mn14:2.8",
+      "pali": "‘kosu nāma me dhammo ajjhattaṁ appahīno yena me ekadā lobhadhammāpi cittaṁ pariyādāya tiṭṭhanti, dosadhammāpi cittaṁ pariyādāya tiṭṭhanti, mohadhammāpi cittaṁ pariyādāya tiṭṭhantī’”ti."
+    },
+    {
+      "id": "mn14:3.1",
+      "pali": "“So eva kho te, mahānāma, dhammo ajjhattaṁ appahīno yena te ekadā lobhadhammāpi cittaṁ pariyādāya tiṭṭhanti, dosadhammāpi cittaṁ pariyādāya tiṭṭhanti, mohadhammāpi cittaṁ pariyādāya tiṭṭhanti."
+    },
+    {
+      "id": "mn14:3.2",
+      "pali": "So ca hi te, mahānāma, dhammo ajjhattaṁ pahīno abhavissa, na tvaṁ agāraṁ ajjhāvaseyyāsi, na kāme paribhuñjeyyāsi."
+    },
+    {
+      "id": "mn14:3.3",
+      "pali": "Yasmā ca kho te, mahānāma, so eva dhammo ajjhattaṁ appahīno tasmā tvaṁ agāraṁ ajjhāvasasi, kāme paribhuñjasi."
+    },
+    {
+      "id": "mn14:4.1",
+      "pali": "‘Appassādā kāmā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo’ti—"
+    },
+    {
+      "id": "mn14:4.2",
+      "pali": "iti cepi, mahānāma, ariyasāvakassa yathābhūtaṁ sammappaññāya sudiṭṭhaṁ hoti, so ca aññatreva kāmehi aññatra akusalehi dhammehi pītisukhaṁ nādhigacchati, aññaṁ vā tato santataraṁ;"
+    },
+    {
+      "id": "mn14:4.3",
+      "pali": "atha kho so neva tāva anāvaṭṭī kāmesu hoti."
+    },
+    {
+      "id": "mn14:4.4",
+      "pali": "Yato ca kho, mahānāma, ariyasāvakassa ‘appassādā kāmā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo’ti—evametaṁ yathābhūtaṁ sammappaññāya sudiṭṭhaṁ hoti, so ca aññatreva kāmehi aññatra akusalehi dhammehi pītisukhaṁ adhigacchati aññaṁ vā tato santataraṁ;"
+    },
+    {
+      "id": "mn14:4.5",
+      "pali": "atha kho so anāvaṭṭī kāmesu hoti."
+    },
+    {
+      "id": "mn14:5.1",
+      "pali": "Mayhampi kho, mahānāma, pubbeva sambodhā, anabhisambuddhassa bodhisattasseva sato,"
+    },
+    {
+      "id": "mn14:5.2",
+      "pali": "‘appassādā kāmā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo’ti—evametaṁ yathābhūtaṁ sammappaññāya sudiṭṭhaṁ hoti,"
+    },
+    {
+      "id": "mn14:5.3",
+      "pali": "so ca aññatreva kāmehi aññatra akusalehi dhammehi pītisukhaṁ nājjhagamaṁ, aññaṁ vā tato santataraṁ;"
+    },
+    {
+      "id": "mn14:5.4",
+      "pali": "atha khvāhaṁ neva tāva anāvaṭṭī kāmesu paccaññāsiṁ."
+    },
+    {
+      "id": "mn14:5.5",
+      "pali": "Yato ca kho me, mahānāma, ‘appassādā kāmā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo’ti—evametaṁ yathābhūtaṁ sammappaññāya sudiṭṭhaṁ ahosi, so ca aññatreva kāmehi aññatra akusalehi dhammehi pītisukhaṁ ajjhagamaṁ, aññaṁ vā tato santataraṁ;"
+    },
+    {
+      "id": "mn14:5.6",
+      "pali": "athāhaṁ anāvaṭṭī kāmesu paccaññāsiṁ."
+    },
+    {
+      "id": "mn14:6.1",
+      "pali": "Ko ca, mahānāma, kāmānaṁ assādo?"
+    },
+    {
+      "id": "mn14:6.2",
+      "pali": "Pañcime, mahānāma, kāmaguṇā."
+    },
+    {
+      "id": "mn14:6.3",
+      "pali": "Katame pañca?"
+    },
+    {
+      "id": "mn14:6.4",
+      "pali": "Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā;"
+    },
+    {
+      "id": "mn14:6.5",
+      "pali": "sotaviññeyyā saddā …pe…"
+    },
+    {
+      "id": "mn14:6.6",
+      "pali": "ghānaviññeyyā gandhā …"
+    },
+    {
+      "id": "mn14:6.7",
+      "pali": "jivhāviññeyyā rasā …"
+    },
+    {
+      "id": "mn14:6.8",
+      "pali": "kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā—"
+    },
+    {
+      "id": "mn14:6.9",
+      "pali": "ime kho, mahānāma, pañca kāmaguṇā."
+    },
+    {
+      "id": "mn14:6.10",
+      "pali": "Yaṁ kho, mahānāma, ime pañca kāmaguṇe paṭicca uppajjati sukhaṁ somanassaṁ—"
+    },
+    {
+      "id": "mn14:6.11",
+      "pali": "ayaṁ kāmānaṁ assādo."
+    },
+    {
+      "id": "mn14:7.1",
+      "pali": "Ko ca, mahānāma, kāmānaṁ ādīnavo?"
+    },
+    {
+      "id": "mn14:7.2",
+      "pali": "Idha, mahānāma, kulaputto yena sippaṭṭhānena jīvikaṁ kappeti—"
+    },
+    {
+      "id": "mn14:7.3",
+      "pali": "yadi muddāya yadi gaṇanāya yadi saṅkhānena yadi kasiyā yadi vaṇijjāya yadi gorakkhena yadi issatthena yadi rājaporisena yadi sippaññatarena,"
+    },
+    {
+      "id": "mn14:7.4",
+      "pali": "sītassa purakkhato uṇhassa purakkhato ḍaṁsamakasavātātapasarīsapasamphassehi rissamāno khuppipāsāya mīyamāno;"
+    },
+    {
+      "id": "mn14:7.5",
+      "pali": "ayampi, mahānāma, kāmānaṁ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu."
+    },
+    {
+      "id": "mn14:8.1",
+      "pali": "Tassa ce, mahānāma, kulaputtassa evaṁ uṭṭhahato ghaṭato vāyamato te bhogā nābhinipphajjanti,"
+    },
+    {
+      "id": "mn14:8.2",
+      "pali": "so socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati ‘moghaṁ vata me uṭṭhānaṁ, aphalo vata me vāyāmo’ti."
+    },
+    {
+      "id": "mn14:8.3",
+      "pali": "Ayampi, mahānāma, kāmānaṁ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu."
+    },
+    {
+      "id": "mn14:9.1",
+      "pali": "Tassa ce, mahānāma, kulaputtassa evaṁ uṭṭhahato ghaṭato vāyamato te bhogā abhinipphajjanti."
+    },
+    {
+      "id": "mn14:9.2",
+      "pali": "So tesaṁ bhogānaṁ ārakkhādhikaraṇaṁ dukkhaṁ domanassaṁ paṭisaṁvedeti:"
+    },
+    {
+      "id": "mn14:9.3",
+      "pali": "‘kinti me bhoge neva rājāno hareyyuṁ, na corā hareyyuṁ, na aggi daheyya, na udakaṁ vaheyya, na appiyā vā dāyādā hareyyun’ti."
+    },
+    {
+      "id": "mn14:9.4",
+      "pali": "Tassa evaṁ ārakkhato gopayato te bhoge rājāno vā haranti, corā vā haranti, aggi vā dahati, udakaṁ vā vahati, appiyā vā dāyādā haranti."
+    },
+    {
+      "id": "mn14:9.5",
+      "pali": "So socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati:"
+    },
+    {
+      "id": "mn14:9.6",
+      "pali": "‘yampi me ahosi tampi no natthī’ti."
+    },
+    {
+      "id": "mn14:9.7",
+      "pali": "Ayampi, mahānāma, kāmānaṁ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu."
+    },
+    {
+      "id": "mn14:10.1",
+      "pali": "Puna caparaṁ, mahānāma, kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu rājānopi rājūhi vivadanti, khattiyāpi khattiyehi vivadanti, brāhmaṇāpi brāhmaṇehi vivadanti, gahapatīpi gahapatīhi vivadanti, mātāpi puttena vivadati, puttopi mātarā vivadati, pitāpi puttena vivadati, puttopi pitarā vivadati, bhātāpi bhātarā vivadati, bhātāpi bhaginiyā vivadati, bhaginīpi bhātarā vivadati, sahāyopi sahāyena vivadati."
+    },
+    {
+      "id": "mn14:10.2",
+      "pali": "Te tattha kalahaviggahavivādāpannā aññamaññaṁ pāṇīhipi upakkamanti, leḍḍūhipi upakkamanti, daṇḍehipi upakkamanti, satthehipi upakkamanti."
+    },
+    {
+      "id": "mn14:10.3",
+      "pali": "Te tattha maraṇampi nigacchanti, maraṇamattampi dukkhaṁ."
+    },
+    {
+      "id": "mn14:10.4",
+      "pali": "Ayampi, mahānāma, kāmānaṁ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu."
+    },
+    {
+      "id": "mn14:11.1",
+      "pali": "Puna caparaṁ, mahānāma, kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu asicammaṁ gahetvā, dhanukalāpaṁ sannayhitvā, ubhatobyūḷhaṁ saṅgāmaṁ pakkhandanti usūsupi khippamānesu, sattīsupi khippamānāsu, asīsupi vijjotalantesu."
+    },
+    {
+      "id": "mn14:11.2",
+      "pali": "Te tattha usūhipi vijjhanti, sattiyāpi vijjhanti, asināpi sīsaṁ chindanti."
+    },
+    {
+      "id": "mn14:11.3",
+      "pali": "Te tattha maraṇampi nigacchanti, maraṇamattampi dukkhaṁ."
+    },
+    {
+      "id": "mn14:11.4",
+      "pali": "Ayampi, mahānāma, kāmānaṁ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu."
+    },
+    {
+      "id": "mn14:12.1",
+      "pali": "Puna caparaṁ, mahānāma, kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu asicammaṁ gahetvā, dhanukalāpaṁ sannayhitvā, addāvalepanā upakāriyo pakkhandanti usūsupi khippamānesu, sattīsupi khippamānāsu, asīsupi vijjotalantesu."
+    },
+    {
+      "id": "mn14:12.2",
+      "pali": "Te tattha usūhipi vijjhanti, sattiyāpi vijjhanti, chakaṇakāyapi osiñcanti, abhivaggenapi omaddanti, asināpi sīsaṁ chindanti."
+    },
+    {
+      "id": "mn14:12.3",
+      "pali": "Te tattha maraṇampi nigacchanti, maraṇamattampi dukkhaṁ."
+    },
+    {
+      "id": "mn14:12.4",
+      "pali": "Ayampi, mahānāma, kāmānaṁ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu."
+    },
+    {
+      "id": "mn14:13.1",
+      "pali": "Puna caparaṁ, mahānāma, kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu sandhimpi chindanti, nillopampi haranti, ekāgārikampi karonti, paripanthepi tiṭṭhanti, paradārampi gacchanti."
+    },
+    {
+      "id": "mn14:13.2",
+      "pali": "Tamenaṁ rājāno gahetvā vividhā kammakāraṇā kārenti—"
+    },
+    {
+      "id": "mn14:13.3",
+      "pali": "kasāhipi tāḷenti, vettehipi tāḷenti, aḍḍhadaṇḍakehipi tāḷenti; hatthampi chindanti, pādampi chindanti, hatthapādampi chindanti, kaṇṇampi chindanti, nāsampi chindanti, kaṇṇanāsampi chindanti; bilaṅgathālikampi karonti, saṅkhamuṇḍikampi karonti, rāhumukhampi karonti, jotimālikampi karonti, hatthapajjotikampi karonti, erakavattikampi karonti, cīrakavāsikampi karonti, eṇeyyakampi karonti, baḷisamaṁsikampi karonti, kahāpaṇikampi karonti, khārāpatacchikampi karonti, palighaparivattikampi karonti, palālapīṭhakampi karonti, tattenapi telena osiñcanti, sunakhehipi khādāpenti, jīvantampi sūle uttāsenti, asināpi sīsaṁ chindanti."
+    },
+    {
+      "id": "mn14:13.4",
+      "pali": "Te tattha maraṇampi nigacchanti, maraṇamattampi dukkhaṁ."
+    },
+    {
+      "id": "mn14:13.5",
+      "pali": "Ayampi, mahānāma, kāmānaṁ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu."
+    },
+    {
+      "id": "mn14:14.1",
+      "pali": "Puna caparaṁ, mahānāma, kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu kāyena duccaritaṁ caranti, vācāya duccaritaṁ caranti, manasā duccaritaṁ caranti."
+    },
+    {
+      "id": "mn14:14.2",
+      "pali": "Te kāyena duccaritaṁ caritvā, vācāya duccaritaṁ caritvā, manasā duccaritaṁ caritvā, kāyassa bhedā paraṁ maraṇā, apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjanti."
+    },
+    {
+      "id": "mn14:14.3",
+      "pali": "Ayampi, mahānāma, kāmānaṁ ādīnavo samparāyiko, dukkhakkhandho kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu."
+    },
+    {
+      "id": "mn14:15.1",
+      "pali": "Ekamidāhaṁ, mahānāma, samayaṁ rājagahe viharāmi gijjhakūṭe pabbate."
+    },
+    {
+      "id": "mn14:15.2",
+      "pali": "Tena kho pana samayena sambahulā nigaṇṭhā isigilipasse kāḷasilāyaṁ ubbhaṭṭhakā honti āsanapaṭikkhittā, opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayanti."
+    },
+    {
+      "id": "mn14:16.1",
+      "pali": "Atha khvāhaṁ, mahānāma, sāyanhasamayaṁ paṭisallānā vuṭṭhito yena isigilipasse kāḷasilā yena te nigaṇṭhā tenupasaṅkamiṁ; upasaṅkamitvā te nigaṇṭhe etadavocaṁ:"
+    },
+    {
+      "id": "mn14:16.2",
+      "pali": "‘kiṁ nu tumhe, āvuso nigaṇṭhā, ubbhaṭṭhakā āsanapaṭikkhittā, opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayathā’ti?"
+    },
+    {
+      "id": "mn14:17.1",
+      "pali": "Evaṁ vutte, mahānāma, te nigaṇṭhā maṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn14:17.2",
+      "pali": "‘nigaṇṭho, āvuso, nāṭaputto sabbaññū sabbadassāvī aparisesaṁ ñāṇadassanaṁ paṭijānāti:"
+    },
+    {
+      "id": "mn14:17.3",
+      "pali": "“carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan”ti."
+    },
+    {
+      "id": "mn14:17.4",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn14:17.5",
+      "pali": "“atthi kho vo, nigaṇṭhā, pubbe pāpakammaṁ kataṁ, taṁ imāya kaṭukāya dukkarakārikāya nijjīretha;"
+    },
+    {
+      "id": "mn14:17.6",
+      "pali": "yaṁ panettha etarahi kāyena saṁvutā vācāya saṁvutā manasā saṁvutā taṁ āyatiṁ pāpassa kammassa akaraṇaṁ;"
+    },
+    {
+      "id": "mn14:17.7",
+      "pali": "iti purāṇānaṁ kammānaṁ tapasā byantibhāvā, navānaṁ kammānaṁ akaraṇā, āyatiṁ anavassavo;"
+    },
+    {
+      "id": "mn14:17.8",
+      "pali": "āyatiṁ anavassavā kammakkhayo, kammakkhayā dukkhakkhayo, dukkhakkhayā vedanākkhayo, vedanākkhayā sabbaṁ dukkhaṁ nijjiṇṇaṁ bhavissatī”ti."
+    },
+    {
+      "id": "mn14:17.9",
+      "pali": "Tañca panamhākaṁ ruccati ceva khamati ca, tena camha attamanā’ti."
+    },
+    {
+      "id": "mn14:18.1",
+      "pali": "Evaṁ vutte, ahaṁ, mahānāma, te nigaṇṭhe etadavocaṁ:"
+    },
+    {
+      "id": "mn14:18.2",
+      "pali": "‘kiṁ pana tumhe, āvuso nigaṇṭhā, jānātha—"
+    },
+    {
+      "id": "mn14:18.3",
+      "pali": "ahuvamheva mayaṁ pubbe na nāhuvamhā’ti?"
+    },
+    {
+      "id": "mn14:18.4",
+      "pali": "‘No hidaṁ, āvuso’."
+    },
+    {
+      "id": "mn14:18.5",
+      "pali": "‘Kiṁ pana tumhe, āvuso nigaṇṭhā, jānātha—"
+    },
+    {
+      "id": "mn14:18.6",
+      "pali": "akaramheva mayaṁ pubbe pāpakammaṁ na nākaramhā’ti?"
+    },
+    {
+      "id": "mn14:18.7",
+      "pali": "‘No hidaṁ, āvuso’."
+    },
+    {
+      "id": "mn14:18.8",
+      "pali": "‘Kiṁ pana tumhe, āvuso nigaṇṭhā, jānātha—"
+    },
+    {
+      "id": "mn14:18.9",
+      "pali": "evarūpaṁ vā evarūpaṁ vā pāpakammaṁ akaramhā’ti?"
+    },
+    {
+      "id": "mn14:18.10",
+      "pali": "‘No hidaṁ, āvuso’."
+    },
+    {
+      "id": "mn14:18.11",
+      "pali": "‘Kiṁ pana tumhe, āvuso nigaṇṭhā, jānātha—"
+    },
+    {
+      "id": "mn14:18.12",
+      "pali": "ettakaṁ vā dukkhaṁ nijjiṇṇaṁ, ettakaṁ vā dukkhaṁ nijjīretabbaṁ, ettakamhi vā dukkhe nijjiṇṇe sabbaṁ dukkhaṁ nijjiṇṇaṁ bhavissatī’ti?"
+    },
+    {
+      "id": "mn14:18.13",
+      "pali": "‘No hidaṁ, āvuso’."
+    },
+    {
+      "id": "mn14:18.14",
+      "pali": "‘Kiṁ pana tumhe, āvuso nigaṇṭhā, jānātha—"
+    },
+    {
+      "id": "mn14:18.15",
+      "pali": "diṭṭheva dhamme akusalānaṁ dhammānaṁ pahānaṁ, kusalānaṁ dhammānaṁ upasampadan’ti?"
+    },
+    {
+      "id": "mn14:18.16",
+      "pali": "‘No hidaṁ, āvuso’."
+    },
+    {
+      "id": "mn14:19.1",
+      "pali": "‘Iti kira tumhe, āvuso nigaṇṭhā, na jānātha—"
+    },
+    {
+      "id": "mn14:19.2",
+      "pali": "ahuvamheva mayaṁ pubbe na nāhuvamhāti, na jānātha—"
+    },
+    {
+      "id": "mn14:19.3",
+      "pali": "akaramheva mayaṁ pubbe pāpakammaṁ na nākaramhāti, na jānātha—"
+    },
+    {
+      "id": "mn14:19.4",
+      "pali": "evarūpaṁ vā evarūpaṁ vā pāpakammaṁ akaramhāti, na jānātha—"
+    },
+    {
+      "id": "mn14:19.5",
+      "pali": "ettakaṁ vā dukkhaṁ nijjiṇṇaṁ, ettakaṁ vā dukkhaṁ nijjīretabbaṁ, ettakamhi vā dukkhe nijjiṇṇe sabbaṁ dukkhaṁ nijjiṇṇaṁ bhavissatīti."
+    },
+    {
+      "id": "mn14:19.6",
+      "pali": "Na jānātha—"
+    },
+    {
+      "id": "mn14:19.7",
+      "pali": "diṭṭheva dhamme akusalānaṁ dhammānaṁ pahānaṁ, kusalānaṁ dhammānaṁ upasampadaṁ."
+    },
+    {
+      "id": "mn14:19.8",
+      "pali": "Evaṁ sante, āvuso nigaṇṭhā, ye loke luddā lohitapāṇino kurūrakammantā manussesu paccājātā te nigaṇṭhesu pabbajantī’ti?"
+    },
+    {
+      "id": "mn14:20.1",
+      "pali": "‘Na kho, āvuso gotama, sukhena sukhaṁ adhigantabbaṁ, dukkhena kho sukhaṁ adhigantabbaṁ;"
+    },
+    {
+      "id": "mn14:20.2",
+      "pali": "sukhena cāvuso gotama, sukhaṁ adhigantabbaṁ abhavissa, rājā māgadho seniyo bimbisāro sukhaṁ adhigaccheyya, rājā māgadho seniyo bimbisāro sukhavihāritaro āyasmatā gotamenā’ti."
+    },
+    {
+      "id": "mn14:20.3",
+      "pali": "‘Addhāyasmantehi nigaṇṭhehi sahasā appaṭisaṅkhā vācā bhāsitā:"
+    },
+    {
+      "id": "mn14:20.4",
+      "pali": "“na kho, āvuso gotama, sukhena sukhaṁ adhigantabbaṁ, dukkhena kho sukhaṁ adhigantabbaṁ;"
+    },
+    {
+      "id": "mn14:20.5",
+      "pali": "sukhena cāvuso gotama, sukhaṁ adhigantabbaṁ abhavissa, rājā māgadho seniyo bimbisāro sukhaṁ adhigaccheyya, rājā māgadho seniyo bimbisāro sukhavihāritaro āyasmatā gotamenā”ti."
+    },
+    {
+      "id": "mn14:20.6",
+      "pali": "Api ca ahameva tattha paṭipucchitabbo:"
+    },
+    {
+      "id": "mn14:20.7",
+      "pali": "“ko nu kho āyasmantānaṁ sukhavihāritaro rājā vā māgadho seniyo bimbisāro āyasmā vā gotamo”ti?"
+    },
+    {
+      "id": "mn14:20.8",
+      "pali": "Addhāvuso gotama, amhehi sahasā appaṭisaṅkhā vācā bhāsitā, na kho, āvuso gotama, sukhena sukhaṁ adhigantabbaṁ, dukkhena kho sukhaṁ adhigantabbaṁ;"
+    },
+    {
+      "id": "mn14:20.9",
+      "pali": "sukhena cāvuso gotama, sukhaṁ adhigantabbaṁ abhavissa, rājā māgadho seniyo bimbisāro sukhaṁ adhigaccheyya, rājā māgadho seniyo bimbisāro sukhavihāritaro āyasmatā gotamenāti."
+    },
+    {
+      "id": "mn14:20.10",
+      "pali": "Api ca tiṭṭhatetaṁ, idānipi mayaṁ āyasmantaṁ gotamaṁ pucchāma:"
+    },
+    {
+      "id": "mn14:20.11",
+      "pali": "“ko nu kho āyasmantānaṁ sukhavihāritaro rājā vā māgadho seniyo bimbisāro āyasmā vā gotamo”ti?"
+    },
+    {
+      "id": "mn14:21.1",
+      "pali": "Tena hāvuso nigaṇṭhā, tumheva tattha paṭipucchissāmi, yathā vo khameyya tathā naṁ byākareyyātha."
+    },
+    {
+      "id": "mn14:21.2",
+      "pali": "Taṁ kiṁ maññathāvuso nigaṇṭhā, pahoti rājā māgadho seniyo bimbisāro,"
+    },
+    {
+      "id": "mn14:21.3",
+      "pali": "aniñjamāno kāyena, abhāsamāno vācaṁ, satta rattindivāni ekantasukhaṁ paṭisaṁvedī viharitun’ti?"
+    },
+    {
+      "id": "mn14:21.4",
+      "pali": "‘No hidaṁ, āvuso’."
+    },
+    {
+      "id": "mn14:21.5",
+      "pali": "‘Taṁ kiṁ maññathāvuso nigaṇṭhā, pahoti rājā māgadho seniyo bimbisāro,"
+    },
+    {
+      "id": "mn14:21.6",
+      "pali": "aniñjamāno kāyena, abhāsamāno vācaṁ, cha rattindivāni …pe…"
+    },
+    {
+      "id": "mn14:21.7",
+      "pali": "pañca rattindivāni …"
+    },
+    {
+      "id": "mn14:21.8",
+      "pali": "cattāri rattindivāni …"
+    },
+    {
+      "id": "mn14:21.9",
+      "pali": "tīṇi rattindivāni …"
+    },
+    {
+      "id": "mn14:21.10",
+      "pali": "dve rattindivāni …"
+    },
+    {
+      "id": "mn14:21.11",
+      "pali": "ekaṁ rattindivaṁ ekantasukhaṁ paṭisaṁvedī viharitun’ti?"
+    },
+    {
+      "id": "mn14:21.12",
+      "pali": "‘No hidaṁ, āvuso’."
+    },
+    {
+      "id": "mn14:21.13",
+      "pali": "‘Ahaṁ kho, āvuso nigaṇṭhā, pahomi aniñjamāno kāyena, abhāsamāno vācaṁ, ekaṁ rattindivaṁ ekantasukhaṁ paṭisaṁvedī viharituṁ."
+    },
+    {
+      "id": "mn14:21.14",
+      "pali": "Ahaṁ kho, āvuso nigaṇṭhā, pahomi aniñjamāno kāyena, abhāsamāno vācaṁ, dve rattindivāni …"
+    },
+    {
+      "id": "mn14:21.15",
+      "pali": "tīṇi rattindivāni …"
+    },
+    {
+      "id": "mn14:21.16",
+      "pali": "cattāri rattindivāni …"
+    },
+    {
+      "id": "mn14:21.17",
+      "pali": "pañca rattindivāni …"
+    },
+    {
+      "id": "mn14:21.18",
+      "pali": "cha rattindivāni …"
+    },
+    {
+      "id": "mn14:21.19",
+      "pali": "satta rattindivāni ekantasukhaṁ paṭisaṁvedī viharituṁ."
+    },
+    {
+      "id": "mn14:21.20",
+      "pali": "Taṁ kiṁ maññathāvuso nigaṇṭhā, evaṁ sante ko sukhavihāritaro rājā vā māgadho seniyo bimbisāro ahaṁ vā’ti?"
+    },
+    {
+      "id": "mn14:21.21",
+      "pali": "‘Evaṁ sante āyasmāva gotamo sukhavihāritaro raññā māgadhena seniyena bimbisārenā’”ti."
+    },
+    {
+      "id": "mn14:21.22",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn14:21.23",
+      "pali": "Attamano mahānāmo sakko bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn14:21.24",
+      "pali": "Cūḷadukkhakkhandhasuttaṁ niṭṭhitaṁ catutthaṁ."
+    }
+  ]
+}

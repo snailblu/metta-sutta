@@ -1,0 +1,1443 @@
+{
+  "uid": "mn146",
+  "title": "Nandakovādasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn146:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn146:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn146:2.1",
+      "pali": "Atha kho mahāpajāpatigotamī pañcamattehi bhikkhunisatehi saddhiṁ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho mahāpajāpatigotamī bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn146:2.2",
+      "pali": "“ovadatu, bhante, bhagavā bhikkhuniyo;"
+    },
+    {
+      "id": "mn146:2.3",
+      "pali": "anusāsatu, bhante, bhagavā bhikkhuniyo;"
+    },
+    {
+      "id": "mn146:2.4",
+      "pali": "karotu, bhante, bhagavā bhikkhunīnaṁ dhammiṁ kathan”ti."
+    },
+    {
+      "id": "mn146:3.1",
+      "pali": "Tena kho pana samayena therā bhikkhū bhikkhuniyo ovadanti pariyāyena."
+    },
+    {
+      "id": "mn146:3.2",
+      "pali": "Āyasmā nandako na icchati bhikkhuniyo ovadituṁ pariyāyena."
+    },
+    {
+      "id": "mn146:3.3",
+      "pali": "Atha kho bhagavā āyasmantaṁ ānandaṁ āmantesi:"
+    },
+    {
+      "id": "mn146:3.4",
+      "pali": "“kassa nu kho, ānanda, ajja pariyāyo bhikkhuniyo ovadituṁ pariyāyenā”ti?"
+    },
+    {
+      "id": "mn146:3.5",
+      "pali": "“Sabbeheva, bhante, kato pariyāyo bhikkhuniyo ovadituṁ pariyāyena."
+    },
+    {
+      "id": "mn146:3.6",
+      "pali": "Ayaṁ, bhante, āyasmā nandako na icchati bhikkhuniyo ovadituṁ pariyāyenā”ti."
+    },
+    {
+      "id": "mn146:4.1",
+      "pali": "Atha kho bhagavā āyasmantaṁ nandakaṁ āmantesi:"
+    },
+    {
+      "id": "mn146:4.2",
+      "pali": "“ovada, nandaka, bhikkhuniyo;"
+    },
+    {
+      "id": "mn146:4.3",
+      "pali": "anusāsa, nandaka, bhikkhuniyo;"
+    },
+    {
+      "id": "mn146:4.4",
+      "pali": "karohi tvaṁ, brāhmaṇa, bhikkhunīnaṁ dhammiṁ kathan”ti."
+    },
+    {
+      "id": "mn146:4.5",
+      "pali": "“Evaṁ, bhante”ti kho āyasmā nandako bhagavato paṭissutvā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "mn146:4.6",
+      "pali": "Sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto attadutiyo yena rājakārāmo tenupasaṅkami."
+    },
+    {
+      "id": "mn146:4.7",
+      "pali": "Addasaṁsu kho tā bhikkhuniyo āyasmantaṁ nandakaṁ dūratova āgacchantaṁ."
+    },
+    {
+      "id": "mn146:4.8",
+      "pali": "Disvāna āsanaṁ paññāpesuṁ, udakañca pādānaṁ upaṭṭhapesuṁ."
+    },
+    {
+      "id": "mn146:4.9",
+      "pali": "Nisīdi kho āyasmā nandako paññatte āsane."
+    },
+    {
+      "id": "mn146:4.10",
+      "pali": "Nisajja pāde pakkhālesi."
+    },
+    {
+      "id": "mn146:4.11",
+      "pali": "Tāpi kho bhikkhuniyo āyasmantaṁ nandakaṁ abhivādetvā ekamantaṁ nisīdiṁsu."
+    },
+    {
+      "id": "mn146:4.12",
+      "pali": "Ekamantaṁ nisinnā kho tā bhikkhuniyo āyasmā nandako etadavoca:"
+    },
+    {
+      "id": "mn146:5.1",
+      "pali": "“paṭipucchakathā kho, bhaginiyo, bhavissati."
+    },
+    {
+      "id": "mn146:5.2",
+      "pali": "Tattha ājānantīhi: ‘ājānāmā’ tissa vacanīyaṁ, na ājānantīhi: ‘na ājānāmā’ tissa vacanīyaṁ."
+    },
+    {
+      "id": "mn146:5.3",
+      "pali": "Yassā vā panassa kaṅkhā vā vimati vā ahameva tattha paṭipucchitabbo:"
+    },
+    {
+      "id": "mn146:5.4",
+      "pali": "‘idaṁ, bhante, kathaṁ; imassa kvattho’”ti?"
+    },
+    {
+      "id": "mn146:5.5",
+      "pali": "“Ettakenapi mayaṁ, bhante, ayyassa nandakassa attamanā abhiraddhā yaṁ no ayyo nandako pavāretī”ti."
+    },
+    {
+      "id": "mn146:6.1",
+      "pali": "“Taṁ kiṁ maññatha, bhaginiyo,"
+    },
+    {
+      "id": "mn146:6.2",
+      "pali": "cakkhu niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:6.3",
+      "pali": "“Aniccaṁ, bhante”."
+    },
+    {
+      "id": "mn146:6.4",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:6.5",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn146:6.6",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn146:6.7",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn146:6.8",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:6.9",
+      "pali": "“Taṁ kiṁ maññatha, bhaginiyo,"
+    },
+    {
+      "id": "mn146:6.10",
+      "pali": "sotaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:6.11",
+      "pali": "“Aniccaṁ, bhante …pe…"
+    },
+    {
+      "id": "mn146:6.12",
+      "pali": "ghānaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:6.13",
+      "pali": "“Aniccaṁ, bhante” …"
+    },
+    {
+      "id": "mn146:6.14",
+      "pali": "“jivhā niccā vā aniccā vā”ti?"
+    },
+    {
+      "id": "mn146:6.15",
+      "pali": "“Aniccā, bhante” …"
+    },
+    {
+      "id": "mn146:6.16",
+      "pali": "“kāyo nicco vā anicco vā”ti?"
+    },
+    {
+      "id": "mn146:6.17",
+      "pali": "“Anicco, bhante” …"
+    },
+    {
+      "id": "mn146:6.18",
+      "pali": "“mano nicco vā anicco vā”ti?"
+    },
+    {
+      "id": "mn146:6.19",
+      "pali": "“Anicco, bhante”."
+    },
+    {
+      "id": "mn146:6.20",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:6.21",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn146:6.22",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn146:6.23",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn146:6.24",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:6.25",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:6.26",
+      "pali": "“Pubbeva no etaṁ, bhante, yathābhūtaṁ sammappaññāya sudiṭṭhaṁ:"
+    },
+    {
+      "id": "mn146:6.27",
+      "pali": "‘itipime cha ajjhattikā āyatanā aniccā’”ti."
+    },
+    {
+      "id": "mn146:6.28",
+      "pali": "“Sādhu sādhu, bhaginiyo."
+    },
+    {
+      "id": "mn146:6.29",
+      "pali": "Evañhetaṁ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṁ sammappaññāya passato."
+    },
+    {
+      "id": "mn146:7.1",
+      "pali": "Taṁ kiṁ maññatha, bhaginiyo,"
+    },
+    {
+      "id": "mn146:7.2",
+      "pali": "rūpā niccā vā aniccā vā”ti?"
+    },
+    {
+      "id": "mn146:7.3",
+      "pali": "“Aniccā, bhante”."
+    },
+    {
+      "id": "mn146:7.4",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:7.5",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn146:7.6",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn146:7.7",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn146:7.8",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:7.9",
+      "pali": "“Taṁ kiṁ maññatha, bhaginiyo,"
+    },
+    {
+      "id": "mn146:7.10",
+      "pali": "saddā niccā vā aniccā vā”ti?"
+    },
+    {
+      "id": "mn146:7.11",
+      "pali": "“Aniccā, bhante …pe…"
+    },
+    {
+      "id": "mn146:7.12",
+      "pali": "gandhā niccā vā aniccā vā”ti?"
+    },
+    {
+      "id": "mn146:7.13",
+      "pali": "“Aniccā, bhante” …"
+    },
+    {
+      "id": "mn146:7.14",
+      "pali": "“rasā niccā vā aniccā vā”ti?"
+    },
+    {
+      "id": "mn146:7.15",
+      "pali": "“Aniccā, bhante” …"
+    },
+    {
+      "id": "mn146:7.16",
+      "pali": "“phoṭṭhabbā niccā vā aniccā vā”ti?"
+    },
+    {
+      "id": "mn146:7.17",
+      "pali": "“Aniccā, bhante” …"
+    },
+    {
+      "id": "mn146:7.18",
+      "pali": "“dhammā niccā vā aniccā vā”ti?"
+    },
+    {
+      "id": "mn146:7.19",
+      "pali": "“Aniccā, bhante”."
+    },
+    {
+      "id": "mn146:7.20",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:7.21",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn146:7.22",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn146:7.23",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn146:7.24",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:7.25",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:7.26",
+      "pali": "“Pubbeva no etaṁ, bhante, yathābhūtaṁ sammappaññāya sudiṭṭhaṁ:"
+    },
+    {
+      "id": "mn146:7.27",
+      "pali": "‘itipime cha bāhirā āyatanā aniccā’”ti."
+    },
+    {
+      "id": "mn146:7.28",
+      "pali": "“Sādhu sādhu, bhaginiyo."
+    },
+    {
+      "id": "mn146:7.29",
+      "pali": "Evañhetaṁ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṁ sammappaññāya passato."
+    },
+    {
+      "id": "mn146:8.1",
+      "pali": "Taṁ kiṁ maññatha, bhaginiyo,"
+    },
+    {
+      "id": "mn146:8.2",
+      "pali": "cakkhuviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:8.3",
+      "pali": "“Aniccaṁ, bhante”."
+    },
+    {
+      "id": "mn146:8.4",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:8.5",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn146:8.6",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn146:8.7",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn146:8.8",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:8.9",
+      "pali": "“Taṁ kiṁ maññatha, bhaginiyo, sotaviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:8.10",
+      "pali": "“Aniccaṁ, bhante …pe…"
+    },
+    {
+      "id": "mn146:8.11",
+      "pali": "ghānaviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:8.12",
+      "pali": "“Aniccaṁ, bhante” …"
+    },
+    {
+      "id": "mn146:8.13",
+      "pali": "“jivhāviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:8.14",
+      "pali": "“Aniccaṁ, bhante” …"
+    },
+    {
+      "id": "mn146:8.15",
+      "pali": "“kāyaviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:8.16",
+      "pali": "“Aniccaṁ, bhante” …"
+    },
+    {
+      "id": "mn146:8.17",
+      "pali": "“manoviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:8.18",
+      "pali": "“Aniccaṁ, bhante”."
+    },
+    {
+      "id": "mn146:8.19",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vāti”?"
+    },
+    {
+      "id": "mn146:8.20",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn146:8.21",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn146:8.22",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn146:8.23",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:8.24",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:8.25",
+      "pali": "“Pubbeva no etaṁ, bhante, yathābhūtaṁ sammappaññāya sudiṭṭhaṁ:"
+    },
+    {
+      "id": "mn146:8.26",
+      "pali": "‘itipime cha viññāṇakāyā aniccā’”ti."
+    },
+    {
+      "id": "mn146:8.27",
+      "pali": "“Sādhu sādhu, bhaginiyo."
+    },
+    {
+      "id": "mn146:8.28",
+      "pali": "Evañhetaṁ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṁ sammappaññāya passato."
+    },
+    {
+      "id": "mn146:9.1",
+      "pali": "Seyyathāpi, bhaginiyo, telappadīpassa jhāyato telampi aniccaṁ vipariṇāmadhammaṁ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā, ābhāpi aniccā vipariṇāmadhammā."
+    },
+    {
+      "id": "mn146:9.2",
+      "pali": "Yo nu kho, bhaginiyo, evaṁ vadeyya:"
+    },
+    {
+      "id": "mn146:9.3",
+      "pali": "‘amussa telappadīpassa jhāyato telampi aniccaṁ vipariṇāmadhammaṁ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā;"
+    },
+    {
+      "id": "mn146:9.4",
+      "pali": "yā ca khvāssa ābhā sā niccā dhuvā sassatā avipariṇāmadhammā’ti;"
+    },
+    {
+      "id": "mn146:9.5",
+      "pali": "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
+    },
+    {
+      "id": "mn146:9.6",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:9.7",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:9.8",
+      "pali": "“Amussa hi, bhante, telappadīpassa jhāyato telampi aniccaṁ vipariṇāmadhammaṁ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā;"
+    },
+    {
+      "id": "mn146:9.9",
+      "pali": "pagevassa ābhā aniccā vipariṇāmadhammā”ti."
+    },
+    {
+      "id": "mn146:9.10",
+      "pali": "“Evameva kho, bhaginiyo, yo nu kho evaṁ vadeyya:"
+    },
+    {
+      "id": "mn146:9.11",
+      "pali": "‘cha khome ajjhattikā āyatanā aniccā;"
+    },
+    {
+      "id": "mn146:9.12",
+      "pali": "yañca kho cha ajjhattike āyatane paṭicca paṭisaṁvedeti sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā taṁ niccaṁ dhuvaṁ sassataṁ avipariṇāmadhamman’ti;"
+    },
+    {
+      "id": "mn146:9.13",
+      "pali": "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
+    },
+    {
+      "id": "mn146:9.14",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:9.15",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:9.16",
+      "pali": "“Tajjaṁ tajjaṁ, bhante, paccayaṁ paṭicca tajjā tajjā vedanā uppajjanti."
+    },
+    {
+      "id": "mn146:9.17",
+      "pali": "Tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhantī”ti."
+    },
+    {
+      "id": "mn146:9.18",
+      "pali": "“Sādhu sādhu, bhaginiyo."
+    },
+    {
+      "id": "mn146:9.19",
+      "pali": "Evañhetaṁ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṁ sammappaññāya passato."
+    },
+    {
+      "id": "mn146:10.1",
+      "pali": "Seyyathāpi, bhaginiyo, mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṁ vipariṇāmadhammaṁ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṁ vipariṇāmadhammaṁ, chāyāpi aniccā vipariṇāmadhammā."
+    },
+    {
+      "id": "mn146:10.2",
+      "pali": "Yo nu kho, bhaginiyo, evaṁ vadeyya:"
+    },
+    {
+      "id": "mn146:10.3",
+      "pali": "‘amussa mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṁ vipariṇāmadhammaṁ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṁ vipariṇāmadhammaṁ, yā ca khvāssa chāyā sā niccā dhuvā sassatā avipariṇāmadhammā’ti;"
+    },
+    {
+      "id": "mn146:10.4",
+      "pali": "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
+    },
+    {
+      "id": "mn146:10.5",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:10.6",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:10.7",
+      "pali": "“Amussa hi, bhante, mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṁ vipariṇāmadhammaṁ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṁ vipariṇāmadhammaṁ;"
+    },
+    {
+      "id": "mn146:10.8",
+      "pali": "pagevassa chāyā aniccā vipariṇāmadhammā”ti."
+    },
+    {
+      "id": "mn146:10.9",
+      "pali": "“Evameva kho, bhaginiyo, yo nu kho evaṁ vadeyya:"
+    },
+    {
+      "id": "mn146:10.10",
+      "pali": "‘cha khome bāhirā āyatanā aniccā."
+    },
+    {
+      "id": "mn146:10.11",
+      "pali": "Yañca kho cha bāhire āyatane paṭicca paṭisaṁvedeti sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā taṁ niccaṁ dhuvaṁ sassataṁ avipariṇāmadhamman’ti;"
+    },
+    {
+      "id": "mn146:10.12",
+      "pali": "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
+    },
+    {
+      "id": "mn146:10.13",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:10.14",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:10.15",
+      "pali": "“Tajjaṁ tajjaṁ, bhante, paccayaṁ paṭicca tajjā tajjā vedanā uppajjanti."
+    },
+    {
+      "id": "mn146:10.16",
+      "pali": "Tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhantī”ti."
+    },
+    {
+      "id": "mn146:10.17",
+      "pali": "“Sādhu sādhu, bhaginiyo."
+    },
+    {
+      "id": "mn146:10.18",
+      "pali": "Evañhetaṁ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṁ sammappaññāya passato."
+    },
+    {
+      "id": "mn146:11.1",
+      "pali": "Seyyathāpi, bhaginiyo, dakkho goghātako vā goghātakantevāsī vā gāviṁ vadhitvā tiṇhena govikantanena gāviṁ saṅkanteyya anupahacca antaraṁ maṁsakāyaṁ anupahacca bāhiraṁ cammakāyaṁ."
+    },
+    {
+      "id": "mn146:11.2",
+      "pali": "Yaṁ yadeva tattha antarā vilimaṁsaṁ antarā nhāru antarā bandhanaṁ taṁ tadeva tiṇhena govikantanena sañchindeyya saṅkanteyya sampakanteyya samparikanteyya."
+    },
+    {
+      "id": "mn146:11.3",
+      "pali": "Sañchinditvā saṅkantitvā sampakantitvā samparikantitvā vidhunitvā bāhiraṁ cammakāyaṁ teneva cammena taṁ gāviṁ paṭicchādetvā evaṁ vadeyya:"
+    },
+    {
+      "id": "mn146:11.4",
+      "pali": "‘tathevāyaṁ gāvī saṁyuttā imināva cammenā’ti;"
+    },
+    {
+      "id": "mn146:11.5",
+      "pali": "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
+    },
+    {
+      "id": "mn146:11.6",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:11.7",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:11.8",
+      "pali": "“Amu hi, bhante, dakkho goghātako vā goghātakantevāsī vā gāviṁ vadhitvā tiṇhena govikantanena gāviṁ saṅkanteyya anupahacca antaraṁ maṁsakāyaṁ anupahacca bāhiraṁ cammakāyaṁ."
+    },
+    {
+      "id": "mn146:11.9",
+      "pali": "Yaṁ yadeva tattha antarā vilimaṁsaṁ antarā nhāru antarā bandhanaṁ taṁ tadeva tiṇhena govikantanena sañchindeyya saṅkanteyya sampakanteyya samparikanteyya."
+    },
+    {
+      "id": "mn146:11.10",
+      "pali": "Sañchinditvā saṅkantitvā sampakantitvā samparikantitvā vidhunitvā bāhiraṁ cammakāyaṁ teneva cammena taṁ gāviṁ paṭicchādetvā kiñcāpi so evaṁ vadeyya:"
+    },
+    {
+      "id": "mn146:11.11",
+      "pali": "‘tathevāyaṁ gāvī saṁyuttā imināva cammenā’ti;"
+    },
+    {
+      "id": "mn146:11.12",
+      "pali": "atha kho sā gāvī visaṁyuttā teneva cammenā”ti."
+    },
+    {
+      "id": "mn146:12.1",
+      "pali": "“Upamā kho me ayaṁ, bhaginiyo, katā atthassa viññāpanāya."
+    },
+    {
+      "id": "mn146:12.2",
+      "pali": "Ayamevettha attho;"
+    },
+    {
+      "id": "mn146:12.3",
+      "pali": "‘antarā maṁsakāyo’ti kho, bhaginiyo, channetaṁ ajjhattikānaṁ āyatanānaṁ adhivacanaṁ;"
+    },
+    {
+      "id": "mn146:12.4",
+      "pali": "‘bāhiro cammakāyo’ti kho, bhaginiyo, channetaṁ bāhirānaṁ āyatanānaṁ adhivacanaṁ;"
+    },
+    {
+      "id": "mn146:12.5",
+      "pali": "‘antarā vilimaṁsaṁ, antarā nhāru, antarā bandhanan’ti kho, bhaginiyo, nandīrāgassetaṁ adhivacanaṁ;"
+    },
+    {
+      "id": "mn146:12.6",
+      "pali": "‘tiṇhaṁ govikantanan’ti kho, bhaginiyo, ariyāyetaṁ paññāya adhivacanaṁ;"
+    },
+    {
+      "id": "mn146:12.7",
+      "pali": "yāyaṁ ariyā paññā antarā kilesaṁ antarā saṁyojanaṁ antarā bandhanaṁ sañchindati saṅkantati sampakantati samparikantati."
+    },
+    {
+      "id": "mn146:13.1",
+      "pali": "Satta kho panime, bhaginiyo, bojjhaṅgā, yesaṁ bhāvitattā bahulīkatattā bhikkhu āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati."
+    },
+    {
+      "id": "mn146:13.2",
+      "pali": "Katame satta?"
+    },
+    {
+      "id": "mn146:13.3",
+      "pali": "Idha, bhaginiyo, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ."
+    },
+    {
+      "id": "mn146:13.4",
+      "pali": "Dhammavicayasambojjhaṅgaṁ bhāveti …pe…"
+    },
+    {
+      "id": "mn146:13.5",
+      "pali": "vīriyasambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn146:13.6",
+      "pali": "pītisambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn146:13.7",
+      "pali": "passaddhisambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn146:13.8",
+      "pali": "samādhisambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn146:13.9",
+      "pali": "upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ."
+    },
+    {
+      "id": "mn146:13.10",
+      "pali": "Ime kho, bhaginiyo, satta bojjhaṅgā, yesaṁ bhāvitattā bahulīkatattā bhikkhu āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharatī”ti."
+    },
+    {
+      "id": "mn146:14.1",
+      "pali": "Atha kho āyasmā nandako tā bhikkhuniyo iminā ovādena ovaditvā uyyojesi:"
+    },
+    {
+      "id": "mn146:14.2",
+      "pali": "“gacchatha, bhaginiyo; kālo”ti."
+    },
+    {
+      "id": "mn146:14.3",
+      "pali": "Atha kho tā bhikkhuniyo āyasmato nandakassa bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā āyasmantaṁ nandakaṁ abhivādetvā padakkhiṇaṁ katvā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho tā bhikkhuniyo bhagavā etadavoca:"
+    },
+    {
+      "id": "mn146:14.4",
+      "pali": "“gacchatha, bhikkhuniyo; kālo”ti."
+    },
+    {
+      "id": "mn146:14.5",
+      "pali": "Atha kho tā bhikkhuniyo bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkamiṁsu."
+    },
+    {
+      "id": "mn146:15.1",
+      "pali": "Atha kho bhagavā acirapakkantīsu tāsu bhikkhunīsu bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn146:15.2",
+      "pali": "“seyyathāpi, bhikkhave, tadahuposathe cātuddase na hoti bahuno janassa kaṅkhā vā vimati vā:"
+    },
+    {
+      "id": "mn146:15.3",
+      "pali": "‘ūno nu kho cando, puṇṇo nu kho cando’ti, atha kho ūno cando tveva hoti."
+    },
+    {
+      "id": "mn146:15.4",
+      "pali": "Evameva kho, bhikkhave, tā bhikkhuniyo nandakassa dhammadesanāya attamanā honti no ca kho paripuṇṇasaṅkappā”ti."
+    },
+    {
+      "id": "mn146:16.1",
+      "pali": "Atha kho bhagavā āyasmantaṁ nandakaṁ āmantesi:"
+    },
+    {
+      "id": "mn146:16.2",
+      "pali": "“tena hi tvaṁ, nandaka, svepi tā bhikkhuniyo tenevovādena ovadeyyāsī”ti."
+    },
+    {
+      "id": "mn146:16.3",
+      "pali": "“Evaṁ, bhante”ti kho āyasmā nandako bhagavato paccassosi."
+    },
+    {
+      "id": "mn146:16.4",
+      "pali": "Atha kho āyasmā nandako tassā rattiyā accayena pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "mn146:16.5",
+      "pali": "Sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto attadutiyo yena rājakārāmo tenupasaṅkami."
+    },
+    {
+      "id": "mn146:16.6",
+      "pali": "Addasaṁsu kho tā bhikkhuniyo āyasmantaṁ nandakaṁ dūratova āgacchantaṁ."
+    },
+    {
+      "id": "mn146:16.7",
+      "pali": "Disvāna āsanaṁ paññāpesuṁ, udakañca pādānaṁ upaṭṭhapesuṁ."
+    },
+    {
+      "id": "mn146:16.8",
+      "pali": "Nisīdi kho āyasmā nandako paññatte āsane."
+    },
+    {
+      "id": "mn146:16.9",
+      "pali": "Nisajja pāde pakkhālesi."
+    },
+    {
+      "id": "mn146:16.10",
+      "pali": "Tāpi kho bhikkhuniyo āyasmantaṁ nandakaṁ abhivādetvā ekamantaṁ nisīdiṁsu."
+    },
+    {
+      "id": "mn146:16.11",
+      "pali": "Ekamantaṁ nisinnā kho tā bhikkhuniyo āyasmā nandako etadavoca:"
+    },
+    {
+      "id": "mn146:16.12",
+      "pali": "“paṭipucchakathā kho, bhaginiyo, bhavissati."
+    },
+    {
+      "id": "mn146:16.13",
+      "pali": "Tattha ājānantīhi ‘ājānāmā’ tissa vacanīyaṁ, na ājānantīhi ‘na ājānāmā’ tissa vacanīyaṁ."
+    },
+    {
+      "id": "mn146:16.14",
+      "pali": "Yassā vā panassa kaṅkhā vā vimati vā, ahameva tattha paṭipucchitabbo:"
+    },
+    {
+      "id": "mn146:16.15",
+      "pali": "‘idaṁ, bhante, kathaṁ; imassa kvattho’”ti."
+    },
+    {
+      "id": "mn146:16.16",
+      "pali": "“Ettakenapi mayaṁ, bhante, ayyassa nandakassa attamanā abhiraddhā yaṁ no ayyo nandako pavāretī”ti."
+    },
+    {
+      "id": "mn146:17-18.1",
+      "pali": "“Taṁ kiṁ maññatha, bhaginiyo, cakkhu niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:17-18.2",
+      "pali": "“Aniccaṁ, bhante”."
+    },
+    {
+      "id": "mn146:17-18.3",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:17-18.4",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn146:17-18.5",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn146:17-18.6",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn146:17-18.7",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:17-18.8",
+      "pali": "“Taṁ kiṁ maññatha, bhaginiyo, sotaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:17-18.9",
+      "pali": "“Aniccaṁ, bhante …pe…"
+    },
+    {
+      "id": "mn146:17-18.10",
+      "pali": "ghānaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:17-18.11",
+      "pali": "“Aniccaṁ, bhante …"
+    },
+    {
+      "id": "mn146:17-18.12",
+      "pali": "jivhā …"
+    },
+    {
+      "id": "mn146:17-18.13",
+      "pali": "kāyo …"
+    },
+    {
+      "id": "mn146:17-18.14",
+      "pali": "mano nicco vā anicco vā”ti?"
+    },
+    {
+      "id": "mn146:17-18.15",
+      "pali": "“Anicco, bhante”."
+    },
+    {
+      "id": "mn146:17-18.16",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:17-18.17",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn146:17-18.18",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn146:17-18.19",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn146:17-18.20",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:17-18.21",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:17-18.22",
+      "pali": "“Pubbeva no etaṁ, bhante, yathābhūtaṁ sammappaññāya sudiṭṭhaṁ:"
+    },
+    {
+      "id": "mn146:17-18.23",
+      "pali": "‘itipime cha ajjhattikā āyatanā aniccā’”ti."
+    },
+    {
+      "id": "mn146:17-18.24",
+      "pali": "“Sādhu sādhu, bhaginiyo."
+    },
+    {
+      "id": "mn146:17-18.25",
+      "pali": "Evañhetaṁ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṁ sammappaññāya passato."
+    },
+    {
+      "id": "mn146:19-20.1",
+      "pali": "Taṁ kiṁ maññatha, bhaginiyo, rūpā niccā vā aniccā vā”ti?"
+    },
+    {
+      "id": "mn146:19-20.2",
+      "pali": "“Aniccā, bhante”."
+    },
+    {
+      "id": "mn146:19-20.3",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:19-20.4",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn146:19-20.5",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn146:19-20.6",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn146:19-20.7",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:19-20.8",
+      "pali": "“Taṁ kiṁ maññatha, bhaginiyo, saddā niccā vā aniccā vā”ti?"
+    },
+    {
+      "id": "mn146:19-20.9",
+      "pali": "“Aniccā, bhante …pe…"
+    },
+    {
+      "id": "mn146:19-20.10",
+      "pali": "gandhā niccā vā aniccā vā”ti?"
+    },
+    {
+      "id": "mn146:19-20.11",
+      "pali": "“Aniccā, bhante …"
+    },
+    {
+      "id": "mn146:19-20.12",
+      "pali": "rasā niccā vā aniccā vā”ti?"
+    },
+    {
+      "id": "mn146:19-20.13",
+      "pali": "“Aniccā, bhante …"
+    },
+    {
+      "id": "mn146:19-20.14",
+      "pali": "phoṭṭhabbā niccā vā aniccā vā”ti?"
+    },
+    {
+      "id": "mn146:19-20.15",
+      "pali": "“Aniccā, bhante …"
+    },
+    {
+      "id": "mn146:19-20.16",
+      "pali": "dhammā niccā vā aniccā vā”ti?"
+    },
+    {
+      "id": "mn146:19-20.17",
+      "pali": "“Aniccā, bhante”."
+    },
+    {
+      "id": "mn146:19-20.18",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:19-20.19",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn146:19-20.20",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn146:19-20.21",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn146:19-20.22",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:19-20.23",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:19-20.24",
+      "pali": "“Pubbeva no etaṁ, bhante, yathābhūtaṁ sammappaññāya sudiṭṭhaṁ:"
+    },
+    {
+      "id": "mn146:19-20.25",
+      "pali": "‘itipime cha bāhirā āyatanā aniccā’”ti."
+    },
+    {
+      "id": "mn146:19-20.26",
+      "pali": "“Sādhu sādhu, bhaginiyo."
+    },
+    {
+      "id": "mn146:19-20.27",
+      "pali": "Evañhetaṁ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṁ sammappaññāya passato."
+    },
+    {
+      "id": "mn146:21.1",
+      "pali": "Taṁ kiṁ maññatha, bhaginiyo, cakkhuviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:21.2",
+      "pali": "“Aniccaṁ, bhante …pe…"
+    },
+    {
+      "id": "mn146:21.3",
+      "pali": "sotaviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:21.4",
+      "pali": "“Aniccaṁ, bhante …"
+    },
+    {
+      "id": "mn146:21.5",
+      "pali": "ghānaviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:21.6",
+      "pali": "“Aniccaṁ, bhante …"
+    },
+    {
+      "id": "mn146:21.7",
+      "pali": "jivhāviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:21.8",
+      "pali": "“Aniccaṁ, bhante …"
+    },
+    {
+      "id": "mn146:21.9",
+      "pali": "kāyaviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:21.10",
+      "pali": "“Aniccaṁ, bhante …"
+    },
+    {
+      "id": "mn146:21.11",
+      "pali": "manoviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:21.12",
+      "pali": "“Aniccaṁ, bhante”."
+    },
+    {
+      "id": "mn146:21.13",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn146:21.14",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn146:21.15",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn146:21.16",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn146:21.17",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:21.18",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:21.19",
+      "pali": "“Pubbeva no etaṁ, bhante, yathābhūtaṁ sammappaññāya sudiṭṭhaṁ:"
+    },
+    {
+      "id": "mn146:21.20",
+      "pali": "‘itipime cha viññāṇakāyā aniccā’”ti."
+    },
+    {
+      "id": "mn146:21.21",
+      "pali": "“Sādhu sādhu, bhaginiyo."
+    },
+    {
+      "id": "mn146:21.22",
+      "pali": "Evañhetaṁ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṁ sammappaññāya passato."
+    },
+    {
+      "id": "mn146:22.1",
+      "pali": "Seyyathāpi, bhaginiyo, telappadīpassa jhāyato telampi aniccaṁ vipariṇāmadhammaṁ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā, ābhāpi aniccā vipariṇāmadhammā."
+    },
+    {
+      "id": "mn146:22.2",
+      "pali": "Yo nu kho, bhaginiyo, evaṁ vadeyya:"
+    },
+    {
+      "id": "mn146:22.3",
+      "pali": "‘amussa telappadīpassa jhāyato telampi aniccaṁ vipariṇāmadhammaṁ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā;"
+    },
+    {
+      "id": "mn146:22.4",
+      "pali": "yā ca khvāssa ābhā sā niccā dhuvā sassatā avipariṇāmadhammā’ti;"
+    },
+    {
+      "id": "mn146:22.5",
+      "pali": "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
+    },
+    {
+      "id": "mn146:22.6",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:22.7",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:22.8",
+      "pali": "“Amussa hi, bhante, telappadīpassa jhāyato telampi aniccaṁ vipariṇāmadhammaṁ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā;"
+    },
+    {
+      "id": "mn146:22.9",
+      "pali": "pagevassa ābhā aniccā vipariṇāmadhammā”ti."
+    },
+    {
+      "id": "mn146:22.10",
+      "pali": "“Evameva kho, bhaginiyo, yo nu kho evaṁ vadeyya:"
+    },
+    {
+      "id": "mn146:22.11",
+      "pali": "‘cha khome ajjhattikā āyatanā aniccā."
+    },
+    {
+      "id": "mn146:22.12",
+      "pali": "Yañca kho cha ajjhattike āyatane paṭicca paṭisaṁvedeti sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā taṁ niccaṁ dhuvaṁ sassataṁ avipariṇāmadhamman’ti;"
+    },
+    {
+      "id": "mn146:22.13",
+      "pali": "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
+    },
+    {
+      "id": "mn146:22.14",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:22.15",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:22.16",
+      "pali": "“Tajjaṁ tajjaṁ, bhante, paccayaṁ paṭicca tajjā tajjā vedanā uppajjanti."
+    },
+    {
+      "id": "mn146:22.17",
+      "pali": "Tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhantī”ti."
+    },
+    {
+      "id": "mn146:22.18",
+      "pali": "“Sādhu sādhu, bhaginiyo."
+    },
+    {
+      "id": "mn146:22.19",
+      "pali": "Evañhetaṁ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṁ sammappaññāya passato."
+    },
+    {
+      "id": "mn146:23.1",
+      "pali": "Seyyathāpi, bhaginiyo, mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṁ vipariṇāmadhammaṁ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṁ vipariṇāmadhammaṁ, chāyāpi aniccā vipariṇāmadhammā."
+    },
+    {
+      "id": "mn146:23.2",
+      "pali": "Yo nu kho, bhaginiyo, evaṁ vadeyya:"
+    },
+    {
+      "id": "mn146:23.3",
+      "pali": "‘amussa mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṁ vipariṇāmadhammaṁ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṁ vipariṇāmadhammaṁ;"
+    },
+    {
+      "id": "mn146:23.4",
+      "pali": "yā ca khvāssa chāyā sā niccā dhuvā sassatā avipariṇāmadhammā’ti;"
+    },
+    {
+      "id": "mn146:23.5",
+      "pali": "sammā nu kho so bhaginiyo, vadamāno vadeyyā”ti?"
+    },
+    {
+      "id": "mn146:23.6",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:23.7",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:23.8",
+      "pali": "“Amussa hi, bhante, mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṁ vipariṇāmadhammaṁ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṁ vipariṇāmadhammaṁ;"
+    },
+    {
+      "id": "mn146:23.9",
+      "pali": "pagevassa chāyā aniccā vipariṇāmadhammā”ti."
+    },
+    {
+      "id": "mn146:23.10",
+      "pali": "“Evameva kho, bhaginiyo, yo nu kho evaṁ vadeyya:"
+    },
+    {
+      "id": "mn146:23.11",
+      "pali": "‘cha khome bāhirā āyatanā aniccā."
+    },
+    {
+      "id": "mn146:23.12",
+      "pali": "Yañca kho bāhire āyatane paṭicca paṭisaṁvedeti sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā taṁ niccaṁ dhuvaṁ sassataṁ avipariṇāmadhamman’ti;"
+    },
+    {
+      "id": "mn146:23.13",
+      "pali": "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
+    },
+    {
+      "id": "mn146:23.14",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:23.15",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:23.16",
+      "pali": "“Tajjaṁ tajjaṁ, bhante, paccayaṁ paṭicca tajjā tajjā vedanā uppajjanti."
+    },
+    {
+      "id": "mn146:23.17",
+      "pali": "Tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhantī”ti."
+    },
+    {
+      "id": "mn146:23.18",
+      "pali": "“Sādhu sādhu, bhaginiyo."
+    },
+    {
+      "id": "mn146:23.19",
+      "pali": "Evañhetaṁ, bhaginiyo, hoti ariyasāvakassa yathābhūtaṁ sammappaññāya passato."
+    },
+    {
+      "id": "mn146:24.1",
+      "pali": "Seyyathāpi, bhaginiyo, dakkho goghātako vā goghātakantevāsī vā gāviṁ vadhitvā tiṇhena govikantanena gāviṁ saṅkanteyya anupahacca antaraṁ maṁsakāyaṁ anupahacca bāhiraṁ cammakāyaṁ."
+    },
+    {
+      "id": "mn146:24.2",
+      "pali": "Yaṁ yadeva tattha antarā vilimaṁsaṁ antarā nhāru antarā bandhanaṁ taṁ tadeva tiṇhena govikantanena sañchindeyya saṅkanteyya sampakanteyya samparikanteyya."
+    },
+    {
+      "id": "mn146:24.3",
+      "pali": "Sañchinditvā saṅkantitvā sampakantitvā samparikantitvā vidhunitvā bāhiraṁ cammakāyaṁ teneva cammena taṁ gāviṁ paṭicchādetvā evaṁ vadeyya:"
+    },
+    {
+      "id": "mn146:24.4",
+      "pali": "‘tathevāyaṁ gāvī saṁyuttā imināva cammenā’ti;"
+    },
+    {
+      "id": "mn146:24.5",
+      "pali": "sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?"
+    },
+    {
+      "id": "mn146:24.6",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn146:24.7",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn146:24.8",
+      "pali": "“Amu hi, bhante, dakkho goghātako vā goghātakantevāsī vā gāviṁ vadhitvā tiṇhena govikantanena gāviṁ saṅkanteyya anupahacca antaraṁ maṁsakāyaṁ anupahacca bāhiraṁ cammakāyaṁ."
+    },
+    {
+      "id": "mn146:24.9",
+      "pali": "Yaṁ yadeva tattha antarā vilimaṁsaṁ antarā nhāru antarā bandhanaṁ taṁ tadeva tiṇhena govikantanena sañchindeyya saṅkanteyya sampakanteyya samparikanteyya."
+    },
+    {
+      "id": "mn146:24.10",
+      "pali": "Sañchinditvā saṅkantitvā sampakantitvā samparikantitvā vidhunitvā bāhiraṁ cammakāyaṁ teneva cammena taṁ gāviṁ paṭicchādetvā kiñcāpi so evaṁ vadeyya:"
+    },
+    {
+      "id": "mn146:24.11",
+      "pali": "‘tathevāyaṁ gāvī saṁyuttā imināva cammenā’ti;"
+    },
+    {
+      "id": "mn146:24.12",
+      "pali": "atha kho sā gāvī visaṁyuttā teneva cammenā”ti."
+    },
+    {
+      "id": "mn146:25.1",
+      "pali": "“Upamā kho me ayaṁ, bhaginiyo, katā atthassa viññāpanāya ayamevettha attho."
+    },
+    {
+      "id": "mn146:25.2",
+      "pali": "‘Antarā maṁsakāyo’ti kho, bhaginiyo, channetaṁ ajjhattikānaṁ āyatanānaṁ adhivacanaṁ;"
+    },
+    {
+      "id": "mn146:25.3",
+      "pali": "‘bāhiro cammakāyo’ti kho, bhaginiyo, channetaṁ bāhirānaṁ āyatanānaṁ adhivacanaṁ;"
+    },
+    {
+      "id": "mn146:25.4",
+      "pali": "‘antarā vilimaṁsaṁ antarā nhāru antarā bandhanan’ti kho, bhaginiyo, nandīrāgassetaṁ adhivacanaṁ;"
+    },
+    {
+      "id": "mn146:25.5",
+      "pali": "‘tiṇhaṁ govikantanan’ti kho, bhaginiyo, ariyāyetaṁ paññāya adhivacanaṁ;"
+    },
+    {
+      "id": "mn146:25.6",
+      "pali": "yāyaṁ ariyā paññā antarā kilesaṁ antarā saṁyojanaṁ antarā bandhanaṁ sañchindati saṅkantati sampakantati samparikantati."
+    },
+    {
+      "id": "mn146:26.1",
+      "pali": "Satta kho panime, bhaginiyo, bojjhaṅgā, yesaṁ bhāvitattā bahulīkatattā bhikkhu āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati."
+    },
+    {
+      "id": "mn146:26.2",
+      "pali": "Katame satta?"
+    },
+    {
+      "id": "mn146:26.3",
+      "pali": "Idha, bhaginiyo, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ."
+    },
+    {
+      "id": "mn146:26.4",
+      "pali": "Dhammavicayasambojjhaṅgaṁ bhāveti …pe…"
+    },
+    {
+      "id": "mn146:26.5",
+      "pali": "vīriyasambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn146:26.6",
+      "pali": "pītisambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn146:26.7",
+      "pali": "passaddhisambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn146:26.8",
+      "pali": "samādhisambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn146:26.9",
+      "pali": "upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ."
+    },
+    {
+      "id": "mn146:26.10",
+      "pali": "Ime kho, bhaginiyo, satta bojjhaṅgā yesaṁ bhāvitattā bahulīkatattā bhikkhu āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharatī”ti."
+    },
+    {
+      "id": "mn146:26.11",
+      "pali": "Atha kho āyasmā nandako tā bhikkhuniyo iminā ovādena ovaditvā uyyojesi:"
+    },
+    {
+      "id": "mn146:26.12",
+      "pali": "“gacchatha, bhaginiyo; kālo”ti."
+    },
+    {
+      "id": "mn146:26.13",
+      "pali": "Atha kho tā bhikkhuniyo āyasmato nandakassa bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā āyasmantaṁ nandakaṁ abhivādetvā padakkhiṇaṁ katvā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho tā bhikkhuniyo bhagavā etadavoca:"
+    },
+    {
+      "id": "mn146:26.14",
+      "pali": "“gacchatha, bhikkhuniyo; kālo”ti."
+    },
+    {
+      "id": "mn146:26.15",
+      "pali": "Atha kho tā bhikkhuniyo bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkamiṁsu."
+    },
+    {
+      "id": "mn146:27.1",
+      "pali": "Atha kho bhagavā acirapakkantīsu tāsu bhikkhunīsu bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn146:27.2",
+      "pali": "“seyyathāpi, bhikkhave, tadahuposathe pannarase na hoti bahuno janassa kaṅkhā vā vimati vā:"
+    },
+    {
+      "id": "mn146:27.3",
+      "pali": "‘ūno nu kho cando, puṇṇo nu kho cando’ti, atha kho puṇṇo cando tveva hoti;"
+    },
+    {
+      "id": "mn146:27.4",
+      "pali": "evameva kho, bhikkhave, tā bhikkhuniyo nandakassa dhammadesanāya attamanā ceva paripuṇṇasaṅkappā ca."
+    },
+    {
+      "id": "mn146:27.5",
+      "pali": "Tāsaṁ, bhikkhave, pañcannaṁ bhikkhunisatānaṁ yā pacchimikā bhikkhunī sā sotāpannā avinipātadhammā niyatā sambodhiparāyanā”ti."
+    },
+    {
+      "id": "mn146:27.6",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn146:27.7",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn146:27.8",
+      "pali": "Nandakovādasuttaṁ niṭṭhitaṁ catutthaṁ."
+    }
+  ]
+}

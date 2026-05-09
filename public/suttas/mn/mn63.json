@@ -1,0 +1,727 @@
+{
+  "uid": "mn63",
+  "title": "Cūḷamālukyasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn63:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn63:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn63:2.1",
+      "pali": "Atha kho āyasmato mālukyaputtassa rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi:"
+    },
+    {
+      "id": "mn63:2.2",
+      "pali": "“yānimāni diṭṭhigatāni bhagavatā abyākatāni ṭhapitāni paṭikkhittāni:"
+    },
+    {
+      "id": "mn63:2.3",
+      "pali": "‘sassato loko’tipi, ‘asassato loko’tipi, ‘antavā loko’tipi, ‘anantavā loko’tipi, ‘taṁ jīvaṁ taṁ sarīran’tipi, ‘aññaṁ jīvaṁ aññaṁ sarīran’tipi, ‘hoti tathāgato paraṁ maraṇā’tipi, ‘na hoti tathāgato paraṁ maraṇā’tipi, ‘hoti ca na ca hoti tathāgato paraṁ maraṇā’tipi, ‘neva hoti na na hoti tathāgato paraṁ maraṇā’tipi—"
+    },
+    {
+      "id": "mn63:2.4",
+      "pali": "tāni me bhagavā na byākaroti."
+    },
+    {
+      "id": "mn63:2.5",
+      "pali": "Yāni me bhagavā na byākaroti taṁ me na ruccati, taṁ me nakkhamati."
+    },
+    {
+      "id": "mn63:2.6",
+      "pali": "Sohaṁ bhagavantaṁ upasaṅkamitvā etamatthaṁ pucchissāmi."
+    },
+    {
+      "id": "mn63:2.7",
+      "pali": "Sace me bhagavā byākarissati:"
+    },
+    {
+      "id": "mn63:2.8",
+      "pali": "‘sassato loko’ti vā ‘asassato loko’ti vā …pe…"
+    },
+    {
+      "id": "mn63:2.9",
+      "pali": "‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti vā—"
+    },
+    {
+      "id": "mn63:2.10",
+      "pali": "evāhaṁ bhagavati brahmacariyaṁ carissāmi;"
+    },
+    {
+      "id": "mn63:2.11",
+      "pali": "no ce me bhagavā byākarissati:"
+    },
+    {
+      "id": "mn63:2.12",
+      "pali": "‘sassato loko’ti vā ‘asassato loko’ti vā …pe…"
+    },
+    {
+      "id": "mn63:2.13",
+      "pali": "‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti vā—"
+    },
+    {
+      "id": "mn63:2.14",
+      "pali": "evāhaṁ sikkhaṁ paccakkhāya hīnāyāvattissāmī”ti."
+    },
+    {
+      "id": "mn63:3.1",
+      "pali": "Atha kho āyasmā mālukyaputto sāyanhasamayaṁ paṭisallānā vuṭṭhito yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā mālukyaputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn63:3.2",
+      "pali": "“Idha mayhaṁ, bhante, rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi—"
+    },
+    {
+      "id": "mn63:3.3",
+      "pali": "yānimāni diṭṭhigatāni bhagavatā abyākatāni ṭhapitāni paṭikkhittāni:"
+    },
+    {
+      "id": "mn63:3.4",
+      "pali": "‘sassato loko’tipi, ‘asassato loko’tipi …pe…"
+    },
+    {
+      "id": "mn63:3.5",
+      "pali": "‘neva hoti na na hoti tathāgato paraṁ maraṇā’tipi—"
+    },
+    {
+      "id": "mn63:3.6",
+      "pali": "tāni me bhagavā na byākaroti."
+    },
+    {
+      "id": "mn63:3.7",
+      "pali": "Yāni me bhagavā na byākaroti taṁ me na ruccati, taṁ me nakkhamati."
+    },
+    {
+      "id": "mn63:3.8",
+      "pali": "Sohaṁ bhagavantaṁ upasaṅkamitvā etamatthaṁ pucchissāmi."
+    },
+    {
+      "id": "mn63:3.9",
+      "pali": "Sace me bhagavā byākarissati:"
+    },
+    {
+      "id": "mn63:3.10",
+      "pali": "‘sassato loko’ti vā, ‘asassato loko’ti vā …pe…"
+    },
+    {
+      "id": "mn63:3.11",
+      "pali": "‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti vā—"
+    },
+    {
+      "id": "mn63:3.12",
+      "pali": "evāhaṁ bhagavati, brahmacariyaṁ carissāmi."
+    },
+    {
+      "id": "mn63:3.13",
+      "pali": "No ce me bhagavā byākarissati:"
+    },
+    {
+      "id": "mn63:3.14",
+      "pali": "‘sassato loko’ti vā, ‘asassato loko’ti vā …pe…"
+    },
+    {
+      "id": "mn63:3.15",
+      "pali": "‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti vā—"
+    },
+    {
+      "id": "mn63:3.16",
+      "pali": "evāhaṁ sikkhaṁ paccakkhāya hīnāyāvattissāmīti."
+    },
+    {
+      "id": "mn63:3.17",
+      "pali": "Sace bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.18",
+      "pali": "‘sassato loko’ti, ‘sassato loko’ti me bhagavā byākarotu;"
+    },
+    {
+      "id": "mn63:3.19",
+      "pali": "sace bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.20",
+      "pali": "‘asassato loko’ti, ‘asassato loko’ti me bhagavā byākarotu."
+    },
+    {
+      "id": "mn63:3.21",
+      "pali": "No ce bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.22",
+      "pali": "‘sassato loko’ti vā, ‘asassato loko’ti vā, ajānato kho pana apassato etadeva ujukaṁ hoti yadidaṁ:"
+    },
+    {
+      "id": "mn63:3.23",
+      "pali": "‘na jānāmi, na passāmī’ti."
+    },
+    {
+      "id": "mn63:3.24",
+      "pali": "Sace bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.25",
+      "pali": "‘antavā loko’ti, ‘anantavā loko’ti me bhagavā byākarotu;"
+    },
+    {
+      "id": "mn63:3.26",
+      "pali": "sace bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.27",
+      "pali": "‘anantavā loko’ti, ‘anantavā loko’ti me bhagavā byākarotu."
+    },
+    {
+      "id": "mn63:3.28",
+      "pali": "No ce bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.29",
+      "pali": "‘antavā loko’ti vā, ‘anantavā loko’ti vā, ajānato kho pana apassato etadeva ujukaṁ hoti yadidaṁ:"
+    },
+    {
+      "id": "mn63:3.30",
+      "pali": "‘na jānāmi, na passāmī’ti."
+    },
+    {
+      "id": "mn63:3.31",
+      "pali": "Sace bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.32",
+      "pali": "‘taṁ jīvaṁ taṁ sarīran’ti, ‘taṁ jīvaṁ taṁ sarīran’ti me bhagavā byākarotu;"
+    },
+    {
+      "id": "mn63:3.33",
+      "pali": "sace bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.34",
+      "pali": "‘aññaṁ jīvaṁ aññaṁ sarīran’ti, ‘aññaṁ jīvaṁ aññaṁ sarīran’ti me bhagavā byākarotu."
+    },
+    {
+      "id": "mn63:3.35",
+      "pali": "No ce bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.36",
+      "pali": "‘taṁ jīvaṁ taṁ sarīran’ti vā, ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vā, ajānato kho pana apassato etadeva ujukaṁ hoti yadidaṁ:"
+    },
+    {
+      "id": "mn63:3.37",
+      "pali": "‘na jānāmi, na passāmī’ti."
+    },
+    {
+      "id": "mn63:3.38",
+      "pali": "Sace bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.39",
+      "pali": "‘hoti tathāgato paraṁ maraṇā’ti, ‘hoti tathāgato paraṁ maraṇā’ti me bhagavā byākarotu;"
+    },
+    {
+      "id": "mn63:3.40",
+      "pali": "sace bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.41",
+      "pali": "‘na hoti tathāgato paraṁ maraṇā’ti, ‘na hoti tathāgato paraṁ maraṇā’ti me bhagavā byākarotu."
+    },
+    {
+      "id": "mn63:3.42",
+      "pali": "No ce bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.43",
+      "pali": "‘hoti tathāgato paraṁ maraṇā’ti vā, ‘na hoti tathāgato paraṁ maraṇā’ti vā, ajānato kho pana apassato etadeva ujukaṁ hoti yadidaṁ:"
+    },
+    {
+      "id": "mn63:3.44",
+      "pali": "‘na jānāmi na passāmī’ti."
+    },
+    {
+      "id": "mn63:3.45",
+      "pali": "Sace bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.46",
+      "pali": "‘hoti ca na ca hoti tathāgato paraṁ maraṇā’ti, ‘hoti ca na ca hoti tathāgato paraṁ maraṇā’ti me bhagavā byākarotu;"
+    },
+    {
+      "id": "mn63:3.47",
+      "pali": "sace bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.48",
+      "pali": "‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti, ‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti me bhagavā byākarotu."
+    },
+    {
+      "id": "mn63:3.49",
+      "pali": "No ce bhagavā jānāti:"
+    },
+    {
+      "id": "mn63:3.50",
+      "pali": "‘hoti ca na ca hoti tathāgato paraṁ maraṇā’ti vā, ‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti vā, ajānato kho pana apassato etadeva ujukaṁ hoti yadidaṁ:"
+    },
+    {
+      "id": "mn63:3.51",
+      "pali": "‘na jānāmi, na passāmī’”ti."
+    },
+    {
+      "id": "mn63:4.1",
+      "pali": "“Kiṁ nu tāhaṁ, mālukyaputta, evaṁ avacaṁ:"
+    },
+    {
+      "id": "mn63:4.2",
+      "pali": "‘ehi tvaṁ, mālukyaputta, mayi brahmacariyaṁ cara, ahaṁ te byākarissāmi:"
+    },
+    {
+      "id": "mn63:4.3",
+      "pali": "“sassato loko”ti vā, “asassato loko”ti vā, “antavā loko”ti vā, “anantavā loko”ti vā, “taṁ jīvaṁ taṁ sarīran”ti vā, “aññaṁ jīvaṁ aññaṁ sarīran”ti vā, “hoti tathāgato paraṁ maraṇā”ti vā, “na hoti tathāgato paraṁ maraṇā”ti vā, “hoti ca na ca hoti tathāgato paraṁ maraṇā”ti vā, “neva hoti na na hoti tathāgato paraṁ maraṇā”ti vā’”ti?"
+    },
+    {
+      "id": "mn63:4.4",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn63:4.5",
+      "pali": "“Tvaṁ vā pana maṁ evaṁ avaca:"
+    },
+    {
+      "id": "mn63:4.6",
+      "pali": "‘ahaṁ, bhante, bhagavati brahmacariyaṁ carissāmi, bhagavā me byākarissati:"
+    },
+    {
+      "id": "mn63:4.7",
+      "pali": "“sassato loko”ti vā, “asassato loko”ti vā, “antavā loko”ti vā, “anantavā loko”ti vā, “taṁ jīvaṁ taṁ sarīran”ti vā, “aññaṁ jīvaṁ aññaṁ sarīran”ti vā, “hoti tathāgato paraṁ maraṇā”ti vā, “na hoti tathāgato paraṁ maraṇā”ti vā, “hoti ca na ca hoti tathāgato paraṁ maraṇā”ti vā, “neva hoti na na hoti tathāgato paraṁ maraṇā”ti vā’”ti?"
+    },
+    {
+      "id": "mn63:4.8",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn63:4.9",
+      "pali": "“Iti kira, mālukyaputta, nevāhaṁ taṁ vadāmi:"
+    },
+    {
+      "id": "mn63:4.10",
+      "pali": "‘ehi tvaṁ, mālukyaputta, mayi brahmacariyaṁ cara, ahaṁ te byākarissāmi:"
+    },
+    {
+      "id": "mn63:4.11",
+      "pali": "“sassato loko”ti vā, “asassato loko”ti vā …pe…"
+    },
+    {
+      "id": "mn63:4.12",
+      "pali": "“neva hoti na na hoti tathāgato paraṁ maraṇāti vā”’ti;"
+    },
+    {
+      "id": "mn63:4.13",
+      "pali": "napi kira maṁ tvaṁ vadesi:"
+    },
+    {
+      "id": "mn63:4.14",
+      "pali": "‘ahaṁ, bhante, bhagavati brahmacariyaṁ carissāmi, bhagavā me byākarissati:"
+    },
+    {
+      "id": "mn63:4.15",
+      "pali": "“sassato loko”ti vā “asassato loko”ti vā …pe…"
+    },
+    {
+      "id": "mn63:4.16",
+      "pali": "“neva hoti na na hoti tathāgato paraṁ maraṇā”ti vā’ti."
+    },
+    {
+      "id": "mn63:4.17",
+      "pali": "Evaṁ sante, moghapurisa, ko santo kaṁ paccācikkhasi?"
+    },
+    {
+      "id": "mn63:5.1",
+      "pali": "Yo kho, mālukyaputta, evaṁ vadeyya:"
+    },
+    {
+      "id": "mn63:5.2",
+      "pali": "‘na tāvāhaṁ bhagavati brahmacariyaṁ carissāmi yāva me bhagavā na byākarissati:"
+    },
+    {
+      "id": "mn63:5.3",
+      "pali": "“sassato loko”ti vā, “asassato loko”ti vā …pe…"
+    },
+    {
+      "id": "mn63:5.4",
+      "pali": "“neva hoti na na hoti tathāgato paraṁ maraṇā”ti vā’ti,"
+    },
+    {
+      "id": "mn63:5.5",
+      "pali": "abyākatameva taṁ, mālukyaputta, tathāgatena assa, atha so puggalo kālaṁ kareyya."
+    },
+    {
+      "id": "mn63:5.6",
+      "pali": "Seyyathāpi, mālukyaputta, puriso sallena viddho assa savisena gāḷhapalepanena."
+    },
+    {
+      "id": "mn63:5.7",
+      "pali": "Tassa mittāmaccā ñātisālohitā bhisakkaṁ sallakattaṁ upaṭṭhapeyyuṁ."
+    },
+    {
+      "id": "mn63:5.8",
+      "pali": "So evaṁ vadeyya:"
+    },
+    {
+      "id": "mn63:5.9",
+      "pali": "‘na tāvāhaṁ imaṁ sallaṁ āharissāmi yāva na taṁ purisaṁ jānāmi yenamhi viddho, khattiyo vā brāhmaṇo vā vesso vā suddo vā’ti;"
+    },
+    {
+      "id": "mn63:5.10",
+      "pali": "so evaṁ vadeyya:"
+    },
+    {
+      "id": "mn63:5.11",
+      "pali": "‘na tāvāhaṁ imaṁ sallaṁ āharissāmi yāva na taṁ purisaṁ jānāmi yenamhi viddho, evaṁnāmo evaṅgotto iti vā’ti;"
+    },
+    {
+      "id": "mn63:5.12",
+      "pali": "so evaṁ vadeyya:"
+    },
+    {
+      "id": "mn63:5.13",
+      "pali": "‘na tāvāhaṁ imaṁ sallaṁ āharissāmi yāva na taṁ purisaṁ jānāmi yenamhi viddho, dīgho vā rasso vā majjhimo vā’ti;"
+    },
+    {
+      "id": "mn63:5.14",
+      "pali": "so evaṁ vadeyya:"
+    },
+    {
+      "id": "mn63:5.15",
+      "pali": "‘na tāvāhaṁ imaṁ sallaṁ āharissāmi yāva na taṁ purisaṁ jānāmi yenamhi viddho, kāḷo vā sāmo vā maṅguracchavī vā’ti;"
+    },
+    {
+      "id": "mn63:5.16",
+      "pali": "so evaṁ vadeyya:"
+    },
+    {
+      "id": "mn63:5.17",
+      "pali": "‘na tāvāhaṁ imaṁ sallaṁ āharissāmi yāva na taṁ purisaṁ jānāmi yenamhi viddho, amukasmiṁ gāme vā nigame vā nagare vā’ti;"
+    },
+    {
+      "id": "mn63:5.18",
+      "pali": "so evaṁ vadeyya:"
+    },
+    {
+      "id": "mn63:5.19",
+      "pali": "‘na tāvāhaṁ imaṁ sallaṁ āharissāmi yāva na taṁ dhanuṁ jānāmi yenamhi viddho, yadi vā cāpo yadi vā kodaṇḍo’ti;"
+    },
+    {
+      "id": "mn63:5.20",
+      "pali": "so evaṁ vadeyya:"
+    },
+    {
+      "id": "mn63:5.21",
+      "pali": "‘na tāvāhaṁ imaṁ sallaṁ āharissāmi yāva na taṁ jiyaṁ jānāmi yāyamhi viddho, yadi vā akkassa yadi vā saṇhassa yadi vā nhārussa yadi vā maruvāya yadi vā khīrapaṇṇino’ti;"
+    },
+    {
+      "id": "mn63:5.22",
+      "pali": "so evaṁ vadeyya:"
+    },
+    {
+      "id": "mn63:5.23",
+      "pali": "‘na tāvāhaṁ imaṁ sallaṁ āharissāmi yāva na taṁ kaṇḍaṁ jānāmi yenamhi viddho, yadi vā gacchaṁ yadi vā ropiman’ti;"
+    },
+    {
+      "id": "mn63:5.24",
+      "pali": "so evaṁ vadeyya:"
+    },
+    {
+      "id": "mn63:5.25",
+      "pali": "‘na tāvāhaṁ imaṁ sallaṁ āharissāmi yāva na taṁ kaṇḍaṁ jānāmi yenamhi viddho, yassa pattehi vājitaṁ yadi vā gijjhassa yadi vā kaṅkassa yadi vā kulalassa yadi vā morassa yadi vā sithilahanuno’ti;"
+    },
+    {
+      "id": "mn63:5.26",
+      "pali": "so evaṁ vadeyya:"
+    },
+    {
+      "id": "mn63:5.27",
+      "pali": "‘na tāvāhaṁ imaṁ sallaṁ āharissāmi yāva na taṁ kaṇḍaṁ jānāmi yenamhi viddho, yassa nhārunā parikkhittaṁ yadi vā gavassa yadi vā mahiṁsassa yadi vā bheravassa yadi vā semhārassā’ti;"
+    },
+    {
+      "id": "mn63:5.28",
+      "pali": "so evaṁ vadeyya:"
+    },
+    {
+      "id": "mn63:5.29",
+      "pali": "‘na tāvāhaṁ imaṁ sallaṁ āharissāmi yāva na taṁ sallaṁ jānāmi yenamhi viddho, yadi vā sallaṁ yadi vā khurappaṁ yadi vā vekaṇḍaṁ yadi vā nārācaṁ yadi vā vacchadantaṁ yadi vā karavīrapattan’ti—"
+    },
+    {
+      "id": "mn63:5.30",
+      "pali": "aññātameva taṁ, mālukyaputta, tena purisena assa, atha so puriso kālaṁ kareyya."
+    },
+    {
+      "id": "mn63:5.31",
+      "pali": "Evameva kho, mālukyaputta, yo evaṁ vadeyya:"
+    },
+    {
+      "id": "mn63:5.32",
+      "pali": "‘na tāvāhaṁ bhagavati brahmacariyaṁ carissāmi yāva me bhagavā na byākarissati:"
+    },
+    {
+      "id": "mn63:5.33",
+      "pali": "“sassato loko”ti vā “asassato loko”ti vā …pe…"
+    },
+    {
+      "id": "mn63:5.34",
+      "pali": "“neva hoti na na hoti tathāgato paraṁ maraṇā”ti vā’ti—"
+    },
+    {
+      "id": "mn63:5.35",
+      "pali": "abyākatameva taṁ, mālukyaputta, tathāgatena assa, atha so puggalo kālaṁ kareyya."
+    },
+    {
+      "id": "mn63:6.1",
+      "pali": "‘Sassato loko’ti, mālukyaputta, diṭṭhiyā sati brahmacariyavāso abhavissāti, evaṁ no."
+    },
+    {
+      "id": "mn63:6.2",
+      "pali": "‘Asassato loko’ti, mālukyaputta, diṭṭhiyā sati brahmacariyavāso abhavissāti, evampi no."
+    },
+    {
+      "id": "mn63:6.3",
+      "pali": "‘Sassato loko’ti vā, mālukyaputta, diṭṭhiyā sati, ‘asassato loko’ti vā diṭṭhiyā sati attheva jāti, atthi jarā, atthi maraṇaṁ, santi sokaparidevadukkhadomanassupāyāsā;"
+    },
+    {
+      "id": "mn63:6.4",
+      "pali": "yesāhaṁ diṭṭheva dhamme nighātaṁ paññapemi."
+    },
+    {
+      "id": "mn63:6.5",
+      "pali": "‘Antavā loko’ti, mālukyaputta, diṭṭhiyā sati brahmacariyavāso abhavissāti, evaṁ no."
+    },
+    {
+      "id": "mn63:6.6",
+      "pali": "‘Anantavā loko’ti, mālukyaputta, diṭṭhiyā sati brahmacariyavāso abhavissāti, evampi no."
+    },
+    {
+      "id": "mn63:6.7",
+      "pali": "‘Antavā loko’ti vā, mālukyaputta, diṭṭhiyā sati, ‘anantavā loko’ti vā diṭṭhiyā sati attheva jāti, atthi jarā, atthi maraṇaṁ, santi sokaparidevadukkhadomanassupāyāsā;"
+    },
+    {
+      "id": "mn63:6.8",
+      "pali": "yesāhaṁ diṭṭheva dhamme nighātaṁ paññapemi."
+    },
+    {
+      "id": "mn63:6.9",
+      "pali": "‘Taṁ jīvaṁ taṁ sarīran’ti, mālukyaputta, diṭṭhiyā sati brahmacariyavāso abhavissāti, evaṁ no."
+    },
+    {
+      "id": "mn63:6.10",
+      "pali": "‘Aññaṁ jīvaṁ aññaṁ sarīran’ti, mālukyaputta, diṭṭhiyā sati brahmacariyavāso abhavissāti, evampi no."
+    },
+    {
+      "id": "mn63:6.11",
+      "pali": "‘Taṁ jīvaṁ taṁ sarīran’ti vā, mālukyaputta, diṭṭhiyā sati, ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vā diṭṭhiyā sati attheva jāti …pe…"
+    },
+    {
+      "id": "mn63:6.12",
+      "pali": "nighātaṁ paññapemi."
+    },
+    {
+      "id": "mn63:6.13",
+      "pali": "‘Hoti tathāgato paraṁ maraṇā’ti, mālukyaputta, diṭṭhiyā sati brahmacariyavāso abhavissāti, evaṁ no."
+    },
+    {
+      "id": "mn63:6.14",
+      "pali": "‘Na hoti tathāgato paraṁ maraṇā’ti, mālukyaputta, diṭṭhiyā sati brahmacariyavāso abhavissāti, evampi no."
+    },
+    {
+      "id": "mn63:6.15",
+      "pali": "‘Hoti tathāgato paraṁ maraṇā’ti vā, mālukyaputta, diṭṭhiyā sati, ‘na hoti tathāgato paraṁ maraṇā’ti vā diṭṭhiyā sati attheva jāti …pe…"
+    },
+    {
+      "id": "mn63:6.16",
+      "pali": "yesāhaṁ diṭṭheva dhamme nighātaṁ paññapemi."
+    },
+    {
+      "id": "mn63:6.17",
+      "pali": "‘Hoti ca na ca hoti tathāgato paraṁ maraṇā’ti, mālukyaputta, diṭṭhiyā sati brahmacariyavāso abhavissāti, evaṁ no."
+    },
+    {
+      "id": "mn63:6.18",
+      "pali": "‘Neva hoti na na hoti tathāgato paraṁ maraṇā’ti, mālukyaputta, diṭṭhiyā sati brahmacariyavāso abhavissāti, evampi no."
+    },
+    {
+      "id": "mn63:6.19",
+      "pali": "‘Hoti ca na ca hoti tathāgato paraṁ maraṇā’ti, mālukyaputta, diṭṭhiyā sati, ‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti vā diṭṭhiyā sati attheva jāti …pe…"
+    },
+    {
+      "id": "mn63:6.20",
+      "pali": "yesāhaṁ diṭṭheva dhamme nighātaṁ paññapemi."
+    },
+    {
+      "id": "mn63:7.1",
+      "pali": "Tasmātiha, mālukyaputta, abyākatañca me abyākatato dhāretha;"
+    },
+    {
+      "id": "mn63:7.2",
+      "pali": "byākatañca me byākatato dhāretha."
+    },
+    {
+      "id": "mn63:7.3",
+      "pali": "Kiñca, mālukyaputta, mayā abyākataṁ?"
+    },
+    {
+      "id": "mn63:7.4",
+      "pali": "‘Sassato loko’ti mālukyaputta, mayā abyākataṁ;"
+    },
+    {
+      "id": "mn63:7.5",
+      "pali": "‘asassato loko’ti—"
+    },
+    {
+      "id": "mn63:7.6",
+      "pali": "mayā abyākataṁ;"
+    },
+    {
+      "id": "mn63:7.7",
+      "pali": "‘antavā loko’ti—"
+    },
+    {
+      "id": "mn63:7.8",
+      "pali": "mayā abyākataṁ;"
+    },
+    {
+      "id": "mn63:7.9",
+      "pali": "‘anantavā loko’ti—"
+    },
+    {
+      "id": "mn63:7.10",
+      "pali": "mayā abyākataṁ;"
+    },
+    {
+      "id": "mn63:7.11",
+      "pali": "‘taṁ jīvaṁ taṁ sarīran’ti—"
+    },
+    {
+      "id": "mn63:7.12",
+      "pali": "mayā abyākataṁ;"
+    },
+    {
+      "id": "mn63:7.13",
+      "pali": "‘aññaṁ jīvaṁ aññaṁ sarīran’ti—"
+    },
+    {
+      "id": "mn63:7.14",
+      "pali": "mayā abyākataṁ;"
+    },
+    {
+      "id": "mn63:7.15",
+      "pali": "‘hoti tathāgato paraṁ maraṇā’ti—"
+    },
+    {
+      "id": "mn63:7.16",
+      "pali": "mayā abyākataṁ;"
+    },
+    {
+      "id": "mn63:7.17",
+      "pali": "‘na hoti tathāgato paraṁ maraṇā’ti—"
+    },
+    {
+      "id": "mn63:7.18",
+      "pali": "mayā abyākataṁ;"
+    },
+    {
+      "id": "mn63:7.19",
+      "pali": "‘hoti ca na ca hoti tathāgato paraṁ maraṇā’ti—"
+    },
+    {
+      "id": "mn63:7.20",
+      "pali": "mayā abyākataṁ;"
+    },
+    {
+      "id": "mn63:7.21",
+      "pali": "‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti—"
+    },
+    {
+      "id": "mn63:7.22",
+      "pali": "mayā abyākataṁ."
+    },
+    {
+      "id": "mn63:8.1",
+      "pali": "Kasmā cetaṁ, mālukyaputta, mayā abyākataṁ?"
+    },
+    {
+      "id": "mn63:8.2",
+      "pali": "Na hetaṁ, mālukyaputta, atthasaṁhitaṁ na ādibrahmacariyakaṁ na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati."
+    },
+    {
+      "id": "mn63:8.3",
+      "pali": "Tasmā taṁ mayā abyākataṁ."
+    },
+    {
+      "id": "mn63:9.1",
+      "pali": "Kiñca, mālukyaputta, mayā byākataṁ?"
+    },
+    {
+      "id": "mn63:9.2",
+      "pali": "‘Idaṁ dukkhan’ti, mālukyaputta, mayā byākataṁ;"
+    },
+    {
+      "id": "mn63:9.3",
+      "pali": "‘ayaṁ dukkhasamudayo’ti—"
+    },
+    {
+      "id": "mn63:9.4",
+      "pali": "mayā byākataṁ;"
+    },
+    {
+      "id": "mn63:9.5",
+      "pali": "‘ayaṁ dukkhanirodho’ti—"
+    },
+    {
+      "id": "mn63:9.6",
+      "pali": "mayā byākataṁ;"
+    },
+    {
+      "id": "mn63:9.7",
+      "pali": "‘ayaṁ dukkhanirodhagāminī paṭipadā’ti—"
+    },
+    {
+      "id": "mn63:9.8",
+      "pali": "mayā byākataṁ."
+    },
+    {
+      "id": "mn63:10.1",
+      "pali": "Kasmā cetaṁ, mālukyaputta, mayā byākataṁ?"
+    },
+    {
+      "id": "mn63:10.2",
+      "pali": "Etañhi, mālukyaputta, atthasaṁhitaṁ etaṁ ādibrahmacariyakaṁ nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati."
+    },
+    {
+      "id": "mn63:10.3",
+      "pali": "Tasmā taṁ mayā byākataṁ."
+    },
+    {
+      "id": "mn63:10.4",
+      "pali": "Tasmātiha, mālukyaputta, abyākatañca me abyākatato dhāretha;"
+    },
+    {
+      "id": "mn63:10.5",
+      "pali": "byākatañca me byākatato dhārethā”ti."
+    },
+    {
+      "id": "mn63:10.6",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn63:10.7",
+      "pali": "Attamano āyasmā mālukyaputto bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn63:10.8",
+      "pali": "Cūḷamālukyasuttaṁ niṭṭhitaṁ tatiyaṁ."
+    }
+  ]
+}

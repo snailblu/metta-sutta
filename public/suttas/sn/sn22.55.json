@@ -1,0 +1,343 @@
+{
+  "uid": "sn22.55",
+  "title": "Udānasutta",
+  "nikaya": "sn",
+  "segments": [
+    {
+      "id": "sn22.55:1.1",
+      "pali": "Sāvatthinidānaṁ."
+    },
+    {
+      "id": "sn22.55:1.2",
+      "pali": "Tatra kho bhagavā udānaṁ udānesi:"
+    },
+    {
+      "id": "sn22.55:1.3",
+      "pali": "“‘no cassaṁ, no ca me siyā, nābhavissa, na me bhavissatī’ti—"
+    },
+    {
+      "id": "sn22.55:1.4",
+      "pali": "evaṁ adhimuccamāno bhikkhu chindeyya orambhāgiyāni saṁyojanānī”ti."
+    },
+    {
+      "id": "sn22.55:1.5",
+      "pali": "Evaṁ vutte, aññataro bhikkhu bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "sn22.55:1.6",
+      "pali": "“yathā kathaṁ pana, bhante, ‘no cassaṁ, no ca me siyā, nābhavissa, na me bhavissatī’ti—"
+    },
+    {
+      "id": "sn22.55:1.7",
+      "pali": "evaṁ adhimuccamāno bhikkhu chindeyya orambhāgiyāni saṁyojanānī”ti?"
+    },
+    {
+      "id": "sn22.55:2.1",
+      "pali": "“Idha, bhikkhu, assutavā puthujjano ariyānaṁ adassāvī …pe…"
+    },
+    {
+      "id": "sn22.55:2.2",
+      "pali": "sappurisadhamme avinīto rūpaṁ attato samanupassati, rūpavantaṁ vā attānaṁ; attani vā rūpaṁ, rūpasmiṁ vā attānaṁ."
+    },
+    {
+      "id": "sn22.55:2.3",
+      "pali": "Vedanaṁ …"
+    },
+    {
+      "id": "sn22.55:2.4",
+      "pali": "saññaṁ …"
+    },
+    {
+      "id": "sn22.55:2.5",
+      "pali": "saṅkhāre …"
+    },
+    {
+      "id": "sn22.55:2.6",
+      "pali": "viññāṇaṁ attato samanupassati, viññāṇavantaṁ vā attānaṁ; attani vā viññāṇaṁ, viññāṇasmiṁ vā attānaṁ."
+    },
+    {
+      "id": "sn22.55:3.1",
+      "pali": "So aniccaṁ rūpaṁ ‘aniccaṁ rūpan’ti yathābhūtaṁ nappajānāti,"
+    },
+    {
+      "id": "sn22.55:3.2",
+      "pali": "aniccaṁ vedanaṁ ‘aniccā vedanā’ti yathābhūtaṁ nappajānāti,"
+    },
+    {
+      "id": "sn22.55:3.3",
+      "pali": "aniccaṁ saññaṁ ‘aniccā saññā’ti yathābhūtaṁ nappajānāti,"
+    },
+    {
+      "id": "sn22.55:3.4",
+      "pali": "anicce saṅkhāre ‘aniccā saṅkhārā’ti yathābhūtaṁ nappajānāti,"
+    },
+    {
+      "id": "sn22.55:3.5",
+      "pali": "aniccaṁ viññāṇaṁ ‘aniccaṁ viññāṇan’ti yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "sn22.55:4.1",
+      "pali": "Dukkhaṁ rūpaṁ ‘dukkhaṁ rūpan’ti yathābhūtaṁ nappajānāti,"
+    },
+    {
+      "id": "sn22.55:4.2",
+      "pali": "dukkhaṁ vedanaṁ …"
+    },
+    {
+      "id": "sn22.55:4.3",
+      "pali": "dukkhaṁ saññaṁ …"
+    },
+    {
+      "id": "sn22.55:4.4",
+      "pali": "dukkhe saṅkhāre …"
+    },
+    {
+      "id": "sn22.55:4.5",
+      "pali": "dukkhaṁ viññāṇaṁ ‘dukkhaṁ viññāṇan’ti yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "sn22.55:5.1",
+      "pali": "Anattaṁ rūpaṁ ‘anattā rūpan’ti yathābhūtaṁ nappajānāti,"
+    },
+    {
+      "id": "sn22.55:5.2",
+      "pali": "anattaṁ vedanaṁ ‘anattā vedanā’ti yathābhūtaṁ nappajānāti,"
+    },
+    {
+      "id": "sn22.55:5.3",
+      "pali": "anattaṁ saññaṁ ‘anattā saññā’ti yathābhūtaṁ nappajānāti,"
+    },
+    {
+      "id": "sn22.55:5.4",
+      "pali": "anatte saṅkhāre ‘anattā saṅkhārā’ti yathābhūtaṁ nappajānāti,"
+    },
+    {
+      "id": "sn22.55:5.5",
+      "pali": "anattaṁ viññāṇaṁ ‘anattā viññāṇan’ti yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "sn22.55:6.1",
+      "pali": "Saṅkhataṁ rūpaṁ ‘saṅkhataṁ rūpan’ti yathābhūtaṁ nappajānāti,"
+    },
+    {
+      "id": "sn22.55:6.2",
+      "pali": "saṅkhataṁ vedanaṁ …"
+    },
+    {
+      "id": "sn22.55:6.3",
+      "pali": "saṅkhataṁ saññaṁ …"
+    },
+    {
+      "id": "sn22.55:6.4",
+      "pali": "saṅkhate saṅkhāre …"
+    },
+    {
+      "id": "sn22.55:6.5",
+      "pali": "saṅkhataṁ viññāṇaṁ ‘saṅkhataṁ viññāṇan’ti yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "sn22.55:6.6",
+      "pali": "Rūpaṁ vibhavissatīti yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "sn22.55:6.7",
+      "pali": "Vedanā vibhavissati …"
+    },
+    {
+      "id": "sn22.55:6.8",
+      "pali": "saññā vibhavissati …"
+    },
+    {
+      "id": "sn22.55:6.9",
+      "pali": "saṅkhārā vibhavissanti …"
+    },
+    {
+      "id": "sn22.55:6.10",
+      "pali": "viññāṇaṁ vibhavissatīti yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "sn22.55:7.1",
+      "pali": "Sutavā ca kho, bhikkhu, ariyasāvako ariyānaṁ dassāvī ariyadhammassa kovido ariyadhamme suvinīto sappurisānaṁ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto"
+    },
+    {
+      "id": "sn22.55:7.2",
+      "pali": "na rūpaṁ attato samanupassati …pe…"
+    },
+    {
+      "id": "sn22.55:7.3",
+      "pali": "na vedanaṁ …"
+    },
+    {
+      "id": "sn22.55:7.4",
+      "pali": "na saññaṁ …"
+    },
+    {
+      "id": "sn22.55:7.5",
+      "pali": "na saṅkhāre …"
+    },
+    {
+      "id": "sn22.55:7.6",
+      "pali": "na viññāṇaṁ attato samanupassati."
+    },
+    {
+      "id": "sn22.55:8.1",
+      "pali": "So aniccaṁ rūpaṁ ‘aniccaṁ rūpan’ti yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "sn22.55:8.2",
+      "pali": "Aniccaṁ vedanaṁ …"
+    },
+    {
+      "id": "sn22.55:8.3",
+      "pali": "aniccaṁ saññaṁ …"
+    },
+    {
+      "id": "sn22.55:8.4",
+      "pali": "anicce saṅkhāre …"
+    },
+    {
+      "id": "sn22.55:8.5",
+      "pali": "aniccaṁ viññāṇaṁ ‘aniccaṁ viññāṇan’ti yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "sn22.55:8.6",
+      "pali": "Dukkhaṁ rūpaṁ …pe… dukkhaṁ viññāṇaṁ …"
+    },
+    {
+      "id": "sn22.55:8.7",
+      "pali": "anattaṁ rūpaṁ …pe… anattaṁ viññāṇaṁ …"
+    },
+    {
+      "id": "sn22.55:8.8",
+      "pali": "saṅkhataṁ rūpaṁ …pe… saṅkhataṁ viññāṇaṁ ‘saṅkhataṁ viññāṇan’ti yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "sn22.55:8.9",
+      "pali": "Rūpaṁ vibhavissatīti yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "sn22.55:8.10",
+      "pali": "Vedanā …"
+    },
+    {
+      "id": "sn22.55:8.11",
+      "pali": "saññā …"
+    },
+    {
+      "id": "sn22.55:8.12",
+      "pali": "saṅkhārā …"
+    },
+    {
+      "id": "sn22.55:8.13",
+      "pali": "viññāṇaṁ vibhavissatīti yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "sn22.55:9.1",
+      "pali": "So rūpassa vibhavā, vedanāya vibhavā, saññāya vibhavā, saṅkhārānaṁ vibhavā, viññāṇassa vibhavā, evaṁ kho, bhikkhu,"
+    },
+    {
+      "id": "sn22.55:9.2",
+      "pali": "‘no cassaṁ, no ca me siyā, nābhavissa, na me bhavissatī’ti—"
+    },
+    {
+      "id": "sn22.55:9.3",
+      "pali": "evaṁ adhimuccamāno bhikkhu chindeyya orambhāgiyāni saṁyojanānī”ti."
+    },
+    {
+      "id": "sn22.55:9.4",
+      "pali": "“‘Evaṁ adhimuccamāno,’ bhante, ‘bhikkhu chindeyya orambhāgiyāni saṁyojanānī’ti."
+    },
+    {
+      "id": "sn22.55:10.1",
+      "pali": "Kathaṁ pana, bhante, jānato kathaṁ passato anantarā āsavānaṁ khayo hotī”ti?"
+    },
+    {
+      "id": "sn22.55:10.2",
+      "pali": "“Idha, bhikkhu, assutavā puthujjano atasitāye ṭhāne tāsaṁ āpajjati."
+    },
+    {
+      "id": "sn22.55:10.3",
+      "pali": "Tāso heso bhikkhu assutavato puthujjanassa:"
+    },
+    {
+      "id": "sn22.55:10.4",
+      "pali": "‘no cassaṁ, no ca me siyā, nābhavissa, na me bhavissatī’ti."
+    },
+    {
+      "id": "sn22.55:11.1",
+      "pali": "Sutavā ca kho, bhikkhu, ariyasāvako atasitāye ṭhāne na tāsaṁ āpajjati."
+    },
+    {
+      "id": "sn22.55:11.2",
+      "pali": "Na heso, bhikkhu, tāso sutavato ariyasāvakassa:"
+    },
+    {
+      "id": "sn22.55:11.3",
+      "pali": "‘no cassaṁ, no ca me siyā, nābhavissa, na me bhavissatī’ti."
+    },
+    {
+      "id": "sn22.55:11.4",
+      "pali": "Rūpupayaṁ vā, bhikkhu, viññāṇaṁ tiṭṭhamānaṁ tiṭṭheyya, rūpārammaṇaṁ rūpappatiṭṭhaṁ nandūpasecanaṁ vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyya."
+    },
+    {
+      "id": "sn22.55:11.5",
+      "pali": "Vedanupayaṁ vā, bhikkhu …"
+    },
+    {
+      "id": "sn22.55:11.6",
+      "pali": "saññupayaṁ vā, bhikkhu …"
+    },
+    {
+      "id": "sn22.55:11.7",
+      "pali": "saṅkhārupayaṁ vā, bhikkhu, viññāṇaṁ tiṭṭhamānaṁ tiṭṭheyya, saṅkhārārammaṇaṁ saṅkhārappatiṭṭhaṁ nandūpasecanaṁ vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyya."
+    },
+    {
+      "id": "sn22.55:12.1",
+      "pali": "Yo, bhikkhu, evaṁ vadeyya:"
+    },
+    {
+      "id": "sn22.55:12.2",
+      "pali": "‘ahamaññatra rūpā, aññatra vedanāya, aññatra saññāya, aññatra saṅkhārehi viññāṇassa āgatiṁ vā gatiṁ vā cutiṁ vā upapattiṁ vā vuddhiṁ vā virūḷhiṁ vā vepullaṁ vā paññāpessāmī’ti, netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "sn22.55:13.1",
+      "pali": "Rūpadhātuyā ce, bhikkhu, bhikkhuno rāgo pahīno hoti. Rāgassa pahānā vocchijjatārammaṇaṁ patiṭṭhā viññāṇassa na hoti."
+    },
+    {
+      "id": "sn22.55:13.2",
+      "pali": "Vedanādhātuyā ce, bhikkhu, bhikkhuno …"
+    },
+    {
+      "id": "sn22.55:13.3",
+      "pali": "saññādhātuyā ce, bhikkhu, bhikkhuno …"
+    },
+    {
+      "id": "sn22.55:13.4",
+      "pali": "saṅkhāradhātuyā ce, bhikkhu, bhikkhuno …"
+    },
+    {
+      "id": "sn22.55:13.5",
+      "pali": "viññāṇadhātuyā ce, bhikkhu, bhikkhuno rāgo pahīno hoti. Rāgassa pahānā vocchijjatārammaṇaṁ patiṭṭhā viññāṇassa na hoti."
+    },
+    {
+      "id": "sn22.55:13.6",
+      "pali": "Tadappatiṭṭhitaṁ viññāṇaṁ avirūḷhaṁ anabhisaṅkhacca vimuttaṁ."
+    },
+    {
+      "id": "sn22.55:13.7",
+      "pali": "Vimuttattā ṭhitaṁ. Ṭhitattā santusitaṁ. Santusitattā na paritassati. Aparitassaṁ paccattaññeva parinibbāyati."
+    },
+    {
+      "id": "sn22.55:13.8",
+      "pali": "‘Khīṇā jāti …pe… nāparaṁ itthattāyā’ti pajānāti."
+    },
+    {
+      "id": "sn22.55:13.9",
+      "pali": "Evaṁ kho, bhikkhu, jānato evaṁ passato anantarā āsavānaṁ khayo hotī”ti."
+    },
+    {
+      "id": "sn22.55:13.10",
+      "pali": "Tatiyaṁ."
+    }
+  ]
+}

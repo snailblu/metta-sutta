@@ -1,0 +1,403 @@
+{
+  "uid": "ja480",
+  "title": "Ambavagga",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "ja480:1.1",
+      "pali": "“Akittiṁ disvā sammantaṁ,"
+    },
+    {
+      "id": "ja480:1.2",
+      "pali": "sakko bhūtapatī bravi;"
+    },
+    {
+      "id": "ja480:1.3",
+      "pali": "Kiṁ patthayaṁ mahābrahme,"
+    },
+    {
+      "id": "ja480:1.4",
+      "pali": "eko sammasi ghammani”."
+    },
+    {
+      "id": "ja480:2.1",
+      "pali": "“Dukkho punabbhavo sakka,"
+    },
+    {
+      "id": "ja480:2.2",
+      "pali": "sarīrassa ca bhedanaṁ;"
+    },
+    {
+      "id": "ja480:2.3",
+      "pali": "Sammohamaraṇaṁ dukkhaṁ,"
+    },
+    {
+      "id": "ja480:2.4",
+      "pali": "tasmā sammāmi vāsava”."
+    },
+    {
+      "id": "ja480:3.1",
+      "pali": "“Etasmiṁ te sulapite,"
+    },
+    {
+      "id": "ja480:3.2",
+      "pali": "patirūpe subhāsite;"
+    },
+    {
+      "id": "ja480:3.3",
+      "pali": "Varaṁ kassapa te dammi,"
+    },
+    {
+      "id": "ja480:3.4",
+      "pali": "yaṁ kiñci manasicchasi”."
+    },
+    {
+      "id": "ja480:4.1",
+      "pali": "“Varañce me ado sakka,"
+    },
+    {
+      "id": "ja480:4.2",
+      "pali": "sabbabhūtānamissara;"
+    },
+    {
+      "id": "ja480:4.3",
+      "pali": "Yena putte ca dāre ca,"
+    },
+    {
+      "id": "ja480:4.4",
+      "pali": "dhanadhaññaṁ piyāni ca;"
+    },
+    {
+      "id": "ja480:4.5",
+      "pali": "Laddhā narā na tappanti,"
+    },
+    {
+      "id": "ja480:4.6",
+      "pali": "so lobho na mayī vase”."
+    },
+    {
+      "id": "ja480:5.1",
+      "pali": "“Etasmiṁ te sulapite,"
+    },
+    {
+      "id": "ja480:5.2",
+      "pali": "patirūpe subhāsite;"
+    },
+    {
+      "id": "ja480:5.3",
+      "pali": "Varaṁ kassapa te dammi,"
+    },
+    {
+      "id": "ja480:5.4",
+      "pali": "yaṁ kiñci manasicchasi”."
+    },
+    {
+      "id": "ja480:6.1",
+      "pali": "“Varañce me ado sakka,"
+    },
+    {
+      "id": "ja480:6.2",
+      "pali": "sabbabhūtānamissara;"
+    },
+    {
+      "id": "ja480:6.3",
+      "pali": "Khettaṁ vatthuṁ hiraññañca,"
+    },
+    {
+      "id": "ja480:6.4",
+      "pali": "gavāssaṁ dāsaporisaṁ;"
+    },
+    {
+      "id": "ja480:6.5",
+      "pali": "Yena jātena jīyanti,"
+    },
+    {
+      "id": "ja480:6.6",
+      "pali": "so doso na mayī vase”."
+    },
+    {
+      "id": "ja480:7.1",
+      "pali": "“Etasmiṁ te sulapite,"
+    },
+    {
+      "id": "ja480:7.2",
+      "pali": "patirūpe subhāsite;"
+    },
+    {
+      "id": "ja480:7.3",
+      "pali": "Varaṁ kassapa te dammi,"
+    },
+    {
+      "id": "ja480:7.4",
+      "pali": "yaṁ kiñci manasicchasi”."
+    },
+    {
+      "id": "ja480:8.1",
+      "pali": "“Varañce me ado sakka,"
+    },
+    {
+      "id": "ja480:8.2",
+      "pali": "sabbabhūtānamissara;"
+    },
+    {
+      "id": "ja480:8.3",
+      "pali": "Bālaṁ na passe na suṇe,"
+    },
+    {
+      "id": "ja480:8.4",
+      "pali": "na ca bālena saṁvase;"
+    },
+    {
+      "id": "ja480:8.5",
+      "pali": "Bālenallāpasallāpaṁ,"
+    },
+    {
+      "id": "ja480:8.6",
+      "pali": "na kare na ca rocaye”."
+    },
+    {
+      "id": "ja480:9.1",
+      "pali": "“Kiṁ nu te akaraṁ bālo,"
+    },
+    {
+      "id": "ja480:9.2",
+      "pali": "vada kassapa kāraṇaṁ;"
+    },
+    {
+      "id": "ja480:9.3",
+      "pali": "Kena kassapa bālassa,"
+    },
+    {
+      "id": "ja480:9.4",
+      "pali": "dassanaṁ nābhikaṅkhasi”."
+    },
+    {
+      "id": "ja480:10.1",
+      "pali": "“Anayaṁ nayati dummedho,"
+    },
+    {
+      "id": "ja480:10.2",
+      "pali": "adhurāyaṁ niyuñjati;"
+    },
+    {
+      "id": "ja480:10.3",
+      "pali": "Dunnayo seyyaso hoti,"
+    },
+    {
+      "id": "ja480:10.4",
+      "pali": "sammā vutto pakuppati;"
+    },
+    {
+      "id": "ja480:10.5",
+      "pali": "Vinayaṁ so na jānāti,"
+    },
+    {
+      "id": "ja480:10.6",
+      "pali": "sādhu tassa adassanaṁ”."
+    },
+    {
+      "id": "ja480:11.1",
+      "pali": "“Etasmiṁ te sulapite,"
+    },
+    {
+      "id": "ja480:11.2",
+      "pali": "patirūpe subhāsite;"
+    },
+    {
+      "id": "ja480:11.3",
+      "pali": "Varaṁ kassapa te dammi,"
+    },
+    {
+      "id": "ja480:11.4",
+      "pali": "yaṁ kiñci manasicchasi”."
+    },
+    {
+      "id": "ja480:12.1",
+      "pali": "“Varañce me ado sakka,"
+    },
+    {
+      "id": "ja480:12.2",
+      "pali": "sabbabhūtānamissara;"
+    },
+    {
+      "id": "ja480:12.3",
+      "pali": "Dhīraṁ passe suṇe dhīraṁ,"
+    },
+    {
+      "id": "ja480:12.4",
+      "pali": "dhīrena saha saṁvase;"
+    },
+    {
+      "id": "ja480:12.5",
+      "pali": "Dhīrenallāpasallāpaṁ,"
+    },
+    {
+      "id": "ja480:12.6",
+      "pali": "taṁ kare tañca rocaye”."
+    },
+    {
+      "id": "ja480:13.1",
+      "pali": "“Kiṁ nu te akaraṁ dhīro,"
+    },
+    {
+      "id": "ja480:13.2",
+      "pali": "vada kassapa kāraṇaṁ;"
+    },
+    {
+      "id": "ja480:13.3",
+      "pali": "Kena kassapa dhīrassa,"
+    },
+    {
+      "id": "ja480:13.4",
+      "pali": "dassanaṁ abhikaṅkhasi”."
+    },
+    {
+      "id": "ja480:14.1",
+      "pali": "“Nayaṁ nayati medhāvī,"
+    },
+    {
+      "id": "ja480:14.2",
+      "pali": "adhurāyaṁ na yuñjati;"
+    },
+    {
+      "id": "ja480:14.3",
+      "pali": "Sunayo seyyaso hoti,"
+    },
+    {
+      "id": "ja480:14.4",
+      "pali": "sammā vutto na kuppati;"
+    },
+    {
+      "id": "ja480:14.5",
+      "pali": "Vinayaṁ so pajānāti,"
+    },
+    {
+      "id": "ja480:14.6",
+      "pali": "sādhu tena samāgamo”."
+    },
+    {
+      "id": "ja480:15.1",
+      "pali": "“Etasmiṁ te sulapite,"
+    },
+    {
+      "id": "ja480:15.2",
+      "pali": "patirūpe subhāsite;"
+    },
+    {
+      "id": "ja480:15.3",
+      "pali": "Varaṁ kassapa te dammi,"
+    },
+    {
+      "id": "ja480:15.4",
+      "pali": "yaṁ kiñci manasicchasi”."
+    },
+    {
+      "id": "ja480:16.1",
+      "pali": "“Varañce me ado sakka,"
+    },
+    {
+      "id": "ja480:16.2",
+      "pali": "sabbabhūtānamissara;"
+    },
+    {
+      "id": "ja480:16.3",
+      "pali": "Tato ratyā vivasāne,"
+    },
+    {
+      "id": "ja480:16.4",
+      "pali": "sūriyuggamanaṁ pati;"
+    },
+    {
+      "id": "ja480:16.5",
+      "pali": "Dibbā bhakkhā pātubhaveyyuṁ,"
+    },
+    {
+      "id": "ja480:16.6",
+      "pali": "sīlavanto ca yācakā."
+    },
+    {
+      "id": "ja480:17.1",
+      "pali": "Dadato me na khīyetha,"
+    },
+    {
+      "id": "ja480:17.2",
+      "pali": "datvā nānutapeyyahaṁ;"
+    },
+    {
+      "id": "ja480:17.3",
+      "pali": "Dadaṁ cittaṁ pasādeyyaṁ,"
+    },
+    {
+      "id": "ja480:17.4",
+      "pali": "etaṁ sakka varaṁ vare”."
+    },
+    {
+      "id": "ja480:18.1",
+      "pali": "“Etasmiṁ te sulapite,"
+    },
+    {
+      "id": "ja480:18.2",
+      "pali": "patirūpe subhāsite;"
+    },
+    {
+      "id": "ja480:18.3",
+      "pali": "Varaṁ kassapa te dammi,"
+    },
+    {
+      "id": "ja480:18.4",
+      "pali": "yaṁ kiñci manasicchasi”."
+    },
+    {
+      "id": "ja480:19.1",
+      "pali": "“Varañce me ado sakka,"
+    },
+    {
+      "id": "ja480:19.2",
+      "pali": "sabbabhūtānamissara;"
+    },
+    {
+      "id": "ja480:19.3",
+      "pali": "Na maṁ puna upeyyāsi,"
+    },
+    {
+      "id": "ja480:19.4",
+      "pali": "etaṁ sakka varaṁ vare”."
+    },
+    {
+      "id": "ja480:20.1",
+      "pali": "“Bahūhi vatacariyāhi,"
+    },
+    {
+      "id": "ja480:20.2",
+      "pali": "narā ca atha nāriyo;"
+    },
+    {
+      "id": "ja480:20.3",
+      "pali": "Dassanaṁ abhikaṅkhanti,"
+    },
+    {
+      "id": "ja480:20.4",
+      "pali": "kiṁ nu me dassane bhayaṁ”."
+    },
+    {
+      "id": "ja480:21.1",
+      "pali": "“Taṁ tādisaṁ devavaṇṇaṁ,"
+    },
+    {
+      "id": "ja480:21.2",
+      "pali": "sabbakāmasamiddhinaṁ;"
+    },
+    {
+      "id": "ja480:21.3",
+      "pali": "Disvā tapo pamajjeyyaṁ,"
+    },
+    {
+      "id": "ja480:21.4",
+      "pali": "etaṁ te dassane bhayan”ti."
+    },
+    {
+      "id": "ja480:22.1",
+      "pali": "Akittijātakaṁ sattamaṁ."
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "uid": "mn48",
+  "title": "Kosambiyasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn48:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn48:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā kosambiyaṁ viharati ghositārāme."
+    },
+    {
+      "id": "mn48:2.1",
+      "pali": "Tena kho pana samayena kosambiyaṁ bhikkhū bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṁ mukhasattīhi vitudantā viharanti."
+    },
+    {
+      "id": "mn48:2.2",
+      "pali": "Te na ceva aññamaññaṁ saññāpenti na ca saññattiṁ upenti, na ca aññamaññaṁ nijjhāpenti, na ca nijjhattiṁ upenti."
+    },
+    {
+      "id": "mn48:3.1",
+      "pali": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn48:3.2",
+      "pali": "“idha, bhante, kosambiyaṁ bhikkhū bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṁ mukhasattīhi vitudantā viharanti, te na ceva aññamaññaṁ saññāpenti, na ca saññattiṁ upenti, na ca aññamaññaṁ nijjhāpenti, na ca nijjhattiṁ upentī”ti."
+    },
+    {
+      "id": "mn48:4.1",
+      "pali": "Atha kho bhagavā aññataraṁ bhikkhuṁ āmantesi:"
+    },
+    {
+      "id": "mn48:4.2",
+      "pali": "“ehi tvaṁ, bhikkhu, mama vacanena te bhikkhū āmantehi:"
+    },
+    {
+      "id": "mn48:4.3",
+      "pali": "‘satthā vo āyasmante āmantetī’”ti."
+    },
+    {
+      "id": "mn48:4.4",
+      "pali": "“Evaṁ, bhante”ti kho so bhikkhu bhagavato paṭissutvā yena te bhikkhū tenupasaṅkami; upasaṅkamitvā te bhikkhū etadavoca:"
+    },
+    {
+      "id": "mn48:4.5",
+      "pali": "“satthā āyasmante āmantetī”ti."
+    },
+    {
+      "id": "mn48:4.6",
+      "pali": "“Evamāvuso”ti kho te bhikkhū tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinne kho te bhikkhū bhagavā etadavoca:"
+    },
+    {
+      "id": "mn48:4.7",
+      "pali": "“saccaṁ kira tumhe, bhikkhave, bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṁ mukhasattīhi vitudantā viharatha,"
+    },
+    {
+      "id": "mn48:4.8",
+      "pali": "te na ceva aññamaññaṁ saññāpetha, na ca saññattiṁ upetha, na ca aññamaññaṁ nijjhāpetha, na ca nijjhattiṁ upethā”ti?"
+    },
+    {
+      "id": "mn48:4.9",
+      "pali": "“Evaṁ, bhante”."
+    },
+    {
+      "id": "mn48:5.1",
+      "pali": "“Taṁ kiṁ maññatha, bhikkhave,"
+    },
+    {
+      "id": "mn48:5.2",
+      "pali": "yasmiṁ tumhe samaye bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṁ mukhasattīhi vitudantā viharatha, api nu tumhākaṁ tasmiṁ samaye mettaṁ kāyakammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca, mettaṁ vacīkammaṁ …pe… mettaṁ manokammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho cā”ti?"
+    },
+    {
+      "id": "mn48:5.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn48:5.4",
+      "pali": "“Iti kira, bhikkhave, yasmiṁ tumhe samaye bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṁ mukhasattīhi vitudantā viharatha, neva tumhākaṁ tasmiṁ samaye mettaṁ kāyakammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca, na mettaṁ vacīkammaṁ …pe… na mettaṁ manokammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca."
+    },
+    {
+      "id": "mn48:5.5",
+      "pali": "Atha kiñcarahi tumhe, moghapurisā, kiṁ jānantā kiṁ passantā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṁ mukhasattīhi vitudantā viharatha, te na ceva aññamaññaṁ saññāpetha, na ca saññattiṁ upetha, na ca aññamaññaṁ nijjhāpetha, na ca nijjhattiṁ upetha?"
+    },
+    {
+      "id": "mn48:5.6",
+      "pali": "Tañhi tumhākaṁ, moghapurisā, bhavissati dīgharattaṁ ahitāya dukkhāyā”ti."
+    },
+    {
+      "id": "mn48:6.1",
+      "pali": "Atha kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn48:6.2",
+      "pali": "“chayime, bhikkhave, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattanti."
+    },
+    {
+      "id": "mn48:6.3",
+      "pali": "Katame cha?"
+    },
+    {
+      "id": "mn48:6.4",
+      "pali": "Idha, bhikkhave, bhikkhuno mettaṁ kāyakammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca."
+    },
+    {
+      "id": "mn48:6.5",
+      "pali": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "mn48:6.6",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhuno mettaṁ vacīkammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca."
+    },
+    {
+      "id": "mn48:6.7",
+      "pali": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "mn48:6.8",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhuno mettaṁ manokammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca."
+    },
+    {
+      "id": "mn48:6.9",
+      "pali": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "mn48:6.10",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhu ye te lābhā dhammikā dhammaladdhā antamaso pattapariyāpannamattampi, tathārūpehi lābhehi appaṭivibhattabhogī hoti sīlavantehi sabrahmacārīhi sādhāraṇabhogī."
+    },
+    {
+      "id": "mn48:6.11",
+      "pali": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "mn48:6.12",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhu yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṁvattanikāni tathārūpesu sīlesu sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca."
+    },
+    {
+      "id": "mn48:6.13",
+      "pali": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "mn48:6.14",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhu yāyaṁ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca."
+    },
+    {
+      "id": "mn48:6.15",
+      "pali": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "mn48:6.16",
+      "pali": "Ime kho, bhikkhave, cha sāraṇīyā dhammā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattanti."
+    },
+    {
+      "id": "mn48:7.1",
+      "pali": "Imesaṁ kho, bhikkhave, channaṁ sāraṇīyānaṁ dhammānaṁ etaṁ aggaṁ etaṁ saṅgāhikaṁ etaṁ saṅghāṭanikaṁ—yadidaṁ yāyaṁ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya."
+    },
+    {
+      "id": "mn48:7.2",
+      "pali": "Seyyathāpi, bhikkhave, kūṭāgārassa etaṁ aggaṁ etaṁ saṅgāhikaṁ etaṁ saṅghāṭanikaṁ yadidaṁ kūṭaṁ;"
+    },
+    {
+      "id": "mn48:7.3",
+      "pali": "evameva kho, bhikkhave, imesaṁ channaṁ sāraṇīyānaṁ dhammānaṁ etaṁ aggaṁ etaṁ saṅgāhikaṁ etaṁ saṅghāṭanikaṁ yadidaṁ yāyaṁ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya."
+    },
+    {
+      "id": "mn48:8.1",
+      "pali": "Kathañca, bhikkhave, yāyaṁ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya?"
+    },
+    {
+      "id": "mn48:8.2",
+      "pali": "Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn48:8.3",
+      "pali": "‘atthi nu kho me taṁ pariyuṭṭhānaṁ ajjhattaṁ appahīnaṁ, yenāhaṁ pariyuṭṭhānena pariyuṭṭhitacitto yathābhūtaṁ nappajāneyyaṁ na passeyyan’ti?"
+    },
+    {
+      "id": "mn48:8.4",
+      "pali": "Sace, bhikkhave, bhikkhu kāmarāgapariyuṭṭhito hoti, pariyuṭṭhitacittova hoti."
+    },
+    {
+      "id": "mn48:8.5",
+      "pali": "Sace, bhikkhave, bhikkhu byāpādapariyuṭṭhito hoti, pariyuṭṭhitacittova hoti."
+    },
+    {
+      "id": "mn48:8.6",
+      "pali": "Sace, bhikkhave, bhikkhu thinamiddhapariyuṭṭhito hoti, pariyuṭṭhitacittova hoti."
+    },
+    {
+      "id": "mn48:8.7",
+      "pali": "Sace, bhikkhave, bhikkhu uddhaccakukkuccapariyuṭṭhito hoti, pariyuṭṭhitacittova hoti."
+    },
+    {
+      "id": "mn48:8.8",
+      "pali": "Sace, bhikkhave, bhikkhu vicikicchāpariyuṭṭhito hoti, pariyuṭṭhitacittova hoti."
+    },
+    {
+      "id": "mn48:8.9",
+      "pali": "Sace, bhikkhave, bhikkhu idhalokacintāya pasuto hoti, pariyuṭṭhitacittova hoti."
+    },
+    {
+      "id": "mn48:8.10",
+      "pali": "Sace, bhikkhave, bhikkhu paralokacintāya pasuto hoti, pariyuṭṭhitacittova hoti."
+    },
+    {
+      "id": "mn48:8.11",
+      "pali": "Sace, bhikkhave, bhikkhu bhaṇḍanajāto kalahajāto vivādāpanno aññamaññaṁ mukhasattīhi vitudanto viharati, pariyuṭṭhitacittova hoti."
+    },
+    {
+      "id": "mn48:8.12",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn48:8.13",
+      "pali": "‘natthi kho me taṁ pariyuṭṭhānaṁ ajjhattaṁ appahīnaṁ, yenāhaṁ pariyuṭṭhānena pariyuṭṭhitacitto yathābhūtaṁ nappajāneyyaṁ na passeyyaṁ."
+    },
+    {
+      "id": "mn48:8.14",
+      "pali": "Suppaṇihitaṁ me mānasaṁ saccānaṁ bodhāyā’ti."
+    },
+    {
+      "id": "mn48:8.15",
+      "pali": "Idamassa paṭhamaṁ ñāṇaṁ adhigataṁ hoti ariyaṁ lokuttaraṁ asādhāraṇaṁ puthujjanehi."
+    },
+    {
+      "id": "mn48:9.1",
+      "pali": "Puna caparaṁ, bhikkhave, ariyasāvako iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn48:9.2",
+      "pali": "‘imaṁ nu kho ahaṁ diṭṭhiṁ āsevanto bhāvento bahulīkaronto labhāmi paccattaṁ samathaṁ, labhāmi paccattaṁ nibbutin’ti?"
+    },
+    {
+      "id": "mn48:9.3",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn48:9.4",
+      "pali": "‘imaṁ kho ahaṁ diṭṭhiṁ āsevanto bhāvento bahulīkaronto labhāmi paccattaṁ samathaṁ, labhāmi paccattaṁ nibbutin’ti."
+    },
+    {
+      "id": "mn48:9.5",
+      "pali": "Idamassa dutiyaṁ ñāṇaṁ adhigataṁ hoti ariyaṁ lokuttaraṁ asādhāraṇaṁ puthujjanehi."
+    },
+    {
+      "id": "mn48:10.1",
+      "pali": "Puna caparaṁ, bhikkhave, ariyasāvako iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn48:10.2",
+      "pali": "‘yathārūpāyāhaṁ diṭṭhiyā samannāgato, atthi nu kho ito bahiddhā añño samaṇo vā brāhmaṇo vā tathārūpāya diṭṭhiyā samannāgato’ti?"
+    },
+    {
+      "id": "mn48:10.3",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn48:10.4",
+      "pali": "‘yathārūpāyāhaṁ diṭṭhiyā samannāgato, natthi ito bahiddhā añño samaṇo vā brāhmaṇo vā tathārūpāya diṭṭhiyā samannāgato’ti."
+    },
+    {
+      "id": "mn48:10.5",
+      "pali": "Idamassa tatiyaṁ ñāṇaṁ adhigataṁ hoti ariyaṁ lokuttaraṁ asādhāraṇaṁ puthujjanehi."
+    },
+    {
+      "id": "mn48:11.1",
+      "pali": "Puna caparaṁ, bhikkhave, ariyasāvako iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn48:11.2",
+      "pali": "‘yathārūpāya dhammatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya dhammatāya samannāgato’ti."
+    },
+    {
+      "id": "mn48:11.3",
+      "pali": "Kathaṁrūpāya ca, bhikkhave, dhammatāya diṭṭhisampanno puggalo samannāgato?"
+    },
+    {
+      "id": "mn48:11.4",
+      "pali": "Dhammatā esā, bhikkhave, diṭṭhisampannassa puggalassa:"
+    },
+    {
+      "id": "mn48:11.5",
+      "pali": "kiñcāpi tathārūpiṁ āpattiṁ āpajjati, yathārūpāya āpattiyā vuṭṭhānaṁ paññāyati, atha kho naṁ khippameva satthari vā viññūsu vā sabrahmacārīsu deseti vivarati uttānīkaroti;"
+    },
+    {
+      "id": "mn48:11.6",
+      "pali": "desetvā vivaritvā uttānīkatvā āyatiṁ saṁvaraṁ āpajjati."
+    },
+    {
+      "id": "mn48:11.7",
+      "pali": "Seyyathāpi, bhikkhave, daharo kumāro mando uttānaseyyako hatthena vā pādena vā aṅgāraṁ akkamitvā khippameva paṭisaṁharati;"
+    },
+    {
+      "id": "mn48:11.8",
+      "pali": "evameva kho, bhikkhave, dhammatā esā diṭṭhisampannassa puggalassa:"
+    },
+    {
+      "id": "mn48:11.9",
+      "pali": "kiñcāpi tathārūpiṁ āpattiṁ āpajjati yathārūpāya āpattiyā vuṭṭhānaṁ paññāyati, atha kho naṁ khippameva satthari vā viññūsu vā sabrahmacārīsu deseti vivarati uttānīkaroti;"
+    },
+    {
+      "id": "mn48:11.10",
+      "pali": "desetvā vivaritvā uttānīkatvā āyatiṁ saṁvaraṁ āpajjati."
+    },
+    {
+      "id": "mn48:11.11",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn48:11.12",
+      "pali": "‘yathārūpāya dhammatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya dhammatāya samannāgato’ti."
+    },
+    {
+      "id": "mn48:11.13",
+      "pali": "Idamassa catutthaṁ ñāṇaṁ adhigataṁ hoti ariyaṁ lokuttaraṁ asādhāraṇaṁ puthujjanehi."
+    },
+    {
+      "id": "mn48:12.1",
+      "pali": "Puna caparaṁ, bhikkhave, ariyasāvako iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn48:12.2",
+      "pali": "‘yathārūpāya dhammatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya dhammatāya samannāgato’ti."
+    },
+    {
+      "id": "mn48:12.3",
+      "pali": "Kathaṁrūpāya ca, bhikkhave, dhammatāya diṭṭhisampanno puggalo samannāgato?"
+    },
+    {
+      "id": "mn48:12.4",
+      "pali": "Dhammatā esā, bhikkhave, diṭṭhisampannassa puggalassa:"
+    },
+    {
+      "id": "mn48:12.5",
+      "pali": "kiñcāpi yāni tāni sabrahmacārīnaṁ uccāvacāni kiṅkaraṇīyāni tattha ussukkaṁ āpanno hoti, atha khvāssa tibbāpekkhā hoti adhisīlasikkhāya adhicittasikkhāya adhipaññāsikkhāya."
+    },
+    {
+      "id": "mn48:12.6",
+      "pali": "Seyyathāpi, bhikkhave, gāvī taruṇavacchā thambañca ālumpati vacchakañca apacinati;"
+    },
+    {
+      "id": "mn48:12.7",
+      "pali": "evameva kho, bhikkhave, dhammatā esā diṭṭhisampannassa puggalassa:"
+    },
+    {
+      "id": "mn48:12.8",
+      "pali": "kiñcāpi yāni tāni sabrahmacārīnaṁ uccāvacāni kiṅkaraṇīyāni tattha ussukkaṁ āpanno hoti, atha khvāssa tibbāpekkhā hoti adhisīlasikkhāya adhicittasikkhāya adhipaññāsikkhāya."
+    },
+    {
+      "id": "mn48:12.9",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn48:12.10",
+      "pali": "‘yathārūpāya dhammatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya dhammatāya samannāgato’ti."
+    },
+    {
+      "id": "mn48:12.11",
+      "pali": "Idamassa pañcamaṁ ñāṇaṁ adhigataṁ hoti ariyaṁ lokuttaraṁ asādhāraṇaṁ puthujjanehi."
+    },
+    {
+      "id": "mn48:13.1",
+      "pali": "Puna caparaṁ, bhikkhave, ariyasāvako iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn48:13.2",
+      "pali": "‘yathārūpāya balatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya balatāya samannāgato’ti."
+    },
+    {
+      "id": "mn48:13.3",
+      "pali": "Kathaṁrūpāya ca, bhikkhave, balatāya diṭṭhisampanno puggalo samannāgato?"
+    },
+    {
+      "id": "mn48:13.4",
+      "pali": "Balatā esā, bhikkhave, diṭṭhisampannassa puggalassa yaṁ tathāgatappavedite dhammavinaye desiyamāne aṭṭhiṁ katvā manasikatvā sabbacetasā samannāharitvā ohitasoto dhammaṁ suṇāti."
+    },
+    {
+      "id": "mn48:13.5",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn48:13.6",
+      "pali": "‘yathārūpāya balatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya balatāya samannāgato’ti."
+    },
+    {
+      "id": "mn48:13.7",
+      "pali": "Idamassa chaṭṭhaṁ ñāṇaṁ adhigataṁ hoti ariyaṁ lokuttaraṁ asādhāraṇaṁ puthujjanehi."
+    },
+    {
+      "id": "mn48:14.1",
+      "pali": "Puna caparaṁ, bhikkhave, ariyasāvako iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn48:14.2",
+      "pali": "‘yathārūpāya balatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya balatāya samannāgato’ti."
+    },
+    {
+      "id": "mn48:14.3",
+      "pali": "Kathaṁrūpāya ca, bhikkhave, balatāya diṭṭhisampanno puggalo samannāgato?"
+    },
+    {
+      "id": "mn48:14.4",
+      "pali": "Balatā esā, bhikkhave, diṭṭhisampannassa puggalassa yaṁ tathāgatappavedite dhammavinaye desiyamāne labhati atthavedaṁ, labhati dhammavedaṁ, labhati dhammūpasaṁhitaṁ pāmojjaṁ."
+    },
+    {
+      "id": "mn48:14.5",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn48:14.6",
+      "pali": "‘yathārūpāya balatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya balatāya samannāgato’ti."
+    },
+    {
+      "id": "mn48:14.7",
+      "pali": "Idamassa sattamaṁ ñāṇaṁ adhigataṁ hoti ariyaṁ lokuttaraṁ asādhāraṇaṁ puthujjanehi."
+    },
+    {
+      "id": "mn48:15.1",
+      "pali": "Evaṁ sattaṅgasamannāgatassa kho, bhikkhave, ariyasāvakassa dhammatā susamanniṭṭhā hoti sotāpattiphalasacchikiriyāya."
+    },
+    {
+      "id": "mn48:15.2",
+      "pali": "Evaṁ sattaṅgasamannāgato kho, bhikkhave, ariyasāvako sotāpattiphalasamannāgato hotī”ti."
+    },
+    {
+      "id": "mn48:15.3",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn48:15.4",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn48:15.5",
+      "pali": "Kosambiyasuttaṁ niṭṭhitaṁ aṭṭhamaṁ."
+    }
+  ]
+}

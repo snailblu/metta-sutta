@@ -1,0 +1,367 @@
+{
+  "uid": "sn12.23",
+  "title": "Upanisasutta",
+  "nikaya": "sn",
+  "segments": [
+    {
+      "id": "sn12.23:1.1",
+      "pali": "Sāvatthiyaṁ viharati."
+    },
+    {
+      "id": "sn12.23:1.2",
+      "pali": "“Jānato ahaṁ, bhikkhave, passato āsavānaṁ khayaṁ vadāmi, no ajānato no apassato."
+    },
+    {
+      "id": "sn12.23:1.3",
+      "pali": "Kiñca, bhikkhave, jānato kiṁ passato āsavānaṁ khayo hoti?"
+    },
+    {
+      "id": "sn12.23:1.4",
+      "pali": "Iti rūpaṁ iti rūpassa samudayo iti rūpassa atthaṅgamo,"
+    },
+    {
+      "id": "sn12.23:1.5",
+      "pali": "iti vedanā …pe…"
+    },
+    {
+      "id": "sn12.23:1.6",
+      "pali": "iti saññā …"
+    },
+    {
+      "id": "sn12.23:1.7",
+      "pali": "iti saṅkhārā …"
+    },
+    {
+      "id": "sn12.23:1.8",
+      "pali": "iti viññāṇaṁ iti viññāṇassa samudayo iti viññāṇassa atthaṅgamoti."
+    },
+    {
+      "id": "sn12.23:1.9",
+      "pali": "Evaṁ kho, bhikkhave, jānato evaṁ passato āsavānaṁ khayo hoti."
+    },
+    {
+      "id": "sn12.23:2.1",
+      "pali": "Yampissa taṁ, bhikkhave, khayasmiṁ khaye ñāṇaṁ, tampi saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:2.2",
+      "pali": "Kā ca, bhikkhave, khaye ñāṇassa upanisā?"
+    },
+    {
+      "id": "sn12.23:2.3",
+      "pali": "‘Vimuttī’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:2.4",
+      "pali": "Vimuttimpāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:2.5",
+      "pali": "Kā ca, bhikkhave, vimuttiyā upanisā?"
+    },
+    {
+      "id": "sn12.23:2.6",
+      "pali": "‘Virāgo’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:2.7",
+      "pali": "Virāgampāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:2.8",
+      "pali": "Kā ca, bhikkhave, virāgassa upanisā?"
+    },
+    {
+      "id": "sn12.23:2.9",
+      "pali": "‘Nibbidā’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:2.10",
+      "pali": "Nibbidampāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:2.11",
+      "pali": "Kā ca, bhikkhave, nibbidāya upanisā?"
+    },
+    {
+      "id": "sn12.23:2.12",
+      "pali": "‘Yathābhūtañāṇadassanan’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:2.13",
+      "pali": "Yathābhūtañāṇadassanampāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:2.14",
+      "pali": "Kā ca, bhikkhave, yathābhūtañāṇadassanassa upanisā?"
+    },
+    {
+      "id": "sn12.23:2.15",
+      "pali": "‘Samādhī’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:2.16",
+      "pali": "Samādhimpāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:3.1",
+      "pali": "Kā ca, bhikkhave, samādhissa upanisā?"
+    },
+    {
+      "id": "sn12.23:3.2",
+      "pali": "‘Sukhan’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:3.3",
+      "pali": "Sukhampāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:3.4",
+      "pali": "Kā ca, bhikkhave, sukhassa upanisā?"
+    },
+    {
+      "id": "sn12.23:3.5",
+      "pali": "‘Passaddhī’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:3.6",
+      "pali": "Passaddhimpāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:3.7",
+      "pali": "Kā ca, bhikkhave, passaddhiyā upanisā?"
+    },
+    {
+      "id": "sn12.23:3.8",
+      "pali": "‘Pītī’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:3.9",
+      "pali": "Pītimpāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:3.10",
+      "pali": "Kā ca, bhikkhave, pītiyā upanisā?"
+    },
+    {
+      "id": "sn12.23:3.11",
+      "pali": "‘Pāmojjan’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:3.12",
+      "pali": "Pāmojjampāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:3.13",
+      "pali": "Kā ca, bhikkhave, pāmojjassa upanisā?"
+    },
+    {
+      "id": "sn12.23:3.14",
+      "pali": "‘Saddhā’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:3.15",
+      "pali": "Saddhampāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:4.1",
+      "pali": "Kā ca, bhikkhave, saddhāya upanisā?"
+    },
+    {
+      "id": "sn12.23:4.2",
+      "pali": "‘Dukkhan’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:4.3",
+      "pali": "Dukkhampāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:4.4",
+      "pali": "Kā ca, bhikkhave, dukkhassa upanisā?"
+    },
+    {
+      "id": "sn12.23:4.5",
+      "pali": "‘Jātī’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:4.6",
+      "pali": "Jātimpāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:4.7",
+      "pali": "Kā ca, bhikkhave, jātiyā upanisā?"
+    },
+    {
+      "id": "sn12.23:4.8",
+      "pali": "‘Bhavo’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:4.9",
+      "pali": "Bhavampāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:4.10",
+      "pali": "Kā ca, bhikkhave, bhavassa upanisā?"
+    },
+    {
+      "id": "sn12.23:4.11",
+      "pali": "‘Upādānan’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:4.12",
+      "pali": "Upādānampāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:4.13",
+      "pali": "Kā ca, bhikkhave, upādānassa upanisā?"
+    },
+    {
+      "id": "sn12.23:4.14",
+      "pali": "‘Taṇhā’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:4.15",
+      "pali": "Taṇhampāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ."
+    },
+    {
+      "id": "sn12.23:5.1",
+      "pali": "Kā ca, bhikkhave, taṇhāya upanisā?"
+    },
+    {
+      "id": "sn12.23:5.2",
+      "pali": "‘Vedanā’tissa vacanīyaṁ …pe…"
+    },
+    {
+      "id": "sn12.23:5.3",
+      "pali": "‘phasso’tissa vacanīyaṁ …"
+    },
+    {
+      "id": "sn12.23:5.4",
+      "pali": "‘saḷāyatanan’tissa vacanīyaṁ …"
+    },
+    {
+      "id": "sn12.23:5.5",
+      "pali": "‘nāmarūpan’tissa vacanīyaṁ …"
+    },
+    {
+      "id": "sn12.23:5.6",
+      "pali": "‘viññāṇan’tissa vacanīyaṁ …"
+    },
+    {
+      "id": "sn12.23:5.7",
+      "pali": "‘saṅkhārā’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:5.8",
+      "pali": "Saṅkhārepāhaṁ, bhikkhave, saupanise vadāmi, no anupanise."
+    },
+    {
+      "id": "sn12.23:5.9",
+      "pali": "Kā ca, bhikkhave, saṅkhārānaṁ upanisā?"
+    },
+    {
+      "id": "sn12.23:5.10",
+      "pali": "‘Avijjā’tissa vacanīyaṁ."
+    },
+    {
+      "id": "sn12.23:6.1",
+      "pali": "Iti kho, bhikkhave, avijjūpanisā saṅkhārā,"
+    },
+    {
+      "id": "sn12.23:6.2",
+      "pali": "saṅkhārūpanisaṁ viññāṇaṁ,"
+    },
+    {
+      "id": "sn12.23:6.3",
+      "pali": "viññāṇūpanisaṁ nāmarūpaṁ,"
+    },
+    {
+      "id": "sn12.23:6.4",
+      "pali": "nāmarūpūpanisaṁ saḷāyatanaṁ,"
+    },
+    {
+      "id": "sn12.23:6.5",
+      "pali": "saḷāyatanūpaniso phasso,"
+    },
+    {
+      "id": "sn12.23:6.6",
+      "pali": "phassūpanisā vedanā,"
+    },
+    {
+      "id": "sn12.23:6.7",
+      "pali": "vedanūpanisā taṇhā,"
+    },
+    {
+      "id": "sn12.23:6.8",
+      "pali": "taṇhūpanisaṁ upādānaṁ,"
+    },
+    {
+      "id": "sn12.23:6.9",
+      "pali": "upādānūpaniso bhavo,"
+    },
+    {
+      "id": "sn12.23:6.10",
+      "pali": "bhavūpanisā jāti,"
+    },
+    {
+      "id": "sn12.23:6.11",
+      "pali": "jātūpanisaṁ dukkhaṁ,"
+    },
+    {
+      "id": "sn12.23:6.12",
+      "pali": "dukkhūpanisā saddhā,"
+    },
+    {
+      "id": "sn12.23:6.13",
+      "pali": "saddhūpanisaṁ pāmojjaṁ,"
+    },
+    {
+      "id": "sn12.23:6.14",
+      "pali": "pāmojjūpanisā pīti,"
+    },
+    {
+      "id": "sn12.23:6.15",
+      "pali": "pītūpanisā passaddhi,"
+    },
+    {
+      "id": "sn12.23:6.16",
+      "pali": "passaddhūpanisaṁ sukhaṁ,"
+    },
+    {
+      "id": "sn12.23:6.17",
+      "pali": "sukhūpaniso samādhi,"
+    },
+    {
+      "id": "sn12.23:6.18",
+      "pali": "samādhūpanisaṁ yathābhūtañāṇadassanaṁ,"
+    },
+    {
+      "id": "sn12.23:6.19",
+      "pali": "yathābhūtañāṇadassanūpanisā nibbidā,"
+    },
+    {
+      "id": "sn12.23:6.20",
+      "pali": "nibbidūpaniso virāgo,"
+    },
+    {
+      "id": "sn12.23:6.21",
+      "pali": "virāgūpanisā vimutti,"
+    },
+    {
+      "id": "sn12.23:6.22",
+      "pali": "vimuttūpanisaṁ khaye ñāṇaṁ."
+    },
+    {
+      "id": "sn12.23:7.1",
+      "pali": "Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṁ udakaṁ yathāninnaṁ pavattamānaṁ pabbatakandarapadarasākhā paripūreti. Pabbatakandarapadarasākhāparipūrā kusobbhe paripūrenti. Kusobbhā paripūrā mahāsobbhe paripūrenti. Mahāsobbhā paripūrā kunnadiyo paripūrenti. Kunnadiyo paripūrā mahānadiyo paripūrenti. Mahānadiyo paripūrā mahāsamuddaṁ paripūrenti."
+    },
+    {
+      "id": "sn12.23:8.1",
+      "pali": "Evameva kho, bhikkhave, avijjūpanisā saṅkhārā, saṅkhārūpanisaṁ viññāṇaṁ, viññāṇūpanisaṁ nāmarūpaṁ, nāmarūpūpanisaṁ saḷāyatanaṁ, saḷāyatanūpaniso phasso, phassūpanisā vedanā, vedanūpanisā taṇhā, taṇhūpanisaṁ upādānaṁ, upādānūpaniso bhavo, bhavūpanisā jāti, jātūpanisaṁ dukkhaṁ, dukkhūpanisā saddhā, saddhūpanisaṁ pāmojjaṁ, pāmojjūpanisā pīti, pītūpanisā passaddhi, passaddhūpanisaṁ sukhaṁ, sukhūpaniso samādhi, samādhūpanisaṁ yathābhūtañāṇadassanaṁ, yathābhūtañāṇadassanūpanisā nibbidā, nibbidūpaniso virāgo, virāgūpanisā vimutti, vimuttūpanisaṁ khaye ñāṇan”ti."
+    },
+    {
+      "id": "sn12.23:8.2",
+      "pali": "Tatiyaṁ."
+    }
+  ]
+}

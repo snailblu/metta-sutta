@@ -1,0 +1,275 @@
+{
+  "uid": "snp4.11",
+  "title": "Kalahavivādasutta",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "snp4.11:1.1",
+      "pali": "“Kutopahūtā kalahā vivādā,"
+    },
+    {
+      "id": "snp4.11:1.2",
+      "pali": "Paridevasokā sahamaccharā ca;"
+    },
+    {
+      "id": "snp4.11:1.3",
+      "pali": "Mānātimānā sahapesuṇā ca,"
+    },
+    {
+      "id": "snp4.11:1.4",
+      "pali": "Kutopahūtā te tadiṅgha brūhi”."
+    },
+    {
+      "id": "snp4.11:2.1",
+      "pali": "“Piyappahūtā kalahā vivādā,"
+    },
+    {
+      "id": "snp4.11:2.2",
+      "pali": "Paridevasokā sahamaccharā ca;"
+    },
+    {
+      "id": "snp4.11:2.3",
+      "pali": "Mānātimānā sahapesuṇā ca,"
+    },
+    {
+      "id": "snp4.11:2.4",
+      "pali": "Maccherayuttā kalahā vivādā;"
+    },
+    {
+      "id": "snp4.11:2.5",
+      "pali": "Vivādajātesu ca pesuṇāni”."
+    },
+    {
+      "id": "snp4.11:3.1",
+      "pali": "“Piyā su lokasmiṁ kutonidānā,"
+    },
+    {
+      "id": "snp4.11:3.2",
+      "pali": "Ye cāpi lobhā vicaranti loke;"
+    },
+    {
+      "id": "snp4.11:3.3",
+      "pali": "Āsā ca niṭṭhā ca kutonidānā,"
+    },
+    {
+      "id": "snp4.11:3.4",
+      "pali": "Ye samparāyāya narassa honti”."
+    },
+    {
+      "id": "snp4.11:4.1",
+      "pali": "“Chandānidānāni piyāni loke,"
+    },
+    {
+      "id": "snp4.11:4.2",
+      "pali": "Ye cāpi lobhā vicaranti loke;"
+    },
+    {
+      "id": "snp4.11:4.3",
+      "pali": "Āsā ca niṭṭhā ca itonidānā,"
+    },
+    {
+      "id": "snp4.11:4.4",
+      "pali": "Ye samparāyāya narassa honti”."
+    },
+    {
+      "id": "snp4.11:5.1",
+      "pali": "“Chando nu lokasmiṁ kutonidāno,"
+    },
+    {
+      "id": "snp4.11:5.2",
+      "pali": "Vinicchayā cāpi kutopahūtā;"
+    },
+    {
+      "id": "snp4.11:5.3",
+      "pali": "Kodho mosavajjañca kathaṅkathā ca,"
+    },
+    {
+      "id": "snp4.11:5.4",
+      "pali": "Ye vāpi dhammā samaṇena vuttā”."
+    },
+    {
+      "id": "snp4.11:6.1",
+      "pali": "“Sātaṁ asātanti yamāhu loke,"
+    },
+    {
+      "id": "snp4.11:6.2",
+      "pali": "Tamūpanissāya pahoti chando;"
+    },
+    {
+      "id": "snp4.11:6.3",
+      "pali": "Rūpesu disvā vibhavaṁ bhavañca,"
+    },
+    {
+      "id": "snp4.11:6.4",
+      "pali": "Vinicchayaṁ kubbati jantu loke."
+    },
+    {
+      "id": "snp4.11:7.1",
+      "pali": "Kodho mosavajjañca kathaṅkathā ca,"
+    },
+    {
+      "id": "snp4.11:7.2",
+      "pali": "Etepi dhammā dvayameva sante;"
+    },
+    {
+      "id": "snp4.11:7.3",
+      "pali": "Kathaṅkathī ñāṇapathāya sikkhe,"
+    },
+    {
+      "id": "snp4.11:7.4",
+      "pali": "Ñatvā pavuttā samaṇena dhammā”."
+    },
+    {
+      "id": "snp4.11:8.1",
+      "pali": "“Sātaṁ asātañca kutonidānā,"
+    },
+    {
+      "id": "snp4.11:8.2",
+      "pali": "Kismiṁ asante na bhavanti hete;"
+    },
+    {
+      "id": "snp4.11:8.3",
+      "pali": "Vibhavaṁ bhavañcāpi yametamatthaṁ,"
+    },
+    {
+      "id": "snp4.11:8.4",
+      "pali": "Etaṁ me pabrūhi yatonidānaṁ”."
+    },
+    {
+      "id": "snp4.11:9.1",
+      "pali": "“Phassanidānaṁ sātaṁ asātaṁ,"
+    },
+    {
+      "id": "snp4.11:9.2",
+      "pali": "Phasse asante na bhavanti hete;"
+    },
+    {
+      "id": "snp4.11:9.3",
+      "pali": "Vibhavaṁ bhavañcāpi yametamatthaṁ,"
+    },
+    {
+      "id": "snp4.11:9.4",
+      "pali": "Etaṁ te pabrūmi itonidānaṁ”."
+    },
+    {
+      "id": "snp4.11:10.1",
+      "pali": "“Phasso nu lokasmi kutonidāno,"
+    },
+    {
+      "id": "snp4.11:10.2",
+      "pali": "Pariggahā cāpi kutopahūtā;"
+    },
+    {
+      "id": "snp4.11:10.3",
+      "pali": "Kismiṁ asante na mamattamatthi,"
+    },
+    {
+      "id": "snp4.11:10.4",
+      "pali": "Kismiṁ vibhūte na phusanti phassā”."
+    },
+    {
+      "id": "snp4.11:11.1",
+      "pali": "“Nāmañca rūpañca paṭicca phasso,"
+    },
+    {
+      "id": "snp4.11:11.2",
+      "pali": "Icchānidānāni pariggahāni;"
+    },
+    {
+      "id": "snp4.11:11.3",
+      "pali": "Icchāyasantyā na mamattamatthi,"
+    },
+    {
+      "id": "snp4.11:11.4",
+      "pali": "Rūpe vibhūte na phusanti phassā”."
+    },
+    {
+      "id": "snp4.11:12.1",
+      "pali": "“Kathaṁ sametassa vibhoti rūpaṁ,"
+    },
+    {
+      "id": "snp4.11:12.2",
+      "pali": "Sukhaṁ dukhañcāpi kathaṁ vibhoti;"
+    },
+    {
+      "id": "snp4.11:12.3",
+      "pali": "Etaṁ me pabrūhi yathā vibhoti,"
+    },
+    {
+      "id": "snp4.11:12.4",
+      "pali": "Taṁ jāniyāmāti me mano ahu”."
+    },
+    {
+      "id": "snp4.11:13.1",
+      "pali": "“Na saññasaññī na visaññasaññī,"
+    },
+    {
+      "id": "snp4.11:13.2",
+      "pali": "Nopi asaññī na vibhūtasaññī;"
+    },
+    {
+      "id": "snp4.11:13.3",
+      "pali": "Evaṁ sametassa vibhoti rūpaṁ,"
+    },
+    {
+      "id": "snp4.11:13.4",
+      "pali": "Saññānidānā hi papañcasaṅkhā”."
+    },
+    {
+      "id": "snp4.11:14.1",
+      "pali": "“Yaṁ taṁ apucchimha akittayī no,"
+    },
+    {
+      "id": "snp4.11:14.2",
+      "pali": "Aññaṁ taṁ pucchāma tadiṅgha brūhi;"
+    },
+    {
+      "id": "snp4.11:14.3",
+      "pali": "Ettāvataggaṁ nu vadanti heke,"
+    },
+    {
+      "id": "snp4.11:14.4",
+      "pali": "Yakkhassa suddhiṁ idha paṇḍitāse;"
+    },
+    {
+      "id": "snp4.11:14.5",
+      "pali": "Udāhu aññampi vadanti etto”."
+    },
+    {
+      "id": "snp4.11:15.1",
+      "pali": "“Ettāvataggampi vadanti heke,"
+    },
+    {
+      "id": "snp4.11:15.2",
+      "pali": "Yakkhassa suddhiṁ idha paṇḍitāse;"
+    },
+    {
+      "id": "snp4.11:15.3",
+      "pali": "Tesaṁ paneke samayaṁ vadanti,"
+    },
+    {
+      "id": "snp4.11:15.4",
+      "pali": "Anupādisese kusalā vadānā."
+    },
+    {
+      "id": "snp4.11:16.1",
+      "pali": "Ete ca ñatvā upanissitāti,"
+    },
+    {
+      "id": "snp4.11:16.2",
+      "pali": "Ñatvā munī nissaye so vimaṁsī;"
+    },
+    {
+      "id": "snp4.11:16.3",
+      "pali": "Ñatvā vimutto na vivādameti,"
+    },
+    {
+      "id": "snp4.11:16.4",
+      "pali": "Bhavābhavāya na sameti dhīro”ti."
+    },
+    {
+      "id": "snp4.11:16.5",
+      "pali": "Kalahavivādasuttaṁ ekādasamaṁ."
+    }
+  ]
+}

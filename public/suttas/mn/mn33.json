@@ -1,0 +1,471 @@
+{
+  "uid": "mn33",
+  "title": "Mahāgopālakasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn33:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn33:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn33:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn33:1.4",
+      "pali": "“bhikkhavo”ti."
+    },
+    {
+      "id": "mn33:1.5",
+      "pali": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn33:1.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn33:2.1",
+      "pali": "“Ekādasahi, bhikkhave, aṅgehi samannāgato gopālako abhabbo gogaṇaṁ pariharituṁ phātiṁ kātuṁ."
+    },
+    {
+      "id": "mn33:2.2",
+      "pali": "Katamehi ekādasahi?"
+    },
+    {
+      "id": "mn33:2.3",
+      "pali": "Idha, bhikkhave, gopālako na rūpaññū hoti, na lakkhaṇakusalo hoti, na āsāṭikaṁ hāretā hoti, na vaṇaṁ paṭicchādetā hoti, na dhūmaṁ kattā hoti, na titthaṁ jānāti, na pītaṁ jānāti, na vīthiṁ jānāti, na gocarakusalo hoti anavasesadohī ca hoti. Ye te usabhā gopitaro gopariṇāyakā te na atirekapūjāya pūjetā hoti."
+    },
+    {
+      "id": "mn33:2.4",
+      "pali": "Imehi kho, bhikkhave, ekādasahi aṅgehi samannāgato gopālako abhabbo gogaṇaṁ pariharituṁ phātiṁ kātuṁ."
+    },
+    {
+      "id": "mn33:3.1",
+      "pali": "Evameva kho, bhikkhave, ekādasahi dhammehi samannāgato bhikkhu abhabbo imasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjituṁ."
+    },
+    {
+      "id": "mn33:3.2",
+      "pali": "Katamehi ekādasahi?"
+    },
+    {
+      "id": "mn33:3.3",
+      "pali": "Idha, bhikkhave, bhikkhu na rūpaññū hoti, na lakkhaṇakusalo hoti, na āsāṭikaṁ hāretā hoti, na vaṇaṁ paṭicchādetā hoti, na dhūmaṁ kattā hoti, na titthaṁ jānāti, na pītaṁ jānāti, na vīthiṁ jānāti, na gocarakusalo hoti, anavasesadohī ca hoti. Ye te bhikkhū therā rattaññū cirapabbajitā saṅghapitaro saṅghapariṇāyakā te na atirekapūjāya pūjetā hoti."
+    },
+    {
+      "id": "mn33:4.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu na rūpaññū hoti?"
+    },
+    {
+      "id": "mn33:4.2",
+      "pali": "Idha, bhikkhave, bhikkhu yaṁ kiñci rūpaṁ sabbaṁ rūpaṁ ‘cattāri mahābhūtāni, catunnañca mahābhūtānaṁ upādāyarūpan’ti yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "mn33:4.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu na rūpaññū hoti."
+    },
+    {
+      "id": "mn33:5.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu na lakkhaṇakusalo hoti?"
+    },
+    {
+      "id": "mn33:5.2",
+      "pali": "Idha, bhikkhave, bhikkhu ‘kammalakkhaṇo bālo, kammalakkhaṇo paṇḍito’ti yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "mn33:5.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu na lakkhaṇakusalo hoti."
+    },
+    {
+      "id": "mn33:6.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu na āsāṭikaṁ hāretā hoti?"
+    },
+    {
+      "id": "mn33:6.2",
+      "pali": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ adhivāseti, nappajahati na vinodeti na byantī karoti na anabhāvaṁ gameti. Uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ …pe… uppannuppanne pāpake akusale dhamme adhivāseti, nappajahati na vinodeti na byantī karoti na anabhāvaṁ gameti."
+    },
+    {
+      "id": "mn33:6.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu na āsāṭikaṁ hāretā hoti."
+    },
+    {
+      "id": "mn33:7.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu na vaṇaṁ paṭicchādetā hoti?"
+    },
+    {
+      "id": "mn33:7.2",
+      "pali": "Idha, bhikkhave, bhikkhu cakkhunā rūpaṁ disvā nimittaggāhī hoti anubyañjanaggāhī."
+    },
+    {
+      "id": "mn33:7.3",
+      "pali": "Yatvādhikaraṇamenaṁ cakkhundriyaṁ asaṁvutaṁ viharantaṁ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṁ, tassa saṁvarāya na paṭipajjati, na rakkhati cakkhundriyaṁ, cakkhundriye na saṁvaraṁ āpajjati."
+    },
+    {
+      "id": "mn33:7.4",
+      "pali": "Sotena saddaṁ sutvā …pe…"
+    },
+    {
+      "id": "mn33:7.5",
+      "pali": "ghānena gandhaṁ ghāyitvā …pe…"
+    },
+    {
+      "id": "mn33:7.6",
+      "pali": "jivhāya rasaṁ sāyitvā …pe…"
+    },
+    {
+      "id": "mn33:7.7",
+      "pali": "kāyena phoṭṭhabbaṁ phusitvā …pe…"
+    },
+    {
+      "id": "mn33:7.8",
+      "pali": "manasā dhammaṁ viññāya nimittaggāhī hoti anubyañjanaggāhī."
+    },
+    {
+      "id": "mn33:7.9",
+      "pali": "Yatvādhikaraṇamenaṁ manindriyaṁ asaṁvutaṁ viharantaṁ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṁ, tassa saṁvarāya na paṭipajjati, na rakkhati manindriyaṁ, manindriye na saṁvaraṁ āpajjati."
+    },
+    {
+      "id": "mn33:7.10",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu na vaṇaṁ paṭicchādetā hoti."
+    },
+    {
+      "id": "mn33:8.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu na dhūmaṁ kattā hoti?"
+    },
+    {
+      "id": "mn33:8.2",
+      "pali": "Idha, bhikkhave, bhikkhu yathāsutaṁ yathāpariyattaṁ dhammaṁ na vitthārena paresaṁ desetā hoti."
+    },
+    {
+      "id": "mn33:8.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu na dhūmaṁ kattā hoti."
+    },
+    {
+      "id": "mn33:9.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu na titthaṁ jānāti?"
+    },
+    {
+      "id": "mn33:9.2",
+      "pali": "Idha, bhikkhave, bhikkhu ye te bhikkhū bahussutā āgatāgamā dhammadharā vinayadharā mātikādharā, te kālena kālaṁ upasaṅkamitvā na paripucchati, na paripañhati:"
+    },
+    {
+      "id": "mn33:9.3",
+      "pali": "‘idaṁ, bhante, kathaṁ?"
+    },
+    {
+      "id": "mn33:9.4",
+      "pali": "Imassa ko attho’ti?"
+    },
+    {
+      "id": "mn33:9.5",
+      "pali": "Tassa te āyasmanto avivaṭañceva na vivaranti, anuttānīkatañca na uttānīkaronti, anekavihitesu ca kaṅkhāṭhānīyesu dhammesu kaṅkhaṁ na paṭivinodenti."
+    },
+    {
+      "id": "mn33:9.6",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu na titthaṁ jānāti."
+    },
+    {
+      "id": "mn33:10.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu na pītaṁ jānāti?"
+    },
+    {
+      "id": "mn33:10.2",
+      "pali": "Idha, bhikkhave, bhikkhu tathāgatappavedite dhammavinaye desiyamāne na labhati atthavedaṁ, na labhati dhammavedaṁ, na labhati dhammūpasaṁhitaṁ pāmojjaṁ."
+    },
+    {
+      "id": "mn33:10.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu na pītaṁ jānāti."
+    },
+    {
+      "id": "mn33:11.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu na vīthiṁ jānāti?"
+    },
+    {
+      "id": "mn33:11.2",
+      "pali": "Idha, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "mn33:11.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu na vīthiṁ jānāti."
+    },
+    {
+      "id": "mn33:12.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu na gocarakusalo hoti?"
+    },
+    {
+      "id": "mn33:12.2",
+      "pali": "Idha, bhikkhave, bhikkhu cattāro satipaṭṭhāne yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "mn33:12.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu na gocarakusalo hoti."
+    },
+    {
+      "id": "mn33:13.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu anavasesadohī hoti?"
+    },
+    {
+      "id": "mn33:13.2",
+      "pali": "Idha, bhikkhave, bhikkhuṁ saddhā gahapatikā abhihaṭṭhuṁ pavārenti cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārehi, tatra bhikkhu mattaṁ na jānāti paṭiggahaṇāya."
+    },
+    {
+      "id": "mn33:13.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu anavasesadohī hoti."
+    },
+    {
+      "id": "mn33:14.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu ye te bhikkhū therā rattaññū cirapabbajitā saṅghapitaro saṅghapariṇāyakā te na atirekapūjāya pūjetā hoti?"
+    },
+    {
+      "id": "mn33:14.2",
+      "pali": "Idha, bhikkhave, bhikkhu ye te bhikkhū therā rattaññū cirapabbajitā saṅghapitaro saṅghapariṇāyakā, tesu na mettaṁ kāyakammaṁ paccupaṭṭhāpeti āvi ceva raho ca;"
+    },
+    {
+      "id": "mn33:14.3",
+      "pali": "na mettaṁ vacīkammaṁ paccupaṭṭhāpeti āvi ceva raho ca;"
+    },
+    {
+      "id": "mn33:14.4",
+      "pali": "na mettaṁ manokammaṁ paccupaṭṭhāpeti āvi ceva raho ca."
+    },
+    {
+      "id": "mn33:14.5",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu ye te bhikkhū therā rattaññū cirapabbajitā saṅghapitaro saṅghapariṇāyakā te na atirekapūjāya pūjetā hoti."
+    },
+    {
+      "id": "mn33:14.6",
+      "pali": "Imehi kho, bhikkhave, ekādasahi dhammehi samannāgato bhikkhu abhabbo imasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjituṁ."
+    },
+    {
+      "id": "mn33:15.1",
+      "pali": "Ekādasahi, bhikkhave, aṅgehi samannāgato gopālako bhabbo gogaṇaṁ pariharituṁ phātiṁ kātuṁ."
+    },
+    {
+      "id": "mn33:15.2",
+      "pali": "Katamehi ekādasahi?"
+    },
+    {
+      "id": "mn33:15.3",
+      "pali": "Idha, bhikkhave, gopālako rūpaññū hoti, lakkhaṇakusalo hoti, āsāṭikaṁ hāretā hoti, vaṇaṁ paṭicchādetā hoti, dhūmaṁ kattā hoti, titthaṁ jānāti, pītaṁ jānāti, vīthiṁ jānāti, gocarakusalo hoti, sāvasesadohī ca hoti. Ye te usabhā gopitaro gopariṇāyakā te atirekapūjāya pūjetā hoti."
+    },
+    {
+      "id": "mn33:15.4",
+      "pali": "Imehi kho, bhikkhave, ekādasahi aṅgehi samannāgato gopālako bhabbo gogaṇaṁ pariharituṁ phātiṁ kātuṁ."
+    },
+    {
+      "id": "mn33:16.1",
+      "pali": "Evameva kho, bhikkhave, ekādasahi dhammehi samannāgato bhikkhu bhabbo imasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjituṁ."
+    },
+    {
+      "id": "mn33:16.2",
+      "pali": "Katamehi ekādasahi?"
+    },
+    {
+      "id": "mn33:16.3",
+      "pali": "Idha, bhikkhave, bhikkhu rūpaññū hoti, lakkhaṇakusalo hoti, āsāṭikaṁ hāretā hoti, vaṇaṁ paṭicchādetā hoti, dhūmaṁ kattā hoti, titthaṁ jānāti, pītaṁ jānāti, vīthiṁ jānāti, gocarakusalo hoti, sāvasesadohī ca hoti. Ye te bhikkhū therā rattaññū cirapabbajitā saṅghapitaro saṅghapariṇāyakā te atirekapūjāya pūjetā hoti."
+    },
+    {
+      "id": "mn33:17.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu rūpaññū hoti?"
+    },
+    {
+      "id": "mn33:17.2",
+      "pali": "Idha, bhikkhave, bhikkhu yaṁ kiñci rūpaṁ sabbaṁ rūpaṁ ‘cattāri mahābhūtāni, catunnañca mahābhūtānaṁ upādāyarūpan’ti yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "mn33:17.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu rūpaññū hoti."
+    },
+    {
+      "id": "mn33:18.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu lakkhaṇakusalo hoti?"
+    },
+    {
+      "id": "mn33:18.2",
+      "pali": "Idha, bhikkhave, bhikkhu kammalakkhaṇo bālo, kammalakkhaṇo paṇḍitoti yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "mn33:18.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu lakkhaṇakusalo hoti."
+    },
+    {
+      "id": "mn33:19.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu āsāṭikaṁ hāretā hoti?"
+    },
+    {
+      "id": "mn33:19.2",
+      "pali": "Idha, bhikkhave, bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti, pajahati vinodeti byantī karoti anabhāvaṁ gameti. Uppannaṁ byāpādavitakkaṁ …pe… uppannaṁ vihiṁsāvitakkaṁ …pe… uppannuppanne pāpake akusale dhamme nādhivāseti, pajahati vinodeti byantī karoti anabhāvaṁ gameti."
+    },
+    {
+      "id": "mn33:19.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu āsāṭikaṁ hāretā hoti."
+    },
+    {
+      "id": "mn33:20.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu vaṇaṁ paṭicchādetā hoti?"
+    },
+    {
+      "id": "mn33:20.2",
+      "pali": "Idha, bhikkhave, bhikkhu cakkhunā rūpaṁ disvā na nimittaggāhī hoti nānubyañjanaggāhī."
+    },
+    {
+      "id": "mn33:20.3",
+      "pali": "Yatvādhikaraṇamenaṁ cakkhundriyaṁ asaṁvutaṁ viharantaṁ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṁ tassa saṁvarāya paṭipajjati, rakkhati cakkhundriyaṁ, cakkhundriye saṁvaraṁ āpajjati."
+    },
+    {
+      "id": "mn33:20.4",
+      "pali": "Sotena saddaṁ sutvā …pe…"
+    },
+    {
+      "id": "mn33:20.5",
+      "pali": "ghānena gandhaṁ ghāyitvā …pe…"
+    },
+    {
+      "id": "mn33:20.6",
+      "pali": "jivhāya rasaṁ sāyitvā …pe…"
+    },
+    {
+      "id": "mn33:20.7",
+      "pali": "kāyena phoṭṭhabbaṁ phusitvā …pe…"
+    },
+    {
+      "id": "mn33:20.8",
+      "pali": "manasā dhammaṁ viññāya na nimittaggāhī hoti nānubyañjanaggāhī."
+    },
+    {
+      "id": "mn33:20.9",
+      "pali": "Yatvādhikaraṇamenaṁ manindriyaṁ asaṁvutaṁ viharantaṁ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṁ tassa saṁvarāya paṭipajjati, rakkhati manindriyaṁ, manindriye saṁvaraṁ āpajjati."
+    },
+    {
+      "id": "mn33:20.10",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu vaṇaṁ paṭicchādetā hoti."
+    },
+    {
+      "id": "mn33:21.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu dhūmaṁ kattā hoti?"
+    },
+    {
+      "id": "mn33:21.2",
+      "pali": "Idha, bhikkhave, bhikkhu yathāsutaṁ yathāpariyattaṁ dhammaṁ vitthārena paresaṁ desetā hoti."
+    },
+    {
+      "id": "mn33:21.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu dhūmaṁ kattā hoti."
+    },
+    {
+      "id": "mn33:22.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu titthaṁ jānāti?"
+    },
+    {
+      "id": "mn33:22.2",
+      "pali": "Idha, bhikkhave, bhikkhu ye te bhikkhū bahussutā āgatāgamā dhammadharā vinayadharā mātikādharā te kālena kālaṁ upasaṅkamitvā paripucchati, paripañhati:"
+    },
+    {
+      "id": "mn33:22.3",
+      "pali": "‘idaṁ, bhante, kathaṁ?"
+    },
+    {
+      "id": "mn33:22.4",
+      "pali": "Imassa ko attho’ti?"
+    },
+    {
+      "id": "mn33:22.5",
+      "pali": "Tassa te āyasmanto avivaṭañceva vivaranti, anuttānīkatañca uttānīkaronti, anekavihitesu ca kaṅkhāṭhānīyesu dhammesu kaṅkhaṁ paṭivinodenti."
+    },
+    {
+      "id": "mn33:22.6",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu titthaṁ jānāti."
+    },
+    {
+      "id": "mn33:23.1",
+      "pali": "Kathañca bhikkhave, bhikkhu pītaṁ jānāti?"
+    },
+    {
+      "id": "mn33:23.2",
+      "pali": "Idha, bhikkhave, bhikkhu tathāgatappavedite dhammavinaye desiyamāne labhati atthavedaṁ, labhati dhammavedaṁ, labhati dhammūpasaṁhitaṁ pāmojjaṁ."
+    },
+    {
+      "id": "mn33:23.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu pītaṁ jānāti."
+    },
+    {
+      "id": "mn33:24.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu vīthiṁ jānāti?"
+    },
+    {
+      "id": "mn33:24.2",
+      "pali": "Idha, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "mn33:24.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu vīthiṁ jānāti."
+    },
+    {
+      "id": "mn33:25.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu gocarakusalo hoti?"
+    },
+    {
+      "id": "mn33:25.2",
+      "pali": "Idha, bhikkhave, bhikkhu cattāro satipaṭṭhāne yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "mn33:25.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu gocarakusalo hoti."
+    },
+    {
+      "id": "mn33:26.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu sāvasesadohī hoti?"
+    },
+    {
+      "id": "mn33:26.2",
+      "pali": "Idha, bhikkhave, bhikkhuṁ saddhā gahapatikā abhihaṭṭhuṁ pavārenti cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārehi."
+    },
+    {
+      "id": "mn33:26.3",
+      "pali": "Tatra bhikkhu mattaṁ jānāti paṭiggahaṇāya."
+    },
+    {
+      "id": "mn33:26.4",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu sāvasesadohī hoti."
+    },
+    {
+      "id": "mn33:27.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu ye te bhikkhū therā rattaññū cirapabbajitā saṅghapitaro saṅghapariṇāyakā, te atirekapūjāya pūjetā hoti?"
+    },
+    {
+      "id": "mn33:27.2",
+      "pali": "Idha, bhikkhave, bhikkhu ye te bhikkhū therā rattaññū cirapabbajitā saṅghapitaro saṅghapariṇāyakā tesu mettaṁ kāyakammaṁ paccupaṭṭhāpeti āvi ceva raho ca;"
+    },
+    {
+      "id": "mn33:27.3",
+      "pali": "mettaṁ vacīkammaṁ paccupaṭṭhāpeti āvi ceva raho ca;"
+    },
+    {
+      "id": "mn33:27.4",
+      "pali": "mettaṁ manokammaṁ paccupaṭṭhāpeti āvi ceva raho ca."
+    },
+    {
+      "id": "mn33:27.5",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu ye te bhikkhū therā rattaññū cirapabbajitā saṅghapitaro saṅghapariṇāyakā te atirekapūjāya pūjetā hoti."
+    },
+    {
+      "id": "mn33:27.6",
+      "pali": "Imehi kho, bhikkhave, ekādasahi dhammehi samannāgato bhikkhu bhabbo imasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjitun”ti."
+    },
+    {
+      "id": "mn33:27.7",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn33:27.8",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn33:27.9",
+      "pali": "Mahāgopālakasuttaṁ niṭṭhitaṁ tatiyaṁ."
+    }
+  ]
+}

@@ -1,0 +1,1867 @@
+{
+  "uid": "dn9",
+  "title": "Poṭṭhapādasutta",
+  "nikaya": "dn",
+  "segments": [
+    {
+      "id": "dn9:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "dn9:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "dn9:1.3",
+      "pali": "Tena kho pana samayena poṭṭhapādo paribbājako samayappavādake tindukācīre ekasālake mallikāya ārāme paṭivasati mahatiyā paribbājakaparisāya saddhiṁ tiṁsamattehi paribbājakasatehi."
+    },
+    {
+      "id": "dn9:1.4",
+      "pali": "Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "dn9:2.1",
+      "pali": "Atha kho bhagavato etadahosi:"
+    },
+    {
+      "id": "dn9:2.2",
+      "pali": "“atippago kho tāva sāvatthiyaṁ piṇḍāya carituṁ."
+    },
+    {
+      "id": "dn9:2.3",
+      "pali": "Yannūnāhaṁ yena samayappavādako tindukācīro ekasālako mallikāya ārāmo, yena poṭṭhapādo paribbājako tenupasaṅkameyyan”ti."
+    },
+    {
+      "id": "dn9:2.4",
+      "pali": "Atha kho bhagavā yena samayappavādako tindukācīro ekasālako mallikāya ārāmo tenupasaṅkami."
+    },
+    {
+      "id": "dn9:3.1",
+      "pali": "Tena kho pana samayena poṭṭhapādo paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā."
+    },
+    {
+      "id": "dn9:3.2",
+      "pali": "Seyyathidaṁ—rājakathaṁ corakathaṁ mahāmattakathaṁ senākathaṁ bhayakathaṁ yuddhakathaṁ annakathaṁ pānakathaṁ vatthakathaṁ sayanakathaṁ mālākathaṁ gandhakathaṁ ñātikathaṁ yānakathaṁ gāmakathaṁ nigamakathaṁ nagarakathaṁ janapadakathaṁ itthikathaṁ sūrakathaṁ visikhākathaṁ kumbhaṭṭhānakathaṁ pubbapetakathaṁ nānattakathaṁ lokakkhāyikaṁ samuddakkhāyikaṁ itibhavābhavakathaṁ iti vā."
+    },
+    {
+      "id": "dn9:4.1",
+      "pali": "Addasā kho poṭṭhapādo paribbājako bhagavantaṁ dūratova āgacchantaṁ;"
+    },
+    {
+      "id": "dn9:4.2",
+      "pali": "disvāna sakaṁ parisaṁ saṇṭhapesi:"
+    },
+    {
+      "id": "dn9:4.3",
+      "pali": "“appasaddā bhonto hontu, mā bhonto saddamakattha."
+    },
+    {
+      "id": "dn9:4.4",
+      "pali": "Ayaṁ samaṇo gotamo āgacchati."
+    },
+    {
+      "id": "dn9:4.5",
+      "pali": "Appasaddakāmo kho so āyasmā appasaddassa vaṇṇavādī."
+    },
+    {
+      "id": "dn9:4.6",
+      "pali": "Appeva nāma appasaddaṁ parisaṁ viditvā upasaṅkamitabbaṁ maññeyyā”ti."
+    },
+    {
+      "id": "dn9:4.7",
+      "pali": "Evaṁ vutte, te paribbājakā tuṇhī ahesuṁ."
+    },
+    {
+      "id": "dn9:5.1",
+      "pali": "Atha kho bhagavā yena poṭṭhapādo paribbājako tenupasaṅkami."
+    },
+    {
+      "id": "dn9:5.2",
+      "pali": "Atha kho poṭṭhapādo paribbājako bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn9:5.3",
+      "pali": "“etu kho, bhante, bhagavā."
+    },
+    {
+      "id": "dn9:5.4",
+      "pali": "Svāgataṁ, bhante, bhagavato."
+    },
+    {
+      "id": "dn9:5.5",
+      "pali": "Cirassaṁ kho, bhante, bhagavā imaṁ pariyāyamakāsi, yadidaṁ idhāgamanāya."
+    },
+    {
+      "id": "dn9:5.6",
+      "pali": "Nisīdatu, bhante, bhagavā, idaṁ āsanaṁ paññattan”ti."
+    },
+    {
+      "id": "dn9:5.7",
+      "pali": "Nisīdi bhagavā paññatte āsane."
+    },
+    {
+      "id": "dn9:5.8",
+      "pali": "Poṭṭhapādopi kho paribbājako aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "dn9:5.9",
+      "pali": "Ekamantaṁ nisinnaṁ kho poṭṭhapādaṁ paribbājakaṁ bhagavā etadavoca:"
+    },
+    {
+      "id": "dn9:5.10",
+      "pali": "“kāya nuttha, poṭṭhapāda, etarahi kathāya sannisinnā, kā ca pana vo antarākathā vippakatā”ti?"
+    },
+    {
+      "id": "dn9:6.1",
+      "pali": "Evaṁ vutte, poṭṭhapādo paribbājako bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn9:6.2",
+      "pali": "“tiṭṭhatesā, bhante, kathā, yāya mayaṁ etarahi kathāya sannisinnā."
+    },
+    {
+      "id": "dn9:6.3",
+      "pali": "Nesā, bhante, kathā bhagavato dullabhā bhavissati pacchāpi savanāya."
+    },
+    {
+      "id": "dn9:6.4",
+      "pali": "Purimāni, bhante, divasāni purimatarāni, nānātitthiyānaṁ samaṇabrāhmaṇānaṁ kotūhalasālāya sannisinnānaṁ sannipatitānaṁ abhisaññānirodhe kathā udapādi:"
+    },
+    {
+      "id": "dn9:6.5",
+      "pali": "‘kathaṁ nu kho, bho, abhisaññānirodho hotī’ti?"
+    },
+    {
+      "id": "dn9:6.6",
+      "pali": "Tatrekacce evamāhaṁsu:"
+    },
+    {
+      "id": "dn9:6.7",
+      "pali": "‘ahetū appaccayā purisassa saññā uppajjantipi nirujjhantipi."
+    },
+    {
+      "id": "dn9:6.8",
+      "pali": "Yasmiṁ samaye uppajjanti, saññī tasmiṁ samaye hoti."
+    },
+    {
+      "id": "dn9:6.9",
+      "pali": "Yasmiṁ samaye nirujjhanti, asaññī tasmiṁ samaye hotī’ti."
+    },
+    {
+      "id": "dn9:6.10",
+      "pali": "Ittheke abhisaññānirodhaṁ paññapenti."
+    },
+    {
+      "id": "dn9:6.11",
+      "pali": "Tamañño evamāha:"
+    },
+    {
+      "id": "dn9:6.12",
+      "pali": "‘na kho pana metaṁ, bho, evaṁ bhavissati."
+    },
+    {
+      "id": "dn9:6.13",
+      "pali": "Saññā hi, bho, purisassa attā."
+    },
+    {
+      "id": "dn9:6.14",
+      "pali": "Sā ca kho upetipi apetipi."
+    },
+    {
+      "id": "dn9:6.15",
+      "pali": "Yasmiṁ samaye upeti, saññī tasmiṁ samaye hoti."
+    },
+    {
+      "id": "dn9:6.16",
+      "pali": "Yasmiṁ samaye apeti, asaññī tasmiṁ samaye hotī’ti."
+    },
+    {
+      "id": "dn9:6.17",
+      "pali": "Ittheke abhisaññānirodhaṁ paññapenti."
+    },
+    {
+      "id": "dn9:6.18",
+      "pali": "Tamañño evamāha:"
+    },
+    {
+      "id": "dn9:6.19",
+      "pali": "‘na kho pana metaṁ, bho, evaṁ bhavissati."
+    },
+    {
+      "id": "dn9:6.20",
+      "pali": "Santi hi, bho, samaṇabrāhmaṇā mahiddhikā mahānubhāvā."
+    },
+    {
+      "id": "dn9:6.21",
+      "pali": "Te imassa purisassa saññaṁ upakaḍḍhantipi apakaḍḍhantipi."
+    },
+    {
+      "id": "dn9:6.22",
+      "pali": "Yasmiṁ samaye upakaḍḍhanti, saññī tasmiṁ samaye hoti."
+    },
+    {
+      "id": "dn9:6.23",
+      "pali": "Yasmiṁ samaye apakaḍḍhanti, asaññī tasmiṁ samaye hotī’ti."
+    },
+    {
+      "id": "dn9:6.24",
+      "pali": "Ittheke abhisaññānirodhaṁ paññapenti."
+    },
+    {
+      "id": "dn9:6.25",
+      "pali": "Tamañño evamāha:"
+    },
+    {
+      "id": "dn9:6.26",
+      "pali": "‘na kho pana metaṁ, bho, evaṁ bhavissati."
+    },
+    {
+      "id": "dn9:6.27",
+      "pali": "Santi hi, bho, devatā mahiddhikā mahānubhāvā."
+    },
+    {
+      "id": "dn9:6.28",
+      "pali": "Tā imassa purisassa saññaṁ upakaḍḍhantipi apakaḍḍhantipi."
+    },
+    {
+      "id": "dn9:6.29",
+      "pali": "Yasmiṁ samaye upakaḍḍhanti, saññī tasmiṁ samaye hoti."
+    },
+    {
+      "id": "dn9:6.30",
+      "pali": "Yasmiṁ samaye apakaḍḍhanti, asaññī tasmiṁ samaye hotī’ti."
+    },
+    {
+      "id": "dn9:6.31",
+      "pali": "Ittheke abhisaññānirodhaṁ paññapenti."
+    },
+    {
+      "id": "dn9:6.32",
+      "pali": "Tassa mayhaṁ, bhante, bhagavantaṁyeva ārabbha sati udapādi:"
+    },
+    {
+      "id": "dn9:6.33",
+      "pali": "‘aho nūna bhagavā, aho nūna sugato, yo imesaṁ dhammānaṁ sukusalo’ti."
+    },
+    {
+      "id": "dn9:6.34",
+      "pali": "Bhagavā, bhante, kusalo, bhagavā pakataññū abhisaññānirodhassa."
+    },
+    {
+      "id": "dn9:6.35",
+      "pali": "Kathaṁ nu kho, bhante, abhisaññānirodho hotī”ti?"
+    },
+    {
+      "id": "dn9:7.1",
+      "pali": "“Tatra, poṭṭhapāda, ye te samaṇabrāhmaṇā evamāhaṁsu:"
+    },
+    {
+      "id": "dn9:7.2",
+      "pali": "‘ahetū appaccayā purisassa saññā uppajjantipi nirujjhantipī’ti, āditova tesaṁ aparaddhaṁ."
+    },
+    {
+      "id": "dn9:7.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn9:7.4",
+      "pali": "Sahetū hi, poṭṭhapāda, sappaccayā purisassa saññā uppajjantipi nirujjhantipi."
+    },
+    {
+      "id": "dn9:7.5",
+      "pali": "Sikkhā ekā saññā uppajjati, sikkhā ekā saññā nirujjhati."
+    },
+    {
+      "id": "dn9:7.6",
+      "pali": "Kā ca sikkhā”ti? Bhagavā avoca."
+    },
+    {
+      "id": "dn9:7.7",
+      "pali": "“Idha, poṭṭhapāda, tathāgato loke uppajjati arahaṁ, sammāsambuddho …pe…"
+    },
+    {
+      "id": "dn9:7.8",
+      "pali": "Evaṁ kho, poṭṭhapāda, bhikkhu sīlasampanno hoti"
+    },
+    {
+      "id": "dn9:8.1",
+      "pali": "…pe…"
+    },
+    {
+      "id": "dn9:9.1",
+      "pali": "tassime pañcanīvaraṇe pahīne attani samanupassato pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati."
+    },
+    {
+      "id": "dn9:10.1",
+      "pali": "So vivicceva kāmehi, vivicca akusalehi dhammehi, savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn9:10.2",
+      "pali": "Tassa yā purimā kāmasaññā, sā nirujjhati."
+    },
+    {
+      "id": "dn9:10.3",
+      "pali": "Vivekajapītisukhasukhumasaccasaññā tasmiṁ samaye hoti, vivekajapītisukhasukhumasaccasaññīyeva tasmiṁ samaye hoti."
+    },
+    {
+      "id": "dn9:10.4",
+      "pali": "Evampi sikkhā ekā saññā uppajjati, sikkhā ekā saññā nirujjhati."
+    },
+    {
+      "id": "dn9:10.5",
+      "pali": "Ayaṁ sikkhā”ti bhagavā avoca."
+    },
+    {
+      "id": "dn9:11.1",
+      "pali": "“Puna caparaṁ, poṭṭhapāda, bhikkhu vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn9:11.2",
+      "pali": "Tassa yā purimā vivekajapītisukhasukhumasaccasaññā, sā nirujjhati."
+    },
+    {
+      "id": "dn9:11.3",
+      "pali": "Samādhijapītisukhasukhumasaccasaññā tasmiṁ samaye hoti, samādhijapītisukhasukhumasaccasaññīyeva tasmiṁ samaye hoti."
+    },
+    {
+      "id": "dn9:11.4",
+      "pali": "Evampi sikkhā ekā saññā uppajjati, sikkhā ekā saññā nirujjhati."
+    },
+    {
+      "id": "dn9:11.5",
+      "pali": "Ayampi sikkhā”ti bhagavā avoca."
+    },
+    {
+      "id": "dn9:12.1",
+      "pali": "“Puna caparaṁ, poṭṭhapāda, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti, tatiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn9:12.2",
+      "pali": "Tassa yā purimā samādhijapītisukhasukhumasaccasaññā, sā nirujjhati."
+    },
+    {
+      "id": "dn9:12.3",
+      "pali": "Upekkhāsukhasukhumasaccasaññā tasmiṁ samaye hoti, upekkhāsukhasukhumasaccasaññīyeva tasmiṁ samaye hoti."
+    },
+    {
+      "id": "dn9:12.4",
+      "pali": "Evampi sikkhā ekā saññā uppajjati, sikkhā ekā saññā nirujjhati."
+    },
+    {
+      "id": "dn9:12.5",
+      "pali": "Ayampi sikkhā”ti bhagavā avoca."
+    },
+    {
+      "id": "dn9:13.1",
+      "pali": "“Puna caparaṁ, poṭṭhapāda, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn9:13.2",
+      "pali": "Tassa yā purimā upekkhāsukhasukhumasaccasaññā, sā nirujjhati."
+    },
+    {
+      "id": "dn9:13.3",
+      "pali": "Adukkhamasukhasukhumasaccasaññā tasmiṁ samaye hoti, adukkhamasukhasukhumasaccasaññīyeva tasmiṁ samaye hoti."
+    },
+    {
+      "id": "dn9:13.4",
+      "pali": "Evampi sikkhā ekā saññā uppajjati, sikkhā ekā saññā nirujjhati."
+    },
+    {
+      "id": "dn9:13.5",
+      "pali": "Ayampi sikkhā”ti bhagavā avoca."
+    },
+    {
+      "id": "dn9:14.1",
+      "pali": "“Puna caparaṁ, poṭṭhapāda, bhikkhu sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn9:14.2",
+      "pali": "Tassa yā purimā rūpasaññā, sā nirujjhati."
+    },
+    {
+      "id": "dn9:14.3",
+      "pali": "Ākāsānañcāyatanasukhumasaccasaññā tasmiṁ samaye hoti, ākāsānañcāyatanasukhumasaccasaññīyeva tasmiṁ samaye hoti."
+    },
+    {
+      "id": "dn9:14.4",
+      "pali": "Evampi sikkhā ekā saññā uppajjati, sikkhā ekā saññā nirujjhati."
+    },
+    {
+      "id": "dn9:14.5",
+      "pali": "Ayampi sikkhā”ti bhagavā avoca."
+    },
+    {
+      "id": "dn9:15.1",
+      "pali": "“Puna caparaṁ, poṭṭhapāda, bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn9:15.2",
+      "pali": "Tassa yā purimā ākāsānañcāyatanasukhumasaccasaññā, sā nirujjhati."
+    },
+    {
+      "id": "dn9:15.3",
+      "pali": "Viññāṇañcāyatanasukhumasaccasaññā tasmiṁ samaye hoti, viññāṇañcāyatanasukhumasaccasaññīyeva tasmiṁ samaye hoti."
+    },
+    {
+      "id": "dn9:15.4",
+      "pali": "Evampi sikkhā ekā saññā uppajjati, sikkhā ekā saññā nirujjhati."
+    },
+    {
+      "id": "dn9:15.5",
+      "pali": "Ayampi sikkhā”ti bhagavā avoca."
+    },
+    {
+      "id": "dn9:16.1",
+      "pali": "“Puna caparaṁ, poṭṭhapāda, bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn9:16.2",
+      "pali": "Tassa yā purimā viññāṇañcāyatanasukhumasaccasaññā, sā nirujjhati."
+    },
+    {
+      "id": "dn9:16.3",
+      "pali": "Ākiñcaññāyatanasukhumasaccasaññā tasmiṁ samaye hoti, ākiñcaññāyatanasukhumasaccasaññīyeva tasmiṁ samaye hoti."
+    },
+    {
+      "id": "dn9:16.4",
+      "pali": "Evampi sikkhā ekā saññā uppajjati, sikkhā ekā saññā nirujjhati."
+    },
+    {
+      "id": "dn9:16.5",
+      "pali": "Ayampi sikkhā”ti bhagavā avoca."
+    },
+    {
+      "id": "dn9:17.1",
+      "pali": "“Yato kho, poṭṭhapāda, bhikkhu idha sakasaññī hoti, so tato amutra tato amutra anupubbena saññaggaṁ phusati."
+    },
+    {
+      "id": "dn9:17.2",
+      "pali": "Tassa saññagge ṭhitassa evaṁ hoti:"
+    },
+    {
+      "id": "dn9:17.3",
+      "pali": "‘cetayamānassa me pāpiyo, acetayamānassa me seyyo."
+    },
+    {
+      "id": "dn9:17.4",
+      "pali": "Ahañceva kho pana ceteyyaṁ, abhisaṅkhareyyaṁ, imā ca me saññā nirujjheyyuṁ, aññā ca oḷārikā saññā uppajjeyyuṁ;"
+    },
+    {
+      "id": "dn9:17.5",
+      "pali": "yannūnāhaṁ na ceva ceteyyaṁ na ca abhisaṅkhareyyan’ti."
+    },
+    {
+      "id": "dn9:17.6",
+      "pali": "So na ceva ceteti, na ca abhisaṅkharoti."
+    },
+    {
+      "id": "dn9:17.7",
+      "pali": "Tassa acetayato anabhisaṅkharoto tā ceva saññā nirujjhanti, aññā ca oḷārikā saññā na uppajjanti."
+    },
+    {
+      "id": "dn9:17.8",
+      "pali": "So nirodhaṁ phusati."
+    },
+    {
+      "id": "dn9:17.9",
+      "pali": "Evaṁ kho, poṭṭhapāda, anupubbābhisaññānirodhasampajānasamāpatti hoti."
+    },
+    {
+      "id": "dn9:18.1",
+      "pali": "Taṁ kiṁ maññasi, poṭṭhapāda,"
+    },
+    {
+      "id": "dn9:18.2",
+      "pali": "api nu te ito pubbe evarūpā anupubbābhisaññānirodhasampajānasamāpatti sutapubbā”ti?"
+    },
+    {
+      "id": "dn9:18.3",
+      "pali": "“No hetaṁ, bhante."
+    },
+    {
+      "id": "dn9:18.4",
+      "pali": "Evaṁ kho ahaṁ, bhante, bhagavato bhāsitaṁ ājānāmi:"
+    },
+    {
+      "id": "dn9:18.5",
+      "pali": "‘yato kho, poṭṭhapāda, bhikkhu idha sakasaññī hoti, so tato amutra tato amutra anupubbena saññaggaṁ phusati,"
+    },
+    {
+      "id": "dn9:18.6",
+      "pali": "tassa saññagge ṭhitassa evaṁ hoti:"
+    },
+    {
+      "id": "dn9:18.7",
+      "pali": "“cetayamānassa me pāpiyo, acetayamānassa me seyyo."
+    },
+    {
+      "id": "dn9:18.8",
+      "pali": "Ahañceva kho pana ceteyyaṁ abhisaṅkhareyyaṁ, imā ca me saññā nirujjheyyuṁ, aññā ca oḷārikā saññā uppajjeyyuṁ;"
+    },
+    {
+      "id": "dn9:18.9",
+      "pali": "yannūnāhaṁ na ceva ceteyyaṁ, na ca abhisaṅkhareyyan”ti."
+    },
+    {
+      "id": "dn9:18.10",
+      "pali": "So na ceva ceteti, na cābhisaṅkharoti, tassa acetayato anabhisaṅkharoto tā ceva saññā nirujjhanti, aññā ca oḷārikā saññā na uppajjanti."
+    },
+    {
+      "id": "dn9:18.11",
+      "pali": "So nirodhaṁ phusati."
+    },
+    {
+      "id": "dn9:18.12",
+      "pali": "Evaṁ kho, poṭṭhapāda, anupubbābhisaññānirodhasampajānasamāpatti hotī’”ti."
+    },
+    {
+      "id": "dn9:18.13",
+      "pali": "“Evaṁ, poṭṭhapādā”ti."
+    },
+    {
+      "id": "dn9:19.1",
+      "pali": "“Ekaññeva nu kho, bhante, bhagavā saññaggaṁ paññapeti, udāhu puthūpi saññagge paññapetī”ti?"
+    },
+    {
+      "id": "dn9:19.2",
+      "pali": "“Ekampi kho ahaṁ, poṭṭhapāda, saññaggaṁ paññapemi, puthūpi saññagge paññapemī”ti."
+    },
+    {
+      "id": "dn9:19.3",
+      "pali": "“Yathā kathaṁ pana, bhante, bhagavā ekampi saññaggaṁ paññapeti, puthūpi saññagge paññapetī”ti?"
+    },
+    {
+      "id": "dn9:19.4",
+      "pali": "“Yathā yathā kho, poṭṭhapāda, nirodhaṁ phusati tathā tathāhaṁ saññaggaṁ paññapemi."
+    },
+    {
+      "id": "dn9:19.5",
+      "pali": "Evaṁ kho ahaṁ, poṭṭhapāda, ekampi saññaggaṁ paññapemi, puthūpi saññagge paññapemī”ti."
+    },
+    {
+      "id": "dn9:20.1",
+      "pali": "“Saññā nu kho, bhante, paṭhamaṁ uppajjati, pacchā ñāṇaṁ, udāhu ñāṇaṁ paṭhamaṁ uppajjati, pacchā saññā, udāhu saññā ca ñāṇañca apubbaṁ acarimaṁ uppajjantī”ti?"
+    },
+    {
+      "id": "dn9:20.2",
+      "pali": "“Saññā kho, poṭṭhapāda, paṭhamaṁ uppajjati, pacchā ñāṇaṁ, saññuppādā ca pana ñāṇuppādo hoti."
+    },
+    {
+      "id": "dn9:20.3",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "dn9:20.4",
+      "pali": "‘idappaccayā kira me ñāṇaṁ udapādī’ti."
+    },
+    {
+      "id": "dn9:20.5",
+      "pali": "Iminā kho etaṁ, poṭṭhapāda, pariyāyena veditabbaṁ—"
+    },
+    {
+      "id": "dn9:20.6",
+      "pali": "yathā saññā paṭhamaṁ uppajjati, pacchā ñāṇaṁ, saññuppādā ca pana ñāṇuppādo hotī”ti."
+    },
+    {
+      "id": "dn9:21.1",
+      "pali": "“Saññā nu kho, bhante, purisassa attā, udāhu aññā saññā añño attā”ti?"
+    },
+    {
+      "id": "dn9:21.2",
+      "pali": "“Kaṁ pana tvaṁ, poṭṭhapāda, attānaṁ paccesī”ti?"
+    },
+    {
+      "id": "dn9:21.3",
+      "pali": "“Oḷārikaṁ kho ahaṁ, bhante, attānaṁ paccemi rūpiṁ cātumahābhūtikaṁ kabaḷīkārāhārabhakkhan”ti."
+    },
+    {
+      "id": "dn9:21.4",
+      "pali": "“Oḷāriko ca hi te, poṭṭhapāda, attā abhavissa rūpī cātumahābhūtiko kabaḷīkārāhārabhakkho. Evaṁ santaṁ kho te, poṭṭhapāda, aññāva saññā bhavissati añño attā."
+    },
+    {
+      "id": "dn9:21.5",
+      "pali": "Tadamināpetaṁ, poṭṭhapāda, pariyāyena veditabbaṁ yathā aññāva saññā bhavissati añño attā."
+    },
+    {
+      "id": "dn9:21.6",
+      "pali": "Tiṭṭhateva sāyaṁ, poṭṭhapāda, oḷāriko attā rūpī cātumahābhūtiko kabaḷīkārāhārabhakkho, atha imassa purisassa aññā ca saññā uppajjanti, aññā ca saññā nirujjhanti."
+    },
+    {
+      "id": "dn9:21.7",
+      "pali": "Iminā kho etaṁ, poṭṭhapāda, pariyāyena veditabbaṁ yathā aññāva saññā bhavissati añño attā”ti."
+    },
+    {
+      "id": "dn9:22.1",
+      "pali": "“Manomayaṁ kho ahaṁ, bhante, attānaṁ paccemi sabbaṅgapaccaṅgiṁ ahīnindriyan”ti."
+    },
+    {
+      "id": "dn9:22.2",
+      "pali": "“Manomayo ca hi te, poṭṭhapāda, attā abhavissa sabbaṅgapaccaṅgī ahīnindriyo, evaṁ santampi kho te, poṭṭhapāda, aññāva saññā bhavissati añño attā."
+    },
+    {
+      "id": "dn9:22.3",
+      "pali": "Tadamināpetaṁ, poṭṭhapāda, pariyāyena veditabbaṁ yathā aññāva saññā bhavissati añño attā."
+    },
+    {
+      "id": "dn9:22.4",
+      "pali": "Tiṭṭhateva sāyaṁ, poṭṭhapāda, manomayo attā sabbaṅgapaccaṅgī ahīnindriyo, atha imassa purisassa aññā ca saññā uppajjanti, aññā ca saññā nirujjhanti."
+    },
+    {
+      "id": "dn9:22.5",
+      "pali": "Imināpi kho etaṁ, poṭṭhapāda, pariyāyena veditabbaṁ yathā aññāva saññā bhavissati añño attā”ti."
+    },
+    {
+      "id": "dn9:23.1",
+      "pali": "“Arūpiṁ kho ahaṁ, bhante, attānaṁ paccemi saññāmayan”ti."
+    },
+    {
+      "id": "dn9:23.2",
+      "pali": "“Arūpī ca hi te, poṭṭhapāda, attā abhavissa saññāmayo, evaṁ santampi kho te, poṭṭhapāda, aññāva saññā bhavissati añño attā."
+    },
+    {
+      "id": "dn9:23.3",
+      "pali": "Tadamināpetaṁ, poṭṭhapāda, pariyāyena veditabbaṁ yathā aññāva saññā bhavissati añño attā."
+    },
+    {
+      "id": "dn9:23.4",
+      "pali": "Tiṭṭhateva sāyaṁ, poṭṭhapāda, arūpī attā saññāmayo, atha imassa purisassa aññā ca saññā uppajjanti, aññā ca saññā nirujjhanti."
+    },
+    {
+      "id": "dn9:23.5",
+      "pali": "Imināpi kho etaṁ, poṭṭhapāda, pariyāyena veditabbaṁ yathā aññāva saññā bhavissati añño attā”ti."
+    },
+    {
+      "id": "dn9:24.1",
+      "pali": "“Sakkā panetaṁ, bhante, mayā ñātuṁ:"
+    },
+    {
+      "id": "dn9:24.2",
+      "pali": "‘saññā purisassa attā’ti vā ‘aññāva saññā añño attā’ti vā”ti?"
+    },
+    {
+      "id": "dn9:24.3",
+      "pali": "“Dujjānaṁ kho etaṁ, poṭṭhapāda, tayā aññadiṭṭhikena aññakhantikena aññarucikena aññatrāyogena aññatrācariyakena:"
+    },
+    {
+      "id": "dn9:24.4",
+      "pali": "‘saññā purisassa attā’ti vā, ‘aññāva saññā añño attāti’ vā”ti."
+    },
+    {
+      "id": "dn9:25.1",
+      "pali": "“Sacetaṁ, bhante, mayā dujjānaṁ aññadiṭṭhikena aññakhantikena aññarucikena aññatrāyogena aññatrācariyakena:"
+    },
+    {
+      "id": "dn9:25.2",
+      "pali": "‘saññā purisassa attā’ti vā, ‘aññāva saññā añño attā’ti vā;"
+    },
+    {
+      "id": "dn9:25.3",
+      "pali": "kiṁ pana, bhante, ‘sassato loko, idameva saccaṁ moghamaññan’”ti?"
+    },
+    {
+      "id": "dn9:25.4",
+      "pali": "“Abyākataṁ kho etaṁ, poṭṭhapāda, mayā:"
+    },
+    {
+      "id": "dn9:25.5",
+      "pali": "‘sassato loko, idameva saccaṁ moghamaññan’”ti."
+    },
+    {
+      "id": "dn9:26.1",
+      "pali": "“Kiṁ pana, bhante, ‘asassato loko, idameva saccaṁ moghamaññan’”ti?"
+    },
+    {
+      "id": "dn9:26.2",
+      "pali": "“Etampi kho, poṭṭhapāda, mayā abyākataṁ:"
+    },
+    {
+      "id": "dn9:26.3",
+      "pali": "‘asassato loko, idameva saccaṁ moghamaññan’”ti."
+    },
+    {
+      "id": "dn9:27.1",
+      "pali": "“Kiṁ pana, bhante, ‘antavā loko …pe…"
+    },
+    {
+      "id": "dn9:27.2",
+      "pali": "‘anantavā loko …"
+    },
+    {
+      "id": "dn9:27.3",
+      "pali": "‘taṁ jīvaṁ taṁ sarīraṁ …"
+    },
+    {
+      "id": "dn9:27.4",
+      "pali": "‘aññaṁ jīvaṁ aññaṁ sarīraṁ …"
+    },
+    {
+      "id": "dn9:27.5",
+      "pali": "‘hoti tathāgato paraṁ maraṇā …"
+    },
+    {
+      "id": "dn9:27.6",
+      "pali": "‘na hoti tathāgato paraṁ maraṇā …"
+    },
+    {
+      "id": "dn9:27.7",
+      "pali": "‘hoti ca na ca hoti tathāgato paraṁ maraṇā …"
+    },
+    {
+      "id": "dn9:27.8",
+      "pali": "‘neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’”ti?"
+    },
+    {
+      "id": "dn9:27.9",
+      "pali": "“Etampi kho, poṭṭhapāda, mayā abyākataṁ:"
+    },
+    {
+      "id": "dn9:27.10",
+      "pali": "‘neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’”ti."
+    },
+    {
+      "id": "dn9:28.1",
+      "pali": "“Kasmā panetaṁ, bhante, bhagavatā abyākatan”ti?"
+    },
+    {
+      "id": "dn9:28.2",
+      "pali": "“Na hetaṁ, poṭṭhapāda, atthasaṁhitaṁ na dhammasaṁhitaṁ nādibrahmacariyakaṁ, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati,"
+    },
+    {
+      "id": "dn9:28.3",
+      "pali": "tasmā etaṁ mayā abyākatan”ti."
+    },
+    {
+      "id": "dn9:29.1",
+      "pali": "“Kiṁ pana, bhante, bhagavatā byākatan”ti?"
+    },
+    {
+      "id": "dn9:29.2",
+      "pali": "“Idaṁ dukkhanti kho, poṭṭhapāda, mayā byākataṁ. Ayaṁ dukkhasamudayoti kho, poṭṭhapāda, mayā byākataṁ. Ayaṁ dukkhanirodhoti kho, poṭṭhapāda, mayā byākataṁ. Ayaṁ dukkhanirodhagāminī paṭipadāti kho, poṭṭhapāda, mayā byākatan”ti."
+    },
+    {
+      "id": "dn9:30.1",
+      "pali": "“Kasmā panetaṁ, bhante, bhagavatā byākatan”ti?"
+    },
+    {
+      "id": "dn9:30.2",
+      "pali": "“Etañhi, poṭṭhapāda, atthasaṁhitaṁ, etaṁ dhammasaṁhitaṁ, etaṁ ādibrahmacariyakaṁ, etaṁ nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati;"
+    },
+    {
+      "id": "dn9:30.3",
+      "pali": "tasmā etaṁ mayā byākatan”ti."
+    },
+    {
+      "id": "dn9:30.4",
+      "pali": "“Evametaṁ, bhagavā, evametaṁ, sugata."
+    },
+    {
+      "id": "dn9:30.5",
+      "pali": "Yassadāni, bhante, bhagavā kālaṁ maññatī”ti."
+    },
+    {
+      "id": "dn9:30.6",
+      "pali": "Atha kho bhagavā uṭṭhāyāsanā pakkāmi."
+    },
+    {
+      "id": "dn9:31.1",
+      "pali": "Atha kho te paribbājakā acirapakkantassa bhagavato poṭṭhapādaṁ paribbājakaṁ samantato vācā sannitodakena sañjhabbharimakaṁsu:"
+    },
+    {
+      "id": "dn9:31.2",
+      "pali": "“evameva panāyaṁ bhavaṁ poṭṭhapādo yaññadeva samaṇo gotamo bhāsati, taṁ tadevassa abbhanumodati:"
+    },
+    {
+      "id": "dn9:31.3",
+      "pali": "‘evametaṁ, bhagavā, evametaṁ, sugatā’ti."
+    },
+    {
+      "id": "dn9:31.4",
+      "pali": "Na kho pana mayaṁ kiñci samaṇassa gotamassa ekaṁsikaṁ dhammaṁ desitaṁ ājānāma:"
+    },
+    {
+      "id": "dn9:31.5",
+      "pali": "‘sassato loko’ti vā, ‘asassato loko’ti vā, ‘antavā loko’ti vā, ‘anantavā loko’ti vā, ‘taṁ jīvaṁ taṁ sarīran’ti vā, ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vā, ‘hoti tathāgato paraṁ maraṇā’ti vā, ‘na hoti tathāgato paraṁ maraṇā’ti vā, ‘hoti ca na ca hoti tathāgato paraṁ maraṇā’ti vā, ‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti vā”ti."
+    },
+    {
+      "id": "dn9:31.6",
+      "pali": "Evaṁ vutte, poṭṭhapādo paribbājako te paribbājake etadavoca:"
+    },
+    {
+      "id": "dn9:31.7",
+      "pali": "“ahampi kho, bho, na kiñci samaṇassa gotamassa ekaṁsikaṁ dhammaṁ desitaṁ ājānāmi:"
+    },
+    {
+      "id": "dn9:31.8",
+      "pali": "‘sassato loko’ti vā, ‘asassato loko’ti vā …pe…"
+    },
+    {
+      "id": "dn9:31.9",
+      "pali": "‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti vā;"
+    },
+    {
+      "id": "dn9:31.10",
+      "pali": "api ca samaṇo gotamo bhūtaṁ tacchaṁ tathaṁ paṭipadaṁ paññapeti dhammaṭṭhitataṁ dhammaniyāmataṁ."
+    },
+    {
+      "id": "dn9:31.11",
+      "pali": "Bhūtaṁ kho pana tacchaṁ tathaṁ paṭipadaṁ paññapentassa dhammaṭṭhitataṁ dhammaniyāmataṁ, kathañhi nāma mādiso viññū samaṇassa gotamassa subhāsitaṁ subhāsitato nābbhanumodeyyā”ti?"
+    },
+    {
+      "id": "dn9:32.1",
+      "pali": "Atha kho dvīhatīhassa accayena citto ca hatthisāriputto poṭṭhapādo ca paribbājako yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā citto hatthisāriputto bhagavantaṁ abhivādetvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "dn9:32.2",
+      "pali": "Poṭṭhapādo pana paribbājako bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "dn9:32.3",
+      "pali": "Ekamantaṁ nisinno kho poṭṭhapādo paribbājako bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn9:32.4",
+      "pali": "“tadā maṁ, bhante, te paribbājakā acirapakkantassa bhagavato samantato vācāsannitodakena sañjhabbharimakaṁsu:"
+    },
+    {
+      "id": "dn9:32.5",
+      "pali": "‘evameva panāyaṁ bhavaṁ poṭṭhapādo yaññadeva samaṇo gotamo bhāsati, taṁ tadevassa abbhanumodati:"
+    },
+    {
+      "id": "dn9:32.6",
+      "pali": "“evametaṁ, bhagavā, evametaṁ, sugatā”ti."
+    },
+    {
+      "id": "dn9:32.7",
+      "pali": "Na kho pana mayaṁ kiñci samaṇassa gotamassa ekaṁsikaṁ dhammaṁ desitaṁ ājānāma:"
+    },
+    {
+      "id": "dn9:32.8",
+      "pali": "“sassato loko”ti vā, “asassato loko”ti vā, “antavā loko”ti vā, “anantavā loko”ti vā, “taṁ jīvaṁ taṁ sarīran”ti vā, “aññaṁ jīvaṁ aññaṁ sarīran”ti vā, “hoti tathāgato paraṁ maraṇā”ti vā, “na hoti tathāgato paraṁ maraṇā”ti vā, “hoti ca na ca hoti tathāgato paraṁ maraṇā”ti vā, “neva hoti na na hoti tathāgato paraṁ maraṇā”ti vā’ti."
+    },
+    {
+      "id": "dn9:32.9",
+      "pali": "Evaṁ vuttāhaṁ, bhante, te paribbājake etadavocaṁ:"
+    },
+    {
+      "id": "dn9:32.10",
+      "pali": "‘ahampi kho, bho, na kiñci samaṇassa gotamassa ekaṁsikaṁ dhammaṁ desitaṁ ājānāmi:"
+    },
+    {
+      "id": "dn9:32.11",
+      "pali": "“sassato loko”ti vā, “asassato loko”ti vā …pe…"
+    },
+    {
+      "id": "dn9:32.12",
+      "pali": "“neva hoti na na hoti tathāgato paraṁ maraṇā”ti vā;"
+    },
+    {
+      "id": "dn9:32.13",
+      "pali": "api ca samaṇo gotamo bhūtaṁ tacchaṁ tathaṁ paṭipadaṁ paññapeti dhammaṭṭhitataṁ dhammaniyāmataṁ."
+    },
+    {
+      "id": "dn9:32.14",
+      "pali": "Bhūtaṁ kho pana tacchaṁ tathaṁ paṭipadaṁ paññapentassa dhammaṭṭhitataṁ dhammaniyāmataṁ, kathañhi nāma mādiso viññū samaṇassa gotamassa subhāsitaṁ subhāsitato nābbhanumodeyyā’”ti?"
+    },
+    {
+      "id": "dn9:33.1",
+      "pali": "“Sabbeva kho ete, poṭṭhapāda, paribbājakā andhā acakkhukā;"
+    },
+    {
+      "id": "dn9:33.2",
+      "pali": "tvaṁyeva nesaṁ eko cakkhumā."
+    },
+    {
+      "id": "dn9:33.3",
+      "pali": "Ekaṁsikāpi hi kho, poṭṭhapāda, mayā dhammā desitā paññattā;"
+    },
+    {
+      "id": "dn9:33.4",
+      "pali": "anekaṁsikāpi hi kho, poṭṭhapāda, mayā dhammā desitā paññattā."
+    },
+    {
+      "id": "dn9:33.5",
+      "pali": "Katame ca te, poṭṭhapāda, mayā anekaṁsikā dhammā desitā paññattā?"
+    },
+    {
+      "id": "dn9:33.6",
+      "pali": "‘Sassato loko’ti kho, poṭṭhapāda, mayā anekaṁsiko dhammo desito paññatto;"
+    },
+    {
+      "id": "dn9:33.7",
+      "pali": "‘asassato loko’ti kho, poṭṭhapāda, mayā anekaṁsiko dhammo desito paññatto;"
+    },
+    {
+      "id": "dn9:33.8",
+      "pali": "‘antavā loko’ti kho, poṭṭhapāda …pe…"
+    },
+    {
+      "id": "dn9:33.9",
+      "pali": "‘anantavā loko’ti kho, poṭṭhapāda …"
+    },
+    {
+      "id": "dn9:33.10",
+      "pali": "‘taṁ jīvaṁ taṁ sarīran’ti kho, poṭṭhapāda …"
+    },
+    {
+      "id": "dn9:33.11",
+      "pali": "‘aññaṁ jīvaṁ aññaṁ sarīran’ti kho, poṭṭhapāda …"
+    },
+    {
+      "id": "dn9:33.12",
+      "pali": "‘hoti tathāgato paraṁ maraṇā’ti kho, poṭṭhapāda …"
+    },
+    {
+      "id": "dn9:33.13",
+      "pali": "na hoti tathāgato paraṁ maraṇā’ti kho, poṭṭhapāda …"
+    },
+    {
+      "id": "dn9:33.14",
+      "pali": "‘hoti ca na ca hoti tathāgato paraṁ maraṇā’ti kho, poṭṭhapāda …"
+    },
+    {
+      "id": "dn9:33.15",
+      "pali": "‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti kho, poṭṭhapāda, mayā anekaṁsiko dhammo desito paññatto."
+    },
+    {
+      "id": "dn9:33.16",
+      "pali": "Kasmā ca te, poṭṭhapāda, mayā anekaṁsikā dhammā desitā paññattā?"
+    },
+    {
+      "id": "dn9:33.17",
+      "pali": "Na hete, poṭṭhapāda, atthasaṁhitā na dhammasaṁhitā na ādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattanti."
+    },
+    {
+      "id": "dn9:33.18",
+      "pali": "Tasmā te mayā anekaṁsikā dhammā desitā paññattā."
+    },
+    {
+      "id": "dn9:33.19.0",
+      "pali": "2.1. Ekaṁsikadhammā"
+    },
+    {
+      "id": "dn9:33.20",
+      "pali": "Katame ca te, poṭṭhapāda, mayā ekaṁsikā dhammā desitā paññattā?"
+    },
+    {
+      "id": "dn9:33.21",
+      "pali": "Idaṁ dukkhanti kho, poṭṭhapāda, mayā ekaṁsiko dhammo desito paññatto."
+    },
+    {
+      "id": "dn9:33.22",
+      "pali": "Ayaṁ dukkhasamudayoti kho, poṭṭhapāda, mayā ekaṁsiko dhammo desito paññatto."
+    },
+    {
+      "id": "dn9:33.23",
+      "pali": "Ayaṁ dukkhanirodhoti kho, poṭṭhapāda, mayā ekaṁsiko dhammo desito paññatto."
+    },
+    {
+      "id": "dn9:33.24",
+      "pali": "Ayaṁ dukkhanirodhagāminī paṭipadāti kho, poṭṭhapāda, mayā ekaṁsiko dhammo desito paññatto."
+    },
+    {
+      "id": "dn9:33.25",
+      "pali": "Kasmā ca te, poṭṭhapāda, mayā ekaṁsikā dhammā desitā paññattā?"
+    },
+    {
+      "id": "dn9:33.26",
+      "pali": "Ete hi, poṭṭhapāda, atthasaṁhitā, ete dhammasaṁhitā, ete ādibrahmacariyakā ete nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattanti."
+    },
+    {
+      "id": "dn9:33.27",
+      "pali": "Tasmā te mayā ekaṁsikā dhammā desitā paññattā."
+    },
+    {
+      "id": "dn9:34.1",
+      "pali": "Santi, poṭṭhapāda, eke samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "dn9:34.2",
+      "pali": "‘ekantasukhī attā hoti arogo paraṁ maraṇā’ti."
+    },
+    {
+      "id": "dn9:34.3",
+      "pali": "Tyāhaṁ upasaṅkamitvā evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:34.4",
+      "pali": "‘saccaṁ kira tumhe āyasmanto evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "dn9:34.5",
+      "pali": "“ekantasukhī attā hoti arogo paraṁ maraṇā”’ti?"
+    },
+    {
+      "id": "dn9:34.6",
+      "pali": "Te ce me evaṁ puṭṭhā ‘āmā’ti paṭijānanti."
+    },
+    {
+      "id": "dn9:34.7",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:34.8",
+      "pali": "‘api pana tumhe āyasmanto ekantasukhaṁ lokaṁ jānaṁ passaṁ viharathā’ti?"
+    },
+    {
+      "id": "dn9:34.9",
+      "pali": "Iti puṭṭhā ‘no’ti vadanti."
+    },
+    {
+      "id": "dn9:34.10",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:34.11",
+      "pali": "‘api pana tumhe āyasmanto ekaṁ vā rattiṁ ekaṁ vā divasaṁ upaḍḍhaṁ vā rattiṁ upaḍḍhaṁ vā divasaṁ ekantasukhiṁ attānaṁ sañjānāthā’ti?"
+    },
+    {
+      "id": "dn9:34.12",
+      "pali": "Iti puṭṭhā ‘no’ti vadanti."
+    },
+    {
+      "id": "dn9:34.13",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:34.14",
+      "pali": "‘api pana tumhe āyasmanto jānātha:"
+    },
+    {
+      "id": "dn9:34.15",
+      "pali": "“ayaṁ maggo ayaṁ paṭipadā ekantasukhassa lokassa sacchikiriyāyā”’ti?"
+    },
+    {
+      "id": "dn9:34.16",
+      "pali": "Iti puṭṭhā ‘no’ti vadanti."
+    },
+    {
+      "id": "dn9:34.17",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:34.18",
+      "pali": "‘api pana tumhe āyasmanto yā tā devatā ekantasukhaṁ lokaṁ upapannā, tāsaṁ bhāsamānānaṁ saddaṁ suṇātha:"
+    },
+    {
+      "id": "dn9:34.19",
+      "pali": "“suppaṭipannāttha, mārisā, ujuppaṭipannāttha, mārisā, ekantasukhassa lokassa sacchikiriyāya;"
+    },
+    {
+      "id": "dn9:34.20",
+      "pali": "mayampi hi, mārisā, evaṁpaṭipannā ekantasukhaṁ lokaṁ upapannā”’ti?"
+    },
+    {
+      "id": "dn9:34.21",
+      "pali": "Iti puṭṭhā ‘no’ti vadanti."
+    },
+    {
+      "id": "dn9:34.22",
+      "pali": "Taṁ kiṁ maññasi, poṭṭhapāda,"
+    },
+    {
+      "id": "dn9:34.23",
+      "pali": "nanu evaṁ sante tesaṁ samaṇabrāhmaṇānaṁ appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti?"
+    },
+    {
+      "id": "dn9:34.24",
+      "pali": "“Addhā kho, bhante, evaṁ sante tesaṁ samaṇabrāhmaṇānaṁ appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti."
+    },
+    {
+      "id": "dn9:35.1",
+      "pali": "“Seyyathāpi, poṭṭhapāda, puriso evaṁ vadeyya:"
+    },
+    {
+      "id": "dn9:35.2",
+      "pali": "‘ahaṁ yā imasmiṁ janapade janapadakalyāṇī, taṁ icchāmi taṁ kāmemī’ti."
+    },
+    {
+      "id": "dn9:35.3",
+      "pali": "Tamenaṁ evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn9:35.4",
+      "pali": "‘ambho purisa, yaṁ tvaṁ janapadakalyāṇiṁ icchasi kāmesi, jānāsi taṁ janapadakalyāṇiṁ khattiyī vā brāhmaṇī vā vessī vā suddī vā’ti?"
+    },
+    {
+      "id": "dn9:35.5",
+      "pali": "Iti puṭṭho ‘no’ti vadeyya."
+    },
+    {
+      "id": "dn9:35.6",
+      "pali": "Tamenaṁ evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn9:35.7",
+      "pali": "‘ambho purisa, yaṁ tvaṁ janapadakalyāṇiṁ icchasi kāmesi, jānāsi taṁ janapadakalyāṇiṁ evaṁnāmā evaṅgottāti vā, dīghā vā rassā vā majjhimā vā kāḷī vā sāmā vā maṅguracchavī vāti, amukasmiṁ gāme vā nigame vā nagare vā’ti?"
+    },
+    {
+      "id": "dn9:35.8",
+      "pali": "Iti puṭṭho ‘no’ti vadeyya."
+    },
+    {
+      "id": "dn9:35.9",
+      "pali": "Tamenaṁ evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn9:35.10",
+      "pali": "‘ambho purisa, yaṁ tvaṁ na jānāsi na passasi, taṁ tvaṁ icchasi kāmesī’ti?"
+    },
+    {
+      "id": "dn9:35.11",
+      "pali": "Iti puṭṭho ‘āmā’ti vadeyya."
+    },
+    {
+      "id": "dn9:35.12",
+      "pali": "Taṁ kiṁ maññasi, poṭṭhapāda,"
+    },
+    {
+      "id": "dn9:35.13",
+      "pali": "nanu evaṁ sante tassa purisassa appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti?"
+    },
+    {
+      "id": "dn9:35.14",
+      "pali": "“Addhā kho, bhante, evaṁ sante tassa purisassa appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti."
+    },
+    {
+      "id": "dn9:36.1",
+      "pali": "“Evameva kho, poṭṭhapāda, ye te samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "dn9:36.2",
+      "pali": "‘ekantasukhī attā hoti arogo paraṁ maraṇā’ti."
+    },
+    {
+      "id": "dn9:36.3",
+      "pali": "Tyāhaṁ upasaṅkamitvā evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:36.4",
+      "pali": "‘saccaṁ kira tumhe āyasmanto evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "dn9:36.5",
+      "pali": "“ekantasukhī attā hoti arogo paraṁ maraṇā”’ti?"
+    },
+    {
+      "id": "dn9:36.6",
+      "pali": "Te ce me evaṁ puṭṭhā ‘āmā’ti paṭijānanti."
+    },
+    {
+      "id": "dn9:36.7",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:36.8",
+      "pali": "‘api pana tumhe āyasmanto ekantasukhaṁ lokaṁ jānaṁ passaṁ viharathā’ti?"
+    },
+    {
+      "id": "dn9:36.9",
+      "pali": "Iti puṭṭhā ‘no’ti vadanti."
+    },
+    {
+      "id": "dn9:36.10",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:36.11",
+      "pali": "‘api pana tumhe āyasmanto ekaṁ vā rattiṁ ekaṁ vā divasaṁ upaḍḍhaṁ vā rattiṁ upaḍḍhaṁ vā divasaṁ ekantasukhiṁ attānaṁ sañjānāthā’ti?"
+    },
+    {
+      "id": "dn9:36.12",
+      "pali": "Iti puṭṭhā ‘no’ti vadanti."
+    },
+    {
+      "id": "dn9:36.13",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:36.14",
+      "pali": "‘api pana tumhe āyasmanto jānātha:"
+    },
+    {
+      "id": "dn9:36.15",
+      "pali": "“ayaṁ maggo ayaṁ paṭipadā ekantasukhassa lokassa sacchikiriyāyā”’ti?"
+    },
+    {
+      "id": "dn9:36.16",
+      "pali": "Iti puṭṭhā ‘no’ti vadanti."
+    },
+    {
+      "id": "dn9:36.17",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:36.18",
+      "pali": "‘api pana tumhe āyasmanto yā tā devatā ekantasukhaṁ lokaṁ upapannā, tāsaṁ bhāsamānānaṁ saddaṁ suṇātha:"
+    },
+    {
+      "id": "dn9:36.19",
+      "pali": "“suppaṭipannāttha, mārisā, ujuppaṭipannāttha, mārisā, ekantasukhassa lokassa sacchikiriyāya;"
+    },
+    {
+      "id": "dn9:36.20",
+      "pali": "mayampi hi, mārisā, evaṁpaṭipannā ekantasukhaṁ lokaṁ upapannā”’ti?"
+    },
+    {
+      "id": "dn9:36.21",
+      "pali": "Iti puṭṭhā ‘no’ti vadanti."
+    },
+    {
+      "id": "dn9:36.22",
+      "pali": "Taṁ kiṁ maññasi, poṭṭhapāda, nanu evaṁ sante tesaṁ samaṇabrāhmaṇānaṁ appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti?"
+    },
+    {
+      "id": "dn9:36.23",
+      "pali": "“Addhā kho, bhante, evaṁ sante tesaṁ samaṇabrāhmaṇānaṁ appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti."
+    },
+    {
+      "id": "dn9:37.1",
+      "pali": "“Seyyathāpi, poṭṭhapāda, puriso cātumahāpathe nisseṇiṁ kareyya pāsādassa ārohaṇāya."
+    },
+    {
+      "id": "dn9:37.2",
+      "pali": "Tamenaṁ evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn9:37.3",
+      "pali": "‘ambho purisa, yassa tvaṁ pāsādassa ārohaṇāya nisseṇiṁ karosi, jānāsi taṁ pāsādaṁ puratthimāya vā disāya dakkhiṇāya vā disāya pacchimāya vā disāya uttarāya vā disāya ucco vā nīco vā majjhimo vā’ti?"
+    },
+    {
+      "id": "dn9:37.4",
+      "pali": "Iti puṭṭho ‘no’ti vadeyya."
+    },
+    {
+      "id": "dn9:37.5",
+      "pali": "Tamenaṁ evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn9:37.6",
+      "pali": "‘ambho purisa, yaṁ tvaṁ na jānāsi na passasi, tassa tvaṁ pāsādassa ārohaṇāya nisseṇiṁ karosī’ti?"
+    },
+    {
+      "id": "dn9:37.7",
+      "pali": "Iti puṭṭho ‘āmā’ti vadeyya."
+    },
+    {
+      "id": "dn9:37.8",
+      "pali": "Taṁ kiṁ maññasi, poṭṭhapāda,"
+    },
+    {
+      "id": "dn9:37.9",
+      "pali": "nanu evaṁ sante tassa purisassa appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti?"
+    },
+    {
+      "id": "dn9:37.10",
+      "pali": "“Addhā kho, bhante, evaṁ sante tassa purisassa appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti."
+    },
+    {
+      "id": "dn9:38.1",
+      "pali": "“Evameva kho, poṭṭhapāda, ye te samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "dn9:38.2",
+      "pali": "‘ekantasukhī attā hoti arogo paraṁ maraṇā’ti."
+    },
+    {
+      "id": "dn9:38.3",
+      "pali": "Tyāhaṁ upasaṅkamitvā evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:38.4",
+      "pali": "‘saccaṁ kira tumhe āyasmanto evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "dn9:38.5",
+      "pali": "“ekantasukhī attā hoti arogo paraṁ maraṇā”’ti?"
+    },
+    {
+      "id": "dn9:38.6",
+      "pali": "Te ce me evaṁ puṭṭhā ‘āmā’ti paṭijānanti."
+    },
+    {
+      "id": "dn9:38.7",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:38.8",
+      "pali": "‘api pana tumhe āyasmanto ekantasukhaṁ lokaṁ jānaṁ passaṁ viharathā’ti?"
+    },
+    {
+      "id": "dn9:38.9",
+      "pali": "Iti puṭṭhā ‘no’ti vadanti."
+    },
+    {
+      "id": "dn9:38.10",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:38.11",
+      "pali": "‘api pana tumhe āyasmanto ekaṁ vā rattiṁ ekaṁ vā divasaṁ upaḍḍhaṁ vā rattiṁ upaḍḍhaṁ vā divasaṁ ekantasukhiṁ attānaṁ sañjānāthā’ti?"
+    },
+    {
+      "id": "dn9:38.12",
+      "pali": "Iti puṭṭhā ‘no’ti vadanti."
+    },
+    {
+      "id": "dn9:38.13",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:38.14",
+      "pali": "‘api pana tumhe āyasmanto jānātha ayaṁ maggo ayaṁ paṭipadā ekantasukhassa lokassa sacchikiriyāyā’ti?"
+    },
+    {
+      "id": "dn9:38.15",
+      "pali": "Iti puṭṭhā ‘no’ti vadanti."
+    },
+    {
+      "id": "dn9:38.16",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn9:38.17",
+      "pali": "‘api pana tumhe āyasmanto yā tā devatā ekantasukhaṁ lokaṁ upapannā tāsaṁ devatānaṁ bhāsamānānaṁ saddaṁ suṇātha:"
+    },
+    {
+      "id": "dn9:38.18",
+      "pali": "“suppaṭipannāttha, mārisā, ujuppaṭipannāttha, mārisā, ekantasukhassa lokassa sacchikiriyāya;"
+    },
+    {
+      "id": "dn9:38.19",
+      "pali": "mayampi hi, mārisā, evaṁ paṭipannā ekantasukhaṁ lokaṁ upapannā”’ti?"
+    },
+    {
+      "id": "dn9:38.20",
+      "pali": "Iti puṭṭhā ‘no’ti vadanti."
+    },
+    {
+      "id": "dn9:38.21",
+      "pali": "Taṁ kiṁ maññasi, poṭṭhapāda, nanu evaṁ sante tesaṁ samaṇabrāhmaṇānaṁ appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti?"
+    },
+    {
+      "id": "dn9:38.22",
+      "pali": "“Addhā kho, bhante, evaṁ sante tesaṁ samaṇabrāhmaṇānaṁ appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti."
+    },
+    {
+      "id": "dn9:39.1",
+      "pali": "“Tayo kho me, poṭṭhapāda, attapaṭilābhā—"
+    },
+    {
+      "id": "dn9:39.2",
+      "pali": "oḷāriko attapaṭilābho, manomayo attapaṭilābho, arūpo attapaṭilābho."
+    },
+    {
+      "id": "dn9:39.3",
+      "pali": "Katamo ca, poṭṭhapāda, oḷāriko attapaṭilābho?"
+    },
+    {
+      "id": "dn9:39.4",
+      "pali": "Rūpī cātumahābhūtiko kabaḷīkārāhārabhakkho, ayaṁ oḷāriko attapaṭilābho."
+    },
+    {
+      "id": "dn9:39.5",
+      "pali": "Katamo manomayo attapaṭilābho?"
+    },
+    {
+      "id": "dn9:39.6",
+      "pali": "Rūpī manomayo sabbaṅgapaccaṅgī ahīnindriyo, ayaṁ manomayo attapaṭilābho."
+    },
+    {
+      "id": "dn9:39.7",
+      "pali": "Katamo arūpo attapaṭilābho?"
+    },
+    {
+      "id": "dn9:39.8",
+      "pali": "Arūpī saññāmayo, ayaṁ arūpo attapaṭilābho."
+    },
+    {
+      "id": "dn9:40.1",
+      "pali": "Oḷārikassapi kho ahaṁ, poṭṭhapāda, attapaṭilābhassa pahānāya dhammaṁ desemi:"
+    },
+    {
+      "id": "dn9:40.2",
+      "pali": "‘yathāpaṭipannānaṁ vo saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti."
+    },
+    {
+      "id": "dn9:40.3",
+      "pali": "Siyā kho pana te, poṭṭhapāda, evamassa:"
+    },
+    {
+      "id": "dn9:40.4",
+      "pali": "‘saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissati, dukkho ca kho vihāro’ti."
+    },
+    {
+      "id": "dn9:40.5",
+      "pali": "Na kho panetaṁ, poṭṭhapāda, evaṁ daṭṭhabbaṁ."
+    },
+    {
+      "id": "dn9:40.6",
+      "pali": "Saṅkilesikā ceva dhammā pahīyissanti, vodāniyā ca dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissati, pāmujjañceva bhavissati pīti ca passaddhi ca sati ca sampajaññañca sukho ca vihāro."
+    },
+    {
+      "id": "dn9:41.1",
+      "pali": "Manomayassapi kho ahaṁ, poṭṭhapāda, attapaṭilābhassa pahānāya dhammaṁ desemi:"
+    },
+    {
+      "id": "dn9:41.2",
+      "pali": "‘yathāpaṭipannānaṁ vo saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti."
+    },
+    {
+      "id": "dn9:41.3",
+      "pali": "Siyā kho pana te, poṭṭhapāda, evamassa:"
+    },
+    {
+      "id": "dn9:41.4",
+      "pali": "‘saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissati, dukkho ca kho vihāro’ti."
+    },
+    {
+      "id": "dn9:41.5",
+      "pali": "Na kho panetaṁ, poṭṭhapāda, evaṁ daṭṭhabbaṁ."
+    },
+    {
+      "id": "dn9:41.6",
+      "pali": "Saṅkilesikā ceva dhammā pahīyissanti, vodāniyā ca dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissati, pāmujjañceva bhavissati pīti ca passaddhi ca sati ca sampajaññañca sukho ca vihāro."
+    },
+    {
+      "id": "dn9:42.1",
+      "pali": "Arūpassapi kho ahaṁ, poṭṭhapāda, attapaṭilābhassa pahānāya dhammaṁ desemi:"
+    },
+    {
+      "id": "dn9:42.2",
+      "pali": "‘yathāpaṭipannānaṁ vo saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti."
+    },
+    {
+      "id": "dn9:42.3",
+      "pali": "Siyā kho pana te, poṭṭhapāda, evamassa:"
+    },
+    {
+      "id": "dn9:42.4",
+      "pali": "‘saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissati, dukkho ca kho vihāro’ti."
+    },
+    {
+      "id": "dn9:42.5",
+      "pali": "Na kho panetaṁ, poṭṭhapāda, evaṁ daṭṭhabbaṁ."
+    },
+    {
+      "id": "dn9:42.6",
+      "pali": "Saṅkilesikā ceva dhammā pahīyissanti, vodāniyā ca dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissati, pāmujjañceva bhavissati pīti ca passaddhi ca sati ca sampajaññañca sukho ca vihāro."
+    },
+    {
+      "id": "dn9:43.1",
+      "pali": "Pare ce, poṭṭhapāda, amhe evaṁ puccheyyuṁ:"
+    },
+    {
+      "id": "dn9:43.2",
+      "pali": "‘katamo pana so, āvuso, oḷāriko attapaṭilābho, yassa tumhe pahānāya dhammaṁ desetha, yathāpaṭipannānaṁ vo saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti, tesaṁ mayaṁ evaṁ puṭṭhā evaṁ byākareyyāma:"
+    },
+    {
+      "id": "dn9:43.3",
+      "pali": "‘ayaṁ vā so, āvuso, oḷāriko attapaṭilābho, yassa mayaṁ pahānāya dhammaṁ desema, yathāpaṭipannānaṁ vo saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti."
+    },
+    {
+      "id": "dn9:44.1",
+      "pali": "Pare ce, poṭṭhapāda, amhe evaṁ puccheyyuṁ:"
+    },
+    {
+      "id": "dn9:44.2",
+      "pali": "‘katamo pana so, āvuso, manomayo attapaṭilābho, yassa tumhe pahānāya dhammaṁ desetha, yathāpaṭipannānaṁ vo saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti?"
+    },
+    {
+      "id": "dn9:44.3",
+      "pali": "Tesaṁ mayaṁ evaṁ puṭṭhā evaṁ byākareyyāma:"
+    },
+    {
+      "id": "dn9:44.4",
+      "pali": "‘ayaṁ vā so, āvuso, manomayo attapaṭilābho yassa mayaṁ pahānāya dhammaṁ desema, yathāpaṭipannānaṁ vo saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti."
+    },
+    {
+      "id": "dn9:45.1",
+      "pali": "Pare ce, poṭṭhapāda, amhe evaṁ puccheyyuṁ:"
+    },
+    {
+      "id": "dn9:45.2",
+      "pali": "‘katamo pana so, āvuso, arūpo attapaṭilābho, yassa tumhe pahānāya dhammaṁ desetha, yathāpaṭipannānaṁ vo saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti?"
+    },
+    {
+      "id": "dn9:45.3",
+      "pali": "Tesaṁ mayaṁ evaṁ puṭṭhā evaṁ byākareyyāma:"
+    },
+    {
+      "id": "dn9:45.4",
+      "pali": "‘ayaṁ vā so, āvuso, arūpo attapaṭilābho yassa mayaṁ pahānāya dhammaṁ desema, yathāpaṭipannānaṁ vo saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti."
+    },
+    {
+      "id": "dn9:45.5",
+      "pali": "Taṁ kiṁ maññasi, poṭṭhapāda,"
+    },
+    {
+      "id": "dn9:45.6",
+      "pali": "nanu evaṁ sante sappāṭihīrakataṁ bhāsitaṁ sampajjatī”ti?"
+    },
+    {
+      "id": "dn9:45.7",
+      "pali": "“Addhā kho, bhante, evaṁ sante sappāṭihīrakataṁ bhāsitaṁ sampajjatī”ti."
+    },
+    {
+      "id": "dn9:46.1",
+      "pali": "“Seyyathāpi, poṭṭhapāda, puriso nisseṇiṁ kareyya pāsādassa ārohaṇāya tasseva pāsādassa heṭṭhā."
+    },
+    {
+      "id": "dn9:46.2",
+      "pali": "Tamenaṁ evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn9:46.3",
+      "pali": "‘ambho purisa, yassa tvaṁ pāsādassa ārohaṇāya nisseṇiṁ karosi, jānāsi taṁ pāsādaṁ, puratthimāya vā disāya dakkhiṇāya vā disāya pacchimāya vā disāya uttarāya vā disāya ucco vā nīco vā majjhimo vā’ti?"
+    },
+    {
+      "id": "dn9:46.4",
+      "pali": "So evaṁ vadeyya:"
+    },
+    {
+      "id": "dn9:46.5",
+      "pali": "‘ayaṁ vā so, āvuso, pāsādo, yassāhaṁ ārohaṇāya nisseṇiṁ karomi, tasseva pāsādassa heṭṭhā’ti."
+    },
+    {
+      "id": "dn9:46.6",
+      "pali": "Taṁ kiṁ maññasi, poṭṭhapāda,"
+    },
+    {
+      "id": "dn9:46.7",
+      "pali": "nanu evaṁ sante tassa purisassa sappāṭihīrakataṁ bhāsitaṁ sampajjatī”ti?"
+    },
+    {
+      "id": "dn9:46.8",
+      "pali": "“Addhā kho, bhante, evaṁ sante tassa purisassa sappāṭihīrakataṁ bhāsitaṁ sampajjatī”ti."
+    },
+    {
+      "id": "dn9:47.1",
+      "pali": "“Evameva kho, poṭṭhapāda, pare ce amhe evaṁ puccheyyuṁ:"
+    },
+    {
+      "id": "dn9:47.2",
+      "pali": "‘katamo pana so, āvuso, oḷāriko attapaṭilābho …pe…"
+    },
+    {
+      "id": "dn9:47.3",
+      "pali": "katamo pana so, āvuso, manomayo attapaṭilābho …pe…"
+    },
+    {
+      "id": "dn9:47.4",
+      "pali": "katamo pana so, āvuso, arūpo attapaṭilābho, yassa tumhe pahānāya dhammaṁ desetha, yathāpaṭipannānaṁ vo saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti?"
+    },
+    {
+      "id": "dn9:47.5",
+      "pali": "Tesaṁ mayaṁ evaṁ puṭṭhā evaṁ byākareyyāma:"
+    },
+    {
+      "id": "dn9:47.6",
+      "pali": "‘ayaṁ vā so, āvuso, arūpo attapaṭilābho, yassa mayaṁ pahānāya dhammaṁ desema, yathāpaṭipannānaṁ vo saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti."
+    },
+    {
+      "id": "dn9:47.7",
+      "pali": "Taṁ kiṁ maññasi, poṭṭhapāda, nanu evaṁ sante sappāṭihīrakataṁ bhāsitaṁ sampajjatī”ti?"
+    },
+    {
+      "id": "dn9:47.8",
+      "pali": "“Addhā kho, bhante, evaṁ sante sappāṭihīrakataṁ bhāsitaṁ sampajjatī”ti."
+    },
+    {
+      "id": "dn9:48.1",
+      "pali": "Evaṁ vutte, citto hatthisāriputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn9:48.2",
+      "pali": "“yasmiṁ, bhante, samaye oḷāriko attapaṭilābho hoti, moghassa tasmiṁ samaye manomayo attapaṭilābho hoti, mogho arūpo attapaṭilābho hoti;"
+    },
+    {
+      "id": "dn9:48.3",
+      "pali": "oḷāriko vāssa attapaṭilābho tasmiṁ samaye sacco hoti."
+    },
+    {
+      "id": "dn9:48.4",
+      "pali": "Yasmiṁ, bhante, samaye manomayo attapaṭilābho hoti, moghassa tasmiṁ samaye oḷāriko attapaṭilābho hoti, mogho arūpo attapaṭilābho hoti;"
+    },
+    {
+      "id": "dn9:48.5",
+      "pali": "manomayo vāssa attapaṭilābho tasmiṁ samaye sacco hoti."
+    },
+    {
+      "id": "dn9:48.6",
+      "pali": "Yasmiṁ, bhante, samaye arūpo attapaṭilābho hoti, moghassa tasmiṁ samaye oḷāriko attapaṭilābho hoti, mogho manomayo attapaṭilābho hoti;"
+    },
+    {
+      "id": "dn9:48.7",
+      "pali": "arūpo vāssa attapaṭilābho tasmiṁ samaye sacco hotī”ti."
+    },
+    {
+      "id": "dn9:49.1",
+      "pali": "“Yasmiṁ, citta, samaye oḷāriko attapaṭilābho hoti, neva tasmiṁ samaye manomayo attapaṭilābhoti saṅkhaṁ gacchati, na arūpo attapaṭilābhoti saṅkhaṁ gacchati;"
+    },
+    {
+      "id": "dn9:49.2",
+      "pali": "oḷāriko attapaṭilābhotveva tasmiṁ samaye saṅkhaṁ gacchati."
+    },
+    {
+      "id": "dn9:49.3",
+      "pali": "Yasmiṁ, citta, samaye manomayo attapaṭilābho hoti, neva tasmiṁ samaye oḷāriko attapaṭilābhoti saṅkhaṁ gacchati, na arūpo attapaṭilābhoti saṅkhaṁ gacchati;"
+    },
+    {
+      "id": "dn9:49.4",
+      "pali": "manomayo attapaṭilābhotveva tasmiṁ samaye saṅkhaṁ gacchati."
+    },
+    {
+      "id": "dn9:49.5",
+      "pali": "Yasmiṁ, citta, samaye arūpo attapaṭilābho hoti, neva tasmiṁ samaye oḷāriko attapaṭilābhoti saṅkhaṁ gacchati, na manomayo attapaṭilābhoti saṅkhaṁ gacchati;"
+    },
+    {
+      "id": "dn9:49.6",
+      "pali": "arūpo attapaṭilābhotveva tasmiṁ samaye saṅkhaṁ gacchati."
+    },
+    {
+      "id": "dn9:49.7",
+      "pali": "Sace taṁ, citta, evaṁ puccheyyuṁ:"
+    },
+    {
+      "id": "dn9:49.8",
+      "pali": "‘ahosi tvaṁ atītamaddhānaṁ, na tvaṁ nāhosi;"
+    },
+    {
+      "id": "dn9:49.9",
+      "pali": "bhavissasi tvaṁ anāgatamaddhānaṁ, na tvaṁ na bhavissasi;"
+    },
+    {
+      "id": "dn9:49.10",
+      "pali": "atthi tvaṁ etarahi, na tvaṁ natthī’ti."
+    },
+    {
+      "id": "dn9:49.11",
+      "pali": "Evaṁ puṭṭho tvaṁ, citta, kinti byākareyyāsī”ti?"
+    },
+    {
+      "id": "dn9:49.12",
+      "pali": "“Sace maṁ, bhante, evaṁ puccheyyuṁ:"
+    },
+    {
+      "id": "dn9:49.13",
+      "pali": "‘ahosi tvaṁ atītamaddhānaṁ, na tvaṁ na ahosi;"
+    },
+    {
+      "id": "dn9:49.14",
+      "pali": "bhavissasi tvaṁ anāgatamaddhānaṁ, na tvaṁ na bhavissasi;"
+    },
+    {
+      "id": "dn9:49.15",
+      "pali": "atthi tvaṁ etarahi, na tvaṁ natthī’ti."
+    },
+    {
+      "id": "dn9:49.16",
+      "pali": "Evaṁ puṭṭho ahaṁ, bhante, evaṁ byākareyyaṁ:"
+    },
+    {
+      "id": "dn9:49.17",
+      "pali": "‘ahosāhaṁ atītamaddhānaṁ, nāhaṁ na ahosiṁ;"
+    },
+    {
+      "id": "dn9:49.18",
+      "pali": "bhavissāmahaṁ anāgatamaddhānaṁ, nāhaṁ na bhavissāmi;"
+    },
+    {
+      "id": "dn9:49.19",
+      "pali": "atthāhaṁ etarahi, nāhaṁ natthī’ti."
+    },
+    {
+      "id": "dn9:49.20",
+      "pali": "Evaṁ puṭṭho ahaṁ, bhante, evaṁ byākareyyan”ti."
+    },
+    {
+      "id": "dn9:50.1",
+      "pali": "“Sace pana taṁ, citta, evaṁ puccheyyuṁ:"
+    },
+    {
+      "id": "dn9:50.2",
+      "pali": "‘yo te ahosi atīto attapaṭilābho, sova te attapaṭilābho sacco, mogho anāgato, mogho paccuppanno?"
+    },
+    {
+      "id": "dn9:50.3",
+      "pali": "Yo te bhavissati anāgato attapaṭilābho, sova te attapaṭilābho sacco, mogho atīto, mogho paccuppanno?"
+    },
+    {
+      "id": "dn9:50.4",
+      "pali": "Yo te etarahi paccuppanno attapaṭilābho, sova te attapaṭilābho sacco, mogho atīto, mogho anāgato’ti."
+    },
+    {
+      "id": "dn9:50.5",
+      "pali": "Evaṁ puṭṭho tvaṁ, citta, kinti byākareyyāsī”ti?"
+    },
+    {
+      "id": "dn9:50.6",
+      "pali": "“Sace pana maṁ, bhante, evaṁ puccheyyuṁ:"
+    },
+    {
+      "id": "dn9:50.7",
+      "pali": "‘yo te ahosi atīto attapaṭilābho, sova te attapaṭilābho sacco, mogho anāgato, mogho paccuppanno."
+    },
+    {
+      "id": "dn9:50.8",
+      "pali": "Yo te bhavissati anāgato attapaṭilābho, sova te attapaṭilābho sacco, mogho atīto, mogho paccuppanno."
+    },
+    {
+      "id": "dn9:50.9",
+      "pali": "Yo te etarahi paccuppanno attapaṭilābho, sova te attapaṭilābho sacco, mogho atīto, mogho anāgato’ti."
+    },
+    {
+      "id": "dn9:50.10",
+      "pali": "Evaṁ puṭṭho ahaṁ, bhante, evaṁ byākareyyaṁ:"
+    },
+    {
+      "id": "dn9:50.11",
+      "pali": "‘yo me ahosi atīto attapaṭilābho, sova me attapaṭilābho tasmiṁ samaye sacco ahosi, mogho anāgato, mogho paccuppanno."
+    },
+    {
+      "id": "dn9:50.12",
+      "pali": "Yo me bhavissati anāgato attapaṭilābho, sova me attapaṭilābho tasmiṁ samaye sacco bhavissati, mogho atīto, mogho paccuppanno."
+    },
+    {
+      "id": "dn9:50.13",
+      "pali": "Yo me etarahi paccuppanno attapaṭilābho, sova me attapaṭilābho sacco, mogho atīto, mogho anāgato’ti."
+    },
+    {
+      "id": "dn9:50.14",
+      "pali": "Evaṁ puṭṭho ahaṁ, bhante, evaṁ byākareyyan”ti."
+    },
+    {
+      "id": "dn9:51.1",
+      "pali": "“Evameva kho, citta, yasmiṁ samaye oḷāriko attapaṭilābho hoti, neva tasmiṁ samaye manomayo attapaṭilābhoti saṅkhaṁ gacchati, na arūpo attapaṭilābhoti saṅkhaṁ gacchati."
+    },
+    {
+      "id": "dn9:51.2",
+      "pali": "Oḷāriko attapaṭilābhotveva tasmiṁ samaye saṅkhaṁ gacchati."
+    },
+    {
+      "id": "dn9:51.3",
+      "pali": "Yasmiṁ, citta, samaye manomayo attapaṭilābho hoti …pe…"
+    },
+    {
+      "id": "dn9:51.4",
+      "pali": "yasmiṁ, citta, samaye arūpo attapaṭilābho hoti, neva tasmiṁ samaye oḷāriko attapaṭilābhoti saṅkhaṁ gacchati, na manomayo attapaṭilābhoti saṅkhaṁ gacchati;"
+    },
+    {
+      "id": "dn9:51.5",
+      "pali": "arūpo attapaṭilābhotveva tasmiṁ samaye saṅkhaṁ gacchati."
+    },
+    {
+      "id": "dn9:52.1",
+      "pali": "Seyyathāpi, citta, gavā khīraṁ, khīramhā dadhi, dadhimhā navanītaṁ, navanītamhā sappi, sappimhā sappimaṇḍo."
+    },
+    {
+      "id": "dn9:52.2",
+      "pali": "Yasmiṁ samaye khīraṁ hoti, neva tasmiṁ samaye dadhīti saṅkhaṁ gacchati, na navanītanti saṅkhaṁ gacchati, na sappīti saṅkhaṁ gacchati, na sappimaṇḍoti saṅkhaṁ gacchati;"
+    },
+    {
+      "id": "dn9:52.3",
+      "pali": "khīrantveva tasmiṁ samaye saṅkhaṁ gacchati."
+    },
+    {
+      "id": "dn9:52.4",
+      "pali": "Yasmiṁ samaye dadhi hoti …pe…"
+    },
+    {
+      "id": "dn9:52.5",
+      "pali": "navanītaṁ hoti …"
+    },
+    {
+      "id": "dn9:52.6",
+      "pali": "sappi hoti …"
+    },
+    {
+      "id": "dn9:52.7",
+      "pali": "sappimaṇḍo hoti, neva tasmiṁ samaye khīranti saṅkhaṁ gacchati, na dadhīti saṅkhaṁ gacchati, na navanītanti saṅkhaṁ gacchati, na sappīti saṅkhaṁ gacchati;"
+    },
+    {
+      "id": "dn9:52.8",
+      "pali": "sappimaṇḍotveva tasmiṁ samaye saṅkhaṁ gacchati."
+    },
+    {
+      "id": "dn9:53.1",
+      "pali": "Evameva kho, citta, yasmiṁ samaye oḷāriko attapaṭilābho hoti …pe…"
+    },
+    {
+      "id": "dn9:53.2",
+      "pali": "yasmiṁ, citta, samaye manomayo attapaṭilābho hoti …pe…"
+    },
+    {
+      "id": "dn9:53.3",
+      "pali": "yasmiṁ, citta, samaye arūpo attapaṭilābho hoti, neva tasmiṁ samaye oḷāriko attapaṭilābhoti saṅkhaṁ gacchati, na manomayo attapaṭilābhoti saṅkhaṁ gacchati;"
+    },
+    {
+      "id": "dn9:53.4",
+      "pali": "arūpo attapaṭilābhotveva tasmiṁ samaye saṅkhaṁ gacchati."
+    },
+    {
+      "id": "dn9:53.5",
+      "pali": "Imā kho, citta, lokasamaññā lokaniruttiyo lokavohārā lokapaññattiyo, yāhi tathāgato voharati aparāmasan”ti."
+    },
+    {
+      "id": "dn9:54.1",
+      "pali": "Evaṁ vutte, poṭṭhapādo paribbājako bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn9:54.2",
+      "pali": "“abhikkantaṁ, bhante, abhikkantaṁ, bhante."
+    },
+    {
+      "id": "dn9:54.3",
+      "pali": "Seyyathāpi, bhante, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhagavatā anekapariyāyena dhammo pakāsito."
+    },
+    {
+      "id": "dn9:54.4",
+      "pali": "Esāhaṁ, bhante, bhagavantaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "dn9:54.5",
+      "pali": "Upāsakaṁ maṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti."
+    },
+    {
+      "id": "dn9:55.1",
+      "pali": "Citto pana hatthisāriputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn9:55.2",
+      "pali": "“abhikkantaṁ, bhante, abhikkantaṁ, bhante."
+    },
+    {
+      "id": "dn9:55.3",
+      "pali": "Seyyathāpi, bhante, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhagavatā anekapariyāyena dhammo pakāsito."
+    },
+    {
+      "id": "dn9:55.4",
+      "pali": "Esāhaṁ, bhante, bhagavantaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "dn9:55.5",
+      "pali": "Labheyyāhaṁ, bhante, bhagavato santike pabbajjaṁ, labheyyaṁ upasampadan”ti."
+    },
+    {
+      "id": "dn9:56.1",
+      "pali": "Alattha kho citto hatthisāriputto bhagavato santike pabbajjaṁ, alattha upasampadaṁ."
+    },
+    {
+      "id": "dn9:56.2",
+      "pali": "Acirūpasampanno kho panāyasmā citto hatthisāriputto eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto na cirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi."
+    },
+    {
+      "id": "dn9:56.3",
+      "pali": "“khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthAttāyā”ti abbhaññāsi."
+    },
+    {
+      "id": "dn9:56.4",
+      "pali": "Aññataro kho panāyasmā citto hatthisāriputto arahataṁ ahosīti."
+    },
+    {
+      "id": "dn9:56.5",
+      "pali": "Poṭṭhapādasuttaṁ niṭṭhitaṁ navamaṁ."
+    }
+  ]
+}

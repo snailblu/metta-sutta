@@ -1,0 +1,607 @@
+{
+  "uid": "mn138",
+  "title": "Uddesavibhaṅgasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn138:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn138:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn138:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn138:1.4",
+      "pali": "“bhikkhavo”ti."
+    },
+    {
+      "id": "mn138:1.5",
+      "pali": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn138:1.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn138:2.1",
+      "pali": "“uddesavibhaṅgaṁ vo, bhikkhave, desessāmi."
+    },
+    {
+      "id": "mn138:2.2",
+      "pali": "Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti."
+    },
+    {
+      "id": "mn138:2.3",
+      "pali": "“Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn138:2.4",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn138:3.1",
+      "pali": "“Tathā tathā, bhikkhave, bhikkhu upaparikkheyya yathā yathā upaparikkhato bahiddhā cassa viññāṇaṁ avikkhittaṁ avisaṭaṁ, ajjhattaṁ asaṇṭhitaṁ anupādāya na paritasseyya."
+    },
+    {
+      "id": "mn138:3.2",
+      "pali": "Bahiddhā, bhikkhave, viññāṇe avikkhitte avisaṭe sati ajjhattaṁ asaṇṭhite anupādāya aparitassato āyatiṁ jātijarāmaraṇadukkhasamudayasambhavo na hotī”ti."
+    },
+    {
+      "id": "mn138:4.1",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn138:4.2",
+      "pali": "Idaṁ vatvāna sugato uṭṭhāyāsanā vihāraṁ pāvisi."
+    },
+    {
+      "id": "mn138:5.1",
+      "pali": "Atha kho tesaṁ bhikkhūnaṁ, acirapakkantassa bhagavato, etadahosi:"
+    },
+    {
+      "id": "mn138:5.2",
+      "pali": "“idaṁ kho no, āvuso, bhagavā saṅkhittena uddesaṁ uddisitvā vitthārena atthaṁ avibhajitvā uṭṭhāyāsanā vihāraṁ paviṭṭho:"
+    },
+    {
+      "id": "mn138:5.3",
+      "pali": "‘tathā tathā, bhikkhave, bhikkhu upaparikkheyya yathā yathā upaparikkhato bahiddhā cassa viññāṇaṁ avikkhittaṁ avisaṭaṁ, ajjhattaṁ asaṇṭhitaṁ anupādāya na paritasseyya."
+    },
+    {
+      "id": "mn138:5.4",
+      "pali": "Bahiddhā, bhikkhave, viññāṇe avikkhitte avisaṭe sati ajjhattaṁ asaṇṭhite anupādāya aparitassato āyatiṁ jātijarāmaraṇadukkhasamudayasambhavo na hotī’ti."
+    },
+    {
+      "id": "mn138:5.5",
+      "pali": "Ko nu kho imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṁ avibhattassa vitthārena atthaṁ vibhajeyyā”ti?"
+    },
+    {
+      "id": "mn138:5.6",
+      "pali": "Atha kho tesaṁ bhikkhūnaṁ etadahosi:"
+    },
+    {
+      "id": "mn138:5.7",
+      "pali": "“ayaṁ kho āyasmā mahākaccāno satthu ceva saṁvaṇṇito sambhāvito ca viññūnaṁ sabrahmacārīnaṁ;"
+    },
+    {
+      "id": "mn138:5.8",
+      "pali": "pahoti cāyasmā mahākaccāno imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṁ avibhattassa vitthārena atthaṁ vibhajituṁ."
+    },
+    {
+      "id": "mn138:5.9",
+      "pali": "Yannūna mayaṁ yenāyasmā mahākaccāno tenupasaṅkameyyāma; upasaṅkamitvā āyasmantaṁ mahākaccānaṁ etamatthaṁ paṭipuccheyyāmā”ti."
+    },
+    {
+      "id": "mn138:6.1",
+      "pali": "Atha kho te bhikkhū yenāyasmā mahākaccāno tenupasaṅkamiṁsu; upasaṅkamitvā āyasmatā mahākaccānena saddhiṁ sammodiṁsu."
+    },
+    {
+      "id": "mn138:6.2",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū āyasmantaṁ mahākaccānaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn138:6.3",
+      "pali": "“Idaṁ kho no, āvuso kaccāna, bhagavā saṅkhittena uddesaṁ uddisitvā vitthārena atthaṁ avibhajitvā uṭṭhāyāsanā vihāraṁ paviṭṭho:"
+    },
+    {
+      "id": "mn138:6.4",
+      "pali": "‘tathā tathā, bhikkhave, bhikkhu upaparikkheyya yathā yathā upaparikkhato bahiddhā cassa viññāṇaṁ avikkhittaṁ avisaṭaṁ, ajjhattaṁ asaṇṭhitaṁ anupādāya na paritasseyya."
+    },
+    {
+      "id": "mn138:6.5",
+      "pali": "Bahiddhā, bhikkhave, viññāṇe avikkhitte avisaṭe sati ajjhattaṁ asaṇṭhite anupādāya aparitassato āyatiṁ jātijarāmaraṇadukkhasamudayasambhavo na hotī’ti."
+    },
+    {
+      "id": "mn138:6.6",
+      "pali": "Tesaṁ no, āvuso kaccāna, amhākaṁ, acirapakkantassa bhagavato, etadahosi:"
+    },
+    {
+      "id": "mn138:6.7",
+      "pali": "‘idaṁ kho no, āvuso, bhagavā saṅkhittena uddesaṁ uddisitvā vitthārena atthaṁ avibhajitvā uṭṭhāyāsanā vihāraṁ paviṭṭho:"
+    },
+    {
+      "id": "mn138:6.8",
+      "pali": "“tathā tathā, bhikkhave, bhikkhu upaparikkheyya, yathā yathā upaparikkhato bahiddhā cassa viññāṇaṁ avikkhittaṁ avisaṭaṁ ajjhattaṁ asaṇṭhitaṁ anupādāya na paritasseyya."
+    },
+    {
+      "id": "mn138:6.9",
+      "pali": "Bahiddhā, bhikkhave, viññāṇe avikkhitte avisaṭe sati ajjhattaṁ asaṇṭhite anupādāya aparitassato āyatiṁ jātijarāmaraṇadukkhasamudayasambhavo na hotī”ti."
+    },
+    {
+      "id": "mn138:6.10",
+      "pali": "Ko nu kho imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṁ avibhattassa vitthārena atthaṁ vibhajeyyā’ti."
+    },
+    {
+      "id": "mn138:6.11",
+      "pali": "Tesaṁ no, āvuso kaccāna, amhākaṁ etadahosi:"
+    },
+    {
+      "id": "mn138:6.12",
+      "pali": "‘ayaṁ kho āyasmā mahākaccāno satthu ceva saṁvaṇṇito, sambhāvito ca viññūnaṁ sabrahmacārīnaṁ."
+    },
+    {
+      "id": "mn138:6.13",
+      "pali": "Pahoti cāyasmā mahākaccāno imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṁ avibhattassa vitthārena atthaṁ vibhajituṁ."
+    },
+    {
+      "id": "mn138:6.14",
+      "pali": "Yannūna mayaṁ yenāyasmā mahākaccāno tenupasaṅkameyyāma; upasaṅkamitvā āyasmantaṁ mahākaccānaṁ etamatthaṁ paṭipuccheyyāmā’ti—"
+    },
+    {
+      "id": "mn138:6.15",
+      "pali": "vibhajatāyasmā mahākaccāno”ti."
+    },
+    {
+      "id": "mn138:7.1",
+      "pali": "“Seyyathāpi, āvuso, puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva mūlaṁ atikkamma khandhaṁ sākhāpalāse sāraṁ pariyesitabbaṁ maññeyya,"
+    },
+    {
+      "id": "mn138:7.2",
+      "pali": "evaṁ sampadamidaṁ āyasmantānaṁ satthari sammukhībhūte taṁ bhagavantaṁ atisitvā amhe etamatthaṁ paṭipucchitabbaṁ maññatha."
+    },
+    {
+      "id": "mn138:7.3",
+      "pali": "So hāvuso, bhagavā jānaṁ jānāti, passaṁ passati, cakkhubhūto ñāṇabhūto dhammabhūto brahmabhūto vattā pavattā atthassa ninnetā amatassa dātā dhammassāmī tathāgato."
+    },
+    {
+      "id": "mn138:7.4",
+      "pali": "So ceva panetassa kālo ahosi yaṁ bhagavantaṁyeva etamatthaṁ paṭipuccheyyātha;"
+    },
+    {
+      "id": "mn138:7.5",
+      "pali": "yathā vo bhagavā byākareyya tathā naṁ dhāreyyāthā”ti."
+    },
+    {
+      "id": "mn138:8.1",
+      "pali": "“Addhāvuso kaccāna, bhagavā jānaṁ jānāti, passaṁ passati, cakkhubhūto ñāṇabhūto dhammabhūto brahmabhūto vattā pavattā atthassa ninnetā amatassa dātā dhammassāmī tathāgato."
+    },
+    {
+      "id": "mn138:8.2",
+      "pali": "So ceva panetassa kālo ahosi yaṁ bhagavantaṁyeva etamatthaṁ paṭipuccheyyāma;"
+    },
+    {
+      "id": "mn138:8.3",
+      "pali": "yathā no bhagavā byākareyya tathā naṁ dhāreyyāma."
+    },
+    {
+      "id": "mn138:8.4",
+      "pali": "Api cāyasmā mahākaccāno satthu ceva saṁvaṇṇito sambhāvito ca viññūnaṁ sabrahmacārīnaṁ."
+    },
+    {
+      "id": "mn138:8.5",
+      "pali": "Pahoti cāyasmā mahākaccāno imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṁ avibhattassa vitthārena atthaṁ vibhajituṁ."
+    },
+    {
+      "id": "mn138:8.6",
+      "pali": "Vibhajatāyasmā mahākaccāno agaruṁ karitvā”ti."
+    },
+    {
+      "id": "mn138:9.1",
+      "pali": "“Tena hāvuso, suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti."
+    },
+    {
+      "id": "mn138:9.2",
+      "pali": "“Evamāvuso”ti kho te bhikkhū āyasmato mahākaccānassa paccassosuṁ."
+    },
+    {
+      "id": "mn138:9.3",
+      "pali": "Āyasmā mahākaccāno etadavoca:"
+    },
+    {
+      "id": "mn138:9.4",
+      "pali": "“Yaṁ kho no, āvuso, bhagavā saṅkhittena uddesaṁ uddisitvā vitthārena atthaṁ avibhajitvā uṭṭhāyāsanā vihāraṁ paviṭṭho:"
+    },
+    {
+      "id": "mn138:9.5",
+      "pali": "‘tathā tathā, bhikkhave, bhikkhu upaparikkheyya, yathā yathā upaparikkhato bahiddhā cassa viññāṇaṁ avikkhittaṁ avisaṭaṁ ajjhattaṁ asaṇṭhitaṁ anupādāya na paritasseyya, bahiddhā, bhikkhave, viññāṇe avikkhitte avisaṭe sati ajjhattaṁ asaṇṭhite anupādāya aparitassato āyatiṁ jātijarāmaraṇadukkhasamudayasambhavo na hotī’ti."
+    },
+    {
+      "id": "mn138:9.6",
+      "pali": "Imassa kho ahaṁ, āvuso, bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṁ avibhattassa evaṁ vitthārena atthaṁ ājānāmi."
+    },
+    {
+      "id": "mn138:10.1",
+      "pali": "Kathañcāvuso, bahiddhā viññāṇaṁ vikkhittaṁ visaṭanti vuccati?"
+    },
+    {
+      "id": "mn138:10.2",
+      "pali": "Idhāvuso, bhikkhuno cakkhunā rūpaṁ disvā rūpanimittānusāri viññāṇaṁ hoti rūpanimittassādagadhitaṁ rūpanimittassādavinibandhaṁ rūpanimittassādasaṁyojanasaṁyuttaṁ bahiddhā viññāṇaṁ vikkhittaṁ visaṭanti vuccati."
+    },
+    {
+      "id": "mn138:10.3",
+      "pali": "Sotena saddaṁ sutvā …pe…"
+    },
+    {
+      "id": "mn138:10.4",
+      "pali": "ghānena gandhaṁ ghāyitvā …"
+    },
+    {
+      "id": "mn138:10.5",
+      "pali": "jivhāya rasaṁ sāyitvā …"
+    },
+    {
+      "id": "mn138:10.6",
+      "pali": "kāyena phoṭṭhabbaṁ phusitvā …"
+    },
+    {
+      "id": "mn138:10.7",
+      "pali": "manasā dhammaṁ viññāya dhammanimittānusāri viññāṇaṁ hoti; dhammanimittassādagadhitaṁ dhammanimittassādavinibandhaṁ dhammanimittassādasaṁyojanasaṁyuttaṁ bahiddhā viññāṇaṁ vikkhittaṁ visaṭanti vuccati."
+    },
+    {
+      "id": "mn138:10.8",
+      "pali": "Evaṁ kho, āvuso, bahiddhā viññāṇaṁ vikkhittaṁ visaṭanti vuccati."
+    },
+    {
+      "id": "mn138:11.1",
+      "pali": "Kathañcāvuso, bahiddhā viññāṇaṁ avikkhittaṁ avisaṭanti vuccati?"
+    },
+    {
+      "id": "mn138:11.2",
+      "pali": "Idhāvuso, bhikkhuno cakkhunā rūpaṁ disvā na rūpanimittānusāri viññāṇaṁ hoti, na rūpanimittassādagadhitaṁ na rūpanimittassādavinibandhaṁ na rūpanimittassādasaṁyojanasaṁyuttaṁ bahiddhā viññāṇaṁ avikkhittaṁ avisaṭanti vuccati."
+    },
+    {
+      "id": "mn138:11.3",
+      "pali": "Sotena saddaṁ sutvā …pe…"
+    },
+    {
+      "id": "mn138:11.4",
+      "pali": "ghānena gandhaṁ ghāyitvā …"
+    },
+    {
+      "id": "mn138:11.5",
+      "pali": "jivhāya rasaṁ sāyitvā …"
+    },
+    {
+      "id": "mn138:11.6",
+      "pali": "kāyena phoṭṭhabbaṁ phusitvā …"
+    },
+    {
+      "id": "mn138:11.7",
+      "pali": "manasā dhammaṁ viññāya na dhammanimittānusāri viññāṇaṁ hoti na dhammanimittassādagadhitaṁ na dhammanimittassādavinibandhaṁ na dhammanimittassādasaṁyojanasaṁyuttaṁ bahiddhā viññāṇaṁ avikkhittaṁ avisaṭanti vuccati."
+    },
+    {
+      "id": "mn138:11.8",
+      "pali": "Evaṁ kho, āvuso, bahiddhā viññāṇaṁ avikkhittaṁ avisaṭanti vuccati."
+    },
+    {
+      "id": "mn138:12.1",
+      "pali": "Kathañcāvuso, ajjhattaṁ saṇṭhitanti vuccati?"
+    },
+    {
+      "id": "mn138:12.2",
+      "pali": "Idhāvuso, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn138:12.3",
+      "pali": "Tassa vivekajapītisukhānusāri viññāṇaṁ hoti vivekajapītisukhassādagadhitaṁ vivekajapītisukhassādavinibandhaṁ vivekajapītisukhassādasaṁyojanasaṁyuttaṁ ajjhattaṁ cittaṁ saṇṭhitanti vuccati."
+    },
+    {
+      "id": "mn138:13.1",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn138:13.2",
+      "pali": "Tassa samādhijapītisukhānusāri viññāṇaṁ hoti samādhijapītisukhassādagadhitaṁ samādhijapītisukhassādavinibandhaṁ samādhijapītisukhassādasaṁyojanasaṁyuttaṁ ajjhattaṁ cittaṁ saṇṭhitanti vuccati."
+    },
+    {
+      "id": "mn138:14.1",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn138:14.2",
+      "pali": "Tassa upekkhānusāri viññāṇaṁ hoti upekkhāsukhassādagadhitaṁ upekkhāsukhassādavinibandhaṁ upekkhāsukhassādasaṁyojanasaṁyuttaṁ ajjhattaṁ cittaṁ saṇṭhitanti vuccati."
+    },
+    {
+      "id": "mn138:15.1",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn138:15.2",
+      "pali": "Tassa adukkhamasukhānusāri viññāṇaṁ hoti adukkhamasukhassādagadhitaṁ adukkhamasukhassādavinibandhaṁ adukkhamasukhassādasaṁyojanasaṁyuttaṁ ajjhattaṁ cittaṁ asaṇṭhitanti vuccati."
+    },
+    {
+      "id": "mn138:15.3",
+      "pali": "Evaṁ kho, āvuso, ajjhattaṁ saṇṭhitanti vuccati."
+    },
+    {
+      "id": "mn138:16.1",
+      "pali": "Kathañcāvuso, ajjhattaṁ asaṇṭhitanti vuccati?"
+    },
+    {
+      "id": "mn138:16.2",
+      "pali": "Idhāvuso, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi …pe… paṭhamaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn138:16.3",
+      "pali": "Tassa na vivekajapītisukhānusāri viññāṇaṁ hoti na vivekajapītisukhassādagadhitaṁ na vivekajapītisukhassādavinibandhaṁ na vivekajapītisukhassādasaṁyojanasaṁyuttaṁ ajjhattaṁ cittaṁ asaṇṭhitanti vuccati."
+    },
+    {
+      "id": "mn138:17.1",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu vitakkavicārānaṁ vūpasamā …pe… dutiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn138:17.2",
+      "pali": "Tassa na samādhijapītisukhānusāri viññāṇaṁ hoti na samādhijapītisukhassādagadhitaṁ na samādhijapītisukhassādavinibandhaṁ na samādhijapītisukhassādasaṁyojanasaṁyuttaṁ ajjhattaṁ cittaṁ asaṇṭhitanti vuccati."
+    },
+    {
+      "id": "mn138:18.1",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu pītiyā ca virāgā …pe… tatiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn138:18.2",
+      "pali": "Tassa na upekkhānusāri viññāṇaṁ hoti na upekkhāsukhassādagadhitaṁ na upekkhāsukhassādavinibandhaṁ na upekkhāsukhassādasaṁyojanasaṁyuttaṁ ajjhattaṁ cittaṁ asaṇṭhitanti vuccati."
+    },
+    {
+      "id": "mn138:19.1",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn138:19.2",
+      "pali": "Tassa na adukkhamasukhānusāri viññāṇaṁ hoti na adukkhamasukhassādagadhitaṁ na adukkhamasukhassādavinibandhaṁ na adukkhamasukhassādasaṁyojanasaṁyuttaṁ ajjhattaṁ cittaṁ asaṇṭhitanti vuccati."
+    },
+    {
+      "id": "mn138:19.3",
+      "pali": "Evaṁ kho, āvuso, ajjhattaṁ asaṇṭhitanti vuccati."
+    },
+    {
+      "id": "mn138:20.1",
+      "pali": "Kathañcāvuso, anupādā paritassanā hoti?"
+    },
+    {
+      "id": "mn138:20.2",
+      "pali": "Idhāvuso, assutavā puthujjano ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto"
+    },
+    {
+      "id": "mn138:20.3",
+      "pali": "rūpaṁ attato samanupassati rūpavantaṁ vā attānaṁ attani vā rūpaṁ rūpasmiṁ vā attānaṁ."
+    },
+    {
+      "id": "mn138:20.4",
+      "pali": "Tassa taṁ rūpaṁ vipariṇamati, aññathā hoti."
+    },
+    {
+      "id": "mn138:20.5",
+      "pali": "Tassa rūpavipariṇāmaññathābhāvā rūpavipariṇāmānuparivatti viññāṇaṁ hoti."
+    },
+    {
+      "id": "mn138:20.6",
+      "pali": "Tassa rūpavipariṇāmānuparivattajā paritassanā dhammasamuppādā cittaṁ pariyādāya tiṭṭhanti."
+    },
+    {
+      "id": "mn138:20.7",
+      "pali": "Cetaso pariyādānā uttāsavā ca hoti vighātavā ca apekkhavā ca anupādāya ca paritassati."
+    },
+    {
+      "id": "mn138:20.8",
+      "pali": "Vedanaṁ …pe…"
+    },
+    {
+      "id": "mn138:20.9",
+      "pali": "saññaṁ …"
+    },
+    {
+      "id": "mn138:20.10",
+      "pali": "saṅkhāre …"
+    },
+    {
+      "id": "mn138:20.11",
+      "pali": "viññāṇaṁ attato samanupassati viññāṇavantaṁ vā attānaṁ attani vā viññāṇaṁ viññāṇasmiṁ vā attānaṁ."
+    },
+    {
+      "id": "mn138:20.12",
+      "pali": "Tassa taṁ viññāṇaṁ vipariṇamati, aññathā hoti."
+    },
+    {
+      "id": "mn138:20.13",
+      "pali": "Tassa viññāṇavipariṇāmaññathābhāvā viññāṇavipariṇāmānuparivatti viññāṇaṁ hoti."
+    },
+    {
+      "id": "mn138:20.14",
+      "pali": "Tassa viññāṇavipariṇāmānuparivattajā paritassanā dhammasamuppādā cittaṁ pariyādāya tiṭṭhanti."
+    },
+    {
+      "id": "mn138:20.15",
+      "pali": "Cetaso pariyādānā uttāsavā ca hoti vighātavā ca apekkhavā ca anupādāya ca paritassati."
+    },
+    {
+      "id": "mn138:20.16",
+      "pali": "Evaṁ kho, āvuso, anupādā paritassanā hoti."
+    },
+    {
+      "id": "mn138:21.1",
+      "pali": "Kathañcāvuso, anupādānā aparitassanā hoti?"
+    },
+    {
+      "id": "mn138:21.2",
+      "pali": "Idhāvuso, sutavā ariyasāvako ariyānaṁ dassāvī ariyadhammassa kovido ariyadhamme suvinīto sappurisānaṁ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto"
+    },
+    {
+      "id": "mn138:21.3",
+      "pali": "na rūpaṁ attato samanupassati na rūpavantaṁ vā attānaṁ na attani vā rūpaṁ na rūpasmiṁ vā attānaṁ."
+    },
+    {
+      "id": "mn138:21.4",
+      "pali": "Tassa taṁ rūpaṁ vipariṇamati, aññathā hoti."
+    },
+    {
+      "id": "mn138:21.5",
+      "pali": "Tassa rūpavipariṇāmaññathābhāvā na ca rūpavipariṇāmānuparivatti viññāṇaṁ hoti."
+    },
+    {
+      "id": "mn138:21.6",
+      "pali": "Tassa na rūpavipariṇāmānuparivattajā paritassanā dhammasamuppādā cittaṁ pariyādāya tiṭṭhanti."
+    },
+    {
+      "id": "mn138:21.7",
+      "pali": "Cetaso pariyādānā na cevuttāsavā hoti na ca vighātavā na ca apekkhavā anupādāya ca na paritassati."
+    },
+    {
+      "id": "mn138:21.8",
+      "pali": "Na vedanaṁ …"
+    },
+    {
+      "id": "mn138:21.9",
+      "pali": "na saññaṁ …"
+    },
+    {
+      "id": "mn138:21.10",
+      "pali": "na saṅkhāre …"
+    },
+    {
+      "id": "mn138:21.11",
+      "pali": "na viññāṇaṁ attato samanupassati na viññāṇavantaṁ vā attānaṁ na attani vā viññāṇaṁ na viññāṇasmiṁ vā attānaṁ."
+    },
+    {
+      "id": "mn138:21.12",
+      "pali": "Tassa taṁ viññāṇaṁ vipariṇamati, aññathā hoti."
+    },
+    {
+      "id": "mn138:21.13",
+      "pali": "Tassa viññāṇavipariṇāmaññathābhāvā na ca viññāṇavipariṇāmānuparivatti viññāṇaṁ hoti."
+    },
+    {
+      "id": "mn138:21.14",
+      "pali": "Tassa na viññāṇavipariṇāmānuparivattajā paritassanā dhammasamuppādā cittaṁ pariyādāya tiṭṭhanti."
+    },
+    {
+      "id": "mn138:21.15",
+      "pali": "Cetaso pariyādānā na cevuttāsavā hoti na ca vighātavā na ca apekkhavā, anupādāya ca na paritassati."
+    },
+    {
+      "id": "mn138:21.16",
+      "pali": "Evaṁ kho, āvuso, anupādā aparitassanā hoti."
+    },
+    {
+      "id": "mn138:22.1",
+      "pali": "Yaṁ kho no, āvuso, bhagavā saṅkhittena uddesaṁ uddisitvā vitthārena atthaṁ avibhajitvā uṭṭhāyāsanā vihāraṁ paviṭṭho:"
+    },
+    {
+      "id": "mn138:22.2",
+      "pali": "‘tathā tathā, bhikkhave, bhikkhu upaparikkheyya yathā yathā upaparikkhato bahiddhā cassa viññāṇaṁ avikkhittaṁ avisaṭaṁ, ajjhattaṁ asaṇṭhitaṁ anupādāya na paritasseyya."
+    },
+    {
+      "id": "mn138:22.3",
+      "pali": "Bahiddhā, bhikkhave, viññāṇe avikkhitte avisaṭe sati ajjhattaṁ asaṇṭhite anupādāya aparitassato āyatiṁ jātijarāmaraṇadukkhasamudayasambhavo na hotī’ti."
+    },
+    {
+      "id": "mn138:22.4",
+      "pali": "Imassa kho ahaṁ, āvuso, bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṁ avibhattassa evaṁ vitthārena atthaṁ ājānāmi."
+    },
+    {
+      "id": "mn138:22.5",
+      "pali": "Ākaṅkhamānā ca pana tumhe āyasmanto bhagavantaṁyeva upasaṅkamitvā etamatthaṁ paṭipuccheyyātha;"
+    },
+    {
+      "id": "mn138:22.6",
+      "pali": "yathā vo bhagavā byākaroti tathā naṁ dhāreyyāthā”ti."
+    },
+    {
+      "id": "mn138:23.1",
+      "pali": "Atha kho te bhikkhū āyasmato mahākaccānassa bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn138:23.2",
+      "pali": "“Yaṁ kho no, bhante, bhagavā saṅkhittena uddesaṁ uddisitvā vitthārena atthaṁ avibhajitvā uṭṭhāyāsanā vihāraṁ paviṭṭho:"
+    },
+    {
+      "id": "mn138:23.3",
+      "pali": "‘tathā tathā, bhikkhave, bhikkhu upaparikkheyya yathā yathā upaparikkhato bahiddhā cassa viññāṇaṁ avikkhittaṁ avisaṭaṁ, ajjhattaṁ asaṇṭhitaṁ anupādāya na paritasseyya."
+    },
+    {
+      "id": "mn138:23.4",
+      "pali": "Bahiddhā, bhikkhave, viññāṇe avikkhitte avisaṭe sati ajjhattaṁ asaṇṭhite anupādāya aparitassato āyatiṁ jātijarāmaraṇadukkhasamudayasambhavo na hotī’ti."
+    },
+    {
+      "id": "mn138:23.5",
+      "pali": "Tesaṁ no, bhante, amhākaṁ, acirapakkantassa bhagavato, etadahosi:"
+    },
+    {
+      "id": "mn138:23.6",
+      "pali": "‘idaṁ kho no, āvuso, bhagavā saṅkhittena uddesaṁ uddisitvā vitthārena atthaṁ avibhajitvā uṭṭhāyāsanā vihāraṁ paviṭṭho—"
+    },
+    {
+      "id": "mn138:23.7",
+      "pali": "tathā tathā, bhikkhave, bhikkhu upaparikkheyya, yathā yathā upaparikkhato bahiddhā cassa viññāṇaṁ avikkhittaṁ avisaṭaṁ, ajjhattaṁ asaṇṭhitaṁ anupādāya na paritasseyya."
+    },
+    {
+      "id": "mn138:23.8",
+      "pali": "Bahiddhā, bhikkhave, viññāṇe avikkhitte avisaṭe sati ajjhattaṁ asaṇṭhite anupādāya aparitassato āyatiṁ jātijarāmaraṇadukkhasamudayasambhavo na hotīti."
+    },
+    {
+      "id": "mn138:23.9",
+      "pali": "Ko nu kho imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṁ avibhattassa vitthārena atthaṁ vibhajeyyā’ti?"
+    },
+    {
+      "id": "mn138:23.10",
+      "pali": "Tesaṁ no, bhante, amhākaṁ etadahosi:"
+    },
+    {
+      "id": "mn138:23.11",
+      "pali": "‘ayaṁ kho āyasmā mahākaccāno satthu ceva saṁvaṇṇito sambhāvito ca viññūnaṁ sabrahmacārīnaṁ."
+    },
+    {
+      "id": "mn138:23.12",
+      "pali": "Pahoti cāyasmā mahākaccāno imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṁ avibhattassa vitthārena atthaṁ vibhajituṁ."
+    },
+    {
+      "id": "mn138:23.13",
+      "pali": "Yannūna mayaṁ yenāyasmā mahākaccāno tenupasaṅkameyyāma; upasaṅkamitvā āyasmantaṁ mahākaccānaṁ etamatthaṁ paṭipuccheyyāmā’ti."
+    },
+    {
+      "id": "mn138:23.14",
+      "pali": "Atha kho mayaṁ, bhante, yenāyasmā mahākaccāno tenupasaṅkamimha; upasaṅkamitvā āyasmantaṁ mahākaccānaṁ etamatthaṁ paṭipucchimha."
+    },
+    {
+      "id": "mn138:23.15",
+      "pali": "Tesaṁ no, bhante, āyasmatā mahākaccānena imehi ākārehi imehi padehi imehi byañjanehi attho vibhatto”ti."
+    },
+    {
+      "id": "mn138:24.1",
+      "pali": "“Paṇḍito, bhikkhave, mahākaccāno; mahāpañño, bhikkhave, mahākaccāno."
+    },
+    {
+      "id": "mn138:24.2",
+      "pali": "Mañcepi tumhe, bhikkhave, etamatthaṁ paṭipuccheyyātha, ahampi evamevaṁ byākareyyaṁ yathā taṁ mahākaccānena byākataṁ."
+    },
+    {
+      "id": "mn138:24.3",
+      "pali": "Eso cevetassa attho. Evañca naṁ dhāreyyāthā”ti."
+    },
+    {
+      "id": "mn138:24.4",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn138:24.5",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn138:24.6",
+      "pali": "Uddesavibhaṅgasuttaṁ niṭṭhitaṁ aṭṭhamaṁ."
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "uid": "sn12.68",
+  "title": "Kosambisutta",
+  "nikaya": "sn",
+  "segments": [
+    {
+      "id": "sn12.68:1.1",
+      "pali": "Ekaṁ samayaṁ āyasmā ca musilo āyasmā ca paviṭṭho āyasmā ca nārado āyasmā ca ānando kosambiyaṁ viharanti ghositārāme."
+    },
+    {
+      "id": "sn12.68:1.2",
+      "pali": "Atha kho āyasmā paviṭṭho āyasmantaṁ musilaṁ etadavoca:"
+    },
+    {
+      "id": "sn12.68:1.3",
+      "pali": "“aññatreva, āvuso musila, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato musilassa paccattameva ñāṇaṁ:"
+    },
+    {
+      "id": "sn12.68:1.4",
+      "pali": "‘jātipaccayā jarāmaraṇan’”ti?"
+    },
+    {
+      "id": "sn12.68:1.5",
+      "pali": "“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṁ jānāmi ahametaṁ passāmi:"
+    },
+    {
+      "id": "sn12.68:1.6",
+      "pali": "‘jātipaccayā jarāmaraṇan’”ti."
+    },
+    {
+      "id": "sn12.68:2.1",
+      "pali": "“Aññatreva, āvuso musila, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato musilassa paccattameva ñāṇaṁ:"
+    },
+    {
+      "id": "sn12.68:2.2",
+      "pali": "‘bhavapaccayā jātīti …pe…"
+    },
+    {
+      "id": "sn12.68:2.3",
+      "pali": "upādānapaccayā bhavoti …"
+    },
+    {
+      "id": "sn12.68:2.4",
+      "pali": "taṇhāpaccayā upādānanti …"
+    },
+    {
+      "id": "sn12.68:2.5",
+      "pali": "vedanāpaccayā taṇhāti …"
+    },
+    {
+      "id": "sn12.68:2.6",
+      "pali": "phassapaccayā vedanāti …"
+    },
+    {
+      "id": "sn12.68:2.7",
+      "pali": "saḷāyatanapaccayā phassoti …"
+    },
+    {
+      "id": "sn12.68:2.8",
+      "pali": "nāmarūpapaccayā saḷāyatananti …"
+    },
+    {
+      "id": "sn12.68:2.9",
+      "pali": "viññāṇapaccayā nāmarūpanti …"
+    },
+    {
+      "id": "sn12.68:2.10",
+      "pali": "saṅkhārapaccayā viññāṇanti …"
+    },
+    {
+      "id": "sn12.68:2.11",
+      "pali": "avijjāpaccayā saṅkhārā’”ti?"
+    },
+    {
+      "id": "sn12.68:2.12",
+      "pali": "“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṁ jānāmi ahametaṁ passāmi:"
+    },
+    {
+      "id": "sn12.68:2.13",
+      "pali": "‘avijjāpaccayā saṅkhārā’”ti."
+    },
+    {
+      "id": "sn12.68:3.1",
+      "pali": "“Aññatreva, āvuso musila, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato musilassa paccattameva ñāṇaṁ:"
+    },
+    {
+      "id": "sn12.68:3.2",
+      "pali": "‘jātinirodhā jarāmaraṇanirodho’”ti?"
+    },
+    {
+      "id": "sn12.68:3.3",
+      "pali": "“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṁ jānāmi ahametaṁ passāmi:"
+    },
+    {
+      "id": "sn12.68:3.4",
+      "pali": "‘jātinirodhā jarāmaraṇanirodho’”ti."
+    },
+    {
+      "id": "sn12.68:4.1",
+      "pali": "“Aññatreva, āvuso musila, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato musilassa paccattameva ñāṇaṁ:"
+    },
+    {
+      "id": "sn12.68:4.2",
+      "pali": "‘bhavanirodhā jātinirodhoti …pe…"
+    },
+    {
+      "id": "sn12.68:4.3",
+      "pali": "upādānanirodhā bhavanirodhoti …"
+    },
+    {
+      "id": "sn12.68:4.4",
+      "pali": "taṇhānirodhā upādānanirodhoti …"
+    },
+    {
+      "id": "sn12.68:4.5",
+      "pali": "vedanānirodhā taṇhānirodhoti …"
+    },
+    {
+      "id": "sn12.68:4.6",
+      "pali": "phassanirodhā vedanānirodhoti …"
+    },
+    {
+      "id": "sn12.68:4.7",
+      "pali": "saḷāyatananirodhā phassanirodhoti …"
+    },
+    {
+      "id": "sn12.68:4.8",
+      "pali": "nāmarūpanirodhā saḷāyatananirodhoti …"
+    },
+    {
+      "id": "sn12.68:4.9",
+      "pali": "viññāṇanirodhā nāmarūpanirodhoti …"
+    },
+    {
+      "id": "sn12.68:4.10",
+      "pali": "saṅkhāranirodhā viññāṇanirodhoti …"
+    },
+    {
+      "id": "sn12.68:4.11",
+      "pali": "avijjānirodhā saṅkhāranirodho’”ti?"
+    },
+    {
+      "id": "sn12.68:4.12",
+      "pali": "“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṁ jānāmi ahametaṁ passāmi:"
+    },
+    {
+      "id": "sn12.68:4.13",
+      "pali": "‘avijjānirodhā saṅkhāranirodho’”ti."
+    },
+    {
+      "id": "sn12.68:5.1",
+      "pali": "“Aññatreva, āvuso musila, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato musilassa paccattameva ñāṇaṁ:"
+    },
+    {
+      "id": "sn12.68:5.2",
+      "pali": "‘bhavanirodho nibbānan’”ti?"
+    },
+    {
+      "id": "sn12.68:5.3",
+      "pali": "“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṁ jānāmi ahametaṁ passāmi:"
+    },
+    {
+      "id": "sn12.68:5.4",
+      "pali": "‘bhavanirodho nibbānan’”ti."
+    },
+    {
+      "id": "sn12.68:6.1",
+      "pali": "“Tenahāyasmā musilo arahaṁ khīṇāsavo”ti?"
+    },
+    {
+      "id": "sn12.68:6.2",
+      "pali": "Evaṁ vutte, āyasmā musilo tuṇhī ahosi."
+    },
+    {
+      "id": "sn12.68:7.1",
+      "pali": "Atha kho āyasmā nārado āyasmantaṁ paviṭṭhaṁ etadavoca:"
+    },
+    {
+      "id": "sn12.68:7.2",
+      "pali": "“sādhāvuso paviṭṭha, ahaṁ etaṁ pañhaṁ labheyyaṁ."
+    },
+    {
+      "id": "sn12.68:7.3",
+      "pali": "Maṁ etaṁ pañhaṁ puccha."
+    },
+    {
+      "id": "sn12.68:7.4",
+      "pali": "Ahaṁ te etaṁ pañhaṁ byākarissāmī”ti."
+    },
+    {
+      "id": "sn12.68:7.5",
+      "pali": "“Labhatāyasmā nārado etaṁ pañhaṁ."
+    },
+    {
+      "id": "sn12.68:7.6",
+      "pali": "Pucchāmahaṁ āyasmantaṁ nāradaṁ etaṁ pañhaṁ."
+    },
+    {
+      "id": "sn12.68:7.7",
+      "pali": "Byākarotu ca me āyasmā nārado etaṁ pañhaṁ."
+    },
+    {
+      "id": "sn12.68:8.1",
+      "pali": "Aññatreva, āvuso nārada, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato nāradassa paccattameva ñāṇaṁ:"
+    },
+    {
+      "id": "sn12.68:8.2",
+      "pali": "‘jātipaccayā jarāmaraṇan’”ti?"
+    },
+    {
+      "id": "sn12.68:8.3",
+      "pali": "“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṁ jānāmi ahametaṁ passāmi:"
+    },
+    {
+      "id": "sn12.68:8.4",
+      "pali": "‘jātipaccayā jarāmaraṇan’”ti."
+    },
+    {
+      "id": "sn12.68:9.1",
+      "pali": "“Aññatreva, āvuso nārada, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato nāradassa paccattameva ñāṇaṁ—"
+    },
+    {
+      "id": "sn12.68:9.2",
+      "pali": "bhavapaccayā jāti …pe…"
+    },
+    {
+      "id": "sn12.68:9.3",
+      "pali": "avijjāpaccayā saṅkhārā”ti?"
+    },
+    {
+      "id": "sn12.68:9.4",
+      "pali": "“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṁ jānāmi ahametaṁ passāmi:"
+    },
+    {
+      "id": "sn12.68:9.5",
+      "pali": "‘avijjāpaccayā saṅkhārā’”ti."
+    },
+    {
+      "id": "sn12.68:10.1",
+      "pali": "“Aññatreva, āvuso nārada, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato nāradassa paccattameva ñāṇaṁ:"
+    },
+    {
+      "id": "sn12.68:10.2",
+      "pali": "‘jātinirodhā jarāmaraṇanirodho’”ti?"
+    },
+    {
+      "id": "sn12.68:10.3",
+      "pali": "“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṁ jānāmi ahametaṁ passāmi:"
+    },
+    {
+      "id": "sn12.68:10.4",
+      "pali": "‘jātinirodhā jarāmaraṇanirodho’”ti."
+    },
+    {
+      "id": "sn12.68:11.1",
+      "pali": "“Aññatreva, āvuso nārada, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato nāradassa paccattameva ñāṇaṁ:"
+    },
+    {
+      "id": "sn12.68:11.2",
+      "pali": "‘bhavanirodhā jātinirodhoti …pe…"
+    },
+    {
+      "id": "sn12.68:11.3",
+      "pali": "avijjānirodhā saṅkhāranirodho’”ti?"
+    },
+    {
+      "id": "sn12.68:11.4",
+      "pali": "“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṁ jānāmi ahametaṁ passāmi:"
+    },
+    {
+      "id": "sn12.68:11.5",
+      "pali": "‘avijjānirodhā saṅkhāranirodho’”ti."
+    },
+    {
+      "id": "sn12.68:12.1",
+      "pali": "“Aññatreva, āvuso nārada, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato nāradassa paccattameva ñāṇaṁ:"
+    },
+    {
+      "id": "sn12.68:12.2",
+      "pali": "‘bhavanirodho nibbānan’”ti?"
+    },
+    {
+      "id": "sn12.68:12.3",
+      "pali": "“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṁ jānāmi ahametaṁ passāmi:"
+    },
+    {
+      "id": "sn12.68:12.4",
+      "pali": "‘bhavanirodho nibbānan’”ti."
+    },
+    {
+      "id": "sn12.68:13.1",
+      "pali": "“Tenahāyasmā nārado arahaṁ khīṇāsavo”ti?"
+    },
+    {
+      "id": "sn12.68:13.2",
+      "pali": "“‘Bhavanirodho nibbānan’ti kho me, āvuso, yathābhūtaṁ sammappaññāya sudiṭṭhaṁ, na camhi arahaṁ khīṇāsavo."
+    },
+    {
+      "id": "sn12.68:13.3",
+      "pali": "Seyyathāpi, āvuso, kantāramagge udapāno, tatra nevassa rajju na udakavārako."
+    },
+    {
+      "id": "sn12.68:13.4",
+      "pali": "Atha puriso āgaccheyya ghammābhitatto ghammapareto kilanto tasito pipāsito, so taṁ udapānaṁ olokeyya."
+    },
+    {
+      "id": "sn12.68:13.5",
+      "pali": "Tassa ‘udakan’ti hi kho ñāṇaṁ assa, na ca kāyena phusitvā vihareyya."
+    },
+    {
+      "id": "sn12.68:13.6",
+      "pali": "Evameva kho, āvuso, ‘bhavanirodho nibbānan’ti yathābhūtaṁ sammappaññāya sudiṭṭhaṁ, na camhi arahaṁ khīṇāsavo”ti."
+    },
+    {
+      "id": "sn12.68:14.1",
+      "pali": "Evaṁ vutte, āyasmā ānando āyasmantaṁ paviṭṭhaṁ etadavoca:"
+    },
+    {
+      "id": "sn12.68:14.2",
+      "pali": "“evaṁvādī tvaṁ, āvuso paviṭṭha, āyasmantaṁ nāradaṁ kiṁ vadesī”ti?"
+    },
+    {
+      "id": "sn12.68:14.3",
+      "pali": "“Evaṁvādāhaṁ, āvuso ānanda, āyasmantaṁ nāradaṁ na kiñci vadāmi aññatra kalyāṇā aññatra kusalā”ti."
+    },
+    {
+      "id": "sn12.68:14.4",
+      "pali": "Aṭṭhamaṁ."
+    }
+  ]
+}

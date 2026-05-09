@@ -1,0 +1,935 @@
+{
+  "uid": "mn9",
+  "title": "Sammādiṭṭhisutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn9:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn9:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn9:1.3",
+      "pali": "Tatra kho āyasmā sāriputto bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn9:1.4",
+      "pali": "“āvuso bhikkhave”ti."
+    },
+    {
+      "id": "mn9:1.5",
+      "pali": "“Āvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṁ."
+    },
+    {
+      "id": "mn9:1.6",
+      "pali": "Āyasmā sāriputto etadavoca:"
+    },
+    {
+      "id": "mn9:2.1",
+      "pali": "“‘Sammādiṭṭhi sammādiṭṭhī’ti, āvuso, vuccati."
+    },
+    {
+      "id": "mn9:2.2",
+      "pali": "Kittāvatā nu kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti?"
+    },
+    {
+      "id": "mn9:2.3",
+      "pali": "“Dūratopi kho mayaṁ, āvuso, āgaccheyyāma āyasmato sāriputtassa santike etassa bhāsitassa atthamaññātuṁ."
+    },
+    {
+      "id": "mn9:2.4",
+      "pali": "Sādhu vatāyasmantaṁyeva sāriputtaṁ paṭibhātu etassa bhāsitassa attho."
+    },
+    {
+      "id": "mn9:2.5",
+      "pali": "Āyasmato sāriputtassa sutvā bhikkhū dhāressantī”ti."
+    },
+    {
+      "id": "mn9:2.6",
+      "pali": "“Tena hi, āvuso, suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti."
+    },
+    {
+      "id": "mn9:2.7",
+      "pali": "“Evamāvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṁ."
+    },
+    {
+      "id": "mn9:2.8",
+      "pali": "Āyasmā sāriputto etadavoca:"
+    },
+    {
+      "id": "mn9:3.1",
+      "pali": "“Yato kho, āvuso, ariyasāvako akusalañca pajānāti, akusalamūlañca pajānāti, kusalañca pajānāti, kusalamūlañca pajānāti—"
+    },
+    {
+      "id": "mn9:3.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:4.1",
+      "pali": "Katamaṁ panāvuso, akusalaṁ, katamaṁ akusalamūlaṁ, katamaṁ kusalaṁ, katamaṁ kusalamūlaṁ?"
+    },
+    {
+      "id": "mn9:4.2",
+      "pali": "Pāṇātipāto kho, āvuso, akusalaṁ, adinnādānaṁ akusalaṁ, kāmesumicchācāro akusalaṁ, musāvādo akusalaṁ, pisuṇā vācā akusalaṁ, pharusā vācā akusalaṁ, samphappalāpo akusalaṁ, abhijjhā akusalaṁ, byāpādo akusalaṁ, micchādiṭṭhi akusalaṁ—"
+    },
+    {
+      "id": "mn9:4.3",
+      "pali": "idaṁ vuccatāvuso akusalaṁ."
+    },
+    {
+      "id": "mn9:5.1",
+      "pali": "Katamañcāvuso, akusalamūlaṁ?"
+    },
+    {
+      "id": "mn9:5.2",
+      "pali": "Lobho akusalamūlaṁ, doso akusalamūlaṁ, moho akusalamūlaṁ—"
+    },
+    {
+      "id": "mn9:5.3",
+      "pali": "idaṁ vuccatāvuso, akusalamūlaṁ."
+    },
+    {
+      "id": "mn9:6.1",
+      "pali": "Katamañcāvuso, kusalaṁ?"
+    },
+    {
+      "id": "mn9:6.2",
+      "pali": "Pāṇātipātā veramaṇī kusalaṁ, adinnādānā veramaṇī kusalaṁ, kāmesumicchācārā veramaṇī kusalaṁ, musāvādā veramaṇī kusalaṁ, pisuṇāya vācāya veramaṇī kusalaṁ, pharusāya vācāya veramaṇī kusalaṁ, samphappalāpā veramaṇī kusalaṁ, anabhijjhā kusalaṁ, abyāpādo kusalaṁ, sammādiṭṭhi kusalaṁ—"
+    },
+    {
+      "id": "mn9:6.3",
+      "pali": "idaṁ vuccatāvuso, kusalaṁ."
+    },
+    {
+      "id": "mn9:7.1",
+      "pali": "Katamañcāvuso, kusalamūlaṁ?"
+    },
+    {
+      "id": "mn9:7.2",
+      "pali": "Alobho kusalamūlaṁ, adoso kusalamūlaṁ, amoho kusalamūlaṁ—"
+    },
+    {
+      "id": "mn9:7.3",
+      "pali": "idaṁ vuccatāvuso, kusalamūlaṁ."
+    },
+    {
+      "id": "mn9:8.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ akusalaṁ pajānāti, evaṁ akusalamūlaṁ pajānāti, evaṁ kusalaṁ pajānāti, evaṁ kusalamūlaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya, paṭighānusayaṁ paṭivinodetvā, ‘asmī’ti diṭṭhimānānusayaṁ samūhanitvā, avijjaṁ pahāya vijjaṁ uppādetvā, diṭṭheva dhamme dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:8.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:9.1",
+      "pali": "“Sādhāvuso”ti kho te bhikkhū āyasmato sāriputtassa bhāsitaṁ abhinanditvā anumoditvā āyasmantaṁ sāriputtaṁ uttari pañhaṁ apucchuṁ:"
+    },
+    {
+      "id": "mn9:9.2",
+      "pali": "“siyā panāvuso, aññopi pariyāyo yathā ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti?"
+    },
+    {
+      "id": "mn9:10.1",
+      "pali": "“Siyā, āvuso."
+    },
+    {
+      "id": "mn9:10.2",
+      "pali": "Yato kho, āvuso, ariyasāvako āhārañca pajānāti, āhārasamudayañca pajānāti, āhāranirodhañca pajānāti, āhāranirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:10.3",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:11.1",
+      "pali": "Katamo panāvuso, āhāro, katamo āhārasamudayo, katamo āhāranirodho, katamā āhāranirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:11.2",
+      "pali": "Cattārome, āvuso, āhārā bhūtānaṁ vā sattānaṁ ṭhitiyā, sambhavesīnaṁ vā anuggahāya."
+    },
+    {
+      "id": "mn9:11.3",
+      "pali": "Katame cattāro?"
+    },
+    {
+      "id": "mn9:11.4",
+      "pali": "Kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṁ catutthaṁ."
+    },
+    {
+      "id": "mn9:11.5",
+      "pali": "Taṇhāsamudayā āhārasamudayo, taṇhānirodhā āhāranirodho, ayameva ariyo aṭṭhaṅgiko maggo āhāranirodhagāminī paṭipadā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:11.6",
+      "pali": "sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto, sammāājīvo sammāvāyāmo sammāsati sammāsamādhi."
+    },
+    {
+      "id": "mn9:12.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ āhāraṁ pajānāti, evaṁ āhārasamudayaṁ pajānāti, evaṁ āhāranirodhaṁ pajānāti, evaṁ āhāranirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya, paṭighānusayaṁ paṭivinodetvā, ‘asmī’ti diṭṭhimānānusayaṁ samūhanitvā, avijjaṁ pahāya vijjaṁ uppādetvā, diṭṭheva dhamme dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:12.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:13.1",
+      "pali": "“Sādhāvuso”ti kho te bhikkhū āyasmato sāriputtassa bhāsitaṁ abhinanditvā anumoditvā āyasmantaṁ sāriputtaṁ uttari pañhaṁ apucchuṁ:"
+    },
+    {
+      "id": "mn9:13.2",
+      "pali": "“siyā panāvuso, aññopi pariyāyo yathā ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti?"
+    },
+    {
+      "id": "mn9:14.1",
+      "pali": "“Siyā, āvuso."
+    },
+    {
+      "id": "mn9:14.2",
+      "pali": "Yato kho, āvuso, ariyasāvako dukkhañca pajānāti, dukkhasamudayañca pajānāti, dukkhanirodhañca pajānāti, dukkhanirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:14.3",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:15.1",
+      "pali": "Katamaṁ panāvuso, dukkhaṁ, katamo dukkhasamudayo, katamo dukkhanirodho, katamā dukkhanirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:15.2",
+      "pali": "Jātipi dukkhā, jarāpi dukkhā, maraṇampi dukkhaṁ, sokaparidevadukkhadomanassupāyāsāpi dukkhā, appiyehi sampayogopi dukkho, piyehi vippayogopi dukkho, yampicchaṁ na labhati tampi dukkhaṁ, saṅkhittena pañcupādānakkhandhā dukkhā—"
+    },
+    {
+      "id": "mn9:15.3",
+      "pali": "idaṁ vuccatāvuso, dukkhaṁ."
+    },
+    {
+      "id": "mn9:16.1",
+      "pali": "Katamo cāvuso, dukkhasamudayo?"
+    },
+    {
+      "id": "mn9:16.2",
+      "pali": "Yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:16.3",
+      "pali": "kāmataṇhā bhavataṇhā vibhavataṇhā—"
+    },
+    {
+      "id": "mn9:16.4",
+      "pali": "ayaṁ vuccatāvuso, dukkhasamudayo."
+    },
+    {
+      "id": "mn9:17.1",
+      "pali": "Katamo cāvuso, dukkhanirodho?"
+    },
+    {
+      "id": "mn9:17.2",
+      "pali": "Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo—"
+    },
+    {
+      "id": "mn9:17.3",
+      "pali": "ayaṁ vuccatāvuso, dukkhanirodho."
+    },
+    {
+      "id": "mn9:18.1",
+      "pali": "Katamā cāvuso, dukkhanirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:18.2",
+      "pali": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:18.3",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi—"
+    },
+    {
+      "id": "mn9:18.4",
+      "pali": "ayaṁ vuccatāvuso, dukkhanirodhagāminī paṭipadā."
+    },
+    {
+      "id": "mn9:19.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ dukkhaṁ pajānāti, evaṁ dukkhasamudayaṁ pajānāti, evaṁ dukkhanirodhaṁ pajānāti, evaṁ dukkhanirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya, paṭighānusayaṁ paṭivinodetvā, ‘asmī’ti diṭṭhimānānusayaṁ samūhanitvā, avijjaṁ pahāya vijjaṁ uppādetvā, diṭṭheva dhamme dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:19.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:20.1",
+      "pali": "“Sādhāvuso”ti kho te bhikkhū āyasmato sāriputtassa bhāsitaṁ abhinanditvā anumoditvā āyasmantaṁ sāriputtaṁ uttari pañhaṁ apucchuṁ:"
+    },
+    {
+      "id": "mn9:20.2",
+      "pali": "“siyā panāvuso, aññopi pariyāyo yathā ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti?"
+    },
+    {
+      "id": "mn9:21.1",
+      "pali": "“Siyā, āvuso."
+    },
+    {
+      "id": "mn9:21.2",
+      "pali": "Yato kho, āvuso, ariyasāvako jarāmaraṇañca pajānāti, jarāmaraṇasamudayañca pajānāti, jarāmaraṇanirodhañca pajānāti, jarāmaraṇanirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:21.3",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:22.1",
+      "pali": "Katamaṁ panāvuso, jarāmaraṇaṁ, katamo jarāmaraṇasamudayo, katamo jarāmaraṇanirodho, katamā jarāmaraṇanirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:22.2",
+      "pali": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko—"
+    },
+    {
+      "id": "mn9:22.3",
+      "pali": "ayaṁ vuccatāvuso, jarā."
+    },
+    {
+      "id": "mn9:22.4",
+      "pali": "Katamañcāvuso, maraṇaṁ?"
+    },
+    {
+      "id": "mn9:22.5",
+      "pali": "Yā tesaṁ tesaṁ sattānaṁ tamhā tamhā sattanikāyā cuti cavanatā bhedo antaradhānaṁ maccu maraṇaṁ kālaṅkiriyā khandhānaṁ bhedo, kaḷevarassa nikkhepo, jīvitindriyassupacchedo—"
+    },
+    {
+      "id": "mn9:22.6",
+      "pali": "idaṁ vuccatāvuso, maraṇaṁ."
+    },
+    {
+      "id": "mn9:22.7",
+      "pali": "Iti ayañca jarā idañca maraṇaṁ—"
+    },
+    {
+      "id": "mn9:22.8",
+      "pali": "idaṁ vuccatāvuso, jarāmaraṇaṁ."
+    },
+    {
+      "id": "mn9:22.9",
+      "pali": "Jātisamudayā jarāmaraṇasamudayo, jātinirodhā jarāmaraṇanirodho, ayameva ariyo aṭṭhaṅgiko maggo jarāmaraṇanirodhagāminī paṭipadā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:22.10",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "mn9:23.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ jarāmaraṇaṁ pajānāti, evaṁ jarāmaraṇasamudayaṁ pajānāti, evaṁ jarāmaraṇanirodhaṁ pajānāti, evaṁ jarāmaraṇanirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya …pe… dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:23.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:24.1",
+      "pali": "“Sādhāvuso”ti kho …pe… apucchuṁ—"
+    },
+    {
+      "id": "mn9:24.2",
+      "pali": "siyā panāvuso …pe…"
+    },
+    {
+      "id": "mn9:25.1",
+      "pali": "“siyā, āvuso."
+    },
+    {
+      "id": "mn9:25.2",
+      "pali": "Yato kho, āvuso, ariyasāvako jātiñca pajānāti, jātisamudayañca pajānāti, jātinirodhañca pajānāti, jātinirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:25.3",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:26.1",
+      "pali": "Katamā panāvuso, jāti, katamo jātisamudayo, katamo jātinirodho, katamā jātinirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:26.2",
+      "pali": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jāti sañjāti okkanti abhinibbatti khandhānaṁ pātubhāvo, āyatanānaṁ paṭilābho—"
+    },
+    {
+      "id": "mn9:26.3",
+      "pali": "ayaṁ vuccatāvuso, jāti."
+    },
+    {
+      "id": "mn9:26.4",
+      "pali": "Bhavasamudayā jātisamudayo, bhavanirodhā jātinirodho, ayameva ariyo aṭṭhaṅgiko maggo jātinirodhagāminī paṭipadā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:26.5",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "mn9:27.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ jātiṁ pajānāti, evaṁ jātisamudayaṁ pajānāti, evaṁ jātinirodhaṁ pajānāti, evaṁ jātinirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya …pe… dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:27.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:28.1",
+      "pali": "“Sādhāvuso”ti kho …pe… apucchuṁ—"
+    },
+    {
+      "id": "mn9:28.2",
+      "pali": "siyā panāvuso …pe…"
+    },
+    {
+      "id": "mn9:29.1",
+      "pali": "“siyā, āvuso."
+    },
+    {
+      "id": "mn9:29.2",
+      "pali": "Yato kho, āvuso, ariyasāvako bhavañca pajānāti, bhavasamudayañca pajānāti, bhavanirodhañca pajānāti, bhavanirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:29.3",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:30.1",
+      "pali": "Katamo panāvuso, bhavo, katamo bhavasamudayo, katamo bhavanirodho, katamā bhavanirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:30.2",
+      "pali": "Tayome, āvuso, bhavā—"
+    },
+    {
+      "id": "mn9:30.3",
+      "pali": "kāmabhavo, rūpabhavo, arūpabhavo."
+    },
+    {
+      "id": "mn9:30.4",
+      "pali": "Upādānasamudayā bhavasamudayo, upādānanirodhā bhavanirodho, ayameva ariyo aṭṭhaṅgiko maggo bhavanirodhagāminī paṭipadā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:30.5",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "mn9:31.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ bhavaṁ pajānāti, evaṁ bhavasamudayaṁ pajānāti, evaṁ bhavanirodhaṁ pajānāti, evaṁ bhavanirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya …pe… dukkhassantakaro hoti."
+    },
+    {
+      "id": "mn9:31.2",
+      "pali": "Ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:32.1",
+      "pali": "“Sādhāvuso”ti kho …pe… apucchuṁ—"
+    },
+    {
+      "id": "mn9:32.2",
+      "pali": "siyā panāvuso …pe…"
+    },
+    {
+      "id": "mn9:33.1",
+      "pali": "“siyā, āvuso."
+    },
+    {
+      "id": "mn9:33.2",
+      "pali": "Yato kho, āvuso, ariyasāvako upādānañca pajānāti, upādānasamudayañca pajānāti, upādānanirodhañca pajānāti, upādānanirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:33.3",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:34.1",
+      "pali": "Katamaṁ panāvuso, upādānaṁ, katamo upādānasamudayo, katamo upādānanirodho, katamā upādānanirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:34.2",
+      "pali": "Cattārimāni, āvuso, upādānāni—"
+    },
+    {
+      "id": "mn9:34.3",
+      "pali": "kāmupādānaṁ, diṭṭhupādānaṁ, sīlabbatupādānaṁ, attavādupādānaṁ."
+    },
+    {
+      "id": "mn9:34.4",
+      "pali": "Taṇhāsamudayā upādānasamudayo, taṇhānirodhā upādānanirodho, ayameva ariyo aṭṭhaṅgiko maggo upādānanirodhagāminī paṭipadā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:34.5",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "mn9:35.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ upādānaṁ pajānāti, evaṁ upādānasamudayaṁ pajānāti, evaṁ upādānanirodhaṁ pajānāti, evaṁ upādānanirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya …pe… dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:35.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:36.1",
+      "pali": "“Sādhāvuso”ti kho …pe… apucchuṁ—"
+    },
+    {
+      "id": "mn9:36.2",
+      "pali": "siyā panāvuso …pe…"
+    },
+    {
+      "id": "mn9:37.1",
+      "pali": "“siyā, āvuso."
+    },
+    {
+      "id": "mn9:37.2",
+      "pali": "Yato kho, āvuso, ariyasāvako taṇhañca pajānāti, taṇhāsamudayañca pajānāti, taṇhānirodhañca pajānāti, taṇhānirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:37.3",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:38.1",
+      "pali": "Katamā panāvuso, taṇhā, katamo taṇhāsamudayo, katamo taṇhānirodho, katamā taṇhānirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:38.2",
+      "pali": "Chayime, āvuso, taṇhākāyā—"
+    },
+    {
+      "id": "mn9:38.3",
+      "pali": "rūpataṇhā, saddataṇhā, gandhataṇhā, rasataṇhā, phoṭṭhabbataṇhā, dhammataṇhā."
+    },
+    {
+      "id": "mn9:38.4",
+      "pali": "Vedanāsamudayā taṇhāsamudayo, vedanānirodhā taṇhānirodho, ayameva ariyo aṭṭhaṅgiko maggo taṇhānirodhagāminī paṭipadā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:38.5",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "mn9:39.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ taṇhaṁ pajānāti, evaṁ taṇhāsamudayaṁ pajānāti, evaṁ taṇhānirodhaṁ pajānāti, evaṁ taṇhānirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya …pe… dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:39.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:40.1",
+      "pali": "“Sādhāvuso”ti kho …pe… apucchuṁ—"
+    },
+    {
+      "id": "mn9:40.2",
+      "pali": "siyā panāvuso …pe…"
+    },
+    {
+      "id": "mn9:41.1",
+      "pali": "“siyā, āvuso."
+    },
+    {
+      "id": "mn9:41.2",
+      "pali": "Yato kho, āvuso, ariyasāvako vedanañca pajānāti, vedanāsamudayañca pajānāti, vedanānirodhañca pajānāti, vedanānirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:41.3",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:42.1",
+      "pali": "Katamā panāvuso, vedanā, katamo vedanāsamudayo, katamo vedanānirodho, katamā vedanānirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:42.2",
+      "pali": "Chayime, āvuso, vedanākāyā—"
+    },
+    {
+      "id": "mn9:42.3",
+      "pali": "cakkhusamphassajā vedanā, sotasamphassajā vedanā, ghānasamphassajā vedanā, jivhāsamphassajā vedanā, kāyasamphassajā vedanā, manosamphassajā vedanā."
+    },
+    {
+      "id": "mn9:42.4",
+      "pali": "Phassasamudayā vedanāsamudayo, phassanirodhā vedanānirodho, ayameva ariyo aṭṭhaṅgiko maggo vedanānirodhagāminī paṭipadā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:42.5",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "mn9:43.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ vedanaṁ pajānāti, evaṁ vedanāsamudayaṁ pajānāti, evaṁ vedanānirodhaṁ pajānāti, evaṁ vedanānirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya …pe… dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:43.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:44.1",
+      "pali": "“Sādhāvuso”ti kho …pe… apucchuṁ—"
+    },
+    {
+      "id": "mn9:44.2",
+      "pali": "siyā panāvuso …pe…"
+    },
+    {
+      "id": "mn9:45.1",
+      "pali": "“siyā, āvuso."
+    },
+    {
+      "id": "mn9:45.2",
+      "pali": "Yato kho, āvuso, ariyasāvako phassañca pajānāti, phassasamudayañca pajānāti, phassanirodhañca pajānāti, phassanirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:45.3",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:46.1",
+      "pali": "Katamo panāvuso, phasso, katamo phassasamudayo, katamo phassanirodho, katamā phassanirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:46.2",
+      "pali": "Chayime, āvuso, phassakāyā—"
+    },
+    {
+      "id": "mn9:46.3",
+      "pali": "cakkhusamphasso, sotasamphasso, ghānasamphasso, jivhāsamphasso, kāyasamphasso, manosamphasso."
+    },
+    {
+      "id": "mn9:46.4",
+      "pali": "Saḷāyatanasamudayā phassasamudayo, saḷāyatananirodhā phassanirodho, ayameva ariyo aṭṭhaṅgiko maggo phassanirodhagāminī paṭipadā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:46.5",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "mn9:47.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ phassaṁ pajānāti, evaṁ phassasamudayaṁ pajānāti, evaṁ phassanirodhaṁ pajānāti, evaṁ phassanirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya …pe… dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:47.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:48.1",
+      "pali": "“Sādhāvuso”ti kho …pe… apucchuṁ—"
+    },
+    {
+      "id": "mn9:48.2",
+      "pali": "siyā panāvuso …pe…"
+    },
+    {
+      "id": "mn9:49.1",
+      "pali": "“siyā, āvuso."
+    },
+    {
+      "id": "mn9:49.2",
+      "pali": "Yato kho, āvuso, ariyasāvako saḷāyatanañca pajānāti, saḷāyatanasamudayañca pajānāti, saḷāyatananirodhañca pajānāti, saḷāyatananirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:49.3",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:50.1",
+      "pali": "Katamaṁ panāvuso, saḷāyatanaṁ, katamo saḷāyatanasamudayo, katamo saḷāyatananirodho, katamā saḷāyatananirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:50.2",
+      "pali": "Chayimāni, āvuso, āyatanāni—"
+    },
+    {
+      "id": "mn9:50.3",
+      "pali": "cakkhāyatanaṁ, sotāyatanaṁ, ghānāyatanaṁ, jivhāyatanaṁ, kāyāyatanaṁ, manāyatanaṁ."
+    },
+    {
+      "id": "mn9:50.4",
+      "pali": "Nāmarūpasamudayā saḷāyatanasamudayo, nāmarūpanirodhā saḷāyatananirodho, ayameva ariyo aṭṭhaṅgiko maggo saḷāyatananirodhagāminī paṭipadā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:50.5",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "mn9:51.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ saḷāyatanaṁ pajānāti, evaṁ saḷāyatanasamudayaṁ pajānāti, evaṁ saḷāyatananirodhaṁ pajānāti, evaṁ saḷāyatananirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya …pe… dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:51.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:52.1",
+      "pali": "“Sādhāvuso”ti kho …pe… apucchuṁ—"
+    },
+    {
+      "id": "mn9:52.2",
+      "pali": "siyā panāvuso …pe…"
+    },
+    {
+      "id": "mn9:53.1",
+      "pali": "“siyā, āvuso."
+    },
+    {
+      "id": "mn9:53.2",
+      "pali": "Yato kho, āvuso, ariyasāvako nāmarūpañca pajānāti, nāmarūpasamudayañca pajānāti, nāmarūpanirodhañca pajānāti, nāmarūpanirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:53.3",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:54.1",
+      "pali": "Katamaṁ panāvuso, nāmarūpaṁ, katamo nāmarūpasamudayo, katamo nāmarūpanirodho, katamā nāmarūpanirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:54.2",
+      "pali": "Vedanā, saññā, cetanā, phasso, manasikāro—"
+    },
+    {
+      "id": "mn9:54.3",
+      "pali": "idaṁ vuccatāvuso, nāmaṁ;"
+    },
+    {
+      "id": "mn9:54.4",
+      "pali": "cattāri ca mahābhūtāni, catunnañca mahābhūtānaṁ upādāyarūpaṁ—"
+    },
+    {
+      "id": "mn9:54.5",
+      "pali": "idaṁ vuccatāvuso, rūpaṁ."
+    },
+    {
+      "id": "mn9:54.6",
+      "pali": "Iti idañca nāmaṁ idañca rūpaṁ—"
+    },
+    {
+      "id": "mn9:54.7",
+      "pali": "idaṁ vuccatāvuso, nāmarūpaṁ."
+    },
+    {
+      "id": "mn9:54.8",
+      "pali": "Viññāṇasamudayā nāmarūpasamudayo, viññāṇanirodhā nāmarūpanirodho, ayameva ariyo aṭṭhaṅgiko maggo nāmarūpanirodhagāminī paṭipadā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:54.9",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "mn9:55.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ nāmarūpaṁ pajānāti, evaṁ nāmarūpasamudayaṁ pajānāti, evaṁ nāmarūpanirodhaṁ pajānāti, evaṁ nāmarūpanirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya …pe… dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:55.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:56.1",
+      "pali": "“Sādhāvuso”ti kho …pe… apucchuṁ—"
+    },
+    {
+      "id": "mn9:56.2",
+      "pali": "siyā panāvuso …pe…"
+    },
+    {
+      "id": "mn9:57.1",
+      "pali": "“siyā, āvuso."
+    },
+    {
+      "id": "mn9:57.2",
+      "pali": "Yato kho, āvuso, ariyasāvako viññāṇañca pajānāti, viññāṇasamudayañca pajānāti, viññāṇanirodhañca pajānāti, viññāṇanirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:57.3",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:58.1",
+      "pali": "Katamaṁ panāvuso, viññāṇaṁ, katamo viññāṇasamudayo, katamo viññāṇanirodho, katamā viññāṇanirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:58.2",
+      "pali": "Chayime, āvuso, viññāṇakāyā—"
+    },
+    {
+      "id": "mn9:58.3",
+      "pali": "cakkhuviññāṇaṁ, sotaviññāṇaṁ, ghānaviññāṇaṁ, jivhāviññāṇaṁ, kāyaviññāṇaṁ, manoviññāṇaṁ."
+    },
+    {
+      "id": "mn9:58.4",
+      "pali": "Saṅkhārasamudayā viññāṇasamudayo, saṅkhāranirodhā viññāṇanirodho, ayameva ariyo aṭṭhaṅgiko maggo viññāṇanirodhagāminī paṭipadā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:58.5",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "mn9:59.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ viññāṇaṁ pajānāti, evaṁ viññāṇasamudayaṁ pajānāti, evaṁ viññāṇanirodhaṁ pajānāti, evaṁ viññāṇanirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya …pe… dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:59.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:60.1",
+      "pali": "“Sādhāvuso”ti kho …pe… apucchuṁ—"
+    },
+    {
+      "id": "mn9:60.2",
+      "pali": "siyā panāvuso …pe…"
+    },
+    {
+      "id": "mn9:61.1",
+      "pali": "“siyā, āvuso."
+    },
+    {
+      "id": "mn9:61.2",
+      "pali": "Yato kho, āvuso, ariyasāvako saṅkhāre ca pajānāti, saṅkhārasamudayañca pajānāti, saṅkhāranirodhañca pajānāti, saṅkhāranirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:61.3",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:62.1",
+      "pali": "Katame panāvuso, saṅkhārā, katamo saṅkhārasamudayo, katamo saṅkhāranirodho, katamā saṅkhāranirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:62.2",
+      "pali": "Tayome, āvuso, saṅkhārā—"
+    },
+    {
+      "id": "mn9:62.3",
+      "pali": "kāyasaṅkhāro, vacīsaṅkhāro, cittasaṅkhāro."
+    },
+    {
+      "id": "mn9:62.4",
+      "pali": "Avijjāsamudayā saṅkhārasamudayo, avijjānirodhā saṅkhāranirodho, ayameva ariyo aṭṭhaṅgiko maggo saṅkhāranirodhagāminī paṭipadā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:62.5",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "mn9:63.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ saṅkhāre pajānāti, evaṁ saṅkhārasamudayaṁ pajānāti, evaṁ saṅkhāranirodhaṁ pajānāti, evaṁ saṅkhāranirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya, paṭighānusayaṁ paṭivinodetvā, ‘asmī’ti diṭṭhimānānusayaṁ samūhanitvā, avijjaṁ pahāya vijjaṁ uppādetvā, diṭṭheva dhamme dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:63.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:64.1",
+      "pali": "“Sādhāvuso”ti kho …pe… apucchuṁ—"
+    },
+    {
+      "id": "mn9:64.2",
+      "pali": "siyā panāvuso …pe…"
+    },
+    {
+      "id": "mn9:64.3",
+      "pali": "“siyā, āvuso."
+    },
+    {
+      "id": "mn9:65.1",
+      "pali": "Yato kho, āvuso, ariyasāvako avijjañca pajānāti, avijjāsamudayañca pajānāti, avijjānirodhañca pajānāti, avijjānirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:65.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:65.3",
+      "pali": "Katamā panāvuso, avijjā, katamo avijjāsamudayo, katamo avijjānirodho, katamā avijjānirodhagāminī paṭipadā?"
+    },
+    {
+      "id": "mn9:65.4",
+      "pali": "Yaṁ kho, āvuso, dukkhe aññāṇaṁ, dukkhasamudaye aññāṇaṁ, dukkhanirodhe aññāṇaṁ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṁ—"
+    },
+    {
+      "id": "mn9:65.5",
+      "pali": "ayaṁ vuccatāvuso, avijjā."
+    },
+    {
+      "id": "mn9:66.1",
+      "pali": "Āsavasamudayā avijjāsamudayo, āsavanirodhā avijjānirodho, ayameva ariyo aṭṭhaṅgiko maggo avijjānirodhagāminī paṭipadā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:66.2",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "mn9:67.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ avijjaṁ pajānāti, evaṁ avijjāsamudayaṁ pajānāti, evaṁ avijjānirodhaṁ pajānāti, evaṁ avijjānirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya, paṭighānusayaṁ paṭivinodetvā, ‘asmī’ti diṭṭhimānānusayaṁ samūhanitvā, avijjaṁ pahāya vijjaṁ uppādetvā, diṭṭheva dhamme dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:67.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:68.1",
+      "pali": "“Sādhāvuso”ti kho te bhikkhū āyasmato sāriputtassa bhāsitaṁ abhinanditvā anumoditvā āyasmantaṁ sāriputtaṁ uttari pañhaṁ apucchuṁ:"
+    },
+    {
+      "id": "mn9:68.2",
+      "pali": "“siyā panāvuso, aññopi pariyāyo yathā ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti?"
+    },
+    {
+      "id": "mn9:69.1",
+      "pali": "“Siyā, āvuso."
+    },
+    {
+      "id": "mn9:69.2",
+      "pali": "Yato kho, āvuso, ariyasāvako āsavañca pajānāti, āsavasamudayañca pajānāti, āsavanirodhañca pajānāti, āsavanirodhagāminiṁ paṭipadañca pajānāti—"
+    },
+    {
+      "id": "mn9:69.3",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ."
+    },
+    {
+      "id": "mn9:70.1",
+      "pali": "Katamo panāvuso, āsavo, katamo āsavasamudayo, katamo āsavanirodho, katamā āsavanirodhagāminī paṭipadāti?"
+    },
+    {
+      "id": "mn9:70.2",
+      "pali": "Tayome, āvuso, āsavā—"
+    },
+    {
+      "id": "mn9:70.3",
+      "pali": "kāmāsavo, bhavāsavo, avijjāsavo."
+    },
+    {
+      "id": "mn9:70.4",
+      "pali": "Avijjāsamudayā āsavasamudayo, avijjānirodhā āsavanirodho, ayameva ariyo aṭṭhaṅgiko maggo āsavanirodhagāminī paṭipadā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn9:70.5",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "mn9:71.1",
+      "pali": "Yato kho, āvuso, ariyasāvako evaṁ āsavaṁ pajānāti, evaṁ āsavasamudayaṁ pajānāti, evaṁ āsavanirodhaṁ pajānāti, evaṁ āsavanirodhagāminiṁ paṭipadaṁ pajānāti, so sabbaso rāgānusayaṁ pahāya, paṭighānusayaṁ paṭivinodetvā, ‘asmī’ti diṭṭhimānānusayaṁ samūhanitvā, avijjaṁ pahāya vijjaṁ uppādetvā, diṭṭheva dhamme dukkhassantakaro hoti—"
+    },
+    {
+      "id": "mn9:71.2",
+      "pali": "ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti."
+    },
+    {
+      "id": "mn9:71.3",
+      "pali": "Idamavocāyasmā sāriputto."
+    },
+    {
+      "id": "mn9:71.4",
+      "pali": "Attamanā te bhikkhū āyasmato sāriputtassa bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn9:71.5",
+      "pali": "Sammādiṭṭhisuttaṁ niṭṭhitaṁ navamaṁ."
+    }
+  ]
+}

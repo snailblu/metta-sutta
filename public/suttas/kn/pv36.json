@@ -1,0 +1,1443 @@
+{
+  "uid": "pv36",
+  "title": "1. Ambasakkarapetavatthu",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "pv36:1.1",
+      "pali": "Vesālī nāma nagaratthi vajjīnaṁ,"
+    },
+    {
+      "id": "pv36:1.2",
+      "pali": "Tattha ahu licchavi ambasakkaro;"
+    },
+    {
+      "id": "pv36:1.3",
+      "pali": "Disvāna petaṁ nagarassa bāhiraṁ,"
+    },
+    {
+      "id": "pv36:1.4",
+      "pali": "Tattheva pucchittha taṁ kāraṇatthiko."
+    },
+    {
+      "id": "pv36:2.1",
+      "pali": "“Seyyā nisajjā nayimassa atthi,"
+    },
+    {
+      "id": "pv36:2.2",
+      "pali": "Abhikkamo natthi paṭikkamo ca;"
+    },
+    {
+      "id": "pv36:2.3",
+      "pali": "Asitapītakhāyitavatthabhogā,"
+    },
+    {
+      "id": "pv36:2.4",
+      "pali": "Paricārikā sāpi imassa natthi."
+    },
+    {
+      "id": "pv36:3.1",
+      "pali": "Ye ñātakā diṭṭhasutā suhajjā,"
+    },
+    {
+      "id": "pv36:3.2",
+      "pali": "Anukampakā yassa ahesuṁ pubbe;"
+    },
+    {
+      "id": "pv36:3.3",
+      "pali": "Daṭṭhumpi te dāni na taṁ labhanti,"
+    },
+    {
+      "id": "pv36:3.4",
+      "pali": "Virājitatto hi janena tena."
+    },
+    {
+      "id": "pv36:4.1",
+      "pali": "Na oggatattassa bhavanti mittā,"
+    },
+    {
+      "id": "pv36:4.2",
+      "pali": "Jahanti mittā vikalaṁ viditvā;"
+    },
+    {
+      "id": "pv36:4.3",
+      "pali": "Atthañca disvā parivārayanti,"
+    },
+    {
+      "id": "pv36:4.4",
+      "pali": "Bahū mittā uggatattassa honti."
+    },
+    {
+      "id": "pv36:5.1",
+      "pali": "Nihīnatto sabbabhogehi kiccho,"
+    },
+    {
+      "id": "pv36:5.2",
+      "pali": "Sammakkhito samparibhinnagatto;"
+    },
+    {
+      "id": "pv36:5.3",
+      "pali": "Ussāvabindūva palimpamāno,"
+    },
+    {
+      "id": "pv36:5.4",
+      "pali": "Ajja suve jīvitassūparodho."
+    },
+    {
+      "id": "pv36:6.1",
+      "pali": "Etādisaṁ uttamakicchappattaṁ,"
+    },
+    {
+      "id": "pv36:6.2",
+      "pali": "Uttāsitaṁ pucimandassa sūle;"
+    },
+    {
+      "id": "pv36:6.3",
+      "pali": "‘Atha tvaṁ kena vaṇṇena vadesi yakkha,"
+    },
+    {
+      "id": "pv36:6.4",
+      "pali": "Jīva bho jīvitameva seyyo’”ti."
+    },
+    {
+      "id": "pv36:7.1",
+      "pali": "“Sālohito esa ahosi mayhaṁ,"
+    },
+    {
+      "id": "pv36:7.2",
+      "pali": "Ahaṁ sarāmi purimāya jātiyā;"
+    },
+    {
+      "id": "pv36:7.3",
+      "pali": "Disvā ca me kāruññamahosi rāja,"
+    },
+    {
+      "id": "pv36:7.4",
+      "pali": "Mā pāpadhammo nirayaṁ patāyaṁ."
+    },
+    {
+      "id": "pv36:8.1",
+      "pali": "Ito cuto licchavi esa poso,"
+    },
+    {
+      "id": "pv36:8.2",
+      "pali": "Sattussadaṁ nirayaṁ ghorarūpaṁ;"
+    },
+    {
+      "id": "pv36:8.3",
+      "pali": "Upapajjati dukkaṭakammakārī,"
+    },
+    {
+      "id": "pv36:8.4",
+      "pali": "Mahābhitāpaṁ kaṭukaṁ bhayānakaṁ."
+    },
+    {
+      "id": "pv36:9.1",
+      "pali": "Anekabhāgena guṇena seyyo,"
+    },
+    {
+      "id": "pv36:9.2",
+      "pali": "Ayameva sūlo nirayena tena;"
+    },
+    {
+      "id": "pv36:9.3",
+      "pali": "Ekantadukkhaṁ kaṭukaṁ bhayānakaṁ,"
+    },
+    {
+      "id": "pv36:9.4",
+      "pali": "Ekantatibbaṁ nirayaṁ patāyaṁ."
+    },
+    {
+      "id": "pv36:10.1",
+      "pali": "Idañca sutvā vacanaṁ mameso,"
+    },
+    {
+      "id": "pv36:10.2",
+      "pali": "Dukkhūpanīto vijaheyya pāṇaṁ;"
+    },
+    {
+      "id": "pv36:10.3",
+      "pali": "Tasmā ahaṁ santike na bhaṇāmi,"
+    },
+    {
+      "id": "pv36:10.4",
+      "pali": "Mā me kato jīvitassūparodho”."
+    },
+    {
+      "id": "pv36:11.1",
+      "pali": "“Aññāto eso purisassa attho,"
+    },
+    {
+      "id": "pv36:11.2",
+      "pali": "Aññampi icchāmase pucchituṁ tuvaṁ;"
+    },
+    {
+      "id": "pv36:11.3",
+      "pali": "Okāsakammaṁ sace no karosi,"
+    },
+    {
+      "id": "pv36:11.4",
+      "pali": "Pucchāma taṁ no na ca kujjhitabban”ti."
+    },
+    {
+      "id": "pv36:12.1",
+      "pali": "“Addhā paṭiññā me tadā ahu,"
+    },
+    {
+      "id": "pv36:12.2",
+      "pali": "Nācikkhanā appasannassa hoti;"
+    },
+    {
+      "id": "pv36:12.3",
+      "pali": "Akāmā saddheyyavacoti katvā,"
+    },
+    {
+      "id": "pv36:12.4",
+      "pali": "Pucchassu maṁ kāmaṁ yathā visayhan”ti."
+    },
+    {
+      "id": "pv36:13.1",
+      "pali": "“Yaṁ kiñcahaṁ cakkhunā passissāmi,"
+    },
+    {
+      "id": "pv36:13.2",
+      "pali": "Sabbampi tāhaṁ abhisaddaheyyaṁ;"
+    },
+    {
+      "id": "pv36:13.3",
+      "pali": "Disvāva taṁ nopi ce saddaheyyaṁ,"
+    },
+    {
+      "id": "pv36:13.4",
+      "pali": "Kareyyāsi me yakkha niyassakamman”ti."
+    },
+    {
+      "id": "pv36:14.1",
+      "pali": "“Saccappaṭiññā tava mesā hotu,"
+    },
+    {
+      "id": "pv36:14.2",
+      "pali": "Sutvāna dhammaṁ labha suppasādaṁ;"
+    },
+    {
+      "id": "pv36:14.3",
+      "pali": "Aññatthiko no ca paduṭṭhacitto,"
+    },
+    {
+      "id": "pv36:14.4",
+      "pali": "Yaṁ te sutaṁ asutañcāpi dhammaṁ;"
+    },
+    {
+      "id": "pv36:14.5",
+      "pali": "Sabbampi akkhissaṁ yathā pajānanti”."
+    },
+    {
+      "id": "pv36:15.1",
+      "pali": "“Setena assena alaṅkatena,"
+    },
+    {
+      "id": "pv36:15.2",
+      "pali": "Upayāsi sūlāvutakassa santike;"
+    },
+    {
+      "id": "pv36:15.3",
+      "pali": "Yānaṁ idaṁ abbhutaṁ dassaneyyaṁ,"
+    },
+    {
+      "id": "pv36:15.4",
+      "pali": "Kissetaṁ kammassa ayaṁ vipāko”ti."
+    },
+    {
+      "id": "pv36:16.1",
+      "pali": "“Vesāliyā nagarassa majjhe,"
+    },
+    {
+      "id": "pv36:16.2",
+      "pali": "Cikkhallamagge narakaṁ ahosi;"
+    },
+    {
+      "id": "pv36:16.3",
+      "pali": "Gosīsamekāhaṁ pasannacitto,"
+    },
+    {
+      "id": "pv36:16.4",
+      "pali": "Setaṁ gahetvā narakasmiṁ nikkhipiṁ."
+    },
+    {
+      "id": "pv36:17.1",
+      "pali": "Etasmiṁ pādāni patiṭṭhapetvā,"
+    },
+    {
+      "id": "pv36:17.2",
+      "pali": "Mayañca aññe ca atikkamimhā;"
+    },
+    {
+      "id": "pv36:17.3",
+      "pali": "Yānaṁ idaṁ abbhutaṁ dassaneyyaṁ,"
+    },
+    {
+      "id": "pv36:17.4",
+      "pali": "Tasseva kammassa ayaṁ vipāko”ti."
+    },
+    {
+      "id": "pv36:18.1",
+      "pali": "“Vaṇṇo ca te sabbadisā pabhāsati,"
+    },
+    {
+      "id": "pv36:18.2",
+      "pali": "Gandho ca te sabbadisā pavāyati;"
+    },
+    {
+      "id": "pv36:18.3",
+      "pali": "Yakkhiddhipattosi mahānubhāvo,"
+    },
+    {
+      "id": "pv36:18.4",
+      "pali": "Naggo cāsi kissa ayaṁ vipāko”ti."
+    },
+    {
+      "id": "pv36:19.1",
+      "pali": "“Akkodhano niccapasannacitto,"
+    },
+    {
+      "id": "pv36:19.2",
+      "pali": "Saṇhāhi vācāhi janaṁ upemi;"
+    },
+    {
+      "id": "pv36:19.3",
+      "pali": "Tasseva kammassa ayaṁ vipāko,"
+    },
+    {
+      "id": "pv36:19.4",
+      "pali": "Dibbo me vaṇṇo satataṁ pabhāsati."
+    },
+    {
+      "id": "pv36:20.1",
+      "pali": "Yasañca kittiñca dhamme ṭhitānaṁ,"
+    },
+    {
+      "id": "pv36:20.2",
+      "pali": "Disvāna mantemi pasannacitto;"
+    },
+    {
+      "id": "pv36:20.3",
+      "pali": "Tasseva kammassa ayaṁ vipāko,"
+    },
+    {
+      "id": "pv36:20.4",
+      "pali": "Dibbo me gandho satataṁ pavāyati."
+    },
+    {
+      "id": "pv36:21.1",
+      "pali": "Sahāyānaṁ titthasmiṁ nhāyantānaṁ,"
+    },
+    {
+      "id": "pv36:21.2",
+      "pali": "Thale gahetvā nidahissa dussaṁ;"
+    },
+    {
+      "id": "pv36:21.3",
+      "pali": "Khiḍḍatthiko no ca paduṭṭhacitto,"
+    },
+    {
+      "id": "pv36:21.4",
+      "pali": "Tenamhi naggo kasirā ca vuttī”ti."
+    },
+    {
+      "id": "pv36:22.1",
+      "pali": "“Yo kīḷamāno pakaroti pāpaṁ,"
+    },
+    {
+      "id": "pv36:22.2",
+      "pali": "Tassedisaṁ kammavipākamāhu;"
+    },
+    {
+      "id": "pv36:22.3",
+      "pali": "Akīḷamāno pana yo karoti,"
+    },
+    {
+      "id": "pv36:22.4",
+      "pali": "Kiṁ tassa kammassa vipākamāhū”ti."
+    },
+    {
+      "id": "pv36:23.1",
+      "pali": "“Ye duṭṭhasaṅkappamanā manussā,"
+    },
+    {
+      "id": "pv36:23.2",
+      "pali": "Kāyena vācāya ca saṅkiliṭṭhā;"
+    },
+    {
+      "id": "pv36:23.3",
+      "pali": "Kāyassa bhedā abhisamparāyaṁ,"
+    },
+    {
+      "id": "pv36:23.4",
+      "pali": "Asaṁsayaṁ te nirayaṁ upenti."
+    },
+    {
+      "id": "pv36:24.1",
+      "pali": "Apare pana sugatimāsamānā,"
+    },
+    {
+      "id": "pv36:24.2",
+      "pali": "Dāne ratā saṅgahitattabhāvā;"
+    },
+    {
+      "id": "pv36:24.3",
+      "pali": "Kāyassa bhedā abhisamparāyaṁ,"
+    },
+    {
+      "id": "pv36:24.4",
+      "pali": "Asaṁsayaṁ te sugatiṁ upentī”ti."
+    },
+    {
+      "id": "pv36:25.1",
+      "pali": "“Taṁ kinti jāneyyamahaṁ avecca,"
+    },
+    {
+      "id": "pv36:25.2",
+      "pali": "Kalyāṇapāpassa ayaṁ vipāko;"
+    },
+    {
+      "id": "pv36:25.3",
+      "pali": "Kiṁ vāhaṁ disvā abhisaddaheyyaṁ,"
+    },
+    {
+      "id": "pv36:25.4",
+      "pali": "Ko vāpi maṁ saddahāpeyya etan”ti."
+    },
+    {
+      "id": "pv36:26.1",
+      "pali": "“Disvā ca sutvā abhisaddahassu,"
+    },
+    {
+      "id": "pv36:26.2",
+      "pali": "Kalyāṇapāpassa ayaṁ vipāko;"
+    },
+    {
+      "id": "pv36:26.3",
+      "pali": "Kalyāṇapāpe ubhaye asante,"
+    },
+    {
+      "id": "pv36:26.4",
+      "pali": "Siyā nu sattā sugatā duggatā vā."
+    },
+    {
+      "id": "pv36:27.1",
+      "pali": "No cettha kammāni kareyyuṁ maccā,"
+    },
+    {
+      "id": "pv36:27.2",
+      "pali": "Kalyāṇapāpāni manussaloke;"
+    },
+    {
+      "id": "pv36:27.3",
+      "pali": "Nāhesuṁ sattā sugatā duggatā vā,"
+    },
+    {
+      "id": "pv36:27.4",
+      "pali": "Hīnā paṇītā ca manussaloke."
+    },
+    {
+      "id": "pv36:28.1",
+      "pali": "Yasmā ca kammāni karonti maccā,"
+    },
+    {
+      "id": "pv36:28.2",
+      "pali": "Kalyāṇapāpāni manussaloke;"
+    },
+    {
+      "id": "pv36:28.3",
+      "pali": "Tasmā hi sattā sugatā duggatā vā,"
+    },
+    {
+      "id": "pv36:28.4",
+      "pali": "Hīnā paṇītā ca manussaloke."
+    },
+    {
+      "id": "pv36:29.1",
+      "pali": "Dvayajja kammānaṁ vipākamāhu,"
+    },
+    {
+      "id": "pv36:29.2",
+      "pali": "Sukhassa dukkhassa ca vedanīyaṁ;"
+    },
+    {
+      "id": "pv36:29.3",
+      "pali": "Tā devatāyo paricārayanti,"
+    },
+    {
+      "id": "pv36:29.4",
+      "pali": "Paccanti bālā dvayataṁ apassino."
+    },
+    {
+      "id": "pv36:30.1",
+      "pali": "Na matthi kammāni sayaṅkatāni,"
+    },
+    {
+      "id": "pv36:30.2",
+      "pali": "Datvāpi me natthi yo ādiseyya;"
+    },
+    {
+      "id": "pv36:30.3",
+      "pali": "Acchādanaṁ sayanamathannapānaṁ,"
+    },
+    {
+      "id": "pv36:30.4",
+      "pali": "Tenamhi naggo kasirā ca vuttī”ti."
+    },
+    {
+      "id": "pv36:31.1",
+      "pali": "“Siyā nu kho kāraṇaṁ kiñci yakkha,"
+    },
+    {
+      "id": "pv36:31.2",
+      "pali": "Acchādanaṁ yena tuvaṁ labhetha;"
+    },
+    {
+      "id": "pv36:31.3",
+      "pali": "Ācikkha me tvaṁ yadatthi hetu,"
+    },
+    {
+      "id": "pv36:31.4",
+      "pali": "Saddhāyikaṁ hetuvaco suṇomā”ti."
+    },
+    {
+      "id": "pv36:32.1",
+      "pali": "“Kappitako nāma idhatthi bhikkhu,"
+    },
+    {
+      "id": "pv36:32.2",
+      "pali": "Jhāyī susīlo arahā vimutto;"
+    },
+    {
+      "id": "pv36:32.3",
+      "pali": "Guttindriyo saṁvutapātimokkho,"
+    },
+    {
+      "id": "pv36:32.4",
+      "pali": "Sītibhūto uttamadiṭṭhipatto."
+    },
+    {
+      "id": "pv36:33.1",
+      "pali": "Sakhilo vadaññū suvaco sumukho,"
+    },
+    {
+      "id": "pv36:33.2",
+      "pali": "Svāgamo suppaṭimuttako ca;"
+    },
+    {
+      "id": "pv36:33.3",
+      "pali": "Puññassa khettaṁ araṇavihārī,"
+    },
+    {
+      "id": "pv36:33.4",
+      "pali": "Devamanussānañca dakkhiṇeyyo."
+    },
+    {
+      "id": "pv36:34.1",
+      "pali": "Santo vidhūmo anīgho nirāso,"
+    },
+    {
+      "id": "pv36:34.2",
+      "pali": "Mutto visallo amamo avaṅko;"
+    },
+    {
+      "id": "pv36:34.3",
+      "pali": "Nirūpadhī sabbapapañcakhīṇo,"
+    },
+    {
+      "id": "pv36:34.4",
+      "pali": "Tisso vijjā anuppatto jutimā."
+    },
+    {
+      "id": "pv36:35.1",
+      "pali": "Appaññāto disvāpi na ca sujāno,"
+    },
+    {
+      "id": "pv36:35.2",
+      "pali": "Munīti naṁ vajjisu voharanti;"
+    },
+    {
+      "id": "pv36:35.3",
+      "pali": "Jānanti taṁ yakkhabhūtā anejaṁ,"
+    },
+    {
+      "id": "pv36:35.4",
+      "pali": "Kalyāṇadhammaṁ vicarantaṁ loke."
+    },
+    {
+      "id": "pv36:36.1",
+      "pali": "Tassa tuvaṁ ekayugaṁ duve vā,"
+    },
+    {
+      "id": "pv36:36.2",
+      "pali": "Mamuddisitvāna sace dadetha;"
+    },
+    {
+      "id": "pv36:36.3",
+      "pali": "Paṭiggahītāni ca tāni assu,"
+    },
+    {
+      "id": "pv36:36.4",
+      "pali": "Mamañca passetha sannaddhadussan”ti."
+    },
+    {
+      "id": "pv36:37.1",
+      "pali": "“Kasmiṁ padese samaṇaṁ vasantaṁ,"
+    },
+    {
+      "id": "pv36:37.2",
+      "pali": "Gantvāna passemu mayaṁ idāni;"
+    },
+    {
+      "id": "pv36:37.3",
+      "pali": "Yo majja kaṅkhaṁ vicikicchitañca,"
+    },
+    {
+      "id": "pv36:37.4",
+      "pali": "Diṭṭhīvisūkāni vinodayeyyā”ti."
+    },
+    {
+      "id": "pv36:38.1",
+      "pali": "“Eso nisinno kapinaccanāyaṁ,"
+    },
+    {
+      "id": "pv36:38.2",
+      "pali": "Parivārito devatāhi bahūhi;"
+    },
+    {
+      "id": "pv36:38.3",
+      "pali": "Dhammiṁ kathaṁ bhāsati saccanāmo,"
+    },
+    {
+      "id": "pv36:38.4",
+      "pali": "Sakasmimācerake appamatto”ti."
+    },
+    {
+      "id": "pv36:39.1",
+      "pali": "“Tathāhaṁ kassāmi gantvā idāni,"
+    },
+    {
+      "id": "pv36:39.2",
+      "pali": "Acchādayissaṁ samaṇaṁ yugena;"
+    },
+    {
+      "id": "pv36:39.3",
+      "pali": "Paṭiggahitāni ca tāni assu,"
+    },
+    {
+      "id": "pv36:39.4",
+      "pali": "Tuvañca passemu sannaddhadussan”ti."
+    },
+    {
+      "id": "pv36:40.1",
+      "pali": "“Mā akkhaṇe pabbajitaṁ upāgami,"
+    },
+    {
+      "id": "pv36:40.2",
+      "pali": "Sādhu vo licchavi nesa dhammo;"
+    },
+    {
+      "id": "pv36:40.3",
+      "pali": "Tato ca kāle upasaṅkamitvā,"
+    },
+    {
+      "id": "pv36:40.4",
+      "pali": "Tattheva passāhi raho nisinnan”ti."
+    },
+    {
+      "id": "pv36:41.1",
+      "pali": "Tathāti vatvā agamāsi tattha,"
+    },
+    {
+      "id": "pv36:41.2",
+      "pali": "Parivārito dāsagaṇena licchavi;"
+    },
+    {
+      "id": "pv36:41.3",
+      "pali": "So taṁ nagaraṁ upasaṅkamitvā,"
+    },
+    {
+      "id": "pv36:41.4",
+      "pali": "Vāsūpagacchittha sake nivesane."
+    },
+    {
+      "id": "pv36:42.1",
+      "pali": "Tato ca kāle gihikiccāni katvā,"
+    },
+    {
+      "id": "pv36:42.2",
+      "pali": "Nhatvā pivitvā ca khaṇaṁ labhitvā;"
+    },
+    {
+      "id": "pv36:42.3",
+      "pali": "Viceyya peḷāto ca yugāni aṭṭha,"
+    },
+    {
+      "id": "pv36:42.4",
+      "pali": "Gāhāpayī dāsagaṇena licchavi."
+    },
+    {
+      "id": "pv36:43.1",
+      "pali": "So taṁ padesaṁ upasaṅkamitvā,"
+    },
+    {
+      "id": "pv36:43.2",
+      "pali": "Taṁ addasa samaṇaṁ santacittaṁ;"
+    },
+    {
+      "id": "pv36:43.3",
+      "pali": "Paṭikkantaṁ gocarato nivattaṁ,"
+    },
+    {
+      "id": "pv36:43.4",
+      "pali": "Sītibhūtaṁ rukkhamūle nisinnaṁ."
+    },
+    {
+      "id": "pv36:44.1",
+      "pali": "Tamenamavoca upasaṅkamitvā,"
+    },
+    {
+      "id": "pv36:44.2",
+      "pali": "Appābādhaṁ phāsuvihārañca pucchi;"
+    },
+    {
+      "id": "pv36:44.3",
+      "pali": "“Vesāliyaṁ licchavihaṁ bhadante,"
+    },
+    {
+      "id": "pv36:44.4",
+      "pali": "Jānanti maṁ licchavi ambasakkaro."
+    },
+    {
+      "id": "pv36:45.1",
+      "pali": "Imāni me aṭṭha yugā subhāni,"
+    },
+    {
+      "id": "pv36:45.2",
+      "pali": "Paṭigaṇha bhante padadāmi tuyhaṁ;"
+    },
+    {
+      "id": "pv36:45.3",
+      "pali": "Teneva atthena idhāgatosmi,"
+    },
+    {
+      "id": "pv36:45.4",
+      "pali": "Yathā ahaṁ attamano bhaveyyan”ti."
+    },
+    {
+      "id": "pv36:46.1",
+      "pali": "“Dūratova samaṇabrāhmaṇā ca,"
+    },
+    {
+      "id": "pv36:46.2",
+      "pali": "Nivesanaṁ te parivajjayanti;"
+    },
+    {
+      "id": "pv36:46.3",
+      "pali": "Pattāni bhijjanti ca te nivesane,"
+    },
+    {
+      "id": "pv36:46.4",
+      "pali": "Saṅghāṭiyo cāpi vidālayanti."
+    },
+    {
+      "id": "pv36:47.1",
+      "pali": "Athāpare pādakuṭhārikāhi,"
+    },
+    {
+      "id": "pv36:47.2",
+      "pali": "Avaṁsirā samaṇā pātayanti;"
+    },
+    {
+      "id": "pv36:47.3",
+      "pali": "Etādisaṁ pabbajitā vihesaṁ,"
+    },
+    {
+      "id": "pv36:47.4",
+      "pali": "Tayā kataṁ samaṇā pāpuṇanti."
+    },
+    {
+      "id": "pv36:48.1",
+      "pali": "Tiṇena telampi na tvaṁ adāsi,"
+    },
+    {
+      "id": "pv36:48.2",
+      "pali": "Muḷhassa maggampi na pāvadāsi;"
+    },
+    {
+      "id": "pv36:48.3",
+      "pali": "Andhassa daṇḍaṁ sayamādiyāsi,"
+    },
+    {
+      "id": "pv36:48.4",
+      "pali": "Etādiso kadariyo asaṁvuto tuvaṁ;"
+    },
+    {
+      "id": "pv36:48.5",
+      "pali": "Atha tvaṁ kena vaṇṇena kimeva disvā,"
+    },
+    {
+      "id": "pv36:48.6",
+      "pali": "Amhehi saha saṁvibhāgaṁ karosī”ti."
+    },
+    {
+      "id": "pv36:49.1",
+      "pali": "“Paccemi bhante yaṁ tvaṁ vadesi,"
+    },
+    {
+      "id": "pv36:49.2",
+      "pali": "Vihesayiṁ samaṇe brāhmaṇe ca;"
+    },
+    {
+      "id": "pv36:49.3",
+      "pali": "Khiḍḍatthiko no ca paduṭṭhacitto,"
+    },
+    {
+      "id": "pv36:49.4",
+      "pali": "Etampi me dukkaṭameva bhante."
+    },
+    {
+      "id": "pv36:50.1",
+      "pali": "Khiḍḍāya yakkho pasavitvā pāpaṁ,"
+    },
+    {
+      "id": "pv36:50.2",
+      "pali": "Vedeti dukkhaṁ asamattabhogī;"
+    },
+    {
+      "id": "pv36:50.3",
+      "pali": "Daharo yuvā nagganiyassa bhāgī,"
+    },
+    {
+      "id": "pv36:50.4",
+      "pali": "Kiṁ su tato dukkhatarassa hoti."
+    },
+    {
+      "id": "pv36:51.1",
+      "pali": "Taṁ disvā saṁvegamalatthaṁ bhante,"
+    },
+    {
+      "id": "pv36:51.2",
+      "pali": "Tappaccayā vāpi dadāmi dānaṁ;"
+    },
+    {
+      "id": "pv36:51.3",
+      "pali": "Paṭigaṇha bhante vatthayugāni aṭṭha,"
+    },
+    {
+      "id": "pv36:51.4",
+      "pali": "Yakkhassimā gacchantu dakkhiṇāyo”ti."
+    },
+    {
+      "id": "pv36:52.1",
+      "pali": "“Addhā hi dānaṁ bahudhā pasatthaṁ,"
+    },
+    {
+      "id": "pv36:52.2",
+      "pali": "Dadato ca te akkhayadhammamatthu;"
+    },
+    {
+      "id": "pv36:52.3",
+      "pali": "Paṭigaṇhāmi te vatthayugāni aṭṭha,"
+    },
+    {
+      "id": "pv36:52.4",
+      "pali": "Yakkhassimā gacchantu dakkhiṇāyo”ti."
+    },
+    {
+      "id": "pv36:53.1",
+      "pali": "Tato hi so ācamayitvā licchavi,"
+    },
+    {
+      "id": "pv36:53.2",
+      "pali": "Therassa datvāna yugāni aṭṭha;"
+    },
+    {
+      "id": "pv36:53.3",
+      "pali": "Paṭiggahitāni ca tāni assu,"
+    },
+    {
+      "id": "pv36:53.4",
+      "pali": "Yakkhañca passetha sannaddhadussaṁ."
+    },
+    {
+      "id": "pv36:54.1",
+      "pali": "Tamaddasā candanasāralittaṁ,"
+    },
+    {
+      "id": "pv36:54.2",
+      "pali": "Ājaññamārūḷhamuḷāravaṇṇaṁ;"
+    },
+    {
+      "id": "pv36:54.3",
+      "pali": "Alaṅkataṁ sādhunivatthadussaṁ,"
+    },
+    {
+      "id": "pv36:54.4",
+      "pali": "Parivāritaṁ yakkhamahiddhipattaṁ."
+    },
+    {
+      "id": "pv36:55.1",
+      "pali": "So taṁ disvā attamano udaggo,"
+    },
+    {
+      "id": "pv36:55.2",
+      "pali": "Pahaṭṭhacitto ca subhaggarūpo;"
+    },
+    {
+      "id": "pv36:55.3",
+      "pali": "Kammañca disvāna mahāvipākaṁ,"
+    },
+    {
+      "id": "pv36:55.4",
+      "pali": "Sandiṭṭhikaṁ cakkhunā sacchikatvā."
+    },
+    {
+      "id": "pv36:56.1",
+      "pali": "Tamenamavoca upasaṅkamitvā,"
+    },
+    {
+      "id": "pv36:56.2",
+      "pali": "“Dassāmi dānaṁ samaṇabrāhmaṇānaṁ;"
+    },
+    {
+      "id": "pv36:56.3",
+      "pali": "Na cāpi me kiñci adeyyamatthi,"
+    },
+    {
+      "id": "pv36:56.4",
+      "pali": "Tuvañca me yakkha bahūpakāro”ti."
+    },
+    {
+      "id": "pv36:57.1",
+      "pali": "“Tuvañca me licchavi ekadesaṁ,"
+    },
+    {
+      "id": "pv36:57.2",
+      "pali": "Adāsi dānāni amoghametaṁ;"
+    },
+    {
+      "id": "pv36:57.3",
+      "pali": "Svāhaṁ karissāmi tayāva sakkhiṁ,"
+    },
+    {
+      "id": "pv36:57.4",
+      "pali": "Amānuso mānusakena saddhin”ti."
+    },
+    {
+      "id": "pv36:58.1",
+      "pali": "“Gatī ca bandhū ca parāyaṇañca,"
+    },
+    {
+      "id": "pv36:58.2",
+      "pali": "Mitto mamāsi atha devatā me;"
+    },
+    {
+      "id": "pv36:58.3",
+      "pali": "Yācāmi taṁ pañjaliko bhavitvā,"
+    },
+    {
+      "id": "pv36:58.4",
+      "pali": "Icchāmi taṁ yakkha punāpi daṭṭhun”ti."
+    },
+    {
+      "id": "pv36:59.1",
+      "pali": "“Sace tuvaṁ assaddho bhavissasi,"
+    },
+    {
+      "id": "pv36:59.2",
+      "pali": "Kadariyarūpo vippaṭipannacitto;"
+    },
+    {
+      "id": "pv36:59.3",
+      "pali": "Tvaṁ neva maṁ lacchasi dassanāya,"
+    },
+    {
+      "id": "pv36:59.4",
+      "pali": "Disvā ca taṁ nopi ca ālapissaṁ."
+    },
+    {
+      "id": "pv36:60.1",
+      "pali": "Sace pana tvaṁ bhavissasi dhammagāravo,"
+    },
+    {
+      "id": "pv36:60.2",
+      "pali": "Dāne rato saṅgahitattabhāvo;"
+    },
+    {
+      "id": "pv36:60.3",
+      "pali": "Opānabhūto samaṇabrāhmaṇānaṁ,"
+    },
+    {
+      "id": "pv36:60.4",
+      "pali": "Evaṁ mamaṁ lacchasi dassanāya."
+    },
+    {
+      "id": "pv36:61.1",
+      "pali": "Disvā ca taṁ ālapissaṁ bhadante,"
+    },
+    {
+      "id": "pv36:61.2",
+      "pali": "Imañca sūlato lahuṁ pamuñca;"
+    },
+    {
+      "id": "pv36:61.3",
+      "pali": "Yatonidānaṁ akarimha sakkhiṁ,"
+    },
+    {
+      "id": "pv36:61.4",
+      "pali": "Maññāmi sūlāvutakassa kāraṇā."
+    },
+    {
+      "id": "pv36:62.1",
+      "pali": "Te aññamaññaṁ akarimha sakkhiṁ,"
+    },
+    {
+      "id": "pv36:62.2",
+      "pali": "Ayañca sūlato lahuṁ pamutto;"
+    },
+    {
+      "id": "pv36:62.3",
+      "pali": "Sakkacca dhammāni samācaranto,"
+    },
+    {
+      "id": "pv36:62.4",
+      "pali": "Mucceyya so nirayā ca tamhā;"
+    },
+    {
+      "id": "pv36:62.5",
+      "pali": "Kammaṁ siyā aññatra vedanīyaṁ."
+    },
+    {
+      "id": "pv36:63.1",
+      "pali": "Kappitakañca upasaṅkamitvā,"
+    },
+    {
+      "id": "pv36:63.2",
+      "pali": "Teneva saha saṁvibhajitvā kāle;"
+    },
+    {
+      "id": "pv36:63.3",
+      "pali": "Sayaṁ mukhenūpanisajja puccha,"
+    },
+    {
+      "id": "pv36:63.4",
+      "pali": "So te akkhissati etamatthaṁ."
+    },
+    {
+      "id": "pv36:64.1",
+      "pali": "Tameva bhikkhuṁ upasaṅkamitvā,"
+    },
+    {
+      "id": "pv36:64.2",
+      "pali": "Pucchassu aññatthiko no ca paduṭṭhacitto;"
+    },
+    {
+      "id": "pv36:64.3",
+      "pali": "So te sutaṁ asutañcāpi dhammaṁ,"
+    },
+    {
+      "id": "pv36:64.4",
+      "pali": "Sabbampi akkhissati yathā pajānan”ti."
+    },
+    {
+      "id": "pv36:65.1",
+      "pali": "So tattha rahassaṁ samullapitvā,"
+    },
+    {
+      "id": "pv36:65.2",
+      "pali": "Sakkhiṁ karitvāna amānusena;"
+    },
+    {
+      "id": "pv36:65.3",
+      "pali": "Pakkāmi so licchavīnaṁ sakāsaṁ,"
+    },
+    {
+      "id": "pv36:65.4",
+      "pali": "Atha bravi parisaṁ sannisinnaṁ."
+    },
+    {
+      "id": "pv36:66.1",
+      "pali": "“Suṇantu bhonto mama ekavākyaṁ,"
+    },
+    {
+      "id": "pv36:66.2",
+      "pali": "Varaṁ varissaṁ labhissāmi atthaṁ;"
+    },
+    {
+      "id": "pv36:66.3",
+      "pali": "Sūlāvuto puriso luddakammo,"
+    },
+    {
+      "id": "pv36:66.4",
+      "pali": "Paṇihitadaṇḍo anusattarūpo."
+    },
+    {
+      "id": "pv36:67.1",
+      "pali": "Ettāvatā vīsatirattimattā,"
+    },
+    {
+      "id": "pv36:67.2",
+      "pali": "Yato āvuto neva jīvati na mato;"
+    },
+    {
+      "id": "pv36:67.3",
+      "pali": "Tāhaṁ mocayissāmi dāni,"
+    },
+    {
+      "id": "pv36:67.4",
+      "pali": "Yathāmatiṁ anujānātu saṅgho”ti."
+    },
+    {
+      "id": "pv36:68.1",
+      "pali": "“Etañca aññañca lahuṁ pamuñca,"
+    },
+    {
+      "id": "pv36:68.2",
+      "pali": "Ko taṁ vadetha tathā karontaṁ;"
+    },
+    {
+      "id": "pv36:68.3",
+      "pali": "Yathā pajānāsi tathā karohi,"
+    },
+    {
+      "id": "pv36:68.4",
+      "pali": "Yathāmatiṁ anujānāti saṅgho”ti."
+    },
+    {
+      "id": "pv36:69.1",
+      "pali": "So taṁ padesaṁ upasaṅkamitvā,"
+    },
+    {
+      "id": "pv36:69.2",
+      "pali": "Sūlāvutaṁ mocayi khippameva;"
+    },
+    {
+      "id": "pv36:69.3",
+      "pali": "“Mā bhāyi sammā”ti ca taṁ avoca,"
+    },
+    {
+      "id": "pv36:69.4",
+      "pali": "Tikicchakānañca upaṭṭhapesi."
+    },
+    {
+      "id": "pv36:70.1",
+      "pali": "“Kappitakañca upasaṅkamitvā,"
+    },
+    {
+      "id": "pv36:70.2",
+      "pali": "Teneva saha saṁvibhajitvā kāle;"
+    },
+    {
+      "id": "pv36:70.3",
+      "pali": "Sayaṁ mukhenūpanisajja licchavi,"
+    },
+    {
+      "id": "pv36:70.4",
+      "pali": "Tatheva pucchittha naṁ kāraṇatthiko."
+    },
+    {
+      "id": "pv36:71.1",
+      "pali": "Sūlāvuto puriso luddakammo,"
+    },
+    {
+      "id": "pv36:71.2",
+      "pali": "Paṇihitadaṇḍo anusattarūpo;"
+    },
+    {
+      "id": "pv36:71.3",
+      "pali": "Ettāvatā vīsatirattimattā,"
+    },
+    {
+      "id": "pv36:71.4",
+      "pali": "Yato āvuto neva jīvati na mato."
+    },
+    {
+      "id": "pv36:72.1",
+      "pali": "So mocito gantvā mayā idāni,"
+    },
+    {
+      "id": "pv36:72.2",
+      "pali": "Etassa yakkhassa vaco hi bhante;"
+    },
+    {
+      "id": "pv36:72.3",
+      "pali": "Siyā nu kho kāraṇaṁ kiñcideva,"
+    },
+    {
+      "id": "pv36:72.4",
+      "pali": "Yena so nirayaṁ no vajeyya."
+    },
+    {
+      "id": "pv36:73.1",
+      "pali": "Ācikkha bhante yadi atthi hetu,"
+    },
+    {
+      "id": "pv36:73.2",
+      "pali": "Saddhāyikaṁ hetuvaco suṇoma;"
+    },
+    {
+      "id": "pv36:73.3",
+      "pali": "Na tesaṁ kammānaṁ vināsamatthi,"
+    },
+    {
+      "id": "pv36:73.4",
+      "pali": "Avedayitvā idha byantibhāvo”ti."
+    },
+    {
+      "id": "pv36:74.1",
+      "pali": "“Sace sa dhammāni samācareyya,"
+    },
+    {
+      "id": "pv36:74.2",
+      "pali": "Sakkacca rattindivamappamatto;"
+    },
+    {
+      "id": "pv36:74.3",
+      "pali": "Mucceyya so nirayā ca tamhā,"
+    },
+    {
+      "id": "pv36:74.4",
+      "pali": "Kammaṁ siyā aññatra vedanīyan”ti."
+    },
+    {
+      "id": "pv36:75.1",
+      "pali": "“Aññāto eso purisassa attho,"
+    },
+    {
+      "id": "pv36:75.2",
+      "pali": "Mamampi dāni anukampa bhante;"
+    },
+    {
+      "id": "pv36:75.3",
+      "pali": "Anusāsa maṁ ovada bhūripañña,"
+    },
+    {
+      "id": "pv36:75.4",
+      "pali": "Yathā ahaṁ no nirayaṁ vajeyyan”ti."
+    },
+    {
+      "id": "pv36:76.1",
+      "pali": "“Ajjeva buddhaṁ saraṇaṁ upehi,"
+    },
+    {
+      "id": "pv36:76.2",
+      "pali": "Dhammañca saṅghañca pasannacitto;"
+    },
+    {
+      "id": "pv36:76.3",
+      "pali": "Tatheva sikkhāya padāni pañca,"
+    },
+    {
+      "id": "pv36:76.4",
+      "pali": "Akhaṇḍaphullāni samādiyassu."
+    },
+    {
+      "id": "pv36:77.1",
+      "pali": "Pāṇātipātā viramassu khippaṁ,"
+    },
+    {
+      "id": "pv36:77.2",
+      "pali": "Loke adinnaṁ parivajjayassu;"
+    },
+    {
+      "id": "pv36:77.3",
+      "pali": "Amajjapo mā ca musā abhāṇī,"
+    },
+    {
+      "id": "pv36:77.4",
+      "pali": "Sakena dārena ca hohi tuṭṭho;"
+    },
+    {
+      "id": "pv36:77.5",
+      "pali": "Imañca ariyaṁ aṭṭhaṅgavarenupetaṁ,"
+    },
+    {
+      "id": "pv36:77.6",
+      "pali": "Samādiyāhi kusalaṁ sukhudrayaṁ."
+    },
+    {
+      "id": "pv36:78.1",
+      "pali": "Cīvaraṁ piṇḍapātañca,"
+    },
+    {
+      "id": "pv36:78.2",
+      "pali": "paccayaṁ sayanāsanaṁ;"
+    },
+    {
+      "id": "pv36:78.3",
+      "pali": "Annaṁ pānaṁ khādanīyaṁ,"
+    },
+    {
+      "id": "pv36:78.4",
+      "pali": "vatthasenāsanāni ca;"
+    },
+    {
+      "id": "pv36:78.5",
+      "pali": "Dadāhi ujubhūtesu,"
+    },
+    {
+      "id": "pv36:78.6",
+      "pali": "vippasannena cetasā."
+    },
+    {
+      "id": "pv36:79.1",
+      "pali": "Bhikkhūpi sīlasampanne,"
+    },
+    {
+      "id": "pv36:79.2",
+      "pali": "vītarāge bahussute;"
+    },
+    {
+      "id": "pv36:79.3",
+      "pali": "Tappehi annapānena,"
+    },
+    {
+      "id": "pv36:79.4",
+      "pali": "sadā puññaṁ pavaḍḍhati."
+    },
+    {
+      "id": "pv36:80.1",
+      "pali": "Evañca dhammāni samācaranto,"
+    },
+    {
+      "id": "pv36:80.2",
+      "pali": "Sakkacca rattindivamappamatto;"
+    },
+    {
+      "id": "pv36:80.3",
+      "pali": "Muñca tuvaṁ nirayā ca tamhā,"
+    },
+    {
+      "id": "pv36:80.4",
+      "pali": "Kammaṁ siyā aññatra vedanīyan”ti."
+    },
+    {
+      "id": "pv36:81.1",
+      "pali": "“Ajjeva buddhaṁ saraṇaṁ upemi,"
+    },
+    {
+      "id": "pv36:81.2",
+      "pali": "Dhammañca saṅghañca pasannacitto;"
+    },
+    {
+      "id": "pv36:81.3",
+      "pali": "Tatheva sikkhāya padāni pañca,"
+    },
+    {
+      "id": "pv36:81.4",
+      "pali": "Akhaṇḍaphullāni samādiyāmi."
+    },
+    {
+      "id": "pv36:82.1",
+      "pali": "Pāṇātipātā viramāmi khippaṁ,"
+    },
+    {
+      "id": "pv36:82.2",
+      "pali": "Loke adinnaṁ parivajjayāmi;"
+    },
+    {
+      "id": "pv36:82.3",
+      "pali": "Amajjapo no ca musā bhaṇāmi,"
+    },
+    {
+      "id": "pv36:82.4",
+      "pali": "Sakena dārena ca homi tuṭṭho;"
+    },
+    {
+      "id": "pv36:82.5",
+      "pali": "Imañca ariyaṁ aṭṭhaṅgavarenupetaṁ,"
+    },
+    {
+      "id": "pv36:82.6",
+      "pali": "Samādiyāmi kusalaṁ sukhudrayaṁ."
+    },
+    {
+      "id": "pv36:83.1",
+      "pali": "Cīvaraṁ piṇḍapātañca,"
+    },
+    {
+      "id": "pv36:83.2",
+      "pali": "paccayaṁ sayanāsanaṁ;"
+    },
+    {
+      "id": "pv36:83.3",
+      "pali": "Annaṁ pānaṁ khādanīyaṁ,"
+    },
+    {
+      "id": "pv36:83.4",
+      "pali": "vatthasenāsanāni ca."
+    },
+    {
+      "id": "pv36:84.1",
+      "pali": "Bhikkhū ca sīlasampanne,"
+    },
+    {
+      "id": "pv36:84.2",
+      "pali": "vītarāge bahussute;"
+    },
+    {
+      "id": "pv36:84.3",
+      "pali": "Dadāmi na vikampāmi,"
+    },
+    {
+      "id": "pv36:84.4",
+      "pali": "buddhānaṁ sāsane rato”ti."
+    },
+    {
+      "id": "pv36:85.1",
+      "pali": "Etādiso licchavi ambasakkaro,"
+    },
+    {
+      "id": "pv36:85.2",
+      "pali": "Vesāliyaṁ aññataro upāsako;"
+    },
+    {
+      "id": "pv36:85.3",
+      "pali": "Saddho mudū kārakaro ca bhikkhu,"
+    },
+    {
+      "id": "pv36:85.4",
+      "pali": "Saṅghañca sakkacca tadā upaṭṭhahi."
+    },
+    {
+      "id": "pv36:86.1",
+      "pali": "Sūlāvuto ca arogo hutvā,"
+    },
+    {
+      "id": "pv36:86.2",
+      "pali": "Serī sukhī pabbajjaṁ upāgami;"
+    },
+    {
+      "id": "pv36:86.3",
+      "pali": "Bhikkhuñca āgamma kappitakuttamaṁ,"
+    },
+    {
+      "id": "pv36:86.4",
+      "pali": "Ubhopi sāmaññaphalāni ajjhaguṁ."
+    },
+    {
+      "id": "pv36:87.1",
+      "pali": "Etādisā sappurisāna sevanā,"
+    },
+    {
+      "id": "pv36:87.2",
+      "pali": "Mahapphalā hoti sataṁ vijānataṁ;"
+    },
+    {
+      "id": "pv36:87.3",
+      "pali": "Sūlāvuto aggaphalaṁ aphassayi,"
+    },
+    {
+      "id": "pv36:87.4",
+      "pali": "Phalaṁ kaniṭṭhaṁ pana ambasakkaroti."
+    },
+    {
+      "id": "pv36:88.1",
+      "pali": "Ambasakkarapetavatthu paṭhamaṁ."
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "uid": "ja514",
+  "title": "Kiṁchandavagga",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "ja514:1.1",
+      "pali": "“Kiṁ nu socasinuccaṅgi,"
+    },
+    {
+      "id": "ja514:1.2",
+      "pali": "paṇḍūsi varavaṇṇini;"
+    },
+    {
+      "id": "ja514:1.3",
+      "pali": "Milāyasi visālakkhi,"
+    },
+    {
+      "id": "ja514:1.4",
+      "pali": "mālāva parimadditā”."
+    },
+    {
+      "id": "ja514:2.1",
+      "pali": "“Dohaḷo me mahārāja,"
+    },
+    {
+      "id": "ja514:2.2",
+      "pali": "supinantenupajjhagā;"
+    },
+    {
+      "id": "ja514:2.3",
+      "pali": "Na so sulabharūpova,"
+    },
+    {
+      "id": "ja514:2.4",
+      "pali": "yādiso mama dohaḷo”."
+    },
+    {
+      "id": "ja514:3.1",
+      "pali": "“Ye keci mānusā kāmā,"
+    },
+    {
+      "id": "ja514:3.2",
+      "pali": "idha lokasmi nandane;"
+    },
+    {
+      "id": "ja514:3.3",
+      "pali": "Sabbe te pacurā mayhaṁ,"
+    },
+    {
+      "id": "ja514:3.4",
+      "pali": "ahaṁ te dammi dohaḷaṁ”."
+    },
+    {
+      "id": "ja514:4.1",
+      "pali": "“Luddā deva samāyantu,"
+    },
+    {
+      "id": "ja514:4.2",
+      "pali": "ye keci vijite tava;"
+    },
+    {
+      "id": "ja514:4.3",
+      "pali": "Etesaṁ ahamakkhissaṁ,"
+    },
+    {
+      "id": "ja514:4.4",
+      "pali": "yādiso mama dohaḷo”."
+    },
+    {
+      "id": "ja514:5.1",
+      "pali": "“Ime te luddakā devi,"
+    },
+    {
+      "id": "ja514:5.2",
+      "pali": "katahatthā visāradā;"
+    },
+    {
+      "id": "ja514:5.3",
+      "pali": "Vanaññū ca migaññū ca,"
+    },
+    {
+      "id": "ja514:5.4",
+      "pali": "mamatthe cattajīvitā”."
+    },
+    {
+      "id": "ja514:6.1",
+      "pali": "“Luddaputtā nisāmetha,"
+    },
+    {
+      "id": "ja514:6.2",
+      "pali": "yāvantettha samāgatā;"
+    },
+    {
+      "id": "ja514:6.3",
+      "pali": "Chabbisāṇaṁ gajaṁ setaṁ,"
+    },
+    {
+      "id": "ja514:6.4",
+      "pali": "addasaṁ supine ahaṁ;"
+    },
+    {
+      "id": "ja514:6.5",
+      "pali": "Tassa dantehi me attho,"
+    },
+    {
+      "id": "ja514:6.6",
+      "pali": "alābhe natthi jīvitaṁ”."
+    },
+    {
+      "id": "ja514:7.1",
+      "pali": "“Na no pitūnaṁ na pitāmahānaṁ,"
+    },
+    {
+      "id": "ja514:7.2",
+      "pali": "Diṭṭho suto kuñjaro chabbisāṇo;"
+    },
+    {
+      "id": "ja514:7.3",
+      "pali": "Yamaddasā supine rājaputtī,"
+    },
+    {
+      "id": "ja514:7.4",
+      "pali": "Akkhāhi no yādiso hatthināgo”."
+    },
+    {
+      "id": "ja514:8.1",
+      "pali": "“Disā catasso vidisā catasso,"
+    },
+    {
+      "id": "ja514:8.2",
+      "pali": "Uddhaṁ adho dasa disā imāyo;"
+    },
+    {
+      "id": "ja514:8.3",
+      "pali": "Katamaṁ disaṁ tiṭṭhati nāgarājā,"
+    },
+    {
+      "id": "ja514:8.4",
+      "pali": "Yamaddasā supine chabbisāṇaṁ”."
+    },
+    {
+      "id": "ja514:9.1",
+      "pali": "“Ito ujuṁ uttariyaṁ disāyaṁ,"
+    },
+    {
+      "id": "ja514:9.2",
+      "pali": "Atikkamma so sattagirī brahante;"
+    },
+    {
+      "id": "ja514:9.3",
+      "pali": "Suvaṇṇapasso nāma girī uḷāro,"
+    },
+    {
+      "id": "ja514:9.4",
+      "pali": "Supupphito kimpurisānuciṇṇo."
+    },
+    {
+      "id": "ja514:10.1",
+      "pali": "Āruyha selaṁ bhavanaṁ kinnarānaṁ,"
+    },
+    {
+      "id": "ja514:10.2",
+      "pali": "Olokaya pabbatapādamūlaṁ;"
+    },
+    {
+      "id": "ja514:10.3",
+      "pali": "Atha dakkhasī meghasamānavaṇṇaṁ,"
+    },
+    {
+      "id": "ja514:10.4",
+      "pali": "Nigrodharājaṁ aṭṭhasahassapādaṁ."
+    },
+    {
+      "id": "ja514:11.1",
+      "pali": "Tatthacchatī kuñjaro chabbisāṇo,"
+    },
+    {
+      "id": "ja514:11.2",
+      "pali": "Sabbaseto duppasaho parebhi;"
+    },
+    {
+      "id": "ja514:11.3",
+      "pali": "Rakkhanti naṁ aṭṭhasahassanāgā,"
+    },
+    {
+      "id": "ja514:11.4",
+      "pali": "Īsādantā vātajavappahārino."
+    },
+    {
+      "id": "ja514:12.1",
+      "pali": "Tiṭṭhanti te tumūlaṁ passasantā,"
+    },
+    {
+      "id": "ja514:12.2",
+      "pali": "Kuppanti vātassapi eritassa;"
+    },
+    {
+      "id": "ja514:12.3",
+      "pali": "Manussabhūtaṁ pana tattha disvā,"
+    },
+    {
+      "id": "ja514:12.4",
+      "pali": "Bhasmaṁ kareyyuṁ nāssa rajopi tassa”."
+    },
+    {
+      "id": "ja514:13.1",
+      "pali": "“Bahū hime rājakulamhi santi,"
+    },
+    {
+      "id": "ja514:13.2",
+      "pali": "Piḷandhanā jātarūpassa devī;"
+    },
+    {
+      "id": "ja514:13.3",
+      "pali": "Muttā maṇī veḷuriyāmayā ca,"
+    },
+    {
+      "id": "ja514:13.4",
+      "pali": "Kiṁ kāhasi dantapiḷandhanena;"
+    },
+    {
+      "id": "ja514:13.5",
+      "pali": "Māretukāmā kuñjaraṁ chabbisāṇaṁ,"
+    },
+    {
+      "id": "ja514:13.6",
+      "pali": "Udāhu ghātessasi luddaputte”."
+    },
+    {
+      "id": "ja514:14.1",
+      "pali": "“Sā issitā dukkhitā casmi ludda,"
+    },
+    {
+      "id": "ja514:14.2",
+      "pali": "Uddhañca sussāmi anussarantī;"
+    },
+    {
+      "id": "ja514:14.3",
+      "pali": "Karohi me luddaka etamatthaṁ,"
+    },
+    {
+      "id": "ja514:14.4",
+      "pali": "Dassāmi te gāmavarāni pañca”."
+    },
+    {
+      "id": "ja514:15.1",
+      "pali": "“Katthacchatī kattha mupeti ṭhānaṁ,"
+    },
+    {
+      "id": "ja514:15.2",
+      "pali": "Vīthissa kā nhāna gatassa hoti;"
+    },
+    {
+      "id": "ja514:15.3",
+      "pali": "Kathañhi so nhāyati nāgarājā,"
+    },
+    {
+      "id": "ja514:15.4",
+      "pali": "Kathaṁ vijānemu gatiṁ gajassa”."
+    },
+    {
+      "id": "ja514:16.1",
+      "pali": "“Tattheva sā pokkharaṇī adūre,"
+    },
+    {
+      "id": "ja514:16.2",
+      "pali": "Rammā sutitthā ca mahodikā ca;"
+    },
+    {
+      "id": "ja514:16.3",
+      "pali": "Sampupphitā bhamaragaṇānuciṇṇā,"
+    },
+    {
+      "id": "ja514:16.4",
+      "pali": "Ettha hi so nhāyati nāgarājā."
+    },
+    {
+      "id": "ja514:17.1",
+      "pali": "Sīsaṁ nahātuppalamālabhārī,"
+    },
+    {
+      "id": "ja514:17.2",
+      "pali": "Sabbaseto puṇḍarīkattacaṅgī;"
+    },
+    {
+      "id": "ja514:17.3",
+      "pali": "Āmodamāno gacchati sanniketaṁ,"
+    },
+    {
+      "id": "ja514:17.4",
+      "pali": "Purakkhatvā mahesiṁ sabbabhaddaṁ”."
+    },
+    {
+      "id": "ja514:18.1",
+      "pali": "Tattheva so uggahetvāna vākyaṁ,"
+    },
+    {
+      "id": "ja514:18.2",
+      "pali": "Ādāya tūṇiñca dhanuñca luddo;"
+    },
+    {
+      "id": "ja514:18.3",
+      "pali": "Vituriyati sattagirī brahante,"
+    },
+    {
+      "id": "ja514:18.4",
+      "pali": "Suvaṇṇapassaṁ nāma giriṁ uḷāraṁ."
+    },
+    {
+      "id": "ja514:19.1",
+      "pali": "Āruyha selaṁ bhavanaṁ kinnarānaṁ,"
+    },
+    {
+      "id": "ja514:19.2",
+      "pali": "Olokayī pabbatapādamūlaṁ;"
+    },
+    {
+      "id": "ja514:19.3",
+      "pali": "Tatthaddasā meghasamānavaṇṇaṁ,"
+    },
+    {
+      "id": "ja514:19.4",
+      "pali": "Nigrodharājaṁ aṭṭhasahassapādaṁ."
+    },
+    {
+      "id": "ja514:20.1",
+      "pali": "Tatthaddasā kuñjaraṁ chabbisāṇaṁ,"
+    },
+    {
+      "id": "ja514:20.2",
+      "pali": "Sabbasetaṁ duppasahaṁ parebhi;"
+    },
+    {
+      "id": "ja514:20.3",
+      "pali": "Rakkhanti naṁ aṭṭhasahassanāgā,"
+    },
+    {
+      "id": "ja514:20.4",
+      "pali": "Īsādantā vātajavappahārino."
+    },
+    {
+      "id": "ja514:21.1",
+      "pali": "Tatthaddasā pokkharaṇiṁ adūre,"
+    },
+    {
+      "id": "ja514:21.2",
+      "pali": "Rammaṁ sutitthañca mahodikañca;"
+    },
+    {
+      "id": "ja514:21.3",
+      "pali": "Sampupphitaṁ bhamaragaṇānuciṇṇaṁ,"
+    },
+    {
+      "id": "ja514:21.4",
+      "pali": "Yattha hi so nhāyati nāgarājā."
+    },
+    {
+      "id": "ja514:22.1",
+      "pali": "Disvāna nāgassa gatiṁ ṭhitiñca,"
+    },
+    {
+      "id": "ja514:22.2",
+      "pali": "Vīthissa yā nhānagatassa hoti;"
+    },
+    {
+      "id": "ja514:22.3",
+      "pali": "Opātamāgacchi anariyarūpo,"
+    },
+    {
+      "id": "ja514:22.4",
+      "pali": "Payojito cittavasānugāya."
+    },
+    {
+      "id": "ja514:23.1",
+      "pali": "Khaṇitvāna kāsuṁ phalakehi chādayi,"
+    },
+    {
+      "id": "ja514:23.2",
+      "pali": "Attānamodhāya dhanuñca luddo;"
+    },
+    {
+      "id": "ja514:23.3",
+      "pali": "Passāgataṁ puthusallena nāgaṁ,"
+    },
+    {
+      "id": "ja514:23.4",
+      "pali": "Samappayī dukkaṭakammakārī."
+    },
+    {
+      "id": "ja514:24.1",
+      "pali": "Viddho ca nāgo koñcamanādi ghoraṁ,"
+    },
+    {
+      "id": "ja514:24.2",
+      "pali": "Sabbe ca nāgā ninnaduṁ ghorarūpaṁ;"
+    },
+    {
+      "id": "ja514:24.3",
+      "pali": "Tiṇañca kaṭṭhañca raṇaṁ karontā,"
+    },
+    {
+      "id": "ja514:24.4",
+      "pali": "Dhāviṁsu te aṭṭha disā samantato."
+    },
+    {
+      "id": "ja514:25.1",
+      "pali": "Vadhissametanti parāmasanto,"
+    },
+    {
+      "id": "ja514:25.2",
+      "pali": "Kāsāvamaddakkhi dhajaṁ isīnaṁ;"
+    },
+    {
+      "id": "ja514:25.3",
+      "pali": "Dukkhena phuṭṭhassudapādi saññā,"
+    },
+    {
+      "id": "ja514:25.4",
+      "pali": "Arahaddhajo sabbhi avajjharūpo."
+    },
+    {
+      "id": "ja514:26.1",
+      "pali": "“Anikkasāvo kāsāvaṁ,"
+    },
+    {
+      "id": "ja514:26.2",
+      "pali": "yo vatthaṁ paridahissati;"
+    },
+    {
+      "id": "ja514:26.3",
+      "pali": "Apeto damasaccena,"
+    },
+    {
+      "id": "ja514:26.4",
+      "pali": "na so kāsāvamarahati."
+    },
+    {
+      "id": "ja514:27.1",
+      "pali": "Yo ca vantakasāvassa,"
+    },
+    {
+      "id": "ja514:27.2",
+      "pali": "sīlesu susamāhito;"
+    },
+    {
+      "id": "ja514:27.3",
+      "pali": "Upeto damasaccena,"
+    },
+    {
+      "id": "ja514:27.4",
+      "pali": "sa ve kāsāvamarahati”."
+    },
+    {
+      "id": "ja514:28.1",
+      "pali": "Samappito puthusallena nāgo,"
+    },
+    {
+      "id": "ja514:28.2",
+      "pali": "Aduṭṭhacitto luddakamajjhabhāsi;"
+    },
+    {
+      "id": "ja514:28.3",
+      "pali": "“Kimatthayaṁ kissa vā samma hetu,"
+    },
+    {
+      "id": "ja514:28.4",
+      "pali": "Mamaṁ vadhī kassa vāyaṁ payogo”."
+    },
+    {
+      "id": "ja514:29.1",
+      "pali": "“Kāsissa rañño mahesī bhadante,"
+    },
+    {
+      "id": "ja514:29.2",
+      "pali": "Sā pūjitā rājakule subhaddā;"
+    },
+    {
+      "id": "ja514:29.3",
+      "pali": "Taṁ addasā sā ca mamaṁ asaṁsi,"
+    },
+    {
+      "id": "ja514:29.4",
+      "pali": "Dantehi atthoti ca maṁ avoca”."
+    },
+    {
+      "id": "ja514:30.1",
+      "pali": "“Bahū hi me dantayugā uḷārā,"
+    },
+    {
+      "id": "ja514:30.2",
+      "pali": "Ye me pitūnañca pitāmahānaṁ;"
+    },
+    {
+      "id": "ja514:30.3",
+      "pali": "Jānāti sā kodhanā rājaputtī,"
+    },
+    {
+      "id": "ja514:30.4",
+      "pali": "Vadhatthikā veramakāsi bālā."
+    },
+    {
+      "id": "ja514:31.1",
+      "pali": "Uṭṭhehi tvaṁ ludda kharaṁ gahetvā,"
+    },
+    {
+      "id": "ja514:31.2",
+      "pali": "Dante ime chinda purā marāmi;"
+    },
+    {
+      "id": "ja514:31.3",
+      "pali": "Vajjāsi taṁ kodhanaṁ rājaputtiṁ,"
+    },
+    {
+      "id": "ja514:31.4",
+      "pali": "‘Nāgo hato handa imassa dantā’”."
+    },
+    {
+      "id": "ja514:32.1",
+      "pali": "Uṭṭhāya so luddo kharaṁ gahetvā,"
+    },
+    {
+      "id": "ja514:32.2",
+      "pali": "Chetvāna dantāni gajuttamassa;"
+    },
+    {
+      "id": "ja514:32.3",
+      "pali": "Vaggū subhe appaṭime pathabyā,"
+    },
+    {
+      "id": "ja514:32.4",
+      "pali": "Ādāya pakkāmi tato hi khippaṁ."
+    },
+    {
+      "id": "ja514:33.1",
+      "pali": "Bhayaṭṭitā nāgavadhena aṭṭā,"
+    },
+    {
+      "id": "ja514:33.2",
+      "pali": "Ye te nāgā aṭṭha disā vidhāvuṁ;"
+    },
+    {
+      "id": "ja514:33.3",
+      "pali": "Adisvāna posaṁ gajapaccamittaṁ,"
+    },
+    {
+      "id": "ja514:33.4",
+      "pali": "Paccāgamuṁ yena so nāgarājā."
+    },
+    {
+      "id": "ja514:34.1",
+      "pali": "Te tattha kanditvā roditvāna nāgā,"
+    },
+    {
+      "id": "ja514:34.2",
+      "pali": "Sīse sake paṁsukaṁ okiritvā;"
+    },
+    {
+      "id": "ja514:34.3",
+      "pali": "Agamaṁsu te sabbe sakaṁ niketaṁ,"
+    },
+    {
+      "id": "ja514:34.4",
+      "pali": "Purakkhatvā mahesiṁ sabbabhaddaṁ."
+    },
+    {
+      "id": "ja514:35.1",
+      "pali": "Ādāya dantāni gajuttamassa,"
+    },
+    {
+      "id": "ja514:35.2",
+      "pali": "Vaggū subhe appaṭime pathabyā;"
+    },
+    {
+      "id": "ja514:35.3",
+      "pali": "Suvaṇṇarājīhi samantamodare,"
+    },
+    {
+      "id": "ja514:35.4",
+      "pali": "So luddako kāsipuraṁ upāgami;"
+    },
+    {
+      "id": "ja514:35.5",
+      "pali": "Upanesi so rājakaññāya dante,"
+    },
+    {
+      "id": "ja514:35.6",
+      "pali": "Nāgo hato handa imassa dantā."
+    },
+    {
+      "id": "ja514:36.1",
+      "pali": "Disvāna dantāni gajuttamassa,"
+    },
+    {
+      "id": "ja514:36.2",
+      "pali": "Bhattuppiyassa purimāya jātiyā;"
+    },
+    {
+      "id": "ja514:36.3",
+      "pali": "Tattheva tassā hadayaṁ aphāli,"
+    },
+    {
+      "id": "ja514:36.4",
+      "pali": "Teneva sā kālamakāsi bālā."
+    },
+    {
+      "id": "ja514:37.1",
+      "pali": "Sambodhipatto sa mahānubhāvo,"
+    },
+    {
+      "id": "ja514:37.2",
+      "pali": "Sitaṁ akāsi parisāya majjhe;"
+    },
+    {
+      "id": "ja514:37.3",
+      "pali": "Pucchiṁsu bhikkhū suvimuttacittā,"
+    },
+    {
+      "id": "ja514:37.4",
+      "pali": "“Nākāraṇe pātukaronti buddhā."
+    },
+    {
+      "id": "ja514:38.1",
+      "pali": "Yamaddasātha dahariṁ kumāriṁ,"
+    },
+    {
+      "id": "ja514:38.2",
+      "pali": "Kāsāyavatthaṁ anagāriyaṁ carantiṁ;"
+    },
+    {
+      "id": "ja514:38.3",
+      "pali": "Sā kho tadā rājakaññā ahosi,"
+    },
+    {
+      "id": "ja514:38.4",
+      "pali": "Ahaṁ tadā nāgarājā ahosiṁ."
+    },
+    {
+      "id": "ja514:39.1",
+      "pali": "Ādāya dantāni gajuttamassa,"
+    },
+    {
+      "id": "ja514:39.2",
+      "pali": "Vaggū subhe appaṭime pathabyā;"
+    },
+    {
+      "id": "ja514:39.3",
+      "pali": "Yo luddako kāsipuraṁ upāgami,"
+    },
+    {
+      "id": "ja514:39.4",
+      "pali": "So kho tadā devadatto ahosi”."
+    },
+    {
+      "id": "ja514:40.1",
+      "pali": "Anāvasūraṁ cirarattasaṁsitaṁ,"
+    },
+    {
+      "id": "ja514:40.2",
+      "pali": "Uccāvacaṁ caritamidaṁ purāṇaṁ;"
+    },
+    {
+      "id": "ja514:40.3",
+      "pali": "Vītaddaro vītasoko visallo,"
+    },
+    {
+      "id": "ja514:40.4",
+      "pali": "Sayaṁ abhiññāya abhāsi buddho."
+    },
+    {
+      "id": "ja514:41.1",
+      "pali": "“Ahaṁ vo tena kālena,"
+    },
+    {
+      "id": "ja514:41.2",
+      "pali": "ahosiṁ tattha bhikkhavo;"
+    },
+    {
+      "id": "ja514:41.3",
+      "pali": "Nāgarājā tadā homi,"
+    },
+    {
+      "id": "ja514:41.4",
+      "pali": "evaṁ dhāretha jātakan”ti."
+    },
+    {
+      "id": "ja514:42.1",
+      "pali": "Chaddantajātakaṁ catutthaṁ."
+    }
+  ]
+}

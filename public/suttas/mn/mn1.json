@@ -1,0 +1,1335 @@
+{
+  "uid": "mn1",
+  "title": "Mūlapariyāyasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn1:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn1:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā ukkaṭṭhāyaṁ viharati subhagavane sālarājamūle."
+    },
+    {
+      "id": "mn1:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn1:1.4",
+      "pali": "“bhikkhavo”ti."
+    },
+    {
+      "id": "mn1:1.5",
+      "pali": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn1:1.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn1:2.1",
+      "pali": "“sabbadhammamūlapariyāyaṁ vo, bhikkhave, desessāmi."
+    },
+    {
+      "id": "mn1:2.2",
+      "pali": "Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti."
+    },
+    {
+      "id": "mn1:2.3",
+      "pali": "“Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn1:2.4",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn1:3.1",
+      "pali": "“Idha, bhikkhave, assutavā puthujjano ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto—"
+    },
+    {
+      "id": "mn1:3.2",
+      "pali": "pathaviṁ pathavito sañjānāti;"
+    },
+    {
+      "id": "mn1:3.3",
+      "pali": "pathaviṁ pathavito saññatvā pathaviṁ maññati, pathaviyā maññati, pathavito maññati, pathaviṁ meti maññati, pathaviṁ abhinandati."
+    },
+    {
+      "id": "mn1:3.4",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:3.5",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:4.1",
+      "pali": "Āpaṁ āpato sañjānāti;"
+    },
+    {
+      "id": "mn1:4.2",
+      "pali": "āpaṁ āpato saññatvā āpaṁ maññati, āpasmiṁ maññati, āpato maññati, āpaṁ meti maññati, āpaṁ abhinandati."
+    },
+    {
+      "id": "mn1:4.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:4.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:5.1",
+      "pali": "Tejaṁ tejato sañjānāti;"
+    },
+    {
+      "id": "mn1:5.2",
+      "pali": "tejaṁ tejato saññatvā tejaṁ maññati, tejasmiṁ maññati, tejato maññati, tejaṁ meti maññati, tejaṁ abhinandati."
+    },
+    {
+      "id": "mn1:5.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:5.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:6.1",
+      "pali": "Vāyaṁ vāyato sañjānāti;"
+    },
+    {
+      "id": "mn1:6.2",
+      "pali": "vāyaṁ vāyato saññatvā vāyaṁ maññati, vāyasmiṁ maññati, vāyato maññati, vāyaṁ meti maññati, vāyaṁ abhinandati."
+    },
+    {
+      "id": "mn1:6.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:6.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:7.1",
+      "pali": "Bhūte bhūtato sañjānāti;"
+    },
+    {
+      "id": "mn1:7.2",
+      "pali": "bhūte bhūtato saññatvā bhūte maññati, bhūtesu maññati, bhūtato maññati, bhūte meti maññati, bhūte abhinandati."
+    },
+    {
+      "id": "mn1:7.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:7.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:8.1",
+      "pali": "Deve devato sañjānāti;"
+    },
+    {
+      "id": "mn1:8.2",
+      "pali": "deve devato saññatvā deve maññati, devesu maññati, devato maññati, deve meti maññati, deve abhinandati."
+    },
+    {
+      "id": "mn1:8.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:8.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:9.1",
+      "pali": "Pajāpatiṁ pajāpatito sañjānāti;"
+    },
+    {
+      "id": "mn1:9.2",
+      "pali": "pajāpatiṁ pajāpatito saññatvā pajāpatiṁ maññati, pajāpatismiṁ maññati, pajāpatito maññati, pajāpatiṁ meti maññati, pajāpatiṁ abhinandati."
+    },
+    {
+      "id": "mn1:9.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:9.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:10.1",
+      "pali": "Brahmaṁ brahmato sañjānāti;"
+    },
+    {
+      "id": "mn1:10.2",
+      "pali": "brahmaṁ brahmato saññatvā brahmaṁ maññati, brahmasmiṁ maññati, brahmato maññati, brahmaṁ meti maññati, brahmaṁ abhinandati."
+    },
+    {
+      "id": "mn1:10.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:10.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:11.1",
+      "pali": "Ābhassare ābhassarato sañjānāti;"
+    },
+    {
+      "id": "mn1:11.2",
+      "pali": "ābhassare ābhassarato saññatvā ābhassare maññati, ābhassaresu maññati, ābhassarato maññati, ābhassare meti maññati, ābhassare abhinandati."
+    },
+    {
+      "id": "mn1:11.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:11.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:12.1",
+      "pali": "Subhakiṇhe subhakiṇhato sañjānāti;"
+    },
+    {
+      "id": "mn1:12.2",
+      "pali": "subhakiṇhe subhakiṇhato saññatvā subhakiṇhe maññati, subhakiṇhesu maññati, subhakiṇhato maññati, subhakiṇhe meti maññati, subhakiṇhe abhinandati."
+    },
+    {
+      "id": "mn1:12.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:12.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:13.1",
+      "pali": "Vehapphale vehapphalato sañjānāti;"
+    },
+    {
+      "id": "mn1:13.2",
+      "pali": "vehapphale vehapphalato saññatvā vehapphale maññati, vehapphalesu maññati, vehapphalato maññati, vehapphale meti maññati, vehapphale abhinandati."
+    },
+    {
+      "id": "mn1:13.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:13.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:14.1",
+      "pali": "Abhibhuṁ abhibhuto sañjānāti;"
+    },
+    {
+      "id": "mn1:14.2",
+      "pali": "abhibhuṁ abhibhuto saññatvā abhibhuṁ maññati, abhibhusmiṁ maññati, abhibhuto maññati, abhibhuṁ meti maññati, abhibhuṁ abhinandati."
+    },
+    {
+      "id": "mn1:14.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:14.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:15.1",
+      "pali": "Ākāsānañcāyatanaṁ ākāsānañcāyatanato sañjānāti;"
+    },
+    {
+      "id": "mn1:15.2",
+      "pali": "ākāsānañcāyatanaṁ ākāsānañcāyatanato saññatvā ākāsānañcāyatanaṁ maññati, ākāsānañcāyatanasmiṁ maññati, ākāsānañcāyatanato maññati, ākāsānañcāyatanaṁ meti maññati, ākāsānañcāyatanaṁ abhinandati."
+    },
+    {
+      "id": "mn1:15.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:15.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:16.1",
+      "pali": "Viññāṇañcāyatanaṁ viññāṇañcāyatanato sañjānāti;"
+    },
+    {
+      "id": "mn1:16.2",
+      "pali": "viññāṇañcāyatanaṁ viññāṇañcāyatanato saññatvā viññāṇañcāyatanaṁ maññati, viññāṇañcāyatanasmiṁ maññati, viññāṇañcāyatanato maññati, viññāṇañcāyatanaṁ meti maññati, viññāṇañcāyatanaṁ abhinandati."
+    },
+    {
+      "id": "mn1:16.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:16.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:17.1",
+      "pali": "Ākiñcaññāyatanaṁ ākiñcaññāyatanato sañjānāti;"
+    },
+    {
+      "id": "mn1:17.2",
+      "pali": "ākiñcaññāyatanaṁ ākiñcaññāyatanato saññatvā ākiñcaññāyatanaṁ maññati, ākiñcaññāyatanasmiṁ maññati, ākiñcaññāyatanato maññati, ākiñcaññāyatanaṁ meti maññati, ākiñcaññāyatanaṁ abhinandati."
+    },
+    {
+      "id": "mn1:17.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:17.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:18.1",
+      "pali": "Nevasaññānāsaññāyatanaṁ nevasaññānāsaññāyatanato sañjānāti;"
+    },
+    {
+      "id": "mn1:18.2",
+      "pali": "nevasaññānāsaññāyatanaṁ nevasaññānāsaññāyatanato saññatvā nevasaññānāsaññāyatanaṁ maññati, nevasaññānāsaññāyatanasmiṁ maññati, nevasaññānāsaññāyatanato maññati, nevasaññānāsaññāyatanaṁ meti maññati, nevasaññānāsaññāyatanaṁ abhinandati."
+    },
+    {
+      "id": "mn1:18.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:18.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:19.1",
+      "pali": "Diṭṭhaṁ diṭṭhato sañjānāti;"
+    },
+    {
+      "id": "mn1:19.2",
+      "pali": "diṭṭhaṁ diṭṭhato saññatvā diṭṭhaṁ maññati, diṭṭhasmiṁ maññati, diṭṭhato maññati, diṭṭhaṁ meti maññati, diṭṭhaṁ abhinandati."
+    },
+    {
+      "id": "mn1:19.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:19.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:20.1",
+      "pali": "Sutaṁ sutato sañjānāti;"
+    },
+    {
+      "id": "mn1:20.2",
+      "pali": "sutaṁ sutato saññatvā sutaṁ maññati, sutasmiṁ maññati, sutato maññati, sutaṁ meti maññati, sutaṁ abhinandati."
+    },
+    {
+      "id": "mn1:20.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:20.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:21.1",
+      "pali": "Mutaṁ mutato sañjānāti;"
+    },
+    {
+      "id": "mn1:21.2",
+      "pali": "mutaṁ mutato saññatvā mutaṁ maññati, mutasmiṁ maññati, mutato maññati, mutaṁ meti maññati, mutaṁ abhinandati."
+    },
+    {
+      "id": "mn1:21.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:21.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:22.1",
+      "pali": "Viññātaṁ viññātato sañjānāti;"
+    },
+    {
+      "id": "mn1:22.2",
+      "pali": "viññātaṁ viññātato saññatvā viññātaṁ maññati, viññātasmiṁ maññati, viññātato maññati, viññātaṁ meti maññati, viññātaṁ abhinandati."
+    },
+    {
+      "id": "mn1:22.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:22.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:23.1",
+      "pali": "Ekattaṁ ekattato sañjānāti;"
+    },
+    {
+      "id": "mn1:23.2",
+      "pali": "ekattaṁ ekattato saññatvā ekattaṁ maññati, ekattasmiṁ maññati, ekattato maññati, ekattaṁ meti maññati, ekattaṁ abhinandati."
+    },
+    {
+      "id": "mn1:23.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:23.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:24.1",
+      "pali": "Nānattaṁ nānattato sañjānāti;"
+    },
+    {
+      "id": "mn1:24.2",
+      "pali": "nānattaṁ nānattato saññatvā nānattaṁ maññati, nānattasmiṁ maññati, nānattato maññati, nānattaṁ meti maññati, nānattaṁ abhinandati."
+    },
+    {
+      "id": "mn1:24.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:24.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:25.1",
+      "pali": "Sabbaṁ sabbato sañjānāti;"
+    },
+    {
+      "id": "mn1:25.2",
+      "pali": "sabbaṁ sabbato saññatvā sabbaṁ maññati, sabbasmiṁ maññati, sabbato maññati, sabbaṁ meti maññati, sabbaṁ abhinandati."
+    },
+    {
+      "id": "mn1:25.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:25.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:26.1",
+      "pali": "Nibbānaṁ nibbānato sañjānāti;"
+    },
+    {
+      "id": "mn1:26.2",
+      "pali": "nibbānaṁ nibbānato saññatvā nibbānaṁ maññati, nibbānasmiṁ maññati, nibbānato maññati, nibbānaṁ meti maññati, nibbānaṁ abhinandati."
+    },
+    {
+      "id": "mn1:26.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:26.4",
+      "pali": "‘Apariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:26.5",
+      "pali": "Puthujjanavasena paṭhamanayabhūmiparicchedo niṭṭhito."
+    },
+    {
+      "id": "mn1:27.1",
+      "pali": "Yopi so, bhikkhave, bhikkhu sekkho appattamānaso anuttaraṁ yogakkhemaṁ patthayamāno viharati, sopi pathaviṁ pathavito abhijānāti;"
+    },
+    {
+      "id": "mn1:27.2",
+      "pali": "pathaviṁ pathavito abhiññāya pathaviṁ mā maññi, pathaviyā mā maññi, pathavito mā maññi, pathaviṁ meti mā maññi, pathaviṁ mābhinandi."
+    },
+    {
+      "id": "mn1:27.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:27.4",
+      "pali": "‘Pariññeyyaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:28.1",
+      "pali": "Āpaṁ …pe…"
+    },
+    {
+      "id": "mn1:29.1",
+      "pali": "tejaṁ …"
+    },
+    {
+      "id": "mn1:30.1",
+      "pali": "vāyaṁ …"
+    },
+    {
+      "id": "mn1:31.1",
+      "pali": "bhūte …"
+    },
+    {
+      "id": "mn1:32.1",
+      "pali": "deve …"
+    },
+    {
+      "id": "mn1:33.1",
+      "pali": "pajāpatiṁ …"
+    },
+    {
+      "id": "mn1:34.1",
+      "pali": "brahmaṁ …"
+    },
+    {
+      "id": "mn1:35.1",
+      "pali": "ābhassare …"
+    },
+    {
+      "id": "mn1:36.1",
+      "pali": "subhakiṇhe …"
+    },
+    {
+      "id": "mn1:37.1",
+      "pali": "vehapphale …"
+    },
+    {
+      "id": "mn1:38.1",
+      "pali": "abhibhuṁ …"
+    },
+    {
+      "id": "mn1:39.1",
+      "pali": "ākāsānañcāyatanaṁ …"
+    },
+    {
+      "id": "mn1:40.1",
+      "pali": "viññāṇañcāyatanaṁ …"
+    },
+    {
+      "id": "mn1:41.1",
+      "pali": "ākiñcaññāyatanaṁ …"
+    },
+    {
+      "id": "mn1:42.1",
+      "pali": "nevasaññānāsaññāyatanaṁ …"
+    },
+    {
+      "id": "mn1:43.1",
+      "pali": "diṭṭhaṁ …"
+    },
+    {
+      "id": "mn1:44.1",
+      "pali": "sutaṁ …"
+    },
+    {
+      "id": "mn1:45.1",
+      "pali": "mutaṁ …"
+    },
+    {
+      "id": "mn1:46.1",
+      "pali": "viññātaṁ …"
+    },
+    {
+      "id": "mn1:47.1",
+      "pali": "ekattaṁ …"
+    },
+    {
+      "id": "mn1:48.1",
+      "pali": "nānattaṁ …"
+    },
+    {
+      "id": "mn1:49.1",
+      "pali": "sabbaṁ …"
+    },
+    {
+      "id": "mn1:50.1",
+      "pali": "nibbānaṁ nibbānato abhijānāti;"
+    },
+    {
+      "id": "mn1:50.2",
+      "pali": "nibbānaṁ nibbānato abhiññāya nibbānaṁ mā maññi, nibbānasmiṁ mā maññi, nibbānato mā maññi, nibbānaṁ meti mā maññi, nibbānaṁ mābhinandi."
+    },
+    {
+      "id": "mn1:50.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:50.4",
+      "pali": "‘Pariññeyyaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:50.5",
+      "pali": "Sekkhavasena dutiyanayabhūmiparicchedo niṭṭhito."
+    },
+    {
+      "id": "mn1:51.1",
+      "pali": "Yopi so, bhikkhave, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto, sopi pathaviṁ pathavito abhijānāti;"
+    },
+    {
+      "id": "mn1:51.2",
+      "pali": "pathaviṁ pathavito abhiññāya pathaviṁ na maññati, pathaviyā na maññati, pathavito na maññati, pathaviṁ meti na maññati, pathaviṁ nābhinandati."
+    },
+    {
+      "id": "mn1:51.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:51.4",
+      "pali": "‘Pariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:52.1",
+      "pali": "Āpaṁ …pe…"
+    },
+    {
+      "id": "mn1:53.1",
+      "pali": "tejaṁ …"
+    },
+    {
+      "id": "mn1:54.1",
+      "pali": "vāyaṁ …"
+    },
+    {
+      "id": "mn1:55.1",
+      "pali": "bhūte …"
+    },
+    {
+      "id": "mn1:56.1",
+      "pali": "deve …"
+    },
+    {
+      "id": "mn1:57.1",
+      "pali": "pajāpatiṁ …"
+    },
+    {
+      "id": "mn1:58.1",
+      "pali": "brahmaṁ …"
+    },
+    {
+      "id": "mn1:59.1",
+      "pali": "ābhassare …"
+    },
+    {
+      "id": "mn1:60.1",
+      "pali": "subhakiṇhe …"
+    },
+    {
+      "id": "mn1:61.1",
+      "pali": "vehapphale …"
+    },
+    {
+      "id": "mn1:62.1",
+      "pali": "abhibhuṁ …"
+    },
+    {
+      "id": "mn1:63.1",
+      "pali": "ākāsānañcāyatanaṁ …"
+    },
+    {
+      "id": "mn1:64.1",
+      "pali": "viññāṇañcāyatanaṁ …"
+    },
+    {
+      "id": "mn1:65.1",
+      "pali": "ākiñcaññāyatanaṁ …"
+    },
+    {
+      "id": "mn1:66.1",
+      "pali": "nevasaññānāsaññāyatanaṁ …"
+    },
+    {
+      "id": "mn1:67.1",
+      "pali": "diṭṭhaṁ …"
+    },
+    {
+      "id": "mn1:68.1",
+      "pali": "sutaṁ …"
+    },
+    {
+      "id": "mn1:69.1",
+      "pali": "mutaṁ …"
+    },
+    {
+      "id": "mn1:70.1",
+      "pali": "viññātaṁ …"
+    },
+    {
+      "id": "mn1:71.1",
+      "pali": "ekattaṁ …"
+    },
+    {
+      "id": "mn1:72.1",
+      "pali": "nānattaṁ …"
+    },
+    {
+      "id": "mn1:73.1",
+      "pali": "sabbaṁ …"
+    },
+    {
+      "id": "mn1:74.1",
+      "pali": "nibbānaṁ nibbānato abhijānāti;"
+    },
+    {
+      "id": "mn1:74.2",
+      "pali": "nibbānaṁ nibbānato abhiññāya nibbānaṁ na maññati, nibbānasmiṁ na maññati, nibbānato na maññati, nibbānaṁ meti na maññati, nibbānaṁ nābhinandati."
+    },
+    {
+      "id": "mn1:74.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:74.4",
+      "pali": "‘Pariññātaṁ tassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:74.5",
+      "pali": "Khīṇāsavavasena tatiyanayabhūmiparicchedo niṭṭhito."
+    },
+    {
+      "id": "mn1:75.1",
+      "pali": "Yopi so, bhikkhave, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññā vimutto, sopi pathaviṁ pathavito abhijānāti;"
+    },
+    {
+      "id": "mn1:75.2",
+      "pali": "pathaviṁ pathavito abhiññāya pathaviṁ na maññati, pathaviyā na maññati, pathavito na maññati, pathaviṁ meti na maññati, pathaviṁ nābhinandati."
+    },
+    {
+      "id": "mn1:75.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:75.4",
+      "pali": "Khayā rāgassa, vītarāgattā."
+    },
+    {
+      "id": "mn1:76.1",
+      "pali": "Āpaṁ …pe…"
+    },
+    {
+      "id": "mn1:77.1",
+      "pali": "tejaṁ …"
+    },
+    {
+      "id": "mn1:78.1",
+      "pali": "vāyaṁ …"
+    },
+    {
+      "id": "mn1:79.1",
+      "pali": "bhūte …"
+    },
+    {
+      "id": "mn1:80.1",
+      "pali": "deve …"
+    },
+    {
+      "id": "mn1:81.1",
+      "pali": "pajāpatiṁ …"
+    },
+    {
+      "id": "mn1:82.1",
+      "pali": "brahmaṁ …"
+    },
+    {
+      "id": "mn1:83.1",
+      "pali": "ābhassare …"
+    },
+    {
+      "id": "mn1:84.1",
+      "pali": "subhakiṇhe …"
+    },
+    {
+      "id": "mn1:85.1",
+      "pali": "vehapphale …"
+    },
+    {
+      "id": "mn1:86.1",
+      "pali": "abhibhuṁ …"
+    },
+    {
+      "id": "mn1:87.1",
+      "pali": "ākāsānañcāyatanaṁ …"
+    },
+    {
+      "id": "mn1:88.1",
+      "pali": "viññāṇañcāyatanaṁ …"
+    },
+    {
+      "id": "mn1:89.1",
+      "pali": "ākiñcaññāyatanaṁ …"
+    },
+    {
+      "id": "mn1:90.1",
+      "pali": "nevasaññānāsaññāyatanaṁ …"
+    },
+    {
+      "id": "mn1:91.1",
+      "pali": "diṭṭhaṁ …"
+    },
+    {
+      "id": "mn1:92.1",
+      "pali": "sutaṁ …"
+    },
+    {
+      "id": "mn1:93.1",
+      "pali": "mutaṁ …"
+    },
+    {
+      "id": "mn1:94.1",
+      "pali": "viññātaṁ …"
+    },
+    {
+      "id": "mn1:95.1",
+      "pali": "ekattaṁ …"
+    },
+    {
+      "id": "mn1:96.1",
+      "pali": "nānattaṁ …"
+    },
+    {
+      "id": "mn1:97.1",
+      "pali": "sabbaṁ …"
+    },
+    {
+      "id": "mn1:98.1",
+      "pali": "nibbānaṁ nibbānato abhijānāti;"
+    },
+    {
+      "id": "mn1:98.2",
+      "pali": "nibbānaṁ nibbānato abhiññāya nibbānaṁ na maññati, nibbānasmiṁ na maññati, nibbānato na maññati, nibbānaṁ meti na maññati, nibbānaṁ nābhinandati."
+    },
+    {
+      "id": "mn1:98.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:98.4",
+      "pali": "Khayā rāgassa, vītarāgattā."
+    },
+    {
+      "id": "mn1:98.5",
+      "pali": "Khīṇāsavavasena catutthanayabhūmiparicchedo niṭṭhito."
+    },
+    {
+      "id": "mn1:99.1",
+      "pali": "Yopi so, bhikkhave, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto, sopi pathaviṁ pathavito abhijānāti;"
+    },
+    {
+      "id": "mn1:99.2",
+      "pali": "pathaviṁ pathavito abhiññāya pathaviṁ na maññati, pathaviyā na maññati, pathavito na maññati, pathaviṁ meti na maññati, pathaviṁ nābhinandati."
+    },
+    {
+      "id": "mn1:99.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:99.4",
+      "pali": "Khayā dosassa, vītadosattā."
+    },
+    {
+      "id": "mn1:100.1",
+      "pali": "Āpaṁ …pe…"
+    },
+    {
+      "id": "mn1:101.1",
+      "pali": "tejaṁ …"
+    },
+    {
+      "id": "mn1:102.1",
+      "pali": "vāyaṁ …"
+    },
+    {
+      "id": "mn1:103.1",
+      "pali": "bhūte …"
+    },
+    {
+      "id": "mn1:104.1",
+      "pali": "deve …"
+    },
+    {
+      "id": "mn1:105.1",
+      "pali": "pajāpatiṁ …"
+    },
+    {
+      "id": "mn1:106.1",
+      "pali": "brahmaṁ …"
+    },
+    {
+      "id": "mn1:107.1",
+      "pali": "ābhassare …"
+    },
+    {
+      "id": "mn1:108.1",
+      "pali": "subhakiṇhe …"
+    },
+    {
+      "id": "mn1:109.1",
+      "pali": "vehapphale …"
+    },
+    {
+      "id": "mn1:110.1",
+      "pali": "abhibhuṁ …"
+    },
+    {
+      "id": "mn1:111.1",
+      "pali": "ākāsānañcāyatanaṁ …"
+    },
+    {
+      "id": "mn1:112.1",
+      "pali": "viññāṇañcāyatanaṁ …"
+    },
+    {
+      "id": "mn1:113.1",
+      "pali": "ākiñcaññāyatanaṁ …"
+    },
+    {
+      "id": "mn1:114.1",
+      "pali": "nevasaññānāsaññāyatanaṁ …"
+    },
+    {
+      "id": "mn1:115.1",
+      "pali": "diṭṭhaṁ …"
+    },
+    {
+      "id": "mn1:116.1",
+      "pali": "sutaṁ …"
+    },
+    {
+      "id": "mn1:117.1",
+      "pali": "mutaṁ …"
+    },
+    {
+      "id": "mn1:118.1",
+      "pali": "viññātaṁ …"
+    },
+    {
+      "id": "mn1:119.1",
+      "pali": "ekattaṁ …"
+    },
+    {
+      "id": "mn1:120.1",
+      "pali": "nānattaṁ …"
+    },
+    {
+      "id": "mn1:121.1",
+      "pali": "sabbaṁ …"
+    },
+    {
+      "id": "mn1:122.1",
+      "pali": "nibbānaṁ nibbānato abhijānāti;"
+    },
+    {
+      "id": "mn1:122.2",
+      "pali": "nibbānaṁ nibbānato abhiññāya nibbānaṁ na maññati, nibbānasmiṁ na maññati, nibbānato na maññati, nibbānaṁ meti na maññati, nibbānaṁ nābhinandati."
+    },
+    {
+      "id": "mn1:122.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:122.4",
+      "pali": "Khayā dosassa, vītadosattā."
+    },
+    {
+      "id": "mn1:122.5",
+      "pali": "Khīṇāsavavasena pañcamanayabhūmiparicchedo niṭṭhito."
+    },
+    {
+      "id": "mn1:123.1",
+      "pali": "Yopi so, bhikkhave, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto, sopi pathaviṁ pathavito abhijānāti;"
+    },
+    {
+      "id": "mn1:123.2",
+      "pali": "pathaviṁ pathavito abhiññāya pathaviṁ na maññati, pathaviyā na maññati, pathavito na maññati, pathaviṁ meti na maññati, pathaviṁ nābhinandati."
+    },
+    {
+      "id": "mn1:123.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:123.4",
+      "pali": "Khayā mohassa, vītamohattā."
+    },
+    {
+      "id": "mn1:124.1",
+      "pali": "Āpaṁ …pe…"
+    },
+    {
+      "id": "mn1:125.1",
+      "pali": "tejaṁ …"
+    },
+    {
+      "id": "mn1:126.1",
+      "pali": "vāyaṁ …"
+    },
+    {
+      "id": "mn1:127.1",
+      "pali": "bhūte …"
+    },
+    {
+      "id": "mn1:128.1",
+      "pali": "deve …"
+    },
+    {
+      "id": "mn1:129.1",
+      "pali": "pajāpatiṁ …"
+    },
+    {
+      "id": "mn1:130.1",
+      "pali": "brahmaṁ …"
+    },
+    {
+      "id": "mn1:131.1",
+      "pali": "ābhassare …"
+    },
+    {
+      "id": "mn1:132.1",
+      "pali": "subhakiṇhe …"
+    },
+    {
+      "id": "mn1:133.1",
+      "pali": "vehapphale …"
+    },
+    {
+      "id": "mn1:134.1",
+      "pali": "abhibhuṁ …"
+    },
+    {
+      "id": "mn1:135.1",
+      "pali": "ākāsānañcāyatanaṁ …"
+    },
+    {
+      "id": "mn1:136.1",
+      "pali": "viññāṇañcāyatanaṁ …"
+    },
+    {
+      "id": "mn1:137.1",
+      "pali": "ākiñcaññāyatanaṁ …"
+    },
+    {
+      "id": "mn1:138.1",
+      "pali": "nevasaññānāsaññāyatanaṁ …"
+    },
+    {
+      "id": "mn1:139.1",
+      "pali": "diṭṭhaṁ …"
+    },
+    {
+      "id": "mn1:140.1",
+      "pali": "sutaṁ …"
+    },
+    {
+      "id": "mn1:141.1",
+      "pali": "mutaṁ …"
+    },
+    {
+      "id": "mn1:142.1",
+      "pali": "viññātaṁ …"
+    },
+    {
+      "id": "mn1:143.1",
+      "pali": "ekattaṁ …"
+    },
+    {
+      "id": "mn1:144.1",
+      "pali": "nānattaṁ …"
+    },
+    {
+      "id": "mn1:145.1",
+      "pali": "sabbaṁ …"
+    },
+    {
+      "id": "mn1:146.1",
+      "pali": "nibbānaṁ nibbānato abhijānāti;"
+    },
+    {
+      "id": "mn1:146.2",
+      "pali": "nibbānaṁ nibbānato abhiññāya nibbānaṁ na maññati, nibbānasmiṁ na maññati, nibbānato na maññati, nibbānaṁ meti na maññati, nibbānaṁ nābhinandati."
+    },
+    {
+      "id": "mn1:146.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:146.4",
+      "pali": "Khayā mohassa, vītamohattā."
+    },
+    {
+      "id": "mn1:146.5",
+      "pali": "Khīṇāsavavasena chaṭṭhanayabhūmiparicchedo niṭṭhito."
+    },
+    {
+      "id": "mn1:147.1",
+      "pali": "Tathāgatopi, bhikkhave, arahaṁ sammāsambuddho pathaviṁ pathavito abhijānāti;"
+    },
+    {
+      "id": "mn1:147.2",
+      "pali": "pathaviṁ pathavito abhiññāya pathaviṁ na maññati, pathaviyā na maññati, pathavito na maññati, pathaviṁ meti na maññati, pathaviṁ nābhinandati."
+    },
+    {
+      "id": "mn1:147.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:147.4",
+      "pali": "‘Pariññātantaṁ tathāgatassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:148.1",
+      "pali": "Āpaṁ …pe…"
+    },
+    {
+      "id": "mn1:149.1",
+      "pali": "tejaṁ …"
+    },
+    {
+      "id": "mn1:150.1",
+      "pali": "vāyaṁ …"
+    },
+    {
+      "id": "mn1:151.1",
+      "pali": "bhūte …"
+    },
+    {
+      "id": "mn1:152.1",
+      "pali": "deve …"
+    },
+    {
+      "id": "mn1:153.1",
+      "pali": "pajāpatiṁ …"
+    },
+    {
+      "id": "mn1:154.1",
+      "pali": "brahmaṁ …"
+    },
+    {
+      "id": "mn1:155.1",
+      "pali": "ābhassare …"
+    },
+    {
+      "id": "mn1:156.1",
+      "pali": "subhakiṇhe …"
+    },
+    {
+      "id": "mn1:157.1",
+      "pali": "vehapphale …"
+    },
+    {
+      "id": "mn1:158.1",
+      "pali": "abhibhuṁ …"
+    },
+    {
+      "id": "mn1:159.1",
+      "pali": "ākāsānañcāyatanaṁ …"
+    },
+    {
+      "id": "mn1:160.1",
+      "pali": "viññāṇañcāyatanaṁ …"
+    },
+    {
+      "id": "mn1:161.1",
+      "pali": "ākiñcaññāyatanaṁ …"
+    },
+    {
+      "id": "mn1:162.1",
+      "pali": "nevasaññānāsaññāyatanaṁ …"
+    },
+    {
+      "id": "mn1:163.1",
+      "pali": "diṭṭhaṁ …"
+    },
+    {
+      "id": "mn1:164.1",
+      "pali": "sutaṁ …"
+    },
+    {
+      "id": "mn1:165.1",
+      "pali": "mutaṁ …"
+    },
+    {
+      "id": "mn1:166.1",
+      "pali": "viññātaṁ …"
+    },
+    {
+      "id": "mn1:167.1",
+      "pali": "ekattaṁ …"
+    },
+    {
+      "id": "mn1:168.1",
+      "pali": "nānattaṁ …"
+    },
+    {
+      "id": "mn1:169.1",
+      "pali": "sabbaṁ …"
+    },
+    {
+      "id": "mn1:170.1",
+      "pali": "nibbānaṁ nibbānato abhijānāti;"
+    },
+    {
+      "id": "mn1:170.2",
+      "pali": "nibbānaṁ nibbānato abhiññāya nibbānaṁ na maññati, nibbānasmiṁ na maññati, nibbānato na maññati, nibbānaṁ meti na maññati, nibbānaṁ nābhinandati."
+    },
+    {
+      "id": "mn1:170.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:170.4",
+      "pali": "‘Pariññātantaṁ tathāgatassā’ti vadāmi."
+    },
+    {
+      "id": "mn1:170.5",
+      "pali": "Tathāgatavasena sattamanayabhūmiparicchedo niṭṭhito."
+    },
+    {
+      "id": "mn1:171.1",
+      "pali": "Tathāgatopi, bhikkhave, arahaṁ sammāsambuddho pathaviṁ pathavito abhijānāti;"
+    },
+    {
+      "id": "mn1:171.2",
+      "pali": "pathaviṁ pathavito abhiññāya pathaviṁ na maññati, pathaviyā na maññati, pathavito na maññati, pathaviṁ meti na maññati, pathaviṁ nābhinandati."
+    },
+    {
+      "id": "mn1:171.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:171.4",
+      "pali": "‘Nandī dukkhassa mūlan’ti—"
+    },
+    {
+      "id": "mn1:171.5",
+      "pali": "iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti."
+    },
+    {
+      "id": "mn1:171.6",
+      "pali": "Tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi."
+    },
+    {
+      "id": "mn1:172.1",
+      "pali": "Āpaṁ …pe…"
+    },
+    {
+      "id": "mn1:173.1",
+      "pali": "tejaṁ …"
+    },
+    {
+      "id": "mn1:174.1",
+      "pali": "vāyaṁ …"
+    },
+    {
+      "id": "mn1:175.1",
+      "pali": "bhūte …"
+    },
+    {
+      "id": "mn1:176.1",
+      "pali": "deve …"
+    },
+    {
+      "id": "mn1:177.1",
+      "pali": "pajāpatiṁ …"
+    },
+    {
+      "id": "mn1:178.1",
+      "pali": "brahmaṁ …"
+    },
+    {
+      "id": "mn1:179.1",
+      "pali": "ābhassare …"
+    },
+    {
+      "id": "mn1:180.1",
+      "pali": "subhakiṇhe …"
+    },
+    {
+      "id": "mn1:181.1",
+      "pali": "vehapphale …"
+    },
+    {
+      "id": "mn1:182.1",
+      "pali": "abhibhuṁ …"
+    },
+    {
+      "id": "mn1:183.1",
+      "pali": "ākāsānañcāyatanaṁ …"
+    },
+    {
+      "id": "mn1:184.1",
+      "pali": "viññāṇañcāyatanaṁ …"
+    },
+    {
+      "id": "mn1:185.1",
+      "pali": "ākiñcaññāyatanaṁ …"
+    },
+    {
+      "id": "mn1:186.1",
+      "pali": "nevasaññānāsaññāyatanaṁ …"
+    },
+    {
+      "id": "mn1:187.1",
+      "pali": "diṭṭhaṁ …"
+    },
+    {
+      "id": "mn1:188.1",
+      "pali": "sutaṁ …"
+    },
+    {
+      "id": "mn1:189.1",
+      "pali": "mutaṁ …"
+    },
+    {
+      "id": "mn1:190.1",
+      "pali": "viññātaṁ …"
+    },
+    {
+      "id": "mn1:191.1",
+      "pali": "ekattaṁ …"
+    },
+    {
+      "id": "mn1:192.1",
+      "pali": "nānattaṁ …"
+    },
+    {
+      "id": "mn1:193.1",
+      "pali": "sabbaṁ …"
+    },
+    {
+      "id": "mn1:194.1",
+      "pali": "nibbānaṁ nibbānato abhijānāti;"
+    },
+    {
+      "id": "mn1:194.2",
+      "pali": "nibbānaṁ nibbānato abhiññāya nibbānaṁ na maññati, nibbānasmiṁ na maññati, nibbānato na maññati, nibbānaṁ meti na maññati, nibbānaṁ nābhinandati."
+    },
+    {
+      "id": "mn1:194.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn1:194.4",
+      "pali": "‘Nandī dukkhassa mūlan’ti—"
+    },
+    {
+      "id": "mn1:194.5",
+      "pali": "iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti."
+    },
+    {
+      "id": "mn1:194.6",
+      "pali": "Tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmī”ti."
+    },
+    {
+      "id": "mn1:194.7",
+      "pali": "Tathāgatavasena aṭṭhamanayabhūmiparicchedo niṭṭhito."
+    },
+    {
+      "id": "mn1:194.8",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn1:194.9",
+      "pali": "Na te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn1:194.10",
+      "pali": "Mūlapariyāyasuttaṁ niṭṭhitaṁ paṭhamaṁ."
+    }
+  ]
+}

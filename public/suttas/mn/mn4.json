@@ -1,0 +1,659 @@
+{
+  "uid": "mn4",
+  "title": "Bhayabheravasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn4:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn4:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn4:2.1",
+      "pali": "Atha kho jāṇussoṇi brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn4:2.2",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho jāṇussoṇi brāhmaṇo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn4:2.3",
+      "pali": "“yeme, bho gotama, kulaputtā bhavantaṁ gotamaṁ uddissa saddhā agārasmā anagāriyaṁ pabbajitā, bhavaṁ tesaṁ gotamo pubbaṅgamo, bhavaṁ tesaṁ gotamo bahukāro, bhavaṁ tesaṁ gotamo samādapetā;"
+    },
+    {
+      "id": "mn4:2.4",
+      "pali": "bhoto ca pana gotamassa sā janatā diṭṭhānugatiṁ āpajjatī”ti."
+    },
+    {
+      "id": "mn4:2.5",
+      "pali": "“Evametaṁ, brāhmaṇa, evametaṁ, brāhmaṇa."
+    },
+    {
+      "id": "mn4:2.6",
+      "pali": "Ye te, brāhmaṇa, kulaputtā mamaṁ uddissa saddhā agārasmā anagāriyaṁ pabbajitā, ahaṁ tesaṁ pubbaṅgamo, ahaṁ tesaṁ bahukāro, ahaṁ tesaṁ samādapetā;"
+    },
+    {
+      "id": "mn4:2.7",
+      "pali": "mama ca pana sā janatā diṭṭhānugatiṁ āpajjatī”ti."
+    },
+    {
+      "id": "mn4:2.8",
+      "pali": "“Durabhisambhavāni hi kho, bho gotama, araññavanapatthāni pantāni senāsanāni, dukkaraṁ pavivekaṁ, durabhiramaṁ ekatte,"
+    },
+    {
+      "id": "mn4:2.9",
+      "pali": "haranti maññe mano vanāni samādhiṁ alabhamānassa bhikkhuno”ti."
+    },
+    {
+      "id": "mn4:2.10",
+      "pali": "“Evametaṁ, brāhmaṇa, evametaṁ, brāhmaṇa."
+    },
+    {
+      "id": "mn4:2.11",
+      "pali": "Durabhisambhavāni hi kho, brāhmaṇa, araññavanapatthāni pantāni senāsanāni, dukkaraṁ pavivekaṁ, durabhiramaṁ ekatte,"
+    },
+    {
+      "id": "mn4:2.12",
+      "pali": "haranti maññe mano vanāni samādhiṁ alabhamānassa bhikkhuno."
+    },
+    {
+      "id": "mn4:3.1",
+      "pali": "Mayhampi kho, brāhmaṇa, pubbeva sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi:"
+    },
+    {
+      "id": "mn4:3.2",
+      "pali": "‘durabhisambhavāni hi kho araññavanapatthāni pantāni senāsanāni, dukkaraṁ pavivekaṁ, durabhiramaṁ ekatte,"
+    },
+    {
+      "id": "mn4:3.3",
+      "pali": "haranti maññe mano vanāni samādhiṁ alabhamānassa bhikkhuno’ti."
+    },
+    {
+      "id": "mn4:4.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:4.2",
+      "pali": "‘ye kho keci samaṇā vā brāhmaṇā vā aparisuddhakāyakammantā araññavanapatthāni pantāni senāsanāni paṭisevanti, aparisuddhakāyakammantasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti."
+    },
+    {
+      "id": "mn4:4.3",
+      "pali": "Na kho panāhaṁ aparisuddhakāyakammanto araññavanapatthāni pantāni senāsanāni paṭisevāmi;"
+    },
+    {
+      "id": "mn4:4.4",
+      "pali": "parisuddhakāyakammantohamasmi."
+    },
+    {
+      "id": "mn4:4.5",
+      "pali": "Ye hi vo ariyā parisuddhakāyakammantā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti."
+    },
+    {
+      "id": "mn4:4.6",
+      "pali": "Etamahaṁ, brāhmaṇa, parisuddhakāyakammataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya."
+    },
+    {
+      "id": "mn4:5.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:5.2",
+      "pali": "‘ye kho keci samaṇā vā brāhmaṇā vā aparisuddhavacīkammantā …pe…"
+    },
+    {
+      "id": "mn4:5.3",
+      "pali": "aparisuddhamanokammantā …pe…"
+    },
+    {
+      "id": "mn4:5.4",
+      "pali": "aparisuddhājīvā araññavanapatthāni pantāni senāsanāni paṭisevanti, aparisuddhājīvasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti."
+    },
+    {
+      "id": "mn4:6.1",
+      "pali": "Na kho panāhaṁ aparisuddhājīvo araññavanapatthāni pantāni senāsanāni paṭisevāmi;"
+    },
+    {
+      "id": "mn4:6.2",
+      "pali": "parisuddhājīvohamasmi."
+    },
+    {
+      "id": "mn4:7.1",
+      "pali": "Ye hi vo ariyā parisuddhājīvā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti."
+    },
+    {
+      "id": "mn4:7.2",
+      "pali": "Etamahaṁ, brāhmaṇa, parisuddhājīvataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya."
+    },
+    {
+      "id": "mn4:8.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:8.2",
+      "pali": "‘ye kho keci samaṇā vā brāhmaṇā vā abhijjhālū kāmesu tibbasārāgā araññavanapatthāni pantāni senāsanāni paṭisevanti, abhijjhālukāmesutibbasārāgasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti."
+    },
+    {
+      "id": "mn4:8.3",
+      "pali": "Na kho panāhaṁ abhijjhālu kāmesu tibbasārāgo araññavanapatthāni pantāni senāsanāni paṭisevāmi;"
+    },
+    {
+      "id": "mn4:8.4",
+      "pali": "anabhijjhālūhamasmi."
+    },
+    {
+      "id": "mn4:8.5",
+      "pali": "Ye hi vo ariyā anabhijjhālū araññavanapatthāni pantāni senāsanāni paṭisevanti, tesamahaṁ aññataro’ti."
+    },
+    {
+      "id": "mn4:8.6",
+      "pali": "Etamahaṁ, brāhmaṇa, anabhijjhālutaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya."
+    },
+    {
+      "id": "mn4:9.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:9.2",
+      "pali": "‘ye kho keci samaṇā vā brāhmaṇā vā byāpannacittā paduṭṭhamanasaṅkappā araññavanapatthāni pantāni senāsanāni paṭisevanti, byāpannacittapaduṭṭhamanasaṅkappasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti."
+    },
+    {
+      "id": "mn4:9.3",
+      "pali": "Na kho panāhaṁ byāpannacitto paduṭṭhamanasaṅkappo araññavanapatthāni pantāni senāsanāni paṭisevāmi;"
+    },
+    {
+      "id": "mn4:9.4",
+      "pali": "mettacittohamasmi."
+    },
+    {
+      "id": "mn4:9.5",
+      "pali": "Ye hi vo ariyā mettacittā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti."
+    },
+    {
+      "id": "mn4:9.6",
+      "pali": "Etamahaṁ, brāhmaṇa, mettacittataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya."
+    },
+    {
+      "id": "mn4:10.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:10.2",
+      "pali": "‘ye kho keci samaṇā vā brāhmaṇā vā thinamiddhapariyuṭṭhitā araññavanapatthāni pantāni senāsanāni paṭisevanti, thinamiddhapariyuṭṭhānasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti."
+    },
+    {
+      "id": "mn4:10.3",
+      "pali": "Na kho panāhaṁ thinamiddhapariyuṭṭhito araññavanapatthāni pantāni senāsanāni paṭisevāmi;"
+    },
+    {
+      "id": "mn4:10.4",
+      "pali": "vigatathinamiddhohamasmi."
+    },
+    {
+      "id": "mn4:10.5",
+      "pali": "Ye hi vo ariyā vigatathinamiddhā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti."
+    },
+    {
+      "id": "mn4:10.6",
+      "pali": "Etamahaṁ, brāhmaṇa, vigatathinamiddhataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya."
+    },
+    {
+      "id": "mn4:11.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:11.2",
+      "pali": "‘ye kho keci samaṇā vā brāhmaṇā vā uddhatā avūpasantacittā araññavanapatthāni pantāni senāsanāni paṭisevanti, uddhataavūpasantacittasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti."
+    },
+    {
+      "id": "mn4:11.3",
+      "pali": "Na kho panāhaṁ uddhato avūpasantacitto araññavanapatthāni pantāni senāsanāni paṭisevāmi;"
+    },
+    {
+      "id": "mn4:11.4",
+      "pali": "vūpasantacittohamasmi."
+    },
+    {
+      "id": "mn4:11.5",
+      "pali": "Ye hi vo ariyā vūpasantacittā araññavanapatthāni pantāni senāsanāni paṭisevanti, tesamahaṁ aññataro’ti."
+    },
+    {
+      "id": "mn4:11.6",
+      "pali": "Etamahaṁ, brāhmaṇa, vūpasantacittataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya."
+    },
+    {
+      "id": "mn4:12.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:12.2",
+      "pali": "‘ye kho keci samaṇā vā brāhmaṇā vā kaṅkhī vicikicchī araññavanapatthāni pantāni senāsanāni paṭisevanti, kaṅkhivicikicchisandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti."
+    },
+    {
+      "id": "mn4:12.3",
+      "pali": "Na kho panāhaṁ kaṅkhī vicikicchī araññavanapatthāni pantāni senāsanāni paṭisevāmi;"
+    },
+    {
+      "id": "mn4:12.4",
+      "pali": "tiṇṇavicikicchohamasmi."
+    },
+    {
+      "id": "mn4:12.5",
+      "pali": "Ye hi vo ariyā tiṇṇavicikicchā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti."
+    },
+    {
+      "id": "mn4:12.6",
+      "pali": "Etamahaṁ, brāhmaṇa, tiṇṇavicikicchataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya."
+    },
+    {
+      "id": "mn4:13.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:13.2",
+      "pali": "‘ye kho keci samaṇā vā brāhmaṇā vā attukkaṁsakā paravambhī araññavanapatthāni pantāni senāsanāni paṭisevanti, attukkaṁsanaparavambhanasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti."
+    },
+    {
+      "id": "mn4:13.3",
+      "pali": "Na kho panāhaṁ attukkaṁsako paravambhī araññavanapatthāni pantāni senāsanāni paṭisevāmi;"
+    },
+    {
+      "id": "mn4:13.4",
+      "pali": "anattukkaṁsako aparavambhīhamasmi."
+    },
+    {
+      "id": "mn4:13.5",
+      "pali": "Ye hi vo ariyā anattukkaṁsakā aparavambhī araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti."
+    },
+    {
+      "id": "mn4:13.6",
+      "pali": "Etamahaṁ, brāhmaṇa, anattukkaṁsakataṁ aparavambhitaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya."
+    },
+    {
+      "id": "mn4:14.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:14.2",
+      "pali": "‘ye kho keci samaṇā vā brāhmaṇā vā chambhī bhīrukajātikā araññavanapatthāni pantāni senāsanāni paṭisevanti, chambhibhīrukajātikasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti."
+    },
+    {
+      "id": "mn4:14.3",
+      "pali": "Na kho panāhaṁ chambhī bhīrukajātiko araññavanapatthāni pantāni senāsanāni paṭisevāmi;"
+    },
+    {
+      "id": "mn4:14.4",
+      "pali": "vigatalomahaṁsohamasmi."
+    },
+    {
+      "id": "mn4:14.5",
+      "pali": "Ye hi vo ariyā vigatalomahaṁsā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti."
+    },
+    {
+      "id": "mn4:14.6",
+      "pali": "Etamahaṁ, brāhmaṇa, vigatalomahaṁsataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya."
+    },
+    {
+      "id": "mn4:15.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:15.2",
+      "pali": "‘ye kho keci samaṇā vā brāhmaṇā vā lābhasakkārasilokaṁ nikāmayamānā araññavanapatthāni pantāni senāsanāni paṭisevanti, lābhasakkārasilokanikāmanasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti."
+    },
+    {
+      "id": "mn4:15.3",
+      "pali": "Na kho panāhaṁ lābhasakkārasilokaṁ nikāmayamāno araññavanapatthāni pantāni senāsanāni paṭisevāmi;"
+    },
+    {
+      "id": "mn4:15.4",
+      "pali": "appicchohamasmi."
+    },
+    {
+      "id": "mn4:15.5",
+      "pali": "Ye hi vo ariyā appicchā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti."
+    },
+    {
+      "id": "mn4:15.6",
+      "pali": "Etamahaṁ, brāhmaṇa, appicchataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya."
+    },
+    {
+      "id": "mn4:16.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:16.2",
+      "pali": "‘ye kho keci samaṇā vā brāhmaṇā vā kusītā hīnavīriyā araññavanapatthāni pantāni senāsanāni paṭisevanti, kusītahīnavīriyasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti."
+    },
+    {
+      "id": "mn4:16.3",
+      "pali": "Na kho panāhaṁ kusīto hīnavīriyo araññavanapatthāni pantāni senāsanāni paṭisevāmi;"
+    },
+    {
+      "id": "mn4:16.4",
+      "pali": "āraddhavīriyohamasmi."
+    },
+    {
+      "id": "mn4:16.5",
+      "pali": "Ye hi vo ariyā āraddhavīriyā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti."
+    },
+    {
+      "id": "mn4:16.6",
+      "pali": "Etamahaṁ, brāhmaṇa, āraddhavīriyataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya."
+    },
+    {
+      "id": "mn4:17.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:17.2",
+      "pali": "‘ye kho keci samaṇā vā brāhmaṇā vā muṭṭhassatī asampajānā araññavanapatthāni pantāni senāsanāni paṭisevanti, muṭṭhassatiasampajānasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti."
+    },
+    {
+      "id": "mn4:17.3",
+      "pali": "Na kho panāhaṁ muṭṭhassati asampajāno araññavanapatthāni pantāni senāsanāni paṭisevāmi;"
+    },
+    {
+      "id": "mn4:17.4",
+      "pali": "upaṭṭhitassatihamasmi."
+    },
+    {
+      "id": "mn4:17.5",
+      "pali": "Ye hi vo ariyā upaṭṭhitassatī araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti."
+    },
+    {
+      "id": "mn4:17.6",
+      "pali": "Etamahaṁ, brāhmaṇa, upaṭṭhitassatitaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya."
+    },
+    {
+      "id": "mn4:18.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:18.2",
+      "pali": "‘ye kho keci samaṇā vā brāhmaṇā vā asamāhitā vibbhantacittā araññavanapatthāni pantāni senāsanāni paṭisevanti, asamāhitavibbhantacittasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti."
+    },
+    {
+      "id": "mn4:18.3",
+      "pali": "Na kho panāhaṁ asamāhito vibbhantacitto araññavanapatthāni pantāni senāsanāni paṭisevāmi;"
+    },
+    {
+      "id": "mn4:18.4",
+      "pali": "samādhisampannohamasmi."
+    },
+    {
+      "id": "mn4:18.5",
+      "pali": "Ye hi vo ariyā samādhisampannā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti."
+    },
+    {
+      "id": "mn4:18.6",
+      "pali": "Etamahaṁ, brāhmaṇa, samādhisampadaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya."
+    },
+    {
+      "id": "mn4:19.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:19.2",
+      "pali": "‘ye kho keci samaṇā vā brāhmaṇā vā duppaññā eḷamūgā araññavanapatthāni pantāni senāsanāni paṭisevanti, duppaññaeḷamūgasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti."
+    },
+    {
+      "id": "mn4:19.3",
+      "pali": "Na kho panāhaṁ duppañño eḷamūgo araññavanapatthāni pantāni senāsanāni paṭisevāmi;"
+    },
+    {
+      "id": "mn4:19.4",
+      "pali": "paññāsampannohamasmi."
+    },
+    {
+      "id": "mn4:19.5",
+      "pali": "Ye hi vo ariyā paññāsampannā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti."
+    },
+    {
+      "id": "mn4:19.6",
+      "pali": "Etamahaṁ, brāhmaṇa, paññāsampadaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya."
+    },
+    {
+      "id": "mn4:19.7",
+      "pali": "Soḷasapariyāyaṁ niṭṭhitaṁ."
+    },
+    {
+      "id": "mn4:20.1",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:20.2",
+      "pali": "‘yannūnāhaṁ yā tā rattiyo abhiññātā abhilakkhitā—"
+    },
+    {
+      "id": "mn4:20.3",
+      "pali": "cātuddasī pañcadasī aṭṭhamī ca pakkhassa—"
+    },
+    {
+      "id": "mn4:20.4",
+      "pali": "tathārūpāsu rattīsu yāni tāni ārāmacetiyāni vanacetiyāni rukkhacetiyāni bhiṁsanakāni salomahaṁsāni tathārūpesu senāsanesu vihareyyaṁ appeva nāmāhaṁ bhayabheravaṁ passeyyan’ti."
+    },
+    {
+      "id": "mn4:20.5",
+      "pali": "So kho ahaṁ, brāhmaṇa, aparena samayena yā tā rattiyo abhiññātā abhilakkhitā—"
+    },
+    {
+      "id": "mn4:20.6",
+      "pali": "cātuddasī pañcadasī aṭṭhamī ca pakkhassa—"
+    },
+    {
+      "id": "mn4:20.7",
+      "pali": "tathārūpāsu rattīsu yāni tāni ārāmacetiyāni vanacetiyāni rukkhacetiyāni bhiṁsanakāni salomahaṁsāni tathārūpesu senāsanesu viharāmi."
+    },
+    {
+      "id": "mn4:20.8",
+      "pali": "Tattha ca me, brāhmaṇa, viharato mago vā āgacchati, moro vā kaṭṭhaṁ pāteti, vāto vā paṇṇakasaṭaṁ ereti;"
+    },
+    {
+      "id": "mn4:20.9",
+      "pali": "tassa mayhaṁ brāhmaṇa etadahosi:"
+    },
+    {
+      "id": "mn4:20.10",
+      "pali": "‘etaṁ nūna taṁ bhayabheravaṁ āgacchatī’ti."
+    },
+    {
+      "id": "mn4:20.11",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, etadahosi:"
+    },
+    {
+      "id": "mn4:20.12",
+      "pali": "‘kiṁ nu kho ahaṁ aññadatthu bhayapaṭikaṅkhī viharāmi?"
+    },
+    {
+      "id": "mn4:20.13",
+      "pali": "Yannūnāhaṁ yathābhūtaṁ yathābhūtassa me taṁ bhayabheravaṁ āgacchati, tathābhūtaṁ tathābhūtova taṁ bhayabheravaṁ paṭivineyyan’ti."
+    },
+    {
+      "id": "mn4:20.14",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, caṅkamantassa taṁ bhayabheravaṁ āgacchati."
+    },
+    {
+      "id": "mn4:20.15",
+      "pali": "So kho ahaṁ, brāhmaṇa, neva tāva tiṭṭhāmi na nisīdāmi na nipajjāmi, yāva caṅkamantova taṁ bhayabheravaṁ paṭivinemi."
+    },
+    {
+      "id": "mn4:20.16",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, ṭhitassa taṁ bhayabheravaṁ āgacchati."
+    },
+    {
+      "id": "mn4:20.17",
+      "pali": "So kho ahaṁ, brāhmaṇa, neva tāva caṅkamāmi na nisīdāmi na nipajjāmi. Yāva ṭhitova taṁ bhayabheravaṁ paṭivinemi."
+    },
+    {
+      "id": "mn4:20.18",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, nisinnassa taṁ bhayabheravaṁ āgacchati."
+    },
+    {
+      "id": "mn4:20.19",
+      "pali": "So kho ahaṁ, brāhmaṇa, neva tāva nipajjāmi na tiṭṭhāmi na caṅkamāmi, yāva nisinnova taṁ bhayabheravaṁ paṭivinemi."
+    },
+    {
+      "id": "mn4:20.20",
+      "pali": "Tassa mayhaṁ, brāhmaṇa, nipannassa taṁ bhayabheravaṁ āgacchati."
+    },
+    {
+      "id": "mn4:20.21",
+      "pali": "So kho ahaṁ, brāhmaṇa, neva tāva nisīdāmi na tiṭṭhāmi na caṅkamāmi, yāva nipannova taṁ bhayabheravaṁ paṭivinemi."
+    },
+    {
+      "id": "mn4:21.1",
+      "pali": "Santi kho pana, brāhmaṇa, eke samaṇabrāhmaṇā rattiṁyeva samānaṁ divāti sañjānanti, divāyeva samānaṁ rattīti sañjānanti."
+    },
+    {
+      "id": "mn4:21.2",
+      "pali": "Idamahaṁ tesaṁ samaṇabrāhmaṇānaṁ sammohavihārasmiṁ vadāmi."
+    },
+    {
+      "id": "mn4:21.3",
+      "pali": "Ahaṁ kho pana, brāhmaṇa, rattiṁyeva samānaṁ rattīti sañjānāmi, divāyeva samānaṁ divāti sañjānāmi."
+    },
+    {
+      "id": "mn4:21.4",
+      "pali": "Yaṁ kho taṁ, brāhmaṇa, sammā vadamāno vadeyya:"
+    },
+    {
+      "id": "mn4:21.5",
+      "pali": "‘asammohadhammo satto loke uppanno bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānan’ti, mameva taṁ sammā vadamāno vadeyya:"
+    },
+    {
+      "id": "mn4:21.6",
+      "pali": "‘asammohadhammo satto loke uppanno bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānan’ti."
+    },
+    {
+      "id": "mn4:22-26.1",
+      "pali": "Āraddhaṁ kho pana me, brāhmaṇa, vīriyaṁ ahosi asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṁ cittaṁ ekaggaṁ."
+    },
+    {
+      "id": "mn4:22-26.2",
+      "pali": "So kho ahaṁ, brāhmaṇa, vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja vihāsiṁ."
+    },
+    {
+      "id": "mn4:22-26.3",
+      "pali": "Vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja vihāsiṁ."
+    },
+    {
+      "id": "mn4:22-26.4",
+      "pali": "Pītiyā ca virāgā upekkhako ca vihāsiṁ, sato ca sampajāno sukhañca kāyena paṭisaṁvedesiṁ; yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja vihāsiṁ."
+    },
+    {
+      "id": "mn4:22-26.5",
+      "pali": "Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja vihāsiṁ."
+    },
+    {
+      "id": "mn4:27.1",
+      "pali": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṁ abhininnāmesiṁ. So anekavihitaṁ pubbenivāsaṁ anussarāmi,"
+    },
+    {
+      "id": "mn4:27.2",
+      "pali": "seyyathidaṁ—ekampi jātiṁ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṁsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi anekepi saṁvaṭṭakappe anekepi vivaṭṭakappe anekepi saṁvaṭṭavivaṭṭakappe: ‘amutrāsiṁ evaṁnāmo evaṅgotto evaṁvaṇṇo evamāhāro evaṁsukhadukkhappaṭisaṁvedī evamāyupariyanto, so tato cuto amutra udapādiṁ; tatrāpāsiṁ evaṁnāmo evaṅgotto evaṁvaṇṇo evamāhāro evaṁsukhadukkhappaṭisaṁvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. Iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarāmi."
+    },
+    {
+      "id": "mn4:28.1",
+      "pali": "Ayaṁ kho me, brāhmaṇa, rattiyā paṭhame yāme paṭhamā vijjā adhigatā,"
+    },
+    {
+      "id": "mn4:28.2",
+      "pali": "avijjā vihatā vijjā uppannā, tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato."
+    },
+    {
+      "id": "mn4:29.1",
+      "pali": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṁ cutūpapātañāṇāya cittaṁ abhininnāmesiṁ."
+    },
+    {
+      "id": "mn4:29.2",
+      "pali": "So dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāmi: ‘ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṁ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā; te kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapannā. Ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṁ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā; te kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapannā’ti. Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāmi."
+    },
+    {
+      "id": "mn4:30.1",
+      "pali": "Ayaṁ kho me, brāhmaṇa, rattiyā majjhime yāme dutiyā vijjā adhigatā,"
+    },
+    {
+      "id": "mn4:30.2",
+      "pali": "avijjā vihatā vijjā uppannā, tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato."
+    },
+    {
+      "id": "mn4:31.1",
+      "pali": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṁ khayañāṇāya cittaṁ abhininnāmesiṁ."
+    },
+    {
+      "id": "mn4:31.2",
+      "pali": "So ‘idaṁ dukkhan’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ abbhaññāsiṁ."
+    },
+    {
+      "id": "mn4:31.3",
+      "pali": "‘Ime āsavā’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ āsavasamudayo’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ āsavanirodho’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ āsavanirodhagāminī paṭipadā’ti yathābhūtaṁ abbhaññāsiṁ."
+    },
+    {
+      "id": "mn4:32.1",
+      "pali": "Tassa me evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccittha, bhavāsavāpi cittaṁ vimuccittha, avijjāsavāpi cittaṁ vimuccittha."
+    },
+    {
+      "id": "mn4:32.2",
+      "pali": "Vimuttasmiṁ vimuttamiti ñāṇaṁ ahosi."
+    },
+    {
+      "id": "mn4:32.3",
+      "pali": "‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti abbhaññāsiṁ."
+    },
+    {
+      "id": "mn4:33.1",
+      "pali": "Ayaṁ kho me, brāhmaṇa, rattiyā pacchime yāme tatiyā vijjā adhigatā,"
+    },
+    {
+      "id": "mn4:33.2",
+      "pali": "avijjā vihatā vijjā uppannā, tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato."
+    },
+    {
+      "id": "mn4:34.1",
+      "pali": "Siyā kho pana te, brāhmaṇa, evamassa:"
+    },
+    {
+      "id": "mn4:34.2",
+      "pali": "‘ajjāpi nūna samaṇo gotamo avītarāgo avītadoso avītamoho, tasmā araññavanapatthāni pantāni senāsanāni paṭisevatī’ti."
+    },
+    {
+      "id": "mn4:34.3",
+      "pali": "Na kho panetaṁ, brāhmaṇa, evaṁ daṭṭhabbaṁ."
+    },
+    {
+      "id": "mn4:34.4",
+      "pali": "Dve kho ahaṁ, brāhmaṇa, atthavase sampassamāno araññavanapatthāni pantāni senāsanāni paṭisevāmi—"
+    },
+    {
+      "id": "mn4:34.5",
+      "pali": "attano ca diṭṭhadhammasukhavihāraṁ sampassamāno, pacchimañca janataṁ anukampamāno”ti."
+    },
+    {
+      "id": "mn4:35.1",
+      "pali": "“Anukampitarūpā vatāyaṁ bhotā gotamena pacchimā janatā, yathā taṁ arahatā sammāsambuddhena."
+    },
+    {
+      "id": "mn4:35.2",
+      "pali": "Abhikkantaṁ, bho gotama. Abhikkantaṁ, bho gotama."
+    },
+    {
+      "id": "mn4:35.3",
+      "pali": "Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito."
+    },
+    {
+      "id": "mn4:35.4",
+      "pali": "Esāhaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "mn4:35.5",
+      "pali": "Upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti."
+    },
+    {
+      "id": "mn4:35.6",
+      "pali": "Bhayabheravasuttaṁ niṭṭhitaṁ catutthaṁ."
+    }
+  ]
+}

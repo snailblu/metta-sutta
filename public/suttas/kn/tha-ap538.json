@@ -1,0 +1,691 @@
+{
+  "uid": "tha-ap538",
+  "title": "Bāhiyattheraapadāna",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "tha-ap538:1.1",
+      "pali": "“Ito satasahassamhi,"
+    },
+    {
+      "id": "tha-ap538:1.2",
+      "pali": "kappe uppajji nāyako;"
+    },
+    {
+      "id": "tha-ap538:1.3",
+      "pali": "Mahappabho tilokaggo,"
+    },
+    {
+      "id": "tha-ap538:1.4",
+      "pali": "nāmena padumuttaro."
+    },
+    {
+      "id": "tha-ap538:2.1",
+      "pali": "Khippābhiññassa bhikkhussa,"
+    },
+    {
+      "id": "tha-ap538:2.2",
+      "pali": "guṇaṁ kittayato mune;"
+    },
+    {
+      "id": "tha-ap538:2.3",
+      "pali": "Sutvā udaggacittohaṁ,"
+    },
+    {
+      "id": "tha-ap538:2.4",
+      "pali": "kāraṁ katvā mahesino."
+    },
+    {
+      "id": "tha-ap538:3.1",
+      "pali": "Datvā sattāhikaṁ dānaṁ,"
+    },
+    {
+      "id": "tha-ap538:3.2",
+      "pali": "sasissassa mune ahaṁ;"
+    },
+    {
+      "id": "tha-ap538:3.3",
+      "pali": "Abhivādiya sambuddhaṁ,"
+    },
+    {
+      "id": "tha-ap538:3.4",
+      "pali": "taṁ ṭhānaṁ patthayiṁ tadā."
+    },
+    {
+      "id": "tha-ap538:4.1",
+      "pali": "Tato maṁ byākari buddho,"
+    },
+    {
+      "id": "tha-ap538:4.2",
+      "pali": "‘etaṁ passatha brāhmaṇaṁ;"
+    },
+    {
+      "id": "tha-ap538:4.3",
+      "pali": "Patitaṁ pādamūle me,"
+    },
+    {
+      "id": "tha-ap538:4.4",
+      "pali": "cariyaṁ paccavekkhaṇaṁ."
+    },
+    {
+      "id": "tha-ap538:5.1",
+      "pali": "Hemayaññopacitaṅgaṁ,"
+    },
+    {
+      "id": "tha-ap538:5.2",
+      "pali": "avadātatanuttacaṁ;"
+    },
+    {
+      "id": "tha-ap538:5.3",
+      "pali": "Palambabimbatamboṭṭhaṁ,"
+    },
+    {
+      "id": "tha-ap538:5.4",
+      "pali": "setatiṇhasamaṁ dijaṁ."
+    },
+    {
+      "id": "tha-ap538:6.1",
+      "pali": "Guṇathāmabahutaraṁ,"
+    },
+    {
+      "id": "tha-ap538:6.2",
+      "pali": "samuggatatanūruhaṁ;"
+    },
+    {
+      "id": "tha-ap538:6.3",
+      "pali": "Guṇoghāyatanībhūtaṁ,"
+    },
+    {
+      "id": "tha-ap538:6.4",
+      "pali": "pītisamphullitānanaṁ."
+    },
+    {
+      "id": "tha-ap538:7.1",
+      "pali": "Eso patthayate ṭhānaṁ,"
+    },
+    {
+      "id": "tha-ap538:7.2",
+      "pali": "khippābhiññassa bhikkhuno;"
+    },
+    {
+      "id": "tha-ap538:7.3",
+      "pali": "Anāgate mahāvīro,"
+    },
+    {
+      "id": "tha-ap538:7.4",
+      "pali": "gotamo nāma hessati."
+    },
+    {
+      "id": "tha-ap538:8.1",
+      "pali": "Tassa dhammesu dāyādo,"
+    },
+    {
+      "id": "tha-ap538:8.2",
+      "pali": "oraso dhammanimmito;"
+    },
+    {
+      "id": "tha-ap538:8.3",
+      "pali": "Bāhiyo nāma nāmena,"
+    },
+    {
+      "id": "tha-ap538:8.4",
+      "pali": "hessati satthu sāvako’."
+    },
+    {
+      "id": "tha-ap538:9.1",
+      "pali": "Tadā hi tuṭṭho vuṭṭhāya,"
+    },
+    {
+      "id": "tha-ap538:9.2",
+      "pali": "yāvajīvaṁ mahāmune;"
+    },
+    {
+      "id": "tha-ap538:9.3",
+      "pali": "Kāraṁ katvā cuto saggaṁ,"
+    },
+    {
+      "id": "tha-ap538:9.4",
+      "pali": "agaṁ sabhavanaṁ yathā."
+    },
+    {
+      "id": "tha-ap538:10.1",
+      "pali": "Devabhūto manusso vā,"
+    },
+    {
+      "id": "tha-ap538:10.2",
+      "pali": "sukhito tassa kammuno;"
+    },
+    {
+      "id": "tha-ap538:10.3",
+      "pali": "Vāhasā saṁsaritvāna,"
+    },
+    {
+      "id": "tha-ap538:10.4",
+      "pali": "sampattimanubhomahaṁ."
+    },
+    {
+      "id": "tha-ap538:11.1",
+      "pali": "Puna kassapavīrassa,"
+    },
+    {
+      "id": "tha-ap538:11.2",
+      "pali": "atthamentamhi sāsane;"
+    },
+    {
+      "id": "tha-ap538:11.3",
+      "pali": "Āruyha selasikharaṁ,"
+    },
+    {
+      "id": "tha-ap538:11.4",
+      "pali": "yuñjitvā jinasāsanaṁ."
+    },
+    {
+      "id": "tha-ap538:12.1",
+      "pali": "Visuddhasīlo sappañño,"
+    },
+    {
+      "id": "tha-ap538:12.2",
+      "pali": "jinasāsanakārako;"
+    },
+    {
+      "id": "tha-ap538:12.3",
+      "pali": "Tato cutā pañca janā,"
+    },
+    {
+      "id": "tha-ap538:12.4",
+      "pali": "devalokaṁ agamhase."
+    },
+    {
+      "id": "tha-ap538:13.1",
+      "pali": "Tatohaṁ bāhiyo jāto,"
+    },
+    {
+      "id": "tha-ap538:13.2",
+      "pali": "bhārukacche puruttame;"
+    },
+    {
+      "id": "tha-ap538:13.3",
+      "pali": "Tato nāvāya pakkhando,"
+    },
+    {
+      "id": "tha-ap538:13.4",
+      "pali": "sāgaraṁ appasiddhiyaṁ."
+    },
+    {
+      "id": "tha-ap538:14.1",
+      "pali": "Tato nāvā abhijjittha,"
+    },
+    {
+      "id": "tha-ap538:14.2",
+      "pali": "gantvāna katipāhakaṁ;"
+    },
+    {
+      "id": "tha-ap538:14.3",
+      "pali": "Tadā bhīsanake ghore,"
+    },
+    {
+      "id": "tha-ap538:14.4",
+      "pali": "patito makarākare."
+    },
+    {
+      "id": "tha-ap538:15.1",
+      "pali": "Tadāhaṁ vāyamitvāna,"
+    },
+    {
+      "id": "tha-ap538:15.2",
+      "pali": "santaritvā mahodadhiṁ;"
+    },
+    {
+      "id": "tha-ap538:15.3",
+      "pali": "Suppārapaṭṭanavaraṁ,"
+    },
+    {
+      "id": "tha-ap538:15.4",
+      "pali": "sampatto mandavedhito."
+    },
+    {
+      "id": "tha-ap538:16.1",
+      "pali": "Dārucīraṁ nivāsetvā,"
+    },
+    {
+      "id": "tha-ap538:16.2",
+      "pali": "gāmaṁ piṇḍāya pāvisiṁ;"
+    },
+    {
+      "id": "tha-ap538:16.3",
+      "pali": "Tadāha so jano tuṭṭho,"
+    },
+    {
+      "id": "tha-ap538:16.4",
+      "pali": "‘arahāyamidhāgato."
+    },
+    {
+      "id": "tha-ap538:17.1",
+      "pali": "Imaṁ annena pānena,"
+    },
+    {
+      "id": "tha-ap538:17.2",
+      "pali": "vatthena sayanena ca;"
+    },
+    {
+      "id": "tha-ap538:17.3",
+      "pali": "Bhesajjena ca sakkatvā,"
+    },
+    {
+      "id": "tha-ap538:17.4",
+      "pali": "hessāma sukhitā mayaṁ’."
+    },
+    {
+      "id": "tha-ap538:18.1",
+      "pali": "Paccayānaṁ tadā lābhī,"
+    },
+    {
+      "id": "tha-ap538:18.2",
+      "pali": "tehi sakkatapūjito;"
+    },
+    {
+      "id": "tha-ap538:18.3",
+      "pali": "Arahāhanti saṅkappaṁ,"
+    },
+    {
+      "id": "tha-ap538:18.4",
+      "pali": "uppādesiṁ ayoniso."
+    },
+    {
+      "id": "tha-ap538:19.1",
+      "pali": "Tato me cittamaññāya,"
+    },
+    {
+      "id": "tha-ap538:19.2",
+      "pali": "codayī pubbadevatā;"
+    },
+    {
+      "id": "tha-ap538:19.3",
+      "pali": "‘Na tvaṁ upāyamaggaññū,"
+    },
+    {
+      "id": "tha-ap538:19.4",
+      "pali": "kuto tvaṁ arahā bhave’."
+    },
+    {
+      "id": "tha-ap538:20.1",
+      "pali": "Codito tāya saṁviggo,"
+    },
+    {
+      "id": "tha-ap538:20.2",
+      "pali": "tadāhaṁ paripucchi taṁ;"
+    },
+    {
+      "id": "tha-ap538:20.3",
+      "pali": "‘Ke vā ete kuhiṁ loke,"
+    },
+    {
+      "id": "tha-ap538:20.4",
+      "pali": "arahanto naruttamā’."
+    },
+    {
+      "id": "tha-ap538:21.1",
+      "pali": "‘Sāvatthiyaṁ kosalamandire jino,"
+    },
+    {
+      "id": "tha-ap538:21.2",
+      "pali": "Pahūtapañño varabhūrimedhaso;"
+    },
+    {
+      "id": "tha-ap538:21.3",
+      "pali": "So sakyaputto arahā anāsavo,"
+    },
+    {
+      "id": "tha-ap538:21.4",
+      "pali": "Deseti dhammaṁ arahattapattiyā’."
+    },
+    {
+      "id": "tha-ap538:22.1",
+      "pali": "Tadassa sutvā vacanaṁ supīṇito,"
+    },
+    {
+      "id": "tha-ap538:22.2",
+      "pali": "Nidhiṁva laddhā kapaṇoti vimhito;"
+    },
+    {
+      "id": "tha-ap538:22.3",
+      "pali": "Udaggacitto arahattamuttamaṁ,"
+    },
+    {
+      "id": "tha-ap538:22.4",
+      "pali": "Sudassanaṁ daṭṭhumanantagocaraṁ."
+    },
+    {
+      "id": "tha-ap538:23.1",
+      "pali": "Tadā tato nikkhamitvāna ‘satthuno,"
+    },
+    {
+      "id": "tha-ap538:23.2",
+      "pali": "Sadā jinaṁ passāmi vimalānanaṁ’;"
+    },
+    {
+      "id": "tha-ap538:23.3",
+      "pali": "Upecca rammaṁ vijitavhayaṁ vanaṁ,"
+    },
+    {
+      "id": "tha-ap538:23.4",
+      "pali": "Dije apucchiṁ ‘kuhiṁ lokanandano’."
+    },
+    {
+      "id": "tha-ap538:24.1",
+      "pali": "‘Tato avocuṁ naradevavandito,"
+    },
+    {
+      "id": "tha-ap538:24.2",
+      "pali": "Puraṁ paviṭṭho asanesanāya so;"
+    },
+    {
+      "id": "tha-ap538:24.3",
+      "pali": "Sasova khippaṁ munidassanussuko,"
+    },
+    {
+      "id": "tha-ap538:24.4",
+      "pali": "Upecca vandāhi tamaggapuggalaṁ’."
+    },
+    {
+      "id": "tha-ap538:25.1",
+      "pali": "Tatohaṁ tuvaṭaṁ gantvā,"
+    },
+    {
+      "id": "tha-ap538:25.2",
+      "pali": "sāvatthiṁ puramuttamaṁ;"
+    },
+    {
+      "id": "tha-ap538:25.3",
+      "pali": "Vicarantaṁ tamaddakkhiṁ,"
+    },
+    {
+      "id": "tha-ap538:25.4",
+      "pali": "piṇḍatthaṁ apihāgidhaṁ."
+    },
+    {
+      "id": "tha-ap538:26.1",
+      "pali": "Pattapāṇiṁ alolakkhaṁ,"
+    },
+    {
+      "id": "tha-ap538:26.2",
+      "pali": "pācayantaṁ pītākaraṁ;"
+    },
+    {
+      "id": "tha-ap538:26.3",
+      "pali": "Sirīnilayasaṅkāsaṁ,"
+    },
+    {
+      "id": "tha-ap538:26.4",
+      "pali": "ravidittiharānanaṁ."
+    },
+    {
+      "id": "tha-ap538:27.1",
+      "pali": "Taṁ samecca nipaccāhaṁ,"
+    },
+    {
+      "id": "tha-ap538:27.2",
+      "pali": "idaṁ vacanamabraviṁ;"
+    },
+    {
+      "id": "tha-ap538:27.3",
+      "pali": "‘Kupathe vippanaṭṭhassa,"
+    },
+    {
+      "id": "tha-ap538:27.4",
+      "pali": "saraṇaṁ hohi gotama’."
+    },
+    {
+      "id": "tha-ap538:28.1",
+      "pali": "‘Pāṇasantāraṇatthāya,"
+    },
+    {
+      "id": "tha-ap538:28.2",
+      "pali": "piṇḍāya vicarāmahaṁ;"
+    },
+    {
+      "id": "tha-ap538:28.3",
+      "pali": "Na te dhammakathākālo’,"
+    },
+    {
+      "id": "tha-ap538:28.4",
+      "pali": "iccāha munisattamo."
+    },
+    {
+      "id": "tha-ap538:29.1",
+      "pali": "Tadā punappunaṁ buddhaṁ,"
+    },
+    {
+      "id": "tha-ap538:29.2",
+      "pali": "āyāciṁ dhammalālaso;"
+    },
+    {
+      "id": "tha-ap538:29.3",
+      "pali": "Yo me dhammamadesesi,"
+    },
+    {
+      "id": "tha-ap538:29.4",
+      "pali": "gambhīraṁ suññataṁ padaṁ."
+    },
+    {
+      "id": "tha-ap538:30.1",
+      "pali": "Tassa dhammaṁ suṇitvāna,"
+    },
+    {
+      "id": "tha-ap538:30.2",
+      "pali": "pāpuṇiṁ āsavakkhayaṁ;"
+    },
+    {
+      "id": "tha-ap538:30.3",
+      "pali": "Parikkhīṇāyuko santo,"
+    },
+    {
+      "id": "tha-ap538:30.4",
+      "pali": "aho satthānukampako."
+    },
+    {
+      "id": "tha-ap538:31.1",
+      "pali": "Kilesā jhāpitā mayhaṁ,"
+    },
+    {
+      "id": "tha-ap538:31.2",
+      "pali": "…pe…"
+    },
+    {
+      "id": "tha-ap538:31.3",
+      "pali": "viharāmi anāsavo."
+    },
+    {
+      "id": "tha-ap538:32.1",
+      "pali": "Svāgataṁ vata me āsi,"
+    },
+    {
+      "id": "tha-ap538:32.2",
+      "pali": "…pe…"
+    },
+    {
+      "id": "tha-ap538:32.3",
+      "pali": "kataṁ buddhassa sāsanaṁ."
+    },
+    {
+      "id": "tha-ap538:33.1",
+      "pali": "Paṭisambhidā catasso,"
+    },
+    {
+      "id": "tha-ap538:33.2",
+      "pali": "…pe…"
+    },
+    {
+      "id": "tha-ap538:33.3",
+      "pali": "kataṁ buddhassa sāsanaṁ."
+    },
+    {
+      "id": "tha-ap538:34.1",
+      "pali": "Evaṁ thero viyākāsi,"
+    },
+    {
+      "id": "tha-ap538:34.2",
+      "pali": "bāhiyo dārucīriyo;"
+    },
+    {
+      "id": "tha-ap538:34.3",
+      "pali": "Saṅkārakūṭe patito,"
+    },
+    {
+      "id": "tha-ap538:34.4",
+      "pali": "bhūtāviṭṭhāya gāviyā."
+    },
+    {
+      "id": "tha-ap538:35.1",
+      "pali": "Attano pubbacariyaṁ,"
+    },
+    {
+      "id": "tha-ap538:35.2",
+      "pali": "kittayitvā mahāmati;"
+    },
+    {
+      "id": "tha-ap538:35.3",
+      "pali": "Parinibbāyi so thero,"
+    },
+    {
+      "id": "tha-ap538:35.4",
+      "pali": "sāvatthiyaṁ puruttame."
+    },
+    {
+      "id": "tha-ap538:36.1",
+      "pali": "Nagarā nikkhamanto taṁ,"
+    },
+    {
+      "id": "tha-ap538:36.2",
+      "pali": "disvāna isisattamo;"
+    },
+    {
+      "id": "tha-ap538:36.3",
+      "pali": "Dārucīradharaṁ dhīraṁ,"
+    },
+    {
+      "id": "tha-ap538:36.4",
+      "pali": "bāhiyaṁ bāhitāgamaṁ."
+    },
+    {
+      "id": "tha-ap538:37.1",
+      "pali": "Bhūmiyaṁ patitaṁ dantaṁ,"
+    },
+    {
+      "id": "tha-ap538:37.2",
+      "pali": "indaketūva pātitaṁ;"
+    },
+    {
+      "id": "tha-ap538:37.3",
+      "pali": "Gatāyuṁ sukkhakilesaṁ,"
+    },
+    {
+      "id": "tha-ap538:37.4",
+      "pali": "jinasāsanakārakaṁ."
+    },
+    {
+      "id": "tha-ap538:38.1",
+      "pali": "Tato āmantayī satthā,"
+    },
+    {
+      "id": "tha-ap538:38.2",
+      "pali": "sāvake sāsane rate;"
+    },
+    {
+      "id": "tha-ap538:38.3",
+      "pali": "‘Gaṇhatha netvā jhāpetha,"
+    },
+    {
+      "id": "tha-ap538:38.4",
+      "pali": "tanuṁ sabrahmacārino."
+    },
+    {
+      "id": "tha-ap538:39.1",
+      "pali": "Thūpaṁ karotha pūjetha,"
+    },
+    {
+      "id": "tha-ap538:39.2",
+      "pali": "nibbuto so mahāmati;"
+    },
+    {
+      "id": "tha-ap538:39.3",
+      "pali": "Khippābhiññānamesaggo,"
+    },
+    {
+      "id": "tha-ap538:39.4",
+      "pali": "sāvako me vacokaro."
+    },
+    {
+      "id": "tha-ap538:40.1",
+      "pali": "Sahassamapi ce gāthā,"
+    },
+    {
+      "id": "tha-ap538:40.2",
+      "pali": "anatthapadasañhitā;"
+    },
+    {
+      "id": "tha-ap538:40.3",
+      "pali": "Ekaṁ gāthāpadaṁ seyyo,"
+    },
+    {
+      "id": "tha-ap538:40.4",
+      "pali": "yaṁ sutvā upasammati."
+    },
+    {
+      "id": "tha-ap538:41.1",
+      "pali": "Yattha āpo ca pathavī,"
+    },
+    {
+      "id": "tha-ap538:41.2",
+      "pali": "tejo vāyo na gādhati;"
+    },
+    {
+      "id": "tha-ap538:41.3",
+      "pali": "Na tattha sukkā jotanti,"
+    },
+    {
+      "id": "tha-ap538:41.4",
+      "pali": "ādicco na pakāsati."
+    },
+    {
+      "id": "tha-ap538:42.1",
+      "pali": "Na tattha candimā bhāti,"
+    },
+    {
+      "id": "tha-ap538:42.2",
+      "pali": "tamo tattha na vijjati;"
+    },
+    {
+      "id": "tha-ap538:42.3",
+      "pali": "Yadā ca attanā vedi,"
+    },
+    {
+      "id": "tha-ap538:42.4",
+      "pali": "munimonena brāhmaṇo."
+    },
+    {
+      "id": "tha-ap538:43.1",
+      "pali": "Atha rūpā arūpā ca,"
+    },
+    {
+      "id": "tha-ap538:43.2",
+      "pali": "sukhadukkhā vimuccati’;"
+    },
+    {
+      "id": "tha-ap538:43.3",
+      "pali": "Iccevaṁ abhaṇī nātho,"
+    },
+    {
+      "id": "tha-ap538:43.4",
+      "pali": "tilokasaraṇo muni”."
+    },
+    {
+      "id": "tha-ap538:44.1",
+      "pali": "Itthaṁ sudaṁ āyasmā bāhiyo thero imā gāthāyo abhāsitthāti."
+    },
+    {
+      "id": "tha-ap538:45.1",
+      "pali": "Bāhiyattherassāpadānaṁ chaṭṭhaṁ."
+    }
+  ]
+}

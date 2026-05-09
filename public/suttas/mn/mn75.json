@@ -1,0 +1,1051 @@
+{
+  "uid": "mn75",
+  "title": "Māgaṇḍiyasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn75:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn75:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā kurūsu viharati kammāsadhammaṁ nāma kurūnaṁ nigamo, bhāradvājagottassa brāhmaṇassa agyāgāre tiṇasanthārake."
+    },
+    {
+      "id": "mn75:2.1",
+      "pali": "Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya kammāsadhammaṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "mn75:2.2",
+      "pali": "Kammāsadhammaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena aññataro vanasaṇḍo tenupasaṅkami divāvihārāya."
+    },
+    {
+      "id": "mn75:2.3",
+      "pali": "Taṁ vanasaṇḍaṁ ajjhogāhetvā aññatarasmiṁ rukkhamūle divāvihāraṁ nisīdi."
+    },
+    {
+      "id": "mn75:3.1",
+      "pali": "Atha kho māgaṇḍiyo paribbājako jaṅghāvihāraṁ anucaṅkamamāno anuvicaramāno yena bhāradvājagottassa brāhmaṇassa agyāgāraṁ tenupasaṅkami."
+    },
+    {
+      "id": "mn75:3.2",
+      "pali": "Addasā kho māgaṇḍiyo paribbājako bhāradvājagottassa brāhmaṇassa agyāgāre tiṇasanthārakaṁ paññattaṁ."
+    },
+    {
+      "id": "mn75:3.3",
+      "pali": "Disvāna bhāradvājagottaṁ brāhmaṇaṁ etadavoca:"
+    },
+    {
+      "id": "mn75:3.4",
+      "pali": "“kassa nvayaṁ bhoto bhāradvājassa agyāgāre tiṇasanthārako paññatto, samaṇaseyyānurūpaṁ maññe”ti?"
+    },
+    {
+      "id": "mn75:4.1",
+      "pali": "“Atthi, bho māgaṇḍiya, samaṇo gotamo sakyaputto sakyakulā pabbajito."
+    },
+    {
+      "id": "mn75:4.2",
+      "pali": "Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato:"
+    },
+    {
+      "id": "mn75:4.3",
+      "pali": "‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti."
+    },
+    {
+      "id": "mn75:4.4",
+      "pali": "Tassesā bhoto gotamassa seyyā paññattā”ti."
+    },
+    {
+      "id": "mn75:5.1",
+      "pali": "“Duddiṭṭhaṁ vata, bho bhāradvāja, addasāma;"
+    },
+    {
+      "id": "mn75:5.2",
+      "pali": "duddiṭṭhaṁ vata, bho bhāradvāja, addasāma."
+    },
+    {
+      "id": "mn75:5.3",
+      "pali": "Ye mayaṁ tassa bhoto gotamassa bhūnahuno seyyaṁ addasāmā”ti."
+    },
+    {
+      "id": "mn75:5.4",
+      "pali": "“Rakkhassetaṁ, māgaṇḍiya, vācaṁ;"
+    },
+    {
+      "id": "mn75:5.5",
+      "pali": "rakkhassetaṁ, māgaṇḍiya, vācaṁ."
+    },
+    {
+      "id": "mn75:5.6",
+      "pali": "Bahū hi tassa bhoto gotamassa khattiyapaṇḍitāpi brāhmaṇapaṇḍitāpi gahapatipaṇḍitāpi samaṇapaṇḍitāpi abhippasannā vinītā ariye ñāye dhamme kusale”ti."
+    },
+    {
+      "id": "mn75:5.7",
+      "pali": "“Sammukhā cepi mayaṁ, bho bhāradvāja, taṁ bhavantaṁ gotamaṁ passeyyāma, sammukhāpi naṁ vadeyyāma:"
+    },
+    {
+      "id": "mn75:5.8",
+      "pali": "‘bhūnahu samaṇo gotamo’ti."
+    },
+    {
+      "id": "mn75:5.9",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn75:5.10",
+      "pali": "Evañhi no sutte ocaratī”ti."
+    },
+    {
+      "id": "mn75:5.11",
+      "pali": "“Sace taṁ bhoto māgaṇḍiyassa agaru āroceyyāmi taṁ samaṇassa gotamassā”ti."
+    },
+    {
+      "id": "mn75:5.12",
+      "pali": "“Appossukko bhavaṁ bhāradvājo vuttova naṁ vadeyyā”ti."
+    },
+    {
+      "id": "mn75:6.1",
+      "pali": "Assosi kho bhagavā dibbāya sotadhātuyā visuddhāya atikkantamānusikāya bhāradvājagottassa brāhmaṇassa māgaṇḍiyena paribbājakena saddhiṁ imaṁ kathāsallāpaṁ."
+    },
+    {
+      "id": "mn75:6.2",
+      "pali": "Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito yena bhāradvājagottassa brāhmaṇassa agyāgāraṁ tenupasaṅkami; upasaṅkamitvā nisīdi bhagavā paññatte tiṇasanthārake."
+    },
+    {
+      "id": "mn75:6.3",
+      "pali": "Atha kho bhāradvājagotto brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn75:6.4",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho bhāradvājagottaṁ brāhmaṇaṁ bhagavā etadavoca:"
+    },
+    {
+      "id": "mn75:6.5",
+      "pali": "“ahu pana te, bhāradvāja, māgaṇḍiyena paribbājakena saddhiṁ imaṁyeva tiṇasanthārakaṁ ārabbha kocideva kathāsallāpo”ti?"
+    },
+    {
+      "id": "mn75:6.6",
+      "pali": "Evaṁ vutte, bhāradvājagotto brāhmaṇo saṁviggo lomahaṭṭhajāto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn75:6.7",
+      "pali": "“etadeva kho pana mayaṁ bhoto gotamassa ārocetukāmā."
+    },
+    {
+      "id": "mn75:6.8",
+      "pali": "Atha ca pana bhavaṁ gotamo anakkhātaṁyeva akkhāsī”ti."
+    },
+    {
+      "id": "mn75:7.1",
+      "pali": "Ayañca hi bhagavato bhāradvājagottena brāhmaṇena saddhiṁ antarākathā vippakatā hoti."
+    },
+    {
+      "id": "mn75:7.2",
+      "pali": "Atha kho māgaṇḍiyo paribbājako jaṅghāvihāraṁ anucaṅkamamāno anuvicaramāno yena bhāradvājagottassa brāhmaṇassa agyāgāraṁ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn75:7.3",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho māgaṇḍiyaṁ paribbājakaṁ bhagavā etadavoca:"
+    },
+    {
+      "id": "mn75:8.1",
+      "pali": "“Cakkhuṁ kho, māgaṇḍiya, rūpārāmaṁ rūparataṁ rūpasammuditaṁ."
+    },
+    {
+      "id": "mn75:8.2",
+      "pali": "Taṁ tathāgatassa dantaṁ guttaṁ rakkhitaṁ saṁvutaṁ, tassa ca saṁvarāya dhammaṁ deseti."
+    },
+    {
+      "id": "mn75:8.3",
+      "pali": "Idaṁ nu te etaṁ, māgaṇḍiya, sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn75:8.4",
+      "pali": "‘bhūnahu samaṇo gotamo’”ti?"
+    },
+    {
+      "id": "mn75:8.5",
+      "pali": "“Etadeva kho pana me, bho gotama, sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn75:8.6",
+      "pali": "‘bhūnahu samaṇo gotamo’ti."
+    },
+    {
+      "id": "mn75:8.7",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn75:8.8",
+      "pali": "Evañhi no sutte ocaratī”ti."
+    },
+    {
+      "id": "mn75:8.9",
+      "pali": "“Sotaṁ kho, māgaṇḍiya, saddārāmaṁ …pe…"
+    },
+    {
+      "id": "mn75:8.10",
+      "pali": "ghānaṁ kho, māgaṇḍiya gandhārāmaṁ …"
+    },
+    {
+      "id": "mn75:8.11",
+      "pali": "jivhā kho, māgaṇḍiya, rasārāmā rasaratā rasasammuditā."
+    },
+    {
+      "id": "mn75:8.12",
+      "pali": "Sā tathāgatassa dantā guttā rakkhitā saṁvutā, tassā ca saṁvarāya dhammaṁ deseti."
+    },
+    {
+      "id": "mn75:8.13",
+      "pali": "Idaṁ nu te etaṁ, māgaṇḍiya, sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn75:8.14",
+      "pali": "‘bhūnahu samaṇo gotamo’”ti?"
+    },
+    {
+      "id": "mn75:8.15",
+      "pali": "“Etadeva kho pana me, bho gotama, sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn75:8.16",
+      "pali": "‘bhūnahu samaṇo gotamo’ti."
+    },
+    {
+      "id": "mn75:8.17",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn75:8.18",
+      "pali": "Evañhi no sutte ocaratī”ti."
+    },
+    {
+      "id": "mn75:8.19",
+      "pali": "“Kāyo kho, māgaṇḍiya, phoṭṭhabbārāmo phoṭṭhabbarato …pe…"
+    },
+    {
+      "id": "mn75:8.20",
+      "pali": "mano kho, māgaṇḍiya, dhammārāmo dhammarato dhammasammudito."
+    },
+    {
+      "id": "mn75:8.21",
+      "pali": "So tathāgatassa danto gutto rakkhito saṁvuto, tassa ca saṁvarāya dhammaṁ deseti."
+    },
+    {
+      "id": "mn75:8.22",
+      "pali": "Idaṁ nu te etaṁ, māgaṇḍiya, sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn75:8.23",
+      "pali": "‘bhūnahu samaṇo gotamo’”ti?"
+    },
+    {
+      "id": "mn75:8.24",
+      "pali": "“Etadeva kho pana me, bho gotama, sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn75:8.25",
+      "pali": "‘bhūnahu samaṇo gotamo’ti."
+    },
+    {
+      "id": "mn75:8.26",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn75:8.27",
+      "pali": "Evañhi no sutte ocaratī”ti."
+    },
+    {
+      "id": "mn75:9.1",
+      "pali": "“Taṁ kiṁ maññasi, māgaṇḍiya:"
+    },
+    {
+      "id": "mn75:9.2",
+      "pali": "‘idhekacco cakkhuviññeyyehi rūpehi paricāritapubbo assa iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṁhitehi rajanīyehi, so aparena samayena rūpānaṁyeva samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā rūpataṇhaṁ pahāya rūpapariḷāhaṁ paṭivinodetvā vigatapipāso ajjhattaṁ vūpasantacitto vihareyya."
+    },
+    {
+      "id": "mn75:9.3",
+      "pali": "Imassa pana te, māgaṇḍiya, kimassa vacanīyan’”ti?"
+    },
+    {
+      "id": "mn75:9.4",
+      "pali": "“Na kiñci, bho gotama”."
+    },
+    {
+      "id": "mn75:9.5",
+      "pali": "“Taṁ kiṁ maññasi, māgaṇḍiya:"
+    },
+    {
+      "id": "mn75:9.6",
+      "pali": "‘idhekacco sotaviññeyyehi saddehi …pe…"
+    },
+    {
+      "id": "mn75:9.7",
+      "pali": "ghānaviññeyyehi gandhehi …"
+    },
+    {
+      "id": "mn75:9.8",
+      "pali": "jivhāviññeyyehi rasehi …"
+    },
+    {
+      "id": "mn75:9.9",
+      "pali": "kāyaviññeyyehi phoṭṭhabbehi paricāritapubbo assa iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṁhitehi rajanīyehi,"
+    },
+    {
+      "id": "mn75:9.10",
+      "pali": "so aparena samayena phoṭṭhabbānaṁyeva samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā phoṭṭhabbataṇhaṁ pahāya phoṭṭhabbapariḷāhaṁ paṭivinodetvā vigatapipāso ajjhattaṁ vūpasantacitto vihareyya."
+    },
+    {
+      "id": "mn75:9.11",
+      "pali": "Imassa pana te, māgaṇḍiya, kimassa vacanīyan’”ti?"
+    },
+    {
+      "id": "mn75:9.12",
+      "pali": "“Na kiñci, bho gotama”."
+    },
+    {
+      "id": "mn75:10.1",
+      "pali": "“Ahaṁ kho pana, māgaṇḍiya, pubbe agāriyabhūto samāno pañcahi kāmaguṇehi samappito samaṅgībhūto paricāresiṁ cakkhuviññeyyehi rūpehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṁhitehi rajanīyehi, sotaviññeyyehi saddehi …pe…"
+    },
+    {
+      "id": "mn75:10.2",
+      "pali": "ghānaviññeyyehi gandhehi …"
+    },
+    {
+      "id": "mn75:10.3",
+      "pali": "jivhāviññeyyehi rasehi …"
+    },
+    {
+      "id": "mn75:10.4",
+      "pali": "kāyaviññeyyehi phoṭṭhabbehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṁhitehi rajanīyehi."
+    },
+    {
+      "id": "mn75:10.5",
+      "pali": "Tassa mayhaṁ, māgaṇḍiya, tayo pāsādā ahesuṁ—"
+    },
+    {
+      "id": "mn75:10.6",
+      "pali": "eko vassiko, eko hemantiko, eko gimhiko."
+    },
+    {
+      "id": "mn75:10.7",
+      "pali": "So kho ahaṁ, māgaṇḍiya, vassike pāsāde vassike cattāro māse nippurisehi tūriyehi paricārayamāno na heṭṭhāpāsādaṁ orohāmi."
+    },
+    {
+      "id": "mn75:10.8",
+      "pali": "So aparena samayena kāmānaṁyeva samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā kāmataṇhaṁ pahāya kāmapariḷāhaṁ paṭivinodetvā vigatapipāso ajjhattaṁ vūpasantacitto viharāmi."
+    },
+    {
+      "id": "mn75:10.9",
+      "pali": "So aññe satte passāmi kāmesu avītarāge kāmataṇhāhi khajjamāne kāmapariḷāhena pariḍayhamāne kāme paṭisevante."
+    },
+    {
+      "id": "mn75:10.10",
+      "pali": "So tesaṁ na pihemi, na tattha abhiramāmi."
+    },
+    {
+      "id": "mn75:10.11",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn75:10.12",
+      "pali": "Yāhayaṁ, māgaṇḍiya, rati, aññatreva kāmehi aññatra akusalehi dhammehi—"
+    },
+    {
+      "id": "mn75:10.13",
+      "pali": "api dibbaṁ sukhaṁ samadhigayha tiṭṭhati—"
+    },
+    {
+      "id": "mn75:10.14",
+      "pali": "tāya ratiyā ramamāno hīnassa na pihemi, na tattha abhiramāmi."
+    },
+    {
+      "id": "mn75:11.1",
+      "pali": "Seyyathāpi, māgaṇḍiya, gahapati vā gahapatiputto vā aḍḍho mahaddhano mahābhogo pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreyya cakkhuviññeyyehi rūpehi …"
+    },
+    {
+      "id": "mn75:11.2",
+      "pali": "pe…"
+    },
+    {
+      "id": "mn75:11.3",
+      "pali": "phoṭṭhabbehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṁhitehi rajanīyehi."
+    },
+    {
+      "id": "mn75:11.4",
+      "pali": "So kāyena sucaritaṁ caritvā vācāya sucaritaṁ caritvā manasā sucaritaṁ caritvā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyya devānaṁ tāvatiṁsānaṁ sahabyataṁ."
+    },
+    {
+      "id": "mn75:11.5",
+      "pali": "So tattha nandane vane accharāsaṅghaparivuto dibbehi pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreyya."
+    },
+    {
+      "id": "mn75:11.6",
+      "pali": "So passeyya gahapatiṁ vā gahapatiputtaṁ vā pañcahi kāmaguṇehi samappitaṁ samaṅgībhūtaṁ paricārayamānaṁ."
+    },
+    {
+      "id": "mn75:11.7",
+      "pali": "Taṁ kiṁ maññasi, māgaṇḍiya, api nu so devaputto nandane vane accharāsaṅghaparivuto dibbehi pañcahi kāmaguṇehi samappito samaṅgībhūto paricārayamāno amussa gahapatissa vā gahapatiputtassa vā piheyya, mānusakānaṁ vā pañcannaṁ kāmaguṇānaṁ mānusakehi vā kāmehi āvaṭṭeyyā”ti?"
+    },
+    {
+      "id": "mn75:11.8",
+      "pali": "“No hidaṁ, bho gotama."
+    },
+    {
+      "id": "mn75:11.9",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn75:11.10",
+      "pali": "Mānusakehi, bho gotama, kāmehi dibbakāmā abhikkantatarā ca paṇītatarā cā”ti."
+    },
+    {
+      "id": "mn75:12.1",
+      "pali": "“Evameva kho ahaṁ, māgaṇḍiya, pubbe agāriyabhūto samāno pañcahi kāmaguṇehi samappito samaṅgībhūto paricāresiṁ cakkhuviññeyyehi rūpehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṁhitehi rajanīyehi, sotaviññeyyehi saddehi …pe…"
+    },
+    {
+      "id": "mn75:12.2",
+      "pali": "ghānaviññeyyehi gandhehi …"
+    },
+    {
+      "id": "mn75:12.3",
+      "pali": "jivhāviññeyyehi rasehi …"
+    },
+    {
+      "id": "mn75:12.4",
+      "pali": "kāyaviññeyyehi phoṭṭhabbehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṁhitehi rajanīyehi."
+    },
+    {
+      "id": "mn75:12.5",
+      "pali": "So aparena samayena kāmānaṁyeva samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā kāmataṇhaṁ pahāya kāmapariḷāhaṁ paṭivinodetvā vigatapipāso ajjhattaṁ vūpasantacitto viharāmi."
+    },
+    {
+      "id": "mn75:12.6",
+      "pali": "So aññe satte passāmi kāmesu avītarāge kāmataṇhāhi khajjamāne kāmapariḷāhena pariḍayhamāne kāme paṭisevante, so tesaṁ na pihemi, na tattha abhiramāmi."
+    },
+    {
+      "id": "mn75:12.7",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn75:12.8",
+      "pali": "Yāhayaṁ, māgaṇḍiya, rati aññatreva kāmehi aññatra akusalehi dhammehi—"
+    },
+    {
+      "id": "mn75:12.9",
+      "pali": "api dibbaṁ sukhaṁ samadhigayha tiṭṭhati—"
+    },
+    {
+      "id": "mn75:12.10",
+      "pali": "tāya ratiyā ramamāno hīnassa na pihemi, na tattha abhiramāmi."
+    },
+    {
+      "id": "mn75:13.1",
+      "pali": "Seyyathāpi, māgaṇḍiya, kuṭṭhī puriso arugatto pakkagatto kimīhi khajjamāno nakhehi vaṇamukhāni vippatacchamāno aṅgārakāsuyā kāyaṁ paritāpeyya."
+    },
+    {
+      "id": "mn75:13.2",
+      "pali": "Tassa mittāmaccā ñātisālohitā bhisakkaṁ sallakattaṁ upaṭṭhāpeyyuṁ."
+    },
+    {
+      "id": "mn75:13.3",
+      "pali": "Tassa so bhisakko sallakatto bhesajjaṁ kareyya."
+    },
+    {
+      "id": "mn75:13.4",
+      "pali": "So taṁ bhesajjaṁ āgamma kuṭṭhehi parimucceyya, arogo assa sukhī serī sayaṁvasī yena kāmaṁ gamo."
+    },
+    {
+      "id": "mn75:13.5",
+      "pali": "So aññaṁ kuṭṭhiṁ purisaṁ passeyya arugattaṁ pakkagattaṁ kimīhi khajjamānaṁ nakhehi vaṇamukhāni vippatacchamānaṁ aṅgārakāsuyā kāyaṁ paritāpentaṁ."
+    },
+    {
+      "id": "mn75:13.6",
+      "pali": "Taṁ kiṁ maññasi, māgaṇḍiya,"
+    },
+    {
+      "id": "mn75:13.7",
+      "pali": "api nu so puriso amussa kuṭṭhissa purisassa piheyya aṅgārakāsuyā vā bhesajjaṁ paṭisevanāya vā”ti?"
+    },
+    {
+      "id": "mn75:13.8",
+      "pali": "“No hidaṁ, bho gotama."
+    },
+    {
+      "id": "mn75:13.9",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn75:13.10",
+      "pali": "Roge hi, bho gotama, sati bhesajjena karaṇīyaṁ hoti, roge asati na bhesajjena karaṇīyaṁ hotī”ti."
+    },
+    {
+      "id": "mn75:14.1",
+      "pali": "“Evameva kho ahaṁ, māgaṇḍiya, pubbe agāriyabhūto samāno pañcahi kāmaguṇehi samappito samaṅgībhūto paricāresiṁ, cakkhuviññeyyehi rūpehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṁhitehi rajanīyehi, sotaviññeyyehi saddehi …pe…"
+    },
+    {
+      "id": "mn75:14.2",
+      "pali": "ghānaviññeyyehi gandhehi …"
+    },
+    {
+      "id": "mn75:14.3",
+      "pali": "jivhāviññeyyehi rasehi …"
+    },
+    {
+      "id": "mn75:14.4",
+      "pali": "kāyaviññeyyehi phoṭṭhabbehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṁhitehi rajanīyehi."
+    },
+    {
+      "id": "mn75:14.5",
+      "pali": "So aparena samayena kāmānaṁyeva samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā kāmataṇhaṁ pahāya kāmapariḷāhaṁ paṭivinodetvā vigatapipāso ajjhattaṁ vūpasantacitto viharāmi."
+    },
+    {
+      "id": "mn75:14.6",
+      "pali": "So aññe satte passāmi kāmesu avītarāge kāmataṇhāhi khajjamāne kāmapariḷāhena pariḍayhamāne kāme paṭisevante."
+    },
+    {
+      "id": "mn75:14.7",
+      "pali": "So tesaṁ na pihemi, na tattha abhiramāmi."
+    },
+    {
+      "id": "mn75:14.8",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn75:14.9",
+      "pali": "Yāhayaṁ, māgaṇḍiya, rati, aññatreva kāmehi aññatra akusalehi dhammehi—"
+    },
+    {
+      "id": "mn75:14.10",
+      "pali": "api dibbaṁ sukhaṁ samadhigayha tiṭṭhati—"
+    },
+    {
+      "id": "mn75:14.11",
+      "pali": "tāya ratiyā ramamāno hīnassa na pihemi, na tattha abhiramāmi."
+    },
+    {
+      "id": "mn75:15.1",
+      "pali": "Seyyathāpi, māgaṇḍiya, kuṭṭhī puriso arugatto pakkagatto kimīhi khajjamāno nakhehi vaṇamukhāni vippatacchamāno aṅgārakāsuyā kāyaṁ paritāpeyya."
+    },
+    {
+      "id": "mn75:15.2",
+      "pali": "Tassa mittāmaccā ñātisālohitā bhisakkaṁ sallakattaṁ upaṭṭhāpeyyuṁ."
+    },
+    {
+      "id": "mn75:15.3",
+      "pali": "Tassa so bhisakko sallakatto bhesajjaṁ kareyya."
+    },
+    {
+      "id": "mn75:15.4",
+      "pali": "So taṁ bhesajjaṁ āgamma kuṭṭhehi parimucceyya, arogo assa sukhī serī sayaṁvasī yena kāmaṁ gamo."
+    },
+    {
+      "id": "mn75:15.5",
+      "pali": "Tamenaṁ dve balavanto purisā nānābāhāsu gahetvā aṅgārakāsuṁ upakaḍḍheyyuṁ."
+    },
+    {
+      "id": "mn75:15.6",
+      "pali": "Taṁ kiṁ maññasi, māgaṇḍiya,"
+    },
+    {
+      "id": "mn75:15.7",
+      "pali": "api nu so puriso iti citiceva kāyaṁ sannāmeyyā”ti?"
+    },
+    {
+      "id": "mn75:15.8",
+      "pali": "“Evaṁ, bho gotama."
+    },
+    {
+      "id": "mn75:15.9",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn75:15.10",
+      "pali": "Asu hi, bho gotama, aggi dukkhasamphasso ceva mahābhitāpo ca mahāpariḷāho cā”ti."
+    },
+    {
+      "id": "mn75:15.11",
+      "pali": "“Taṁ kiṁ maññasi, māgaṇḍiya,"
+    },
+    {
+      "id": "mn75:15.12",
+      "pali": "idāneva nu kho so aggi dukkhasamphasso ceva mahābhitāpo ca mahāpariḷāho ca udāhu pubbepi so aggi dukkhasamphasso ceva mahābhitāpo ca mahāpariḷāho cā”ti?"
+    },
+    {
+      "id": "mn75:15.13",
+      "pali": "“Idāni ceva, bho gotama, so aggi dukkhasamphasso ceva mahābhitāpo ca mahāpariḷāho ca, pubbepi so aggi dukkhasamphasso ceva mahābhitāpo ca mahāpariḷāho ca."
+    },
+    {
+      "id": "mn75:15.14",
+      "pali": "Asu ca, bho gotama, kuṭṭhī puriso arugatto pakkagatto kimīhi khajjamāno nakhehi vaṇamukhāni vippatacchamāno upahatindriyo dukkhasamphasseyeva aggismiṁ sukhamiti viparītasaññaṁ paccalatthā”ti."
+    },
+    {
+      "id": "mn75:16.1",
+      "pali": "“Evameva kho, māgaṇḍiya, atītampi addhānaṁ kāmā dukkhasamphassā ceva mahābhitāpā ca mahāpariḷāhā ca, anāgatampi addhānaṁ kāmā dukkhasamphassā ceva mahābhitāpā ca mahāpariḷāhā ca, etarahipi paccuppannaṁ addhānaṁ kāmā dukkhasamphassā ceva mahābhitāpā ca mahāpariḷāhā ca."
+    },
+    {
+      "id": "mn75:16.2",
+      "pali": "Ime ca, māgaṇḍiya, sattā kāmesu avītarāgā kāmataṇhāhi khajjamānā kāmapariḷāhena pariḍayhamānā upahatindriyā dukkhasamphassesuyeva kāmesu sukhamiti viparītasaññaṁ paccalatthuṁ."
+    },
+    {
+      "id": "mn75:17.1",
+      "pali": "Seyyathāpi, māgaṇḍiya, kuṭṭhī puriso arugatto pakkagatto kimīhi khajjamāno nakhehi vaṇamukhāni vippatacchamāno aṅgārakāsuyā kāyaṁ paritāpeti."
+    },
+    {
+      "id": "mn75:17.2",
+      "pali": "Yathā yathā kho, māgaṇḍiya, asu kuṭṭhī puriso arugatto pakkagatto kimīhi khajjamāno nakhehi vaṇamukhāni vippatacchamāno aṅgārakāsuyā kāyaṁ paritāpeti tathā tathāssa tāni vaṇamukhāni asucitarāni ceva honti duggandhatarāni ca pūtikatarāni ca, hoti ceva kāci sātamattā assādamattā—yadidaṁ vaṇamukhānaṁ kaṇḍūvanahetu;"
+    },
+    {
+      "id": "mn75:17.3",
+      "pali": "evameva kho, māgaṇḍiya, sattā kāmesu avītarāgā kāmataṇhāhi khajjamānā kāmapariḷāhena ca pariḍayhamānā kāme paṭisevanti."
+    },
+    {
+      "id": "mn75:17.4",
+      "pali": "Yathā yathā kho, māgaṇḍiya, sattā kāmesu avītarāgā kāmataṇhāhi khajjamānā kāmapariḷāhena ca pariḍayhamānā kāme paṭisevanti tathā tathā tesaṁ tesaṁ sattānaṁ kāmataṇhā ceva pavaḍḍhati, kāmapariḷāhena ca pariḍayhanti, hoti ceva sātamattā assādamattā—yadidaṁ pañcakāmaguṇe paṭicca."
+    },
+    {
+      "id": "mn75:18.1",
+      "pali": "Taṁ kiṁ maññasi, māgaṇḍiya,"
+    },
+    {
+      "id": "mn75:18.2",
+      "pali": "api nu te diṭṭho vā suto vā rājā vā rājamahāmatto vā pañcahi kāmaguṇehi samappito samaṅgībhūto paricārayamāno kāmataṇhaṁ appahāya kāmapariḷāhaṁ appaṭivinodetvā vigatapipāso ajjhattaṁ vūpasantacitto vihāsi vā viharati vā viharissati vā”ti?"
+    },
+    {
+      "id": "mn75:18.3",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "mn75:18.4",
+      "pali": "“Sādhu, māgaṇḍiya."
+    },
+    {
+      "id": "mn75:18.5",
+      "pali": "Mayāpi kho etaṁ, māgaṇḍiya, neva diṭṭhaṁ na sutaṁ rājā vā rājamahāmatto vā pañcahi kāmaguṇehi samappito samaṅgībhūto paricārayamāno kāmataṇhaṁ appahāya kāmapariḷāhaṁ appaṭivinodetvā vigatapipāso ajjhattaṁ vūpasantacitto vihāsi vā viharati vā viharissati vā."
+    },
+    {
+      "id": "mn75:18.6",
+      "pali": "Atha kho, māgaṇḍiya, ye hi keci samaṇā vā brāhmaṇā vā vigatapipāsā ajjhattaṁ vūpasantacittā vihāsuṁ vā viharanti vā viharissanti vā sabbe te kāmānaṁyeva samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā kāmataṇhaṁ pahāya kāmapariḷāhaṁ paṭivinodetvā vigatapipāsā ajjhattaṁ vūpasantacittā vihāsuṁ vā viharanti vā viharissanti vā”ti."
+    },
+    {
+      "id": "mn75:19.1",
+      "pali": "Atha kho bhagavā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi:"
+    },
+    {
+      "id": "mn75:19.2",
+      "pali": "“Ārogyaparamā lābhā,"
+    },
+    {
+      "id": "mn75:19.3",
+      "pali": "nibbānaṁ paramaṁ sukhaṁ;"
+    },
+    {
+      "id": "mn75:19.4",
+      "pali": "Aṭṭhaṅgiko ca maggānaṁ,"
+    },
+    {
+      "id": "mn75:19.5",
+      "pali": "khemaṁ amatagāminan”ti."
+    },
+    {
+      "id": "mn75:19.6",
+      "pali": "Evaṁ vutte, māgaṇḍiyo paribbājako bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn75:19.7",
+      "pali": "“acchariyaṁ, bho gotama, abbhutaṁ, bho gotama."
+    },
+    {
+      "id": "mn75:19.8",
+      "pali": "Yāva subhāsitañcidaṁ bhotā gotamena:"
+    },
+    {
+      "id": "mn75:19.9",
+      "pali": "‘ārogyaparamā lābhā, nibbānaṁ paramaṁ sukhan’ti."
+    },
+    {
+      "id": "mn75:19.10",
+      "pali": "Mayāpi kho etaṁ, bho gotama, sutaṁ pubbakānaṁ paribbājakānaṁ ācariyapācariyānaṁ bhāsamānānaṁ:"
+    },
+    {
+      "id": "mn75:19.11",
+      "pali": "‘ārogyaparamā lābhā, nibbānaṁ paramaṁ sukhan’ti;"
+    },
+    {
+      "id": "mn75:19.12",
+      "pali": "tayidaṁ, bho gotama, sametī”ti."
+    },
+    {
+      "id": "mn75:19.13",
+      "pali": "“Yaṁ pana te etaṁ, māgaṇḍiya, sutaṁ pubbakānaṁ paribbājakānaṁ ācariyapācariyānaṁ bhāsamānānaṁ:"
+    },
+    {
+      "id": "mn75:19.14",
+      "pali": "‘ārogyaparamā lābhā, nibbānaṁ paramaṁ sukhan’ti, katamaṁ taṁ ārogyaṁ, katamaṁ taṁ nibbānan”ti?"
+    },
+    {
+      "id": "mn75:19.15",
+      "pali": "Evaṁ vutte, māgaṇḍiyo paribbājako sakāneva sudaṁ gattāni pāṇinā anomajjati:"
+    },
+    {
+      "id": "mn75:19.16",
+      "pali": "“idantaṁ, bho gotama, ārogyaṁ, idantaṁ nibbānaṁ."
+    },
+    {
+      "id": "mn75:19.17",
+      "pali": "Ahañhi, bho gotama, etarahi arogo sukhī, na maṁ kiñci ābādhatī”ti."
+    },
+    {
+      "id": "mn75:20.1",
+      "pali": "“Seyyathāpi, māgaṇḍiya, jaccandho puriso;"
+    },
+    {
+      "id": "mn75:20.2",
+      "pali": "so na passeyya kaṇhasukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṁ, na passeyya tārakarūpāni, na passeyya candimasūriye."
+    },
+    {
+      "id": "mn75:20.3",
+      "pali": "So suṇeyya cakkhumato bhāsamānassa:"
+    },
+    {
+      "id": "mn75:20.4",
+      "pali": "‘chekaṁ vata, bho, odātaṁ vatthaṁ abhirūpaṁ nimmalaṁ sucī’ti."
+    },
+    {
+      "id": "mn75:20.5",
+      "pali": "So odātapariyesanaṁ careyya."
+    },
+    {
+      "id": "mn75:20.6",
+      "pali": "Tamenaṁ aññataro puriso telamalikatena sāhuḷicīrena vañceyya:"
+    },
+    {
+      "id": "mn75:20.7",
+      "pali": "‘idaṁ te, ambho purisa, odātaṁ vatthaṁ abhirūpaṁ nimmalaṁ sucī’ti."
+    },
+    {
+      "id": "mn75:20.8",
+      "pali": "So taṁ paṭiggaṇheyya, paṭiggahetvā pārupeyya, pārupetvā attamano attamanavācaṁ nicchāreyya:"
+    },
+    {
+      "id": "mn75:20.9",
+      "pali": "‘chekaṁ vata, bho, odātaṁ vatthaṁ abhirūpaṁ nimmalaṁ sucī’ti."
+    },
+    {
+      "id": "mn75:20.10",
+      "pali": "Taṁ kiṁ maññasi, māgaṇḍiya,"
+    },
+    {
+      "id": "mn75:20.11",
+      "pali": "api nu so jaccandho puriso jānanto passanto amuṁ telamalikataṁ sāhuḷicīraṁ paṭiggaṇheyya, paṭiggahetvā pārupeyya, pārupetvā attamano attamanavācaṁ nicchāreyya:"
+    },
+    {
+      "id": "mn75:20.12",
+      "pali": "‘chekaṁ vata, bho, odātaṁ vatthaṁ abhirūpaṁ nimmalaṁ sucī’ti udāhu cakkhumato saddhāyā”ti?"
+    },
+    {
+      "id": "mn75:20.13",
+      "pali": "“Ajānanto hi, bho gotama, apassanto so jaccandho puriso amuṁ telamalikataṁ sāhuḷicīraṁ paṭiggaṇheyya, paṭiggahetvā pārupeyya, pārupetvā attamano attamanavācaṁ nicchāreyya:"
+    },
+    {
+      "id": "mn75:20.14",
+      "pali": "‘chekaṁ vata, bho, odātaṁ vatthaṁ abhirūpaṁ nimmalaṁ sucī’ti, cakkhumato saddhāyā”ti."
+    },
+    {
+      "id": "mn75:21.1",
+      "pali": "“Evameva kho, māgaṇḍiya, aññatitthiyā paribbājakā andhā acakkhukā ajānantā ārogyaṁ, apassantā nibbānaṁ, atha ca panimaṁ gāthaṁ bhāsanti:"
+    },
+    {
+      "id": "mn75:21.2",
+      "pali": "‘ārogyaparamā lābhā, nibbānaṁ paramaṁ sukhan’ti."
+    },
+    {
+      "id": "mn75:21.3",
+      "pali": "Pubbakehesā, māgaṇḍiya, arahantehi sammāsambuddhehi gāthā bhāsitā:"
+    },
+    {
+      "id": "mn75:21.4",
+      "pali": "‘Ārogyaparamā lābhā,"
+    },
+    {
+      "id": "mn75:21.5",
+      "pali": "nibbānaṁ paramaṁ sukhaṁ;"
+    },
+    {
+      "id": "mn75:21.6",
+      "pali": "Aṭṭhaṅgiko ca maggānaṁ,"
+    },
+    {
+      "id": "mn75:21.7",
+      "pali": "khemaṁ amatagāminan’ti."
+    },
+    {
+      "id": "mn75:21.8",
+      "pali": "Sā etarahi anupubbena puthujjanagāthā."
+    },
+    {
+      "id": "mn75:21.9",
+      "pali": "Ayaṁ kho pana, māgaṇḍiya, kāyo rogabhūto gaṇḍabhūto sallabhūto aghabhūto ābādhabhūto, so tvaṁ imaṁ kāyaṁ rogabhūtaṁ gaṇḍabhūtaṁ sallabhūtaṁ aghabhūtaṁ ābādhabhūtaṁ:"
+    },
+    {
+      "id": "mn75:21.10",
+      "pali": "‘idantaṁ, bho gotama, ārogyaṁ, idantaṁ nibbānan’ti vadesi."
+    },
+    {
+      "id": "mn75:21.11",
+      "pali": "Tañhi te, māgaṇḍiya, ariyaṁ cakkhuṁ natthi yena tvaṁ ariyena cakkhunā ārogyaṁ jāneyyāsi, nibbānaṁ passeyyāsī”ti."
+    },
+    {
+      "id": "mn75:22.1",
+      "pali": "“Evaṁ pasanno ahaṁ bhoto gotamassa."
+    },
+    {
+      "id": "mn75:22.2",
+      "pali": "Pahoti me bhavaṁ gotamo tathā dhammaṁ desetuṁ yathāhaṁ ārogyaṁ jāneyyaṁ, nibbānaṁ passeyyan”ti."
+    },
+    {
+      "id": "mn75:22.3",
+      "pali": "“Seyyathāpi, māgaṇḍiya, jaccandho puriso;"
+    },
+    {
+      "id": "mn75:22.4",
+      "pali": "so na passeyya kaṇhasukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṁ, na passeyya tārakarūpāni, na passeyya candimasūriye."
+    },
+    {
+      "id": "mn75:22.5",
+      "pali": "Tassa mittāmaccā ñātisālohitā bhisakkaṁ sallakattaṁ upaṭṭhāpeyyuṁ."
+    },
+    {
+      "id": "mn75:22.6",
+      "pali": "Tassa so bhisakko sallakatto bhesajjaṁ kareyya."
+    },
+    {
+      "id": "mn75:22.7",
+      "pali": "So taṁ bhesajjaṁ āgamma na cakkhūni uppādeyya, na cakkhūni visodheyya."
+    },
+    {
+      "id": "mn75:22.8",
+      "pali": "Taṁ kiṁ maññasi, māgaṇḍiya,"
+    },
+    {
+      "id": "mn75:22.9",
+      "pali": "nanu so vejjo yāvadeva kilamathassa vighātassa bhāgī assā”ti?"
+    },
+    {
+      "id": "mn75:22.10",
+      "pali": "“Evaṁ, bho gotama”."
+    },
+    {
+      "id": "mn75:22.11",
+      "pali": "“Evameva kho, māgaṇḍiya, ahañce te dhammaṁ deseyyaṁ:"
+    },
+    {
+      "id": "mn75:22.12",
+      "pali": "‘idantaṁ ārogyaṁ, idantaṁ nibbānan’ti, so tvaṁ ārogyaṁ na jāneyyāsi, nibbānaṁ na passeyyāsi."
+    },
+    {
+      "id": "mn75:22.13",
+      "pali": "So mamassa kilamatho, sā mamassa vihesā”ti."
+    },
+    {
+      "id": "mn75:23.1",
+      "pali": "“Evaṁ pasanno ahaṁ bhoto gotamassa."
+    },
+    {
+      "id": "mn75:23.2",
+      "pali": "Pahoti me bhavaṁ gotamo tathā dhammaṁ desetuṁ yathāhaṁ ārogyaṁ jāneyyaṁ, nibbānaṁ passeyyan”ti."
+    },
+    {
+      "id": "mn75:23.3",
+      "pali": "“Seyyathāpi, māgaṇḍiya, jaccandho puriso;"
+    },
+    {
+      "id": "mn75:23.4",
+      "pali": "so na passeyya kaṇhasukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṁ, na passeyya tārakarūpāni, na passeyya candimasūriye."
+    },
+    {
+      "id": "mn75:23.5",
+      "pali": "So suṇeyya cakkhumato bhāsamānassa:"
+    },
+    {
+      "id": "mn75:23.6",
+      "pali": "‘chekaṁ vata, bho, odātaṁ vatthaṁ abhirūpaṁ nimmalaṁ sucī’ti."
+    },
+    {
+      "id": "mn75:23.7",
+      "pali": "So odātapariyesanaṁ careyya."
+    },
+    {
+      "id": "mn75:23.8",
+      "pali": "Tamenaṁ aññataro puriso telamalikatena sāhuḷicīrena vañceyya:"
+    },
+    {
+      "id": "mn75:23.9",
+      "pali": "‘idaṁ te, ambho purisa, odātaṁ vatthaṁ abhirūpaṁ nimmalaṁ sucī’ti."
+    },
+    {
+      "id": "mn75:23.10",
+      "pali": "So taṁ paṭiggaṇheyya, paṭiggahetvā pārupeyya."
+    },
+    {
+      "id": "mn75:23.11",
+      "pali": "Tassa mittāmaccā ñātisālohitā bhisakkaṁ sallakattaṁ upaṭṭhāpeyyuṁ."
+    },
+    {
+      "id": "mn75:23.12",
+      "pali": "Tassa so bhisakko sallakatto bhesajjaṁ kareyya—"
+    },
+    {
+      "id": "mn75:23.13",
+      "pali": "uddhaṁvirecanaṁ adhovirecanaṁ añjanaṁ paccañjanaṁ natthukammaṁ."
+    },
+    {
+      "id": "mn75:23.14",
+      "pali": "So taṁ bhesajjaṁ āgamma cakkhūni uppādeyya, cakkhūni visodheyya."
+    },
+    {
+      "id": "mn75:23.15",
+      "pali": "Tassa saha cakkhuppādā yo amusmiṁ telamalikate sāhuḷicīre chandarāgo so pahīyetha."
+    },
+    {
+      "id": "mn75:23.16",
+      "pali": "Tañca naṁ purisaṁ amittatopi daheyya, paccatthikatopi daheyya, api ca jīvitā voropetabbaṁ maññeyya:"
+    },
+    {
+      "id": "mn75:23.17",
+      "pali": "‘dīgharattaṁ vata, bho, ahaṁ iminā purisena telamalikatena sāhuḷicīrena nikato vañcito paluddho—"
+    },
+    {
+      "id": "mn75:23.18",
+      "pali": "idaṁ te, ambho purisa, odātaṁ vatthaṁ abhirūpaṁ nimmalaṁ sucī’ti."
+    },
+    {
+      "id": "mn75:24.1",
+      "pali": "Evameva kho, māgaṇḍiya, ahañce te dhammaṁ deseyyaṁ:"
+    },
+    {
+      "id": "mn75:24.2",
+      "pali": "‘idantaṁ ārogyaṁ, idantaṁ nibbānan’ti."
+    },
+    {
+      "id": "mn75:24.3",
+      "pali": "So tvaṁ ārogyaṁ jāneyyāsi, nibbānaṁ passeyyāsi."
+    },
+    {
+      "id": "mn75:24.4",
+      "pali": "Tassa te saha cakkhuppādā yo pañcasupādānakkhandhesu chandarāgo so pahīyetha;"
+    },
+    {
+      "id": "mn75:24.5",
+      "pali": "api ca te evamassa:"
+    },
+    {
+      "id": "mn75:24.6",
+      "pali": "‘dīgharattaṁ vata bho ahaṁ iminā cittena nikato vañcito paluddho."
+    },
+    {
+      "id": "mn75:24.7",
+      "pali": "Ahañhi rūpaṁyeva upādiyamāno upādiyiṁ, vedanaṁyeva upādiyamāno upādiyiṁ, saññaṁyeva upādiyamāno upādiyiṁ, saṅkhāreyeva upādiyamāno upādiyiṁ, viññāṇaṁyeva upādiyamāno upādiyiṁ."
+    },
+    {
+      "id": "mn75:24.8",
+      "pali": "Tassa me upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti;"
+    },
+    {
+      "id": "mn75:24.9",
+      "pali": "evametassa kevalassa dukkhakkhandhassa samudayo hotī’”ti."
+    },
+    {
+      "id": "mn75:25.1",
+      "pali": "“Evaṁ pasanno ahaṁ bhoto gotamassa."
+    },
+    {
+      "id": "mn75:25.2",
+      "pali": "Pahoti me bhavaṁ gotamo tathā dhammaṁ desetuṁ yathāhaṁ imamhā āsanā anandho vuṭṭhaheyyan”ti."
+    },
+    {
+      "id": "mn75:25.3",
+      "pali": "“Tena hi tvaṁ, māgaṇḍiya, sappurise bhajeyyāsi."
+    },
+    {
+      "id": "mn75:25.4",
+      "pali": "Yato kho tvaṁ, māgaṇḍiya, sappurise bhajissasi tato tvaṁ, māgaṇḍiya, saddhammaṁ sossasi;"
+    },
+    {
+      "id": "mn75:25.5",
+      "pali": "yato kho tvaṁ, māgaṇḍiya, saddhammaṁ sossasi tato tvaṁ, māgaṇḍiya, dhammānudhammaṁ paṭipajjissasi;"
+    },
+    {
+      "id": "mn75:25.6",
+      "pali": "yato kho tvaṁ, māgaṇḍiya, dhammānudhammaṁ paṭipajjissasi tato tvaṁ, māgaṇḍiya, sāmaṁyeva ñassasi, sāmaṁ dakkhissasi—"
+    },
+    {
+      "id": "mn75:25.7",
+      "pali": "ime rogā gaṇḍā sallā;"
+    },
+    {
+      "id": "mn75:25.8",
+      "pali": "idha rogā gaṇḍā sallā aparisesā nirujjhanti."
+    },
+    {
+      "id": "mn75:25.9",
+      "pali": "Tassa me upādānanirodhā bhavanirodho, bhavanirodhā jātinirodho, jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti;"
+    },
+    {
+      "id": "mn75:25.10",
+      "pali": "evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti."
+    },
+    {
+      "id": "mn75:26.1",
+      "pali": "Evaṁ vutte, māgaṇḍiyo paribbājako bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn75:26.2",
+      "pali": "“abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama."
+    },
+    {
+      "id": "mn75:26.3",
+      "pali": "Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito."
+    },
+    {
+      "id": "mn75:26.4",
+      "pali": "Esāhaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "mn75:26.5",
+      "pali": "Labheyyāhaṁ bhoto gotamassa santike pabbajjaṁ, labheyyaṁ upasampadan”ti."
+    },
+    {
+      "id": "mn75:27.1",
+      "pali": "“Yo kho, māgaṇḍiya, aññatitthiyapubbo imasmiṁ dhammavinaye ākaṅkhati pabbajjaṁ, ākaṅkhati upasampadaṁ, so cattāro māse parivasati; catunnaṁ māsānaṁ accayena āraddhacittā bhikkhū pabbājenti, upasampādenti bhikkhubhāvāya."
+    },
+    {
+      "id": "mn75:27.2",
+      "pali": "Api ca mettha puggalavemattatā viditā”ti."
+    },
+    {
+      "id": "mn75:27.3",
+      "pali": "“Sace, bhante, aññatitthiyapubbā imasmiṁ dhammavinaye ākaṅkhantā pabbajjaṁ, ākaṅkhantā upasampadaṁ cattāro māse parivasanti, catunnaṁ māsānaṁ accayena āraddhacittā bhikkhū pabbājenti upasampādenti bhikkhubhāvāya; ahaṁ cattāri vassāni parivasissāmi, catunnaṁ vassānaṁ accayena āraddhacittā bhikkhū pabbājentu, upasampādentu bhikkhubhāvāyā”ti."
+    },
+    {
+      "id": "mn75:28.1",
+      "pali": "Alattha kho māgaṇḍiyo paribbājako bhagavato santike pabbajjaṁ, alattha upasampadaṁ."
+    },
+    {
+      "id": "mn75:28.2",
+      "pali": "Acirūpasampanno kho panāyasmā māgaṇḍiyo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi."
+    },
+    {
+      "id": "mn75:28.3",
+      "pali": "“Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi."
+    },
+    {
+      "id": "mn75:28.4",
+      "pali": "Aññataro kho panāyasmā māgaṇḍiyo arahataṁ ahosīti."
+    },
+    {
+      "id": "mn75:28.5",
+      "pali": "Māgaṇḍiyasuttaṁ niṭṭhitaṁ pañcamaṁ."
+    }
+  ]
+}

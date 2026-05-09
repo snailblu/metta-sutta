@@ -1,0 +1,587 @@
+{
+  "uid": "mn7",
+  "title": "Vatthasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn7:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn7:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn7:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn7:1.4",
+      "pali": "“bhikkhavo”ti."
+    },
+    {
+      "id": "mn7:1.5",
+      "pali": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn7:1.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn7:2.1",
+      "pali": "“Seyyathāpi, bhikkhave, vatthaṁ saṅkiliṭṭhaṁ malaggahitaṁ;"
+    },
+    {
+      "id": "mn7:2.2",
+      "pali": "tamenaṁ rajako yasmiṁ yasmiṁ raṅgajāte upasaṁhareyya—yadi nīlakāya yadi pītakāya yadi lohitakāya yadi mañjiṭṭhakāya durattavaṇṇamevassa aparisuddhavaṇṇamevassa."
+    },
+    {
+      "id": "mn7:2.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn7:2.4",
+      "pali": "Aparisuddhattā, bhikkhave, vatthassa."
+    },
+    {
+      "id": "mn7:2.5",
+      "pali": "Evameva kho, bhikkhave, citte saṅkiliṭṭhe, duggati pāṭikaṅkhā."
+    },
+    {
+      "id": "mn7:2.6",
+      "pali": "Seyyathāpi, bhikkhave, vatthaṁ parisuddhaṁ pariyodātaṁ;"
+    },
+    {
+      "id": "mn7:2.7",
+      "pali": "tamenaṁ rajako yasmiṁ yasmiṁ raṅgajāte upasaṁhareyya—yadi nīlakāya yadi pītakāya yadi lohitakāya yadi mañjiṭṭhakāya—surattavaṇṇamevassa parisuddhavaṇṇamevassa."
+    },
+    {
+      "id": "mn7:2.8",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn7:2.9",
+      "pali": "Parisuddhattā, bhikkhave, vatthassa."
+    },
+    {
+      "id": "mn7:2.10",
+      "pali": "Evameva kho, bhikkhave, citte asaṅkiliṭṭhe, sugati pāṭikaṅkhā."
+    },
+    {
+      "id": "mn7:3.1",
+      "pali": "Katame ca, bhikkhave, cittassa upakkilesā?"
+    },
+    {
+      "id": "mn7:3.2",
+      "pali": "Abhijjhāvisamalobho cittassa upakkileso, byāpādo cittassa upakkileso, kodho cittassa upakkileso, upanāho cittassa upakkileso, makkho cittassa upakkileso, paḷāso cittassa upakkileso, issā cittassa upakkileso, macchariyaṁ cittassa upakkileso, māyā cittassa upakkileso, sāṭheyyaṁ cittassa upakkileso, thambho cittassa upakkileso, sārambho cittassa upakkileso, māno cittassa upakkileso, atimāno cittassa upakkileso, mado cittassa upakkileso, pamādo cittassa upakkileso."
+    },
+    {
+      "id": "mn7:4.1",
+      "pali": "Sa kho so, bhikkhave, bhikkhu ‘abhijjhāvisamalobho cittassa upakkileso’ti—iti viditvā abhijjhāvisamalobhaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.2",
+      "pali": "‘byāpādo cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.3",
+      "pali": "iti viditvā byāpādaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.4",
+      "pali": "‘kodho cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.5",
+      "pali": "iti viditvā kodhaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.6",
+      "pali": "‘upanāho cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.7",
+      "pali": "iti viditvā upanāhaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.8",
+      "pali": "‘makkho cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.9",
+      "pali": "iti viditvā makkhaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.10",
+      "pali": "‘paḷāso cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.11",
+      "pali": "iti viditvā paḷāsaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.12",
+      "pali": "‘issā cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.13",
+      "pali": "iti viditvā issaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.14",
+      "pali": "‘macchariyaṁ cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.15",
+      "pali": "iti viditvā macchariyaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.16",
+      "pali": "‘māyā cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.17",
+      "pali": "iti viditvā māyaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.18",
+      "pali": "‘sāṭheyyaṁ cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.19",
+      "pali": "iti viditvā sāṭheyyaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.20",
+      "pali": "‘thambho cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.21",
+      "pali": "iti viditvā thambhaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.22",
+      "pali": "‘sārambho cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.23",
+      "pali": "iti viditvā sārambhaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.24",
+      "pali": "‘māno cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.25",
+      "pali": "iti viditvā mānaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.26",
+      "pali": "‘atimāno cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.27",
+      "pali": "iti viditvā atimānaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.28",
+      "pali": "‘mado cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.29",
+      "pali": "iti viditvā madaṁ cittassa upakkilesaṁ pajahati;"
+    },
+    {
+      "id": "mn7:4.30",
+      "pali": "‘pamādo cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:4.31",
+      "pali": "iti viditvā pamādaṁ cittassa upakkilesaṁ pajahati."
+    },
+    {
+      "id": "mn7:5.1",
+      "pali": "Yato kho, bhikkhave, bhikkhuno ‘abhijjhāvisamalobho cittassa upakkileso’ti—iti viditvā abhijjhāvisamalobho cittassa upakkileso pahīno hoti,"
+    },
+    {
+      "id": "mn7:5.2",
+      "pali": "‘byāpādo cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.3",
+      "pali": "iti viditvā byāpādo cittassa upakkileso pahīno hoti;"
+    },
+    {
+      "id": "mn7:5.4",
+      "pali": "‘kodho cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.5",
+      "pali": "iti viditvā kodho cittassa upakkileso pahīno hoti;"
+    },
+    {
+      "id": "mn7:5.6",
+      "pali": "‘upanāho cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.7",
+      "pali": "iti viditvā upanāho cittassa upakkileso pahīno hoti;"
+    },
+    {
+      "id": "mn7:5.8",
+      "pali": "‘makkho cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.9",
+      "pali": "iti viditvā makkho cittassa upakkileso pahīno hoti;"
+    },
+    {
+      "id": "mn7:5.10",
+      "pali": "‘paḷāso cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.11",
+      "pali": "iti viditvā paḷāso cittassa upakkileso pahīno hoti;"
+    },
+    {
+      "id": "mn7:5.12",
+      "pali": "‘issā cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.13",
+      "pali": "iti viditvā issā cittassa upakkileso pahīno hoti;"
+    },
+    {
+      "id": "mn7:5.14",
+      "pali": "‘macchariyaṁ cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.15",
+      "pali": "iti viditvā macchariyaṁ cittassa upakkileso pahīno hoti;"
+    },
+    {
+      "id": "mn7:5.16",
+      "pali": "‘māyā cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.17",
+      "pali": "iti viditvā māyā cittassa upakkileso pahīno hoti;"
+    },
+    {
+      "id": "mn7:5.18",
+      "pali": "‘sāṭheyyaṁ cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.19",
+      "pali": "iti viditvā sāṭheyyaṁ cittassa upakkileso pahīno hoti;"
+    },
+    {
+      "id": "mn7:5.20",
+      "pali": "‘thambho cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.21",
+      "pali": "iti viditvā thambho cittassa upakkileso pahīno hoti;"
+    },
+    {
+      "id": "mn7:5.22",
+      "pali": "‘sārambho cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.23",
+      "pali": "iti viditvā sārambho cittassa upakkileso pahīno hoti;"
+    },
+    {
+      "id": "mn7:5.24",
+      "pali": "‘māno cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.25",
+      "pali": "iti viditvā māno cittassa upakkileso pahīno hoti;"
+    },
+    {
+      "id": "mn7:5.26",
+      "pali": "‘atimāno cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.27",
+      "pali": "iti viditvā atimāno cittassa upakkileso pahīno hoti;"
+    },
+    {
+      "id": "mn7:5.28",
+      "pali": "‘mado cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.29",
+      "pali": "iti viditvā mado cittassa upakkileso pahīno hoti;"
+    },
+    {
+      "id": "mn7:5.30",
+      "pali": "‘pamādo cittassa upakkileso’ti—"
+    },
+    {
+      "id": "mn7:5.31",
+      "pali": "iti viditvā pamādo cittassa upakkileso pahīno hoti."
+    },
+    {
+      "id": "mn7:5.32",
+      "pali": "So buddhe aveccappasādena samannāgato hoti:"
+    },
+    {
+      "id": "mn7:5.33",
+      "pali": "‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti;"
+    },
+    {
+      "id": "mn7:6.1",
+      "pali": "dhamme aveccappasādena samannāgato hoti:"
+    },
+    {
+      "id": "mn7:6.2",
+      "pali": "‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṁ veditabbo viññūhī’ti;"
+    },
+    {
+      "id": "mn7:7.1",
+      "pali": "saṅghe aveccappasādena samannāgato hoti:"
+    },
+    {
+      "id": "mn7:7.2",
+      "pali": "‘suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato sāvakasaṅgho, yadidaṁ cattāri purisayugāni, aṭṭha purisapuggalā. Esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo, anuttaraṁ puññakkhettaṁ lokassā’ti."
+    },
+    {
+      "id": "mn7:8.1",
+      "pali": "Yathodhi kho panassa cattaṁ hoti vantaṁ muttaṁ pahīnaṁ paṭinissaṭṭhaṁ, so ‘buddhe aveccappasādena samannāgatomhī’ti labhati atthavedaṁ, labhati dhammavedaṁ, labhati dhammūpasaṁhitaṁ pāmojjaṁ."
+    },
+    {
+      "id": "mn7:8.2",
+      "pali": "Pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati;"
+    },
+    {
+      "id": "mn7:9.1",
+      "pali": "‘dhamme …pe…"
+    },
+    {
+      "id": "mn7:10.1",
+      "pali": "saṅghe aveccappasādena samannāgatomhī’ti labhati atthavedaṁ, labhati dhammavedaṁ, labhati dhammūpasaṁhitaṁ pāmojjaṁ;"
+    },
+    {
+      "id": "mn7:10.2",
+      "pali": "pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati."
+    },
+    {
+      "id": "mn7:11.1",
+      "pali": "‘Yathodhi kho pana me cattaṁ vantaṁ muttaṁ pahīnaṁ paṭinissaṭṭhan’ti labhati atthavedaṁ, labhati dhammavedaṁ, labhati dhammūpasaṁhitaṁ pāmojjaṁ;"
+    },
+    {
+      "id": "mn7:11.2",
+      "pali": "pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati."
+    },
+    {
+      "id": "mn7:12.1",
+      "pali": "Sa kho so, bhikkhave, bhikkhu evaṁsīlo evaṁdhammo evaṁpañño sālīnañcepi piṇḍapātaṁ bhuñjati vicitakāḷakaṁ anekasūpaṁ anekabyañjanaṁ, nevassa taṁ hoti antarāyāya."
+    },
+    {
+      "id": "mn7:12.2",
+      "pali": "Seyyathāpi, bhikkhave, vatthaṁ saṅkiliṭṭhaṁ malaggahitaṁ acchodakaṁ āgamma parisuddhaṁ hoti pariyodātaṁ, ukkāmukhaṁ vā panāgamma jātarūpaṁ parisuddhaṁ hoti pariyodātaṁ;"
+    },
+    {
+      "id": "mn7:12.3",
+      "pali": "evameva kho, bhikkhave, bhikkhu evaṁsīlo evaṁdhammo evaṁpañño sālīnañcepi piṇḍapātaṁ bhuñjati vicitakāḷakaṁ anekasūpaṁ anekabyañjanaṁ, nevassa taṁ hoti antarāyāya."
+    },
+    {
+      "id": "mn7:13.1",
+      "pali": "So mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati;"
+    },
+    {
+      "id": "mn7:14.1",
+      "pali": "karuṇāsahagatena cetasā …pe…"
+    },
+    {
+      "id": "mn7:15.1",
+      "pali": "muditāsahagatena cetasā …pe…"
+    },
+    {
+      "id": "mn7:16.1",
+      "pali": "upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharati, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati."
+    },
+    {
+      "id": "mn7:17.1",
+      "pali": "So ‘atthi idaṁ, atthi hīnaṁ, atthi paṇītaṁ, atthi imassa saññāgatassa uttari nissaraṇan’ti pajānāti."
+    },
+    {
+      "id": "mn7:18.1",
+      "pali": "Tassa evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccati, bhavāsavāpi cittaṁ vimuccati, avijjāsavāpi cittaṁ vimuccati."
+    },
+    {
+      "id": "mn7:18.2",
+      "pali": "Vimuttasmiṁ vimuttamiti ñāṇaṁ hoti."
+    },
+    {
+      "id": "mn7:18.3",
+      "pali": "‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānāti."
+    },
+    {
+      "id": "mn7:18.4",
+      "pali": "Ayaṁ vuccati, bhikkhave:"
+    },
+    {
+      "id": "mn7:18.5",
+      "pali": "‘bhikkhu sināto antarena sinānenā’”ti."
+    },
+    {
+      "id": "mn7:19.1",
+      "pali": "Tena kho pana samayena sundarikabhāradvājo brāhmaṇo bhagavato avidūre nisinno hoti."
+    },
+    {
+      "id": "mn7:19.2",
+      "pali": "Atha kho sundarikabhāradvājo brāhmaṇo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn7:19.3",
+      "pali": "“gacchati pana bhavaṁ gotamo bāhukaṁ nadiṁ sināyitun”ti?"
+    },
+    {
+      "id": "mn7:19.4",
+      "pali": "“Kiṁ, brāhmaṇa, bāhukāya nadiyā?"
+    },
+    {
+      "id": "mn7:19.5",
+      "pali": "Kiṁ bāhukā nadī karissatī”ti?"
+    },
+    {
+      "id": "mn7:19.6",
+      "pali": "“Lokkhasammatā hi, bho gotama, bāhukā nadī bahujanassa, puññasammatā hi, bho gotama, bāhukā nadī bahujanassa, bāhukāya pana nadiyā bahujano pāpakammaṁ kataṁ pavāhetī”ti."
+    },
+    {
+      "id": "mn7:20.1",
+      "pali": "Atha kho bhagavā sundarikabhāradvājaṁ brāhmaṇaṁ gāthāhi ajjhabhāsi:"
+    },
+    {
+      "id": "mn7:20.2",
+      "pali": "“Bāhukaṁ adhikakkañca,"
+    },
+    {
+      "id": "mn7:20.3",
+      "pali": "gayaṁ sundarikaṁ mapi;"
+    },
+    {
+      "id": "mn7:20.4",
+      "pali": "Sarassatiṁ payāgañca,"
+    },
+    {
+      "id": "mn7:20.5",
+      "pali": "atho bāhumatiṁ nadiṁ;"
+    },
+    {
+      "id": "mn7:20.6",
+      "pali": "Niccampi bālo pakkhando,"
+    },
+    {
+      "id": "mn7:20.7",
+      "pali": "kaṇhakammo na sujjhati."
+    },
+    {
+      "id": "mn7:20.8",
+      "pali": "Kiṁ sundarikā karissati,"
+    },
+    {
+      "id": "mn7:20.9",
+      "pali": "Kiṁ payāgā kiṁ bāhukā nadī;"
+    },
+    {
+      "id": "mn7:20.10",
+      "pali": "Veriṁ katakibbisaṁ naraṁ,"
+    },
+    {
+      "id": "mn7:20.11",
+      "pali": "Na hi naṁ sodhaye pāpakamminaṁ."
+    },
+    {
+      "id": "mn7:20.12",
+      "pali": "Suddhassa ve sadā phaggu,"
+    },
+    {
+      "id": "mn7:20.13",
+      "pali": "Suddhassuposatho sadā;"
+    },
+    {
+      "id": "mn7:20.14",
+      "pali": "Suddhassa sucikammassa,"
+    },
+    {
+      "id": "mn7:20.15",
+      "pali": "Sadā sampajjate vataṁ;"
+    },
+    {
+      "id": "mn7:20.16",
+      "pali": "Idheva sināhi brāhmaṇa,"
+    },
+    {
+      "id": "mn7:20.17",
+      "pali": "Sabbabhūtesu karohi khemataṁ."
+    },
+    {
+      "id": "mn7:20.18",
+      "pali": "Sace musā na bhaṇasi,"
+    },
+    {
+      "id": "mn7:20.19",
+      "pali": "sace pāṇaṁ na hiṁsasi;"
+    },
+    {
+      "id": "mn7:20.20",
+      "pali": "Sace adinnaṁ nādiyasi,"
+    },
+    {
+      "id": "mn7:20.21",
+      "pali": "saddahāno amaccharī;"
+    },
+    {
+      "id": "mn7:20.22",
+      "pali": "Kiṁ kāhasi gayaṁ gantvā,"
+    },
+    {
+      "id": "mn7:20.23",
+      "pali": "udapānopi te gayā”ti."
+    },
+    {
+      "id": "mn7:21.1",
+      "pali": "Evaṁ vutte, sundarikabhāradvājo brāhmaṇo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn7:21.2",
+      "pali": "“abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama."
+    },
+    {
+      "id": "mn7:21.3",
+      "pali": "Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya—cakkhumanto rūpāni dakkhantīti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito."
+    },
+    {
+      "id": "mn7:21.4",
+      "pali": "Esāhaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "mn7:21.5",
+      "pali": "Labheyyāhaṁ bhoto gotamassa santike pabbajjaṁ, labheyyaṁ upasampadan”ti."
+    },
+    {
+      "id": "mn7:22.1",
+      "pali": "Alattha kho sundarikabhāradvājo brāhmaṇo bhagavato santike pabbajjaṁ, alattha upasampadaṁ."
+    },
+    {
+      "id": "mn7:22.2",
+      "pali": "Acirūpasampanno kho panāyasmā bhāradvājo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi."
+    },
+    {
+      "id": "mn7:22.3",
+      "pali": "“Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi."
+    },
+    {
+      "id": "mn7:22.4",
+      "pali": "Aññataro kho panāyasmā bhāradvājo arahataṁ ahosīti."
+    },
+    {
+      "id": "mn7:22.5",
+      "pali": "Vatthasuttaṁ niṭṭhitaṁ sattamaṁ."
+    }
+  ]
+}

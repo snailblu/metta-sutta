@@ -1,0 +1,663 @@
+{
+  "uid": "ja520",
+  "title": "Kiṁchandavagga",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "ja520:1.1",
+      "pali": "“Appamādo amataṁ padaṁ,"
+    },
+    {
+      "id": "ja520:1.2",
+      "pali": "Pamādo maccuno padaṁ;"
+    },
+    {
+      "id": "ja520:1.3",
+      "pali": "Appamattā na mīyanti,"
+    },
+    {
+      "id": "ja520:1.4",
+      "pali": "Ye pamattā yathā matā."
+    },
+    {
+      "id": "ja520:2.1",
+      "pali": "Madā pamādo jāyetha,"
+    },
+    {
+      "id": "ja520:2.2",
+      "pali": "pamādā jāyate khayo;"
+    },
+    {
+      "id": "ja520:2.3",
+      "pali": "Khayā padosā jāyanti,"
+    },
+    {
+      "id": "ja520:2.4",
+      "pali": "mā pamādo bharatūsabha."
+    },
+    {
+      "id": "ja520:3.1",
+      "pali": "Bahū hi khattiyā jīnā,"
+    },
+    {
+      "id": "ja520:3.2",
+      "pali": "atthaṁ raṭṭhaṁ pamādino;"
+    },
+    {
+      "id": "ja520:3.3",
+      "pali": "Athopi gāmino gāmā,"
+    },
+    {
+      "id": "ja520:3.4",
+      "pali": "anagārā agārino."
+    },
+    {
+      "id": "ja520:4.1",
+      "pali": "Khattiyassa pamattassa,"
+    },
+    {
+      "id": "ja520:4.2",
+      "pali": "raṭṭhasmiṁ raṭṭhavaḍḍhana;"
+    },
+    {
+      "id": "ja520:4.3",
+      "pali": "Sabbe bhogā vinassanti,"
+    },
+    {
+      "id": "ja520:4.4",
+      "pali": "rañño taṁ vuccate aghaṁ."
+    },
+    {
+      "id": "ja520:5.1",
+      "pali": "Nesa dhammo mahārāja,"
+    },
+    {
+      "id": "ja520:5.2",
+      "pali": "ativelaṁ pamajjasi;"
+    },
+    {
+      "id": "ja520:5.3",
+      "pali": "Iddhaṁ phītaṁ janapadaṁ,"
+    },
+    {
+      "id": "ja520:5.4",
+      "pali": "corā viddhaṁsayanti naṁ."
+    },
+    {
+      "id": "ja520:6.1",
+      "pali": "Na te puttā bhavissanti,"
+    },
+    {
+      "id": "ja520:6.2",
+      "pali": "na hiraññaṁ na dhāniyaṁ;"
+    },
+    {
+      "id": "ja520:6.3",
+      "pali": "Raṭṭhe viluppamānamhi,"
+    },
+    {
+      "id": "ja520:6.4",
+      "pali": "sabbabhogehi jiyyasi."
+    },
+    {
+      "id": "ja520:7.1",
+      "pali": "Sabbabhogā parijiṇṇaṁ,"
+    },
+    {
+      "id": "ja520:7.2",
+      "pali": "rājānaṁ vāpi khattiyaṁ;"
+    },
+    {
+      "id": "ja520:7.3",
+      "pali": "Ñātimittā suhajjā ca,"
+    },
+    {
+      "id": "ja520:7.4",
+      "pali": "na taṁ maññanti māniyaṁ."
+    },
+    {
+      "id": "ja520:8.1",
+      "pali": "Hatthārohā anikaṭṭhā,"
+    },
+    {
+      "id": "ja520:8.2",
+      "pali": "rathikā pattikārakā;"
+    },
+    {
+      "id": "ja520:8.3",
+      "pali": "Tamevamupajīvantā,"
+    },
+    {
+      "id": "ja520:8.4",
+      "pali": "na taṁ maññanti māniyaṁ."
+    },
+    {
+      "id": "ja520:9.1",
+      "pali": "Asaṁvihitakammantaṁ,"
+    },
+    {
+      "id": "ja520:9.2",
+      "pali": "bālaṁ dummantimantinaṁ;"
+    },
+    {
+      "id": "ja520:9.3",
+      "pali": "Sirī jahati dummedhaṁ,"
+    },
+    {
+      "id": "ja520:9.4",
+      "pali": "jiṇṇaṁva urago tacaṁ."
+    },
+    {
+      "id": "ja520:10.1",
+      "pali": "Susaṁvihitakammantaṁ,"
+    },
+    {
+      "id": "ja520:10.2",
+      "pali": "kāluṭṭhāyiṁ atanditaṁ;"
+    },
+    {
+      "id": "ja520:10.3",
+      "pali": "Sabbe bhogābhivaḍḍhanti,"
+    },
+    {
+      "id": "ja520:10.4",
+      "pali": "gāvo sausabhāmiva."
+    },
+    {
+      "id": "ja520:11.1",
+      "pali": "Upassutiṁ mahārāja,"
+    },
+    {
+      "id": "ja520:11.2",
+      "pali": "raṭṭhe janapade cara;"
+    },
+    {
+      "id": "ja520:11.3",
+      "pali": "Tattha disvā ca sutvā ca,"
+    },
+    {
+      "id": "ja520:11.4",
+      "pali": "tato taṁ paṭipajjasi”."
+    },
+    {
+      "id": "ja520:12.1",
+      "pali": "“Evaṁ vedetu pañcālo,"
+    },
+    {
+      "id": "ja520:12.2",
+      "pali": "saṅgāme saramappito;"
+    },
+    {
+      "id": "ja520:12.3",
+      "pali": "Yathāhamajja vedemi,"
+    },
+    {
+      "id": "ja520:12.4",
+      "pali": "kaṇṭakena samappito”."
+    },
+    {
+      "id": "ja520:13.1",
+      "pali": "“Jiṇṇo dubbalacakkhūsi,"
+    },
+    {
+      "id": "ja520:13.2",
+      "pali": "na rūpaṁ sādhu passasi;"
+    },
+    {
+      "id": "ja520:13.3",
+      "pali": "Kiṁ tattha brahmadattassa,"
+    },
+    {
+      "id": "ja520:13.4",
+      "pali": "yaṁ taṁ maggeyya kaṇṭako”."
+    },
+    {
+      "id": "ja520:14.1",
+      "pali": "“Bahvettha brahmadattassa,"
+    },
+    {
+      "id": "ja520:14.2",
+      "pali": "Sohaṁ maggasmi brāhmaṇa;"
+    },
+    {
+      "id": "ja520:14.3",
+      "pali": "Arakkhitā jānapadā,"
+    },
+    {
+      "id": "ja520:14.4",
+      "pali": "Adhammabalinā hatā."
+    },
+    {
+      "id": "ja520:15.1",
+      "pali": "Rattiñhi corā khādanti,"
+    },
+    {
+      "id": "ja520:15.2",
+      "pali": "divā khādanti tuṇḍiyā;"
+    },
+    {
+      "id": "ja520:15.3",
+      "pali": "Raṭṭhasmiṁ kūṭarājassa,"
+    },
+    {
+      "id": "ja520:15.4",
+      "pali": "bahu adhammiko jano."
+    },
+    {
+      "id": "ja520:16.1",
+      "pali": "Etādise bhaye jāte,"
+    },
+    {
+      "id": "ja520:16.2",
+      "pali": "bhayaṭṭā tāta māṇavā;"
+    },
+    {
+      "id": "ja520:16.3",
+      "pali": "Nillenakāni kubbanti,"
+    },
+    {
+      "id": "ja520:16.4",
+      "pali": "vane āhatva kaṇṭakaṁ”."
+    },
+    {
+      "id": "ja520:17.1",
+      "pali": "“Kadāssu nāmayaṁ rājā,"
+    },
+    {
+      "id": "ja520:17.2",
+      "pali": "brahmadatto marissati;"
+    },
+    {
+      "id": "ja520:17.3",
+      "pali": "Yassa raṭṭhamhi jiyyanti,"
+    },
+    {
+      "id": "ja520:17.4",
+      "pali": "appatikā kumārikā”."
+    },
+    {
+      "id": "ja520:18.1",
+      "pali": "“Dubbhāsitañhi te jammi,"
+    },
+    {
+      "id": "ja520:18.2",
+      "pali": "anatthapadakovide;"
+    },
+    {
+      "id": "ja520:18.3",
+      "pali": "Kuhiṁ rājā kumārīnaṁ,"
+    },
+    {
+      "id": "ja520:18.4",
+      "pali": "bhattāraṁ pariyesati”."
+    },
+    {
+      "id": "ja520:19.1",
+      "pali": "“Na me dubbhāsitaṁ brahme,"
+    },
+    {
+      "id": "ja520:19.2",
+      "pali": "kovidatthapadā ahaṁ;"
+    },
+    {
+      "id": "ja520:19.3",
+      "pali": "Arakkhitā jānapadā,"
+    },
+    {
+      "id": "ja520:19.4",
+      "pali": "adhammabalinā hatā."
+    },
+    {
+      "id": "ja520:20.1",
+      "pali": "Rattiñhi corā khādanti,"
+    },
+    {
+      "id": "ja520:20.2",
+      "pali": "divā khādanti tuṇḍiyā;"
+    },
+    {
+      "id": "ja520:20.3",
+      "pali": "Raṭṭhasmiṁ kūṭarājassa,"
+    },
+    {
+      "id": "ja520:20.4",
+      "pali": "bahu adhammiko jano;"
+    },
+    {
+      "id": "ja520:20.5",
+      "pali": "Dujjīve dubbhare dāre,"
+    },
+    {
+      "id": "ja520:20.6",
+      "pali": "kuto bhattā kumāriyo”."
+    },
+    {
+      "id": "ja520:21.1",
+      "pali": "“Evaṁ sayatu pañcālo,"
+    },
+    {
+      "id": "ja520:21.2",
+      "pali": "saṅgāme sattiyā hato;"
+    },
+    {
+      "id": "ja520:21.3",
+      "pali": "Yathāyaṁ kapaṇo seti,"
+    },
+    {
+      "id": "ja520:21.4",
+      "pali": "hato phālena sāliyo”."
+    },
+    {
+      "id": "ja520:22.1",
+      "pali": "“Adhammena tuvaṁ jamma,"
+    },
+    {
+      "id": "ja520:22.2",
+      "pali": "brahmadattassa kujjhasi;"
+    },
+    {
+      "id": "ja520:22.3",
+      "pali": "Yo tvaṁ sapasi rājānaṁ,"
+    },
+    {
+      "id": "ja520:22.4",
+      "pali": "aparajjhitvāna attano”."
+    },
+    {
+      "id": "ja520:23.1",
+      "pali": "“Dhammena brahmadattassa,"
+    },
+    {
+      "id": "ja520:23.2",
+      "pali": "ahaṁ kujjhāmi brāhmaṇa;"
+    },
+    {
+      "id": "ja520:23.3",
+      "pali": "Arakkhitā jānapadā,"
+    },
+    {
+      "id": "ja520:23.4",
+      "pali": "adhammabalinā hatā."
+    },
+    {
+      "id": "ja520:24.1",
+      "pali": "Rattiñhi corā khādanti,"
+    },
+    {
+      "id": "ja520:24.2",
+      "pali": "divā khādanti tuṇḍiyā;"
+    },
+    {
+      "id": "ja520:24.3",
+      "pali": "Raṭṭhasmiṁ kūṭarājassa,"
+    },
+    {
+      "id": "ja520:24.4",
+      "pali": "bahu adhammiko jano."
+    },
+    {
+      "id": "ja520:25.1",
+      "pali": "Sā nūna puna re pakkā,"
+    },
+    {
+      "id": "ja520:25.2",
+      "pali": "vikāle bhattamāhari;"
+    },
+    {
+      "id": "ja520:25.3",
+      "pali": "Bhattahāriṁ apekkhanto,"
+    },
+    {
+      "id": "ja520:25.4",
+      "pali": "hato phālena sāliyo”."
+    },
+    {
+      "id": "ja520:26.1",
+      "pali": "“Evaṁ haññatu pañcālo,"
+    },
+    {
+      "id": "ja520:26.2",
+      "pali": "saṅgāme asinā hato;"
+    },
+    {
+      "id": "ja520:26.3",
+      "pali": "Yathāhamajja pahato,"
+    },
+    {
+      "id": "ja520:26.4",
+      "pali": "khīrañca me pavaṭṭitaṁ”."
+    },
+    {
+      "id": "ja520:27.1",
+      "pali": "“Yaṁ pasu khīraṁ chaḍḍeti,"
+    },
+    {
+      "id": "ja520:27.2",
+      "pali": "pasupālaṁ vihiṁsati;"
+    },
+    {
+      "id": "ja520:27.3",
+      "pali": "Kiṁ tattha brahmadattassa,"
+    },
+    {
+      "id": "ja520:27.4",
+      "pali": "yaṁ no garahate bhavaṁ”."
+    },
+    {
+      "id": "ja520:28.1",
+      "pali": "“Gārayho brahme pañcālo,"
+    },
+    {
+      "id": "ja520:28.2",
+      "pali": "brahmadattassa rājino;"
+    },
+    {
+      "id": "ja520:28.3",
+      "pali": "Arakkhitā jānapadā,"
+    },
+    {
+      "id": "ja520:28.4",
+      "pali": "adhammabalinā hatā."
+    },
+    {
+      "id": "ja520:29.1",
+      "pali": "Rattiñhi corā khādanti,"
+    },
+    {
+      "id": "ja520:29.2",
+      "pali": "divā khādanti tuṇḍiyā;"
+    },
+    {
+      "id": "ja520:29.3",
+      "pali": "Raṭṭhasmiṁ kūṭarājassa,"
+    },
+    {
+      "id": "ja520:29.4",
+      "pali": "bahu adhammiko jano."
+    },
+    {
+      "id": "ja520:30.1",
+      "pali": "Caṇḍā aṭanakā gāvī,"
+    },
+    {
+      "id": "ja520:30.2",
+      "pali": "yaṁ pure na duhāmase;"
+    },
+    {
+      "id": "ja520:30.3",
+      "pali": "Taṁ dāni ajja dohāma,"
+    },
+    {
+      "id": "ja520:30.4",
+      "pali": "khīrakāmehupaddutā”."
+    },
+    {
+      "id": "ja520:31.1",
+      "pali": "“Evaṁ kandatu pañcālo,"
+    },
+    {
+      "id": "ja520:31.2",
+      "pali": "viputto vippasukkhatu;"
+    },
+    {
+      "id": "ja520:31.3",
+      "pali": "Yathāyaṁ kapaṇā gāvī,"
+    },
+    {
+      "id": "ja520:31.4",
+      "pali": "viputtā paridhāvati”."
+    },
+    {
+      "id": "ja520:32.1",
+      "pali": "“Yaṁ pasu pasupālassa,"
+    },
+    {
+      "id": "ja520:32.2",
+      "pali": "sambhameyya raveyya vā;"
+    },
+    {
+      "id": "ja520:32.3",
+      "pali": "Ko nīdha aparādhatthi,"
+    },
+    {
+      "id": "ja520:32.4",
+      "pali": "brahmadattassa rājino”."
+    },
+    {
+      "id": "ja520:33.1",
+      "pali": "“Aparādho mahābrahme,"
+    },
+    {
+      "id": "ja520:33.2",
+      "pali": "brahmadattassa rājino;"
+    },
+    {
+      "id": "ja520:33.3",
+      "pali": "Arakkhitā jānapadā,"
+    },
+    {
+      "id": "ja520:33.4",
+      "pali": "adhammabalinā hatā."
+    },
+    {
+      "id": "ja520:34.1",
+      "pali": "Rattiñhi corā khādanti,"
+    },
+    {
+      "id": "ja520:34.2",
+      "pali": "divā khādanti tuṇḍiyā;"
+    },
+    {
+      "id": "ja520:34.3",
+      "pali": "Raṭṭhasmiṁ kūṭarājassa,"
+    },
+    {
+      "id": "ja520:34.4",
+      "pali": "bahu adhammiko jano;"
+    },
+    {
+      "id": "ja520:34.5",
+      "pali": "Kathaṁ no asikosatthā,"
+    },
+    {
+      "id": "ja520:34.6",
+      "pali": "khīrapā haññate pajā”."
+    },
+    {
+      "id": "ja520:35.1",
+      "pali": "“Evaṁ khajjatu pañcālo,"
+    },
+    {
+      "id": "ja520:35.2",
+      "pali": "hato yuddhe saputtako;"
+    },
+    {
+      "id": "ja520:35.3",
+      "pali": "Yathāhamajja khajjāmi,"
+    },
+    {
+      "id": "ja520:35.4",
+      "pali": "gāmikehi araññajo”."
+    },
+    {
+      "id": "ja520:36.1",
+      "pali": "“Na sabbabhūtesu vidhenti rakkhaṁ,"
+    },
+    {
+      "id": "ja520:36.2",
+      "pali": "Rājāno maṇḍūka manussaloke;"
+    },
+    {
+      "id": "ja520:36.3",
+      "pali": "Nettāvatā rājā adhammacārī,"
+    },
+    {
+      "id": "ja520:36.4",
+      "pali": "Yaṁ tādisaṁ jīvamadeyyu dhaṅkā”."
+    },
+    {
+      "id": "ja520:37.1",
+      "pali": "“Adhammarūpo vata brahmacārī,"
+    },
+    {
+      "id": "ja520:37.2",
+      "pali": "Anuppiyaṁ bhāsasi khattiyassa;"
+    },
+    {
+      "id": "ja520:37.3",
+      "pali": "Viluppamānāya puthuppajāya,"
+    },
+    {
+      "id": "ja520:37.4",
+      "pali": "Pūjesi rājaṁ paramappamādaṁ."
+    },
+    {
+      "id": "ja520:38.1",
+      "pali": "Sace idaṁ brahme surajjakaṁ siyā,"
+    },
+    {
+      "id": "ja520:38.2",
+      "pali": "Phītaṁ raṭṭhaṁ muditaṁ vippasannaṁ;"
+    },
+    {
+      "id": "ja520:38.3",
+      "pali": "Bhutvā baliṁ aggapiṇḍañca kākā,"
+    },
+    {
+      "id": "ja520:38.4",
+      "pali": "Na mādisaṁ jīvamadeyyu dhaṅkā”ti."
+    },
+    {
+      "id": "ja520:39.1",
+      "pali": "Gandhatindukajātakaṁ dasamaṁ."
+    },
+    {
+      "id": "ja520:40.1",
+      "pali": "Tiṁsanipātaṁ niṭṭhitaṁ."
+    },
+    {
+      "id": "ja520:41.1",
+      "pali": "Tassuddānaṁ"
+    },
+    {
+      "id": "ja520:42.1",
+      "pali": "Kiṁchanda kumbha jayaddisa chaddanta,"
+    },
+    {
+      "id": "ja520:42.2",
+      "pali": "Atha paṇḍitasambhava sirakapi;"
+    },
+    {
+      "id": "ja520:42.3",
+      "pali": "Dakarakkhasa paṇḍaranāgavaro,"
+    },
+    {
+      "id": "ja520:42.4",
+      "pali": "Atha sambula tindukadevasutoti."
+    },
+    {
+      "id": "ja520:43.1",
+      "pali": "Jātakapāḷiyā paṭhamo bhāgo niṭṭhito."
+    }
+  ]
+}

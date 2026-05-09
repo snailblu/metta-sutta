@@ -1,0 +1,3575 @@
+{
+  "uid": "dn34",
+  "title": "Dasuttarasutta",
+  "nikaya": "dn",
+  "segments": [
+    {
+      "id": "dn34:1.1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "dn34:1.1.2",
+      "pali": "ekaṁ samayaṁ bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā tīre mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi."
+    },
+    {
+      "id": "dn34:1.1.3",
+      "pali": "Tatra kho āyasmā sāriputto bhikkhū āmantesi:"
+    },
+    {
+      "id": "dn34:1.1.4",
+      "pali": "“āvuso bhikkhave”ti."
+    },
+    {
+      "id": "dn34:1.1.5",
+      "pali": "“Āvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṁ."
+    },
+    {
+      "id": "dn34:1.1.6",
+      "pali": "Āyasmā sāriputto etadavoca:"
+    },
+    {
+      "id": "dn34:1.1.7",
+      "pali": "“Dasuttaraṁ pavakkhāmi,"
+    },
+    {
+      "id": "dn34:1.1.8",
+      "pali": "dhammaṁ nibbānapattiyā;"
+    },
+    {
+      "id": "dn34:1.1.9",
+      "pali": "Dukkhassantakiriyāya,"
+    },
+    {
+      "id": "dn34:1.1.10",
+      "pali": "sabbaganthappamocanaṁ."
+    },
+    {
+      "id": "dn34:1.2.0",
+      "pali": "1. Eko dhammo"
+    },
+    {
+      "id": "dn34:1.2.1",
+      "pali": "Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo."
+    },
+    {
+      "id": "dn34:1.2.2",
+      "pali": "Katamo eko dhammo bahukāro?"
+    },
+    {
+      "id": "dn34:1.2.3",
+      "pali": "Appamādo kusalesu dhammesu."
+    },
+    {
+      "id": "dn34:1.2.4",
+      "pali": "Ayaṁ eko dhammo bahukāro."
+    },
+    {
+      "id": "dn34:1.2.5",
+      "pali": "Katamo eko dhammo bhāvetabbo?"
+    },
+    {
+      "id": "dn34:1.2.6",
+      "pali": "Kāyagatāsati sātasahagatā."
+    },
+    {
+      "id": "dn34:1.2.7",
+      "pali": "Ayaṁ eko dhammo bhāvetabbo."
+    },
+    {
+      "id": "dn34:1.2.8",
+      "pali": "Katamo eko dhammo pariññeyyo?"
+    },
+    {
+      "id": "dn34:1.2.9",
+      "pali": "Phasso sāsavo upādāniyo."
+    },
+    {
+      "id": "dn34:1.2.10",
+      "pali": "Ayaṁ eko dhammo pariññeyyo."
+    },
+    {
+      "id": "dn34:1.2.11",
+      "pali": "Katamo eko dhammo pahātabbo?"
+    },
+    {
+      "id": "dn34:1.2.12",
+      "pali": "Asmimāno."
+    },
+    {
+      "id": "dn34:1.2.13",
+      "pali": "Ayaṁ eko dhammo pahātabbo."
+    },
+    {
+      "id": "dn34:1.2.14",
+      "pali": "Katamo eko dhammo hānabhāgiyo?"
+    },
+    {
+      "id": "dn34:1.2.15",
+      "pali": "Ayoniso manasikāro."
+    },
+    {
+      "id": "dn34:1.2.16",
+      "pali": "Ayaṁ eko dhammo hānabhāgiyo."
+    },
+    {
+      "id": "dn34:1.2.17",
+      "pali": "Katamo eko dhammo visesabhāgiyo?"
+    },
+    {
+      "id": "dn34:1.2.18",
+      "pali": "Yoniso manasikāro."
+    },
+    {
+      "id": "dn34:1.2.19",
+      "pali": "Ayaṁ eko dhammo visesabhāgiyo."
+    },
+    {
+      "id": "dn34:1.2.20",
+      "pali": "Katamo eko dhammo duppaṭivijjho?"
+    },
+    {
+      "id": "dn34:1.2.21",
+      "pali": "Ānantariko cetosamādhi."
+    },
+    {
+      "id": "dn34:1.2.22",
+      "pali": "Ayaṁ eko dhammo duppaṭivijjho."
+    },
+    {
+      "id": "dn34:1.2.23",
+      "pali": "Katamo eko dhammo uppādetabbo?"
+    },
+    {
+      "id": "dn34:1.2.24",
+      "pali": "Akuppaṁ ñāṇaṁ."
+    },
+    {
+      "id": "dn34:1.2.25",
+      "pali": "Ayaṁ eko dhammo uppādetabbo."
+    },
+    {
+      "id": "dn34:1.2.26",
+      "pali": "Katamo eko dhammo abhiññeyyo?"
+    },
+    {
+      "id": "dn34:1.2.27",
+      "pali": "Sabbe sattā āhāraṭṭhitikā."
+    },
+    {
+      "id": "dn34:1.2.28",
+      "pali": "Ayaṁ eko dhammo abhiññeyyo."
+    },
+    {
+      "id": "dn34:1.2.29",
+      "pali": "Katamo eko dhammo sacchikātabbo?"
+    },
+    {
+      "id": "dn34:1.2.30",
+      "pali": "Akuppā cetovimutti."
+    },
+    {
+      "id": "dn34:1.2.31",
+      "pali": "Ayaṁ eko dhammo sacchikātabbo."
+    },
+    {
+      "id": "dn34:1.2.32",
+      "pali": "Iti ime dasa dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā."
+    },
+    {
+      "id": "dn34:1.3.0",
+      "pali": "2. Dve dhammā"
+    },
+    {
+      "id": "dn34:1.3.1",
+      "pali": "Dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:1.3.2",
+      "pali": "Katame dve dhammā bahukārā?"
+    },
+    {
+      "id": "dn34:1.3.3",
+      "pali": "Sati ca sampajaññañca."
+    },
+    {
+      "id": "dn34:1.3.4",
+      "pali": "Ime dve dhammā bahukārā."
+    },
+    {
+      "id": "dn34:1.3.5",
+      "pali": "Katame dve dhammā bhāvetabbā?"
+    },
+    {
+      "id": "dn34:1.3.6",
+      "pali": "Samatho ca vipassanā ca."
+    },
+    {
+      "id": "dn34:1.3.7",
+      "pali": "Ime dve dhammā bhāvetabbā."
+    },
+    {
+      "id": "dn34:1.3.8",
+      "pali": "Katame dve dhammā pariññeyyā?"
+    },
+    {
+      "id": "dn34:1.3.9",
+      "pali": "Nāmañca rūpañca."
+    },
+    {
+      "id": "dn34:1.3.10",
+      "pali": "Ime dve dhammā pariññeyyā."
+    },
+    {
+      "id": "dn34:1.3.11",
+      "pali": "Katame dve dhammā pahātabbā?"
+    },
+    {
+      "id": "dn34:1.3.12",
+      "pali": "Avijjā ca bhavataṇhā ca."
+    },
+    {
+      "id": "dn34:1.3.13",
+      "pali": "Ime dve dhammā pahātabbā."
+    },
+    {
+      "id": "dn34:1.3.14",
+      "pali": "Katame dve dhammā hānabhāgiyā?"
+    },
+    {
+      "id": "dn34:1.3.15",
+      "pali": "Dovacassatā ca pāpamittatā ca."
+    },
+    {
+      "id": "dn34:1.3.16",
+      "pali": "Ime dve dhammā hānabhāgiyā."
+    },
+    {
+      "id": "dn34:1.3.17",
+      "pali": "Katame dve dhammā visesabhāgiyā?"
+    },
+    {
+      "id": "dn34:1.3.18",
+      "pali": "Sovacassatā ca kalyāṇamittatā ca."
+    },
+    {
+      "id": "dn34:1.3.19",
+      "pali": "Ime dve dhammā visesabhāgiyā."
+    },
+    {
+      "id": "dn34:1.3.20",
+      "pali": "Katame dve dhammā duppaṭivijjhā?"
+    },
+    {
+      "id": "dn34:1.3.21",
+      "pali": "Yo ca hetu yo ca paccayo sattānaṁ saṅkilesāya, yo ca hetu yo ca paccayo sattānaṁ visuddhiyā."
+    },
+    {
+      "id": "dn34:1.3.22",
+      "pali": "Ime dve dhammā duppaṭivijjhā."
+    },
+    {
+      "id": "dn34:1.3.23",
+      "pali": "Katame dve dhammā uppādetabbā?"
+    },
+    {
+      "id": "dn34:1.3.24",
+      "pali": "Dve ñāṇāni—"
+    },
+    {
+      "id": "dn34:1.3.25",
+      "pali": "khaye ñāṇaṁ, anuppāde ñāṇaṁ."
+    },
+    {
+      "id": "dn34:1.3.26",
+      "pali": "Ime dve dhammā uppādetabbā."
+    },
+    {
+      "id": "dn34:1.3.27",
+      "pali": "Katame dve dhammā abhiññeyyā?"
+    },
+    {
+      "id": "dn34:1.3.28",
+      "pali": "Dve dhātuyo—"
+    },
+    {
+      "id": "dn34:1.3.29",
+      "pali": "saṅkhatā ca dhātu asaṅkhatā ca dhātu."
+    },
+    {
+      "id": "dn34:1.3.30",
+      "pali": "Ime dve dhammā abhiññeyyā."
+    },
+    {
+      "id": "dn34:1.3.31",
+      "pali": "Katame dve dhammā sacchikātabbā?"
+    },
+    {
+      "id": "dn34:1.3.32",
+      "pali": "Vijjā ca vimutti ca."
+    },
+    {
+      "id": "dn34:1.3.33",
+      "pali": "Ime dve dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:1.3.34",
+      "pali": "Iti ime vīsati dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā."
+    },
+    {
+      "id": "dn34:1.4.0",
+      "pali": "3. Tayo dhammā"
+    },
+    {
+      "id": "dn34:1.4.1",
+      "pali": "Tayo dhammā bahukārā, tayo dhammā bhāvetabbā …pe… tayo dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:1.4.2",
+      "pali": "Katame tayo dhammā bahukārā?"
+    },
+    {
+      "id": "dn34:1.4.3",
+      "pali": "Sappurisasaṁsevo, saddhammassavanaṁ, dhammānudhammappaṭipatti."
+    },
+    {
+      "id": "dn34:1.4.4",
+      "pali": "Ime tayo dhammā bahukārā."
+    },
+    {
+      "id": "dn34:1.4.5",
+      "pali": "Katame tayo dhammā bhāvetabbā?"
+    },
+    {
+      "id": "dn34:1.4.6",
+      "pali": "Tayo samādhī—"
+    },
+    {
+      "id": "dn34:1.4.7",
+      "pali": "savitakko savicāro samādhi, avitakko vicāramatto samādhi, avitakko avicāro samādhi."
+    },
+    {
+      "id": "dn34:1.4.8",
+      "pali": "Ime tayo dhammā bhāvetabbā."
+    },
+    {
+      "id": "dn34:1.4.9",
+      "pali": "Katame tayo dhammā pariññeyyā?"
+    },
+    {
+      "id": "dn34:1.4.10",
+      "pali": "Tisso vedanā—"
+    },
+    {
+      "id": "dn34:1.4.11",
+      "pali": "sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā."
+    },
+    {
+      "id": "dn34:1.4.12",
+      "pali": "Ime tayo dhammā pariññeyyā."
+    },
+    {
+      "id": "dn34:1.4.13",
+      "pali": "Katame tayo dhammā pahātabbā?"
+    },
+    {
+      "id": "dn34:1.4.14",
+      "pali": "Tisso taṇhā—"
+    },
+    {
+      "id": "dn34:1.4.15",
+      "pali": "kāmataṇhā, bhavataṇhā, vibhavataṇhā."
+    },
+    {
+      "id": "dn34:1.4.16",
+      "pali": "Ime tayo dhammā pahātabbā."
+    },
+    {
+      "id": "dn34:1.4.17",
+      "pali": "Katame tayo dhammā hānabhāgiyā?"
+    },
+    {
+      "id": "dn34:1.4.18",
+      "pali": "Tīṇi akusalamūlāni—"
+    },
+    {
+      "id": "dn34:1.4.19",
+      "pali": "lobho akusalamūlaṁ, doso akusalamūlaṁ, moho akusalamūlaṁ."
+    },
+    {
+      "id": "dn34:1.4.20",
+      "pali": "Ime tayo dhammā hānabhāgiyā."
+    },
+    {
+      "id": "dn34:1.4.21",
+      "pali": "Katame tayo dhammā visesabhāgiyā?"
+    },
+    {
+      "id": "dn34:1.4.22",
+      "pali": "Tīṇi kusalamūlāni—"
+    },
+    {
+      "id": "dn34:1.4.23",
+      "pali": "alobho kusalamūlaṁ, adoso kusalamūlaṁ, amoho kusalamūlaṁ."
+    },
+    {
+      "id": "dn34:1.4.24",
+      "pali": "Ime tayo dhammā visesabhāgiyā."
+    },
+    {
+      "id": "dn34:1.4.25",
+      "pali": "Katame tayo dhammā duppaṭivijjhā?"
+    },
+    {
+      "id": "dn34:1.4.26",
+      "pali": "Tisso nissaraṇiyā dhātuyo—"
+    },
+    {
+      "id": "dn34:1.4.27",
+      "pali": "kāmānametaṁ nissaraṇaṁ yadidaṁ nekkhammaṁ, rūpānametaṁ nissaraṇaṁ yadidaṁ arūpaṁ, yaṁ kho pana kiñci bhūtaṁ saṅkhataṁ paṭiccasamuppannaṁ, nirodho tassa nissaraṇaṁ."
+    },
+    {
+      "id": "dn34:1.4.28",
+      "pali": "Ime tayo dhammā duppaṭivijjhā."
+    },
+    {
+      "id": "dn34:1.4.29",
+      "pali": "Katame tayo dhammā uppādetabbā?"
+    },
+    {
+      "id": "dn34:1.4.30",
+      "pali": "Tīṇi ñāṇāni—"
+    },
+    {
+      "id": "dn34:1.4.31",
+      "pali": "atītaṁse ñāṇaṁ, anāgataṁse ñāṇaṁ, paccuppannaṁse ñāṇaṁ."
+    },
+    {
+      "id": "dn34:1.4.32",
+      "pali": "Ime tayo dhammā uppādetabbā."
+    },
+    {
+      "id": "dn34:1.4.33",
+      "pali": "Katame tayo dhammā abhiññeyyā?"
+    },
+    {
+      "id": "dn34:1.4.34",
+      "pali": "Tisso dhātuyo—"
+    },
+    {
+      "id": "dn34:1.4.35",
+      "pali": "kāmadhātu, rūpadhātu, arūpadhātu."
+    },
+    {
+      "id": "dn34:1.4.36",
+      "pali": "Ime tayo dhammā abhiññeyyā."
+    },
+    {
+      "id": "dn34:1.4.37",
+      "pali": "Katame tayo dhammā sacchikātabbā?"
+    },
+    {
+      "id": "dn34:1.4.38",
+      "pali": "Tisso vijjā—"
+    },
+    {
+      "id": "dn34:1.4.39",
+      "pali": "pubbenivāsānussatiñāṇaṁ vijjā, sattānaṁ cutūpapāte ñāṇaṁ vijjā, āsavānaṁ khaye ñāṇaṁ vijjā."
+    },
+    {
+      "id": "dn34:1.4.40",
+      "pali": "Ime tayo dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:1.4.41",
+      "pali": "Iti ime tiṁsa dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā."
+    },
+    {
+      "id": "dn34:1.5.0",
+      "pali": "4. Cattāro dhammā"
+    },
+    {
+      "id": "dn34:1.5.1",
+      "pali": "Cattāro dhammā bahukārā, cattāro dhammā bhāvetabbā …pe… cattāro dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:1.5.2",
+      "pali": "Katame cattāro dhammā bahukārā?"
+    },
+    {
+      "id": "dn34:1.5.3",
+      "pali": "Cattāri cakkāni—"
+    },
+    {
+      "id": "dn34:1.5.4",
+      "pali": "patirūpadesavāso, sappurisūpanissayo, attasammāpaṇidhi, pubbe ca katapuññatā."
+    },
+    {
+      "id": "dn34:1.5.5",
+      "pali": "Ime cattāro dhammā bahukārā."
+    },
+    {
+      "id": "dn34:1.5.6",
+      "pali": "Katame cattāro dhammā bhāvetabbā?"
+    },
+    {
+      "id": "dn34:1.5.7",
+      "pali": "Cattāro satipaṭṭhānā—"
+    },
+    {
+      "id": "dn34:1.5.8",
+      "pali": "idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "dn34:1.5.9",
+      "pali": "Vedanāsu …pe…"
+    },
+    {
+      "id": "dn34:1.5.10",
+      "pali": "citte …"
+    },
+    {
+      "id": "dn34:1.5.11",
+      "pali": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "dn34:1.5.12",
+      "pali": "Ime cattāro dhammā bhāvetabbā."
+    },
+    {
+      "id": "dn34:1.5.13",
+      "pali": "Katame cattāro dhammā pariññeyyā?"
+    },
+    {
+      "id": "dn34:1.5.14",
+      "pali": "Cattāro āhārā—"
+    },
+    {
+      "id": "dn34:1.5.15",
+      "pali": "kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṁ catutthaṁ."
+    },
+    {
+      "id": "dn34:1.5.16",
+      "pali": "Ime cattāro dhammā pariññeyyā."
+    },
+    {
+      "id": "dn34:1.5.17",
+      "pali": "Katame cattāro dhammā pahātabbā?"
+    },
+    {
+      "id": "dn34:1.5.18",
+      "pali": "Cattāro oghā—"
+    },
+    {
+      "id": "dn34:1.5.19",
+      "pali": "kāmogho, bhavogho, diṭṭhogho, avijjogho."
+    },
+    {
+      "id": "dn34:1.5.20",
+      "pali": "Ime cattāro dhammā pahātabbā."
+    },
+    {
+      "id": "dn34:1.5.21",
+      "pali": "Katame cattāro dhammā hānabhāgiyā?"
+    },
+    {
+      "id": "dn34:1.5.22",
+      "pali": "Cattāro yogā—"
+    },
+    {
+      "id": "dn34:1.5.23",
+      "pali": "kāmayogo, bhavayogo, diṭṭhiyogo, avijjāyogo."
+    },
+    {
+      "id": "dn34:1.5.24",
+      "pali": "Ime cattāro dhammā hānabhāgiyā."
+    },
+    {
+      "id": "dn34:1.5.25",
+      "pali": "Katame cattāro dhammā visesabhāgiyā?"
+    },
+    {
+      "id": "dn34:1.5.26",
+      "pali": "Cattāro visaṁyogā—"
+    },
+    {
+      "id": "dn34:1.5.27",
+      "pali": "kāmayogavisaṁyogo, bhavayogavisaṁyogo, diṭṭhiyogavisaṁyogo, avijjāyogavisaṁyogo."
+    },
+    {
+      "id": "dn34:1.5.28",
+      "pali": "Ime cattāro dhammā visesabhāgiyā."
+    },
+    {
+      "id": "dn34:1.5.29",
+      "pali": "Katame cattāro dhammā duppaṭivijjhā?"
+    },
+    {
+      "id": "dn34:1.5.30",
+      "pali": "Cattāro samādhī—"
+    },
+    {
+      "id": "dn34:1.5.31",
+      "pali": "hānabhāgiyo samādhi, ṭhitibhāgiyo samādhi, visesabhāgiyo samādhi, nibbedhabhāgiyo samādhi."
+    },
+    {
+      "id": "dn34:1.5.32",
+      "pali": "Ime cattāro dhammā duppaṭivijjhā."
+    },
+    {
+      "id": "dn34:1.5.33",
+      "pali": "Katame cattāro dhammā uppādetabbā?"
+    },
+    {
+      "id": "dn34:1.5.34",
+      "pali": "Cattāri ñāṇāni—"
+    },
+    {
+      "id": "dn34:1.5.35",
+      "pali": "dhamme ñāṇaṁ, anvaye ñāṇaṁ, pariye ñāṇaṁ, sammutiyā ñāṇaṁ."
+    },
+    {
+      "id": "dn34:1.5.36",
+      "pali": "Ime cattāro dhammā uppādetabbā."
+    },
+    {
+      "id": "dn34:1.5.37",
+      "pali": "Katame cattāro dhammā abhiññeyyā?"
+    },
+    {
+      "id": "dn34:1.5.38",
+      "pali": "Cattāri ariyasaccāni—"
+    },
+    {
+      "id": "dn34:1.5.39",
+      "pali": "dukkhaṁ ariyasaccaṁ, dukkhasamudayaṁ ariyasaccaṁ, dukkhanirodhaṁ ariyasaccaṁ, dukkhanirodhagāminī paṭipadā ariyasaccaṁ."
+    },
+    {
+      "id": "dn34:1.5.40",
+      "pali": "Ime cattāro dhammā abhiññeyyā."
+    },
+    {
+      "id": "dn34:1.5.41",
+      "pali": "Katame cattāro dhammā sacchikātabbā?"
+    },
+    {
+      "id": "dn34:1.5.42",
+      "pali": "Cattāri sāmaññaphalāni—"
+    },
+    {
+      "id": "dn34:1.5.43",
+      "pali": "sotāpattiphalaṁ, sakadāgāmiphalaṁ, anāgāmiphalaṁ, arahattaphalaṁ."
+    },
+    {
+      "id": "dn34:1.5.44",
+      "pali": "Ime cattāro dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:1.5.45",
+      "pali": "Iti ime cattārīsadhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā."
+    },
+    {
+      "id": "dn34:1.6.0",
+      "pali": "5. Pañca dhammā"
+    },
+    {
+      "id": "dn34:1.6.1",
+      "pali": "Pañca dhammā bahukārā …pe… pañca dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:1.6.2",
+      "pali": "Katame pañca dhammā bahukārā?"
+    },
+    {
+      "id": "dn34:1.6.3",
+      "pali": "Pañca padhāniyaṅgāni—"
+    },
+    {
+      "id": "dn34:1.6.4",
+      "pali": "idhāvuso, bhikkhu saddho hoti, saddahati tathāgatassa bodhiṁ:"
+    },
+    {
+      "id": "dn34:1.6.5",
+      "pali": "‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti."
+    },
+    {
+      "id": "dn34:1.6.6",
+      "pali": "Appābādho hoti appātaṅko samavepākiniyā gahaṇiyā samannāgato nātisītāya nāccuṇhāya majjhimāya padhānakkhamāya."
+    },
+    {
+      "id": "dn34:1.6.7",
+      "pali": "Asaṭho hoti amāyāvī yathābhūtamattānaṁ āvīkattā satthari vā viññūsu vā sabrahmacārīsu."
+    },
+    {
+      "id": "dn34:1.6.8",
+      "pali": "Āraddhavīriyo viharati akusalānaṁ dhammānaṁ pahānāya, kusalānaṁ dhammānaṁ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu."
+    },
+    {
+      "id": "dn34:1.6.9",
+      "pali": "Paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā."
+    },
+    {
+      "id": "dn34:1.6.10",
+      "pali": "Ime pañca dhammā bahukārā."
+    },
+    {
+      "id": "dn34:1.6.11",
+      "pali": "Katame pañca dhammā bhāvetabbā?"
+    },
+    {
+      "id": "dn34:1.6.12",
+      "pali": "Pañcaṅgiko sammāsamādhi—"
+    },
+    {
+      "id": "dn34:1.6.13",
+      "pali": "pītipharaṇatā, sukhapharaṇatā, cetopharaṇatā, ālokapharaṇatā, paccavekkhaṇanimittaṁ."
+    },
+    {
+      "id": "dn34:1.6.14",
+      "pali": "Ime pañca dhammā bhāvetabbā."
+    },
+    {
+      "id": "dn34:1.6.15",
+      "pali": "Katame pañca dhammā pariññeyyā?"
+    },
+    {
+      "id": "dn34:1.6.16",
+      "pali": "Pañcupādānakkhandhā—"
+    },
+    {
+      "id": "dn34:1.6.17",
+      "pali": "rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho viññāṇupādānakkhandho."
+    },
+    {
+      "id": "dn34:1.6.18",
+      "pali": "Ime pañca dhammā pariññeyyā."
+    },
+    {
+      "id": "dn34:1.6.19",
+      "pali": "Katame pañca dhammā pahātabbā?"
+    },
+    {
+      "id": "dn34:1.6.20",
+      "pali": "Pañca nīvaraṇāni—"
+    },
+    {
+      "id": "dn34:1.6.21",
+      "pali": "kāmacchandanīvaraṇaṁ, byāpādanīvaraṇaṁ, thinamiddhanīvaraṇaṁ, uddhaccakukkuccanīvaraṇaṁ, vicikicchānīvaraṇaṁ."
+    },
+    {
+      "id": "dn34:1.6.22",
+      "pali": "Ime pañca dhammā pahātabbā."
+    },
+    {
+      "id": "dn34:1.6.23",
+      "pali": "Katame pañca dhammā hānabhāgiyā?"
+    },
+    {
+      "id": "dn34:1.6.24",
+      "pali": "Pañca cetokhilā—"
+    },
+    {
+      "id": "dn34:1.6.25",
+      "pali": "idhāvuso, bhikkhu satthari kaṅkhati vicikicchati nādhimuccati na sampasīdati."
+    },
+    {
+      "id": "dn34:1.6.26",
+      "pali": "Yo so, āvuso, bhikkhu satthari kaṅkhati vicikicchati nādhimuccati na sampasīdati, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya."
+    },
+    {
+      "id": "dn34:1.6.27",
+      "pali": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya."
+    },
+    {
+      "id": "dn34:1.6.28",
+      "pali": "Ayaṁ paṭhamo cetokhilo."
+    },
+    {
+      "id": "dn34:1.6.29",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu dhamme kaṅkhati vicikicchati …pe…"
+    },
+    {
+      "id": "dn34:1.6.30",
+      "pali": "saṅghe kaṅkhati vicikicchati …pe…"
+    },
+    {
+      "id": "dn34:1.6.31",
+      "pali": "sikkhāya kaṅkhati vicikicchati …pe…"
+    },
+    {
+      "id": "dn34:1.6.32",
+      "pali": "sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto, yo so, āvuso, bhikkhu sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya."
+    },
+    {
+      "id": "dn34:1.6.33",
+      "pali": "Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya."
+    },
+    {
+      "id": "dn34:1.6.34",
+      "pali": "Ayaṁ pañcamo cetokhilo."
+    },
+    {
+      "id": "dn34:1.6.35",
+      "pali": "Ime pañca dhammā hānabhāgiyā."
+    },
+    {
+      "id": "dn34:1.6.36",
+      "pali": "Katame pañca dhammā visesabhāgiyā?"
+    },
+    {
+      "id": "dn34:1.6.37",
+      "pali": "Pañcindriyāni—"
+    },
+    {
+      "id": "dn34:1.6.38",
+      "pali": "saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ, paññindriyaṁ."
+    },
+    {
+      "id": "dn34:1.6.39",
+      "pali": "Ime pañca dhammā visesabhāgiyā."
+    },
+    {
+      "id": "dn34:1.6.40",
+      "pali": "Katame pañca dhammā duppaṭivijjhā?"
+    },
+    {
+      "id": "dn34:1.6.41",
+      "pali": "Pañca nissaraṇiyā dhātuyo—"
+    },
+    {
+      "id": "dn34:1.6.42",
+      "pali": "idhāvuso, bhikkhuno kāme manasikaroto kāmesu cittaṁ na pakkhandati na pasīdati na santiṭṭhati na vimuccati."
+    },
+    {
+      "id": "dn34:1.6.43",
+      "pali": "Nekkhammaṁ kho panassa manasikaroto nekkhamme cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati."
+    },
+    {
+      "id": "dn34:1.6.44",
+      "pali": "Tassa taṁ cittaṁ sugataṁ subhāvitaṁ suvuṭṭhitaṁ suvimuttaṁ visaṁyuttaṁ kāmehi."
+    },
+    {
+      "id": "dn34:1.6.45",
+      "pali": "Ye ca kāmapaccayā uppajjanti āsavā vighātā pariḷāhā, mutto so tehi. Na so taṁ vedanaṁ vedeti."
+    },
+    {
+      "id": "dn34:1.6.46",
+      "pali": "Idamakkhātaṁ kāmānaṁ nissaraṇaṁ."
+    },
+    {
+      "id": "dn34:1.6.47",
+      "pali": "Puna caparaṁ, āvuso, bhikkhuno byāpādaṁ manasikaroto byāpāde cittaṁ na pakkhandati na pasīdati na santiṭṭhati na vimuccati."
+    },
+    {
+      "id": "dn34:1.6.48",
+      "pali": "Abyāpādaṁ kho panassa manasikaroto abyāpāde cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati."
+    },
+    {
+      "id": "dn34:1.6.49",
+      "pali": "Tassa taṁ cittaṁ sugataṁ subhāvitaṁ suvuṭṭhitaṁ suvimuttaṁ visaṁyuttaṁ byāpādena."
+    },
+    {
+      "id": "dn34:1.6.50",
+      "pali": "Ye ca byāpādapaccayā uppajjanti āsavā vighātā pariḷāhā, mutto so tehi. Na so taṁ vedanaṁ vedeti."
+    },
+    {
+      "id": "dn34:1.6.51",
+      "pali": "Idamakkhātaṁ byāpādassa nissaraṇaṁ."
+    },
+    {
+      "id": "dn34:1.6.52",
+      "pali": "Puna caparaṁ, āvuso, bhikkhuno vihesaṁ manasikaroto vihesāya cittaṁ na pakkhandati na pasīdati na santiṭṭhati na vimuccati."
+    },
+    {
+      "id": "dn34:1.6.53",
+      "pali": "Avihesaṁ kho panassa manasikaroto avihesāya cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati."
+    },
+    {
+      "id": "dn34:1.6.54",
+      "pali": "Tassa taṁ cittaṁ sugataṁ subhāvitaṁ suvuṭṭhitaṁ suvimuttaṁ visaṁyuttaṁ vihesāya."
+    },
+    {
+      "id": "dn34:1.6.55",
+      "pali": "Ye ca vihesāpaccayā uppajjanti āsavā vighātā pariḷāhā, mutto so tehi. Na so taṁ vedanaṁ vedeti."
+    },
+    {
+      "id": "dn34:1.6.56",
+      "pali": "Idamakkhātaṁ vihesāya nissaraṇaṁ."
+    },
+    {
+      "id": "dn34:1.6.57",
+      "pali": "Puna caparaṁ, āvuso, bhikkhuno rūpe manasikaroto rūpesu cittaṁ na pakkhandati na pasīdati na santiṭṭhati na vimuccati."
+    },
+    {
+      "id": "dn34:1.6.58",
+      "pali": "Arūpaṁ kho panassa manasikaroto arūpe cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati."
+    },
+    {
+      "id": "dn34:1.6.59",
+      "pali": "Tassa taṁ cittaṁ sugataṁ subhāvitaṁ suvuṭṭhitaṁ suvimuttaṁ visaṁyuttaṁ rūpehi."
+    },
+    {
+      "id": "dn34:1.6.60",
+      "pali": "Ye ca rūpapaccayā uppajjanti āsavā vighātā pariḷāhā, mutto so tehi. Na so taṁ vedanaṁ vedeti."
+    },
+    {
+      "id": "dn34:1.6.61",
+      "pali": "Idamakkhātaṁ rūpānaṁ nissaraṇaṁ."
+    },
+    {
+      "id": "dn34:1.6.62",
+      "pali": "Puna caparaṁ, āvuso, bhikkhuno sakkāyaṁ manasikaroto sakkāye cittaṁ na pakkhandati na pasīdati na santiṭṭhati na vimuccati."
+    },
+    {
+      "id": "dn34:1.6.63",
+      "pali": "Sakkāyanirodhaṁ kho panassa manasikaroto sakkāyanirodhe cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati."
+    },
+    {
+      "id": "dn34:1.6.64",
+      "pali": "Tassa taṁ cittaṁ sugataṁ subhāvitaṁ suvuṭṭhitaṁ suvimuttaṁ visaṁyuttaṁ sakkāyena."
+    },
+    {
+      "id": "dn34:1.6.65",
+      "pali": "Ye ca sakkāyapaccayā uppajjanti āsavā vighātā pariḷāhā, mutto so tehi. Na so taṁ vedanaṁ vedeti."
+    },
+    {
+      "id": "dn34:1.6.66",
+      "pali": "Idamakkhātaṁ sakkāyassa nissaraṇaṁ."
+    },
+    {
+      "id": "dn34:1.6.67",
+      "pali": "Ime pañca dhammā duppaṭivijjhā."
+    },
+    {
+      "id": "dn34:1.6.68",
+      "pali": "Katame pañca dhammā uppādetabbā?"
+    },
+    {
+      "id": "dn34:1.6.69",
+      "pali": "Pañca ñāṇiko sammāsamādhi:"
+    },
+    {
+      "id": "dn34:1.6.70",
+      "pali": "‘ayaṁ samādhi paccuppannasukho ceva āyatiñca sukhavipāko’ti paccattaṁyeva ñāṇaṁ uppajjati."
+    },
+    {
+      "id": "dn34:1.6.71",
+      "pali": "‘Ayaṁ samādhi ariyo nirāmiso’ti paccattaññeva ñāṇaṁ uppajjati."
+    },
+    {
+      "id": "dn34:1.6.72",
+      "pali": "‘Ayaṁ samādhi akāpurisasevito’ti paccattaṁyeva ñāṇaṁ uppajjati."
+    },
+    {
+      "id": "dn34:1.6.73",
+      "pali": "‘Ayaṁ samādhi santo paṇīto paṭippassaddhaladdho ekodibhāvādhigato, na sasaṅkhāraniggayhavāritagato’ti paccattaṁyeva ñāṇaṁ uppajjati."
+    },
+    {
+      "id": "dn34:1.6.74",
+      "pali": "‘So kho panāhaṁ imaṁ samādhiṁ satova samāpajjāmi sato vuṭṭhahāmī’ti paccattaṁyeva ñāṇaṁ uppajjati."
+    },
+    {
+      "id": "dn34:1.6.75",
+      "pali": "Ime pañca dhammā uppādetabbā."
+    },
+    {
+      "id": "dn34:1.6.76",
+      "pali": "Katame pañca dhammā abhiññeyyā?"
+    },
+    {
+      "id": "dn34:1.6.77",
+      "pali": "Pañca vimuttāyatanāni—"
+    },
+    {
+      "id": "dn34:1.6.78",
+      "pali": "idhāvuso, bhikkhuno satthā dhammaṁ deseti aññataro vā garuṭṭhāniyo sabrahmacārī."
+    },
+    {
+      "id": "dn34:1.6.79",
+      "pali": "Yathā yathā, āvuso, bhikkhuno satthā dhammaṁ deseti, aññataro vā garuṭṭhāniyo sabrahmacārī tathā tathā so tasmiṁ dhamme atthappaṭisaṁvedī ca hoti dhammapaṭisaṁvedī ca."
+    },
+    {
+      "id": "dn34:1.6.80",
+      "pali": "Tassa atthappaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati."
+    },
+    {
+      "id": "dn34:1.6.81",
+      "pali": "Idaṁ paṭhamaṁ vimuttāyatanaṁ."
+    },
+    {
+      "id": "dn34:1.6.82",
+      "pali": "Puna caparaṁ, āvuso, bhikkhuno na heva kho satthā dhammaṁ deseti, aññataro vā garuṭṭhāniyo sabrahmacārī, api ca kho yathāsutaṁ yathāpariyattaṁ dhammaṁ vitthārena paresaṁ deseti"
+    },
+    {
+      "id": "dn34:1.6.83",
+      "pali": "yathā yathā, āvuso, bhikkhu yathāsutaṁ yathāpariyattaṁ dhammaṁ vitthārena paresaṁ deseti tathā tathā so tasmiṁ dhamme atthappaṭisaṁvedī ca hoti dhammapaṭisaṁvedī ca."
+    },
+    {
+      "id": "dn34:1.6.84",
+      "pali": "Tassa atthappaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati."
+    },
+    {
+      "id": "dn34:1.6.85",
+      "pali": "Idaṁ dutiyaṁ vimuttāyatanaṁ."
+    },
+    {
+      "id": "dn34:1.6.86",
+      "pali": "Puna caparaṁ, āvuso, bhikkhuno na heva kho satthā dhammaṁ deseti, aññataro vā garuṭṭhāniyo sabrahmacārī, nāpi yathāsutaṁ yathāpariyattaṁ dhammaṁ vitthārena paresaṁ deseti. Api ca kho yathāsutaṁ yathāpariyattaṁ dhammaṁ vitthārena sajjhāyaṁ karoti."
+    },
+    {
+      "id": "dn34:1.6.87",
+      "pali": "Yathā yathā, āvuso, bhikkhu yathāsutaṁ yathāpariyattaṁ dhammaṁ vitthārena sajjhāyaṁ karoti tathā tathā so tasmiṁ dhamme atthappaṭisaṁvedī ca hoti dhammapaṭisaṁvedī ca."
+    },
+    {
+      "id": "dn34:1.6.88",
+      "pali": "Tassa atthappaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati."
+    },
+    {
+      "id": "dn34:1.6.89",
+      "pali": "Idaṁ tatiyaṁ vimuttāyatanaṁ."
+    },
+    {
+      "id": "dn34:1.6.90",
+      "pali": "Puna caparaṁ, āvuso, bhikkhuno na heva kho satthā dhammaṁ deseti, aññataro vā garuṭṭhāniyo sabrahmacārī, nāpi yathāsutaṁ yathāpariyattaṁ dhammaṁ vitthārena paresaṁ deseti, nāpi yathāsutaṁ yathāpariyattaṁ dhammaṁ vitthārena sajjhāyaṁ karoti."
+    },
+    {
+      "id": "dn34:1.6.91",
+      "pali": "Api ca kho yathāsutaṁ yathāpariyattaṁ dhammaṁ cetasā anuvitakketi anuvicāreti manasānupekkhati."
+    },
+    {
+      "id": "dn34:1.6.92",
+      "pali": "Yathā yathā, āvuso, bhikkhu yathāsutaṁ yathāpariyattaṁ dhammaṁ cetasā anuvitakketi anuvicāreti manasānupekkhati tathā tathā so tasmiṁ dhamme atthappaṭisaṁvedī ca hoti dhammapaṭisaṁvedī ca."
+    },
+    {
+      "id": "dn34:1.6.93",
+      "pali": "Tassa atthappaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati."
+    },
+    {
+      "id": "dn34:1.6.94",
+      "pali": "Idaṁ catutthaṁ vimuttāyatanaṁ."
+    },
+    {
+      "id": "dn34:1.6.95",
+      "pali": "Puna caparaṁ, āvuso, bhikkhuno na heva kho satthā dhammaṁ deseti, aññataro vā garuṭṭhāniyo sabrahmacārī, nāpi yathāsutaṁ yathāpariyattaṁ dhammaṁ vitthārena paresaṁ deseti, nāpi yathāsutaṁ yathāpariyattaṁ dhammaṁ vitthārena sajjhāyaṁ karoti, nāpi yathāsutaṁ yathāpariyattaṁ dhammaṁ cetasā anuvitakketi anuvicāreti manasānupekkhati;"
+    },
+    {
+      "id": "dn34:1.6.96",
+      "pali": "api ca khvassa aññataraṁ samādhinimittaṁ suggahitaṁ hoti sumanasikataṁ sūpadhāritaṁ suppaṭividdhaṁ paññāya."
+    },
+    {
+      "id": "dn34:1.6.97",
+      "pali": "Yathā yathā, āvuso, bhikkhuno aññataraṁ samādhinimittaṁ suggahitaṁ hoti sumanasikataṁ sūpadhāritaṁ suppaṭividdhaṁ paññāya tathā tathā so tasmiṁ dhamme atthappaṭisaṁvedī ca hoti dhammappaṭisaṁvedī ca."
+    },
+    {
+      "id": "dn34:1.6.98",
+      "pali": "Tassa atthappaṭisaṁvedino dhammappaṭisaṁvedino pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati."
+    },
+    {
+      "id": "dn34:1.6.99",
+      "pali": "Idaṁ pañcamaṁ vimuttāyatanaṁ."
+    },
+    {
+      "id": "dn34:1.6.100",
+      "pali": "Ime pañca dhammā abhiññeyyā."
+    },
+    {
+      "id": "dn34:1.6.101",
+      "pali": "Katame pañca dhammā sacchikātabbā?"
+    },
+    {
+      "id": "dn34:1.6.102",
+      "pali": "Pañca dhammakkhandhā—"
+    },
+    {
+      "id": "dn34:1.6.103",
+      "pali": "sīlakkhandho, samādhikkhandho, paññākkhandho, vimuttikkhandho, vimuttiñāṇadassanakkhandho."
+    },
+    {
+      "id": "dn34:1.6.104",
+      "pali": "Ime pañca dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:1.6.105",
+      "pali": "Iti ime paññāsa dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā."
+    },
+    {
+      "id": "dn34:1.7.0",
+      "pali": "6. Cha dhammā"
+    },
+    {
+      "id": "dn34:1.7.1",
+      "pali": "Cha dhammā bahukārā …pe… cha dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:1.7.2",
+      "pali": "Katame cha dhammā bahukārā?"
+    },
+    {
+      "id": "dn34:1.7.3",
+      "pali": "Cha sāraṇīyā dhammā."
+    },
+    {
+      "id": "dn34:1.7.4",
+      "pali": "Idhāvuso, bhikkhuno mettaṁ kāyakammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca,"
+    },
+    {
+      "id": "dn34:1.7.5",
+      "pali": "ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "dn34:1.7.6",
+      "pali": "Puna caparaṁ, āvuso, bhikkhuno mettaṁ vacīkammaṁ …pe… ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "dn34:1.7.7",
+      "pali": "Puna caparaṁ, āvuso, bhikkhuno mettaṁ manokammaṁ …pe… ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "dn34:1.7.8",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu ye te lābhā dhammikā dhammaladdhā antamaso pattapariyāpannamattampi, tathārūpehi lābhehi appaṭivibhattabhogī hoti sīlavantehi sabrahmacārīhi sādhāraṇabhogī, ayampi dhammo sāraṇīyo …pe… ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "dn34:1.7.9",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu, yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṁvattanikāni, tathārūpesu sīlesu sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca, ayampi dhammo sāraṇīyo …pe… ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "dn34:1.7.10",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu yāyaṁ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya, tathārūpāya diṭṭhiyā diṭṭhi sāmaññagato viharati sabrahmacārīhi āvi ceva raho ca,"
+    },
+    {
+      "id": "dn34:1.7.11",
+      "pali": "ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo, saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "dn34:1.7.12",
+      "pali": "Ime cha dhammā bahukārā."
+    },
+    {
+      "id": "dn34:1.7.13",
+      "pali": "Katame cha dhammā bhāvetabbā?"
+    },
+    {
+      "id": "dn34:1.7.14",
+      "pali": "Cha anussatiṭṭhānāni—"
+    },
+    {
+      "id": "dn34:1.7.15",
+      "pali": "buddhānussati, dhammānussati, saṅghānussati, sīlānussati, cāgānussati, devatānussati."
+    },
+    {
+      "id": "dn34:1.7.16",
+      "pali": "Ime cha dhammā bhāvetabbā."
+    },
+    {
+      "id": "dn34:1.7.17",
+      "pali": "Katame cha dhammā pariññeyyā?"
+    },
+    {
+      "id": "dn34:1.7.18",
+      "pali": "Cha ajjhattikāni āyatanāni—"
+    },
+    {
+      "id": "dn34:1.7.19",
+      "pali": "cakkhāyatanaṁ, sotāyatanaṁ, ghānāyatanaṁ, jivhāyatanaṁ, kāyāyatanaṁ, manāyatanaṁ."
+    },
+    {
+      "id": "dn34:1.7.20",
+      "pali": "Ime cha dhammā pariññeyyā."
+    },
+    {
+      "id": "dn34:1.7.21",
+      "pali": "Katame cha dhammā pahātabbā?"
+    },
+    {
+      "id": "dn34:1.7.22",
+      "pali": "Cha taṇhākāyā—"
+    },
+    {
+      "id": "dn34:1.7.23",
+      "pali": "rūpataṇhā, saddataṇhā, gandhataṇhā, rasataṇhā, phoṭṭhabbataṇhā, dhammataṇhā."
+    },
+    {
+      "id": "dn34:1.7.24",
+      "pali": "Ime cha dhammā pahātabbā."
+    },
+    {
+      "id": "dn34:1.7.25",
+      "pali": "Katame cha dhammā hānabhāgiyā?"
+    },
+    {
+      "id": "dn34:1.7.26",
+      "pali": "Cha agāravā—"
+    },
+    {
+      "id": "dn34:1.7.27",
+      "pali": "idhāvuso, bhikkhu satthari agāravo viharati appatisso. Dhamme …pe… saṅghe … sikkhāya … appamāde … paṭisanthāre agāravo viharati appatisso."
+    },
+    {
+      "id": "dn34:1.7.28",
+      "pali": "Ime cha dhammā hānabhāgiyā."
+    },
+    {
+      "id": "dn34:1.7.29",
+      "pali": "Katame cha dhammā visesabhāgiyā?"
+    },
+    {
+      "id": "dn34:1.7.30",
+      "pali": "Cha gāravā—"
+    },
+    {
+      "id": "dn34:1.7.31",
+      "pali": "idhāvuso, bhikkhu satthari sagāravo viharati sappatisso. Dhamme …pe… saṅghe … sikkhāya … appamāde … paṭisanthāre sagāravo viharati sappatisso."
+    },
+    {
+      "id": "dn34:1.7.32",
+      "pali": "Ime cha dhammā visesabhāgiyā."
+    },
+    {
+      "id": "dn34:1.7.33",
+      "pali": "Katame cha dhammā duppaṭivijjhā?"
+    },
+    {
+      "id": "dn34:1.7.34",
+      "pali": "Cha nissaraṇiyā dhātuyo—"
+    },
+    {
+      "id": "dn34:1.7.35",
+      "pali": "idhāvuso, bhikkhu evaṁ vadeyya:"
+    },
+    {
+      "id": "dn34:1.7.36",
+      "pali": "‘mettā hi kho me, cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā,"
+    },
+    {
+      "id": "dn34:1.7.37",
+      "pali": "atha ca pana me byāpādo cittaṁ pariyādāya tiṭṭhatī’ti."
+    },
+    {
+      "id": "dn34:1.7.38",
+      "pali": "So ‘mā hevan’tissa vacanīyo ‘māyasmā evaṁ avaca, mā bhagavantaṁ abbhācikkhi. Na hi sādhu bhagavato abbhakkhānaṁ, na hi bhagavā evaṁ vadeyya."
+    },
+    {
+      "id": "dn34:1.7.39",
+      "pali": "Aṭṭhānametaṁ āvuso anavakāso yaṁ mettāya cetovimuttiyā bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya."
+    },
+    {
+      "id": "dn34:1.7.40",
+      "pali": "Atha ca panassa byāpādo cittaṁ pariyādāya ṭhassatīti, netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "dn34:1.7.41",
+      "pali": "Nissaraṇaṁ hetaṁ, āvuso, byāpādassa, yadidaṁ mettācetovimuttī’ti."
+    },
+    {
+      "id": "dn34:1.7.42",
+      "pali": "Idha panāvuso, bhikkhu evaṁ vadeyya:"
+    },
+    {
+      "id": "dn34:1.7.43",
+      "pali": "‘karuṇā hi kho me cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā."
+    },
+    {
+      "id": "dn34:1.7.44",
+      "pali": "Atha ca pana me vihesā cittaṁ pariyādāya tiṭṭhatī’ti."
+    },
+    {
+      "id": "dn34:1.7.45",
+      "pali": "So: ‘mā hevan’tissa vacanīyo, ‘māyasmā evaṁ avaca, mā bhagavantaṁ abbhācikkhi …pe…"
+    },
+    {
+      "id": "dn34:1.7.46",
+      "pali": "nissaraṇaṁ hetaṁ, āvuso, vihesāya, yadidaṁ karuṇācetovimuttī’ti."
+    },
+    {
+      "id": "dn34:1.7.47",
+      "pali": "Idha panāvuso, bhikkhu evaṁ vadeyya:"
+    },
+    {
+      "id": "dn34:1.7.48",
+      "pali": "‘muditā hi kho me cetovimutti bhāvitā …pe…"
+    },
+    {
+      "id": "dn34:1.7.49",
+      "pali": "atha ca pana me arati cittaṁ pariyādāya tiṭṭhatī’ti."
+    },
+    {
+      "id": "dn34:1.7.50",
+      "pali": "So: ‘mā hevan’tissa vacanīyo ‘māyasmā evaṁ avaca …pe…"
+    },
+    {
+      "id": "dn34:1.7.51",
+      "pali": "nissaraṇaṁ hetaṁ, āvuso, aratiyā, yadidaṁ muditācetovimuttī’ti."
+    },
+    {
+      "id": "dn34:1.7.52",
+      "pali": "Idha panāvuso, bhikkhu evaṁ vadeyya:"
+    },
+    {
+      "id": "dn34:1.7.53",
+      "pali": "‘upekkhā hi kho me cetovimutti bhāvitā …pe…"
+    },
+    {
+      "id": "dn34:1.7.54",
+      "pali": "atha ca pana me rāgo cittaṁ pariyādāya tiṭṭhatī’ti."
+    },
+    {
+      "id": "dn34:1.7.55",
+      "pali": "So: ‘mā hevan’tissa vacanīyo ‘māyasmā evaṁ avaca …pe…"
+    },
+    {
+      "id": "dn34:1.7.56",
+      "pali": "nissaraṇaṁ hetaṁ, āvuso, rāgassa yadidaṁ upekkhācetovimuttī’ti."
+    },
+    {
+      "id": "dn34:1.7.57",
+      "pali": "Idha panāvuso, bhikkhu evaṁ vadeyya:"
+    },
+    {
+      "id": "dn34:1.7.58",
+      "pali": "‘animittā hi kho me cetovimutti bhāvitā …pe…"
+    },
+    {
+      "id": "dn34:1.7.59",
+      "pali": "atha ca pana me nimittānusāri viññāṇaṁ hotī’ti."
+    },
+    {
+      "id": "dn34:1.7.60",
+      "pali": "So: ‘mā hevan’tissa vacanīyo ‘māyasmā evaṁ avaca …pe…"
+    },
+    {
+      "id": "dn34:1.7.61",
+      "pali": "nissaraṇaṁ hetaṁ, āvuso, sabbanimittānaṁ yadidaṁ animittā cetovimuttī’ti."
+    },
+    {
+      "id": "dn34:1.7.62",
+      "pali": "Idha panāvuso, bhikkhu evaṁ vadeyya:"
+    },
+    {
+      "id": "dn34:1.7.63",
+      "pali": "‘asmīti kho me vigataṁ, ayamahamasmīti na samanupassāmi,"
+    },
+    {
+      "id": "dn34:1.7.64",
+      "pali": "atha ca pana me vicikicchākathaṅkathāsallaṁ cittaṁ pariyādāya tiṭṭhatī’ti."
+    },
+    {
+      "id": "dn34:1.7.65",
+      "pali": "So: ‘mā hevan’tissa vacanīyo ‘māyasmā evaṁ avaca, mā bhagavantaṁ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṁ, na hi bhagavā evaṁ vadeyya."
+    },
+    {
+      "id": "dn34:1.7.66",
+      "pali": "Aṭṭhānametaṁ, āvuso, anavakāso yaṁ asmīti vigate ayamahamasmīti asamanupassato."
+    },
+    {
+      "id": "dn34:1.7.67",
+      "pali": "Atha ca panassa vicikicchākathaṅkathāsallaṁ cittaṁ pariyādāya ṭhassati, netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "dn34:1.7.68",
+      "pali": "Nissaraṇaṁ hetaṁ, āvuso, vicikicchākathaṅkathāsallassa, yadidaṁ asmimānasamugghāto’ti."
+    },
+    {
+      "id": "dn34:1.7.69",
+      "pali": "Ime cha dhammā duppaṭivijjhā."
+    },
+    {
+      "id": "dn34:1.7.70",
+      "pali": "Katame cha dhammā uppādetabbā?"
+    },
+    {
+      "id": "dn34:1.7.71",
+      "pali": "Cha satatavihārā."
+    },
+    {
+      "id": "dn34:1.7.72",
+      "pali": "Idhāvuso, bhikkhu cakkhunā rūpaṁ disvā neva sumano hoti na dummano, upekkhako viharati sato sampajāno."
+    },
+    {
+      "id": "dn34:1.7.73",
+      "pali": "Sotena saddaṁ sutvā …pe…"
+    },
+    {
+      "id": "dn34:1.7.74",
+      "pali": "ghānena gandhaṁ ghāyitvā …"
+    },
+    {
+      "id": "dn34:1.7.75",
+      "pali": "jivhāya rasaṁ sāyitvā …"
+    },
+    {
+      "id": "dn34:1.7.76",
+      "pali": "kāyena phoṭṭhabbaṁ phusitvā …"
+    },
+    {
+      "id": "dn34:1.7.77",
+      "pali": "manasā dhammaṁ viññāya neva sumano hoti na dummano, upekkhako viharati sato sampajāno."
+    },
+    {
+      "id": "dn34:1.7.78",
+      "pali": "Ime cha dhammā uppādetabbā."
+    },
+    {
+      "id": "dn34:1.7.79",
+      "pali": "Katame cha dhammā abhiññeyyā?"
+    },
+    {
+      "id": "dn34:1.7.80",
+      "pali": "Cha anuttariyāni—"
+    },
+    {
+      "id": "dn34:1.7.81",
+      "pali": "dassanānuttariyaṁ, savanānuttariyaṁ, lābhānuttariyaṁ, sikkhānuttariyaṁ, pāricariyānuttariyaṁ, anussatānuttariyaṁ."
+    },
+    {
+      "id": "dn34:1.7.82",
+      "pali": "Ime cha dhammā abhiññeyyā."
+    },
+    {
+      "id": "dn34:1.7.83",
+      "pali": "Katame cha dhammā sacchikātabbā?"
+    },
+    {
+      "id": "dn34:1.7.84",
+      "pali": "Cha abhiññā—"
+    },
+    {
+      "id": "dn34:1.7.85",
+      "pali": "idhāvuso, bhikkhu anekavihitaṁ iddhividhaṁ paccanubhoti—ekopi hutvā bahudhā hoti, bahudhāpi hutvā eko hoti; āvibhāvaṁ tirobhāvaṁ; tirokuṭṭaṁ tiropākāraṁ tiropabbataṁ asajjamāno gacchati seyyathāpi ākāse; pathaviyāpi ummujjanimujjaṁ karoti seyyathāpi udake; udakepi abhijjamāne gacchati seyyathāpi pathaviyaṁ; ākāsepi pallaṅkena kamati seyyathāpi pakkhī sakuṇo; imepi candimasūriye evaṁmahiddhike evaṁmahānubhāve pāṇinā parāmasati parimajjati; yāva brahmalokāpi kāyena vasaṁ vatteti."
+    },
+    {
+      "id": "dn34:1.7.86",
+      "pali": "Dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāti dibbe ca mānuse ca, ye dūre santike ca."
+    },
+    {
+      "id": "dn34:1.7.87",
+      "pali": "Parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāti,"
+    },
+    {
+      "id": "dn34:1.7.88",
+      "pali": "sarāgaṁ vā cittaṁ sarāgaṁ cittanti pajānāti …pe…"
+    },
+    {
+      "id": "dn34:1.7.89",
+      "pali": "avimuttaṁ vā cittaṁ avimuttaṁ cittanti pajānāti."
+    },
+    {
+      "id": "dn34:1.7.90",
+      "pali": "So anekavihitaṁ pubbenivāsaṁ anussarati, seyyathidaṁ—ekampi jātiṁ …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati."
+    },
+    {
+      "id": "dn34:1.7.91",
+      "pali": "Dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāti …pe…"
+    },
+    {
+      "id": "dn34:1.7.92",
+      "pali": "Āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati."
+    },
+    {
+      "id": "dn34:1.7.93",
+      "pali": "Ime cha dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:1.7.94",
+      "pali": "Iti ime saṭṭhi dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā."
+    },
+    {
+      "id": "dn34:1.8.0",
+      "pali": "7. Satta dhammā"
+    },
+    {
+      "id": "dn34:1.8.1",
+      "pali": "Satta dhammā bahukārā …pe… satta dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:1.8.2",
+      "pali": "Katame satta dhammā bahukārā?"
+    },
+    {
+      "id": "dn34:1.8.3",
+      "pali": "Satta ariyadhanāni—"
+    },
+    {
+      "id": "dn34:1.8.4",
+      "pali": "saddhādhanaṁ, sīladhanaṁ, hiridhanaṁ, ottappadhanaṁ, sutadhanaṁ, cāgadhanaṁ, paññādhanaṁ."
+    },
+    {
+      "id": "dn34:1.8.5",
+      "pali": "Ime satta dhammā bahukārā."
+    },
+    {
+      "id": "dn34:1.8.6",
+      "pali": "Katame satta dhammā bhāvetabbā?"
+    },
+    {
+      "id": "dn34:1.8.7",
+      "pali": "Satta sambojjhaṅgā—"
+    },
+    {
+      "id": "dn34:1.8.8",
+      "pali": "satisambojjhaṅgo, dhammavicayasambojjhaṅgo, vīriyasambojjhaṅgo, pītisambojjhaṅgo, passaddhisambojjhaṅgo, samādhisambojjhaṅgo, upekkhāsambojjhaṅgo."
+    },
+    {
+      "id": "dn34:1.8.9",
+      "pali": "Ime satta dhammā bhāvetabbā."
+    },
+    {
+      "id": "dn34:1.8.10",
+      "pali": "Katame satta dhammā pariññeyyā?"
+    },
+    {
+      "id": "dn34:1.8.11",
+      "pali": "Satta viññāṇaṭṭhitiyo—"
+    },
+    {
+      "id": "dn34:1.8.12",
+      "pali": "santāvuso, sattā nānattakāyā nānattasaññino, seyyathāpi manussā ekacce ca devā ekacce ca vinipātikā."
+    },
+    {
+      "id": "dn34:1.8.13",
+      "pali": "Ayaṁ paṭhamā viññāṇaṭṭhiti."
+    },
+    {
+      "id": "dn34:1.8.14",
+      "pali": "Santāvuso, sattā nānattakāyā ekattasaññino, seyyathāpi devā brahmakāyikā paṭhamābhinibbattā."
+    },
+    {
+      "id": "dn34:1.8.15",
+      "pali": "Ayaṁ dutiyā viññāṇaṭṭhiti."
+    },
+    {
+      "id": "dn34:1.8.16",
+      "pali": "Santāvuso, sattā ekattakāyā nānattasaññino, seyyathāpi devā ābhassarā."
+    },
+    {
+      "id": "dn34:1.8.17",
+      "pali": "Ayaṁ tatiyā viññāṇaṭṭhiti."
+    },
+    {
+      "id": "dn34:1.8.18",
+      "pali": "Santāvuso, sattā ekattakāyā ekattasaññino, seyyathāpi devā subhakiṇhā."
+    },
+    {
+      "id": "dn34:1.8.19",
+      "pali": "Ayaṁ catutthī viññāṇaṭṭhiti."
+    },
+    {
+      "id": "dn34:1.8.20",
+      "pali": "Santāvuso, sattā sabbaso rūpasaññānaṁ samatikkamā …pe… ‘ananto ākāso’ti ākāsānañcāyatanūpagā."
+    },
+    {
+      "id": "dn34:1.8.21",
+      "pali": "Ayaṁ pañcamī viññāṇaṭṭhiti."
+    },
+    {
+      "id": "dn34:1.8.22",
+      "pali": "Santāvuso, sattā sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanūpagā."
+    },
+    {
+      "id": "dn34:1.8.23",
+      "pali": "Ayaṁ chaṭṭhī viññāṇaṭṭhiti."
+    },
+    {
+      "id": "dn34:1.8.24",
+      "pali": "Santāvuso, sattā sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanūpagā."
+    },
+    {
+      "id": "dn34:1.8.25",
+      "pali": "Ayaṁ sattamī viññāṇaṭṭhiti."
+    },
+    {
+      "id": "dn34:1.8.26",
+      "pali": "Ime satta dhammā pariññeyyā."
+    },
+    {
+      "id": "dn34:1.8.27",
+      "pali": "Katame satta dhammā pahātabbā?"
+    },
+    {
+      "id": "dn34:1.8.28",
+      "pali": "Sattānusayā—"
+    },
+    {
+      "id": "dn34:1.8.29",
+      "pali": "kāmarāgānusayo, paṭighānusayo, diṭṭhānusayo, vicikicchānusayo, mānānusayo, bhavarāgānusayo, avijjānusayo."
+    },
+    {
+      "id": "dn34:1.8.30",
+      "pali": "Ime satta dhammā pahātabbā."
+    },
+    {
+      "id": "dn34:1.8.31",
+      "pali": "Katame satta dhammā hānabhāgiyā?"
+    },
+    {
+      "id": "dn34:1.8.32",
+      "pali": "Satta asaddhammā—"
+    },
+    {
+      "id": "dn34:1.8.33",
+      "pali": "idhāvuso, bhikkhu assaddho hoti, ahiriko hoti, anottappī hoti, appassuto hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti."
+    },
+    {
+      "id": "dn34:1.8.34",
+      "pali": "Ime satta dhammā hānabhāgiyā."
+    },
+    {
+      "id": "dn34:1.8.35",
+      "pali": "Katame satta dhammā visesabhāgiyā?"
+    },
+    {
+      "id": "dn34:1.8.36",
+      "pali": "Satta saddhammā—"
+    },
+    {
+      "id": "dn34:1.8.37",
+      "pali": "idhāvuso, bhikkhu saddho hoti, hirimā hoti, ottappī hoti, bahussuto hoti, āraddhavīriyo hoti, upaṭṭhitassati hoti, paññavā hoti."
+    },
+    {
+      "id": "dn34:1.8.38",
+      "pali": "Ime satta dhammā visesabhāgiyā."
+    },
+    {
+      "id": "dn34:1.8.39",
+      "pali": "Katame satta dhammā duppaṭivijjhā?"
+    },
+    {
+      "id": "dn34:1.8.40",
+      "pali": "Satta sappurisadhammā—"
+    },
+    {
+      "id": "dn34:1.8.41",
+      "pali": "idhāvuso, bhikkhu dhammaññū ca hoti atthaññū ca attaññū ca mattaññū ca kālaññū ca parisaññū ca puggalaññū ca."
+    },
+    {
+      "id": "dn34:1.8.42",
+      "pali": "Ime satta dhammā duppaṭivijjhā."
+    },
+    {
+      "id": "dn34:1.8.43",
+      "pali": "Katame satta dhammā uppādetabbā?"
+    },
+    {
+      "id": "dn34:1.8.44",
+      "pali": "Satta saññā—"
+    },
+    {
+      "id": "dn34:1.8.45",
+      "pali": "aniccasaññā, anattasaññā, asubhasaññā, ādīnavasaññā, pahānasaññā, virāgasaññā, nirodhasaññā."
+    },
+    {
+      "id": "dn34:1.8.46",
+      "pali": "Ime satta dhammā uppādetabbā."
+    },
+    {
+      "id": "dn34:1.8.47",
+      "pali": "Katame satta dhammā abhiññeyyā?"
+    },
+    {
+      "id": "dn34:1.8.48",
+      "pali": "Satta niddasavatthūni—"
+    },
+    {
+      "id": "dn34:1.8.49",
+      "pali": "idhāvuso, bhikkhu sikkhāsamādāne tibbacchando hoti, āyatiñca sikkhāsamādāne avigatapemo."
+    },
+    {
+      "id": "dn34:1.8.50",
+      "pali": "Dhammanisantiyā tibbacchando hoti, āyatiñca dhammanisantiyā avigatapemo."
+    },
+    {
+      "id": "dn34:1.8.51",
+      "pali": "Icchāvinaye tibbacchando hoti, āyatiñca icchāvinaye avigatapemo."
+    },
+    {
+      "id": "dn34:1.8.52",
+      "pali": "Paṭisallāne tibbacchando hoti, āyatiñca paṭisallāne avigatapemo."
+    },
+    {
+      "id": "dn34:1.8.53",
+      "pali": "Vīriyārambhe tibbacchando hoti, āyatiñca vīriyārambhe avigatapemo."
+    },
+    {
+      "id": "dn34:1.8.54",
+      "pali": "Satinepakke tibbacchando hoti, āyatiñca satinepakke avigatapemo."
+    },
+    {
+      "id": "dn34:1.8.55",
+      "pali": "Diṭṭhipaṭivedhe tibbacchando hoti, āyatiñca diṭṭhipaṭivedhe avigatapemo."
+    },
+    {
+      "id": "dn34:1.8.56",
+      "pali": "Ime satta dhammā abhiññeyyā."
+    },
+    {
+      "id": "dn34:1.8.57",
+      "pali": "Katame satta dhammā sacchikātabbā?"
+    },
+    {
+      "id": "dn34:1.8.58",
+      "pali": "Satta khīṇāsavabalāni—"
+    },
+    {
+      "id": "dn34:1.8.59",
+      "pali": "idhāvuso, khīṇāsavassa bhikkhuno aniccato sabbe saṅkhārā yathābhūtaṁ sammappaññāya sudiṭṭhā honti."
+    },
+    {
+      "id": "dn34:1.8.60",
+      "pali": "Yaṁpāvuso, khīṇāsavassa bhikkhuno aniccato sabbe saṅkhārā yathābhūtaṁ sammappaññāya sudiṭṭhā honti, idampi khīṇāsavassa bhikkhuno balaṁ hoti, yaṁ balaṁ āgamma khīṇāsavo bhikkhu āsavānaṁ khayaṁ paṭijānāti: ‘khīṇā me āsavā’ti."
+    },
+    {
+      "id": "dn34:1.8.61",
+      "pali": "Puna caparaṁ, āvuso, khīṇāsavassa bhikkhuno aṅgārakāsūpamā kāmā yathābhūtaṁ sammappaññāya sudiṭṭhā honti."
+    },
+    {
+      "id": "dn34:1.8.62",
+      "pali": "Yaṁpāvuso …pe… ‘khīṇā me āsavā’ti."
+    },
+    {
+      "id": "dn34:1.8.63",
+      "pali": "Puna caparaṁ, āvuso, khīṇāsavassa bhikkhuno vivekaninnaṁ cittaṁ hoti vivekapoṇaṁ vivekapabbhāraṁ vivekaṭṭhaṁ nekkhammābhirataṁ byantībhūtaṁ sabbaso āsavaṭṭhāniyehi dhammehi."
+    },
+    {
+      "id": "dn34:1.8.64",
+      "pali": "Yaṁpāvuso …pe… ‘khīṇā me āsavā’ti."
+    },
+    {
+      "id": "dn34:1.8.65",
+      "pali": "Puna caparaṁ, āvuso, khīṇāsavassa bhikkhuno cattāro satipaṭṭhānā bhāvitā honti subhāvitā."
+    },
+    {
+      "id": "dn34:1.8.66",
+      "pali": "Yaṁpāvuso …pe… ‘khīṇā me āsavā’ti."
+    },
+    {
+      "id": "dn34:1.8.67",
+      "pali": "Puna caparaṁ, āvuso, khīṇāsavassa bhikkhuno pañcindriyāni bhāvitāni honti subhāvitāni."
+    },
+    {
+      "id": "dn34:1.8.68",
+      "pali": "Yaṁpāvuso …pe… ‘khīṇā me āsavā’ti."
+    },
+    {
+      "id": "dn34:1.8.69",
+      "pali": "Puna caparaṁ, āvuso, khīṇāsavassa bhikkhuno satta bojjhaṅgā bhāvitā honti subhāvitā."
+    },
+    {
+      "id": "dn34:1.8.70",
+      "pali": "Yaṁpāvuso …pe… ‘khīṇā me āsavā’ti."
+    },
+    {
+      "id": "dn34:1.8.71",
+      "pali": "Puna caparaṁ, āvuso, khīṇāsavassa bhikkhuno ariyo aṭṭhaṅgiko maggo bhāvito hoti subhāvito."
+    },
+    {
+      "id": "dn34:1.8.72",
+      "pali": "Yaṁpāvuso, khīṇāsavassa bhikkhuno ariyo aṭṭhaṅgiko maggo bhāvito hoti subhāvito, idampi khīṇāsavassa bhikkhuno balaṁ hoti, yaṁ balaṁ āgamma khīṇāsavo bhikkhu āsavānaṁ khayaṁ paṭijānāti:"
+    },
+    {
+      "id": "dn34:1.8.73",
+      "pali": "‘khīṇā me āsavā’ti."
+    },
+    {
+      "id": "dn34:1.8.74",
+      "pali": "Ime satta dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:1.8.75",
+      "pali": "Itime sattati dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā."
+    },
+    {
+      "id": "dn34:1.8.76",
+      "pali": "Paṭhamabhāṇavāro niṭṭhito."
+    },
+    {
+      "id": "dn34:2.1.0",
+      "pali": "8. Aṭṭha dhammā"
+    },
+    {
+      "id": "dn34:2.1.1",
+      "pali": "Aṭṭha dhammā bahukārā …pe… aṭṭha dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:2.1.2",
+      "pali": "Katame aṭṭha dhammā bahukārā?"
+    },
+    {
+      "id": "dn34:2.1.3",
+      "pali": "Aṭṭha hetū aṭṭha paccayā ādibrahmacariyikāya paññāya appaṭiladdhāya paṭilābhāya paṭiladdhāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā saṁvattanti."
+    },
+    {
+      "id": "dn34:2.1.4",
+      "pali": "Katame aṭṭha?"
+    },
+    {
+      "id": "dn34:2.1.5",
+      "pali": "Idhāvuso, bhikkhu satthāraṁ upanissāya viharati aññataraṁ vā garuṭṭhāniyaṁ sabrahmacāriṁ, yatthassa tibbaṁ hirottappaṁ paccupaṭṭhitaṁ hoti pemañca gāravo ca."
+    },
+    {
+      "id": "dn34:2.1.6",
+      "pali": "Ayaṁ paṭhamo hetu paṭhamo paccayo ādibrahmacariyikāya paññāya appaṭiladdhāya paṭilābhāya, paṭiladdhāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā saṁvattati."
+    },
+    {
+      "id": "dn34:2.1.7",
+      "pali": "Taṁ kho pana satthāraṁ upanissāya viharati aññataraṁ vā garuṭṭhāniyaṁ sabrahmacāriṁ, yatthassa tibbaṁ hirottappaṁ paccupaṭṭhitaṁ hoti pemañca gāravo ca. Te kālena kālaṁ upasaṅkamitvā paripucchati paripañhati:"
+    },
+    {
+      "id": "dn34:2.1.8",
+      "pali": "‘idaṁ, bhante, kathaṁ?"
+    },
+    {
+      "id": "dn34:2.1.9",
+      "pali": "Imassa ko attho’ti?"
+    },
+    {
+      "id": "dn34:2.1.10",
+      "pali": "Tassa te āyasmanto avivaṭañceva vivaranti, anuttānīkatañca uttānīkaronti, anekavihitesu ca kaṅkhāṭṭhāniyesu dhammesu kaṅkhaṁ paṭivinodenti."
+    },
+    {
+      "id": "dn34:2.1.11",
+      "pali": "Ayaṁ dutiyo hetu dutiyo paccayo ādibrahmacariyikāya paññāya appaṭiladdhāya paṭilābhāya, paṭiladdhāya bhiyyobhāvāya, vepullāya bhāvanāya pāripūriyā saṁvattati."
+    },
+    {
+      "id": "dn34:2.1.12",
+      "pali": "Taṁ kho pana dhammaṁ sutvā dvayena vūpakāsena sampādeti—kāyavūpakāsena ca cittavūpakāsena ca."
+    },
+    {
+      "id": "dn34:2.1.13",
+      "pali": "Ayaṁ tatiyo hetu tatiyo paccayo ādibrahmacariyikāya paññāya appaṭiladdhāya paṭilābhāya, paṭiladdhāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā saṁvattati."
+    },
+    {
+      "id": "dn34:2.1.14",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu sīlavā hoti, pātimokkhasaṁvarasaṁvuto viharati ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī samādāya sikkhati sikkhāpadesu."
+    },
+    {
+      "id": "dn34:2.1.15",
+      "pali": "Ayaṁ catuttho hetu catuttho paccayo ādibrahmacariyikāya paññāya appaṭiladdhāya paṭilābhāya, paṭiladdhāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā saṁvattati."
+    },
+    {
+      "id": "dn34:2.1.16",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu bahussuto hoti sutadharo sutasannicayo. Ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthā sabyañjanā kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ abhivadanti, tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā."
+    },
+    {
+      "id": "dn34:2.1.17",
+      "pali": "Ayaṁ pañcamo hetu pañcamo paccayo ādibrahmacariyikāya paññāya appaṭiladdhāya paṭilābhāya, paṭiladdhāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā saṁvattati."
+    },
+    {
+      "id": "dn34:2.1.18",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu āraddhavīriyo viharati akusalānaṁ dhammānaṁ pahānāya, kusalānaṁ dhammānaṁ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu."
+    },
+    {
+      "id": "dn34:2.1.19",
+      "pali": "Ayaṁ chaṭṭho hetu chaṭṭho paccayo ādibrahmacariyikāya paññāya appaṭiladdhāya paṭilābhāya, paṭiladdhāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā saṁvattati."
+    },
+    {
+      "id": "dn34:2.1.20",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu satimā hoti paramena satinepakkena samannāgato. Cirakatampi cirabhāsitampi saritā anussaritā."
+    },
+    {
+      "id": "dn34:2.1.21",
+      "pali": "Ayaṁ sattamo hetu sattamo paccayo ādibrahmacariyikāya paññāya appaṭiladdhāya paṭilābhāya, paṭiladdhāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā saṁvattati."
+    },
+    {
+      "id": "dn34:2.1.22",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu pañcasu upādānakkhandhesu, udayabbayānupassī viharati:"
+    },
+    {
+      "id": "dn34:2.1.23",
+      "pali": "‘iti rūpaṁ iti rūpassa samudayo iti rūpassa atthaṅgamo;"
+    },
+    {
+      "id": "dn34:2.1.24",
+      "pali": "iti vedanā iti vedanāya samudayo iti vedanāya atthaṅgamo;"
+    },
+    {
+      "id": "dn34:2.1.25",
+      "pali": "iti saññā iti saññāya samudayo iti saññāya atthaṅgamo;"
+    },
+    {
+      "id": "dn34:2.1.26",
+      "pali": "iti saṅkhārā iti saṅkhārānaṁ samudayo iti saṅkhārānaṁ atthaṅgamo;"
+    },
+    {
+      "id": "dn34:2.1.27",
+      "pali": "iti viññāṇaṁ iti viññāṇassa samudayo iti viññāṇassa atthaṅgamo’ti."
+    },
+    {
+      "id": "dn34:2.1.28",
+      "pali": "Ayaṁ aṭṭhamo hetu aṭṭhamo paccayo ādibrahmacariyikāya paññāya appaṭiladdhāya paṭilābhāya, paṭiladdhāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā saṁvattati."
+    },
+    {
+      "id": "dn34:2.1.29",
+      "pali": "Ime aṭṭha dhammā bahukārā."
+    },
+    {
+      "id": "dn34:2.1.30",
+      "pali": "Katame aṭṭha dhammā bhāvetabbā?"
+    },
+    {
+      "id": "dn34:2.1.31",
+      "pali": "Ariyo aṭṭhaṅgiko maggo seyyathidaṁ—"
+    },
+    {
+      "id": "dn34:2.1.32",
+      "pali": "sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi."
+    },
+    {
+      "id": "dn34:2.1.33",
+      "pali": "Ime aṭṭha dhammā bhāvetabbā."
+    },
+    {
+      "id": "dn34:2.1.34",
+      "pali": "Katame aṭṭha dhammā pariññeyyā?"
+    },
+    {
+      "id": "dn34:2.1.35",
+      "pali": "Aṭṭha lokadhammā—"
+    },
+    {
+      "id": "dn34:2.1.36",
+      "pali": "lābho ca, alābho ca, yaso ca, ayaso ca, nindā ca, pasaṁsā ca, sukhañca, dukkhañca."
+    },
+    {
+      "id": "dn34:2.1.37",
+      "pali": "Ime aṭṭha dhammā pariññeyyā."
+    },
+    {
+      "id": "dn34:2.1.38",
+      "pali": "Katame aṭṭha dhammā pahātabbā?"
+    },
+    {
+      "id": "dn34:2.1.39",
+      "pali": "Aṭṭha micchattā—"
+    },
+    {
+      "id": "dn34:2.1.40",
+      "pali": "micchādiṭṭhi, micchāsaṅkappo, micchāvācā, micchākammanto, micchāājīvo, micchāvāyāmo, micchāsati, micchāsamādhi."
+    },
+    {
+      "id": "dn34:2.1.41",
+      "pali": "Ime aṭṭha dhammā pahātabbā."
+    },
+    {
+      "id": "dn34:2.1.42",
+      "pali": "Katame aṭṭha dhammā hānabhāgiyā?"
+    },
+    {
+      "id": "dn34:2.1.43",
+      "pali": "Aṭṭha kusītavatthūni."
+    },
+    {
+      "id": "dn34:2.1.44",
+      "pali": "Idhāvuso, bhikkhunā kammaṁ kātabbaṁ hoti,"
+    },
+    {
+      "id": "dn34:2.1.45",
+      "pali": "tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.46",
+      "pali": "‘kammaṁ kho me kātabbaṁ bhavissati, kammaṁ kho pana me karontassa kāyo kilamissati, handāhaṁ nipajjāmī’ti."
+    },
+    {
+      "id": "dn34:2.1.47",
+      "pali": "So nipajjati, na vīriyaṁ ārabhati appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya."
+    },
+    {
+      "id": "dn34:2.1.48",
+      "pali": "Idaṁ paṭhamaṁ kusītavatthu."
+    },
+    {
+      "id": "dn34:2.1.49",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā kammaṁ kataṁ hoti."
+    },
+    {
+      "id": "dn34:2.1.50",
+      "pali": "Tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.51",
+      "pali": "‘ahaṁ kho kammaṁ akāsiṁ, kammaṁ kho pana me karontassa kāyo kilanto, handāhaṁ nipajjāmī’ti."
+    },
+    {
+      "id": "dn34:2.1.52",
+      "pali": "So nipajjati, na vīriyaṁ ārabhati …pe…"
+    },
+    {
+      "id": "dn34:2.1.53",
+      "pali": "idaṁ dutiyaṁ kusītavatthu."
+    },
+    {
+      "id": "dn34:2.1.54",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā maggo gantabbo hoti."
+    },
+    {
+      "id": "dn34:2.1.55",
+      "pali": "Tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.56",
+      "pali": "‘maggo kho me gantabbo bhavissati, maggaṁ kho pana me gacchantassa kāyo kilamissati, handāhaṁ nipajjāmī’ti."
+    },
+    {
+      "id": "dn34:2.1.57",
+      "pali": "So nipajjati, na vīriyaṁ ārabhati …pe…"
+    },
+    {
+      "id": "dn34:2.1.58",
+      "pali": "idaṁ tatiyaṁ kusītavatthu."
+    },
+    {
+      "id": "dn34:2.1.59",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā maggo gato hoti."
+    },
+    {
+      "id": "dn34:2.1.60",
+      "pali": "Tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.61",
+      "pali": "‘ahaṁ kho maggaṁ agamāsiṁ, maggaṁ kho pana me gacchantassa kāyo kilanto, handāhaṁ nipajjāmī’ti."
+    },
+    {
+      "id": "dn34:2.1.62",
+      "pali": "So nipajjati, na vīriyaṁ ārabhati …pe…"
+    },
+    {
+      "id": "dn34:2.1.63",
+      "pali": "idaṁ catutthaṁ kusītavatthu."
+    },
+    {
+      "id": "dn34:2.1.64",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu gāmaṁ vā nigamaṁ vā piṇḍāya caranto na labhati lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ."
+    },
+    {
+      "id": "dn34:2.1.65",
+      "pali": "Tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.66",
+      "pali": "‘ahaṁ kho gāmaṁ vā nigamaṁ vā piṇḍāya caranto nālatthaṁ lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ, tassa me kāyo kilanto akammañño, handāhaṁ nipajjāmī’ti …pe…"
+    },
+    {
+      "id": "dn34:2.1.67",
+      "pali": "idaṁ pañcamaṁ kusītavatthu."
+    },
+    {
+      "id": "dn34:2.1.68",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu gāmaṁ vā nigamaṁ vā piṇḍāya caranto labhati lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ."
+    },
+    {
+      "id": "dn34:2.1.69",
+      "pali": "Tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.70",
+      "pali": "‘ahaṁ kho gāmaṁ vā nigamaṁ vā piṇḍāya caranto alatthaṁ lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ, tassa me kāyo garuko akammañño, māsācitaṁ maññe, handāhaṁ nipajjāmī’ti."
+    },
+    {
+      "id": "dn34:2.1.71",
+      "pali": "So nipajjati …pe…"
+    },
+    {
+      "id": "dn34:2.1.72",
+      "pali": "idaṁ chaṭṭhaṁ kusītavatthu."
+    },
+    {
+      "id": "dn34:2.1.73",
+      "pali": "Puna caparaṁ, āvuso, bhikkhuno uppanno hoti appamattako ābādho, tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.74",
+      "pali": "‘uppanno kho me ayaṁ appamattako ābādho atthi kappo nipajjituṁ, handāhaṁ nipajjāmī’ti."
+    },
+    {
+      "id": "dn34:2.1.75",
+      "pali": "So nipajjati …pe…"
+    },
+    {
+      "id": "dn34:2.1.76",
+      "pali": "idaṁ sattamaṁ kusītavatthu."
+    },
+    {
+      "id": "dn34:2.1.77",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu gilānāvuṭṭhito hoti aciravuṭṭhito gelaññā."
+    },
+    {
+      "id": "dn34:2.1.78",
+      "pali": "Tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.79",
+      "pali": "‘ahaṁ kho gilānāvuṭṭhito aciravuṭṭhito gelaññā."
+    },
+    {
+      "id": "dn34:2.1.80",
+      "pali": "Tassa me kāyo dubbalo akammañño, handāhaṁ nipajjāmī’ti."
+    },
+    {
+      "id": "dn34:2.1.81",
+      "pali": "So nipajjati …pe…"
+    },
+    {
+      "id": "dn34:2.1.82",
+      "pali": "idaṁ aṭṭhamaṁ kusītavatthu."
+    },
+    {
+      "id": "dn34:2.1.83",
+      "pali": "Ime aṭṭha dhammā hānabhāgiyā."
+    },
+    {
+      "id": "dn34:2.1.84",
+      "pali": "Katame aṭṭha dhammā visesabhāgiyā?"
+    },
+    {
+      "id": "dn34:2.1.85",
+      "pali": "Aṭṭha ārambhavatthūni."
+    },
+    {
+      "id": "dn34:2.1.86",
+      "pali": "Idhāvuso, bhikkhunā kammaṁ kātabbaṁ hoti, tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.87",
+      "pali": "‘kammaṁ kho me kātabbaṁ bhavissati, kammaṁ kho pana me karontena na sukaraṁ buddhānaṁ sāsanaṁ manasikātuṁ, handāhaṁ vīriyaṁ ārabhāmi appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāyā’ti."
+    },
+    {
+      "id": "dn34:2.1.88",
+      "pali": "So vīriyaṁ ārabhati appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya."
+    },
+    {
+      "id": "dn34:2.1.89",
+      "pali": "Idaṁ paṭhamaṁ ārambhavatthu."
+    },
+    {
+      "id": "dn34:2.1.90",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā kammaṁ kataṁ hoti."
+    },
+    {
+      "id": "dn34:2.1.91",
+      "pali": "Tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.92",
+      "pali": "‘ahaṁ kho kammaṁ akāsiṁ, kammaṁ kho panāhaṁ karonto nāsakkhiṁ buddhānaṁ sāsanaṁ manasikātuṁ, handāhaṁ vīriyaṁ ārabhāmi …pe…"
+    },
+    {
+      "id": "dn34:2.1.93",
+      "pali": "idaṁ dutiyaṁ ārambhavatthu."
+    },
+    {
+      "id": "dn34:2.1.94",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā maggo gantabbo hoti."
+    },
+    {
+      "id": "dn34:2.1.95",
+      "pali": "Tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.96",
+      "pali": "‘maggo kho me gantabbo bhavissati, maggaṁ kho pana me gacchantena na sukaraṁ buddhānaṁ sāsanaṁ manasikātuṁ, handāhaṁ vīriyaṁ ārabhāmi …pe…"
+    },
+    {
+      "id": "dn34:2.1.97",
+      "pali": "idaṁ tatiyaṁ ārambhavatthu."
+    },
+    {
+      "id": "dn34:2.1.98",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā maggo gato hoti."
+    },
+    {
+      "id": "dn34:2.1.99",
+      "pali": "Tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.100",
+      "pali": "‘ahaṁ kho maggaṁ agamāsiṁ, maggaṁ kho panāhaṁ gacchanto nāsakkhiṁ buddhānaṁ sāsanaṁ manasikātuṁ, handāhaṁ vīriyaṁ ārabhāmi …pe…"
+    },
+    {
+      "id": "dn34:2.1.101",
+      "pali": "idaṁ catutthaṁ ārambhavatthu."
+    },
+    {
+      "id": "dn34:2.1.102",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu gāmaṁ vā nigamaṁ vā piṇḍāya caranto na labhati lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ."
+    },
+    {
+      "id": "dn34:2.1.103",
+      "pali": "Tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.104",
+      "pali": "‘ahaṁ kho gāmaṁ vā nigamaṁ vā piṇḍāya caranto nālatthaṁ lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ, tassa me kāyo lahuko kammañño, handāhaṁ vīriyaṁ ārabhāmi …pe…"
+    },
+    {
+      "id": "dn34:2.1.105",
+      "pali": "idaṁ pañcamaṁ ārambhavatthu."
+    },
+    {
+      "id": "dn34:2.1.106",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu gāmaṁ vā nigamaṁ vā piṇḍāya caranto labhati lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ."
+    },
+    {
+      "id": "dn34:2.1.107",
+      "pali": "Tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.108",
+      "pali": "‘ahaṁ kho gāmaṁ vā nigamaṁ vā piṇḍāya caranto alatthaṁ lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ."
+    },
+    {
+      "id": "dn34:2.1.109",
+      "pali": "Tassa me kāyo balavā kammañño, handāhaṁ vīriyaṁ ārabhāmi …pe…"
+    },
+    {
+      "id": "dn34:2.1.110",
+      "pali": "idaṁ chaṭṭhaṁ ārambhavatthu."
+    },
+    {
+      "id": "dn34:2.1.111",
+      "pali": "Puna caparaṁ, āvuso, bhikkhuno uppanno hoti appamattako ābādho."
+    },
+    {
+      "id": "dn34:2.1.112",
+      "pali": "Tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.113",
+      "pali": "‘uppanno kho me ayaṁ appamattako ābādho ṭhānaṁ kho panetaṁ vijjati, yaṁ me ābādho pavaḍḍheyya, handāhaṁ vīriyaṁ ārabhāmi …pe…"
+    },
+    {
+      "id": "dn34:2.1.114",
+      "pali": "idaṁ sattamaṁ ārambhavatthu."
+    },
+    {
+      "id": "dn34:2.1.115",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu gilānā vuṭṭhito hoti aciravuṭṭhito gelaññā."
+    },
+    {
+      "id": "dn34:2.1.116",
+      "pali": "Tassa evaṁ hoti:"
+    },
+    {
+      "id": "dn34:2.1.117",
+      "pali": "‘ahaṁ kho gilānā vuṭṭhito aciravuṭṭhito gelaññā, ṭhānaṁ kho panetaṁ vijjati, yaṁ me ābādho paccudāvatteyya, handāhaṁ vīriyaṁ ārabhāmi appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāyā’ti."
+    },
+    {
+      "id": "dn34:2.1.118",
+      "pali": "So vīriyaṁ ārabhati appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya."
+    },
+    {
+      "id": "dn34:2.1.119",
+      "pali": "Idaṁ aṭṭhamaṁ ārambhavatthu."
+    },
+    {
+      "id": "dn34:2.1.120",
+      "pali": "Ime aṭṭha dhammā visesabhāgiyā."
+    },
+    {
+      "id": "dn34:2.1.121",
+      "pali": "Katame aṭṭha dhammā duppaṭivijjhā?"
+    },
+    {
+      "id": "dn34:2.1.122",
+      "pali": "Aṭṭha akkhaṇā asamayā brahmacariyavāsāya."
+    },
+    {
+      "id": "dn34:2.1.123",
+      "pali": "Idhāvuso, tathāgato ca loke uppanno hoti arahaṁ sammāsambuddho, dhammo ca desiyati opasamiko parinibbāniko sambodhagāmī sugatappavedito."
+    },
+    {
+      "id": "dn34:2.1.124",
+      "pali": "Ayañca puggalo nirayaṁ upapanno hoti."
+    },
+    {
+      "id": "dn34:2.1.125",
+      "pali": "Ayaṁ paṭhamo akkhaṇo asamayo brahmacariyavāsāya."
+    },
+    {
+      "id": "dn34:2.1.126",
+      "pali": "Puna caparaṁ, āvuso, tathāgato ca loke uppanno hoti arahaṁ sammāsambuddho, dhammo ca desiyati opasamiko parinibbāniko sambodhagāmī sugatappavedito."
+    },
+    {
+      "id": "dn34:2.1.127",
+      "pali": "Ayañca puggalo tiracchānayoniṁ upapanno hoti."
+    },
+    {
+      "id": "dn34:2.1.128",
+      "pali": "Ayaṁ dutiyo akkhaṇo asamayo brahmacariyavāsāya."
+    },
+    {
+      "id": "dn34:2.1.129",
+      "pali": "Puna caparaṁ …pe…"
+    },
+    {
+      "id": "dn34:2.1.130",
+      "pali": "pettivisayaṁ upapanno hoti."
+    },
+    {
+      "id": "dn34:2.1.131",
+      "pali": "Ayaṁ tatiyo akkhaṇo asamayo brahmacariyavāsāya."
+    },
+    {
+      "id": "dn34:2.1.132",
+      "pali": "Puna caparaṁ …pe…"
+    },
+    {
+      "id": "dn34:2.1.133",
+      "pali": "aññataraṁ dīghāyukaṁ devanikāyaṁ upapanno hoti."
+    },
+    {
+      "id": "dn34:2.1.134",
+      "pali": "Ayaṁ catuttho akkhaṇo asamayo brahmacariyavāsāya."
+    },
+    {
+      "id": "dn34:2.1.135",
+      "pali": "Puna caparaṁ …pe…"
+    },
+    {
+      "id": "dn34:2.1.136",
+      "pali": "paccantimesu janapadesu paccājāto hoti milakkhesu aviññātāresu, yattha natthi gati bhikkhūnaṁ bhikkhunīnaṁ upāsakānaṁ upāsikānaṁ."
+    },
+    {
+      "id": "dn34:2.1.137",
+      "pali": "Ayaṁ pañcamo akkhaṇo asamayo brahmacariyavāsāya."
+    },
+    {
+      "id": "dn34:2.1.138",
+      "pali": "Puna caparaṁ …pe…"
+    },
+    {
+      "id": "dn34:2.1.139",
+      "pali": "ayañca puggalo majjhimesu janapadesu paccājāto hoti, so ca hoti micchādiṭṭhiko viparītadassano:"
+    },
+    {
+      "id": "dn34:2.1.140",
+      "pali": "‘natthi dinnaṁ, natthi yiṭṭhaṁ, natthi hutaṁ, natthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko, natthi ayaṁ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā, natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṁ parañca lokaṁ sayaṁ abhiññā sacchikatvā pavedentī’ti."
+    },
+    {
+      "id": "dn34:2.1.141",
+      "pali": "Ayaṁ chaṭṭho akkhaṇo asamayo brahmacariyavāsāya."
+    },
+    {
+      "id": "dn34:2.1.142",
+      "pali": "Puna caparaṁ …pe…"
+    },
+    {
+      "id": "dn34:2.1.143",
+      "pali": "ayañca puggalo majjhimesu janapadesu paccājāto hoti, so ca hoti duppañño jaḷo eḷamūgo, nappaṭibalo subhāsitadubbhāsitānamatthamaññātuṁ."
+    },
+    {
+      "id": "dn34:2.1.144",
+      "pali": "Ayaṁ sattamo akkhaṇo asamayo brahmacariyavāsāya."
+    },
+    {
+      "id": "dn34:2.1.145",
+      "pali": "Puna caparaṁ …pe…"
+    },
+    {
+      "id": "dn34:2.1.146",
+      "pali": "ayañca puggalo majjhimesu janapadesu paccājāto hoti, so ca hoti paññavā ajaḷo aneḷamūgo, paṭibalo subhāsitadubbhāsitānamatthamaññātuṁ."
+    },
+    {
+      "id": "dn34:2.1.147",
+      "pali": "Ayaṁ aṭṭhamo akkhaṇo asamayo brahmacariyavāsāya."
+    },
+    {
+      "id": "dn34:2.1.148",
+      "pali": "Ime aṭṭha dhammā duppaṭivijjhā."
+    },
+    {
+      "id": "dn34:2.1.149",
+      "pali": "Katame aṭṭha dhammā uppādetabbā?"
+    },
+    {
+      "id": "dn34:2.1.150",
+      "pali": "Aṭṭha mahāpurisavitakkā—"
+    },
+    {
+      "id": "dn34:2.1.151",
+      "pali": "appicchassāyaṁ dhammo, nāyaṁ dhammo mahicchassa."
+    },
+    {
+      "id": "dn34:2.1.152",
+      "pali": "Santuṭṭhassāyaṁ dhammo, nāyaṁ dhammo asantuṭṭhassa."
+    },
+    {
+      "id": "dn34:2.1.153",
+      "pali": "Pavivittassāyaṁ dhammo, nāyaṁ dhammo saṅgaṇikārāmassa."
+    },
+    {
+      "id": "dn34:2.1.154",
+      "pali": "Āraddhavīriyassāyaṁ dhammo, nāyaṁ dhammo kusītassa."
+    },
+    {
+      "id": "dn34:2.1.155",
+      "pali": "Upaṭṭhitasatissāyaṁ dhammo, nāyaṁ dhammo muṭṭhassatissa."
+    },
+    {
+      "id": "dn34:2.1.156",
+      "pali": "Samāhitassāyaṁ dhammo, nāyaṁ dhammo asamāhitassa."
+    },
+    {
+      "id": "dn34:2.1.157",
+      "pali": "Paññavato ayaṁ dhammo, nāyaṁ dhammo duppaññassa."
+    },
+    {
+      "id": "dn34:2.1.158",
+      "pali": "Nippapañcassāyaṁ dhammo, nāyaṁ dhammo papañcārāmassāti ime aṭṭha dhammā uppādetabbā."
+    },
+    {
+      "id": "dn34:2.1.159",
+      "pali": "Katame aṭṭha dhammā abhiññeyyā?"
+    },
+    {
+      "id": "dn34:2.1.160",
+      "pali": "Aṭṭha abhibhāyatanāni—"
+    },
+    {
+      "id": "dn34:2.1.161",
+      "pali": "ajjhattaṁ rūpasaññī eko bahiddhā rūpāni passati parittāni suvaṇṇadubbaṇṇāni, ‘tāni abhibhuyya jānāmi passāmī’ti—"
+    },
+    {
+      "id": "dn34:2.1.162",
+      "pali": "evaṁsaññī hoti."
+    },
+    {
+      "id": "dn34:2.1.163",
+      "pali": "Idaṁ paṭhamaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "dn34:2.1.164",
+      "pali": "Ajjhattaṁ rūpasaññī eko bahiddhā rūpāni passati appamāṇāni suvaṇṇadubbaṇṇāni, ‘tāni abhibhuyya jānāmi passāmī’ti—"
+    },
+    {
+      "id": "dn34:2.1.165",
+      "pali": "evaṁsaññī hoti."
+    },
+    {
+      "id": "dn34:2.1.166",
+      "pali": "Idaṁ dutiyaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "dn34:2.1.167",
+      "pali": "Ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati parittāni suvaṇṇadubbaṇṇāni, ‘tāni abhibhuyya jānāmi passāmī’ti—"
+    },
+    {
+      "id": "dn34:2.1.168",
+      "pali": "evaṁsaññī hoti."
+    },
+    {
+      "id": "dn34:2.1.169",
+      "pali": "Idaṁ tatiyaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "dn34:2.1.170",
+      "pali": "Ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati appamāṇāni suvaṇṇadubbaṇṇāni, ‘tāni abhibhuyya jānāmi passāmī’ti—"
+    },
+    {
+      "id": "dn34:2.1.171",
+      "pali": "evaṁsaññī hoti."
+    },
+    {
+      "id": "dn34:2.1.172",
+      "pali": "Idaṁ catutthaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "dn34:2.1.173",
+      "pali": "Ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati nīlāni nīlavaṇṇāni nīlanidassanāni nīlanibhāsāni."
+    },
+    {
+      "id": "dn34:2.1.174",
+      "pali": "Seyyathāpi nāma umāpupphaṁ nīlaṁ nīlavaṇṇaṁ nīlanidassanaṁ nīlanibhāsaṁ, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ nīlaṁ nīlavaṇṇaṁ nīlanidassanaṁ nīlanibhāsaṁ;"
+    },
+    {
+      "id": "dn34:2.1.175",
+      "pali": "evameva ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati nīlāni nīlavaṇṇāni nīlanidassanāni nīlanibhāsāni, ‘tāni abhibhuyya jānāmi passāmī’ti evaṁsaññī hoti."
+    },
+    {
+      "id": "dn34:2.1.176",
+      "pali": "Idaṁ pañcamaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "dn34:2.1.177",
+      "pali": "Ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati pītāni pītavaṇṇāni pītanidassanāni pītanibhāsāni."
+    },
+    {
+      "id": "dn34:2.1.178",
+      "pali": "Seyyathāpi nāma kaṇikārapupphaṁ pītaṁ pītavaṇṇaṁ pītanidassanaṁ pītanibhāsaṁ, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ pītaṁ pītavaṇṇaṁ pītanidassanaṁ pītanibhāsaṁ;"
+    },
+    {
+      "id": "dn34:2.1.179",
+      "pali": "evameva ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati pītāni pītavaṇṇāni pītanidassanāni pītanibhāsāni, ‘tāni abhibhuyya jānāmi passāmī’ti evaṁsaññī hoti."
+    },
+    {
+      "id": "dn34:2.1.180",
+      "pali": "Idaṁ chaṭṭhaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "dn34:2.1.181",
+      "pali": "Ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati lohitakāni lohitakavaṇṇāni lohitakanidassanāni lohitakanibhāsāni."
+    },
+    {
+      "id": "dn34:2.1.182",
+      "pali": "Seyyathāpi nāma bandhujīvakapupphaṁ lohitakaṁ lohitakavaṇṇaṁ lohitakanidassanaṁ lohitakanibhāsaṁ, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ lohitakaṁ lohitakavaṇṇaṁ lohitakanidassanaṁ lohitakanibhāsaṁ;"
+    },
+    {
+      "id": "dn34:2.1.183",
+      "pali": "evameva ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati lohitakāni lohitakavaṇṇāni lohitakanidassanāni lohitakanibhāsāni, ‘tāni abhibhuyya jānāmi passāmī’ti evaṁsaññī hoti."
+    },
+    {
+      "id": "dn34:2.1.184",
+      "pali": "Idaṁ sattamaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "dn34:2.1.185",
+      "pali": "Ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati odātāni odātavaṇṇāni odātanidassanāni odātanibhāsāni."
+    },
+    {
+      "id": "dn34:2.1.186",
+      "pali": "Seyyathāpi nāma osadhitārakā odātā odātavaṇṇā odātanidassanā odātanibhāsā, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ odātaṁ odātavaṇṇaṁ odātanidassanaṁ odātanibhāsaṁ;"
+    },
+    {
+      "id": "dn34:2.1.187",
+      "pali": "evameva ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati odātāni odātavaṇṇāni odātanidassanāni odātanibhāsāni, ‘tāni abhibhuyya jānāmi passāmī’ti evaṁsaññī hoti."
+    },
+    {
+      "id": "dn34:2.1.188",
+      "pali": "Idaṁ aṭṭhamaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "dn34:2.1.189",
+      "pali": "Ime aṭṭha dhammā abhiññeyyā."
+    },
+    {
+      "id": "dn34:2.1.190",
+      "pali": "Katame aṭṭha dhammā sacchikātabbā?"
+    },
+    {
+      "id": "dn34:2.1.191",
+      "pali": "Aṭṭha vimokkhā—"
+    },
+    {
+      "id": "dn34:2.1.192",
+      "pali": "rūpī rūpāni passati."
+    },
+    {
+      "id": "dn34:2.1.193",
+      "pali": "Ayaṁ paṭhamo vimokkho."
+    },
+    {
+      "id": "dn34:2.1.194",
+      "pali": "Ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati."
+    },
+    {
+      "id": "dn34:2.1.195",
+      "pali": "Ayaṁ dutiyo vimokkho."
+    },
+    {
+      "id": "dn34:2.1.196",
+      "pali": "Subhanteva adhimutto hoti."
+    },
+    {
+      "id": "dn34:2.1.197",
+      "pali": "Ayaṁ tatiyo vimokkho."
+    },
+    {
+      "id": "dn34:2.1.198",
+      "pali": "Sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.1.199",
+      "pali": "Ayaṁ catuttho vimokkho."
+    },
+    {
+      "id": "dn34:2.1.200",
+      "pali": "Sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.1.201",
+      "pali": "Ayaṁ pañcamo vimokkho."
+    },
+    {
+      "id": "dn34:2.1.202",
+      "pali": "Sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.1.203",
+      "pali": "Ayaṁ chaṭṭho vimokkho."
+    },
+    {
+      "id": "dn34:2.1.204",
+      "pali": "Sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.1.205",
+      "pali": "Ayaṁ sattamo vimokkho."
+    },
+    {
+      "id": "dn34:2.1.206",
+      "pali": "Sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.1.207",
+      "pali": "Ayaṁ aṭṭhamo vimokkho."
+    },
+    {
+      "id": "dn34:2.1.208",
+      "pali": "Ime aṭṭha dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:2.1.209",
+      "pali": "Iti ime asīti dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā."
+    },
+    {
+      "id": "dn34:2.2.0",
+      "pali": "9. Nava dhammā"
+    },
+    {
+      "id": "dn34:2.2.1",
+      "pali": "Nava dhammā bahukārā …pe… nava dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:2.2.2",
+      "pali": "Katame nava dhammā bahukārā?"
+    },
+    {
+      "id": "dn34:2.2.3",
+      "pali": "Nava yonisomanasikāramūlakā dhammā, yonisomanasikaroto pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati, samāhite citte yathābhūtaṁ jānāti passati, yathābhūtaṁ jānaṁ passaṁ nibbindati, nibbindaṁ virajjati, virāgā vimuccati."
+    },
+    {
+      "id": "dn34:2.2.4",
+      "pali": "Ime nava dhammā bahukārā."
+    },
+    {
+      "id": "dn34:2.2.5",
+      "pali": "Katame nava dhammā bhāvetabbā?"
+    },
+    {
+      "id": "dn34:2.2.6",
+      "pali": "Nava pārisuddhipadhāniyaṅgāni—"
+    },
+    {
+      "id": "dn34:2.2.7",
+      "pali": "sīlavisuddhi pārisuddhipadhāniyaṅgaṁ, cittavisuddhi pārisuddhipadhāniyaṅgaṁ, diṭṭhivisuddhi pārisuddhipadhāniyaṅgaṁ, kaṅkhāvitaraṇavisuddhi pārisuddhipadhāniyaṅgaṁ, maggāmaggañāṇadassanavisuddhi pārisuddhipadhāniyaṅgaṁ, paṭipadāñāṇadassanavisuddhi pārisuddhipadhāniyaṅgaṁ, ñāṇadassanavisuddhi pārisuddhipadhāniyaṅgaṁ, paññāvisuddhi pārisuddhipadhāniyaṅgaṁ, vimuttivisuddhi pārisuddhipadhāniyaṅgaṁ."
+    },
+    {
+      "id": "dn34:2.2.8",
+      "pali": "Ime nava dhammā bhāvetabbā."
+    },
+    {
+      "id": "dn34:2.2.9",
+      "pali": "Katame nava dhammā pariññeyyā?"
+    },
+    {
+      "id": "dn34:2.2.10",
+      "pali": "Nava sattāvāsā—"
+    },
+    {
+      "id": "dn34:2.2.11",
+      "pali": "santāvuso, sattā nānattakāyā nānattasaññino, seyyathāpi manussā ekacce ca devā ekacce ca vinipātikā."
+    },
+    {
+      "id": "dn34:2.2.12",
+      "pali": "Ayaṁ paṭhamo sattāvāso."
+    },
+    {
+      "id": "dn34:2.2.13",
+      "pali": "Santāvuso, sattā nānattakāyā ekattasaññino, seyyathāpi devā brahmakāyikā paṭhamābhinibbattā."
+    },
+    {
+      "id": "dn34:2.2.14",
+      "pali": "Ayaṁ dutiyo sattāvāso."
+    },
+    {
+      "id": "dn34:2.2.15",
+      "pali": "Santāvuso, sattā ekattakāyā nānattasaññino, seyyathāpi devā ābhassarā."
+    },
+    {
+      "id": "dn34:2.2.16",
+      "pali": "Ayaṁ tatiyo sattāvāso."
+    },
+    {
+      "id": "dn34:2.2.17",
+      "pali": "Santāvuso, sattā ekattakāyā ekattasaññino, seyyathāpi devā subhakiṇhā."
+    },
+    {
+      "id": "dn34:2.2.18",
+      "pali": "Ayaṁ catuttho sattāvāso."
+    },
+    {
+      "id": "dn34:2.2.19",
+      "pali": "Santāvuso, sattā asaññino appaṭisaṁvedino, seyyathāpi devā asaññasattā."
+    },
+    {
+      "id": "dn34:2.2.20",
+      "pali": "Ayaṁ pañcamo sattāvāso."
+    },
+    {
+      "id": "dn34:2.2.21",
+      "pali": "Santāvuso, sattā sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanūpagā."
+    },
+    {
+      "id": "dn34:2.2.22",
+      "pali": "Ayaṁ chaṭṭho sattāvāso."
+    },
+    {
+      "id": "dn34:2.2.23",
+      "pali": "Santāvuso, sattā sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanūpagā."
+    },
+    {
+      "id": "dn34:2.2.24",
+      "pali": "Ayaṁ sattamo sattāvāso."
+    },
+    {
+      "id": "dn34:2.2.25",
+      "pali": "Santāvuso, sattā sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanūpagā."
+    },
+    {
+      "id": "dn34:2.2.26",
+      "pali": "Ayaṁ aṭṭhamo sattāvāso."
+    },
+    {
+      "id": "dn34:2.2.27",
+      "pali": "Santāvuso, sattā sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanūpagā."
+    },
+    {
+      "id": "dn34:2.2.28",
+      "pali": "Ayaṁ navamo sattāvāso."
+    },
+    {
+      "id": "dn34:2.2.29",
+      "pali": "Ime nava dhammā pariññeyyā."
+    },
+    {
+      "id": "dn34:2.2.30",
+      "pali": "Katame nava dhammā pahātabbā?"
+    },
+    {
+      "id": "dn34:2.2.31",
+      "pali": "Nava taṇhāmūlakā dhammā—"
+    },
+    {
+      "id": "dn34:2.2.32",
+      "pali": "taṇhaṁ paṭicca pariyesanā, pariyesanaṁ paṭicca lābho, lābhaṁ paṭicca vinicchayo, vinicchayaṁ paṭicca chandarāgo, chandarāgaṁ paṭicca ajjhosānaṁ, ajjhosānaṁ paṭicca pariggaho, pariggahaṁ paṭicca macchariyaṁ, macchariyaṁ paṭicca ārakkho, ārakkhādhikaraṇaṁ daṇḍādānasatthādānakalahaviggahavivādatuvaṁtuvaṁpesuññamusāvādā aneke pāpakā akusalā dhammā sambhavanti."
+    },
+    {
+      "id": "dn34:2.2.33",
+      "pali": "Ime nava dhammā pahātabbā."
+    },
+    {
+      "id": "dn34:2.2.34",
+      "pali": "Katame nava dhammā hānabhāgiyā?"
+    },
+    {
+      "id": "dn34:2.2.35",
+      "pali": "Nava āghātavatthūni:"
+    },
+    {
+      "id": "dn34:2.2.36",
+      "pali": "‘anatthaṁ me acarī’ti āghātaṁ bandhati,"
+    },
+    {
+      "id": "dn34:2.2.37",
+      "pali": "‘anatthaṁ me caratī’ti āghātaṁ bandhati,"
+    },
+    {
+      "id": "dn34:2.2.38",
+      "pali": "‘anatthaṁ me carissatī’ti āghātaṁ bandhati;"
+    },
+    {
+      "id": "dn34:2.2.39",
+      "pali": "‘piyassa me manāpassa anatthaṁ acarī’ti āghātaṁ bandhati …pe…"
+    },
+    {
+      "id": "dn34:2.2.40",
+      "pali": "‘anatthaṁ caratī’ti āghātaṁ bandhati …pe…"
+    },
+    {
+      "id": "dn34:2.2.41",
+      "pali": "‘anatthaṁ carissatī’ti āghātaṁ bandhati;"
+    },
+    {
+      "id": "dn34:2.2.42",
+      "pali": "‘appiyassa me amanāpassa atthaṁ acarī’ti āghātaṁ bandhati …pe…"
+    },
+    {
+      "id": "dn34:2.2.43",
+      "pali": "‘atthaṁ caratī’ti āghātaṁ bandhati …pe…"
+    },
+    {
+      "id": "dn34:2.2.44",
+      "pali": "‘atthaṁ carissatī’ti āghātaṁ bandhati."
+    },
+    {
+      "id": "dn34:2.2.45",
+      "pali": "Ime nava dhammā hānabhāgiyā."
+    },
+    {
+      "id": "dn34:2.2.46",
+      "pali": "Katame nava dhammā visesabhāgiyā?"
+    },
+    {
+      "id": "dn34:2.2.47",
+      "pali": "Nava āghātapaṭivinayā:"
+    },
+    {
+      "id": "dn34:2.2.48",
+      "pali": "‘anatthaṁ me acari, taṁ kutettha labbhā’ti āghātaṁ paṭivineti;"
+    },
+    {
+      "id": "dn34:2.2.49",
+      "pali": "‘anatthaṁ me carati, taṁ kutettha labbhā’ti āghātaṁ paṭivineti;"
+    },
+    {
+      "id": "dn34:2.2.50",
+      "pali": "‘anatthaṁ me carissati, taṁ kutettha labbhā’ti āghātaṁ paṭivineti;"
+    },
+    {
+      "id": "dn34:2.2.51",
+      "pali": "‘piyassa me manāpassa anatthaṁ acari …pe…"
+    },
+    {
+      "id": "dn34:2.2.52",
+      "pali": "anatthaṁ carati …pe…"
+    },
+    {
+      "id": "dn34:2.2.53",
+      "pali": "anatthaṁ carissati, taṁ kutettha labbhā’ti āghātaṁ paṭivineti;"
+    },
+    {
+      "id": "dn34:2.2.54",
+      "pali": "‘appiyassa me amanāpassa atthaṁ acari …pe…"
+    },
+    {
+      "id": "dn34:2.2.55",
+      "pali": "atthaṁ carati …pe…"
+    },
+    {
+      "id": "dn34:2.2.56",
+      "pali": "atthaṁ carissati, taṁ kutettha labbhā’ti āghātaṁ paṭivineti."
+    },
+    {
+      "id": "dn34:2.2.57",
+      "pali": "Ime nava dhammā visesabhāgiyā."
+    },
+    {
+      "id": "dn34:2.2.58",
+      "pali": "Katame nava dhammā duppaṭivijjhā?"
+    },
+    {
+      "id": "dn34:2.2.59",
+      "pali": "Nava nānattā—"
+    },
+    {
+      "id": "dn34:2.2.60",
+      "pali": "dhātunānattaṁ paṭicca uppajjati phassanānattaṁ, phassanānattaṁ paṭicca uppajjati vedanānānattaṁ, vedanānānattaṁ paṭicca uppajjati saññānānattaṁ, saññānānattaṁ paṭicca uppajjati saṅkappanānattaṁ, saṅkappanānattaṁ paṭicca uppajjati chandanānattaṁ, chandanānattaṁ paṭicca uppajjati pariḷāhanānattaṁ, pariḷāhanānattaṁ paṭicca uppajjati pariyesanānānattaṁ, pariyesanānānattaṁ paṭicca uppajjati lābhanānattaṁ (…)."
+    },
+    {
+      "id": "dn34:2.2.61",
+      "pali": "Ime nava dhammā duppaṭivijjhā."
+    },
+    {
+      "id": "dn34:2.2.62",
+      "pali": "Katame nava dhammā uppādetabbā?"
+    },
+    {
+      "id": "dn34:2.2.63",
+      "pali": "Nava saññā—"
+    },
+    {
+      "id": "dn34:2.2.64",
+      "pali": "asubhasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratisaññā, aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā, pahānasaññā, virāgasaññā."
+    },
+    {
+      "id": "dn34:2.2.65",
+      "pali": "Ime nava dhammā uppādetabbā."
+    },
+    {
+      "id": "dn34:2.2.66",
+      "pali": "Katame nava dhammā abhiññeyyā?"
+    },
+    {
+      "id": "dn34:2.2.67",
+      "pali": "Nava anupubbavihārā—"
+    },
+    {
+      "id": "dn34:2.2.68",
+      "pali": "idhāvuso, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.2.69",
+      "pali": "Vitakkavicārānaṁ vūpasamā …pe… dutiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.2.70",
+      "pali": "Pītiyā ca virāgā …pe… tatiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.2.71",
+      "pali": "Sukhassa ca pahānā …pe… catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.2.72",
+      "pali": "Sabbaso rūpasaññānaṁ samatikkamā …pe… ākāsānañcāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.2.73",
+      "pali": "Sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.2.74",
+      "pali": "Sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.2.75",
+      "pali": "Sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.2.76",
+      "pali": "Sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.2.77",
+      "pali": "Ime nava dhammā abhiññeyyā."
+    },
+    {
+      "id": "dn34:2.2.78",
+      "pali": "Katame nava dhammā sacchikātabbā?"
+    },
+    {
+      "id": "dn34:2.2.79",
+      "pali": "Nava anupubbanirodhā—"
+    },
+    {
+      "id": "dn34:2.2.80",
+      "pali": "paṭhamaṁ jhānaṁ samāpannassa kāmasaññā niruddhā hoti,"
+    },
+    {
+      "id": "dn34:2.2.81",
+      "pali": "dutiyaṁ jhānaṁ samāpannassa vitakkavicārā niruddhā honti,"
+    },
+    {
+      "id": "dn34:2.2.82",
+      "pali": "tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti,"
+    },
+    {
+      "id": "dn34:2.2.83",
+      "pali": "catutthaṁ jhānaṁ samāpannassa assāsapassāssā niruddhā honti,"
+    },
+    {
+      "id": "dn34:2.2.84",
+      "pali": "ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti,"
+    },
+    {
+      "id": "dn34:2.2.85",
+      "pali": "viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti,"
+    },
+    {
+      "id": "dn34:2.2.86",
+      "pali": "ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti,"
+    },
+    {
+      "id": "dn34:2.2.87",
+      "pali": "nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti,"
+    },
+    {
+      "id": "dn34:2.2.88",
+      "pali": "saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca niruddhā honti."
+    },
+    {
+      "id": "dn34:2.2.89",
+      "pali": "Ime nava dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:2.2.90",
+      "pali": "Iti ime navuti dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā."
+    },
+    {
+      "id": "dn34:2.3.0",
+      "pali": "10. Dasa dhammā"
+    },
+    {
+      "id": "dn34:2.3.1",
+      "pali": "Dasa dhammā bahukārā …pe… dasa dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:2.3.2",
+      "pali": "Katame dasa dhammā bahukārā?"
+    },
+    {
+      "id": "dn34:2.3.3",
+      "pali": "Dasa nāthakaraṇā dhammā—"
+    },
+    {
+      "id": "dn34:2.3.4",
+      "pali": "idhāvuso, bhikkhu sīlavā hoti, pātimokkhasaṁvarasaṁvuto viharati ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī samādāya sikkhati sikkhāpadesu."
+    },
+    {
+      "id": "dn34:2.3.5",
+      "pali": "Yaṁpāvuso, bhikkhu sīlavā hoti …pe… sikkhati sikkhāpadesu."
+    },
+    {
+      "id": "dn34:2.3.6",
+      "pali": "Ayampi dhammo nāthakaraṇo."
+    },
+    {
+      "id": "dn34:2.3.7",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu bahussuto …pe… diṭṭhiyā suppaṭividdhā."
+    },
+    {
+      "id": "dn34:2.3.8",
+      "pali": "Yaṁpāvuso, bhikkhu bahussuto …pe…"
+    },
+    {
+      "id": "dn34:2.3.9",
+      "pali": "ayampi dhammo nāthakaraṇo."
+    },
+    {
+      "id": "dn34:2.3.10",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko."
+    },
+    {
+      "id": "dn34:2.3.11",
+      "pali": "Yaṁpāvuso, bhikkhu …pe… kalyāṇasampavaṅko."
+    },
+    {
+      "id": "dn34:2.3.12",
+      "pali": "Ayampi dhammo nāthakaraṇo."
+    },
+    {
+      "id": "dn34:2.3.13",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu suvaco hoti sovacassakaraṇehi dhammehi samannāgato, khamo padakkhiṇaggāhī anusāsaniṁ."
+    },
+    {
+      "id": "dn34:2.3.14",
+      "pali": "Yaṁpāvuso, bhikkhu …pe… anusāsaniṁ."
+    },
+    {
+      "id": "dn34:2.3.15",
+      "pali": "Ayampi dhammo nāthakaraṇo."
+    },
+    {
+      "id": "dn34:2.3.16",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu yāni tāni sabrahmacārīnaṁ uccāvacāni kiṅkaraṇīyāni tattha dakkho hoti analaso tatrupāyāya vīmaṁsāya samannāgato, alaṁ kātuṁ, alaṁ saṁvidhātuṁ."
+    },
+    {
+      "id": "dn34:2.3.17",
+      "pali": "Yaṁpāvuso, bhikkhu …pe… alaṁ saṁvidhātuṁ."
+    },
+    {
+      "id": "dn34:2.3.18",
+      "pali": "Ayampi dhammo nāthakaraṇo."
+    },
+    {
+      "id": "dn34:2.3.19",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu dhammakāmo hoti piyasamudāhāro abhidhamme abhivinaye uḷārapāmojjo."
+    },
+    {
+      "id": "dn34:2.3.20",
+      "pali": "Yaṁpāvuso, bhikkhu …pe… uḷārapāmojjo."
+    },
+    {
+      "id": "dn34:2.3.21",
+      "pali": "Ayampi dhammo nāthakaraṇo."
+    },
+    {
+      "id": "dn34:2.3.22",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu santuṭṭho hoti itarītarehi cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārehi."
+    },
+    {
+      "id": "dn34:2.3.23",
+      "pali": "Yaṁpāvuso, bhikkhu …pe…"
+    },
+    {
+      "id": "dn34:2.3.24",
+      "pali": "ayampi dhammo nāthakaraṇo."
+    },
+    {
+      "id": "dn34:2.3.25",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu āraddhavīriyo viharati …pe… kusalesu dhammesu."
+    },
+    {
+      "id": "dn34:2.3.26",
+      "pali": "Yaṁpāvuso, bhikkhu …pe…"
+    },
+    {
+      "id": "dn34:2.3.27",
+      "pali": "ayampi dhammo nāthakaraṇo."
+    },
+    {
+      "id": "dn34:2.3.28",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu satimā hoti, paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā."
+    },
+    {
+      "id": "dn34:2.3.29",
+      "pali": "Yaṁpāvuso, bhikkhu …pe…"
+    },
+    {
+      "id": "dn34:2.3.30",
+      "pali": "ayampi dhammo nāthakaraṇo."
+    },
+    {
+      "id": "dn34:2.3.31",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu paññavā hoti udayatthagāminiyā paññāya samannāgato, ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā."
+    },
+    {
+      "id": "dn34:2.3.32",
+      "pali": "Yaṁpāvuso, bhikkhu …pe…"
+    },
+    {
+      "id": "dn34:2.3.33",
+      "pali": "ayampi dhammo nāthakaraṇo."
+    },
+    {
+      "id": "dn34:2.3.34",
+      "pali": "Ime dasa dhammā bahukārā."
+    },
+    {
+      "id": "dn34:2.3.35",
+      "pali": "Katame dasa dhammā bhāvetabbā?"
+    },
+    {
+      "id": "dn34:2.3.36",
+      "pali": "Dasa kasiṇāyatanāni—"
+    },
+    {
+      "id": "dn34:2.3.37",
+      "pali": "pathavīkasiṇameko sañjānāti uddhaṁ adho tiriyaṁ advayaṁ appamāṇaṁ."
+    },
+    {
+      "id": "dn34:2.3.38",
+      "pali": "Āpokasiṇameko sañjānāti …pe…"
+    },
+    {
+      "id": "dn34:2.3.39",
+      "pali": "tejokasiṇameko sañjānāti …"
+    },
+    {
+      "id": "dn34:2.3.40",
+      "pali": "vāyokasiṇameko sañjānāti …"
+    },
+    {
+      "id": "dn34:2.3.41",
+      "pali": "nīlakasiṇameko sañjānāti …"
+    },
+    {
+      "id": "dn34:2.3.42",
+      "pali": "pītakasiṇameko sañjānāti …"
+    },
+    {
+      "id": "dn34:2.3.43",
+      "pali": "lohitakasiṇameko sañjānāti …"
+    },
+    {
+      "id": "dn34:2.3.44",
+      "pali": "odātakasiṇameko sañjānāti …"
+    },
+    {
+      "id": "dn34:2.3.45",
+      "pali": "ākāsakasiṇameko sañjānāti …"
+    },
+    {
+      "id": "dn34:2.3.46",
+      "pali": "viññāṇakasiṇameko sañjānāti uddhaṁ adho tiriyaṁ advayaṁ appamāṇaṁ."
+    },
+    {
+      "id": "dn34:2.3.47",
+      "pali": "Ime dasa dhammā bhāvetabbā."
+    },
+    {
+      "id": "dn34:2.3.48",
+      "pali": "Katame dasa dhammā pariññeyyā?"
+    },
+    {
+      "id": "dn34:2.3.49",
+      "pali": "Dasāyatanāni—"
+    },
+    {
+      "id": "dn34:2.3.50",
+      "pali": "cakkhāyatanaṁ, rūpāyatanaṁ, sotāyatanaṁ, saddāyatanaṁ, ghānāyatanaṁ, gandhāyatanaṁ, jivhāyatanaṁ, rasāyatanaṁ, kāyāyatanaṁ, phoṭṭhabbāyatanaṁ."
+    },
+    {
+      "id": "dn34:2.3.51",
+      "pali": "Ime dasa dhammā pariññeyyā."
+    },
+    {
+      "id": "dn34:2.3.52",
+      "pali": "Katame dasa dhammā pahātabbā?"
+    },
+    {
+      "id": "dn34:2.3.53",
+      "pali": "Dasa micchattā—"
+    },
+    {
+      "id": "dn34:2.3.54",
+      "pali": "micchādiṭṭhi, micchāsaṅkappo, micchāvācā, micchākammanto, micchāājīvo, micchāvāyāmo, micchāsati, micchāsamādhi, micchāñāṇaṁ, micchāvimutti."
+    },
+    {
+      "id": "dn34:2.3.55",
+      "pali": "Ime dasa dhammā pahātabbā."
+    },
+    {
+      "id": "dn34:2.3.56",
+      "pali": "Katame dasa dhammā hānabhāgiyā?"
+    },
+    {
+      "id": "dn34:2.3.57",
+      "pali": "Dasa akusalakammapathā—"
+    },
+    {
+      "id": "dn34:2.3.58",
+      "pali": "pāṇātipāto, adinnādānaṁ, kāmesumicchācāro, musāvādo, pisuṇā vācā, pharusā vācā, samphappalāpo, abhijjhā, byāpādo, micchādiṭṭhi."
+    },
+    {
+      "id": "dn34:2.3.59",
+      "pali": "Ime dasa dhammā hānabhāgiyā."
+    },
+    {
+      "id": "dn34:2.3.60",
+      "pali": "Katame dasa dhammā visesabhāgiyā?"
+    },
+    {
+      "id": "dn34:2.3.61",
+      "pali": "Dasa kusalakammapathā—"
+    },
+    {
+      "id": "dn34:2.3.62",
+      "pali": "pāṇātipātā veramaṇī, adinnādānā veramaṇī, kāmesumicchācārā veramaṇī, musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī, anabhijjhā, abyāpādo, sammādiṭṭhi."
+    },
+    {
+      "id": "dn34:2.3.63",
+      "pali": "Ime dasa dhammā visesabhāgiyā."
+    },
+    {
+      "id": "dn34:2.3.64",
+      "pali": "Katame dasa dhammā duppaṭivijjhā?"
+    },
+    {
+      "id": "dn34:2.3.65",
+      "pali": "Dasa ariyavāsā—"
+    },
+    {
+      "id": "dn34:2.3.66",
+      "pali": "idhāvuso, bhikkhu pañcaṅgavippahīno hoti, chaḷaṅgasamannāgato, ekārakkho, caturāpasseno, paṇunnapaccekasacco, samavayasaṭṭhesano, anāvilasaṅkappo, passaddhakāyasaṅkhāro, suvimuttacitto, suvimuttapañño."
+    },
+    {
+      "id": "dn34:2.3.67",
+      "pali": "Kathañcāvuso, bhikkhu pañcaṅgavippahīno hoti?"
+    },
+    {
+      "id": "dn34:2.3.68",
+      "pali": "Idhāvuso, bhikkhuno kāmacchando pahīno hoti, byāpādo pahīno hoti, thinamiddhaṁ pahīnaṁ hoti, uddhaccakukkuccaṁ pahīnaṁ hoti, vicikicchā pahīnā hoti."
+    },
+    {
+      "id": "dn34:2.3.69",
+      "pali": "Evaṁ kho, āvuso, bhikkhu pañcaṅgavippahīno hoti."
+    },
+    {
+      "id": "dn34:2.3.70",
+      "pali": "Kathañcāvuso, bhikkhu chaḷaṅgasamannāgato hoti?"
+    },
+    {
+      "id": "dn34:2.3.71",
+      "pali": "Idhāvuso, bhikkhu cakkhunā rūpaṁ disvā neva sumano hoti na dummano, upekkhako viharati sato sampajāno."
+    },
+    {
+      "id": "dn34:2.3.72",
+      "pali": "Sotena saddaṁ sutvā …pe…"
+    },
+    {
+      "id": "dn34:2.3.73",
+      "pali": "ghānena gandhaṁ ghāyitvā …"
+    },
+    {
+      "id": "dn34:2.3.74",
+      "pali": "jivhāya rasaṁ sāyitvā …"
+    },
+    {
+      "id": "dn34:2.3.75",
+      "pali": "kāyena phoṭṭhabbaṁ phusitvā …"
+    },
+    {
+      "id": "dn34:2.3.76",
+      "pali": "manasā dhammaṁ viññāya neva sumano hoti na dummano, upekkhako viharati sato sampajāno."
+    },
+    {
+      "id": "dn34:2.3.77",
+      "pali": "Evaṁ kho, āvuso, bhikkhu chaḷaṅgasamannāgato hoti."
+    },
+    {
+      "id": "dn34:2.3.78",
+      "pali": "Kathañcāvuso, bhikkhu ekārakkho hoti?"
+    },
+    {
+      "id": "dn34:2.3.79",
+      "pali": "Idhāvuso, bhikkhu satārakkhena cetasā samannāgato hoti."
+    },
+    {
+      "id": "dn34:2.3.80",
+      "pali": "Evaṁ kho, āvuso, bhikkhu ekārakkho hoti."
+    },
+    {
+      "id": "dn34:2.3.81",
+      "pali": "Kathañcāvuso, bhikkhu caturāpasseno hoti?"
+    },
+    {
+      "id": "dn34:2.3.82",
+      "pali": "Idhāvuso, bhikkhu saṅkhāyekaṁ paṭisevati, saṅkhāyekaṁ adhivāseti, saṅkhāyekaṁ parivajjeti, saṅkhāyekaṁ vinodeti."
+    },
+    {
+      "id": "dn34:2.3.83",
+      "pali": "Evaṁ kho, āvuso, bhikkhu caturāpasseno hoti."
+    },
+    {
+      "id": "dn34:2.3.84",
+      "pali": "Kathañcāvuso, bhikkhu paṇunnapaccekasacco hoti?"
+    },
+    {
+      "id": "dn34:2.3.85",
+      "pali": "Idhāvuso, bhikkhuno yāni tāni puthusamaṇabrāhmaṇānaṁ puthupaccekasaccāni, sabbāni tāni nunnāni honti paṇunnāni cattāni vantāni muttāni pahīnāni paṭinissaṭṭhāni."
+    },
+    {
+      "id": "dn34:2.3.86",
+      "pali": "Evaṁ kho, āvuso, bhikkhu paṇunnapaccekasacco hoti."
+    },
+    {
+      "id": "dn34:2.3.87",
+      "pali": "Kathañcāvuso, bhikkhu samavayasaṭṭhesano hoti?"
+    },
+    {
+      "id": "dn34:2.3.88",
+      "pali": "Idhāvuso, bhikkhuno kāmesanā pahīnā hoti, bhavesanā pahīnā hoti, brahmacariyesanā paṭippassaddhā."
+    },
+    {
+      "id": "dn34:2.3.89",
+      "pali": "Evaṁ kho, āvuso, bhikkhu samavayasaṭṭhesano hoti."
+    },
+    {
+      "id": "dn34:2.3.90",
+      "pali": "Kathañcāvuso, bhikkhu anāvilasaṅkappā hoti?"
+    },
+    {
+      "id": "dn34:2.3.91",
+      "pali": "Idhāvuso, bhikkhuno kāmasaṅkappo pahīno hoti, byāpādasaṅkappo pahīno hoti, vihiṁsāsaṅkappo pahīno hoti."
+    },
+    {
+      "id": "dn34:2.3.92",
+      "pali": "Evaṁ kho, āvuso, bhikkhu anāvilasaṅkappo hoti."
+    },
+    {
+      "id": "dn34:2.3.93",
+      "pali": "Kathañcāvuso, bhikkhu passaddhakāyasaṅkhāro hoti?"
+    },
+    {
+      "id": "dn34:2.3.94",
+      "pali": "Idhāvuso, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn34:2.3.95",
+      "pali": "Evaṁ kho, āvuso, bhikkhu passaddhakāyasaṅkhāro hoti."
+    },
+    {
+      "id": "dn34:2.3.96",
+      "pali": "Kathañcāvuso, bhikkhu suvimuttacitto hoti?"
+    },
+    {
+      "id": "dn34:2.3.97",
+      "pali": "Idhāvuso, bhikkhuno rāgā cittaṁ vimuttaṁ hoti, dosā cittaṁ vimuttaṁ hoti, mohā cittaṁ vimuttaṁ hoti."
+    },
+    {
+      "id": "dn34:2.3.98",
+      "pali": "Evaṁ kho, āvuso, bhikkhu suvimuttacitto hoti."
+    },
+    {
+      "id": "dn34:2.3.99",
+      "pali": "Kathañcāvuso, bhikkhu suvimuttapañño hoti?"
+    },
+    {
+      "id": "dn34:2.3.100",
+      "pali": "Idhāvuso, bhikkhu ‘rāgo me pahīno ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṁ anuppādadhammo’ti pajānāti."
+    },
+    {
+      "id": "dn34:2.3.101",
+      "pali": "‘Doso me pahīno …pe…"
+    },
+    {
+      "id": "dn34:2.3.102",
+      "pali": "āyatiṁ anuppādadhammo’ti pajānāti."
+    },
+    {
+      "id": "dn34:2.3.103",
+      "pali": "‘Moho me pahīno …pe…"
+    },
+    {
+      "id": "dn34:2.3.104",
+      "pali": "āyatiṁ anuppādadhammo’ti pajānāti."
+    },
+    {
+      "id": "dn34:2.3.105",
+      "pali": "Evaṁ kho, āvuso, bhikkhu suvimuttapañño hoti."
+    },
+    {
+      "id": "dn34:2.3.106",
+      "pali": "Ime dasa dhammā duppaṭivijjhā."
+    },
+    {
+      "id": "dn34:2.3.107",
+      "pali": "Katame dasa dhammā uppādetabbā?"
+    },
+    {
+      "id": "dn34:2.3.108",
+      "pali": "Dasa saññā—"
+    },
+    {
+      "id": "dn34:2.3.109",
+      "pali": "asubhasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratisaññā, aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā, pahānasaññā, virāgasaññā, nirodhasaññā."
+    },
+    {
+      "id": "dn34:2.3.110",
+      "pali": "Ime dasa dhammā uppādetabbā."
+    },
+    {
+      "id": "dn34:2.3.111",
+      "pali": "Katame dasa dhammā abhiññeyyā?"
+    },
+    {
+      "id": "dn34:2.3.112",
+      "pali": "Dasa nijjaravatthūni—"
+    },
+    {
+      "id": "dn34:2.3.113",
+      "pali": "sammādiṭṭhissa micchādiṭṭhi nijjiṇṇā hoti."
+    },
+    {
+      "id": "dn34:2.3.114",
+      "pali": "Ye ca micchādiṭṭhipaccayā aneke pāpakā akusalā dhammā sambhavanti, te cassa nijjiṇṇā honti."
+    },
+    {
+      "id": "dn34:2.3.115",
+      "pali": "Sammāsaṅkappassa micchāsaṅkappo …pe…"
+    },
+    {
+      "id": "dn34:2.3.116",
+      "pali": "sammāvācassa micchāvācā …"
+    },
+    {
+      "id": "dn34:2.3.117",
+      "pali": "sammākammantassa micchākammanto …"
+    },
+    {
+      "id": "dn34:2.3.118",
+      "pali": "sammāājīvassa micchāājīvo …"
+    },
+    {
+      "id": "dn34:2.3.119",
+      "pali": "sammāvāyāmassa micchāvāyāmo …"
+    },
+    {
+      "id": "dn34:2.3.120",
+      "pali": "sammāsatissa micchāsati …"
+    },
+    {
+      "id": "dn34:2.3.121",
+      "pali": "sammāsamādhissa micchāsamādhi …"
+    },
+    {
+      "id": "dn34:2.3.122",
+      "pali": "sammāñāṇassa micchāñāṇaṁ nijjiṇṇaṁ hoti."
+    },
+    {
+      "id": "dn34:2.3.123",
+      "pali": "Sammāvimuttissa micchāvimutti nijjiṇṇā hoti."
+    },
+    {
+      "id": "dn34:2.3.124",
+      "pali": "Ye ca micchāvimuttipaccayā aneke pāpakā akusalā dhammā sambhavanti, te cassa nijjiṇṇā honti."
+    },
+    {
+      "id": "dn34:2.3.125",
+      "pali": "Ime dasa dhammā abhiññeyyā."
+    },
+    {
+      "id": "dn34:2.3.126",
+      "pali": "Katame dasa dhammā sacchikātabbā?"
+    },
+    {
+      "id": "dn34:2.3.127",
+      "pali": "Dasa asekkhā dhammā—"
+    },
+    {
+      "id": "dn34:2.3.128",
+      "pali": "asekkhā sammādiṭṭhi, asekkho sammāsaṅkappo, asekkhā sammāvācā, asekkho sammākammanto, asekkho sammāājīvo, asekkho sammāvāyāmo, asekkhā sammāsati, asekkho sammāsamādhi, asekkhaṁ sammāñāṇaṁ, asekkhā sammāvimutti."
+    },
+    {
+      "id": "dn34:2.3.129",
+      "pali": "Ime dasa dhammā sacchikātabbā."
+    },
+    {
+      "id": "dn34:2.3.130",
+      "pali": "Iti ime satadhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā”ti."
+    },
+    {
+      "id": "dn34:2.3.131",
+      "pali": "Idamavocāyasmā sāriputto."
+    },
+    {
+      "id": "dn34:2.3.132",
+      "pali": "Attamanā te bhikkhū āyasmato sāriputtassa bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "dn34:2.3.133",
+      "pali": "Dasuttarasuttaṁ niṭṭhitaṁ ekādasamaṁ."
+    },
+    {
+      "id": "dn34:2.3.134",
+      "pali": "Pāthikavaggo niṭṭhito."
+    },
+    {
+      "id": "dn34:2.4.0",
+      "pali": "Tassuddānaṁ"
+    },
+    {
+      "id": "dn34:2.4.1",
+      "pali": "Pāthiko ca udumbaraṁ,"
+    },
+    {
+      "id": "dn34:2.4.2",
+      "pali": "cakkavatti aggaññakaṁ;"
+    },
+    {
+      "id": "dn34:2.4.3",
+      "pali": "Sampasādanapāsādaṁ,"
+    },
+    {
+      "id": "dn34:2.4.4",
+      "pali": "mahāpurisalakkhaṇaṁ."
+    },
+    {
+      "id": "dn34:2.4.5",
+      "pali": "Siṅgālāṭānāṭiyakaṁ,"
+    },
+    {
+      "id": "dn34:2.4.6",
+      "pali": "saṅgīti ca dasuttaraṁ;"
+    },
+    {
+      "id": "dn34:2.4.7",
+      "pali": "Ekādasahi suttehi,"
+    },
+    {
+      "id": "dn34:2.4.8",
+      "pali": "pāthikavaggoti vuccati."
+    },
+    {
+      "id": "dn34:2.4.9",
+      "pali": "Pāthikavaggapāḷi niṭṭhitā."
+    },
+    {
+      "id": "dn34:2.4.10",
+      "pali": "Tīhi vaggehi paṭimaṇḍito sakalo"
+    },
+    {
+      "id": "dn34:2.4.11",
+      "pali": "dīghanikāyo samatto."
+    }
+  ]
+}

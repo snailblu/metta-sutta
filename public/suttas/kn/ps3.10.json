@@ -1,0 +1,639 @@
+{
+  "uid": "ps3.10",
+  "title": "3.10. Mātikākathā",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "ps3.10:1.1",
+      "pali": "Nicchāto, mokkho vimokkho, vijjāvimutti, adhisīlaṁ, adhicittaṁ, adhipaññā, passaddhi, ñāṇaṁ, dassanaṁ, visuddhi, nekkhammaṁ, nissaraṇaṁ, paviveko, vosaggo, cariyā, jhānavimokkho, bhāvanā, adhiṭṭhānaṁ, jīvitaṁ. [19]"
+    },
+    {
+      "id": "ps3.10:2.1",
+      "pali": "<b>Nicchāto</b>ti nekkhammena kāmacchandato nicchāto, abyāpādena byāpādato nicchāto …pe…"
+    },
+    {
+      "id": "ps3.10:2.2",
+      "pali": "paṭhamena jhānena nīvaraṇehi nicchāto …pe…"
+    },
+    {
+      "id": "ps3.10:2.3",
+      "pali": "arahattamaggena sabbakilesehi nicchāto."
+    },
+    {
+      "id": "ps3.10:3.1",
+      "pali": "<b>Mokkho vimokkho</b>ti nekkhammena kāmacchandato muccatīti—"
+    },
+    {
+      "id": "ps3.10:3.2",
+      "pali": "mokkho vimokkho."
+    },
+    {
+      "id": "ps3.10:3.3",
+      "pali": "Abyāpādena byāpādato muccatīti—"
+    },
+    {
+      "id": "ps3.10:3.4",
+      "pali": "mokkho vimokkho …pe…"
+    },
+    {
+      "id": "ps3.10:3.5",
+      "pali": "paṭhamena jhānena nīvaraṇehi muccatīti—"
+    },
+    {
+      "id": "ps3.10:3.6",
+      "pali": "mokkho vimokkho …pe…"
+    },
+    {
+      "id": "ps3.10:3.7",
+      "pali": "arahattamaggena sabbakilesehi muccatīti—"
+    },
+    {
+      "id": "ps3.10:3.8",
+      "pali": "mokkho vimokkho."
+    },
+    {
+      "id": "ps3.10:4.1",
+      "pali": "<b>Vijjāvimuttī</b>ti nekkhammaṁ vijjatīti vijjā, kāmacchandato muccatīti vimutti."
+    },
+    {
+      "id": "ps3.10:4.2",
+      "pali": "Vijjanto muccati, muccanto vijjatīti—"
+    },
+    {
+      "id": "ps3.10:4.3",
+      "pali": "vijjāvimutti."
+    },
+    {
+      "id": "ps3.10:4.4",
+      "pali": "Abyāpādo vijjatīti vijjā, byāpādato vimuccatīti vimutti."
+    },
+    {
+      "id": "ps3.10:4.5",
+      "pali": "Vijjanto muccati, muccanto vijjatīti—"
+    },
+    {
+      "id": "ps3.10:4.6",
+      "pali": "vijjāvimutti …pe…"
+    },
+    {
+      "id": "ps3.10:4.7",
+      "pali": "arahattamaggo vijjatīti vijjā, sabbakilesehi muccatīti vimutti."
+    },
+    {
+      "id": "ps3.10:4.8",
+      "pali": "Vijjanto muccati, muccanto vijjatīti—"
+    },
+    {
+      "id": "ps3.10:4.9",
+      "pali": "vijjāvimutti."
+    },
+    {
+      "id": "ps3.10:5.1",
+      "pali": "<b>Adhisīlaṁ adhicittaṁ adhipaññā</b>ti nekkhammena kāmacchandaṁ, saṁvaraṭṭhena sīlavisuddhi, avikkhepaṭṭhena cittavisuddhi, dassanaṭṭhena diṭṭhivisuddhi."
+    },
+    {
+      "id": "ps3.10:5.2",
+      "pali": "Yo tattha saṁvaraṭṭho, ayaṁ adhisīlasikkhā."
+    },
+    {
+      "id": "ps3.10:5.3",
+      "pali": "Yo tattha avikkhepaṭṭho, ayaṁ adhicittasikkhā."
+    },
+    {
+      "id": "ps3.10:5.4",
+      "pali": "Yo tattha dassanaṭṭho, ayaṁ adhipaññāsikkhā."
+    },
+    {
+      "id": "ps3.10:5.5",
+      "pali": "Abyāpādena byāpādaṁ saṁvaraṭṭhena sīlavisuddhi …pe…"
+    },
+    {
+      "id": "ps3.10:5.6",
+      "pali": "arahattamaggena sabbakilese saṁvaraṭṭhena sīlavisuddhi, avikkhepaṭṭhena cittavisuddhi."
+    },
+    {
+      "id": "ps3.10:5.7",
+      "pali": "Dassanaṭṭhena diṭṭhivisuddhi."
+    },
+    {
+      "id": "ps3.10:5.8",
+      "pali": "Yo tattha saṁvaraṭṭho, ayaṁ adhisīlasikkhā."
+    },
+    {
+      "id": "ps3.10:5.9",
+      "pali": "Yo tattha avikkhepaṭṭho, ayaṁ adhicittasikkhā."
+    },
+    {
+      "id": "ps3.10:5.10",
+      "pali": "Yo tattha dassanaṭṭho, ayaṁ adhipaññāsikkhā."
+    },
+    {
+      "id": "ps3.10:6.1",
+      "pali": "<b>Passaddhī</b>ti nekkhammena kāmacchandaṁ paṭippassambheti, abyāpādena byāpādaṁ paṭippassambheti …pe…"
+    },
+    {
+      "id": "ps3.10:6.2",
+      "pali": "arahattamaggena sabbakilese paṭippassambheti."
+    },
+    {
+      "id": "ps3.10:7.1",
+      "pali": "<b>Ñāṇan</b>ti kāmacchandassa pahīnattā nekkhammaṁ ñātaṭṭhena ñāṇaṁ;"
+    },
+    {
+      "id": "ps3.10:7.2",
+      "pali": "byāpādassa pahīnattā abyāpādo ñātaṭṭhena ñāṇaṁ …pe…"
+    },
+    {
+      "id": "ps3.10:7.3",
+      "pali": "sabbakilesānaṁ pahīnattā arahattamaggo ñātaṭṭhena ñāṇaṁ."
+    },
+    {
+      "id": "ps3.10:8.1",
+      "pali": "<b>Dassanan</b>ti kāmacchandassa pahīnattā nekkhammaṁ diṭṭhattā dassanaṁ."
+    },
+    {
+      "id": "ps3.10:8.2",
+      "pali": "Byāpādassa pahīnattā abyāpādo diṭṭhattā dassanaṁ …pe…"
+    },
+    {
+      "id": "ps3.10:8.3",
+      "pali": "sabbakilesānaṁ pahīnattā arahattamaggo diṭṭhattā dassanaṁ."
+    },
+    {
+      "id": "ps3.10:9.1",
+      "pali": "<b>Visuddhī</b>ti kāmacchandaṁ pajahanto nekkhammena visujjhati."
+    },
+    {
+      "id": "ps3.10:9.2",
+      "pali": "Byāpādaṁ pajahanto abyāpādena visujjhati …pe…"
+    },
+    {
+      "id": "ps3.10:9.3",
+      "pali": "sabbakilese pajahanto arahattamaggena visujjhati."
+    },
+    {
+      "id": "ps3.10:10.1",
+      "pali": "<b>Nekkhamman</b>ti kāmānametaṁ nissaraṇaṁ, yadidaṁ nekkhammaṁ."
+    },
+    {
+      "id": "ps3.10:10.2",
+      "pali": "Rūpānametaṁ nissaraṇaṁ, yadidaṁ āruppaṁ."
+    },
+    {
+      "id": "ps3.10:10.3",
+      "pali": "Yaṁ kho pana kiñci bhūtaṁ saṅkhataṁ paṭiccasamuppannaṁ, nirodho tassa nekkhammaṁ."
+    },
+    {
+      "id": "ps3.10:10.4",
+      "pali": "Byāpādassa abyāpādo nekkhammaṁ."
+    },
+    {
+      "id": "ps3.10:10.5",
+      "pali": "Thinamiddhassa ālokasaññā nekkhammaṁ …pe…"
+    },
+    {
+      "id": "ps3.10:10.6",
+      "pali": "sabbakilesānaṁ arahattamaggo nekkhammaṁ."
+    },
+    {
+      "id": "ps3.10:11.1",
+      "pali": "<b>Nissaraṇan</b>ti kāmānametaṁ nissaraṇaṁ, yadidaṁ nekkhammaṁ."
+    },
+    {
+      "id": "ps3.10:11.2",
+      "pali": "Rūpānametaṁ nissaraṇaṁ, yadidaṁ āruppaṁ."
+    },
+    {
+      "id": "ps3.10:11.3",
+      "pali": "Yaṁ kho pana kiñci bhūtaṁ saṅkhataṁ paṭiccasamuppannaṁ, nirodho tassa nissaraṇaṁ."
+    },
+    {
+      "id": "ps3.10:11.4",
+      "pali": "Kāmacchandassa nekkhammaṁ nissaraṇaṁ."
+    },
+    {
+      "id": "ps3.10:11.5",
+      "pali": "Byāpādassa abyāpādo nissaraṇaṁ …pe…"
+    },
+    {
+      "id": "ps3.10:11.6",
+      "pali": "sabbakilesānaṁ arahattamaggo nissaraṇaṁ."
+    },
+    {
+      "id": "ps3.10:12.1",
+      "pali": "<b>Paviveko</b>ti kāmacchandassa nekkhammaṁ paviveko …pe…"
+    },
+    {
+      "id": "ps3.10:12.2",
+      "pali": "sabbakilesānaṁ arahattamaggo paviveko."
+    },
+    {
+      "id": "ps3.10:13.1",
+      "pali": "<b>Vosaggo</b>ti nekkhammena kāmacchandaṁ vosajjatīti—"
+    },
+    {
+      "id": "ps3.10:13.2",
+      "pali": "vosaggo."
+    },
+    {
+      "id": "ps3.10:13.3",
+      "pali": "Abyāpādena byāpādaṁ vosajjatīti—"
+    },
+    {
+      "id": "ps3.10:13.4",
+      "pali": "vosaggo …pe…"
+    },
+    {
+      "id": "ps3.10:13.5",
+      "pali": "arahattamaggena sabbakilese vosajjatīti—"
+    },
+    {
+      "id": "ps3.10:13.6",
+      "pali": "vosaggo."
+    },
+    {
+      "id": "ps3.10:14.1",
+      "pali": "<b>Cariyā</b>ti kāmacchandaṁ pajahanto nekkhammena carati."
+    },
+    {
+      "id": "ps3.10:14.2",
+      "pali": "Byāpādaṁ pajahanto abyāpādena carati …pe…"
+    },
+    {
+      "id": "ps3.10:14.3",
+      "pali": "sabbakilese pajahanto arahattamaggena carati."
+    },
+    {
+      "id": "ps3.10:15.1",
+      "pali": "<b>Jhānavimokkho</b>ti nekkhammaṁ jhāyatīti—"
+    },
+    {
+      "id": "ps3.10:15.2",
+      "pali": "jhānaṁ."
+    },
+    {
+      "id": "ps3.10:15.3",
+      "pali": "Kāmacchandaṁ jhāpetīti—"
+    },
+    {
+      "id": "ps3.10:15.4",
+      "pali": "jhānaṁ."
+    },
+    {
+      "id": "ps3.10:15.5",
+      "pali": "Jhāyanto muccatīti—"
+    },
+    {
+      "id": "ps3.10:15.6",
+      "pali": "jhānavimokkho."
+    },
+    {
+      "id": "ps3.10:15.7",
+      "pali": "Jhāpento muccatīti—"
+    },
+    {
+      "id": "ps3.10:15.8",
+      "pali": "jhānavimokkho."
+    },
+    {
+      "id": "ps3.10:15.9",
+      "pali": "Jhāyantīti dhammā."
+    },
+    {
+      "id": "ps3.10:15.10",
+      "pali": "Jhāpentīti kilese."
+    },
+    {
+      "id": "ps3.10:15.11",
+      "pali": "Jhāte ca jhāpe ca jānātīti—"
+    },
+    {
+      "id": "ps3.10:15.12",
+      "pali": "jhānajhāyī."
+    },
+    {
+      "id": "ps3.10:15.13",
+      "pali": "Abyāpādo jhāyatīti jhānaṁ."
+    },
+    {
+      "id": "ps3.10:15.14",
+      "pali": "Byāpādaṁ jhāpetīti—"
+    },
+    {
+      "id": "ps3.10:15.15",
+      "pali": "jhānaṁ …pe…"
+    },
+    {
+      "id": "ps3.10:15.16",
+      "pali": "ālokasaññā jhāyatīti—"
+    },
+    {
+      "id": "ps3.10:15.17",
+      "pali": "jhānaṁ."
+    },
+    {
+      "id": "ps3.10:15.18",
+      "pali": "Thinamiddhaṁ jhāpetīti—"
+    },
+    {
+      "id": "ps3.10:15.19",
+      "pali": "jhānaṁ …pe…"
+    },
+    {
+      "id": "ps3.10:15.20",
+      "pali": "arahattamaggo jhāyatīti—"
+    },
+    {
+      "id": "ps3.10:15.21",
+      "pali": "jhānaṁ."
+    },
+    {
+      "id": "ps3.10:15.22",
+      "pali": "Sabbakilese jhāpetīti—"
+    },
+    {
+      "id": "ps3.10:15.23",
+      "pali": "jhānaṁ."
+    },
+    {
+      "id": "ps3.10:15.24",
+      "pali": "Jhāyanto muccatīti—"
+    },
+    {
+      "id": "ps3.10:15.25",
+      "pali": "jhānavimokkho."
+    },
+    {
+      "id": "ps3.10:15.26",
+      "pali": "Jhāpento muccatīti—"
+    },
+    {
+      "id": "ps3.10:15.27",
+      "pali": "jhānavimokkho."
+    },
+    {
+      "id": "ps3.10:15.28",
+      "pali": "Jhāyantīti—"
+    },
+    {
+      "id": "ps3.10:15.29",
+      "pali": "dhammā."
+    },
+    {
+      "id": "ps3.10:15.30",
+      "pali": "Jhāpentīti—"
+    },
+    {
+      "id": "ps3.10:15.31",
+      "pali": "kilese."
+    },
+    {
+      "id": "ps3.10:15.32",
+      "pali": "Jhāte ca jhāpe ca jānātīti—"
+    },
+    {
+      "id": "ps3.10:15.33",
+      "pali": "jhānajhāyī."
+    },
+    {
+      "id": "ps3.10:16.1",
+      "pali": "<b>Bhāvanā adhiṭṭhānaṁ jīvitan</b>ti kāmacchandaṁ pajahanto nekkhammaṁ bhāvetīti—"
+    },
+    {
+      "id": "ps3.10:16.2",
+      "pali": "bhāvanāsampanno."
+    },
+    {
+      "id": "ps3.10:16.3",
+      "pali": "Nekkhammavasena cittaṁ adhiṭṭhātīti—"
+    },
+    {
+      "id": "ps3.10:16.4",
+      "pali": "adhiṭṭhānasampanno."
+    },
+    {
+      "id": "ps3.10:16.5",
+      "pali": "Svāyaṁ evaṁ bhāvanāsampanno adhiṭṭhānasampanno samaṁ jīvati, no visamaṁ;"
+    },
+    {
+      "id": "ps3.10:16.6",
+      "pali": "sammā jīvati, no micchā;"
+    },
+    {
+      "id": "ps3.10:16.7",
+      "pali": "visuddhaṁ jīvati, no kiliṭṭhanti—"
+    },
+    {
+      "id": "ps3.10:16.8",
+      "pali": "ājīvasampanno."
+    },
+    {
+      "id": "ps3.10:16.9",
+      "pali": "Svāyaṁ evaṁ bhāvanāsampanno adhiṭṭhānasampanno ājīvasampanno yaññadeva parisaṁ upasaṅkamati—"
+    },
+    {
+      "id": "ps3.10:16.10",
+      "pali": "yadi khattiyaparisaṁ yadi brāhmaṇaparisaṁ yadi gahapatiparisaṁ yadi samaṇaparisaṁ—"
+    },
+    {
+      "id": "ps3.10:16.11",
+      "pali": "visārado upasaṅkamati amaṅkubhūto."
+    },
+    {
+      "id": "ps3.10:16.12",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "ps3.10:16.13",
+      "pali": "Tathā hi so bhāvanāsampanno adhiṭṭhānasampanno ājīvasampanno."
+    },
+    {
+      "id": "ps3.10:17.1",
+      "pali": "Byāpādaṁ pajahanto abyāpādaṁ bhāvetīti—"
+    },
+    {
+      "id": "ps3.10:17.2",
+      "pali": "bhāvanāsampanno …pe…"
+    },
+    {
+      "id": "ps3.10:17.3",
+      "pali": "thinamiddhaṁ pajahanto ālokasaññaṁ bhāvetīti—"
+    },
+    {
+      "id": "ps3.10:17.4",
+      "pali": "bhāvanāsampanno …pe…"
+    },
+    {
+      "id": "ps3.10:17.5",
+      "pali": "uddhaccaṁ pajahanto avikkhepaṁ bhāvetīti—"
+    },
+    {
+      "id": "ps3.10:17.6",
+      "pali": "bhāvanāsampanno …pe…"
+    },
+    {
+      "id": "ps3.10:17.7",
+      "pali": "vicikicchaṁ pajahanto dhammavavatthānaṁ bhāvetīti—"
+    },
+    {
+      "id": "ps3.10:17.8",
+      "pali": "bhāvanāsampanno …pe…"
+    },
+    {
+      "id": "ps3.10:17.9",
+      "pali": "avijjaṁ pajahanto vijjaṁ bhāvetīti—"
+    },
+    {
+      "id": "ps3.10:17.10",
+      "pali": "bhāvanāsampanno …pe…"
+    },
+    {
+      "id": "ps3.10:17.11",
+      "pali": "aratiṁ pajahanto pāmojjaṁ bhāvetīti—"
+    },
+    {
+      "id": "ps3.10:17.12",
+      "pali": "bhāvanāsampanno …pe…"
+    },
+    {
+      "id": "ps3.10:17.13",
+      "pali": "nīvaraṇe pajahanto paṭhamaṁ jhānaṁ bhāvetīti—"
+    },
+    {
+      "id": "ps3.10:17.14",
+      "pali": "bhāvanāsampanno …pe…"
+    },
+    {
+      "id": "ps3.10:17.15",
+      "pali": "sabbakilese pajahanto arahattamaggaṁ bhāvetīti—"
+    },
+    {
+      "id": "ps3.10:17.16",
+      "pali": "bhāvanāsampanno."
+    },
+    {
+      "id": "ps3.10:17.17",
+      "pali": "Arahattamaggavasena cittaṁ adhiṭṭhātīti—"
+    },
+    {
+      "id": "ps3.10:17.18",
+      "pali": "adhiṭṭhānasampanno."
+    },
+    {
+      "id": "ps3.10:17.19",
+      "pali": "Svāyaṁ evaṁ bhāvanāsampanno adhiṭṭhānasampanno samaṁ jīvati, no visamaṁ;"
+    },
+    {
+      "id": "ps3.10:17.20",
+      "pali": "sammā jīvati, no micchā;"
+    },
+    {
+      "id": "ps3.10:17.21",
+      "pali": "visuddhaṁ jīvati, no kiliṭṭhanti—"
+    },
+    {
+      "id": "ps3.10:17.22",
+      "pali": "ājīvasampanno."
+    },
+    {
+      "id": "ps3.10:17.23",
+      "pali": "Svāyaṁ evaṁ bhāvanāsampanno adhiṭṭhānasampanno ājīvasampanno yaññadeva parisaṁ upasaṅkamati—"
+    },
+    {
+      "id": "ps3.10:17.24",
+      "pali": "yadi khattiyaparisaṁ yadi brāhmaṇaparisaṁ yadi gahapatiparisaṁ yadi samaṇaparisaṁ—"
+    },
+    {
+      "id": "ps3.10:17.25",
+      "pali": "visārado upasaṅkamati amaṅkubhūto."
+    },
+    {
+      "id": "ps3.10:17.26",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "ps3.10:17.27",
+      "pali": "Tathā hi so bhāvanāsampanno adhiṭṭhānasampanno ājīvasampannoti."
+    },
+    {
+      "id": "ps3.10:17.28",
+      "pali": "Mātikākathā niṭṭhitā."
+    },
+    {
+      "id": "ps3.10:17.29",
+      "pali": "Paññāvaggo tatiyo."
+    },
+    {
+      "id": "ps3.10:17.30",
+      "pali": "Tassuddānaṁ"
+    },
+    {
+      "id": "ps3.10:18.1",
+      "pali": "Paññā iddhi abhisamayo,"
+    },
+    {
+      "id": "ps3.10:18.2",
+      "pali": "viveko cariyapañcamo;"
+    },
+    {
+      "id": "ps3.10:18.3",
+      "pali": "Pāṭihāri samasīsi,"
+    },
+    {
+      "id": "ps3.10:18.4",
+      "pali": "satipaṭṭhānā vipassanā;"
+    },
+    {
+      "id": "ps3.10:18.5",
+      "pali": "Tatiye paññāvaggamhi,"
+    },
+    {
+      "id": "ps3.10:18.6",
+      "pali": "mātikāya ca te dasāti."
+    },
+    {
+      "id": "ps3.10:19.1",
+      "pali": "Mahāvaggo yuganaddho,"
+    },
+    {
+      "id": "ps3.10:19.2",
+      "pali": "paññāvaggo ca nāmato;"
+    },
+    {
+      "id": "ps3.10:19.3",
+      "pali": "Tayova vaggā imamhi,"
+    },
+    {
+      "id": "ps3.10:19.4",
+      "pali": "paṭisambhidāpakaraṇe."
+    },
+    {
+      "id": "ps3.10:20.1",
+      "pali": "Anantanayamaggesu,"
+    },
+    {
+      "id": "ps3.10:20.2",
+      "pali": "gambhīro sāgarūpamo;"
+    },
+    {
+      "id": "ps3.10:20.3",
+      "pali": "Nabhañca tārakākiṇṇaṁ,"
+    },
+    {
+      "id": "ps3.10:20.4",
+      "pali": "thūlo jātassaro yathā;"
+    },
+    {
+      "id": "ps3.10:20.5",
+      "pali": "Kathikānaṁ visālāya,"
+    },
+    {
+      "id": "ps3.10:20.6",
+      "pali": "yogīnaṁ ñāṇajotananti."
+    },
+    {
+      "id": "ps3.10:20.7",
+      "pali": "Paṭisambhidāmaggapāḷi niṭṭhitā."
+    }
+  ]
+}

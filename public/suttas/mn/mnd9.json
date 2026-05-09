@@ -1,0 +1,2175 @@
+{
+  "uid": "mnd9",
+  "title": "9. Māgaṇḍiyasuttaniddesa",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mnd9:1.1",
+      "pali": "Atha māgaṇḍiyasuttaniddesaṁ vakkhati—"
+    },
+    {
+      "id": "mnd9:2.1",
+      "pali": "<b>Disvāna taṇhaṁ aratiṁ ragañca,</b>"
+    },
+    {
+      "id": "mnd9:2.2",
+      "pali": "<b>Nāhosi chando api methunasmiṁ;</b>"
+    },
+    {
+      "id": "mnd9:2.3",
+      "pali": "<b>Kimevidaṁ muttakarīsapuṇṇaṁ,</b>"
+    },
+    {
+      "id": "mnd9:2.4",
+      "pali": "<b>Pādāpi naṁ samphusituṁ na icche.</b>"
+    },
+    {
+      "id": "mnd9:3.1",
+      "pali": "<b>Disvāna taṇhaṁ aratiṁ ragañca, nāhosi chando api methunasmin</b>ti."
+    },
+    {
+      "id": "mnd9:3.2",
+      "pali": "Taṇhañca aratiñca ragañca māradhītaro disvā passitvā methunadhamme chando vā rāgo vā pemaṁ vā nāhosīti—"
+    },
+    {
+      "id": "mnd9:3.3",
+      "pali": "disvāna taṇhaṁ aratiṁ ragañca nāhosi chando api methunasmiṁ."
+    },
+    {
+      "id": "mnd9:4.1",
+      "pali": "<b>Kimevidaṁ muttakarīsapuṇṇaṁ, pādāpi naṁ samphusituṁ na icche</b>ti."
+    },
+    {
+      "id": "mnd9:4.2",
+      "pali": "Kimevidaṁ sarīraṁ muttapuṇṇaṁ karīsapuṇṇaṁ semhapuṇṇaṁ ruhirapuṇṇaṁ aṭṭhisaṅghātanhārusambandhaṁ rudhiramaṁsāvalepanaṁ cammavinaddhaṁ chaviyā paṭicchannaṁ chiddāvachiddaṁ uggharantaṁ paggharantaṁ kimisaṅghanisevitaṁ nānākalimalaparipūraṁ pādena akkamituṁ na iccheyya, kuto pana saṁvāso vā samāgamo vāti—"
+    },
+    {
+      "id": "mnd9:4.3",
+      "pali": "kimevidaṁ muttakarīsapuṇṇaṁ, pādāpi naṁ samphusituṁ na icche."
+    },
+    {
+      "id": "mnd9:4.4",
+      "pali": "Anacchariyañcetaṁ manusso dibbe kāme patthayanto mānusake kāme na iccheyya, mānusake vā kāme patthayanto dibbe kāme na iccheyya."
+    },
+    {
+      "id": "mnd9:4.5",
+      "pali": "Yaṁ tvaṁ ubhopi na icchasi na sādiyasi na patthesi na pihesi nābhijappasi, kiṁ te dassanaṁ, katamāya tvaṁ diṭṭhiyā samannāgatoti pucchatīti."
+    },
+    {
+      "id": "mnd9:5.1",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "mnd9:6.1",
+      "pali": "“Disvāna taṇhaṁ aratiṁ ragañca,"
+    },
+    {
+      "id": "mnd9:6.2",
+      "pali": "Nāhosi chando api methunasmiṁ;"
+    },
+    {
+      "id": "mnd9:6.3",
+      "pali": "Kimevidaṁ muttakarīsapuṇṇaṁ,"
+    },
+    {
+      "id": "mnd9:6.4",
+      "pali": "Pādāpi naṁ samphusituṁ na icche”ti."
+    },
+    {
+      "id": "mnd9:7.1",
+      "pali": "<b>Etādisañce ratanaṁ na icchasi,</b>"
+    },
+    {
+      "id": "mnd9:7.2",
+      "pali": "<b>Nāriṁ narindehi bahūhi patthitaṁ;</b>"
+    },
+    {
+      "id": "mnd9:7.3",
+      "pali": "<b>Diṭṭhigataṁ sīlavataṁ nu jīvitaṁ,</b>"
+    },
+    {
+      "id": "mnd9:7.4",
+      "pali": "<b>Bhavūpapattiñca vadesi kīdisaṁ.</b>"
+    },
+    {
+      "id": "mnd9:8.1",
+      "pali": "<b>Idaṁ vadāmīti na tassa hoti,</b>"
+    },
+    {
+      "id": "mnd9:8.2",
+      "pali": "(māgaṇḍiyāti bhagavā)"
+    },
+    {
+      "id": "mnd9:8.3",
+      "pali": "<b>Dhammesu niccheyya samuggahītaṁ;</b>"
+    },
+    {
+      "id": "mnd9:8.4",
+      "pali": "<b>Passañca diṭṭhīsu anuggahāya,</b>"
+    },
+    {
+      "id": "mnd9:8.5",
+      "pali": "<b>Ajjhattasantiṁ pacinaṁ adassaṁ.</b>"
+    },
+    {
+      "id": "mnd9:9.1",
+      "pali": "<b>Idaṁ vadāmīti na tassa hotī</b>ti."
+    },
+    {
+      "id": "mnd9:9.2",
+      "pali": "<b>Idaṁ vadāmī</b>ti idaṁ vadāmi, etaṁ vadāmi, ettakaṁ vadāmi, ettāvatā vadāmi, idaṁ diṭṭhigataṁ vadāmi—"
+    },
+    {
+      "id": "mnd9:9.3",
+      "pali": "“sassato loko”ti vā …pe…"
+    },
+    {
+      "id": "mnd9:9.4",
+      "pali": "“neva hoti na na hoti tathāgato paraṁ maraṇā”ti vā."
+    },
+    {
+      "id": "mnd9:9.5",
+      "pali": "<b>Na tassa hotī</b>ti na mayhaṁ hoti, “ettāvatā vadāmī”ti na tassa hotīti—"
+    },
+    {
+      "id": "mnd9:9.6",
+      "pali": "idaṁ vadāmīti na tassa hoti."
+    },
+    {
+      "id": "mnd9:10.1",
+      "pali": "<b>Māgaṇḍiyā</b>ti bhagavā taṁ brāhmaṇaṁ nāmena ālapati."
+    },
+    {
+      "id": "mnd9:10.2",
+      "pali": "<b>Bhagavā</b>ti gāravādhivacanaṁ …pe… sacchikā paññatti yadidaṁ bhagavāti—"
+    },
+    {
+      "id": "mnd9:10.3",
+      "pali": "māgaṇḍiyāti bhagavā."
+    },
+    {
+      "id": "mnd9:11.1",
+      "pali": "<b>Dhammesu niccheyya samuggahītan</b>ti."
+    },
+    {
+      "id": "mnd9:11.2",
+      "pali": "<b>Dhammesū</b>ti dvāsaṭṭhiyā diṭṭhigatesu."
+    },
+    {
+      "id": "mnd9:11.3",
+      "pali": "<b>Niccheyyā</b>ti nicchinitvā vinicchinitvā vicinitvā pavicinitvā tulayitvā tīrayitvā vibhāvayitvā vibhūtaṁ katvā."
+    },
+    {
+      "id": "mnd9:11.4",
+      "pali": "<b>Samuggahītan</b>ti odhiggāho bilaggāho varaggāho koṭṭhāsaggāho uccayaggāho samuccayaggāho, “idaṁ saccaṁ tacchaṁ tathaṁ bhūtaṁ yāthāvaṁ aviparītan”ti gahitaṁ parāmaṭṭhaṁ abhiniviṭṭhaṁ ajjhositaṁ adhimuttaṁ,"
+    },
+    {
+      "id": "mnd9:11.5",
+      "pali": "natthi na santi na saṁvijjati nupalabbhati, pahīnaṁ samucchinnaṁ vūpasantaṁ paṭipassaddhaṁ abhabbuppattikaṁ ñāṇagginā daḍḍhanti—"
+    },
+    {
+      "id": "mnd9:11.6",
+      "pali": "dhammesu niccheyya samuggahītaṁ."
+    },
+    {
+      "id": "mnd9:12.1",
+      "pali": "<b>Passañca diṭṭhīsu anuggahāyā</b>ti."
+    },
+    {
+      "id": "mnd9:12.2",
+      "pali": "Diṭṭhīsu ādīnavaṁ passanto diṭṭhiyo na gaṇhāmi na parāmasāmi nābhinivisāmi."
+    },
+    {
+      "id": "mnd9:12.3",
+      "pali": "Atha vā na gaṇhitabbā na parāmasitabbā nābhinivisitabbāti."
+    },
+    {
+      "id": "mnd9:12.4",
+      "pali": "Evampi passañca diṭṭhīsu anuggahāya."
+    },
+    {
+      "id": "mnd9:13.1",
+      "pali": "Atha vā “sassato loko, idameva saccaṁ moghamaññan”ti diṭṭhigatametaṁ diṭṭhigahanaṁ diṭṭhikantāro diṭṭhivisūkāyikaṁ diṭṭhivipphanditaṁ diṭṭhisaṁyojanaṁ, sadukkhaṁ savighātaṁ saupāyāsaṁ sapariḷāhaṁ, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattatīti."
+    },
+    {
+      "id": "mnd9:13.2",
+      "pali": "Diṭṭhīsu ādīnavaṁ passanto diṭṭhiyo na gaṇhāmi na parāmasāmi nābhinivisāmi."
+    },
+    {
+      "id": "mnd9:13.3",
+      "pali": "Atha vā na gaṇhitabbā na parāmasitabbā nābhinivisitabbāti."
+    },
+    {
+      "id": "mnd9:13.4",
+      "pali": "Evampi passañca diṭṭhīsu anuggahāya."
+    },
+    {
+      "id": "mnd9:14.1",
+      "pali": "Atha vā “asassato loko, antavā loko, anantavā loko, taṁ jīvaṁ taṁ sarīraṁ, aññaṁ jīvaṁ aññaṁ sarīraṁ, hoti tathāgato paraṁ maraṇā, na hoti tathāgato paraṁ maraṇā, hoti ca na ca hoti tathāgato paraṁ maraṇā, neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan”ti diṭṭhigatametaṁ diṭṭhigahanaṁ diṭṭhikantāro diṭṭhivisūkāyikaṁ diṭṭhivipphanditaṁ diṭṭhisaṁyojanaṁ, sadukkhaṁ savighātaṁ saupāyāsaṁ sapariḷāhaṁ na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattatīti."
+    },
+    {
+      "id": "mnd9:14.2",
+      "pali": "Diṭṭhīsu ādīnavaṁ passanto diṭṭhiyo na gaṇhāmi na parāmasāmi nābhinivisāmi."
+    },
+    {
+      "id": "mnd9:14.3",
+      "pali": "Atha vā na gaṇhitabbā na parāmasitabbā nābhinivisitabbāti."
+    },
+    {
+      "id": "mnd9:14.4",
+      "pali": "Evampi passañca diṭṭhīsu anuggahāya."
+    },
+    {
+      "id": "mnd9:15.1",
+      "pali": "Atha vā imā diṭṭhiyo evaṅgahitā evaṁparāmaṭṭhā evaṅgatikā bhavissanti evaṁabhisamparāyāti."
+    },
+    {
+      "id": "mnd9:15.2",
+      "pali": "Diṭṭhīsu ādīnavaṁ passanto diṭṭhiyo na gaṇhāmi na parāmasāmi nābhinivisāmi."
+    },
+    {
+      "id": "mnd9:15.3",
+      "pali": "Atha vā na gaṇhitabbā na parāmasitabbā nābhinivisitabbāti."
+    },
+    {
+      "id": "mnd9:15.4",
+      "pali": "Evampi passañca diṭṭhīsu anuggahāya."
+    },
+    {
+      "id": "mnd9:16.1",
+      "pali": "Atha vā imā diṭṭhiyo nirayasaṁvattanikā tiracchānayonisaṁvattanikā pettivisayasaṁvattanikāti."
+    },
+    {
+      "id": "mnd9:16.2",
+      "pali": "Diṭṭhīsu ādīnavaṁ passanto diṭṭhiyo na gaṇhāmi na parāmasāmi nābhinivisāmi."
+    },
+    {
+      "id": "mnd9:16.3",
+      "pali": "Atha vā na gaṇhitabbā na parāmasitabbā nābhinivisitabbāti."
+    },
+    {
+      "id": "mnd9:16.4",
+      "pali": "Evampi passañca diṭṭhīsu anuggahāya."
+    },
+    {
+      "id": "mnd9:17.1",
+      "pali": "Atha vā imā diṭṭhiyo aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammāti."
+    },
+    {
+      "id": "mnd9:17.2",
+      "pali": "Diṭṭhīsu ādīnavaṁ passanto diṭṭhiyo na gaṇhāmi na parāmasāmi nābhinivisāmi."
+    },
+    {
+      "id": "mnd9:17.3",
+      "pali": "Atha vā na gaṇhitabbā na parāmasitabbā nābhinivisitabbāti."
+    },
+    {
+      "id": "mnd9:17.4",
+      "pali": "Evampi passañca diṭṭhīsu anuggahāya."
+    },
+    {
+      "id": "mnd9:18.1",
+      "pali": "<b>Ajjhattasantiṁ pacinaṁ adassan</b>ti."
+    },
+    {
+      "id": "mnd9:18.2",
+      "pali": "Ajjhattasantiṁ ajjhattaṁ rāgassa santiṁ, dosassa santiṁ, mohassa santiṁ, kodhassa … upanāhassa … makkhassa … paḷāsassa … issāya … macchariyassa … māyāya … sāṭheyyassa … thambhassa … sārambhassa … mānassa … atimānassa … madassa … pamādassa … sabbakilesānaṁ … sabbaduccaritānaṁ … sabbadarathānaṁ … sabbapariḷāhānaṁ … sabbasantāpānaṁ … sabbākusalābhisaṅkhārānaṁ santiṁ upasantiṁ vūpasantiṁ nibbutiṁ paṭipassaddhiṁ santiṁ."
+    },
+    {
+      "id": "mnd9:18.3",
+      "pali": "<b>Pacinan</b>ti pacinanto vicinanto pavicinanto tulayanto tīrayanto vibhāvayanto vibhūtaṁ karonto,"
+    },
+    {
+      "id": "mnd9:18.4",
+      "pali": "“sabbe saṅkhārā aniccā”ti pacinanto vicinanto pavicinanto tulayanto tīrayanto vibhāvayanto vibhūtaṁ karonto,"
+    },
+    {
+      "id": "mnd9:18.5",
+      "pali": "“sabbe saṅkhārā dukkhā”ti …"
+    },
+    {
+      "id": "mnd9:18.6",
+      "pali": "“sabbe dhammā anattā”ti pacinanto vicinanto pavicinanto …"
+    },
+    {
+      "id": "mnd9:18.7",
+      "pali": "“yaṁ kiñci samudayadhammaṁ, sabbaṁ taṁ nirodhadhamman”ti pacinanto vicinanto pavicinanto tulayanto tīrayanto vibhāvayanto vibhūtaṁ karonto."
+    },
+    {
+      "id": "mnd9:18.8",
+      "pali": "<b>Adassan</b>ti adassaṁ adakkhiṁ apassiṁ paṭivijjhinti—"
+    },
+    {
+      "id": "mnd9:18.9",
+      "pali": "ajjhattasantiṁ pacinaṁ adassaṁ."
+    },
+    {
+      "id": "mnd9:19.1",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "mnd9:20.1",
+      "pali": "“Idaṁ vadāmīti na tassa hoti,"
+    },
+    {
+      "id": "mnd9:20.2",
+      "pali": "(māgaṇḍiyāti bhagavā)"
+    },
+    {
+      "id": "mnd9:20.3",
+      "pali": "Dhammesu niccheyya samuggahītaṁ;"
+    },
+    {
+      "id": "mnd9:20.4",
+      "pali": "Passañca diṭṭhīsu anuggahāya,"
+    },
+    {
+      "id": "mnd9:20.5",
+      "pali": "Ajjhattasantiṁ pacinaṁ adassan”ti."
+    },
+    {
+      "id": "mnd9:21.1",
+      "pali": "<b>Vinicchayā yāni pakappitāni,</b>"
+    },
+    {
+      "id": "mnd9:21.2",
+      "pali": "(iti māgaṇḍiyo)"
+    },
+    {
+      "id": "mnd9:21.3",
+      "pali": "<b>Te ve munī brūsi anuggahāya;</b>"
+    },
+    {
+      "id": "mnd9:21.4",
+      "pali": "<b>Ajjhattasantīti yametamatthaṁ,</b>"
+    },
+    {
+      "id": "mnd9:21.5",
+      "pali": "<b>Kathaṁ nu dhīrehi paveditaṁ taṁ.</b>"
+    },
+    {
+      "id": "mnd9:22.1",
+      "pali": "<b>Vinicchayā yāni pakappitānī</b>ti."
+    },
+    {
+      "id": "mnd9:22.2",
+      "pali": "Vinicchayā vuccanti dvāsaṭṭhi diṭṭhigatāni diṭṭhivinicchayā."
+    },
+    {
+      "id": "mnd9:22.3",
+      "pali": "<b>Pakappitānī</b>ti kappitā pakappitā abhisaṅkhatā saṇṭhapitātipi pakappitā."
+    },
+    {
+      "id": "mnd9:22.4",
+      "pali": "Atha vā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā vipariṇāmadhammātipi pakappitāti—"
+    },
+    {
+      "id": "mnd9:22.5",
+      "pali": "vinicchayā yāni pakappitāni."
+    },
+    {
+      "id": "mnd9:23.1",
+      "pali": "<b>Iti māgaṇḍiyo</b>ti."
+    },
+    {
+      "id": "mnd9:23.2",
+      "pali": "<b>Itī</b>ti padasandhi padasaṁsaggo padapāripūrī akkharasamavāyo byañjanasiliṭṭhatā padānupubbatāpetaṁ—"
+    },
+    {
+      "id": "mnd9:23.3",
+      "pali": "itīti."
+    },
+    {
+      "id": "mnd9:23.4",
+      "pali": "<b>Māgaṇḍiyo</b>ti tassa brāhmaṇassa nāmaṁ saṅkhā samaññā paññatti vohāro—"
+    },
+    {
+      "id": "mnd9:23.5",
+      "pali": "iti māgaṇḍiyoti."
+    },
+    {
+      "id": "mnd9:24.1",
+      "pali": "<b>Te ve munī brūsi anuggahāya, ajjhattasantīti yametamatthan</b>ti."
+    },
+    {
+      "id": "mnd9:24.2",
+      "pali": "<b>Te ve</b>ti dvāsaṭṭhi diṭṭhigatāni."
+    },
+    {
+      "id": "mnd9:24.3",
+      "pali": "<b>Munī</b>ti."
+    },
+    {
+      "id": "mnd9:24.4",
+      "pali": "<b>Monaṁ</b> vuccati ñāṇaṁ …pe… saṅgajālamaticca so munīti."
+    },
+    {
+      "id": "mnd9:24.5",
+      "pali": "<b>Anuggahāyā</b>ti diṭṭhīsu ādīnavaṁ passanto diṭṭhiyo na gaṇhāmi na parāmasāmi nābhinivisāmīti ca bhaṇasi, ajjhattasantīti ca bhaṇasi."
+    },
+    {
+      "id": "mnd9:24.6",
+      "pali": "<b>Yametamatthan</b>ti yaṁ paramatthanti—"
+    },
+    {
+      "id": "mnd9:24.7",
+      "pali": "te ve munī brūsi anuggahāya, ajjhattasantīti yametamatthaṁ."
+    },
+    {
+      "id": "mnd9:25.1",
+      "pali": "<b>Kathaṁ nu dhīrehi paveditaṁ tan</b>ti."
+    },
+    {
+      "id": "mnd9:25.2",
+      "pali": "<b>Kathaṁ nū</b>ti padaṁ saṁsayapucchā vimatipucchā dveḷhakapucchā anekaṁsapucchā, evaṁ nu kho nanu kho kiṁ nu kho kathaṁ nu khoti—"
+    },
+    {
+      "id": "mnd9:25.3",
+      "pali": "kathaṁ nu."
+    },
+    {
+      "id": "mnd9:25.4",
+      "pali": "<b>Dhīrehī</b>ti dhīrehi paṇḍitehi paññavantehi buddhimantehi ñāṇīhi vibhāvīhi medhāvīhi."
+    },
+    {
+      "id": "mnd9:25.5",
+      "pali": "<b>Paveditan</b>ti veditaṁ paveditaṁ ācikkhitaṁ desitaṁ paññāpitaṁ paṭṭhapitaṁ vivaṭaṁ vibhattaṁ uttānīkataṁ pakāsitanti—"
+    },
+    {
+      "id": "mnd9:25.6",
+      "pali": "kathaṁ nu dhīrehi paveditaṁ taṁ."
+    },
+    {
+      "id": "mnd9:26.1",
+      "pali": "Tenāha so brāhmaṇo—"
+    },
+    {
+      "id": "mnd9:27.1",
+      "pali": "“Vinicchayā yāni pakappitāni,"
+    },
+    {
+      "id": "mnd9:27.2",
+      "pali": "(iti māgaṇḍiyo)"
+    },
+    {
+      "id": "mnd9:27.3",
+      "pali": "Te ve munī brūsi anuggahāya;"
+    },
+    {
+      "id": "mnd9:27.4",
+      "pali": "Ajjhattasantīti yametamatthaṁ,"
+    },
+    {
+      "id": "mnd9:27.5",
+      "pali": "Kathaṁ nu dhīrehi paveditaṁ tan”ti."
+    },
+    {
+      "id": "mnd9:28.1",
+      "pali": "<b>Na diṭṭhiyā na sutiyā na ñāṇena,</b>"
+    },
+    {
+      "id": "mnd9:28.2",
+      "pali": "(māgaṇḍiyāti bhagavā)"
+    },
+    {
+      "id": "mnd9:28.3",
+      "pali": "<b>Sīlabbatenāpi na suddhimāha;</b>"
+    },
+    {
+      "id": "mnd9:28.4",
+      "pali": "<b>Adiṭṭhiyā assutiyā añāṇā,</b>"
+    },
+    {
+      "id": "mnd9:28.5",
+      "pali": "<b>Asīlatā abbatā nopi tena;</b>"
+    },
+    {
+      "id": "mnd9:28.6",
+      "pali": "<b>Ete ca nissajja anuggahāya,</b>"
+    },
+    {
+      "id": "mnd9:28.7",
+      "pali": "<b>Santo anissāya bhavaṁ na jappe.</b>"
+    },
+    {
+      "id": "mnd9:29.1",
+      "pali": "<b>Na diṭṭhiyā na sutiyā na ñāṇenā</b>ti."
+    },
+    {
+      "id": "mnd9:29.2",
+      "pali": "Diṭṭhenāpi suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ nāha na kathesi na bhaṇasi na dīpayasi na voharasi;"
+    },
+    {
+      "id": "mnd9:29.3",
+      "pali": "sutenāpi suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ nāha na kathesi na bhaṇasi na dīpayasi na voharasi;"
+    },
+    {
+      "id": "mnd9:29.4",
+      "pali": "diṭṭhasutenāpi suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ nāha na kathesi na bhaṇasi na dīpayasi na voharasi;"
+    },
+    {
+      "id": "mnd9:29.5",
+      "pali": "ñāṇenāpi suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ nāha na kathesi na bhaṇasi na dīpayasi na voharasīti—"
+    },
+    {
+      "id": "mnd9:29.6",
+      "pali": "na diṭṭhiyā na sutiyā na ñāṇena."
+    },
+    {
+      "id": "mnd9:30.1",
+      "pali": "<b>Māgaṇḍiyā</b>ti bhagavā taṁ brāhmaṇaṁ nāmena ālapati."
+    },
+    {
+      "id": "mnd9:30.2",
+      "pali": "<b>Bhagavā</b>ti gāravādhivacanaṁ …pe… sacchikā paññatti yadidaṁ bhagavāti—"
+    },
+    {
+      "id": "mnd9:30.3",
+      "pali": "māgaṇḍiyāti bhagavā."
+    },
+    {
+      "id": "mnd9:31.1",
+      "pali": "<b>Sīlabbatenāpi na suddhimāhā</b>ti."
+    },
+    {
+      "id": "mnd9:31.2",
+      "pali": "Sīlenāpi suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ nāha na kathesi na bhaṇasi na dīpayasi na voharasi;"
+    },
+    {
+      "id": "mnd9:31.3",
+      "pali": "vatenāpi suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ nāha na kathesi na bhaṇasi na dīpayasi na voharasi;"
+    },
+    {
+      "id": "mnd9:31.4",
+      "pali": "sīlabbatenāpi suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ nāha na kathesi na bhaṇasi na dīpayasi na voharasīti—"
+    },
+    {
+      "id": "mnd9:31.5",
+      "pali": "sīlabbatenāpi na suddhimāha."
+    },
+    {
+      "id": "mnd9:32.1",
+      "pali": "<b>Adiṭṭhiyā assutiyā añāṇā, asīlatā abbatā nopi tenā</b>ti."
+    },
+    {
+      "id": "mnd9:32.2",
+      "pali": "Diṭṭhipi icchitabbā."
+    },
+    {
+      "id": "mnd9:32.3",
+      "pali": "Dasavatthukā sammādiṭṭhi—"
+    },
+    {
+      "id": "mnd9:32.4",
+      "pali": "atthi dinnaṁ, atthi yiṭṭhaṁ, atthi hutaṁ, atthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko, atthi ayaṁ loko, atthi paro loko, atthi mātā, atthi pitā, atthi sattā opapātikā, atthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṁ parañca lokaṁ sayaṁ abhiññā sacchikatvā pavedentīti;"
+    },
+    {
+      "id": "mnd9:32.5",
+      "pali": "savanampi icchitabbaṁ—"
+    },
+    {
+      "id": "mnd9:32.6",
+      "pali": "parato ghoso, suttaṁ, geyyaṁ, veyyākaraṇaṁ, gāthā, udānaṁ, itivuttakaṁ, jātakaṁ, abbhutadhammaṁ, vedallaṁ;"
+    },
+    {
+      "id": "mnd9:32.7",
+      "pali": "ñāṇampi icchitabbaṁ—"
+    },
+    {
+      "id": "mnd9:32.8",
+      "pali": "kammassakatañāṇaṁ, saccānulomikañāṇaṁ, abhiññāñāṇaṁ, samāpattiñāṇaṁ;"
+    },
+    {
+      "id": "mnd9:32.9",
+      "pali": "sīlampi icchitabbaṁ—"
+    },
+    {
+      "id": "mnd9:32.10",
+      "pali": "pātimokkhasaṁvaro;"
+    },
+    {
+      "id": "mnd9:32.11",
+      "pali": "vatampi icchitabbaṁ—"
+    },
+    {
+      "id": "mnd9:32.12",
+      "pali": "aṭṭha dhutaṅgāni—"
+    },
+    {
+      "id": "mnd9:32.13",
+      "pali": "āraññikaṅgaṁ, piṇḍapātikaṅgaṁ, paṁsukūlikaṅgaṁ, tecīvarikaṅgaṁ, sapadānacārikaṅgaṁ, khalupacchābhattikaṅgaṁ, nesajjikaṅgaṁ, yathāsanthatikaṅganti."
+    },
+    {
+      "id": "mnd9:33.1",
+      "pali": "<b>Adiṭṭhiyā assutiyā añāṇā, asīlatā abbatā nopi tenā</b>ti."
+    },
+    {
+      "id": "mnd9:33.2",
+      "pali": "Nāpi sammādiṭṭhimattena, nāpi savanamattena, nāpi ñāṇamattena, nāpi sīlamattena, nāpi vatamattena ajjhattasantiṁ patto hoti, nāpi vinā etehi dhammehi ajjhattasantiṁ pāpuṇāti."
+    },
+    {
+      "id": "mnd9:33.3",
+      "pali": "Api ca sambhārā ime dhammā honti ajjhattasantiṁ pāpuṇituṁ adhigantuṁ phassituṁ sacchikātunti—"
+    },
+    {
+      "id": "mnd9:33.4",
+      "pali": "adiṭṭhiyā assutiyā añāṇā asīlatā abbatā nopi tena."
+    },
+    {
+      "id": "mnd9:34.1",
+      "pali": "<b>Ete ca nissajja anuggahāyā</b>ti."
+    },
+    {
+      "id": "mnd9:34.2",
+      "pali": "<b>Ete</b>ti kaṇhapakkhikānaṁ dhammānaṁ samugghātato pahānaṁ icchitabbaṁ, tedhātukesu kusalesu dhammesu atammayatā icchitabbā, yato kaṇhapakkhiyā dhammā samugghātapahānena pahīnā honti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā, tedhātukesu ca kusalesu dhammesu atammayatā hoti, ettāvatāpi na gaṇhāti na parāmasati nābhinivisati."
+    },
+    {
+      "id": "mnd9:34.3",
+      "pali": "Atha vā na gaṇhitabbā na parāmasitabbā nābhinivisitabbāti."
+    },
+    {
+      "id": "mnd9:34.4",
+      "pali": "Evampi ete ca nissajja anuggahāya."
+    },
+    {
+      "id": "mnd9:34.5",
+      "pali": "Yato taṇhā ca diṭṭhi ca māno ca pahīnā honti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammāti, ettāvatāpi na gaṇhāti na parāmasati nābhinivisatīti."
+    },
+    {
+      "id": "mnd9:34.6",
+      "pali": "Evampi ete ca nissajja anuggahāya."
+    },
+    {
+      "id": "mnd9:35.1",
+      "pali": "Yato puññābhisaṅkhāro ca apuññābhisaṅkhāro ca āneñjābhisaṅkhāro ca pahīnā honti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammāti, ettāvatāpi na gaṇhāti na parāmasati nābhinivisatīti."
+    },
+    {
+      "id": "mnd9:35.2",
+      "pali": "Evampi ete ca nissajja anuggahāya."
+    },
+    {
+      "id": "mnd9:36.1",
+      "pali": "<b>Santo anissāya bhavaṁ na jappe</b>ti."
+    },
+    {
+      "id": "mnd9:36.2",
+      "pali": "<b>Santo</b>ti rāgassa samitattā santo, dosassa samitattā santo, mohassa samitattā santo, kodhassa … upanāhassa … makkhassa … paḷāsassa … issāya … macchariyassa … māyāya … sāṭheyyassa … thambhassa … sārambhassa … mānassa … atimānassa … madassa … pamādassa … sabbakilesānaṁ … sabbaduccaritānaṁ … sabbadarathānaṁ … sabbapariḷāhānaṁ … sabbasantāpānaṁ … sabbākusalābhisaṅkhārānaṁ santattā samitattā vūpasamitattā vijjhātattā nibbutattā vigatattā paṭipassaddhattā santo upasanto vūpasanto nibbuto paṭipassaddhoti—"
+    },
+    {
+      "id": "mnd9:36.3",
+      "pali": "santo."
+    },
+    {
+      "id": "mnd9:37.1",
+      "pali": "<b>Anissāyā</b>ti dve nissayā—"
+    },
+    {
+      "id": "mnd9:37.2",
+      "pali": "taṇhānissayo ca diṭṭhinissayo ca …pe…"
+    },
+    {
+      "id": "mnd9:37.3",
+      "pali": "ayaṁ taṇhānissayo …pe…"
+    },
+    {
+      "id": "mnd9:37.4",
+      "pali": "ayaṁ diṭṭhinissayo."
+    },
+    {
+      "id": "mnd9:37.5",
+      "pali": "Taṇhānissayaṁ pahāya diṭṭhinissayaṁ paṭinissajjitvā cakkhuṁ anissāya, sotaṁ anissāya, ghānaṁ anissāya, jivhaṁ anissāya, kāyaṁ anissāya, manaṁ anissāya, rūpe … sadde … gandhe … rase … phoṭṭhabbe … kulaṁ … gaṇaṁ … āvāsaṁ … lābhaṁ … yasaṁ … pasaṁsaṁ … sukhaṁ … cīvaraṁ … piṇḍapātaṁ … senāsanaṁ … gilānapaccayabhesajjaparikkhāraṁ … kāmadhātuṁ … rūpadhātuṁ … arūpadhātuṁ … kāmabhavaṁ … rūpabhavaṁ … arūpabhavaṁ … saññābhavaṁ … asaññābhavaṁ … nevasaññānāsaññābhavaṁ … ekavokārabhavaṁ … catuvokārabhavaṁ … pañcavokārabhavaṁ … atītaṁ … anāgataṁ … paccuppannaṁ … diṭṭhasutamutaviññātabbe dhamme anissāya aggaṇhitvā aparāmasitvā anabhinivisitvāti—"
+    },
+    {
+      "id": "mnd9:37.6",
+      "pali": "santo anissāya."
+    },
+    {
+      "id": "mnd9:37.7",
+      "pali": "<b>Bhavaṁ na jappe</b>ti kāmabhavaṁ na jappeyya, rūpabhavaṁ na jappeyya, arūpabhavaṁ na jappeyya nappajappeyya na abhijappeyyāti—"
+    },
+    {
+      "id": "mnd9:37.8",
+      "pali": "santo anissāya bhavaṁ na jappe."
+    },
+    {
+      "id": "mnd9:38.1",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "mnd9:39.1",
+      "pali": "“Na diṭṭhiyā na sutiyā na ñāṇena,"
+    },
+    {
+      "id": "mnd9:39.2",
+      "pali": "(māgaṇḍiyāti bhagavā)"
+    },
+    {
+      "id": "mnd9:39.3",
+      "pali": "Sīlabbatenāpi na suddhimāha;"
+    },
+    {
+      "id": "mnd9:39.4",
+      "pali": "Adiṭṭhiyā assutiyā añāṇā,"
+    },
+    {
+      "id": "mnd9:39.5",
+      "pali": "Asīlatā abbatā nopi tena;"
+    },
+    {
+      "id": "mnd9:39.6",
+      "pali": "Ete ca nissajja anuggahāya,"
+    },
+    {
+      "id": "mnd9:39.7",
+      "pali": "Santo anissāya bhavaṁ na jappe”ti."
+    },
+    {
+      "id": "mnd9:40.1",
+      "pali": "<b>No ce kira diṭṭhiyā na sutiyā na ñāṇena,</b>"
+    },
+    {
+      "id": "mnd9:40.2",
+      "pali": "(iti māgaṇḍiyo)"
+    },
+    {
+      "id": "mnd9:40.3",
+      "pali": "<b>Sīlabbatenāpi na suddhimāha;</b>"
+    },
+    {
+      "id": "mnd9:40.4",
+      "pali": "<b>Adiṭṭhiyā assutiyā añāṇā,</b>"
+    },
+    {
+      "id": "mnd9:40.5",
+      "pali": "<b>Asīlatā abbatā nopi tena;</b>"
+    },
+    {
+      "id": "mnd9:40.6",
+      "pali": "<b>Maññāmahaṁ momuhameva dhammaṁ,</b>"
+    },
+    {
+      "id": "mnd9:40.7",
+      "pali": "<b>Diṭṭhiyā eke paccenti suddhiṁ.</b>"
+    },
+    {
+      "id": "mnd9:41.1",
+      "pali": "<b>No ce kira diṭṭhiyā na sutiyā na ñāṇenā</b>ti."
+    },
+    {
+      "id": "mnd9:41.2",
+      "pali": "Diṭṭhiyāpi suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ nāha na kathesi na bhaṇasi na dīpayasi na voharasi;"
+    },
+    {
+      "id": "mnd9:41.3",
+      "pali": "sutenāpi suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ …"
+    },
+    {
+      "id": "mnd9:41.4",
+      "pali": "diṭṭhasutenāpi suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ …"
+    },
+    {
+      "id": "mnd9:41.5",
+      "pali": "ñāṇenāpi suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ nāha na kathesi na bhaṇasi na dīpayasi na voharasīti—"
+    },
+    {
+      "id": "mnd9:41.6",
+      "pali": "no ce kira diṭṭhiyā na sutiyā na ñāṇena."
+    },
+    {
+      "id": "mnd9:42.1",
+      "pali": "<b>Iti māgaṇḍiyo</b>ti <b>itī</b>ti padasandhi …pe…."
+    },
+    {
+      "id": "mnd9:42.2",
+      "pali": "<b>Māgaṇḍiyo</b>ti tassa brāhmaṇassa nāmaṁ …pe…"
+    },
+    {
+      "id": "mnd9:42.3",
+      "pali": "iti māgaṇḍiyo."
+    },
+    {
+      "id": "mnd9:43.1",
+      "pali": "<b>Sīlabbatenāpi na suddhimāhā</b>ti."
+    },
+    {
+      "id": "mnd9:43.2",
+      "pali": "Sīlenāpi suddhiṁ visuddhiṁ parisuddhiṁ …pe…"
+    },
+    {
+      "id": "mnd9:43.3",
+      "pali": "vatenāpi suddhiṁ visuddhiṁ parisuddhiṁ …pe…"
+    },
+    {
+      "id": "mnd9:43.4",
+      "pali": "sīlabbatenāpi suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ nāha na kathesi na bhaṇasi na dīpayasi na voharasīti—"
+    },
+    {
+      "id": "mnd9:43.5",
+      "pali": "sīlabbatenāpi na suddhimāha."
+    },
+    {
+      "id": "mnd9:44.1",
+      "pali": "<b>Adiṭṭhiyā assutiyā añāṇā, asīlatā abbatā nopi tenā</b>ti."
+    },
+    {
+      "id": "mnd9:44.2",
+      "pali": "Diṭṭhipi icchitabbāti evaṁ bhaṇasi, savanampi icchitabbanti evaṁ bhaṇasi, ñāṇampi icchitabbanti evaṁ bhaṇasi, na sakkosi ekaṁsena anujānituṁ, napi sakkosi ekaṁsena paṭikkhipitunti—"
+    },
+    {
+      "id": "mnd9:44.3",
+      "pali": "adiṭṭhiyā assutiyā añāṇā, asīlatā abbatā nopi tena."
+    },
+    {
+      "id": "mnd9:45.1",
+      "pali": "<b>Maññāmahaṁ momuhameva dhamman</b>ti."
+    },
+    {
+      "id": "mnd9:45.2",
+      "pali": "Momūhadhammo ayaṁ tuyhaṁ bāladhammo mūḷhadhammo aññāṇadhammo amarāvikkhepadhammoti evaṁ maññāmi evaṁ jānāmi evaṁ ājānāmi evaṁ vijānāmi evaṁ paṭivijānāmi evaṁ paṭivijjhāmīti—"
+    },
+    {
+      "id": "mnd9:45.3",
+      "pali": "maññāmahaṁ momuhameva dhammaṁ."
+    },
+    {
+      "id": "mnd9:46.1",
+      "pali": "<b>Diṭṭhiyā eke paccenti suddhin</b>ti."
+    },
+    {
+      "id": "mnd9:46.2",
+      "pali": "Suddhidiṭṭhiyā eke samaṇabrāhmaṇā suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ paccenti;"
+    },
+    {
+      "id": "mnd9:46.3",
+      "pali": "“sassato loko, idameva saccaṁ moghamaññan”ti diṭṭhiyā eke samaṇabrāhmaṇā suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ paccenti;"
+    },
+    {
+      "id": "mnd9:46.4",
+      "pali": "“asassato loko …pe…"
+    },
+    {
+      "id": "mnd9:46.5",
+      "pali": "neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan”ti diṭṭhiyā eke samaṇabrāhmaṇā suddhiṁ visuddhiṁ parisuddhiṁ, muttiṁ vimuttiṁ parimuttiṁ paccentīti—"
+    },
+    {
+      "id": "mnd9:46.6",
+      "pali": "diṭṭhiyā eke paccenti suddhiṁ."
+    },
+    {
+      "id": "mnd9:47.1",
+      "pali": "Tenāha so brāhmaṇo—"
+    },
+    {
+      "id": "mnd9:48.1",
+      "pali": "“No ce kira diṭṭhiyā na sutiyā na ñāṇena,"
+    },
+    {
+      "id": "mnd9:48.2",
+      "pali": "(iti māgaṇḍiyo)"
+    },
+    {
+      "id": "mnd9:48.3",
+      "pali": "Sīlabbatenāpi na suddhimāha;"
+    },
+    {
+      "id": "mnd9:48.4",
+      "pali": "Adiṭṭhiyā assutiyā añāṇā,"
+    },
+    {
+      "id": "mnd9:48.5",
+      "pali": "Asīlatā abbatā nopi tena;"
+    },
+    {
+      "id": "mnd9:48.6",
+      "pali": "Maññāmahaṁ momuhameva dhammaṁ,"
+    },
+    {
+      "id": "mnd9:48.7",
+      "pali": "Diṭṭhiyā eke paccenti suddhin”ti."
+    },
+    {
+      "id": "mnd9:49.1",
+      "pali": "<b>Diṭṭhiñca nissāyanupucchamāno,</b>"
+    },
+    {
+      "id": "mnd9:49.2",
+      "pali": "(māgaṇḍiyāti bhagavā)"
+    },
+    {
+      "id": "mnd9:49.3",
+      "pali": "<b>Samuggahītesu pamohamāgā;</b>"
+    },
+    {
+      "id": "mnd9:49.4",
+      "pali": "<b>Ito ca nāddakkhi aṇumpi saññaṁ,</b>"
+    },
+    {
+      "id": "mnd9:49.5",
+      "pali": "<b>Tasmā tuvaṁ momuhato dahāsi.</b>"
+    },
+    {
+      "id": "mnd9:50.1",
+      "pali": "<b>Diṭṭhiñca nissāyanupucchamāno</b>ti."
+    },
+    {
+      "id": "mnd9:50.2",
+      "pali": "Māgaṇḍiyo brāhmaṇo diṭṭhiṁ nissāya diṭṭhiṁ pucchati, lagganaṁ nissāya lagganaṁ pucchati, bandhanaṁ nissāya bandhanaṁ pucchati, palibodhaṁ nissāya palibodhaṁ pucchati."
+    },
+    {
+      "id": "mnd9:50.3",
+      "pali": "<b>Anupucchamāno</b>ti punappunaṁ pucchatīti—"
+    },
+    {
+      "id": "mnd9:50.4",
+      "pali": "diṭṭhiñca nissāyanupucchamāno."
+    },
+    {
+      "id": "mnd9:51.1",
+      "pali": "<b>Māgaṇḍiyā</b>ti bhagavā taṁ brāhmaṇaṁ nāmena ālapati."
+    },
+    {
+      "id": "mnd9:51.2",
+      "pali": "<b>Bhagavā</b>ti gāravādhivacanaṁ …pe… sacchikā paññatti yadidaṁ bhagavāti—"
+    },
+    {
+      "id": "mnd9:51.3",
+      "pali": "māgaṇḍiyāti bhagavā."
+    },
+    {
+      "id": "mnd9:52.1",
+      "pali": "<b>Samuggahītesu pamohamāgā</b>ti."
+    },
+    {
+      "id": "mnd9:52.2",
+      "pali": "Yā sā diṭṭhi tayā gahitā parāmaṭṭhā abhiniviṭṭhā ajjhositā adhimuttā, tāyeva tvaṁ diṭṭhiyā mūḷhosi pamūḷhosi sammūḷhosi mohaṁ āgatosi pamohaṁ āgatosi sammohaṁ āgatosi andhakāraṁ pakkhandosīti—"
+    },
+    {
+      "id": "mnd9:52.3",
+      "pali": "samuggahītesu pamohamāgā."
+    },
+    {
+      "id": "mnd9:53.1",
+      "pali": "<b>Ito ca nāddakkhi aṇumpi saññan</b>ti."
+    },
+    {
+      "id": "mnd9:53.2",
+      "pali": "Ito ajjhattasantito vā paṭipadāto vā dhammadesanāto vā, yuttasaññaṁ pattasaññaṁ lakkhaṇasaññaṁ kāraṇasaññaṁ ṭhānasaññaṁ na paṭilabhati, kuto ñāṇanti."
+    },
+    {
+      "id": "mnd9:53.3",
+      "pali": "Evampi ito ca nāddakkhi aṇumpi saññaṁ."
+    },
+    {
+      "id": "mnd9:53.4",
+      "pali": "Atha vā aniccaṁ vā aniccasaññānulomaṁ vā, dukkhaṁ vā dukkhasaññānulomaṁ vā, anattaṁ vā anattasaññānulomaṁ vā, saññuppādamattaṁ vā sañjānitamattaṁ vā na paṭilabhati, kuto ñāṇanti."
+    },
+    {
+      "id": "mnd9:53.5",
+      "pali": "Evampi ito ca nāddakkhi aṇumpi saññaṁ."
+    },
+    {
+      "id": "mnd9:54.1",
+      "pali": "<b>Tasmā tuvaṁ momuhato dahāsī</b>ti."
+    },
+    {
+      "id": "mnd9:54.2",
+      "pali": "<b>Tasmā</b>ti tasmā taṅkāraṇā taṁhetu tappaccayā taṁnidānā momūhadhammato bāladhammato mūḷhadhammato aññāṇadhammato amarāvikkhepadhammato dahāsi passasi dakkhasi olokesi nijjhāyasi upaparikkhasīti—"
+    },
+    {
+      "id": "mnd9:54.3",
+      "pali": "tasmā tuvaṁ momuhato dahāsi."
+    },
+    {
+      "id": "mnd9:55.1",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "mnd9:56.1",
+      "pali": "“Diṭṭhiñca nissāyanupucchamāno,"
+    },
+    {
+      "id": "mnd9:56.2",
+      "pali": "(māgaṇḍiyāti bhagavā)"
+    },
+    {
+      "id": "mnd9:56.3",
+      "pali": "Samuggahītesu pamohamāgā;"
+    },
+    {
+      "id": "mnd9:56.4",
+      "pali": "Ito ca nāddakkhi aṇumpi saññaṁ,"
+    },
+    {
+      "id": "mnd9:56.5",
+      "pali": "Tasmā tuvaṁ momuhato dahāsī”ti."
+    },
+    {
+      "id": "mnd9:57.1",
+      "pali": "<b>Samo visesī uda vā nihīno,</b>"
+    },
+    {
+      "id": "mnd9:57.2",
+      "pali": "<b>Yo maññati so vivadetha tena;</b>"
+    },
+    {
+      "id": "mnd9:57.3",
+      "pali": "<b>Tīsu vidhāsu avikampamāno,</b>"
+    },
+    {
+      "id": "mnd9:57.4",
+      "pali": "<b>Samo visesīti na tassa hoti.</b>"
+    },
+    {
+      "id": "mnd9:58.1",
+      "pali": "<b>Samo visesī uda vā nihīno, yo maññati so vivadetha tenā</b>ti."
+    },
+    {
+      "id": "mnd9:58.2",
+      "pali": "Sadisohamasmīti vā seyyohamasmīti vā hīnohamasmīti vā yo maññati, so tena mānena tāya diṭṭhiyā tena vā puggalena kalahaṁ kareyya bhaṇḍanaṁ kareyya viggahaṁ kareyya vivādaṁ kareyya medhagaṁ kareyya—"
+    },
+    {
+      "id": "mnd9:58.3",
+      "pali": "“na tvaṁ imaṁ dhammavinayaṁ ājānāsi, ahaṁ imaṁ dhammavinayaṁ ājānāmi, kiṁ tvaṁ imaṁ dhammavinayaṁ ājānissasi, micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno, sahitaṁ me, asahitaṁ te, pure vacanīyaṁ pacchā avaca, pacchā vacanīyaṁ pure avaca, adhiciṇṇaṁ te viparāvattaṁ, āropito te vādo, niggahito tvamasi, cara vādappamokkhāya, nibbeṭhehi vā sace pahosī”ti—"
+    },
+    {
+      "id": "mnd9:58.4",
+      "pali": "samo visesī uda vā nihīno yo maññati so vivadetha tena."
+    },
+    {
+      "id": "mnd9:59.1",
+      "pali": "<b>Tīsu vidhāsu avikampamāno, samo visesīti na tassa hotī</b>ti."
+    },
+    {
+      "id": "mnd9:59.2",
+      "pali": "Yassetā tisso vidhā pahīnā samucchinnā vūpasantā paṭipassaddhā abhabbuppattikā ñāṇagginā daḍḍhā, so tīsu vidhāsu na kampati na vikampati, avikampamānassa puggalassa sadisohamasmīti vā seyyohamasmīti vā hīnohamasmīti vā."
+    },
+    {
+      "id": "mnd9:59.3",
+      "pali": "<b>Na tassa hotī</b>ti."
+    },
+    {
+      "id": "mnd9:59.4",
+      "pali": "Tīsu vidhāsu avikampamāno, samo visesīti—"
+    },
+    {
+      "id": "mnd9:59.5",
+      "pali": "na tassa hoti."
+    },
+    {
+      "id": "mnd9:60.1",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "mnd9:61.1",
+      "pali": "“Samo visesī uda vā nihīno,"
+    },
+    {
+      "id": "mnd9:61.2",
+      "pali": "Yo maññati so vivadetha tena;"
+    },
+    {
+      "id": "mnd9:61.3",
+      "pali": "Tīsu vidhāsu avikampamāno,"
+    },
+    {
+      "id": "mnd9:61.4",
+      "pali": "Samo visesīti na tassa hotī”ti."
+    },
+    {
+      "id": "mnd9:62.1",
+      "pali": "<b>Saccanti so brāhmaṇo kiṁ vadeyya,</b>"
+    },
+    {
+      "id": "mnd9:62.2",
+      "pali": "<b>Musāti vā so vivadetha kena;</b>"
+    },
+    {
+      "id": "mnd9:62.3",
+      "pali": "<b>Yasmiṁ samaṁ visamaṁ vāpi natthi,</b>"
+    },
+    {
+      "id": "mnd9:62.4",
+      "pali": "<b>Sa kena vādaṁ paṭisaṁyujeyya.</b>"
+    },
+    {
+      "id": "mnd9:63.1",
+      "pali": "<b>Saccanti so brāhmaṇo kiṁ vadeyyā</b>ti."
+    },
+    {
+      "id": "mnd9:63.2",
+      "pali": "<b>Brāhmaṇo</b>ti sattannaṁ dhammānaṁ bāhitattā brāhmaṇo …pe… asito tādi pavuccate sa brahmā."
+    },
+    {
+      "id": "mnd9:63.3",
+      "pali": "<b>Saccanti so brāhmaṇo kiṁ vadeyyā</b>ti."
+    },
+    {
+      "id": "mnd9:63.4",
+      "pali": "“Sassato loko, idameva saccaṁ moghamaññan”ti brāhmaṇo kiṁ vadeyya kiṁ katheyya kiṁ bhaṇeyya kiṁ dīpayeyya kiṁ vohareyya;"
+    },
+    {
+      "id": "mnd9:63.5",
+      "pali": "“asassato loko …pe…"
+    },
+    {
+      "id": "mnd9:63.6",
+      "pali": "neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan”ti brāhmaṇo kiṁ vadeyya kiṁ katheyya kiṁ bhaṇeyya kiṁ dīpayeyya kiṁ vohareyyāti—"
+    },
+    {
+      "id": "mnd9:63.7",
+      "pali": "saccanti so brāhmaṇo kiṁ vadeyya."
+    },
+    {
+      "id": "mnd9:64.1",
+      "pali": "<b>Musāti vā so vivadetha kenā</b>ti."
+    },
+    {
+      "id": "mnd9:64.2",
+      "pali": "Brāhmaṇo mayhaṁva saccaṁ, tuyhaṁ musāti kena mānena, kāya diṭṭhiyā, kena vā puggalena kalahaṁ kareyya bhaṇḍanaṁ kareyya viggahaṁ kareyya vivādaṁ kareyya medhagaṁ kareyya—"
+    },
+    {
+      "id": "mnd9:64.3",
+      "pali": "“na tvaṁ imaṁ dhammavinayaṁ ājānāsi …pe…"
+    },
+    {
+      "id": "mnd9:64.4",
+      "pali": "nibbeṭhehi vā sace pahosī”ti—"
+    },
+    {
+      "id": "mnd9:64.5",
+      "pali": "musāti vā so vivadetha kena."
+    },
+    {
+      "id": "mnd9:65.1",
+      "pali": "<b>Yasmiṁ samaṁ visamaṁ vāpi natthī</b>ti."
+    },
+    {
+      "id": "mnd9:65.2",
+      "pali": "<b>Yasmin</b>ti yasmiṁ puggale arahante khīṇāsave sadisohamasmīti māno natthi, seyyohamasmīti māno natthi, hīnohamasmīti omāno natthi na santi na saṁvijjati nupalabbhati, pahīnaṁ samucchinnaṁ vūpasantaṁ paṭipassaddhaṁ abhabbuppattikaṁ ñāṇagginā daḍḍhanti—"
+    },
+    {
+      "id": "mnd9:65.3",
+      "pali": "yasmiṁ samaṁ visamaṁ vāpi natthi."
+    },
+    {
+      "id": "mnd9:66.1",
+      "pali": "<b>Sa kena vādaṁ paṭisaṁyujeyyā</b>ti."
+    },
+    {
+      "id": "mnd9:66.2",
+      "pali": "So kena mānena, kāya diṭṭhiyā, kena vā puggalena vādaṁ paṭisaṁyojeyya paṭibaleyya kalahaṁ kareyya bhaṇḍanaṁ kareyya viggahaṁ kareyya vivādaṁ kareyya medhagaṁ kareyya—"
+    },
+    {
+      "id": "mnd9:66.3",
+      "pali": "“na tvaṁ imaṁ dhammavinayaṁ ājānāsi …pe…"
+    },
+    {
+      "id": "mnd9:66.4",
+      "pali": "nibbeṭhehi vā sace pahosī”ti—"
+    },
+    {
+      "id": "mnd9:66.5",
+      "pali": "sa kena vādaṁ paṭisaṁyujeyya."
+    },
+    {
+      "id": "mnd9:67.1",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "mnd9:68.1",
+      "pali": "“Saccanti so brāhmaṇo kiṁ vadeyya,"
+    },
+    {
+      "id": "mnd9:68.2",
+      "pali": "Musāti vā so vivadetha kena;"
+    },
+    {
+      "id": "mnd9:68.3",
+      "pali": "Yasmiṁ samaṁ visamaṁ vāpi natthi,"
+    },
+    {
+      "id": "mnd9:68.4",
+      "pali": "Sa kena vādaṁ paṭisaṁyujeyyā”ti."
+    },
+    {
+      "id": "mnd9:69.1",
+      "pali": "<b>Okaṁ pahāya aniketasārī,</b>"
+    },
+    {
+      "id": "mnd9:69.2",
+      "pali": "<b>Gāme akubbaṁ muni santhavāni;</b>"
+    },
+    {
+      "id": "mnd9:69.3",
+      "pali": "<b>Kāmehi ritto apurakkharāno,</b>"
+    },
+    {
+      "id": "mnd9:69.4",
+      "pali": "<b>Kathaṁ na viggayha janena kayirā.</b>"
+    },
+    {
+      "id": "mnd9:70.1",
+      "pali": "Atha kho hāliddakāni gahapati yenāyasmā mahākaccāno tenupasaṅkami; upasaṅkamitvā āyasmantaṁ mahākaccānaṁ abhivādetvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "mnd9:70.2",
+      "pali": "Ekamantaṁ nisinno kho hāliddakāni gahapati āyasmantaṁ mahākaccānaṁ etadavoca—"
+    },
+    {
+      "id": "mnd9:70.3",
+      "pali": "“vuttamidaṁ, bhante kaccāna, bhagavatā aṭṭhakavaggiye māgaṇḍiyapañhe—"
+    },
+    {
+      "id": "mnd9:71.1",
+      "pali": "‘Okaṁ pahāya aniketasārī,"
+    },
+    {
+      "id": "mnd9:71.2",
+      "pali": "Gāme akubbaṁ muni santhavāni;"
+    },
+    {
+      "id": "mnd9:71.3",
+      "pali": "Kāmehi ritto apurakkharāno,"
+    },
+    {
+      "id": "mnd9:71.4",
+      "pali": "Kathaṁ na viggayha janena kayirā’ti."
+    },
+    {
+      "id": "mnd9:72.1",
+      "pali": "Imassa nu kho, bhante kaccāna, bhagavatā saṅkhittena bhāsitassa kathaṁ vitthārena attho daṭṭhabbo”ti?"
+    },
+    {
+      "id": "mnd9:73.1",
+      "pali": "“Rūpadhātu kho, gahapati, viññāṇassa oko rūpadhāturāgavinibaddhañca pana viññāṇaṁ okasārīti vuccati."
+    },
+    {
+      "id": "mnd9:73.2",
+      "pali": "Vedanādhātu kho, gahapati …"
+    },
+    {
+      "id": "mnd9:73.3",
+      "pali": "saññādhātu kho, gahapati …"
+    },
+    {
+      "id": "mnd9:73.4",
+      "pali": "saṅkhāradhātu kho, gahapati, viññāṇassa oko saṅkhāradhāturāgavinibandhañca pana viññāṇaṁ okasārīti vuccati."
+    },
+    {
+      "id": "mnd9:73.5",
+      "pali": "Evaṁ kho, gahapati, okasārī hoti."
+    },
+    {
+      "id": "mnd9:74.1",
+      "pali": "Kathañca, gahapati, anokasārī hoti?"
+    },
+    {
+      "id": "mnd9:74.2",
+      "pali": "Rūpadhātuyā kho, gahapati, yo chando yo rāgo yā nandī yā taṇhā ye upāyupādānā cetaso adhiṭṭhānābhinivesānusayā te tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā;"
+    },
+    {
+      "id": "mnd9:74.3",
+      "pali": "tasmā tathāgato anokasārīti vuccati."
+    },
+    {
+      "id": "mnd9:74.4",
+      "pali": "Vedanādhātuyā kho, gahapati …"
+    },
+    {
+      "id": "mnd9:74.5",
+      "pali": "saññādhātuyā kho, gahapati …"
+    },
+    {
+      "id": "mnd9:74.6",
+      "pali": "saṅkhāradhātuyā kho, gahapati …"
+    },
+    {
+      "id": "mnd9:74.7",
+      "pali": "viññāṇadhātuyā kho, gahapati, yo chando yo rāgo yā nandī yā taṇhā ye upāyupādānā cetaso adhiṭṭhānābhinivesānusayā te tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā;"
+    },
+    {
+      "id": "mnd9:74.8",
+      "pali": "tasmā tathāgato anokasārīti vuccati."
+    },
+    {
+      "id": "mnd9:74.9",
+      "pali": "Evaṁ kho, gahapati, anokasārī hoti."
+    },
+    {
+      "id": "mnd9:75.1",
+      "pali": "Kathañca, gahapati, niketasārī hoti?"
+    },
+    {
+      "id": "mnd9:75.2",
+      "pali": "Rūpanimittaniketavisāravinibandhā kho, gahapati, niketasārīti vuccati."
+    },
+    {
+      "id": "mnd9:75.3",
+      "pali": "Saddanimitta …"
+    },
+    {
+      "id": "mnd9:75.4",
+      "pali": "gandhanimitta …"
+    },
+    {
+      "id": "mnd9:75.5",
+      "pali": "rasanimitta …"
+    },
+    {
+      "id": "mnd9:75.6",
+      "pali": "phoṭṭhabbanimitta …"
+    },
+    {
+      "id": "mnd9:75.7",
+      "pali": "dhammanimittaniketavisāravinibandhā kho, gahapati, niketasārīti vuccati."
+    },
+    {
+      "id": "mnd9:75.8",
+      "pali": "Evaṁ kho, gahapati, niketasārī hoti."
+    },
+    {
+      "id": "mnd9:76.1",
+      "pali": "Kathañca, gahapati, aniketasārī hoti?"
+    },
+    {
+      "id": "mnd9:76.2",
+      "pali": "Rūpanimittaniketavisāravinibandhā kho, gahapati, tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā;"
+    },
+    {
+      "id": "mnd9:76.3",
+      "pali": "tasmā tathāgato aniketasārīti vuccati."
+    },
+    {
+      "id": "mnd9:76.4",
+      "pali": "Saddanimitta …"
+    },
+    {
+      "id": "mnd9:76.5",
+      "pali": "gandhanimitta …"
+    },
+    {
+      "id": "mnd9:76.6",
+      "pali": "rasanimitta …"
+    },
+    {
+      "id": "mnd9:76.7",
+      "pali": "phoṭṭhabbanimitta …"
+    },
+    {
+      "id": "mnd9:76.8",
+      "pali": "dhammanimittaniketavisāravinibandhā kho, gahapati, tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā;"
+    },
+    {
+      "id": "mnd9:76.9",
+      "pali": "tasmā tathāgato aniketasārīti vuccati."
+    },
+    {
+      "id": "mnd9:76.10",
+      "pali": "Evaṁ kho, gahapati, aniketasārī hoti."
+    },
+    {
+      "id": "mnd9:77.1",
+      "pali": "Kathañca, gahapati, gāme santhavajāto hoti?"
+    },
+    {
+      "id": "mnd9:77.2",
+      "pali": "Idha, gahapati, ekacco bhikkhu gihīhi saṁsaṭṭho viharati sahanandī sahasokī, sukhitesu sukhito, dukkhitesu dukkhito, uppannesu kiccakaraṇīyesu attanā voyogaṁ āpajjati."
+    },
+    {
+      "id": "mnd9:77.3",
+      "pali": "Evaṁ kho, gahapati, gāme santhavajāto hoti."
+    },
+    {
+      "id": "mnd9:78.1",
+      "pali": "Kathañca, gahapati, gāme na santhavajāto hoti?"
+    },
+    {
+      "id": "mnd9:78.2",
+      "pali": "Idha, gahapati, ekacco bhikkhu gihīhi asaṁsaṭṭho viharati na sahanandī na sahasokī, na sukhitesu sukhito, na dukkhitesu dukkhito, uppannesu kiccakaraṇīyesu na attanā voyogaṁ āpajjati."
+    },
+    {
+      "id": "mnd9:78.3",
+      "pali": "Evaṁ kho, gahapati, gāme na santhavajāto hoti."
+    },
+    {
+      "id": "mnd9:79.1",
+      "pali": "Kathañca, gahapati, kāmehi aritto hoti?"
+    },
+    {
+      "id": "mnd9:79.2",
+      "pali": "Idha, gahapati, ekacco bhikkhu kāmesu avītarāgo hoti avigatacchando avigatapemo avigatapipāso avigatapariḷāho avigatataṇho."
+    },
+    {
+      "id": "mnd9:79.3",
+      "pali": "Evaṁ kho, gahapati, kāmehi aritto hoti."
+    },
+    {
+      "id": "mnd9:80.1",
+      "pali": "Kathañca, gahapati, kāmehi ritto hoti?"
+    },
+    {
+      "id": "mnd9:80.2",
+      "pali": "Idha, gahapati, ekacco bhikkhu kāmesu vītarāgo hoti vigatacchando vigatapemo vigatapipāso vigatapariḷāho vigatataṇho."
+    },
+    {
+      "id": "mnd9:80.3",
+      "pali": "Evaṁ kho, gahapati, kāmehi ritto hoti."
+    },
+    {
+      "id": "mnd9:81.1",
+      "pali": "Kathañca, gahapati, purakkharāno hoti?"
+    },
+    {
+      "id": "mnd9:81.2",
+      "pali": "Idha, gahapati, ekaccassa bhikkhuno evaṁ hoti—"
+    },
+    {
+      "id": "mnd9:81.3",
+      "pali": "‘evaṁrūpo siyaṁ anāgatamaddhānan’ti …"
+    },
+    {
+      "id": "mnd9:81.4",
+      "pali": "‘evaṁvedano siyaṁ …"
+    },
+    {
+      "id": "mnd9:81.5",
+      "pali": "evaṁsañño siyaṁ …"
+    },
+    {
+      "id": "mnd9:81.6",
+      "pali": "evaṁsaṅkhāro siyaṁ …"
+    },
+    {
+      "id": "mnd9:81.7",
+      "pali": "evaṁviññāṇo siyaṁ anāgatamaddhānan’ti …"
+    },
+    {
+      "id": "mnd9:81.8",
+      "pali": "evaṁ kho, gahapati, purakkharāno hoti."
+    },
+    {
+      "id": "mnd9:82.1",
+      "pali": "Kathañca, gahapati, apurakkharāno hoti?"
+    },
+    {
+      "id": "mnd9:82.2",
+      "pali": "Idha, gahapati, ekaccassa bhikkhuno na evaṁ hoti—"
+    },
+    {
+      "id": "mnd9:82.3",
+      "pali": "‘evaṁrūpo siyaṁ anāgatamaddhānan’ti …"
+    },
+    {
+      "id": "mnd9:82.4",
+      "pali": "‘evaṁvedano siyaṁ …"
+    },
+    {
+      "id": "mnd9:82.5",
+      "pali": "evaṁsañño siyaṁ …"
+    },
+    {
+      "id": "mnd9:82.6",
+      "pali": "evaṁsaṅkhāro siyaṁ …"
+    },
+    {
+      "id": "mnd9:82.7",
+      "pali": "evaṁviññāṇo siyaṁ anāgatamaddhānan’ti …"
+    },
+    {
+      "id": "mnd9:82.8",
+      "pali": "evaṁ kho, gahapati, apurakkharāno hoti."
+    },
+    {
+      "id": "mnd9:83.1",
+      "pali": "Kathañca, gahapati, kathaṁ viggayha janena kattā hoti?"
+    },
+    {
+      "id": "mnd9:83.2",
+      "pali": "Idha, gahapati, ekacco evarūpiṁ kathaṁ kattā hoti—"
+    },
+    {
+      "id": "mnd9:83.3",
+      "pali": "‘na tvaṁ imaṁ dhammavinayaṁ ājānāsi, ahaṁ imaṁ dhammavinayaṁ ājānāmi, kiṁ tvaṁ imaṁ dhammavinayaṁ ājānissasi, micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno, sahitaṁ me, asahitaṁ te, pure vacanīyaṁ pacchā avaca, pacchā vacanīyaṁ pure avaca, adhiciṇṇaṁ te viparāvattaṁ, āropito te vādo, niggahito tvamasi, cara vādappamokkhāya, nibbeṭhehi vā sace pahosī’ti."
+    },
+    {
+      "id": "mnd9:83.4",
+      "pali": "Evaṁ kho, gahapati, kathaṁ viggayha janena kattā hoti."
+    },
+    {
+      "id": "mnd9:84.1",
+      "pali": "Kathañca, gahapati, kathaṁ na viggayha janena kattā hoti?"
+    },
+    {
+      "id": "mnd9:84.2",
+      "pali": "Idha, gahapati, ekacco na evarūpiṁ kathaṁ kattā hoti—"
+    },
+    {
+      "id": "mnd9:84.3",
+      "pali": "‘na tvaṁ imaṁ dhammavinayaṁ ājānāsi …pe…"
+    },
+    {
+      "id": "mnd9:84.4",
+      "pali": "nibbeṭhehi vā sace pahosī’ti."
+    },
+    {
+      "id": "mnd9:84.5",
+      "pali": "Evaṁ kho, gahapati, na viggayha janena kattā hoti."
+    },
+    {
+      "id": "mnd9:84.6",
+      "pali": "Iti kho, gahapati, yaṁ taṁ vuttaṁ bhagavatā aṭṭhakavaggiye māgaṇḍiyapañhe—"
+    },
+    {
+      "id": "mnd9:85.1",
+      "pali": "‘Okaṁ pahāya aniketasārī,"
+    },
+    {
+      "id": "mnd9:85.2",
+      "pali": "Gāme akubbaṁ muni santhavāni;"
+    },
+    {
+      "id": "mnd9:85.3",
+      "pali": "Kāmehi ritto apurakkharāno,"
+    },
+    {
+      "id": "mnd9:85.4",
+      "pali": "Kathaṁ na viggayha janena kayirā’ti."
+    },
+    {
+      "id": "mnd9:86.1",
+      "pali": "Imassa kho, gahapati, bhagavatā saṅkhittena bhāsitassa evaṁ vitthārena attho daṭṭhabbo”ti."
+    },
+    {
+      "id": "mnd9:87.1",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "mnd9:88.1",
+      "pali": "“Okaṁ pahāya aniketasārī,"
+    },
+    {
+      "id": "mnd9:88.2",
+      "pali": "Gāme akubbaṁ muni santhavāni;"
+    },
+    {
+      "id": "mnd9:88.3",
+      "pali": "Kāmehi ritto apurakkharāno,"
+    },
+    {
+      "id": "mnd9:88.4",
+      "pali": "Kathaṁ na viggayha janena kayirā”ti."
+    },
+    {
+      "id": "mnd9:89.1",
+      "pali": "<b>Yehi vivitto vicareyya loke,</b>"
+    },
+    {
+      "id": "mnd9:89.2",
+      "pali": "<b>Na tāni uggayha vadeyya nāgo;</b>"
+    },
+    {
+      "id": "mnd9:89.3",
+      "pali": "<b>Elambujaṁ kaṇḍakavārijaṁ yathā,</b>"
+    },
+    {
+      "id": "mnd9:89.4",
+      "pali": "<b>Jalena paṅkena canūpalittaṁ;</b>"
+    },
+    {
+      "id": "mnd9:89.5",
+      "pali": "<b>Evaṁ munī santivādo agiddho,</b>"
+    },
+    {
+      "id": "mnd9:89.6",
+      "pali": "<b>Kāme ca loke ca anūpalitto.</b>"
+    },
+    {
+      "id": "mnd9:90.1",
+      "pali": "<b>Yehi vivitto vicareyya loke</b>ti."
+    },
+    {
+      "id": "mnd9:90.2",
+      "pali": "<b>Yehī</b>ti yehi diṭṭhigatehi."
+    },
+    {
+      "id": "mnd9:90.3",
+      "pali": "<b>Vivitto</b>ti kāyaduccaritena ritto vivitto pavivitto, vacīduccaritena …"
+    },
+    {
+      "id": "mnd9:90.4",
+      "pali": "manoduccaritena …"
+    },
+    {
+      "id": "mnd9:90.5",
+      "pali": "rāgena …pe…"
+    },
+    {
+      "id": "mnd9:90.6",
+      "pali": "sabbākusalābhisaṅkhārehi ritto vivitto pavivitto."
+    },
+    {
+      "id": "mnd9:90.7",
+      "pali": "<b>Vicareyyā</b>ti vicareyya vihareyya iriyeyya vatteyya pāleyya yapeyya yāpeyya."
+    },
+    {
+      "id": "mnd9:90.8",
+      "pali": "<b>Loke</b>ti manussaloketi—"
+    },
+    {
+      "id": "mnd9:90.9",
+      "pali": "yehi vivitto vicareyya loke."
+    },
+    {
+      "id": "mnd9:91.1",
+      "pali": "<b>Na tāni uggayha vadeyya nāgo</b>ti."
+    },
+    {
+      "id": "mnd9:91.2",
+      "pali": "<b>Nāgo</b>ti āguṁ na karotīti—"
+    },
+    {
+      "id": "mnd9:91.3",
+      "pali": "nāgo, na gacchatīti—"
+    },
+    {
+      "id": "mnd9:91.4",
+      "pali": "nāgo, nāgacchatīti—"
+    },
+    {
+      "id": "mnd9:91.5",
+      "pali": "nāgo."
+    },
+    {
+      "id": "mnd9:91.6",
+      "pali": "Kathaṁ āguṁ na karotīti—"
+    },
+    {
+      "id": "mnd9:91.7",
+      "pali": "nāgo?"
+    },
+    {
+      "id": "mnd9:91.8",
+      "pali": "Āgū vuccanti pāpakā akusalā dhammā saṅkilesikā ponobhavikā sadarā dukkhavipākā āyatiṁ jātijarāmaraṇiyā."
+    },
+    {
+      "id": "mnd9:92.1",
+      "pali": "Āguṁ na karoti kiñci loke,"
+    },
+    {
+      "id": "mnd9:92.2",
+      "pali": "(sabhiyāti bhagavā)"
+    },
+    {
+      "id": "mnd9:92.3",
+      "pali": "Sabbasaññoge visajja bandhanāni;"
+    },
+    {
+      "id": "mnd9:92.4",
+      "pali": "Sabbattha na sajjatī vimutto,"
+    },
+    {
+      "id": "mnd9:92.5",
+      "pali": "Nāgo tādi pavuccate tathattā."
+    },
+    {
+      "id": "mnd9:93.1",
+      "pali": "Evaṁ āguṁ na karotīti—"
+    },
+    {
+      "id": "mnd9:93.2",
+      "pali": "nāgo."
+    },
+    {
+      "id": "mnd9:94.1",
+      "pali": "Kathaṁ na gacchatīti—"
+    },
+    {
+      "id": "mnd9:94.2",
+      "pali": "nāgo?"
+    },
+    {
+      "id": "mnd9:94.3",
+      "pali": "Na chandāgatiṁ gacchati, na dosāgatiṁ gacchati, na mohāgatiṁ gacchati, na bhayāgatiṁ gacchati, na rāgavasena gacchati, na dosavasena gacchati, na mohavasena gacchati, na mānavasena gacchati, na diṭṭhivasena gacchati, na uddhaccavasena gacchati, na vicikicchāvasena gacchati, nānusayavasena gacchati, na vaggehi dhammehi yāyati nīyati vuyhati saṁharīyati."
+    },
+    {
+      "id": "mnd9:94.4",
+      "pali": "Evaṁ na gacchatīti—"
+    },
+    {
+      "id": "mnd9:94.5",
+      "pali": "nāgo."
+    },
+    {
+      "id": "mnd9:95.1",
+      "pali": "Kathaṁ nāgacchatīti—"
+    },
+    {
+      "id": "mnd9:95.2",
+      "pali": "nāgo?"
+    },
+    {
+      "id": "mnd9:95.3",
+      "pali": "Sotāpattimaggena ye kilesā pahīnā te kilese na puneti na pacceti na paccāgacchati."
+    },
+    {
+      "id": "mnd9:95.4",
+      "pali": "Sakadāgāmimaggena …"
+    },
+    {
+      "id": "mnd9:95.5",
+      "pali": "anāgāmimaggena …"
+    },
+    {
+      "id": "mnd9:95.6",
+      "pali": "arahattamaggena ye kilesā pahīnā te kilese na puneti na pacceti na paccāgacchati."
+    },
+    {
+      "id": "mnd9:95.7",
+      "pali": "Evaṁ nāgacchatīti—"
+    },
+    {
+      "id": "mnd9:95.8",
+      "pali": "nāgo."
+    },
+    {
+      "id": "mnd9:96.1",
+      "pali": "<b>Na tāni uggayha vadeyya nāgo</b>ti."
+    },
+    {
+      "id": "mnd9:96.2",
+      "pali": "Nāgo na tāni diṭṭhigatāni gahetvā uggahetvā gaṇhitvā parāmasitvā abhinivisitvā vadeyya katheyya bhaṇeyya dīpayeyya vohareyya;"
+    },
+    {
+      "id": "mnd9:96.3",
+      "pali": "“sassato loko …pe…"
+    },
+    {
+      "id": "mnd9:96.4",
+      "pali": "neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan”ti vadeyya katheyya bhaṇeyya dīpayeyya vohareyyāti—"
+    },
+    {
+      "id": "mnd9:96.5",
+      "pali": "na tāni uggayha vadeyya nāgo."
+    },
+    {
+      "id": "mnd9:97.1",
+      "pali": "<b>Elambujaṁ kaṇḍakavārijaṁ yathā, jalena paṅkena canūpalittan</b>ti."
+    },
+    {
+      "id": "mnd9:97.2",
+      "pali": "Elaṁ vuccati udakaṁ, ambujaṁ vuccati padumaṁ, kaṇḍako vuccati kharadaṇḍo, vāri vuccati udakaṁ, vārijaṁ vuccati padumaṁ vārisambhavaṁ, jalaṁ vuccati udakaṁ, paṅko vuccati kaddamo."
+    },
+    {
+      "id": "mnd9:97.3",
+      "pali": "Yathā padumaṁ vārijaṁ vārisambhavaṁ jalena ca paṅkena ca na limpati na palimpati na upalimpati, alittaṁ asaṁlittaṁ anupalittanti—"
+    },
+    {
+      "id": "mnd9:97.4",
+      "pali": "elambujaṁ kaṇḍakavārijaṁ yathā jalena paṅkena canūpalittaṁ."
+    },
+    {
+      "id": "mnd9:98.1",
+      "pali": "<b>Evaṁ munī santivādo agiddho, kāme ca loke ca anūpalitto</b>ti."
+    },
+    {
+      "id": "mnd9:98.2",
+      "pali": "<b>Evan</b>ti opammasaṁpaṭipādanaṁ."
+    },
+    {
+      "id": "mnd9:98.3",
+      "pali": "<b>Munī</b>ti."
+    },
+    {
+      "id": "mnd9:98.4",
+      "pali": "Monaṁ vuccati ñāṇaṁ …pe… saṅgajālamaticca so muni."
+    },
+    {
+      "id": "mnd9:98.5",
+      "pali": "<b>Santivādo</b>ti santivādo muni tāṇavādo leṇavādo saraṇavādo abhayavādo accutavādo amatavādo nibbānavādoti—"
+    },
+    {
+      "id": "mnd9:98.6",
+      "pali": "evaṁ muni santivādo."
+    },
+    {
+      "id": "mnd9:98.7",
+      "pali": "<b>Agiddho</b>ti."
+    },
+    {
+      "id": "mnd9:98.8",
+      "pali": "<b>Gedho</b> vuccati taṇhā."
+    },
+    {
+      "id": "mnd9:98.9",
+      "pali": "Yo rāgo sārāgo …pe… abhijjhā lobho akusalamūlaṁ."
+    },
+    {
+      "id": "mnd9:98.10",
+      "pali": "Yasseso gedho pahīno samucchinno vūpasanto paṭipassaddho abhabbuppattiko ñāṇagginā daḍḍho so vuccati agiddho."
+    },
+    {
+      "id": "mnd9:98.11",
+      "pali": "So rūpe agiddho, sadde … gandhe … rase … phoṭṭhabbe … kule … gaṇe … āvāse … lābhe … yase … pasaṁsāya … sukhe … cīvare … piṇḍapāte … senāsane … gilānapaccayabhesajjaparikkhāre … kāmadhātuyā … rūpadhātuyā … arūpadhātuyā … kāmabhave … rūpabhave … arūpabhave … saññābhave … asaññābhave … nevasaññānāsaññābhave … ekavokārabhave … catuvokārabhave … pañcavokārabhave … atīte … anāgate … paccuppanne … diṭṭhasutamutaviññātabbesu dhammesu agiddho agadhito amucchito anajjhosanno, vītagedho vigatagedho cattagedho vantagedho muttagedho pahīnagedho paṭinissaṭṭhagedho, vītarāgo vigatarāgo cattarāgo vantarāgo muttarāgo pahīnarāgo paṭinissaṭṭharāgo, nicchāto nibbuto sītibhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharatīti—"
+    },
+    {
+      "id": "mnd9:98.12",
+      "pali": "evaṁ muni santivādo agiddho."
+    },
+    {
+      "id": "mnd9:99.1",
+      "pali": "<b>Kāme ca loke ca anūpalitto</b>ti."
+    },
+    {
+      "id": "mnd9:99.2",
+      "pali": "<b>Kāmā</b>ti udānato dve kāmā—"
+    },
+    {
+      "id": "mnd9:99.3",
+      "pali": "vatthukāmā ca kilesakāmā ca …pe…"
+    },
+    {
+      "id": "mnd9:99.4",
+      "pali": "ime vuccanti vatthukāmā …pe…"
+    },
+    {
+      "id": "mnd9:99.5",
+      "pali": "ime vuccanti kilesakāmā."
+    },
+    {
+      "id": "mnd9:99.6",
+      "pali": "<b>Loke</b>ti apāyaloke manussaloke devaloke khandhaloke dhātuloke āyatanaloke."
+    },
+    {
+      "id": "mnd9:99.7",
+      "pali": "<b>Lepā</b>ti dve lepā—"
+    },
+    {
+      "id": "mnd9:99.8",
+      "pali": "taṇhālepo ca diṭṭhilepo ca …pe…"
+    },
+    {
+      "id": "mnd9:99.9",
+      "pali": "ayaṁ taṇhālepo …pe…"
+    },
+    {
+      "id": "mnd9:99.10",
+      "pali": "ayaṁ diṭṭhilepo."
+    },
+    {
+      "id": "mnd9:99.11",
+      "pali": "Muni taṇhālepaṁ pahāya diṭṭhilepaṁ paṭinissajjitvā kāme ca loke ca na limpati na palimpati na upalimpati, alitto apalitto anupalitto nikkhanto nissaṭo vippamutto visaññutto vimariyādikatena cetasā viharatīti—"
+    },
+    {
+      "id": "mnd9:99.12",
+      "pali": "evaṁ munī santivādo agiddho, kāme ca loke ca anūpalitto."
+    },
+    {
+      "id": "mnd9:100.1",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "mnd9:101.1",
+      "pali": "“Yehi vivitto vicareyya loke,"
+    },
+    {
+      "id": "mnd9:101.2",
+      "pali": "Na tāni uggayha vadeyya nāgo;"
+    },
+    {
+      "id": "mnd9:101.3",
+      "pali": "Elambujaṁ kaṇḍakavārijaṁ yathā,"
+    },
+    {
+      "id": "mnd9:101.4",
+      "pali": "Jalena paṅkena canūpalittaṁ;"
+    },
+    {
+      "id": "mnd9:101.5",
+      "pali": "Evaṁ munī santivādo agiddho,"
+    },
+    {
+      "id": "mnd9:101.6",
+      "pali": "Kāme ca loke ca anūpalitto”ti."
+    },
+    {
+      "id": "mnd9:102.1",
+      "pali": "<b>Na vedagū diṭṭhiyāyako na mutiyā,</b>"
+    },
+    {
+      "id": "mnd9:102.2",
+      "pali": "<b>Sa mānameti na hi tammayo so;</b>"
+    },
+    {
+      "id": "mnd9:102.3",
+      "pali": "<b>Na kammunā nopi sutena neyyo,</b>"
+    },
+    {
+      "id": "mnd9:102.4",
+      "pali": "<b>Anūpanīto sa nivesanesu.</b>"
+    },
+    {
+      "id": "mnd9:103.1",
+      "pali": "<b>Na vedagū diṭṭhiyāyako na mutiyā, sa mānametī</b>ti."
+    },
+    {
+      "id": "mnd9:103.2",
+      "pali": "<b>Nā</b>ti paṭikkhepo."
+    },
+    {
+      "id": "mnd9:103.3",
+      "pali": "<b>Vedagū</b>ti."
+    },
+    {
+      "id": "mnd9:103.4",
+      "pali": "Vedo vuccati catūsu maggesu ñāṇaṁ, paññā paññindriyaṁ paññābalaṁ dhammavicayasambojjhaṅgo vīmaṁsā vipassanā sammādiṭṭhi."
+    },
+    {
+      "id": "mnd9:103.5",
+      "pali": "Tehi vedehi jātijarāmaraṇassa antagato antappatto, koṭigato koṭippatto, pariyantagato pariyantappatto, vosānagato vosānappatto, tāṇagato tāṇappatto, leṇagato leṇappatto, saraṇagato saraṇappatto, abhayagato abhayappatto, accutagato accutappatto, amatagato amatappatto, nibbānagato nibbānappatto, vedānaṁ vā antaṁ gatoti vedagū, vedehi vā antaṁ gatoti vedagū, sattannaṁ vā dhammānaṁ viditattā vedagū, sakkāyadiṭṭhi viditā hoti, vicikicchā viditā hoti, sīlabbataparāmāso vidito hoti, rāgo vidito hoti, doso vidito hoti, moho vidito hoti, māno vidito hoti, viditāssa honti pāpakā akusalā dhammā saṅkilesikā ponobhavikā sadarā dukkhavipākā āyatiṁ jātijarāmaraṇiyā."
+    },
+    {
+      "id": "mnd9:104.1",
+      "pali": "Vedāni viceyya kevalāni,"
+    },
+    {
+      "id": "mnd9:104.2",
+      "pali": "(sabhiyāti bhagavā)"
+    },
+    {
+      "id": "mnd9:104.3",
+      "pali": "Samaṇānaṁ yānīdhatthi brāhmaṇānaṁ;"
+    },
+    {
+      "id": "mnd9:104.4",
+      "pali": "Sabbavedanāsu vītarāgo,"
+    },
+    {
+      "id": "mnd9:104.5",
+      "pali": "Sabbaṁ vedamaticca vedagū soti."
+    },
+    {
+      "id": "mnd9:105.1",
+      "pali": "<b>Na diṭṭhiyā</b>ti tassa dvāsaṭṭhi diṭṭhigatāni pahīnāni samucchinnāni vūpasantāni paṭipassaddhāni abhabbuppattikāni ñāṇagginā daḍḍhāni."
+    },
+    {
+      "id": "mnd9:105.2",
+      "pali": "So diṭṭhiyā na yāyati na nīyati na vuyhati na saṁharīyati, napi taṁ diṭṭhigataṁ sārato pacceti na paccāgacchatīti—"
+    },
+    {
+      "id": "mnd9:105.3",
+      "pali": "na vedagū diṭṭhiyā."
+    },
+    {
+      "id": "mnd9:105.4",
+      "pali": "<b>Na mutiyā</b>ti mutarūpena vā parato ghosena vā mahājanasammutiyā vā mānaṁ neti na upeti na upagacchati na gaṇhāti na parāmasati nābhinivisatīti—"
+    },
+    {
+      "id": "mnd9:105.5",
+      "pali": "na vedagū diṭṭhiyāyako na mutiyā sa mānameti."
+    },
+    {
+      "id": "mnd9:106.1",
+      "pali": "<b>Na hi tammayo so</b>ti na taṇhāvasena diṭṭhivasena tammayo hoti tapparamo tapparāyaṇo."
+    },
+    {
+      "id": "mnd9:106.2",
+      "pali": "Yato taṇhā ca diṭṭhi ca māno cassa pahīnā honti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā ettāvatā na tammayo hoti na tapparamo na tapparāyaṇoti—"
+    },
+    {
+      "id": "mnd9:106.3",
+      "pali": "sa mānameti na hi tammayo so."
+    },
+    {
+      "id": "mnd9:107.1",
+      "pali": "<b>Na kammunā nopi sutena neyyo</b>ti."
+    },
+    {
+      "id": "mnd9:107.2",
+      "pali": "<b>Na kammunā</b>ti puññābhisaṅkhārena vā apuññābhisaṅkhārena vā āneñjābhisaṅkhārena vā na yāyati na nīyati na vuyhati na saṁharīyatīti—"
+    },
+    {
+      "id": "mnd9:107.3",
+      "pali": "na kammunā."
+    },
+    {
+      "id": "mnd9:107.4",
+      "pali": "<b>Nopi sutena neyyo</b>ti sutasuddhiyā vā parato ghosena vā mahājanasammutiyā vā na yāyati na nīyati na vuyhati na saṁharīyatīti—"
+    },
+    {
+      "id": "mnd9:107.5",
+      "pali": "na kammunā nopi sutena neyyo."
+    },
+    {
+      "id": "mnd9:108.1",
+      "pali": "<b>Anūpanīto sa nivesanesū</b>ti."
+    },
+    {
+      "id": "mnd9:108.2",
+      "pali": "<b>Upayā</b>ti dve upayā—"
+    },
+    {
+      "id": "mnd9:108.3",
+      "pali": "taṇhūpayo ca diṭṭhūpayo ca …pe…"
+    },
+    {
+      "id": "mnd9:108.4",
+      "pali": "ayaṁ taṇhūpayo …pe…"
+    },
+    {
+      "id": "mnd9:108.5",
+      "pali": "ayaṁ diṭṭhūpayo."
+    },
+    {
+      "id": "mnd9:108.6",
+      "pali": "Tassa taṇhūpayo pahīno, diṭṭhūpayo paṭinissaṭṭho."
+    },
+    {
+      "id": "mnd9:108.7",
+      "pali": "Taṇhūpayassa pahīnattā, diṭṭhūpayassa paṭinissaṭṭhattā so nivesanesu anūpanīto anupalitto anupagato anajjhosito anadhimutto nikkhanto nissaṭo vippamutto visaññutto vimariyādikatena cetasā viharatīti—"
+    },
+    {
+      "id": "mnd9:108.8",
+      "pali": "anūpanīto sa nivesanesu."
+    },
+    {
+      "id": "mnd9:109.1",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "mnd9:110.1",
+      "pali": "“Na vedagū diṭṭhiyāyako na mutiyā,"
+    },
+    {
+      "id": "mnd9:110.2",
+      "pali": "Sa mānameti na hi tammayo so;"
+    },
+    {
+      "id": "mnd9:110.3",
+      "pali": "Na kammunā nopi sutena neyyo,"
+    },
+    {
+      "id": "mnd9:110.4",
+      "pali": "Anūpanīto sa nivesanesū”ti."
+    },
+    {
+      "id": "mnd9:111.1",
+      "pali": "<b>Saññāvirattassa na santi ganthā,</b>"
+    },
+    {
+      "id": "mnd9:111.2",
+      "pali": "<b>Paññāvimuttassa na santi mohā;</b>"
+    },
+    {
+      "id": "mnd9:111.3",
+      "pali": "<b>Saññañca diṭṭhiñca ye aggahesuṁ,</b>"
+    },
+    {
+      "id": "mnd9:111.4",
+      "pali": "<b>Te ghaṭṭayantā vicaranti loke.</b>"
+    },
+    {
+      "id": "mnd9:112.1",
+      "pali": "<b>Saññāvirattassa na santi ganthā</b>ti."
+    },
+    {
+      "id": "mnd9:112.2",
+      "pali": "Yo samathapubbaṅgamaṁ ariyamaggaṁ bhāveti tassa ādito upādāya ganthā vikkhambhitā honti, arahatte patte arahato ganthā ca mohā ca nīvaraṇā ca kāmasaññā byāpādasaññā vihiṁsāsaññā diṭṭhisaññā ca pahīnā honti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammāti—"
+    },
+    {
+      "id": "mnd9:112.3",
+      "pali": "saññāvirattassa na santi ganthā."
+    },
+    {
+      "id": "mnd9:113.1",
+      "pali": "<b>Paññāvimuttassa na santi mohā</b>ti."
+    },
+    {
+      "id": "mnd9:113.2",
+      "pali": "Yo vipassanāpubbaṅgamaṁ ariyamaggaṁ bhāveti, tassa ādito upādāya mohā vikkhambhitā honti, arahatte patte arahato mohā ca ganthā ca nīvaraṇā ca kāmasaññā byāpādasaññā vihiṁsāsaññā diṭṭhisaññā ca pahīnā honti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammāti—"
+    },
+    {
+      "id": "mnd9:113.3",
+      "pali": "paññāvimuttassa na santi mohā."
+    },
+    {
+      "id": "mnd9:114.1",
+      "pali": "<b>Saññañca diṭṭhiñca ye aggahesuṁ, te ghaṭṭayantā vicaranti loke</b>ti."
+    },
+    {
+      "id": "mnd9:114.2",
+      "pali": "Ye saññaṁ gaṇhanti kāmasaññaṁ byāpādasaññaṁ vihiṁsāsaññaṁ te saññāvasena ghaṭṭenti saṅghaṭṭenti."
+    },
+    {
+      "id": "mnd9:114.3",
+      "pali": "Rājānopi rājūhi vivadanti, khattiyāpi khattiyehi vivadanti, brāhmaṇāpi brāhmaṇehi vivadanti, gahapatīpi gahapatīhi vivadanti, mātāpi puttena vivadati, puttopi mātarā vivadati, pitāpi puttena vivadati, puttopi pitarā vivadati, bhātāpi bhātarā vivadati, bhaginīpi bhaginiyā vivadati, bhātāpi bhaginiyā vivadati, bhaginīpi bhātarā vivadati, sahāyopi sahāyena vivadati."
+    },
+    {
+      "id": "mnd9:114.4",
+      "pali": "Te tattha kalahaviggahavivādamāpannā aññamaññaṁ pāṇīhipi upakkamanti, leḍḍūhipi upakkamanti, daṇḍehipi upakkamanti, satthehipi upakkamanti."
+    },
+    {
+      "id": "mnd9:114.5",
+      "pali": "Te tattha maraṇampi nigacchanti maraṇamattampi dukkhaṁ."
+    },
+    {
+      "id": "mnd9:114.6",
+      "pali": "Ye diṭṭhiṁ gaṇhanti “sassato loko”ti vā …pe…"
+    },
+    {
+      "id": "mnd9:114.7",
+      "pali": "“neva hoti na na hoti tathāgato paraṁ maraṇā”ti vā te diṭṭhivasena ghaṭṭenti saṅghaṭṭenti, satthārato satthāraṁ ghaṭṭenti, dhammakkhānato dhammakkhānaṁ ghaṭṭenti, gaṇato gaṇaṁ ghaṭṭenti, diṭṭhiyā diṭṭhiṁ ghaṭṭenti, paṭipadāya paṭipadaṁ ghaṭṭenti, maggato maggaṁ ghaṭṭenti."
+    },
+    {
+      "id": "mnd9:115.1",
+      "pali": "Atha vā te vivadanti, kalahaṁ karonti, bhaṇḍanaṁ karonti, viggahaṁ karonti, vivādaṁ karonti, medhagaṁ karonti—"
+    },
+    {
+      "id": "mnd9:115.2",
+      "pali": "“na tvaṁ imaṁ dhammavinayaṁ ājānāsi …pe…"
+    },
+    {
+      "id": "mnd9:115.3",
+      "pali": "nibbeṭhehi vā sace pahosī”ti."
+    },
+    {
+      "id": "mnd9:115.4",
+      "pali": "Tesaṁ abhisaṅkhārā appahīnā;"
+    },
+    {
+      "id": "mnd9:115.5",
+      "pali": "abhisaṅkhārānaṁ appahīnattā gatiyā ghaṭṭenti, niraye ghaṭṭenti, tiracchānayoniyā ghaṭṭenti, pettivisaye ghaṭṭenti, manussaloke ghaṭṭenti, devaloke ghaṭṭenti, gatiyā gatiṁ … upapattiyā upapattiṁ … paṭisandhiyā paṭisandhiṁ … bhavena bhavaṁ … saṁsārena saṁsāraṁ … vaṭṭena vaṭṭaṁ ghaṭṭenti saṅghaṭṭenti vadanti vicaranti viharanti iriyanti vattenti pālenti yapenti yāpenti."
+    },
+    {
+      "id": "mnd9:115.6",
+      "pali": "<b>Loke</b>ti apāyaloke …pe… āyatanaloketi—"
+    },
+    {
+      "id": "mnd9:115.7",
+      "pali": "saññañca diṭṭhiñca ye aggahesuṁ te ghaṭṭayantā vicaranti loke."
+    },
+    {
+      "id": "mnd9:116.1",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "mnd9:117.1",
+      "pali": "“Saññāvirattassa na santi ganthā,"
+    },
+    {
+      "id": "mnd9:117.2",
+      "pali": "Paññāvimuttassa na santi mohā;"
+    },
+    {
+      "id": "mnd9:117.3",
+      "pali": "Saññañca diṭṭhiñca ye aggahesuṁ,"
+    },
+    {
+      "id": "mnd9:117.4",
+      "pali": "Te ghaṭṭayantā vicaranti loke”ti."
+    },
+    {
+      "id": "mnd9:118.1",
+      "pali": "Māgaṇḍiyasuttaniddeso navamo."
+    }
+  ]
+}

@@ -1,0 +1,947 @@
+{
+  "uid": "mn50",
+  "title": "Māratajjanīyasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn50:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn50:1.2",
+      "pali": "ekaṁ samayaṁ āyasmā mahāmoggallāno bhaggesu viharati susumāragire bhesakaḷāvane migadāye."
+    },
+    {
+      "id": "mn50:2.1",
+      "pali": "Tena kho pana samayena āyasmā mahāmoggallāno abbhokāse caṅkamati."
+    },
+    {
+      "id": "mn50:2.2",
+      "pali": "Tena kho pana samayena māro pāpimā āyasmato mahāmoggallānassa kucchigato hoti koṭṭhamanupaviṭṭho."
+    },
+    {
+      "id": "mn50:2.3",
+      "pali": "Atha kho āyasmato mahāmoggallānassa etadahosi:"
+    },
+    {
+      "id": "mn50:2.4",
+      "pali": "“kiṁ nu kho me kucchi garugaro viya?"
+    },
+    {
+      "id": "mn50:2.5",
+      "pali": "Māsācitaṁ maññe”ti."
+    },
+    {
+      "id": "mn50:2.6",
+      "pali": "Atha kho āyasmā mahāmoggallāno caṅkamā orohitvā vihāraṁ pavisitvā paññatte āsane nisīdi."
+    },
+    {
+      "id": "mn50:3.1",
+      "pali": "Nisajja kho āyasmā mahāmoggallāno paccattaṁ yoniso manasākāsi."
+    },
+    {
+      "id": "mn50:3.2",
+      "pali": "Addasā kho āyasmā mahāmoggallāno māraṁ pāpimantaṁ kucchigataṁ koṭṭhamanupaviṭṭhaṁ."
+    },
+    {
+      "id": "mn50:3.3",
+      "pali": "Disvāna māraṁ pāpimantaṁ etadavoca:"
+    },
+    {
+      "id": "mn50:3.4",
+      "pali": "“nikkhama, pāpima;"
+    },
+    {
+      "id": "mn50:3.5",
+      "pali": "nikkhama, pāpima."
+    },
+    {
+      "id": "mn50:3.6",
+      "pali": "Mā tathāgataṁ vihesesi, mā tathāgatasāvakaṁ."
+    },
+    {
+      "id": "mn50:3.7",
+      "pali": "Mā te ahosi dīgharattaṁ ahitāya dukkhāyā”ti."
+    },
+    {
+      "id": "mn50:4.1",
+      "pali": "Atha kho mārassa pāpimato etadahosi:"
+    },
+    {
+      "id": "mn50:4.2",
+      "pali": "“ajānameva kho maṁ ayaṁ samaṇo apassaṁ evamāha:"
+    },
+    {
+      "id": "mn50:4.3",
+      "pali": "‘nikkhama, pāpima;"
+    },
+    {
+      "id": "mn50:4.4",
+      "pali": "nikkhama, pāpima."
+    },
+    {
+      "id": "mn50:4.5",
+      "pali": "Mā tathāgataṁ vihesesi, mā tathāgatasāvakaṁ."
+    },
+    {
+      "id": "mn50:4.6",
+      "pali": "Mā te ahosi dīgharattaṁ ahitāya dukkhāyā’ti."
+    },
+    {
+      "id": "mn50:4.7",
+      "pali": "Yopissa so satthā sopi maṁ neva khippaṁ jāneyya, kuto pana maṁ ayaṁ sāvako jānissatī”ti?"
+    },
+    {
+      "id": "mn50:5.1",
+      "pali": "Atha kho āyasmā mahāmoggallāno māraṁ pāpimantaṁ etadavoca:"
+    },
+    {
+      "id": "mn50:5.2",
+      "pali": "“evampi kho tāhaṁ, pāpima, jānāmi, mā tvaṁ maññittho:"
+    },
+    {
+      "id": "mn50:5.3",
+      "pali": "‘na maṁ jānātī’ti."
+    },
+    {
+      "id": "mn50:5.4",
+      "pali": "Māro tvamasi, pāpima;"
+    },
+    {
+      "id": "mn50:5.5",
+      "pali": "tuyhañhi, pāpima, evaṁ hoti:"
+    },
+    {
+      "id": "mn50:5.6",
+      "pali": "‘ajānameva kho maṁ ayaṁ samaṇo apassaṁ evamāha—"
+    },
+    {
+      "id": "mn50:5.7",
+      "pali": "nikkhama, pāpima;"
+    },
+    {
+      "id": "mn50:5.8",
+      "pali": "nikkhama, pāpima."
+    },
+    {
+      "id": "mn50:5.9",
+      "pali": "Mā tathāgataṁ vihesesi, mā tathāgatasāvakaṁ."
+    },
+    {
+      "id": "mn50:5.10",
+      "pali": "Mā te ahosi dīgharattaṁ ahitāya dukkhāyāti."
+    },
+    {
+      "id": "mn50:5.11",
+      "pali": "Yopissa so satthā sopi maṁ neva khippaṁ jāneyya, kuto pana maṁ ayaṁ sāvako jānissatī’”ti?"
+    },
+    {
+      "id": "mn50:6.1",
+      "pali": "Atha kho mārassa pāpimato etadahosi:"
+    },
+    {
+      "id": "mn50:6.2",
+      "pali": "“jānameva kho maṁ ayaṁ samaṇo passaṁ evamāha:"
+    },
+    {
+      "id": "mn50:6.3",
+      "pali": "‘nikkhama, pāpima;"
+    },
+    {
+      "id": "mn50:6.4",
+      "pali": "nikkhama, pāpima."
+    },
+    {
+      "id": "mn50:6.5",
+      "pali": "Mā tathāgataṁ vihesesi, mā tathāgatasāvakaṁ."
+    },
+    {
+      "id": "mn50:6.6",
+      "pali": "Mā te ahosi dīgharattaṁ ahitāya dukkhāyā’”ti."
+    },
+    {
+      "id": "mn50:6.7",
+      "pali": "Atha kho māro pāpimā āyasmato mahāmoggallānassa mukhato uggantvā paccaggaḷe aṭṭhāsi."
+    },
+    {
+      "id": "mn50:7.1",
+      "pali": "Addasā kho āyasmā mahāmoggallāno māraṁ pāpimantaṁ paccaggaḷe ṭhitaṁ;"
+    },
+    {
+      "id": "mn50:7.2",
+      "pali": "disvāna māraṁ pāpimantaṁ etadavoca:"
+    },
+    {
+      "id": "mn50:7.3",
+      "pali": "“etthāpi kho tāhaṁ, pāpima, passāmi; mā tvaṁ maññittho"
+    },
+    {
+      "id": "mn50:7.4",
+      "pali": "‘na maṁ passatī’ti."
+    },
+    {
+      "id": "mn50:7.5",
+      "pali": "Eso tvaṁ, pāpima, paccaggaḷe ṭhito."
+    },
+    {
+      "id": "mn50:8.1",
+      "pali": "Bhūtapubbāhaṁ, pāpima, dūsī nāma māro ahosiṁ, tassa me kāḷī nāma bhaginī."
+    },
+    {
+      "id": "mn50:8.2",
+      "pali": "Tassā tvaṁ putto."
+    },
+    {
+      "id": "mn50:8.3",
+      "pali": "So me tvaṁ bhāgineyyo ahosi."
+    },
+    {
+      "id": "mn50:9.1",
+      "pali": "Tena kho pana, pāpima, samayena kakusandho bhagavā arahaṁ sammāsambuddho loke uppanno hoti."
+    },
+    {
+      "id": "mn50:9.2",
+      "pali": "Kakusandhassa kho pana, pāpima, bhagavato arahato sammāsambuddhassa vidhurasañjīvaṁ nāma sāvakayugaṁ ahosi aggaṁ bhaddayugaṁ."
+    },
+    {
+      "id": "mn50:9.3",
+      "pali": "Yāvatā kho pana, pāpima, kakusandhassa bhagavato arahato sammāsambuddhassa sāvakā."
+    },
+    {
+      "id": "mn50:9.4",
+      "pali": "Tesu na ca koci āyasmatā vidhurena samasamo hoti yadidaṁ dhammadesanāya."
+    },
+    {
+      "id": "mn50:9.5",
+      "pali": "Iminā kho evaṁ, pāpima, pariyāyena āyasmato vidhurassa vidhuroteva samaññā udapādi."
+    },
+    {
+      "id": "mn50:10.1",
+      "pali": "Āyasmā pana, pāpima, sañjīvo araññagatopi rukkhamūlagatopi suññāgāragatopi appakasireneva saññāvedayitanirodhaṁ samāpajjati."
+    },
+    {
+      "id": "mn50:10.2",
+      "pali": "Bhūtapubbaṁ, pāpima, āyasmā sañjīvo aññatarasmiṁ rukkhamūle saññāvedayitanirodhaṁ samāpanno nisinno hoti."
+    },
+    {
+      "id": "mn50:10.3",
+      "pali": "Addasaṁsu kho, pāpima, gopālakā pasupālakā kassakā pathāvino āyasmantaṁ sañjīvaṁ aññatarasmiṁ rukkhamūle saññāvedayitanirodhaṁ samāpannaṁ nisinnaṁ;"
+    },
+    {
+      "id": "mn50:10.4",
+      "pali": "disvāna tesaṁ etadahosi:"
+    },
+    {
+      "id": "mn50:10.5",
+      "pali": "‘acchariyaṁ vata bho, abbhutaṁ vata, bho."
+    },
+    {
+      "id": "mn50:10.6",
+      "pali": "Ayaṁ samaṇo nisinnakova kālaṅkato."
+    },
+    {
+      "id": "mn50:10.7",
+      "pali": "Handa naṁ dahāmā’ti."
+    },
+    {
+      "id": "mn50:10.8",
+      "pali": "Atha kho te, pāpima, gopālakā pasupālakā kassakā pathāvino tiṇañca kaṭṭhañca gomayañca saṅkaḍḍhitvā āyasmato sañjīvassa kāye upacinitvā aggiṁ datvā pakkamiṁsu."
+    },
+    {
+      "id": "mn50:11.1",
+      "pali": "Atha kho, pāpima, āyasmā sañjīvo tassā rattiyā accayena tāya samāpattiyā vuṭṭhahitvā cīvarāni papphoṭetvā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya gāmaṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "mn50:11.2",
+      "pali": "Addasaṁsu kho te, pāpima, gopālakā pasupālakā kassakā pathāvino āyasmantaṁ sañjīvaṁ piṇḍāya carantaṁ;"
+    },
+    {
+      "id": "mn50:11.3",
+      "pali": "disvāna nesaṁ etadahosi:"
+    },
+    {
+      "id": "mn50:11.4",
+      "pali": "‘acchariyaṁ vata bho, abbhutaṁ vata, bho."
+    },
+    {
+      "id": "mn50:11.5",
+      "pali": "Ayaṁ samaṇo nisinnakova kālaṅkato, svāyaṁ paṭisañjīvito’ti."
+    },
+    {
+      "id": "mn50:11.6",
+      "pali": "Iminā kho evaṁ, pāpima, pariyāyena āyasmato sañjīvassa sañjīvoteva samaññā udapādi."
+    },
+    {
+      "id": "mn50:12.1",
+      "pali": "Atha kho, pāpima, dūsissa mārassa etadahosi:"
+    },
+    {
+      "id": "mn50:12.2",
+      "pali": "‘imesaṁ kho ahaṁ bhikkhūnaṁ sīlavantānaṁ kalyāṇadhammānaṁ neva jānāmi āgatiṁ vā gatiṁ vā."
+    },
+    {
+      "id": "mn50:12.3",
+      "pali": "Yannūnāhaṁ brāhmaṇagahapatike anvāviseyyaṁ—"
+    },
+    {
+      "id": "mn50:12.4",
+      "pali": "etha, tumhe bhikkhū sīlavante kalyāṇadhamme akkosatha paribhāsatha rosetha vihesetha."
+    },
+    {
+      "id": "mn50:12.5",
+      "pali": "Appeva nāma tumhehi akkosiyamānānaṁ paribhāsiyamānānaṁ rosiyamānānaṁ vihesiyamānānaṁ siyā cittassa aññathattaṁ, yathā taṁ dūsī māro labhetha otāran’ti."
+    },
+    {
+      "id": "mn50:12.6",
+      "pali": "Atha kho te, pāpima, dūsī māro brāhmaṇagahapatike anvāvisi:"
+    },
+    {
+      "id": "mn50:12.7",
+      "pali": "‘etha, tumhe bhikkhū sīlavante kalyāṇadhamme akkosatha paribhāsatha rosetha vihesetha."
+    },
+    {
+      "id": "mn50:12.8",
+      "pali": "Appeva nāma tumhehi akkosiyamānānaṁ paribhāsiyamānānaṁ rosiyamānānaṁ vihesiyamānānaṁ siyā cittassa aññathattaṁ, yathā taṁ dūsī māro labhetha otāran’ti."
+    },
+    {
+      "id": "mn50:13.1",
+      "pali": "Atha kho te, pāpima, brāhmaṇagahapatikā anvāvisiṭṭhā dūsinā mārena bhikkhū sīlavante kalyāṇadhamme akkosanti paribhāsanti rosenti vihesenti:"
+    },
+    {
+      "id": "mn50:13.2",
+      "pali": "‘ime pana muṇḍakā samaṇakā ibbhā kiṇhā bandhupādāpaccā “jhāyinosmā jhāyinosmā”ti pattakkhandhā adhomukhā madhurakajātā jhāyanti pajjhāyanti nijjhāyanti apajjhāyanti."
+    },
+    {
+      "id": "mn50:13.3",
+      "pali": "Seyyathāpi nāma ulūko rukkhasākhāyaṁ mūsikaṁ maggayamāno jhāyati pajjhāyati nijjhāyati apajjhāyati;"
+    },
+    {
+      "id": "mn50:13.4",
+      "pali": "evamevime muṇḍakā samaṇakā ibbhā kiṇhā bandhupādāpaccā “jhāyinosmā jhāyinosmā”ti pattakkhandhā adhomukhā madhurakajātā jhāyanti pajjhāyanti nijjhāyanti apajjhāyanti."
+    },
+    {
+      "id": "mn50:13.5",
+      "pali": "Seyyathāpi nāma kotthu nadītīre macche maggayamāno jhāyati pajjhāyati nijjhāyati apajjhāyati;"
+    },
+    {
+      "id": "mn50:13.6",
+      "pali": "evamevime muṇḍakā samaṇakā ibbhā kiṇhā bandhupādāpaccā “jhāyinosmā jhāyinosmā”ti pattakkhandhā adhomukhā madhurakajātā jhāyanti pajjhāyanti nijjhāyanti apajjhāyanti."
+    },
+    {
+      "id": "mn50:13.7",
+      "pali": "Seyyathāpi nāma biḷāro sandhisamalasaṅkaṭīre mūsikaṁ maggayamāno jhāyati pajjhāyati nijjhāyati apajjhāyati;"
+    },
+    {
+      "id": "mn50:13.8",
+      "pali": "evamevime muṇḍakā samaṇakā ibbhā kiṇhā bandhupādāpaccā “jhāyinosmā jhāyinosmā”ti pattakkhandhā adhomukhā madhurakajātā jhāyanti pajjhāyanti nijjhāyanti apajjhāyanti."
+    },
+    {
+      "id": "mn50:13.9",
+      "pali": "Seyyathāpi nāma gadrabho vahacchinno sandhisamalasaṅkaṭīre jhāyati pajjhāyati nijjhāyati apajjhāyati;"
+    },
+    {
+      "id": "mn50:13.10",
+      "pali": "evamevime muṇḍakā samaṇakā ibbhā kiṇhā bandhupādāpaccā “jhāyinosmā jhāyinosmā”ti pattakkhandhā adhomukhā madhurakajātā jhāyanti pajjhāyanti nijjhāyanti apajjhāyantī’ti."
+    },
+    {
+      "id": "mn50:13.11",
+      "pali": "Ye kho pana, pāpima, tena samayena manussā kālaṁ karonti yebhuyyena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjanti."
+    },
+    {
+      "id": "mn50:14.1",
+      "pali": "Atha kho, pāpima, kakusandho bhagavā arahaṁ sammāsambuddho bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn50:14.2",
+      "pali": "‘anvāviṭṭhā kho, bhikkhave, brāhmaṇagahapatikā dūsinā mārena—"
+    },
+    {
+      "id": "mn50:14.3",
+      "pali": "etha, tumhe bhikkhū sīlavante kalyāṇadhamme akkosatha paribhāsatha rosetha vihesetha, appeva nāma tumhehi akkosiyamānānaṁ paribhāsiyamānānaṁ rosiyamānānaṁ vihesiyamānānaṁ siyā cittassa aññathattaṁ, yathā taṁ dūsī māro labhetha otāran’ti."
+    },
+    {
+      "id": "mn50:14.4",
+      "pali": "Etha, tumhe, bhikkhave, mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharatha, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharatha."
+    },
+    {
+      "id": "mn50:14.5",
+      "pali": "Karuṇāsahagatena cetasā …pe…"
+    },
+    {
+      "id": "mn50:14.6",
+      "pali": "muditāsahagatena cetasā …pe…"
+    },
+    {
+      "id": "mn50:14.7",
+      "pali": "upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharatha, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharathā’ti."
+    },
+    {
+      "id": "mn50:15.1",
+      "pali": "Atha kho te, pāpima, bhikkhū kakusandhena bhagavatā arahatā sammāsambuddhena evaṁ ovadiyamānā evaṁ anusāsiyamānā araññagatāpi rukkhamūlagatāpi suññāgāragatāpi mettāsahagatena cetasā ekaṁ disaṁ pharitvā vihariṁsu, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā vihariṁsu."
+    },
+    {
+      "id": "mn50:15.2",
+      "pali": "Karuṇāsahagatena cetasā …pe…"
+    },
+    {
+      "id": "mn50:15.3",
+      "pali": "muditāsahagatena cetasā …pe…"
+    },
+    {
+      "id": "mn50:15.4",
+      "pali": "upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā vihariṁsu, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā vihariṁsu."
+    },
+    {
+      "id": "mn50:16.1",
+      "pali": "Atha kho, pāpima, dūsissa mārassa etadahosi:"
+    },
+    {
+      "id": "mn50:16.2",
+      "pali": "‘evampi kho ahaṁ karonto imesaṁ bhikkhūnaṁ sīlavantānaṁ kalyāṇadhammānaṁ neva jānāmi āgatiṁ vā gatiṁ vā, yannūnāhaṁ brāhmaṇagahapatike anvāviseyyaṁ:"
+    },
+    {
+      "id": "mn50:16.3",
+      "pali": "“etha, tumhe bhikkhū sīlavante kalyāṇadhamme sakkarotha garuṁ karotha mānetha pūjetha,"
+    },
+    {
+      "id": "mn50:16.4",
+      "pali": "appeva nāma tumhehi sakkariyamānānaṁ garukariyamānānaṁ māniyamānānaṁ pūjiyamānānaṁ siyā cittassa aññathattaṁ, yathā taṁ dūsī māro labhetha otāran”’ti."
+    },
+    {
+      "id": "mn50:17.1",
+      "pali": "Atha kho te, pāpima, dūsī māro brāhmaṇagahapatike anvāvisi:"
+    },
+    {
+      "id": "mn50:17.2",
+      "pali": "‘etha, tumhe bhikkhū sīlavante kalyāṇadhamme sakkarotha garuṁ karotha mānetha pūjetha,"
+    },
+    {
+      "id": "mn50:17.3",
+      "pali": "appeva nāma tumhehi sakkariyamānānaṁ garukariyamānānaṁ māniyamānānaṁ pūjiyamānānaṁ siyā cittassa aññathattaṁ, yathā taṁ dūsī māro labhetha otāran’ti."
+    },
+    {
+      "id": "mn50:17.4",
+      "pali": "Atha kho te, pāpima, brāhmaṇagahapatikā anvāviṭṭhā dūsinā mārena bhikkhū sīlavante kalyāṇadhamme sakkaronti garuṁ karonti mānenti pūjenti."
+    },
+    {
+      "id": "mn50:17.5",
+      "pali": "Ye kho pana, pāpima, tena samayena manussā kālaṁ karonti yebhuyyena kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti."
+    },
+    {
+      "id": "mn50:18.1",
+      "pali": "Atha kho, pāpima, kakusandho bhagavā arahaṁ sammāsambuddho bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn50:18.2",
+      "pali": "‘anvāviṭṭhā kho, bhikkhave, brāhmaṇagahapatikā dūsinā mārena:"
+    },
+    {
+      "id": "mn50:18.3",
+      "pali": "“etha, tumhe bhikkhū sīlavante kalyāṇadhamme sakkarotha garuṁ karotha mānetha pūjetha,"
+    },
+    {
+      "id": "mn50:18.4",
+      "pali": "appeva nāma tumhehi sakkariyamānānaṁ garukariyamānānaṁ māniyamānānaṁ pūjiyamānānaṁ siyā cittassa aññathattaṁ, yathā taṁ dūsī māro labhetha otāran”ti."
+    },
+    {
+      "id": "mn50:18.5",
+      "pali": "Etha, tumhe, bhikkhave, asubhānupassino kāye viharatha, āhāre paṭikūlasaññino, sabbaloke anabhiratisaññino, sabbasaṅkhāresu aniccānupassino’ti."
+    },
+    {
+      "id": "mn50:19.1",
+      "pali": "Atha kho te, pāpima, bhikkhū kakusandhena bhagavatā arahatā sammāsambuddhena evaṁ ovadiyamānā evaṁ anusāsiyamānā araññagatāpi rukkhamūlagatāpi suññāgāragatāpi asubhānupassino kāye vihariṁsu, āhāre paṭikūlasaññino, sabbaloke anabhiratisaññino, sabbasaṅkhāresu aniccānupassino."
+    },
+    {
+      "id": "mn50:20.1",
+      "pali": "Atha kho, pāpima, kakusandho bhagavā arahaṁ sammāsambuddho pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya āyasmatā vidhurena pacchāsamaṇena gāmaṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "mn50:21.1",
+      "pali": "Atha kho, pāpima, dūsī māro aññataraṁ kumārakaṁ anvāvisitvā sakkharaṁ gahetvā āyasmato vidhurassa sīse pahāramadāsi; sīsaṁ vobhindi."
+    },
+    {
+      "id": "mn50:21.2",
+      "pali": "Atha kho, pāpima, āyasmā vidhuro bhinnena sīsena lohitena gaḷantena kakusandhaṁyeva bhagavantaṁ arahantaṁ sammāsambuddhaṁ piṭṭhito piṭṭhito anubandhi."
+    },
+    {
+      "id": "mn50:21.3",
+      "pali": "Atha kho, pāpima, kakusandho bhagavā arahaṁ sammāsambuddho nāgāpalokitaṁ apalokesi:"
+    },
+    {
+      "id": "mn50:21.4",
+      "pali": "‘na vāyaṁ dūsī māro mattamaññāsī’ti."
+    },
+    {
+      "id": "mn50:21.5",
+      "pali": "Sahāpalokanāya ca pana, pāpima, dūsī māro tamhā ca ṭhānā cavi mahānirayañca upapajji."
+    },
+    {
+      "id": "mn50:22.1",
+      "pali": "Tassa kho pana, pāpima, mahānirayassa tayo nāmadheyyā honti—"
+    },
+    {
+      "id": "mn50:22.2",
+      "pali": "chaphassāyataniko itipi, saṅkusamāhato itipi, paccattavedaniyo itipi."
+    },
+    {
+      "id": "mn50:22.3",
+      "pali": "Atha kho maṁ, pāpima, nirayapālā upasaṅkamitvā etadavocuṁ:"
+    },
+    {
+      "id": "mn50:22.4",
+      "pali": "‘yadā kho te, mārisa, saṅkunā saṅku hadaye samāgaccheyya."
+    },
+    {
+      "id": "mn50:22.5",
+      "pali": "Atha naṁ tvaṁ jāneyyāsi:"
+    },
+    {
+      "id": "mn50:22.6",
+      "pali": "“vassasahassaṁ me niraye paccamānassā”’ti."
+    },
+    {
+      "id": "mn50:23.1",
+      "pali": "So kho ahaṁ, pāpima, bahūni vassāni bahūni vassasatāni bahūni vassasahassāni tasmiṁ mahāniraye apacciṁ."
+    },
+    {
+      "id": "mn50:23.2",
+      "pali": "Dasavassasahassāni tasseva mahānirayassa ussade apacciṁ vuṭṭhānimaṁ nāma vedanaṁ vediyamāno."
+    },
+    {
+      "id": "mn50:23.3",
+      "pali": "Tassa mayhaṁ, pāpima, evarūpo kāyo hoti, seyyathāpi manussassa."
+    },
+    {
+      "id": "mn50:23.4",
+      "pali": "Evarūpaṁ sīsaṁ hoti, seyyathāpi macchassa."
+    },
+    {
+      "id": "mn50:24.1",
+      "pali": "Kīdiso nirayo āsi,"
+    },
+    {
+      "id": "mn50:24.2",
+      "pali": "yattha dūsī apaccatha;"
+    },
+    {
+      "id": "mn50:24.3",
+      "pali": "Vidhuraṁ sāvakamāsajja,"
+    },
+    {
+      "id": "mn50:24.4",
+      "pali": "kakusandhañca brāhmaṇaṁ."
+    },
+    {
+      "id": "mn50:24.5",
+      "pali": "Sataṁ āsi ayosaṅkū,"
+    },
+    {
+      "id": "mn50:24.6",
+      "pali": "sabbe paccattavedanā;"
+    },
+    {
+      "id": "mn50:24.7",
+      "pali": "Īdiso nirayo āsi,"
+    },
+    {
+      "id": "mn50:24.8",
+      "pali": "yattha dūsī apaccatha;"
+    },
+    {
+      "id": "mn50:24.9",
+      "pali": "Vidhuraṁ sāvakamāsajja,"
+    },
+    {
+      "id": "mn50:24.10",
+      "pali": "kakusandhañca brāhmaṇaṁ."
+    },
+    {
+      "id": "mn50:24.11",
+      "pali": "Yo etamabhijānāti,"
+    },
+    {
+      "id": "mn50:24.12",
+      "pali": "bhikkhu buddhassa sāvako;"
+    },
+    {
+      "id": "mn50:24.13",
+      "pali": "Tādisaṁ bhikkhumāsajja,"
+    },
+    {
+      "id": "mn50:24.14",
+      "pali": "kaṇha dukkhaṁ nigacchasi."
+    },
+    {
+      "id": "mn50:25.1",
+      "pali": "Majjhe sarassa tiṭṭhanti,"
+    },
+    {
+      "id": "mn50:25.2",
+      "pali": "vimānā kappaṭṭhāyino;"
+    },
+    {
+      "id": "mn50:25.3",
+      "pali": "Veḷuriyavaṇṇā rucirā,"
+    },
+    {
+      "id": "mn50:25.4",
+      "pali": "accimanto pabhassarā;"
+    },
+    {
+      "id": "mn50:25.5",
+      "pali": "Accharā tattha naccanti,"
+    },
+    {
+      "id": "mn50:25.6",
+      "pali": "puthu nānattavaṇṇiyo."
+    },
+    {
+      "id": "mn50:25.7",
+      "pali": "Yo etamabhijānāti,"
+    },
+    {
+      "id": "mn50:25.8",
+      "pali": "bhikkhu buddhassa sāvako;"
+    },
+    {
+      "id": "mn50:25.9",
+      "pali": "Tādisaṁ bhikkhumāsajja,"
+    },
+    {
+      "id": "mn50:25.10",
+      "pali": "kaṇha dukkhaṁ nigacchasi."
+    },
+    {
+      "id": "mn50:26.1",
+      "pali": "Yo ve buddhena codito,"
+    },
+    {
+      "id": "mn50:26.2",
+      "pali": "bhikkhu saṅghassa pekkhato;"
+    },
+    {
+      "id": "mn50:26.3",
+      "pali": "Migāramātupāsādaṁ,"
+    },
+    {
+      "id": "mn50:26.4",
+      "pali": "pādaṅguṭṭhena kampayi."
+    },
+    {
+      "id": "mn50:26.5",
+      "pali": "Yo etamabhijānāti,"
+    },
+    {
+      "id": "mn50:26.6",
+      "pali": "bhikkhu buddhassa sāvako;"
+    },
+    {
+      "id": "mn50:26.7",
+      "pali": "Tādisaṁ bhikkhumāsajja,"
+    },
+    {
+      "id": "mn50:26.8",
+      "pali": "kaṇha dukkhaṁ nigacchasi."
+    },
+    {
+      "id": "mn50:27.1",
+      "pali": "Yo vejayantaṁ pāsādaṁ,"
+    },
+    {
+      "id": "mn50:27.2",
+      "pali": "pādaṅguṭṭhena kampayi;"
+    },
+    {
+      "id": "mn50:27.3",
+      "pali": "Iddhibalenupatthaddho,"
+    },
+    {
+      "id": "mn50:27.4",
+      "pali": "saṁvejesi ca devatā."
+    },
+    {
+      "id": "mn50:27.5",
+      "pali": "Yo etamabhijānāti,"
+    },
+    {
+      "id": "mn50:27.6",
+      "pali": "bhikkhu buddhassa sāvako;"
+    },
+    {
+      "id": "mn50:27.7",
+      "pali": "Tādisaṁ bhikkhumāsajja,"
+    },
+    {
+      "id": "mn50:27.8",
+      "pali": "kaṇha dukkhaṁ nigacchasi."
+    },
+    {
+      "id": "mn50:28.1",
+      "pali": "Yo vejayantapāsāde,"
+    },
+    {
+      "id": "mn50:28.2",
+      "pali": "sakkaṁ so paripucchati;"
+    },
+    {
+      "id": "mn50:28.3",
+      "pali": "Api vāsava jānāsi,"
+    },
+    {
+      "id": "mn50:28.4",
+      "pali": "taṇhākkhayavimuttiyo;"
+    },
+    {
+      "id": "mn50:28.5",
+      "pali": "Tassa sakko viyākāsi,"
+    },
+    {
+      "id": "mn50:28.6",
+      "pali": "pañhaṁ puṭṭho yathātathaṁ."
+    },
+    {
+      "id": "mn50:28.7",
+      "pali": "Yo etamabhijānāti,"
+    },
+    {
+      "id": "mn50:28.8",
+      "pali": "bhikkhu buddhassa sāvako;"
+    },
+    {
+      "id": "mn50:28.9",
+      "pali": "Tādisaṁ bhikkhumāsajja,"
+    },
+    {
+      "id": "mn50:28.10",
+      "pali": "kaṇha dukkhaṁ nigacchasi."
+    },
+    {
+      "id": "mn50:29.1",
+      "pali": "Yo brahmaṁ paripucchati,"
+    },
+    {
+      "id": "mn50:29.2",
+      "pali": "sudhammāyābhito sabhaṁ;"
+    },
+    {
+      "id": "mn50:29.3",
+      "pali": "Ajjāpi tyāvuso diṭṭhi,"
+    },
+    {
+      "id": "mn50:29.4",
+      "pali": "yā te diṭṭhi pure ahu;"
+    },
+    {
+      "id": "mn50:29.5",
+      "pali": "Passasi vītivattantaṁ,"
+    },
+    {
+      "id": "mn50:29.6",
+      "pali": "brahmaloke pabhassaraṁ."
+    },
+    {
+      "id": "mn50:29.7",
+      "pali": "Tassa brahmā viyākāsi,"
+    },
+    {
+      "id": "mn50:29.8",
+      "pali": "anupubbaṁ yathātathaṁ;"
+    },
+    {
+      "id": "mn50:29.9",
+      "pali": "Na me mārisa sā diṭṭhi,"
+    },
+    {
+      "id": "mn50:29.10",
+      "pali": "yā me diṭṭhi pure ahu."
+    },
+    {
+      "id": "mn50:29.11",
+      "pali": "Passāmi vītivattantaṁ,"
+    },
+    {
+      "id": "mn50:29.12",
+      "pali": "brahmaloke pabhassaraṁ;"
+    },
+    {
+      "id": "mn50:29.13",
+      "pali": "Sohaṁ ajja kathaṁ vajjaṁ,"
+    },
+    {
+      "id": "mn50:29.14",
+      "pali": "ahaṁ niccomhi sassato."
+    },
+    {
+      "id": "mn50:29.15",
+      "pali": "Yo etamabhijānāti,"
+    },
+    {
+      "id": "mn50:29.16",
+      "pali": "bhikkhu buddhassa sāvako;"
+    },
+    {
+      "id": "mn50:29.17",
+      "pali": "Tādisaṁ bhikkhumāsajja,"
+    },
+    {
+      "id": "mn50:29.18",
+      "pali": "kaṇha dukkhaṁ nigacchasi."
+    },
+    {
+      "id": "mn50:30.1",
+      "pali": "Yo mahāmeruno kūṭaṁ,"
+    },
+    {
+      "id": "mn50:30.2",
+      "pali": "vimokkhena aphassayi;"
+    },
+    {
+      "id": "mn50:30.3",
+      "pali": "Vanaṁ pubbavidehānaṁ,"
+    },
+    {
+      "id": "mn50:30.4",
+      "pali": "ye ca bhūmisayā narā."
+    },
+    {
+      "id": "mn50:30.5",
+      "pali": "Yo etamabhijānāti,"
+    },
+    {
+      "id": "mn50:30.6",
+      "pali": "bhikkhu buddhassa sāvako;"
+    },
+    {
+      "id": "mn50:30.7",
+      "pali": "Tādisaṁ bhikkhumāsajja,"
+    },
+    {
+      "id": "mn50:30.8",
+      "pali": "kaṇha dukkhaṁ nigacchasi."
+    },
+    {
+      "id": "mn50:31.1",
+      "pali": "Na ve aggi cetayati,"
+    },
+    {
+      "id": "mn50:31.2",
+      "pali": "‘ahaṁ bālaṁ ḍahāmī’ti;"
+    },
+    {
+      "id": "mn50:31.3",
+      "pali": "Bālo ca jalitaṁ aggiṁ,"
+    },
+    {
+      "id": "mn50:31.4",
+      "pali": "āsajja naṁ sa ḍayhati."
+    },
+    {
+      "id": "mn50:31.5",
+      "pali": "Evameva tuvaṁ māra,"
+    },
+    {
+      "id": "mn50:31.6",
+      "pali": "āsajja naṁ tathāgataṁ;"
+    },
+    {
+      "id": "mn50:31.7",
+      "pali": "Sayaṁ ḍahissasi attānaṁ,"
+    },
+    {
+      "id": "mn50:31.8",
+      "pali": "bālo aggiṁva samphusaṁ."
+    },
+    {
+      "id": "mn50:31.9",
+      "pali": "Apuññaṁ pasavī māro,"
+    },
+    {
+      "id": "mn50:31.10",
+      "pali": "āsajja naṁ tathāgataṁ;"
+    },
+    {
+      "id": "mn50:31.11",
+      "pali": "Kiṁ nu maññasi pāpima,"
+    },
+    {
+      "id": "mn50:31.12",
+      "pali": "na me pāpaṁ vipaccati."
+    },
+    {
+      "id": "mn50:31.13",
+      "pali": "Karoto cīyati pāpaṁ,"
+    },
+    {
+      "id": "mn50:31.14",
+      "pali": "cirarattāya antaka;"
+    },
+    {
+      "id": "mn50:31.15",
+      "pali": "Māra nibbinda buddhamhā,"
+    },
+    {
+      "id": "mn50:31.16",
+      "pali": "āsaṁ mākāsi bhikkhusu."
+    },
+    {
+      "id": "mn50:31.17",
+      "pali": "Iti māraṁ atajjesi,"
+    },
+    {
+      "id": "mn50:31.18",
+      "pali": "bhikkhu bhesakaḷāvane;"
+    },
+    {
+      "id": "mn50:31.19",
+      "pali": "Tato so dummano yakkho,"
+    },
+    {
+      "id": "mn50:31.20",
+      "pali": "tatthevantaradhāyathā”ti."
+    },
+    {
+      "id": "mn50:31.21",
+      "pali": "Māratajjanīyasuttaṁ niṭṭhitaṁ dasamaṁ."
+    },
+    {
+      "id": "mn50:31.22",
+      "pali": "Cūḷayamakavaggo niṭṭhito pañcamo."
+    },
+    {
+      "id": "mn50:32.1",
+      "pali": "Sāleyya verañjaduve ca tuṭṭhi,"
+    },
+    {
+      "id": "mn50:32.2",
+      "pali": "Cūḷamahādhammasamādānañca;"
+    },
+    {
+      "id": "mn50:32.3",
+      "pali": "Vīmaṁsakā kosambi ca brāhmaṇo,"
+    },
+    {
+      "id": "mn50:32.4",
+      "pali": "Dūsī ca māro dasamo ca vaggo."
+    },
+    {
+      "id": "mn50:33.1",
+      "pali": "Mūlapariyāyo ceva,"
+    },
+    {
+      "id": "mn50:33.2",
+      "pali": "sīhanādo ca uttamo;"
+    },
+    {
+      "id": "mn50:33.3",
+      "pali": "Kakaco ceva gosiṅgo,"
+    },
+    {
+      "id": "mn50:33.4",
+      "pali": "sāleyyo ca ime pañca."
+    },
+    {
+      "id": "mn50:33.5",
+      "pali": "Mūlapaṇṇāsakaṁ samattaṁ."
+    }
+  ]
+}

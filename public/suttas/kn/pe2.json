@@ -1,0 +1,2943 @@
+{
+  "uid": "pe2",
+  "title": "2. Sāsanapaṭṭhānadutiyabhūmi",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "pe2:1.1",
+      "pali": "Tattha katamaṁ sāsanappaṭṭhānaṁ?"
+    },
+    {
+      "id": "pe2:1.2",
+      "pali": "Saṅkilesabhāgiyaṁ suttaṁ, vāsanābhāgiyaṁ suttaṁ, nibbedhabhāgiyaṁ suttaṁ, asekkhabhāgiyaṁ suttaṁ, saṅkilesabhāgiyañca vāsanābhāgiyañca, saṅkilesabhāgiyañca nibbedhabhāgiyañca, saṅkilesabhāgiyañca nibbedhabhāgiyañca asekkhabhāgiyañca, vāsanābhāgiyañca nibbedhabhāgiyañca."
+    },
+    {
+      "id": "pe2:1.3",
+      "pali": "Āṇatti, phalaṁ, upāyo, āṇatti ca phalañca, phalañca upāyo ca, āṇatti ca phalañca upāyo ca."
+    },
+    {
+      "id": "pe2:1.4",
+      "pali": "Assādo, ādīnavo, nissaraṇaṁ, assādo ca ādīnavo ca, assādo ca nissaraṇañca, ādīnavo ca nissaraṇañca, assādo ca ādīnavo ca nissaraṇañca."
+    },
+    {
+      "id": "pe2:1.5",
+      "pali": "Lokikaṁ, lokuttaraṁ, lokikañca lokuttarañca."
+    },
+    {
+      "id": "pe2:1.6",
+      "pali": "Kammaṁ, vipāko, kammañca vipāko ca."
+    },
+    {
+      "id": "pe2:1.7",
+      "pali": "Niddiṭṭhaṁ, aniddiṭṭhaṁ, niddiṭṭhañca aniddiṭṭhañca."
+    },
+    {
+      "id": "pe2:1.8",
+      "pali": "Ñāṇaṁ, ñeyyaṁ, ñāṇañca ñeyyañca."
+    },
+    {
+      "id": "pe2:1.9",
+      "pali": "Dassanaṁ, bhāvanā, dassanañca bhāvanā ca."
+    },
+    {
+      "id": "pe2:1.10",
+      "pali": "Vipākakammaṁ, na vipākakammaṁ, nevavipākanavipākakammaṁ."
+    },
+    {
+      "id": "pe2:1.11",
+      "pali": "Sakavacanaṁ, paravacanaṁ, sakavacanañca paravacanañca."
+    },
+    {
+      "id": "pe2:1.12",
+      "pali": "Sattādhiṭṭhānaṁ, dhammādhiṭṭhānaṁ, sattādhiṭṭhānañca dhammādhiṭṭhānañca."
+    },
+    {
+      "id": "pe2:1.13",
+      "pali": "Thavo, sakavacanādhiṭṭhānaṁ, paravacanādhiṭṭhānaṁ, sakavacanādhiṭṭhānañca paravacanādhiṭṭhānañca."
+    },
+    {
+      "id": "pe2:1.14",
+      "pali": "Kiriyaṁ, phalaṁ, kiriyañca phalañca."
+    },
+    {
+      "id": "pe2:1.15",
+      "pali": "Anuññātaṁ, paṭikkhittaṁ, anuññātañca paṭikkhittañca."
+    },
+    {
+      "id": "pe2:1.16",
+      "pali": "Imāni cha paṭikkhittāni."
+    },
+    {
+      "id": "pe2:2.1",
+      "pali": "Tattha katamaṁ saṅkilesabhāgiyaṁ suttaṁ?"
+    },
+    {
+      "id": "pe2:3.1",
+      "pali": "Kāmandhā jālasañchannā,"
+    },
+    {
+      "id": "pe2:3.2",
+      "pali": "Taṇhāchadanachāditā;"
+    },
+    {
+      "id": "pe2:3.3",
+      "pali": "Pamattabandhunā baddhā,"
+    },
+    {
+      "id": "pe2:3.4",
+      "pali": "Macchāva kumināmukhe;"
+    },
+    {
+      "id": "pe2:3.5",
+      "pali": "Jarāmaraṇamanventi,"
+    },
+    {
+      "id": "pe2:3.6",
+      "pali": "Vaccho khīrapakova mātaraṁ."
+    },
+    {
+      "id": "pe2:4.1",
+      "pali": "Pañcime, bhikkhave, nīvaraṇā."
+    },
+    {
+      "id": "pe2:5.1",
+      "pali": "Tattha katamaṁ vāsanābhāgiyaṁ suttaṁ?"
+    },
+    {
+      "id": "pe2:6.1",
+      "pali": "Manopubbaṅgamā dhammā,"
+    },
+    {
+      "id": "pe2:6.2",
+      "pali": "manoseṭṭhā manomayā;"
+    },
+    {
+      "id": "pe2:6.3",
+      "pali": "Manasā ce pasannena,"
+    },
+    {
+      "id": "pe2:6.4",
+      "pali": "bhāsati vā karoti vā;"
+    },
+    {
+      "id": "pe2:6.5",
+      "pali": "Tato naṁ sukhamanveti,"
+    },
+    {
+      "id": "pe2:6.6",
+      "pali": "chāyāva anapāyinī."
+    },
+    {
+      "id": "pe2:7.1",
+      "pali": "Saṁyuttake suttaṁ."
+    },
+    {
+      "id": "pe2:8.1",
+      "pali": "Mahānāmassa sakkassa idaṁ bhagavā sakyānaṁ kapilavatthumhi nagare nayavitthārena saddhāsīlaparibhāvitaṁ suttaṁ bhāvaññena paribhāvitaṁ taṁ nāma pacchime kāle."
+    },
+    {
+      "id": "pe2:9.1",
+      "pali": "Tattha katamaṁ nibbedhabhāgiyaṁ suttaṁ?"
+    },
+    {
+      "id": "pe2:10.1",
+      "pali": "Uddhaṁ adho sabbadhi vippamutto,"
+    },
+    {
+      "id": "pe2:10.2",
+      "pali": "Ayaṁ ahasmīti anānupassī;"
+    },
+    {
+      "id": "pe2:10.3",
+      "pali": "Evaṁ vimutto udatāri oghaṁ,"
+    },
+    {
+      "id": "pe2:10.4",
+      "pali": "Atiṇṇapubbaṁ apunabbhavāya."
+    },
+    {
+      "id": "pe2:11.1",
+      "pali": "Sīlāni nu kho bhavanti kimatthiyāni ānando pucchati satthāraṁ."
+    },
+    {
+      "id": "pe2:12.1",
+      "pali": "Tattha katamaṁ asekkhabhāgiyaṁ suttaṁ?"
+    },
+    {
+      "id": "pe2:13.1",
+      "pali": "“Yassa selūpamaṁ cittaṁ,"
+    },
+    {
+      "id": "pe2:13.2",
+      "pali": "ṭhitaṁ nānupakampati;"
+    },
+    {
+      "id": "pe2:13.3",
+      "pali": "Virattaṁ rajanīyesu,"
+    },
+    {
+      "id": "pe2:13.4",
+      "pali": "kopaneyye na kuppati;"
+    },
+    {
+      "id": "pe2:13.5",
+      "pali": "Yassevaṁ bhāvitaṁ cittaṁ,"
+    },
+    {
+      "id": "pe2:13.6",
+      "pali": "kuto taṁ dukkhamessatī”ti."
+    },
+    {
+      "id": "pe2:14.1",
+      "pali": "Sāriputto nāma bhagavā theraññataro so maṁ āsajja appaṭinissajja cārikaṁ pakkamati, sāriputtassa byākaraṇaṁ kātabbaṁ."
+    },
+    {
+      "id": "pe2:14.2",
+      "pali": "Yassa nūna bhagavā kāyagatā sati abhāvitā assa abahulīkatā vitthārena kātabbaṁ."
+    },
+    {
+      "id": "pe2:15.1",
+      "pali": "Tattha katamaṁ saṅkilesabhāgiyañca vāsanābhāgiyañca?"
+    },
+    {
+      "id": "pe2:16.1",
+      "pali": "Channamativassati,"
+    },
+    {
+      "id": "pe2:16.2",
+      "pali": "vivaṭaṁ nātivassati;"
+    },
+    {
+      "id": "pe2:16.3",
+      "pali": "Tasmā channaṁ vivaretha,"
+    },
+    {
+      "id": "pe2:16.4",
+      "pali": "evaṁ taṁ nātivassati."
+    },
+    {
+      "id": "pe2:17.1",
+      "pali": "Channamativassatīti saṅkileso."
+    },
+    {
+      "id": "pe2:17.2",
+      "pali": "Vivaṭaṁ nātivassatīti vāsanā."
+    },
+    {
+      "id": "pe2:17.3",
+      "pali": "Tamo tamaparāyanoti vitthārena."
+    },
+    {
+      "id": "pe2:17.4",
+      "pali": "Tattha yo ca tamo yo ca tamaparāyano, ayaṁ saṅkileso."
+    },
+    {
+      "id": "pe2:17.5",
+      "pali": "Yo ca joti yo ca jotiparāyano, ayaṁ vāsanā."
+    },
+    {
+      "id": "pe2:18.1",
+      "pali": "Tattha katamaṁ saṅkilesabhāgiyañca nibbedhabhāgiyañca suttaṁ?"
+    },
+    {
+      "id": "pe2:19.1",
+      "pali": "Na taṁ daḷhaṁ bandhanamāhu dhīrā,"
+    },
+    {
+      "id": "pe2:19.2",
+      "pali": "Yadāyasaṁ dārujapabbajañca;"
+    },
+    {
+      "id": "pe2:19.3",
+      "pali": "Sārattarattā maṇikuṇḍalesu,"
+    },
+    {
+      "id": "pe2:19.4",
+      "pali": "Puttesu dāresu ca yā apekkhā."
+    },
+    {
+      "id": "pe2:20.1",
+      "pali": "Na taṁ daḷhaṁ bandhanamāhu dhīrā, yadā puttesu dāresu ca yā apekkhā, ayaṁ saṅkileso."
+    },
+    {
+      "id": "pe2:20.2",
+      "pali": "Etampi chetvā paribbajanti dhīrā anapekkhino sabbakāme pahāyāti, ayaṁ nibbedho."
+    },
+    {
+      "id": "pe2:20.3",
+      "pali": "Yaṁ cetayitaṁ pakappitaṁ yā ca nāmarūpassa avakkanti hoti."
+    },
+    {
+      "id": "pe2:20.4",
+      "pali": "Imehi catūhi padehi saṅkileso."
+    },
+    {
+      "id": "pe2:20.5",
+      "pali": "Pacchimakehi catūhi nibbedho."
+    },
+    {
+      "id": "pe2:21.1",
+      "pali": "Tattha katamaṁ saṅkilesabhāgiyañca nibbedhabhāgiyañca asekkhabhāgiyañca suttaṁ?"
+    },
+    {
+      "id": "pe2:22.1",
+      "pali": "Ayaṁ loko santāpajāto,"
+    },
+    {
+      "id": "pe2:22.2",
+      "pali": "Phassapareto rogaṁ vadati attato;"
+    },
+    {
+      "id": "pe2:22.3",
+      "pali": "Yena yena hi maññanti,"
+    },
+    {
+      "id": "pe2:22.4",
+      "pali": "Tato taṁ hoti aññathā."
+    },
+    {
+      "id": "pe2:23.1",
+      "pali": "Aññathābhāvī bhavasatto loko,"
+    },
+    {
+      "id": "pe2:23.2",
+      "pali": "Bhavapareto bhavamevābhinandati;"
+    },
+    {
+      "id": "pe2:23.3",
+      "pali": "Yadabhinandati taṁ bhayaṁ,"
+    },
+    {
+      "id": "pe2:23.4",
+      "pali": "Yassa bhāyati taṁ dukkhaṁ;"
+    },
+    {
+      "id": "pe2:23.5",
+      "pali": "Bhavavippahānāya kho panidaṁ brahmacariyaṁ vussati."
+    },
+    {
+      "id": "pe2:24.1",
+      "pali": "Ye hi keci samaṇā vā brāhmaṇā vā bhavena bhavassa vippamokkhamāhaṁsu, sabbete “avippamuttā bhavasmā”ti vadāmi."
+    },
+    {
+      "id": "pe2:24.2",
+      "pali": "Ye vā pana keci samaṇā vā brāhmaṇā vā vibhavena bhavassa nissaraṇamāhaṁsu, sabbete “anissaṭā bhavasmā”ti vadāmi."
+    },
+    {
+      "id": "pe2:24.3",
+      "pali": "Upadhiṁ hi paṭicca dukkhamidaṁ sambhoti, sabbupādānakkhayā natthi dukkhassa sambhavo, lokamimaṁ passa, puthū avijjāya paretā bhūtā bhūtaratā bhavā aparimuttā."
+    },
+    {
+      "id": "pe2:24.4",
+      "pali": "Ye hi keci bhavā sabbadhi sabbatthatāya sabbete bhavā aniccā dukkhā vipariṇāmadhammāti."
+    },
+    {
+      "id": "pe2:25.1",
+      "pali": "“Evametaṁ yathābhūtaṁ,"
+    },
+    {
+      "id": "pe2:25.2",
+      "pali": "Sammappaññāya passato;"
+    },
+    {
+      "id": "pe2:25.3",
+      "pali": "Bhavataṇhā pahīyati,"
+    },
+    {
+      "id": "pe2:25.4",
+      "pali": "Vibhavaṁ nābhinandati;"
+    },
+    {
+      "id": "pe2:25.5",
+      "pali": "Sabbaso taṇhānaṁ khayā,"
+    },
+    {
+      "id": "pe2:25.6",
+      "pali": "Asesavirāganirodho nibbānaṁ."
+    },
+    {
+      "id": "pe2:26.1",
+      "pali": "Tassa nibbutassa bhikkhuno,"
+    },
+    {
+      "id": "pe2:26.2",
+      "pali": "Anupādā punabbhavo na hoti;"
+    },
+    {
+      "id": "pe2:26.3",
+      "pali": "Abhibhūto māro vijitasaṅgāmo,"
+    },
+    {
+      "id": "pe2:26.4",
+      "pali": "Upeccagā sabbabhavāni tādī”ti."
+    },
+    {
+      "id": "pe2:27.1",
+      "pali": "Ayaṁ loko santāpajāto yāva dukkhanti yaṁ taṇhā saṅkileso."
+    },
+    {
+      "id": "pe2:28.1",
+      "pali": "Yaṁ punaggahaṇaṁ ye hi keci samaṇā vā brāhmaṇā vā bhavena bhavassa vimokkhamāhaṁsu, sabbete “avimuttā bhavasmā”ti vadāmi."
+    },
+    {
+      "id": "pe2:28.2",
+      "pali": "Ye vā pana keci samaṇā vā brāhmaṇā vā vibhavena bhavassa nissaraṇamāhaṁsu “anissaṭā bhavasmā”ti vadāmi."
+    },
+    {
+      "id": "pe2:28.3",
+      "pali": "Ayaṁ diṭṭhisaṅkileso, taṁ diṭṭhisaṅkileso ca taṇhāsaṅkileso ca, ubhayametaṁ saṅkileso."
+    },
+    {
+      "id": "pe2:28.4",
+      "pali": "Yaṁ punaggahaṇaṁ bhavavippahānāya brahmacariyaṁ vussati, yāva sabbaso upādānakkhayā sambhavā, idaṁ nibbedhabhāgiyaṁ."
+    },
+    {
+      "id": "pe2:28.5",
+      "pali": "Tassa nibbutassa bhikkhuno yāva upaccagā sabbabhavāni tādīti idaṁ asekkhabhāgiyaṁ."
+    },
+    {
+      "id": "pe2:28.6",
+      "pali": "Cattāro puggalā anusotagāmī saṅkileso ṭhitatto ca paṭisotagāmī ca nibbedho."
+    },
+    {
+      "id": "pe2:28.7",
+      "pali": "Thale tiṭṭhatīti asekkhabhūmi."
+    },
+    {
+      "id": "pe2:29.1",
+      "pali": "Tattha katamaṁ vāsanābhāgiyañca nibbedhabhāgiyañca suttaṁ?"
+    },
+    {
+      "id": "pe2:30.1",
+      "pali": "“Dadato puññaṁ pavaḍḍhati,"
+    },
+    {
+      "id": "pe2:30.2",
+      "pali": "Saṁyamato veraṁ na cīyati;"
+    },
+    {
+      "id": "pe2:30.3",
+      "pali": "Kusalo ca jahāti pāpakaṁ,"
+    },
+    {
+      "id": "pe2:30.4",
+      "pali": "Rāgadosamohakkhayā sanibbuto”ti."
+    },
+    {
+      "id": "pe2:31.1",
+      "pali": "“Dadato puññaṁ pavaḍḍhati, saṁyamato veraṁ na cīyatī”ti vāsanā."
+    },
+    {
+      "id": "pe2:31.2",
+      "pali": "“Kusalo ca jahāti pāpakaṁ, rāgadosamohakkhayā sanibbuto”ti nibbedho."
+    },
+    {
+      "id": "pe2:32.1",
+      "pali": "Sotānugatesu dhammesu vacasā paricitesu manasānupekkhitesu diṭṭhiyā suppaṭividdhesu pañcānisaṁsā pāṭikaṅkhā."
+    },
+    {
+      "id": "pe2:32.2",
+      "pali": "Idhekaccassa bahussutā dhammā honti dhātā apamuṭṭhā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā, so yuñjanto ghaṭento vāyāmanto diṭṭheva dhamme visesaṁ pappoti."
+    },
+    {
+      "id": "pe2:32.3",
+      "pali": "No ce diṭṭheva dhamme visesaṁ pappoti, gilāno pappoti."
+    },
+    {
+      "id": "pe2:32.4",
+      "pali": "No ce gilāno pappoti, maraṇakālasamaye pappoti."
+    },
+    {
+      "id": "pe2:32.5",
+      "pali": "No ce maraṇakālasamaye pappoti, devabhūto pāpuṇāti."
+    },
+    {
+      "id": "pe2:32.6",
+      "pali": "No ce devabhūto pāpuṇāti, tena dhammarāgena tāya dhammanandiyā paccekabodhiṁ pāpuṇāti."
+    },
+    {
+      "id": "pe2:33.1",
+      "pali": "Tatthāyaṁ diṭṭheva dhamme pāpuṇāti, ayaṁ nibbedho."
+    },
+    {
+      "id": "pe2:33.2",
+      "pali": "Yaṁ samparāye paccekabodhiṁ pāpuṇāti, ayaṁ vāsanā."
+    },
+    {
+      "id": "pe2:33.3",
+      "pali": "Imāni soḷasa suttāni sabbasāsanaṁ atiggaṇhanto tiṭṭhanti."
+    },
+    {
+      "id": "pe2:33.4",
+      "pali": "Imehi soḷasahi suttehi navavidho suttanto vibhatto bhavati."
+    },
+    {
+      "id": "pe2:33.5",
+      "pali": "So ca paññavato no duppaññassa, yuttassa no ayuttassa, akammassa vihārissa pakatiyā loke saṅkileso carati."
+    },
+    {
+      "id": "pe2:33.6",
+      "pali": "So saṅkileso tividho—"
+    },
+    {
+      "id": "pe2:33.7",
+      "pali": "taṇhāsaṅkileso diṭṭhisaṅkileso duccaritasaṅkileso."
+    },
+    {
+      "id": "pe2:33.8",
+      "pali": "Tato saṅkilesato uṭṭhahanto saṅkileso dhammesu patiṭṭhahati, lokiyesu patiṭṭhahatīti."
+    },
+    {
+      "id": "pe2:33.9",
+      "pali": "Tatthākusalo diṭṭhato sace taṁ sīlañca diṭṭhiñca parāmasati, tassa so taṇhāsaṅkileso hoti."
+    },
+    {
+      "id": "pe2:33.10",
+      "pali": "Sace panassa evaṁ hoti “imināhaṁ sīlena vā vatena vā brahmacariyena vā devo vā bhavissaṁ devaññataro vā”ti yassa hoti micchādiṭṭhi, etassa micchādiṭṭhisaṅkileso bhavati."
+    },
+    {
+      "id": "pe2:33.11",
+      "pali": "Sace pana sīle patiṭṭhito aparāmaṭṭhassa hi sīlavataṁ hoti, tassa taṁ sīlavato yoniso gahitaṁ avippaṭisāraṁ janeti yāva vimuttiñāṇadassanaṁ, tañca tassa diṭṭheva dhamme kālaṅkatassa vā tamhiyeva vā pana aparāpariyāyena vā, aññesu khandhesu evaṁ sutaṁ “sucaritaṁ vāsanāya saṁvattatī”ti vāsanābhāgiyaṁ suttaṁ vuccati."
+    },
+    {
+      "id": "pe2:33.12",
+      "pali": "Tattha sīlesu ṭhitassa vinīvaraṇaṁ cittaṁ, taṁ tato sakkāyadiṭṭhippahānāya bhagavā dhammaṁ deseti."
+    },
+    {
+      "id": "pe2:33.13",
+      "pali": "So accantaniṭṭhaṁ nibbānaṁ pāpuṇāti;"
+    },
+    {
+      "id": "pe2:33.14",
+      "pali": "yadi vā sāsanantare, accantaṁ nibbānaṁ pāpuṇāti, yadi vā ekāsane cha abhiññe."
+    },
+    {
+      "id": "pe2:33.15",
+      "pali": "Tattha dve puggalā ariyadhamme pāpuṇanti saddhānusārī ca dhammānusārī ca."
+    },
+    {
+      "id": "pe2:33.16",
+      "pali": "Tattha dhammānusārī ugghaṭitaññū, saddhānusārī neyyo."
+    },
+    {
+      "id": "pe2:33.17",
+      "pali": "Tattha ugghaṭitaññū duvidho—"
+    },
+    {
+      "id": "pe2:33.18",
+      "pali": "koci tikkhindriyo koci mudindriyo."
+    },
+    {
+      "id": "pe2:33.19",
+      "pali": "Tattha neyyopi duvidho—"
+    },
+    {
+      "id": "pe2:33.20",
+      "pali": "koci tikkhindriyo koci mudindriyo."
+    },
+    {
+      "id": "pe2:33.21",
+      "pali": "Tattha yo ca ugghaṭitaññū mudindriyo, yo ca neyyo tikkhindriyo, ime puggalā asamindriyā honti."
+    },
+    {
+      "id": "pe2:33.22",
+      "pali": "Tattha ime puggalā samindriyā parihāyanti ca ugghaṭitaññuto, vipañcitaññū neyyato, ime majjhimā bhūmigatā vipañcitaññū hoti."
+    },
+    {
+      "id": "pe2:33.23",
+      "pali": "Ime tayo puggalā."
+    },
+    {
+      "id": "pe2:34.1",
+      "pali": "Tattha catutthā pana pañcamā ugghaṭitaññū vipañcitaññū neyyo ca, tattha ugghaṭitaññū puggalo indriyāni paṭilabhitvā dassanabhūmiyaṁ ṭhito sotāpattiphalañca pāpuṇāti, ekabījī hoti paṭhamo sotāpanno."
+    },
+    {
+      "id": "pe2:34.2",
+      "pali": "Tattha vipañcitaññū puggalo indriyāni paṭilabhitvā dassanabhūmiyaṁ ṭhito sotāpattiphalañca pāpuṇāti, kolaṅkolo ca hoti dutiyo sotāpanno."
+    },
+    {
+      "id": "pe2:34.3",
+      "pali": "Tattha neyyo puggalo indriyāni paṭilabhitvā dassanabhūmiyaṁ ṭhito sotāpattiphalañca pāpuṇāti, sattakkhattuparamo ca hoti, ayaṁ tatiyo sotāpanno."
+    },
+    {
+      "id": "pe2:34.4",
+      "pali": "Ime tayo puggalā indriyavemattatāya sotāpattiphale ṭhitā."
+    },
+    {
+      "id": "pe2:35.1",
+      "pali": "Ugghaṭitaññū ekabījī hoti, vipañcitaññū kolaṅkolo hoti, neyyo sattakkhattuparamo hoti."
+    },
+    {
+      "id": "pe2:35.2",
+      "pali": "Idaṁ nibbedhabhāgiyaṁ suttaṁ."
+    },
+    {
+      "id": "pe2:35.3",
+      "pali": "Sace pana taduttari vāyamati, accantaniṭṭhaṁ nibbānaṁ pāpuṇāti."
+    },
+    {
+      "id": "pe2:35.4",
+      "pali": "Tattha ugghaṭitaññū puggalo yo tikkhindriyo, te dve puggalā honti—"
+    },
+    {
+      "id": "pe2:35.5",
+      "pali": "anāgāmiphalaṁ pāpuṇitvā antarāparinibbāyī ca upahaccaparinibbāyī ca."
+    },
+    {
+      "id": "pe2:35.6",
+      "pali": "Tattha vipañcitaññū puggalo yo tikkhindriyo, te dve puggalā honti—"
+    },
+    {
+      "id": "pe2:35.7",
+      "pali": "anāgāmiphalaṁ pāpuṇanti asaṅkhāraparinibbāyī ca sasaṅkhāraparinibbāyī ca."
+    },
+    {
+      "id": "pe2:35.8",
+      "pali": "Tattha neyyo anāgāmiphalaṁ pāpuṇanto uddhaṁsoto akaniṭṭhagāmī hoti, ugghaṭitaññū ca vipañcitaññū ca, indriyanānattena ugghaṭitaññū puggalo tikkhindriyo antarāparinibbāyī hoti, ugghaṭitaññū mudindriyo uddhaṁsoto akaniṭṭhagāmī hoti."
+    },
+    {
+      "id": "pe2:35.9",
+      "pali": "Ugghaṭitaññū ca vipañcitaññū ca indriyanānattena ugghaṭitaññū puggalo tikkhindriyo sasaṅkhāraparinibbāyī hoti, tikkhindriyo antarāparinibbāyī hoti, ugghaṭitaññū mudindriyo upahaccaparinibbāyī hoti."
+    },
+    {
+      "id": "pe2:35.10",
+      "pali": "Vipañcitaññū tikkhindriyo asaṅkhāraparinibbāyī hoti, vipañcitaññū mudindriyo sasaṅkhāraparinibbāyī hoti, neyyo upahaccaparinibbāyī hoti, vipañcitaññū tikkhindriyo asaṅkhāraparinibbāyī hoti."
+    },
+    {
+      "id": "pe2:35.11",
+      "pali": "Vipañcitaññū mudindriyo sasaṅkhāraparinibbāyī hoti, neyyo uddhaṁsoto akaniṭṭhagāmī hoti."
+    },
+    {
+      "id": "pe2:35.12",
+      "pali": "Iti pañca anāgāmino, chaṭṭho sakadāgāmī, tayo ca sotāpannāti ime nava sekkhā."
+    },
+    {
+      "id": "pe2:36.1",
+      "pali": "Tattha ugghaṭitaññū puggalo tikkhindriyo arahattaṁ pāpuṇanto dve puggalā honti ubhatobhāgavimutto paññāvimutto ca."
+    },
+    {
+      "id": "pe2:36.2",
+      "pali": "Tattha ugghaṭitaññū puggalo mudindriyo arahattaṁ pāpuṇanto dve puggalā honti, ṭhitakappī ca paṭivedhanabhāvo ca."
+    },
+    {
+      "id": "pe2:36.3",
+      "pali": "Tattha vipañcitaññū puggalo ca tikkhindriyo so arahattaṁ pāpuṇanto dve puggalā honti cetanābhabbo ca rakkhaṇābhabbo ca."
+    },
+    {
+      "id": "pe2:36.4",
+      "pali": "Tattha vipañcitaññū mudindriyo arahattaṁ pāpuṇanto dve puggalā honti, sace ceteti na parinibbāyī, no ce ceteti parinibbāyīti."
+    },
+    {
+      "id": "pe2:36.5",
+      "pali": "Sace anurakkhati na parinibbāyī, no ce anurakkhati parinibbāyīti."
+    },
+    {
+      "id": "pe2:36.6",
+      "pali": "Tattha neyyo puggalo bhāvanānuyogamanuyutto parihānadhammo hoti kammaniyato vā samasīsi vā, ime nava arahanto idaṁ catubbidhaṁ suttaṁ saṅkilesabhāgiyaṁ asekkhabhāgiyaṁ."
+    },
+    {
+      "id": "pe2:36.7",
+      "pali": "Imesu puggalesu tathāgatassa dasavidhaṁ balaṁ pavattati."
+    },
+    {
+      "id": "pe2:37.1",
+      "pali": "Katamaṁ dasavidhaṁ?"
+    },
+    {
+      "id": "pe2:37.2",
+      "pali": "Idha buddhānaṁ bhagavantānaṁ appavattite dhammacakke mahesakkhā devaputtā yācanāya abhiyātā honti “desetu sugato dhamman”ti."
+    },
+    {
+      "id": "pe2:37.3",
+      "pali": "So anuttarena buddhacakkhunā volokento addasāsi sattānaṁ tayo rāsīnaṁ sammattaniyato micchattaniyato aniyato."
+    },
+    {
+      "id": "pe2:37.4",
+      "pali": "Tattha sammattaniyato rāsi micchāsatiṁ āpajjeyyāti netaṁ ṭhānaṁ vijjati, asatthuko parinibbāyeyyāti netaṁ ṭhānaṁ vijjati, samāpattiṁ āpajjeyyāti ṭhānametaṁ vijjati."
+    },
+    {
+      "id": "pe2:37.5",
+      "pali": "Tattha micchattaniyato rāsi ariyasamāpattiṁ paṭipajjissatīti netaṁ ṭhānaṁ vijjati, anariyamicchāpaṭipattiṁ paṭipajjissatīti ṭhānametaṁ vijjati."
+    },
+    {
+      "id": "pe2:37.6",
+      "pali": "Tattha aniyato rāsi sammāpaṭipajjamānaṁ sammattaniyatarāsiṁ gamissatīti ṭhānametaṁ vijjati, micchāpaṭipajjamāno sammattaniyatarāsiṁ gamissatīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "pe2:37.7",
+      "pali": "Sammāpaṭipajjamānaṁ sammattaniyatarāsiṁ gamissatīti ṭhānametaṁ vijjati, micchāpaṭipajjamānaṁ micchattaniyatarāsiṁ gamissatīti ṭhānametaṁ vijjati."
+    },
+    {
+      "id": "pe2:37.8",
+      "pali": "Ime tayo anuttarena buddhacakkhunā volokentassa sammāsambuddhassa me sato ime dhammā anabhisambuddhāti ettāvatā maṁ koci sahadhammena paṭicodissatīti netaṁ ṭhānaṁ vijjati, vītarāgassa te paṭijānato akhīṇāsavatāya sahadhammena koci paṭicodissatīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "pe2:37.9",
+      "pali": "Yato pana imassa aniyatassa rāsissa dhammadesanā, sā na dissati takkarassa sammādukkhakkhayāyāti netaṁ ṭhānaṁ vijjati, tathā ovadito yaṁ pana me aniyatarāsi sāvako pubbenāparaṁ visesaṁ na sacchikarissatīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "pe2:38.1",
+      "pali": "Yaṁ kho muni nānappakārassa nānāniruttiyo devanāgayakkhānaṁ dameti dhamme vavatthānena vatvā kāraṇato aññaṁ pāraṁ gamissatīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "pe2:38.2",
+      "pali": "Dhammapaṭisambhidā."
+    },
+    {
+      "id": "pe2:38.3",
+      "pali": "Yato panimā niruttito satta satta niruttiyo nābhisambhuneyyāti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "pe2:38.4",
+      "pali": "Niruttipaṭisambhidā."
+    },
+    {
+      "id": "pe2:38.5",
+      "pali": "Nirutti kho pana abhisamaggaratānaṁ sāvakānaṁ tamatthamaviññāpayeti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "pe2:38.6",
+      "pali": "Atthapaṭisambhidā."
+    },
+    {
+      "id": "pe2:38.7",
+      "pali": "Mahesakkhā devaputtā upasaṅkamitvā pañhe pucchiṁsu."
+    },
+    {
+      "id": "pe2:38.8",
+      "pali": "Kāyikena vā mānasikena vā paripīḷitassa hatthakuṇīti vā pāde vā khañje dandhassa so attho na paribhājiyatīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "pe2:38.9",
+      "pali": "Paṭibhānapaṭisambhidā."
+    },
+    {
+      "id": "pe2:38.10",
+      "pali": "Yamhi taṁ tesaṁ hoti tamhi asantaṁ bhavatīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "pe2:38.11",
+      "pali": "Yaṁ hi nāsaṁ tesaṁ na bhavati, tamhi nāsaṁ tesaṁ bhavissatīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "pe2:38.12",
+      "pali": "Evaṁ samudayassa nirodhāya dasa akusalakammapathā."
+    },
+    {
+      "id": "pe2:38.13",
+      "pali": "Māro vā indo vā brahmā vā tathāgato vā cakkavattī vā so vata nāma mātugāmo bhavissatīti netaṁ ṭhānaṁ vijjati, puriso assa rājā cakkavattī sakko devānamindo bhavissatīti ṭhānametaṁ vijjati."
+    },
+    {
+      "id": "pe2:38.14",
+      "pali": "Itissa evarūpaṁ balaṁ evarūpaṁ ñāṇaṁ, idaṁ vuccati ṭhānāṭṭhānañāṇaṁ paṭhamaṁ tathāgatabalaṁ taṁ niddisitabbaṁ."
+    },
+    {
+      "id": "pe2:38.15",
+      "pali": "Tīhi rāsīhi catūhi vesārajjehi catūhi paṭisambhidāhi paṭiccasamuppādassa pavattiyaṁ nivattiyaṁ bhāgiyañca."
+    },
+    {
+      "id": "pe2:38.16",
+      "pali": "Kusalaṁ kusalavipākesu ca upapajjati yañca itthipurisānaṁ."
+    },
+    {
+      "id": "pe2:38.17",
+      "pali": "Idaṁ paṭhamaṁ balaṁ tathāgato evaṁ jānāti."
+    },
+    {
+      "id": "pe2:39.1",
+      "pali": "Yesaṁ pana sammattaniyato rāsi, nāyaṁ sabbatthagāminī paṭipadā, nibbānagāminīyevāyaṁ paṭipadā."
+    },
+    {
+      "id": "pe2:39.2",
+      "pali": "Tattha siyā micchattaniyato rāsi, esāpi na sabbatthagāminī paṭipadā."
+    },
+    {
+      "id": "pe2:39.3",
+      "pali": "Sakkāyasamudayagāminīyevāyaṁ paṭipadā hotu, ayaṁ tattha tattha paṭipattiyā ṭhito gacchati nibbānaṁ, gacchati apāyaṁ, gacchati devamanussassa."
+    },
+    {
+      "id": "pe2:39.4",
+      "pali": "Yaṁ yaṁ vā paṭipadaṁ paṭipajjeyya sabbattha gaccheyya, ayaṁ sabbatthagāminī paṭipadā."
+    },
+    {
+      "id": "pe2:39.5",
+      "pali": "Yaṁ ettha ñāṇaṁ yathābhūtaṁ, idaṁ vuccati sabbatthagāminī paṭipadāñāṇaṁ dutiyaṁ tathāgatabalaṁ."
+    },
+    {
+      "id": "pe2:40.1",
+      "pali": "Sā kho panāyaṁ sabbatthagāminī paṭipadā nānādhimuttā keci kāmesu keci dukkarakāriyaṁ keci attakilamathānuyogamanuyuttā keci saṁsārena suddhiṁ paccenti keci anajjābhāvanāti."
+    },
+    {
+      "id": "pe2:40.2",
+      "pali": "Tena tena caritena vinibandhānaṁ sattānaṁ yaṁ ñāṇaṁ yathābhūtaṁ nānāgataṁ lokassa anekādhimuttagataṁ yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "pe2:40.3",
+      "pali": "Idaṁ tatiyaṁ tathāgatabalaṁ."
+    },
+    {
+      "id": "pe2:41.1",
+      "pali": "Tattha sattānaṁ adhimuttā bhavanti āsevanti bhāventi bahulīkaronti."
+    },
+    {
+      "id": "pe2:41.2",
+      "pali": "Tesaṁ kammupasayānaṁ tadādhimuttānaṁ."
+    },
+    {
+      "id": "pe2:41.3",
+      "pali": "Sā ceva dhātu saṁvahati."
+    },
+    {
+      "id": "pe2:41.4",
+      "pali": "Katarā panesā dhātu nekkhammadhātu baladhātu kāci sampatti kāci micchattañca dhātu adhimuttā bhavanti."
+    },
+    {
+      "id": "pe2:41.5",
+      "pali": "Aññatarā uttari na samanupassanti."
+    },
+    {
+      "id": "pe2:41.6",
+      "pali": "Te tadevaṭṭhānaṁ mayā jarāmaraṇassa abhinivissa voharanti “idameva saccaṁ moghamaññan”ti."
+    },
+    {
+      "id": "pe2:41.7",
+      "pali": "Yathā bhagavā sakkassa devānamindassa bhāsitaṁ."
+    },
+    {
+      "id": "pe2:41.8",
+      "pali": "Yaṁ tattha yathābhūtaṁ ñāṇaṁ."
+    },
+    {
+      "id": "pe2:41.9",
+      "pali": "Idaṁ vuccati catutthaṁ tathāgatabalaṁ."
+    },
+    {
+      "id": "pe2:42.1",
+      "pali": "Tattha yaṁyeva dhātu seṭṭhanti taṁ taṁ kāyena ca vācāya ca ārambhanti cetasiko."
+    },
+    {
+      "id": "pe2:42.2",
+      "pali": "Ārambho cetanā kammaṁ kāyikā vācasikā ārambho cetasikattā kammantaraṁ tathāgato evaṁ pajānāti “iminā sattena evaṁ dhātukena evarūpaṁ kammaṁ kataṁ, taṁ atītamaddhānaṁ iminā hetunā tassa evarūpo vipāko vipaccati etarahi vipaccissati vā anāgatamaddhānan”ti."
+    },
+    {
+      "id": "pe2:42.3",
+      "pali": "Evaṁ paccuppannamaddhānaṁ pajānāti “ayaṁ puggalo evaṁdhātuko idaṁ kammaṁ karoti."
+    },
+    {
+      "id": "pe2:42.4",
+      "pali": "Taṇhāya ca diṭṭhiyā ca iminā hetunā na tassa vipāko diṭṭheyeva dhamme nibbattissati, upapajje vā”ti aparamhi vā pariyāye evaṁ pajānāti “ayaṁ puggalo evarūpaṁ kammaṁ karissati anāgatamaddhānaṁ, iminā hetunā tassa evarūpo vipāko nibbattissati, iminā hetunā yāni cattāri kammaṭṭhānāni idaṁ kammaṭṭhānaṁ paccuppannasukhaṁ āyatiṁ ca sukhavipākaṁ” …pe…"
+    },
+    {
+      "id": "pe2:42.5",
+      "pali": "iti ayaṁ atītānāgatapaccuppannānaṁ kammasamādānānaṁ hetuso ṭhānaso vipākavemattataṁ pajānāti uccāvacā hīnapaṇītatā, idaṁ vuccati kammavipākañāṇaṁ pañcamaṁ tathāgatabalaṁ."
+    },
+    {
+      "id": "pe2:43.1",
+      "pali": "Tathā sattā yaṁ vā kammasamādānaṁ samādiyantā tattha evaṁ pajānāti imassa puggalassa kammādhimuttassa rāgacaritassa nekkhammadhātūnaṁ pāripūriṁ gacchanti, tassa rāgānugate suññamānassa paṭhamaṁ jhānaṁ saṅkilissati, sace puna uttari vāyāmato jhānavodānagate mānase visesabhāgiyaṁ paṭipadaṁ anuyuñjiyati."
+    },
+    {
+      "id": "pe2:43.2",
+      "pali": "Tassa hi jhānabhāgiyaṁyeva paṭhamajjhāne ṭhitassa dutiyaṁ jhānaṁ vodānaṁ gacchati, tatiyañca jhānaṁ samāpajjitukāmassa somanassindriyaṁ cittaṁ pariyādāya tiṭṭhati, tassa sā pīti avisesabhāgiyaṁ tatiyaṁ jhānaṁ ādissa tiṭṭhati."
+    },
+    {
+      "id": "pe2:43.3",
+      "pali": "Sace tassa nissaraṇaṁ yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "pe2:43.4",
+      "pali": "Tathāgatassa catutthajjhānaṁ vodānaṁ gacchatiyeva, catutthassa jhānassa hānabhāgiyā dhammā, te ca dhammā yattha pajāyanti yehi catutthajjhānaṁ vodānaṁ dissati."
+    },
+    {
+      "id": "pe2:43.5",
+      "pali": "Evaṁ ajjhāsayasamāpattiyā yā catasso samāpattiyo tīṇi vimokkhamukhāni aṭṭha vimokkhajhānānīti cattāri jhānāni vimokkhāti."
+    },
+    {
+      "id": "pe2:43.6",
+      "pali": "Aṭṭha ca vimokkhā tīṇi ca vimokkhamukhāni."
+    },
+    {
+      "id": "pe2:43.7",
+      "pali": "Samādhīti cattāro samādhī—"
+    },
+    {
+      "id": "pe2:43.8",
+      "pali": "chandasamādhi vīriyasamādhi cittasamādhi vīmaṁsāsamādhīti."
+    },
+    {
+      "id": "pe2:43.9",
+      "pali": "Samāpattiyo catasso ajjhāsayasamāpattiyo iti imesaṁ jhānānaṁ vimokkhasamāpattīti evarūpo saṅkileso rāgacaritassa puggalassa."
+    },
+    {
+      "id": "pe2:43.10",
+      "pali": "Evaṁ dosacaritassa … mohacaritassa … rāgacaritassa puggalassa evarūpaṁ vodānaṁ iti yaṁ ettha ñāṇaṁ yathābhūtaṁ asādhāraṇaṁ sabbasattehi."
+    },
+    {
+      "id": "pe2:43.11",
+      "pali": "Idaṁ vuccati chaṭṭhaṁ tathāgatabalaṁ."
+    },
+    {
+      "id": "pe2:44.1",
+      "pali": "Tattha tathāgato evaṁ pajānāti lokikā dhammā lokuttarā dhammā bhāvanābhāgiyaṁ indriyaṁ nāmaṁ labhanti."
+    },
+    {
+      "id": "pe2:44.2",
+      "pali": "Ādhipateyyabhūmiṁ upādāya balaṁ nāmaṁ labhanti thāmagataṁ mano manindriyaṁ taṁ upādāya."
+    },
+    {
+      "id": "pe2:44.3",
+      "pali": "Vīriyaṁ nāmaṁ labhanti ārambhadhātuṁ upādāya."
+    },
+    {
+      "id": "pe2:44.4",
+      "pali": "Itissa deva evarūpaṁ ñāṇaṁ imehi ca dhammehi ime puggalā samannāgatātipi dhammadesanaṁ akāsi."
+    },
+    {
+      "id": "pe2:44.5",
+      "pali": "Ākārato ca vokārato ca āsayajjhāsayassa adhimuttisamannāgatānaṁ."
+    },
+    {
+      "id": "pe2:44.6",
+      "pali": "Idaṁ vuccati parasattānaṁ parapuggalānaṁ indriyabalavīriyavemattataṁ ñāṇaṁ sattamaṁ tathāgatabalaṁ."
+    },
+    {
+      "id": "pe2:45.1",
+      "pali": "Tattha ca tathāgato lokādīsu ca bhūmīsu saṁyojanānañca sekkhānaṁ dvīhi balehi gatiṁ pajānāti, pubbenivāsānussatiyā atīte saṁsāre etarahi ca paccuppanne dibbacakkhunā cutūpapātaṁ iti imāni dve balāni dibbacakkhuto abhinīhitāni."
+    },
+    {
+      "id": "pe2:45.2",
+      "pali": "So atītamaddhānaṁ dibbassa cakkhuno gocaro so etarahi sati gocaro iti attano ca paresaṁ ca pubbenivāsañāṇaṁ anekavidhaṁ nānappakārakaṁ paccuppannamaddhānaṁ dibbena cakkhunā imāni dve tathāgatabalāni, aṭṭhamaṁ pubbenivāso, navamaṁ dibbacakkhu."
+    },
+    {
+      "id": "pe2:46.1",
+      "pali": "Puna caparaṁ tathāgato ariyapuggalānaṁ jhānaṁ vodānaṁ nibbedhabhāgiyaṁ pajānāti ayaṁ puggalo iminā maggena imāya paṭipadāya āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sacchikatvā upasampajja viharatīti iti attano ca āsavānaṁ khayaṁ ñāṇaṁ diṭṭhekaṭṭhānaṁ catubhūmimupādāya yāva navannaṁ arahantānaṁ āsavakkhayo odhiso sekkhānaṁ anodhiso arahantānaṁ."
+    },
+    {
+      "id": "pe2:46.2",
+      "pali": "Tattha cetovimutti dvīhi āsavehi anāsavā kāmāsavena ca bhavāsavena ca, paññāvimutti dvīhi āsavehi anāsavā diṭṭhāsavena ca avijjāsavena ca, imāsaṁ dvinnaṁ vimuttīnaṁ yathābhūtaṁ ñāṇaṁ, idaṁ vuccati āsavakkhaye ñāṇaṁ."
+    },
+    {
+      "id": "pe2:46.3",
+      "pali": "Dasamaṁ tathāgatabalaṁ."
+    },
+    {
+      "id": "pe2:47.1",
+      "pali": "Imesu dasasu balesu ṭhito tathāgato pañcavidhaṁ sāsanaṁ deseti saṅkilesabhāgiyaṁ vāsanābhāgiyaṁ dassanabhāgiyaṁ bhāvanābhāgiyaṁ asekkhabhāgiyaṁ."
+    },
+    {
+      "id": "pe2:47.2",
+      "pali": "Tattha yo taṇhāsaṅkileso, imassa alobho nissaraṇaṁ."
+    },
+    {
+      "id": "pe2:47.3",
+      "pali": "Yo diṭṭhisaṅkileso, imassa amoho nissaraṇaṁ."
+    },
+    {
+      "id": "pe2:47.4",
+      "pali": "Yo duccaritasaṅkileso, imassa tīṇi kusalāni nissaraṇaṁ."
+    },
+    {
+      "id": "pe2:47.5",
+      "pali": "Kiṁ nidānaṁ?"
+    },
+    {
+      "id": "pe2:47.6",
+      "pali": "Tīṇi imāni manoduccaritāni—"
+    },
+    {
+      "id": "pe2:47.7",
+      "pali": "abhijjhā byāpādo micchādiṭṭhi."
+    },
+    {
+      "id": "pe2:47.8",
+      "pali": "Tattha abhijjhā manoduccaritaṁ kāyakammaṁ upaṭṭhapeti, adinnādānaṁ sabbañca tadupanibbaddhaṁ vācākammaṁ upaṭṭhapeti, musāvādañca sabbavitathaṁ sabbaṁ vācamabhāvaṁ sabbamakkhaṁ palāsaṁ abhijjhā akusalamūlanti, sucarite sucaritaṁ musāvādā adinnādānā abhijjhāya cetanā, tattha byāpādo manoduccaritaṁ kāyakammaṁ upaṭṭhapeti, pāṇātipātaṁ sabbañca metaṁ ākaḍḍhanaṁ parikaḍḍhanaṁ nibbaddhaṁ rocanaṁ vācākammaṁ upaṭṭhapeti, pisuṇavācaṁ pharusavācaṁ micchādiṭṭhi manoduccaritañca abhijjhaṁ byāpādaṁ micchādiṭṭhiṁ payojeti, tassa yo koci micchādiṭṭhi cāgo rāgajo vā dosajo vā sabbaso micchādiṭṭhi sambhūto iminā kāraṇena micchādiṭṭhiṁ upaṭṭhapeti, kāmesumicchācāraṁ vacīkammaṁ upaṭṭhapeti samphappalāpaṁ."
+    },
+    {
+      "id": "pe2:47.9",
+      "pali": "Imāni tīṇi duccaritāni akusalamūlāni."
+    },
+    {
+      "id": "pe2:48.1",
+      "pali": "Yā abhijjhā, so lobho."
+    },
+    {
+      "id": "pe2:48.2",
+      "pali": "Yo byāpādo, so doso."
+    },
+    {
+      "id": "pe2:48.3",
+      "pali": "Yā micchādiṭṭhi, so moho."
+    },
+    {
+      "id": "pe2:48.4",
+      "pali": "Tāni aṭṭha micchattāni upaṭṭhapenti."
+    },
+    {
+      "id": "pe2:48.5",
+      "pali": "Tesu gahitesu tīsu akusalamūlesu dasavidhaṁ akusalamūlaṁ pāripūriṁ gacchati, tassa tividhassa duccaritasaṅkilesassa vāsanābhāgiyañca suttaṁ nissaraṇaṁ."
+    },
+    {
+      "id": "pe2:48.6",
+      "pali": "Tattha yo bahusito niddeso yathā lobho doso mohopi, tattha asituṁ ettha lobho ussado tena kāraṇena tesu vā dhammesu lobho paññapiyati."
+    },
+    {
+      "id": "pe2:48.7",
+      "pali": "Tatthāyaṁ moho akusalaṁ moho ayaṁ avijjā, sā catubbidhā rūpe abhiniviṭṭhā, rūpaṁ attato samanupassati, avijjāgato rūpavantaṁ attānaṁ, attani vā rūpaṁ, rūpasmiṁ vā attānaṁ."
+    },
+    {
+      "id": "pe2:48.8",
+      "pali": "Tattha katamaṁ padaṁ sakkāyadiṭṭhiyā ucchedaṁ vadati “taṁ jīvaṁ taṁ sarīran”ti natthikadiṭṭhi adhiccasamuppannadiṭṭhi ca añño ca karoti, añño paṭisaṁvediyati."
+    },
+    {
+      "id": "pe2:48.9",
+      "pali": "Pacchimasaṭṭhikappānaṁ tīṇi padāni sakkāyadiṭṭhiyā sassataṁ bhajanti “aññaṁ jīvaṁ aññaṁ sarīran”ti akiriyañca taṁ dukkhamicchato ahetukā ca patanti anajjhābhāvo ca kammānaṁ sabbañca mānayi."
+    },
+    {
+      "id": "pe2:48.10",
+      "pali": "Tattha “idameva saccaṁ moghamaññan”ti saṁsārena suddhi ājīvakā chaḷāsīti paññapenti."
+    },
+    {
+      "id": "pe2:48.11",
+      "pali": "Yathārūpe sakkāyadiṭṭhiyā catuvatthukā, evaṁ pañcasu khandhesu vīsativatthukā sakkāyadiṭṭhiyā sassataṁ bhajati."
+    },
+    {
+      "id": "pe2:48.12",
+      "pali": "Aññājīvakā ca sassatavādike ca sīlabbataṁ bhajanti parāmasanti iminā bhavissāmi devo vā devaññataro vā, ayaṁ sīlabbataparāmāso."
+    },
+    {
+      "id": "pe2:48.13",
+      "pali": "Tattha sakkāyadiṭṭhiyā so rūpaṁ attato samanupassati, “taṁ jīvaṁ taṁ sarīram”iti taṁ kaṅkhati vicikicchati nādhimuccati nābhippasīdati pubbante aparante pubbantāparante …pe…"
+    },
+    {
+      "id": "pe2:48.14",
+      "pali": "iti vāsanābhāgiyesu ṭhitassa ayaṁ upakkileso."
+    },
+    {
+      "id": "pe2:49.1",
+      "pali": "Tattha saddhindriyena sabbaṁ vicikicchitaṁ pajahati, paññindriyena udayabbayaṁ passati, samādhindriyena cittaṁ ekodi karoti vīriyindriyena ārabhati."
+    },
+    {
+      "id": "pe2:49.2",
+      "pali": "So imehi pañcahi indriyehi saddhānusārī aveccappasāde nirato anantariyaṁ samādhiṁ uppādeti."
+    },
+    {
+      "id": "pe2:49.3",
+      "pali": "Indriyehi suddhehi dhammānusārī appaccayatāya anantariyaṁ samādhiṁ uppādeti."
+    },
+    {
+      "id": "pe2:49.4",
+      "pali": "So “idaṁ dukkhan”ti yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "pe2:49.5",
+      "pali": "Saccāni idaṁ dassanabhāgiyaṁ suttaṁ."
+    },
+    {
+      "id": "pe2:49.6",
+      "pali": "Tassa pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ tīṇi saṁyojanāni dassanapahātabbāni sabbena sabbaṁ pahīnāni dve puggalakatāni."
+    },
+    {
+      "id": "pe2:49.7",
+      "pali": "Tattha tīṇi akusalamūlāni bhāvanāpahātabbāni uparikkhittāni cha bhave nibbattenti."
+    },
+    {
+      "id": "pe2:49.8",
+      "pali": "Tattha tesu abhijjhāya ca byāpādesu tanukatesu cha bhavā parikkhayā mariyādaṁ gacchanti, dve bhavā avasiṭṭhā."
+    },
+    {
+      "id": "pe2:49.9",
+      "pali": "Tassa abhijjhā ca byāpādo ca sabbena sabbaṁ parikkhīṇā honti."
+    },
+    {
+      "id": "pe2:49.10",
+      "pali": "Eko bhavo avasiṭṭho hoti."
+    },
+    {
+      "id": "pe2:49.11",
+      "pali": "So ca mānavasena nibbatteti."
+    },
+    {
+      "id": "pe2:49.12",
+      "pali": "Kiñcāpi ettha aññepi cattāro kilesā rūparāgo bhavarāgo avijjā uddhaccaṁ ketusmimānabhūtā nappaṭibalā asmimānaṁ vinivattetuṁ, sabbepi te asmimānassa pahānaṁ ārabhate."
+    },
+    {
+      "id": "pe2:49.13",
+      "pali": "Khīṇesu na ca tesu idamuttaridassanabhūmiyaṁ pañcasu sekkhapuggalesu tīsu ca paṭippannakesu dvīsu ca phalaṭṭhesu bhāvanābhāgiyaṁ suttaṁ."
+    },
+    {
+      "id": "pe2:49.14",
+      "pali": "Taduttari asekkhabhāgiyasuttaṁ, katthaci bhūmi nipīḷiyati."
+    },
+    {
+      "id": "pe2:49.15",
+      "pali": "Idañca pañcamaṁ suttaṁ."
+    },
+    {
+      "id": "pe2:49.16",
+      "pali": "Tiṇṇaṁ puggalānaṁ desitaṁ puthujjanassa sekkhassa asekkhassa saṅkilesabhāgiyaṁ vāsanābhāgiyaṁ."
+    },
+    {
+      "id": "pe2:49.17",
+      "pali": "Puthujjanassa dassanabhāgiyaṁ."
+    },
+    {
+      "id": "pe2:49.18",
+      "pali": "Bhāvanābhāgiyaṁ pañcannaṁ sekkhānaṁ."
+    },
+    {
+      "id": "pe2:49.19",
+      "pali": "Yaṁ paṭhamaniddiṭṭhaṁ asekkhabhāgiyaṁ sabbesaṁ arahantānaṁ."
+    },
+    {
+      "id": "pe2:49.20",
+      "pali": "Sā pana pañcavidhā sattavīsaākāre pariyesitabbaṁ."
+    },
+    {
+      "id": "pe2:49.21",
+      "pali": "Etesu tassa gatīnaṁ tato uttari."
+    },
+    {
+      "id": "pe2:49.22",
+      "pali": "Tañca kho saṅkhepena paññāsāya ākārehi sampatati, ye paññāsa ākārā sāsane niddiṭṭhā, te saṅkhipiyantā dasahi ākārehi patanti."
+    },
+    {
+      "id": "pe2:49.23",
+      "pali": "Ye ariyasaccaṁ nikkhepena ṭhite saṅkhipiyattā aṭṭhasu ākāresu patanti."
+    },
+    {
+      "id": "pe2:49.24",
+      "pali": "Catūsu ca sādhāraṇesu suttesu yā hārasampātassa bhūmi, te saṅkhipiyantā pañcasu suttesu patanti."
+    },
+    {
+      "id": "pe2:49.25",
+      "pali": "Saṅkilesabhāgiye vāsanābhāgiye bhāvanābhāgiye nibbedhabhāgiye asekkhabhāgiye ca."
+    },
+    {
+      "id": "pe2:49.26",
+      "pali": "Te saṅkhipiyantā catūsu suttesu patanti."
+    },
+    {
+      "id": "pe2:49.27",
+      "pali": "Saṅkilesabhāgiye vāsanābhāgiye nibbedhabhāgiye asekkhabhāgiye ca."
+    },
+    {
+      "id": "pe2:49.28",
+      "pali": "Te saṅkhipiyamānā tīsu suttesu patanti, puthujjanabhāgiye sekkhabhāgiye asekkhabhāgiye ca."
+    },
+    {
+      "id": "pe2:49.29",
+      "pali": "Te saṅkhipiyantā dvīsu suttesu patanti nibbedhabhāgiye ca pubbayogabhāgiye ca."
+    },
+    {
+      "id": "pe2:49.30",
+      "pali": "Yathā vuttaṁ bhagavatā dve atthavase sampassamānā tathāgatā arahanto sammāsambuddhā dhammaṁ desenti suttaṁ geyyaṁ …pe…"
+    },
+    {
+      "id": "pe2:49.31",
+      "pali": "satthā pubbayogasamannāgate appakasirena maññamānā vasiyanti pubbayogā ca bhavissanti santānaṁ maññamānādharāya."
+    },
+    {
+      "id": "pe2:49.32",
+      "pali": "Tattha paññāvemattataṁ attano samanupassamānena aṭṭhavidhe suttasaṅkhepe, yattha yattha sakkoti, tattha tattha yojetabbaṁ."
+    },
+    {
+      "id": "pe2:49.33",
+      "pali": "Tattha tattha yojetvā suttassa attho niddisitabbo."
+    },
+    {
+      "id": "pe2:49.34",
+      "pali": "Na hi sati vedanā mano dhāretvā sakkā yena kenaci suttassa attho yathābhūtaṁ niddisituṁ."
+    },
+    {
+      "id": "pe2:50.1",
+      "pali": "Tattha purimakānaṁ suttānaṁ imā uddānagāthā"
+    },
+    {
+      "id": "pe2:51.1",
+      "pali": "Kāmandhā jālasañchannā,"
+    },
+    {
+      "id": "pe2:51.2",
+      "pali": "pañca nīvaraṇāni ca;"
+    },
+    {
+      "id": "pe2:51.3",
+      "pali": "Manopubbaṅgamā dhammā,"
+    },
+    {
+      "id": "pe2:51.4",
+      "pali": "mahānāmo ca sākiyo."
+    },
+    {
+      "id": "pe2:52.1",
+      "pali": "Uddhaṁ adho vippamutto,"
+    },
+    {
+      "id": "pe2:52.2",
+      "pali": "yañca sīlakimatthiyā;"
+    },
+    {
+      "id": "pe2:52.3",
+      "pali": "Yassa selūpamaṁ cittaṁ,"
+    },
+    {
+      "id": "pe2:52.4",
+      "pali": "upatissa pucchādikā."
+    },
+    {
+      "id": "pe2:53.1",
+      "pali": "Yassa kāyagatāsati,"
+    },
+    {
+      "id": "pe2:53.2",
+      "pali": "channaṁ tamoparāyaṇo;"
+    },
+    {
+      "id": "pe2:53.3",
+      "pali": "Na taṁ daḷhaṁ cetasikaṁ,"
+    },
+    {
+      "id": "pe2:53.4",
+      "pali": "ayaṁ lokotiādikaṁ."
+    },
+    {
+      "id": "pe2:54.1",
+      "pali": "Cattāro ceva puggalā,"
+    },
+    {
+      "id": "pe2:54.2",
+      "pali": "dadato puññaṁ pavaḍḍhitaṁ;"
+    },
+    {
+      "id": "pe2:54.3",
+      "pali": "Sotānugatadhammesu,"
+    },
+    {
+      "id": "pe2:54.4",
+      "pali": "imā tesaṁ uddānagāthā."
+    },
+    {
+      "id": "pe2:55.1",
+      "pali": "Tattha katamā āṇatti?"
+    },
+    {
+      "id": "pe2:56.1",
+      "pali": "“Sace bhāyatha dukkhassa,"
+    },
+    {
+      "id": "pe2:56.2",
+      "pali": "sace vo dukkhamappiyaṁ;"
+    },
+    {
+      "id": "pe2:56.3",
+      "pali": "Mākattha pāpakaṁ kammaṁ,"
+    },
+    {
+      "id": "pe2:56.4",
+      "pali": "āvi vā yadi vā raho”."
+    },
+    {
+      "id": "pe2:57.1",
+      "pali": "“Atīte, rādha, rūpe anapekkho hohī”ti vitthārena kātabbā."
+    },
+    {
+      "id": "pe2:57.2",
+      "pali": "“Sīlavantena, ānanda, puggalena sadā karaṇīyā kintime avippaṭisāro assā”ti."
+    },
+    {
+      "id": "pe2:57.3",
+      "pali": "Ayaṁ vuccati āṇatti."
+    },
+    {
+      "id": "pe2:58.1",
+      "pali": "Tattha katamaṁ phalaṁ?"
+    },
+    {
+      "id": "pe2:59.1",
+      "pali": "“Dhammo have rakkhati dhammacāriṁ,"
+    },
+    {
+      "id": "pe2:59.2",
+      "pali": "Chattaṁ mahantaṁ yatha vassakāle;"
+    },
+    {
+      "id": "pe2:59.3",
+      "pali": "Esānisaṁso dhamme suciṇṇe,"
+    },
+    {
+      "id": "pe2:59.4",
+      "pali": "Na duggatiṁ gacchati dhammacārī”."
+    },
+    {
+      "id": "pe2:60.1",
+      "pali": "Idaṁ phalaṁ."
+    },
+    {
+      "id": "pe2:61.1",
+      "pali": "Tattha katamo upāyo?"
+    },
+    {
+      "id": "pe2:62.1",
+      "pali": "“Sabbe dhammā anattāti,"
+    },
+    {
+      "id": "pe2:62.2",
+      "pali": "yadā paññāya passati;"
+    },
+    {
+      "id": "pe2:62.3",
+      "pali": "Atha nibbindati dukkhe,"
+    },
+    {
+      "id": "pe2:62.4",
+      "pali": "esa maggo visuddhiyā”."
+    },
+    {
+      "id": "pe2:63.1",
+      "pali": "“Sattahaṅgehi samannāgato kho, bhikkhu, api himavantaṁ pabbatarājānaṁ cāleyya, ko pana vādo chavaṁ avijjaṁ sattakesu” veyyākaraṇaṁ kātabbaṁ."
+    },
+    {
+      "id": "pe2:63.2",
+      "pali": "Ayaṁ upāyo."
+    },
+    {
+      "id": "pe2:64.1",
+      "pali": "Tattha katamā āṇatti ca phalañca?"
+    },
+    {
+      "id": "pe2:65.1",
+      "pali": "Sace bhāyatha dukkhassa,"
+    },
+    {
+      "id": "pe2:65.2",
+      "pali": "sace vo dukkhamappiyaṁ;"
+    },
+    {
+      "id": "pe2:65.3",
+      "pali": "Mākattha pāpakaṁ kammaṁ,"
+    },
+    {
+      "id": "pe2:65.4",
+      "pali": "āvi vā yadi vā raho."
+    },
+    {
+      "id": "pe2:66.1",
+      "pali": "“Sace hi pāpakaṁ kammaṁ,"
+    },
+    {
+      "id": "pe2:66.2",
+      "pali": "karotha vā karissatha;"
+    },
+    {
+      "id": "pe2:66.3",
+      "pali": "Na vo dukkhā pamokkhātthi,"
+    },
+    {
+      "id": "pe2:66.4",
+      "pali": "upaccāpi palāyataṁ”."
+    },
+    {
+      "id": "pe2:67.1",
+      "pali": "Purimikāya gāthāya āṇatti pacchimikāya phalaṁ."
+    },
+    {
+      "id": "pe2:67.2",
+      "pali": "Sīle patiṭṭhāya dve dhammā bhāvetabbā yā ca cittabhāvanā yā ca paññābhāvanā yā ca āṇatti rāgavirāgā ca phalaṁ."
+    },
+    {
+      "id": "pe2:68.1",
+      "pali": "Tattha katamaṁ phalañca upāyo ca?"
+    },
+    {
+      "id": "pe2:69.1",
+      "pali": "“Sīle patiṭṭhāya naro sapañño,"
+    },
+    {
+      "id": "pe2:69.2",
+      "pali": "Cittaṁ paññañca bhāvayaṁ;"
+    },
+    {
+      "id": "pe2:69.3",
+      "pali": "Ātāpī nipako bhikkhu,"
+    },
+    {
+      "id": "pe2:69.4",
+      "pali": "So imaṁ vijaṭaye jaṭaṁ”."
+    },
+    {
+      "id": "pe2:70.1",
+      "pali": "Purimikāya aḍḍhagāthāya upāyo, pacchimikāya aḍḍhagāthāya phalaṁ."
+    },
+    {
+      "id": "pe2:70.2",
+      "pali": "Nandiyo sakko isivutthapuririkāmaekarakkhe suttaṁ mūlato upādāya yāva chasu dhammesu."
+    },
+    {
+      "id": "pe2:70.3",
+      "pali": "Uttari pañcasu dhammesu yācayogo karaṇīyo, ayaṁ upāyo."
+    },
+    {
+      "id": "pe2:70.4",
+      "pali": "Asahagatassa kāmāsavāpi cittaṁ muccatīti."
+    },
+    {
+      "id": "pe2:70.5",
+      "pali": "Sabbāsu chasu tīsu."
+    },
+    {
+      "id": "pe2:70.6",
+      "pali": "Ayaṁ upāyo ca phalañca."
+    },
+    {
+      "id": "pe2:71.1",
+      "pali": "Tattha katamā āṇatti ca phalañca upāyo ca?"
+    },
+    {
+      "id": "pe2:72.1",
+      "pali": "“Suññato lokaṁ avekkhassu,"
+    },
+    {
+      "id": "pe2:72.2",
+      "pali": "mogharāja sadā sato;"
+    },
+    {
+      "id": "pe2:72.3",
+      "pali": "Attānudiṭṭhiṁ uhacca,"
+    },
+    {
+      "id": "pe2:72.4",
+      "pali": "evaṁ maccutaro siyā”."
+    },
+    {
+      "id": "pe2:73.1",
+      "pali": "“Suññato lokaṁ avekkhassu, mogharājā”ti āṇatti."
+    },
+    {
+      "id": "pe2:73.2",
+      "pali": "“Sadā sato”ti upāyo."
+    },
+    {
+      "id": "pe2:73.3",
+      "pali": "“Attānudiṭṭhiṁ uhacca, evaṁ maccutaro siyā”ti phalaṁ."
+    },
+    {
+      "id": "pe2:73.4",
+      "pali": "“Samādhiṁ, bhikkhave, bhāvetha, samāhito, bhikkhave, bhikkhu rūpaṁ aniccanti pajānāti."
+    },
+    {
+      "id": "pe2:73.5",
+      "pali": "Evaṁ passaṁ ariyasāvako parimuccati jātiyāpi …pe…"
+    },
+    {
+      "id": "pe2:73.6",
+      "pali": "upāyāsehipi idha tīṇipi”."
+    },
+    {
+      "id": "pe2:74.1",
+      "pali": "Tattha katamo assādo?"
+    },
+    {
+      "id": "pe2:75.1",
+      "pali": "Kāmaṁ kāmayamānassa, tassa cetaṁ samijjhati."
+    },
+    {
+      "id": "pe2:75.2",
+      "pali": "Ayaṁ assādo."
+    },
+    {
+      "id": "pe2:76.1",
+      "pali": "“Dhammacariyā samacariyā kusalacariyā hetūhi, brāhmaṇa, evam’idhekacce sattā kāyassa bhedā sugatiṁ saggaṁ lokaṁ upapajjanti”."
+    },
+    {
+      "id": "pe2:76.2",
+      "pali": "Ayaṁ assādo."
+    },
+    {
+      "id": "pe2:77.1",
+      "pali": "Tattha katamo ādīnavo?"
+    },
+    {
+      "id": "pe2:78.1",
+      "pali": "Kāmesu ve haññate sabbā mucceva—"
+    },
+    {
+      "id": "pe2:78.2",
+      "pali": "ayaṁ ādīnavo."
+    },
+    {
+      "id": "pe2:78.3",
+      "pali": "Pasenadisaṁyuttake sutte pabbatopamā—"
+    },
+    {
+      "id": "pe2:78.4",
+      "pali": "ayaṁ ādīnavo."
+    },
+    {
+      "id": "pe2:79.1",
+      "pali": "Tattha katamaṁ nissaraṇaṁ?"
+    },
+    {
+      "id": "pe2:80.1",
+      "pali": "“Yo kāme parivajjeti,"
+    },
+    {
+      "id": "pe2:80.2",
+      "pali": "sappasseva padā siro;"
+    },
+    {
+      "id": "pe2:80.3",
+      "pali": "Somaṁ visattikaṁ loke,"
+    },
+    {
+      "id": "pe2:80.4",
+      "pali": "sato samativattati”."
+    },
+    {
+      "id": "pe2:81.1",
+      "pali": "Saṁyuttake suttaṁ pāricchattako paṇḍupalāso sannipalāso—"
+    },
+    {
+      "id": "pe2:81.2",
+      "pali": "idaṁ nissaraṇaṁ."
+    },
+    {
+      "id": "pe2:82.1",
+      "pali": "Tattha katamo assādo ca ādīnavo ca?"
+    },
+    {
+      "id": "pe2:83.1",
+      "pali": "“Yāni karoti puriso,"
+    },
+    {
+      "id": "pe2:83.2",
+      "pali": "tāni attani passati;"
+    },
+    {
+      "id": "pe2:83.3",
+      "pali": "Kalyāṇakārī kalyāṇaṁ,"
+    },
+    {
+      "id": "pe2:83.4",
+      "pali": "pāpakārī ca pāpakaṁ”."
+    },
+    {
+      "id": "pe2:84.1",
+      "pali": "Tattha yaṁ pāpakārī paccanubhoti ayaṁ assādo."
+    },
+    {
+      "id": "pe2:84.2",
+      "pali": "Lābhālābhaaṭṭhakesu byākaraṇaṁ, tattha alābho ayaso nindā dukkhaṁ, ayaṁ ādīnavo."
+    },
+    {
+      "id": "pe2:84.3",
+      "pali": "Lābho yaso sukhaṁ pasaṁsā, ayaṁ assādo."
+    },
+    {
+      "id": "pe2:85.1",
+      "pali": "Tattha katamaṁ assādo ca nissaraṇañca?"
+    },
+    {
+      "id": "pe2:86.1",
+      "pali": "“Sukho vipāko puññānaṁ,"
+    },
+    {
+      "id": "pe2:86.2",
+      "pali": "adhippāyo ca ijjhati;"
+    },
+    {
+      "id": "pe2:86.3",
+      "pali": "Khippañca paramaṁ santiṁ,"
+    },
+    {
+      "id": "pe2:86.4",
+      "pali": "nibbānamadhigacchatī”ti."
+    },
+    {
+      "id": "pe2:87.1",
+      "pali": "Yo ca vipāko puññānaṁ yā ca adhippāyassa ijjhanā, ayaṁ assādo."
+    },
+    {
+      "id": "pe2:87.2",
+      "pali": "Yaṁ khippañca paramaṁ santiṁ nibbānamadhigacchati, idaṁ nissaraṇaṁ."
+    },
+    {
+      "id": "pe2:88.1",
+      "pali": "Bāttiṁsāya ceva mahāpurisalakkhaṇehi samannāgatassa mahāpurisassa dveyeva gatiyo honti, sace agāraṁ ajjhāvasati, rājā hoti cakkavattī yāva abhivijinitvā ajjhāvasati ayaṁ assādo."
+    },
+    {
+      "id": "pe2:88.2",
+      "pali": "Sace agārasmā anagāriyaṁ pabbajati sabbena oghena nissaraṇaṁ ayaṁ assādo ca nissaraṇañca."
+    },
+    {
+      "id": "pe2:89.1",
+      "pali": "Tattha katamo ādīnavo ca nissaraṇañca?"
+    },
+    {
+      "id": "pe2:90.1",
+      "pali": "“Ādānassa bhayaṁ ñatvā,"
+    },
+    {
+      "id": "pe2:90.2",
+      "pali": "Jātimaraṇasambhavaṁ;"
+    },
+    {
+      "id": "pe2:90.3",
+      "pali": "Anādātuṁ nibbattati,"
+    },
+    {
+      "id": "pe2:90.4",
+      "pali": "Jātimaraṇasaṅkhayā”."
+    },
+    {
+      "id": "pe2:91.1",
+      "pali": "Purimikāya aḍḍhagāthāya jātimaraṇasambhavo ādīnavo."
+    },
+    {
+      "id": "pe2:91.2",
+      "pali": "Anādātuṁ nibbattati jātimaraṇasaṅkhayāti nissaraṇaṁ."
+    },
+    {
+      "id": "pe2:92.1",
+      "pali": "Kicchaṁ vatāyaṁ loko āpanno yamidaṁ jāyate ca mīyate ca."
+    },
+    {
+      "id": "pe2:92.2",
+      "pali": "Yāva kudassunāmassa dukkhassa anto bhavissati parato vāti ettha yā uparikkhā, ayaṁ ādīnavo."
+    },
+    {
+      "id": "pe2:92.3",
+      "pali": "Yo gedhaṁ ñatvā abhinikkhamati yāva purāṇakāya rājadhāniyā, idaṁ nissaraṇaṁ."
+    },
+    {
+      "id": "pe2:92.4",
+      "pali": "Ayaṁ ādīnavo ca nissaraṇañca."
+    },
+    {
+      "id": "pe2:93.1",
+      "pali": "Tattha katamo assādo ca ādīnavo ca nissaraṇañca?"
+    },
+    {
+      "id": "pe2:94.1",
+      "pali": "“Kāmā hi citrā vividhā manoramā,"
+    },
+    {
+      "id": "pe2:94.2",
+      "pali": "Virūparūpehi mathenti cittaṁ;"
+    },
+    {
+      "id": "pe2:94.3",
+      "pali": "Tasmā ahaṁ pabbajitomhi rāja,"
+    },
+    {
+      "id": "pe2:94.4",
+      "pali": "Apaṇṇakaṁ sāmaññameva seyyo”."
+    },
+    {
+      "id": "pe2:95.1",
+      "pali": "Yaṁ “kāmā hi citrā vividhā manoramā”ti ayaṁ assādo."
+    },
+    {
+      "id": "pe2:95.2",
+      "pali": "Yaṁ “virūparūpehi mathenti cittan”ti ayaṁ ādīnavo."
+    },
+    {
+      "id": "pe2:95.3",
+      "pali": "Yaṁ ahaṁ agārasmā pabbajitomhi rāja apaṇṇakaṁ sāmaññameva seyyoti idaṁ nissaraṇaṁ."
+    },
+    {
+      "id": "pe2:96.1",
+      "pali": "Balavaṁ bālopamasuttaṁ yaṁ āsāya vā vedanīyaṁ kammaṁ gāhati, tathā cepi yaṁ yaṁ pāpakammaṁ anubhoti, tattha dukkhavedanīyena kammena abhāvitakāyena ca yāva parittacetaso ca ādīnavaṁ dasseti sukhavedanīyena kammena assādeti."
+    },
+    {
+      "id": "pe2:96.2",
+      "pali": "Yaṁ purāsadiso hoti."
+    },
+    {
+      "id": "pe2:96.3",
+      "pali": "Bhāvitacitto bhāvitakāyo bhāvitapañño mahānāmo aparittacetaso, idaṁ nissaraṇaṁ."
+    },
+    {
+      "id": "pe2:97.1",
+      "pali": "Tattha katamaṁ lokikaṁ suttaṁ?"
+    },
+    {
+      "id": "pe2:98.1",
+      "pali": "“Na hi pāpaṁ kataṁ kammaṁ,"
+    },
+    {
+      "id": "pe2:98.2",
+      "pali": "Sajjukhīraṁva muccati;"
+    },
+    {
+      "id": "pe2:98.3",
+      "pali": "Ḍahantaṁ bālamanveti,"
+    },
+    {
+      "id": "pe2:98.4",
+      "pali": "Bhasmacchannova pāvako”."
+    },
+    {
+      "id": "pe2:99.1",
+      "pali": "Cattāri agatigamanāni, idaṁ lokikaṁ suttaṁ."
+    },
+    {
+      "id": "pe2:100.1",
+      "pali": "Tattha katamaṁ lokuttaraṁ suttaṁ?"
+    },
+    {
+      "id": "pe2:101.1",
+      "pali": "“Yassindriyāni samathaṅgatāni,"
+    },
+    {
+      "id": "pe2:101.2",
+      "pali": "Assā yathā sārathinā sudantā;"
+    },
+    {
+      "id": "pe2:101.3",
+      "pali": "Pahīnamānassa anāsavassa,"
+    },
+    {
+      "id": "pe2:101.4",
+      "pali": "Devāpi tassa pihayanti tādino”ti."
+    },
+    {
+      "id": "pe2:102.1",
+      "pali": "“Ariyaṁ vo, bhikkhave, sammāsamādhiṁ desessāmī”ti idaṁ lokuttaraṁ suttaṁ."
+    },
+    {
+      "id": "pe2:103.1",
+      "pali": "Tattha katamaṁ lokikaṁ lokuttarañca suttaṁ?"
+    },
+    {
+      "id": "pe2:104.1",
+      "pali": "“Sattiyā viya omaṭṭho,"
+    },
+    {
+      "id": "pe2:104.2",
+      "pali": "dayhamānova matthake;"
+    },
+    {
+      "id": "pe2:104.3",
+      "pali": "Kāmarāgappahānāya,"
+    },
+    {
+      "id": "pe2:104.4",
+      "pali": "sato bhikkhu paribbaje”."
+    },
+    {
+      "id": "pe2:105.1",
+      "pali": "“Sattiyā viya omaṭṭho,"
+    },
+    {
+      "id": "pe2:105.2",
+      "pali": "Dayhamānova matthake”ti lokikaṁ;"
+    },
+    {
+      "id": "pe2:105.3",
+      "pali": "“Kāmarāgappahānāya,"
+    },
+    {
+      "id": "pe2:105.4",
+      "pali": "Sato bhikkhu paribbaje”ti lokuttaraṁ."
+    },
+    {
+      "id": "pe2:106.1",
+      "pali": "Kabaḷīkāre āhāre atthi chandoti lokikaṁ."
+    },
+    {
+      "id": "pe2:106.2",
+      "pali": "Natthi chandoti lokuttaraṁ suttaṁ."
+    },
+    {
+      "id": "pe2:107.1",
+      "pali": "Tattha katamaṁ kammaṁ?"
+    },
+    {
+      "id": "pe2:108.1",
+      "pali": "“Yo pāṇamatipāteti,"
+    },
+    {
+      "id": "pe2:108.2",
+      "pali": "musāvādañca bhāsati;"
+    },
+    {
+      "id": "pe2:108.3",
+      "pali": "Loke adinnaṁ ādiyati,"
+    },
+    {
+      "id": "pe2:108.4",
+      "pali": "paradārañca gacchati."
+    },
+    {
+      "id": "pe2:109.1",
+      "pali": "Surāmerayapānañca,"
+    },
+    {
+      "id": "pe2:109.2",
+      "pali": "yo naro anuyuñjati;"
+    },
+    {
+      "id": "pe2:109.3",
+      "pali": "Appahāya pañca verāni,"
+    },
+    {
+      "id": "pe2:109.4",
+      "pali": "dussīlo iti vuccati”."
+    },
+    {
+      "id": "pe2:110.1",
+      "pali": "Tīṇimāni, bhikkhave, duccaritāni."
+    },
+    {
+      "id": "pe2:110.2",
+      "pali": "Idaṁ kammaṁ."
+    },
+    {
+      "id": "pe2:111.1",
+      "pali": "Tattha katamo vipāko?"
+    },
+    {
+      "id": "pe2:112.1",
+      "pali": "Saṭṭhivassasahassāni, yathārūpī vipaccagā."
+    },
+    {
+      "id": "pe2:113.1",
+      "pali": "“Diṭṭhā mayā, bhikkhave, cha phassāyatanikā nāma nirayā."
+    },
+    {
+      "id": "pe2:113.2",
+      "pali": "Diṭṭhā mayā, bhikkhave, cha phassāyatanikā nāma saggā”."
+    },
+    {
+      "id": "pe2:113.3",
+      "pali": "Ayaṁ vipāko."
+    },
+    {
+      "id": "pe2:114.1",
+      "pali": "Tattha katamaṁ kammañca vipāko ca?"
+    },
+    {
+      "id": "pe2:115.1",
+      "pali": "“Ayasāva malaṁ samuṭṭhitaṁ,"
+    },
+    {
+      "id": "pe2:115.2",
+      "pali": "Tatuṭṭhāya tameva khādati;"
+    },
+    {
+      "id": "pe2:115.3",
+      "pali": "Evaṁ atidhonacārinaṁ,"
+    },
+    {
+      "id": "pe2:115.4",
+      "pali": "Sāni kammāni nayanti duggatiṁ”."
+    },
+    {
+      "id": "pe2:116.1",
+      "pali": "Ayasāva malaṁ samuṭṭhitaṁ, yāva sāni kammānīti idaṁ kammaṁ."
+    },
+    {
+      "id": "pe2:116.2",
+      "pali": "Nayanti duggatinti vipāko."
+    },
+    {
+      "id": "pe2:117.1",
+      "pali": "Catūsu sammāpaṭipajjamāno mātari pitari tathāgate tathāgatasāvake yā sammāpaṭipatti, idaṁ kammaṁ."
+    },
+    {
+      "id": "pe2:117.2",
+      "pali": "Yaṁ devesu upapajjati, ayaṁ vipāko."
+    },
+    {
+      "id": "pe2:117.3",
+      "pali": "Idaṁ kammañca vipāko ca."
+    },
+    {
+      "id": "pe2:118.1",
+      "pali": "Tattha katamaṁ niddiṭṭhaṁ suttaṁ?"
+    },
+    {
+      "id": "pe2:119.1",
+      "pali": "“Nelaṅgo setapacchādo,"
+    },
+    {
+      "id": "pe2:119.2",
+      "pali": "ekāro vattatī ratho;"
+    },
+    {
+      "id": "pe2:119.3",
+      "pali": "Anīghaṁ passa āyantaṁ,"
+    },
+    {
+      "id": "pe2:119.4",
+      "pali": "chinnasotaṁ abandhanaṁ;"
+    },
+    {
+      "id": "pe2:119.5",
+      "pali": "Yaṁ vā cittaṁ samaṇesu,"
+    },
+    {
+      "id": "pe2:119.6",
+      "pali": "cittāgahapati dissati”."
+    },
+    {
+      "id": "pe2:120.1",
+      "pali": "Evaṁ imāya gāthāya niddiṭṭho attho."
+    },
+    {
+      "id": "pe2:121.1",
+      "pali": "Gopālakopame ekādasa padāni."
+    },
+    {
+      "id": "pe2:121.2",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu rūpaññū hoti."
+    },
+    {
+      "id": "pe2:121.3",
+      "pali": "Yā ca atirekapūjāya pūjetā hotīti."
+    },
+    {
+      "id": "pe2:121.4",
+      "pali": "Imāni ekādasa padāni yathābhāsitāni niddiṭṭho attho."
+    },
+    {
+      "id": "pe2:122.1",
+      "pali": "Tattha katamo aniddiṭṭho attho?"
+    },
+    {
+      "id": "pe2:123.1",
+      "pali": "“Sukho viveko tuṭṭhassa,"
+    },
+    {
+      "id": "pe2:123.2",
+      "pali": "sutadhammassa passato;"
+    },
+    {
+      "id": "pe2:123.3",
+      "pali": "Abyāpajjaṁ sukhaṁ loke,"
+    },
+    {
+      "id": "pe2:123.4",
+      "pali": "pāṇabhūtesu saṁyamoti."
+    },
+    {
+      "id": "pe2:124.1",
+      "pali": "Sukhā virāgatā loke,"
+    },
+    {
+      "id": "pe2:124.2",
+      "pali": "kāmānaṁ samatikkamo;"
+    },
+    {
+      "id": "pe2:124.3",
+      "pali": "Asmimānassa yo vinayo,"
+    },
+    {
+      "id": "pe2:124.4",
+      "pali": "etaṁ ve paramaṁ sukhanti”."
+    },
+    {
+      "id": "pe2:125.1",
+      "pali": "Idaṁ aniddiṭṭhaṁ."
+    },
+    {
+      "id": "pe2:125.2",
+      "pali": "Aṭṭha mahāpurisavitakkā."
+    },
+    {
+      "id": "pe2:125.3",
+      "pali": "Idaṁ aniddiṭṭhaṁ."
+    },
+    {
+      "id": "pe2:126.1",
+      "pali": "Tattha katamaṁ niddiṭṭhañca aniddiṭṭhañca?"
+    },
+    {
+      "id": "pe2:127.1",
+      "pali": "“Pasannanetto sumukho,"
+    },
+    {
+      "id": "pe2:127.2",
+      "pali": "brahā uju patāpavā;"
+    },
+    {
+      "id": "pe2:127.3",
+      "pali": "Majjhe samaṇasaṅghassa,"
+    },
+    {
+      "id": "pe2:127.4",
+      "pali": "ādiccova virocasi”."
+    },
+    {
+      "id": "pe2:128.1",
+      "pali": "Pasannanetto yāva ādiccova virocasīti niddiṭṭho."
+    },
+    {
+      "id": "pe2:128.2",
+      "pali": "Pasannanetto yo bhagavā kathañca pana pasannanettatā, kathaṁ sumukhatā, kathaṁ brahakāyatā, kathaṁ ujukatā, kathaṁ patāpavatā, kathaṁ virocatāti aniddiṭṭho."
+    },
+    {
+      "id": "pe2:128.3",
+      "pali": "Pheṇapiṇḍopamaṁ veyyākaraṇaṁ yathā pheṇapiṇḍo evaṁ rūpaṁ yathā pubbuḷo evaṁ vedanā māyā viññāṇaṁ pañcakkhandhā pañcahi upamāhi niddiṭṭhā."
+    },
+    {
+      "id": "pe2:128.4",
+      "pali": "Kena kāraṇena pheṇapiṇḍopamaṁ rūpaṁ sabbañca cakkhuviññeyyaṁ yaṁ vā catūhi āyatanehi?"
+    },
+    {
+      "id": "pe2:128.5",
+      "pali": "Kathaṁ vedanā pubbuḷūpamā?"
+    },
+    {
+      "id": "pe2:128.6",
+      "pali": "Katarā ca sā vedanā sukhā dukkhā adukkhamasukhā?"
+    },
+    {
+      "id": "pe2:128.7",
+      "pali": "Evamesā aniddiṭṭhā."
+    },
+    {
+      "id": "pe2:128.8",
+      "pali": "Evaṁ niddiṭṭhañca aniddiṭṭhañca."
+    },
+    {
+      "id": "pe2:129.1",
+      "pali": "Tattha katamaṁ ñāṇaṁ?"
+    },
+    {
+      "id": "pe2:130.1",
+      "pali": "“Paññā hi seṭṭhā lokasmiṁ,"
+    },
+    {
+      "id": "pe2:130.2",
+      "pali": "yāyaṁ nibbedhagāminī;"
+    },
+    {
+      "id": "pe2:130.3",
+      "pali": "Yāya sammā pajānāti,"
+    },
+    {
+      "id": "pe2:130.4",
+      "pali": "jātimaraṇasaṅkhayaṁ”."
+    },
+    {
+      "id": "pe2:131.1",
+      "pali": "Tīṇimāni indriyāni anaññātaññassāmītindriyaṁ aññindriyaṁ aññātāvindriyaṁ, idaṁ ñāṇaṁ."
+    },
+    {
+      "id": "pe2:132.1",
+      "pali": "Tattha katamaṁ neyyaṁ?"
+    },
+    {
+      "id": "pe2:133.1",
+      "pali": "“Kāmesu sattā kāmasaṅgasattā,"
+    },
+    {
+      "id": "pe2:133.2",
+      "pali": "Saṁyojane vajjamapassamānā;"
+    },
+    {
+      "id": "pe2:133.3",
+      "pali": "Na hi jātu saṁyojanasaṅgasattā,"
+    },
+    {
+      "id": "pe2:133.4",
+      "pali": "Oghaṁ tareyyuṁ vipulaṁ mahantaṁ”."
+    },
+    {
+      "id": "pe2:134.1",
+      "pali": "Catūhi aṅgehi samannāgatā kāyassa bhedā devesu uppajjanti."
+    },
+    {
+      "id": "pe2:134.2",
+      "pali": "Udāne kāpiyaṁ suttaṁ apaṇṇakapasādanīyaṁ—"
+    },
+    {
+      "id": "pe2:134.3",
+      "pali": "idaṁ neyyaṁ."
+    },
+    {
+      "id": "pe2:135.1",
+      "pali": "Tattha katamaṁ ñāṇañca neyyañca?"
+    },
+    {
+      "id": "pe2:136.1",
+      "pali": "“Sabbe dhammā anattāti,"
+    },
+    {
+      "id": "pe2:136.2",
+      "pali": "yadā paññāya passati;"
+    },
+    {
+      "id": "pe2:136.3",
+      "pali": "Atha nibbindati dukkhe,"
+    },
+    {
+      "id": "pe2:136.4",
+      "pali": "esa maggo visuddhiyā”."
+    },
+    {
+      "id": "pe2:137.1",
+      "pali": "Yadā passatīti ñāṇaṁ."
+    },
+    {
+      "id": "pe2:137.2",
+      "pali": "Yo sabbadhamme anattākārena upaṭṭhapeti idaṁ neyyaṁ."
+    },
+    {
+      "id": "pe2:138.1",
+      "pali": "Cattāri ariyasaccāni, tattha tīṇi neyyāni maggasaccaṁ sīlakkhandho ca paññākkhandho ca, idaṁ ñāṇañca neyyañca."
+    },
+    {
+      "id": "pe2:139.1",
+      "pali": "Tattha katamaṁ dassanaṁ?"
+    },
+    {
+      "id": "pe2:140.1",
+      "pali": "“Eseva maggo natthañño,"
+    },
+    {
+      "id": "pe2:140.2",
+      "pali": "Dassanassa visuddhiyā;"
+    },
+    {
+      "id": "pe2:140.3",
+      "pali": "Etañhi tumhe paṭipajjatha,"
+    },
+    {
+      "id": "pe2:140.4",
+      "pali": "Mārassetaṁ pamohanaṁ”."
+    },
+    {
+      "id": "pe2:141.1",
+      "pali": "Catūhi aṅgehi samannāgato ariyasāvako attanāva attānaṁ byākareyya “khīṇanirayomhi yāva sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇo”ti."
+    },
+    {
+      "id": "pe2:141.2",
+      "pali": "Idaṁ dassanaṁ."
+    },
+    {
+      "id": "pe2:142.1",
+      "pali": "Tattha katamā bhāvanā?"
+    },
+    {
+      "id": "pe2:143.1",
+      "pali": "“Yassindriyāni subhāvitāni,"
+    },
+    {
+      "id": "pe2:143.2",
+      "pali": "Ajjhattaṁ bahiddhā ca sabbaloke;"
+    },
+    {
+      "id": "pe2:143.3",
+      "pali": "So puggalo mati ca rūpasaññī,"
+    },
+    {
+      "id": "pe2:143.4",
+      "pali": "Sumohagatā na jānāti”."
+    },
+    {
+      "id": "pe2:144.1",
+      "pali": "Cattāri dhammapadāni—"
+    },
+    {
+      "id": "pe2:144.2",
+      "pali": "anabhijjhā abyāpādo sammāsati sammāsamādhi."
+    },
+    {
+      "id": "pe2:144.3",
+      "pali": "Ayaṁ bhāvanā."
+    },
+    {
+      "id": "pe2:145.1",
+      "pali": "Tattha katamaṁ dassanañca bhāvanā ca?"
+    },
+    {
+      "id": "pe2:146.1",
+      "pali": "“Vacasā manasātha kammunā ca,"
+    },
+    {
+      "id": "pe2:146.2",
+      "pali": "Aviruddho sammā viditvā dhammaṁ;"
+    },
+    {
+      "id": "pe2:146.3",
+      "pali": "Nibbānapadābhipatthayāno,"
+    },
+    {
+      "id": "pe2:146.4",
+      "pali": "Sammā so loke paribbajeyya”."
+    },
+    {
+      "id": "pe2:147.1",
+      "pali": "Sotāpattiphalaṁ sacchikātukāmena katame dhammā manasikātabbā, bhagavā āha pañcupādānakkhandhā."
+    },
+    {
+      "id": "pe2:147.2",
+      "pali": "Idaṁ dassanañca bhāvanā ca."
+    },
+    {
+      "id": "pe2:148.1",
+      "pali": "Tattha katame vipākadhammadhammā?"
+    },
+    {
+      "id": "pe2:149.1",
+      "pali": "Yāni karoti purisoti vitthāro."
+    },
+    {
+      "id": "pe2:149.2",
+      "pali": "Tīṇimāni, bhikkhave, sucaritāni."
+    },
+    {
+      "id": "pe2:149.3",
+      "pali": "Ime vipākadhammadhammā."
+    },
+    {
+      "id": "pe2:150.1",
+      "pali": "Tattha katame navipākadhammadhammā?"
+    },
+    {
+      "id": "pe2:151.1",
+      "pali": "“Rūpaṁ vedayitaṁ saññā,"
+    },
+    {
+      "id": "pe2:151.2",
+      "pali": "Viññāṇaṁ yā ceva cetanā;"
+    },
+    {
+      "id": "pe2:151.3",
+      "pali": "Nesohamasmi na meso attā,"
+    },
+    {
+      "id": "pe2:151.4",
+      "pali": "Iti diṭṭho virajjati”."
+    },
+    {
+      "id": "pe2:152.1",
+      "pali": "Pañcime, bhikkhave, khandhā—"
+    },
+    {
+      "id": "pe2:152.2",
+      "pali": "ime navipākadhammadhammā."
+    },
+    {
+      "id": "pe2:153.1",
+      "pali": "Tattha katamo nevavipāko navipākadhammadhammo?"
+    },
+    {
+      "id": "pe2:154.1",
+      "pali": "“Ye evaṁ paṭipajjanti,"
+    },
+    {
+      "id": "pe2:154.2",
+      "pali": "nayaṁ buddhena desitaṁ;"
+    },
+    {
+      "id": "pe2:154.3",
+      "pali": "Te dukkhassantaṁ karissanti,"
+    },
+    {
+      "id": "pe2:154.4",
+      "pali": "satthusāsanakārakā”ti."
+    },
+    {
+      "id": "pe2:155.1",
+      "pali": "Iti yā ca sammāpaṭipatti yo ca nirodho, ubhayametaṁ nevavipāko navipākadhammo."
+    },
+    {
+      "id": "pe2:155.2",
+      "pali": "Brahmacariyaṁ vo, bhikkhave, desessāmi, brahmacariyaphalāni ca brahmacariyañca ariyo aṭṭhaṅgiko maggo brahmacariyaphalāni sotāpattiphalaṁ yāva arahattaṁ."
+    },
+    {
+      "id": "pe2:156.1",
+      "pali": "Tattha katamaṁ sakavacanaṁ?"
+    },
+    {
+      "id": "pe2:157.1",
+      "pali": "“Sabbapāpassa akaraṇaṁ,"
+    },
+    {
+      "id": "pe2:157.2",
+      "pali": "kusalassa upasampadā;"
+    },
+    {
+      "id": "pe2:157.3",
+      "pali": "Sacittapariyodāpanaṁ,"
+    },
+    {
+      "id": "pe2:157.4",
+      "pali": "etaṁ buddhāna sāsanaṁ”."
+    },
+    {
+      "id": "pe2:158.1",
+      "pali": "Tīṇimāni, bhikkhave, vimokkhamukhāni."
+    },
+    {
+      "id": "pe2:158.2",
+      "pali": "Idaṁ sakavacanaṁ."
+    },
+    {
+      "id": "pe2:159.1",
+      "pali": "Tattha katamaṁ paravacanaṁ?"
+    },
+    {
+      "id": "pe2:160.1",
+      "pali": "“Natthi puttasamaṁ pemaṁ,"
+    },
+    {
+      "id": "pe2:160.2",
+      "pali": "Natthi goṇasamitaṁ dhanaṁ;"
+    },
+    {
+      "id": "pe2:160.3",
+      "pali": "Natthi sūriyasamā ābhā,"
+    },
+    {
+      "id": "pe2:160.4",
+      "pali": "Samuddaparamā sarā”."
+    },
+    {
+      "id": "pe2:161.1",
+      "pali": "Hetunā mārisā kosiyā subhāsitena saṅgāmavijayo sopi nāma, bhikkhave, sakko devānamindo sakaṁ phalaṁ paribhuñjamānoti vitthārena kātabbaṁ."
+    },
+    {
+      "id": "pe2:161.2",
+      "pali": "Idaṁ paravacanaṁ."
+    },
+    {
+      "id": "pe2:162.1",
+      "pali": "Tattha katamaṁ sakavacanañca paravacanañca?"
+    },
+    {
+      "id": "pe2:163.1",
+      "pali": "“Yaṁ pattaṁ yañca pattabbaṁ,"
+    },
+    {
+      "id": "pe2:163.2",
+      "pali": "Ubhayametaṁ rajānukiṇṇaṁ;"
+    },
+    {
+      "id": "pe2:163.3",
+      "pali": "Ye evaṁvādino natthi,"
+    },
+    {
+      "id": "pe2:163.4",
+      "pali": "Tesaṁ kāmesu doso”ti."
+    },
+    {
+      "id": "pe2:164.1",
+      "pali": "Idaṁ paravacanaṁ."
+    },
+    {
+      "id": "pe2:164.2",
+      "pali": "Ye ca kho te ubho ante anupagamma vaṭṭaṁ tesaṁ natthi paññāpanāya."
+    },
+    {
+      "id": "pe2:164.3",
+      "pali": "Idaṁ sakavacanaṁ."
+    },
+    {
+      "id": "pe2:165.1",
+      "pali": "“Nandati puttehi puttimā,"
+    },
+    {
+      "id": "pe2:165.2",
+      "pali": "Gomā gohi tatheva nandati;"
+    },
+    {
+      "id": "pe2:165.3",
+      "pali": "Upadhī hi narassa nandanā,"
+    },
+    {
+      "id": "pe2:165.4",
+      "pali": "Na hi so nandati yo nirūpadhī”ti—"
+    },
+    {
+      "id": "pe2:165.5",
+      "pali": "paravacanaṁ."
+    },
+    {
+      "id": "pe2:166.1",
+      "pali": "“Socati puttehi puttimā,"
+    },
+    {
+      "id": "pe2:166.2",
+      "pali": "Gomā gohi tatheva socati;"
+    },
+    {
+      "id": "pe2:166.3",
+      "pali": "Upadhī hi narassa socanā,"
+    },
+    {
+      "id": "pe2:166.4",
+      "pali": "Na hi so socati yo nirūpadhī”ti—"
+    },
+    {
+      "id": "pe2:166.5",
+      "pali": "sakavacanaṁ."
+    },
+    {
+      "id": "pe2:167.1",
+      "pali": "Idaṁ sakavacanaṁ paravacanañca."
+    },
+    {
+      "id": "pe2:168.1",
+      "pali": "Tattha katamaṁ sattādhiṭṭhānaṁ?"
+    },
+    {
+      "id": "pe2:169.1",
+      "pali": "“Ye keci bhūtā bhavissanti ye vāpi,"
+    },
+    {
+      "id": "pe2:169.2",
+      "pali": "Sabbe gamissanti pahāya dehaṁ;"
+    },
+    {
+      "id": "pe2:169.3",
+      "pali": "Taṁ sabbajāniṁ kusalo viditvā,"
+    },
+    {
+      "id": "pe2:169.4",
+      "pali": "Dhamme ṭhito brahmacariyaṁ careyya”."
+    },
+    {
+      "id": "pe2:170.1",
+      "pali": "Tayome, bhikkhave, satthāro, tathāgato arahaṁ sekkho paṭipado."
+    },
+    {
+      "id": "pe2:170.2",
+      "pali": "Idaṁ sattādhiṭṭhānaṁ."
+    },
+    {
+      "id": "pe2:171.1",
+      "pali": "Tattha katamaṁ dhammādhiṭṭhānaṁ?"
+    },
+    {
+      "id": "pe2:172.1",
+      "pali": "“Yañca kāmasukhaṁ loke,"
+    },
+    {
+      "id": "pe2:172.2",
+      "pali": "yañcidaṁ diviyaṁ sukhaṁ;"
+    },
+    {
+      "id": "pe2:172.3",
+      "pali": "Taṇhakkhayasukhassete,"
+    },
+    {
+      "id": "pe2:172.4",
+      "pali": "kalaṁ nāgghanti soḷasiṁ”."
+    },
+    {
+      "id": "pe2:173.1",
+      "pali": "Sattime, bhikkhave, bojjhaṅgā, idaṁ dhammādhiṭṭhānaṁ."
+    },
+    {
+      "id": "pe2:174.1",
+      "pali": "Tattha katamaṁ sattādhiṭṭhānañca dhammādhiṭṭhānañca?"
+    },
+    {
+      "id": "pe2:174.2",
+      "pali": "Duddasamantaṁ saccaṁ duddaso paṭivedho bālehi, jānato passato natthi nandīti vadāmi."
+    },
+    {
+      "id": "pe2:174.3",
+      "pali": "Duddasamantaṁ saccaṁ duddaso paṭivedho bālehīti dhammādhiṭṭhānaṁ."
+    },
+    {
+      "id": "pe2:174.4",
+      "pali": "Jānato passato natthi nandīti sattādhiṭṭhānaṁ."
+    },
+    {
+      "id": "pe2:174.5",
+      "pali": "Dārukkhandhopamaṁ gaṅgāya tīriyā orimañca tīraṁ pārimañca tīraṁ thale vā na ca ussīdanaṁ, majjhe ca na saṁsīdanaṁ manussaggāho ca amanussaggāho ca antopūtibhāvo ca, idaṁ dhammādhiṭṭhānaṁ."
+    },
+    {
+      "id": "pe2:174.6",
+      "pali": "Evaṁ pana bhikkhu nibbānaninno bhavissati nibbānaparāyaṇoti sattādhiṭṭhānaṁ."
+    },
+    {
+      "id": "pe2:174.7",
+      "pali": "Idaṁ sattādhiṭṭhānañca dhammādhiṭṭhānañca."
+    },
+    {
+      "id": "pe2:175.1",
+      "pali": "Tattha katamo thavo?"
+    },
+    {
+      "id": "pe2:176.1",
+      "pali": "“Maggānaṭṭhaṅgiko seṭṭho,"
+    },
+    {
+      "id": "pe2:176.2",
+      "pali": "saccānaṁ caturo padā;"
+    },
+    {
+      "id": "pe2:176.3",
+      "pali": "Virāgo seṭṭho dhammānaṁ,"
+    },
+    {
+      "id": "pe2:176.4",
+      "pali": "dvipadānañca cakkhumā”."
+    },
+    {
+      "id": "pe2:177.1",
+      "pali": "Tīṇimāni, bhikkhave, aggāni—"
+    },
+    {
+      "id": "pe2:177.2",
+      "pali": "buddho sattānaṁ, virāgo dhammānaṁ, saṅgho gaṇānaṁ."
+    },
+    {
+      "id": "pe2:177.3",
+      "pali": "Ayaṁ thavo."
+    },
+    {
+      "id": "pe2:178.1",
+      "pali": "Tattha katamaṁ anuññātaṁ?"
+    },
+    {
+      "id": "pe2:179.1",
+      "pali": "“Kāyena saṁvaro sādhu,"
+    },
+    {
+      "id": "pe2:179.2",
+      "pali": "sādhu vācāya saṁvaro;"
+    },
+    {
+      "id": "pe2:179.3",
+      "pali": "Manasā saṁvaro sādhu,"
+    },
+    {
+      "id": "pe2:179.4",
+      "pali": "sādhu sabbattha saṁvuto;"
+    },
+    {
+      "id": "pe2:179.5",
+      "pali": "Sabbattha saṁvuto bhikkhu,"
+    },
+    {
+      "id": "pe2:179.6",
+      "pali": "sabbadukkhā pamuccati”."
+    },
+    {
+      "id": "pe2:180.1",
+      "pali": "Idaṁ bhagavatā anuññātaṁ."
+    },
+    {
+      "id": "pe2:181.1",
+      "pali": "Tīṇimāni, bhikkhave, karaṇīyāni—"
+    },
+    {
+      "id": "pe2:181.2",
+      "pali": "kāyasucaritaṁ vacīsucaritaṁ manosucaritaṁ."
+    },
+    {
+      "id": "pe2:181.3",
+      "pali": "Idaṁ anuññātaṁ."
+    },
+    {
+      "id": "pe2:182.1",
+      "pali": "Tattha katamaṁ paṭikkhittaṁ?"
+    },
+    {
+      "id": "pe2:183.1",
+      "pali": "Natthi puttasamaṁ pemaṁ."
+    },
+    {
+      "id": "pe2:183.2",
+      "pali": "Vitthāro idaṁ paṭikkhittaṁ."
+    },
+    {
+      "id": "pe2:184.1",
+      "pali": "Tīṇimāni, bhikkhave, akaraṇīyāni sayaṁ abhiññāya desitāni."
+    },
+    {
+      "id": "pe2:184.2",
+      "pali": "Katamāni tīṇi?"
+    },
+    {
+      "id": "pe2:184.3",
+      "pali": "Kāyaduccaritaṁ vacīduccaritaṁ manoduccaritaṁ."
+    },
+    {
+      "id": "pe2:184.4",
+      "pali": "Idaṁ paṭikkhittaṁ."
+    },
+    {
+      "id": "pe2:185.1",
+      "pali": "Tattha katamaṁ anuññātañca paṭikkhittañca?"
+    },
+    {
+      "id": "pe2:186.1",
+      "pali": "“Kāyena kusalaṁ kare,"
+    },
+    {
+      "id": "pe2:186.2",
+      "pali": "assa kāyena saṁvuto;"
+    },
+    {
+      "id": "pe2:186.3",
+      "pali": "Kāyaduccaritaṁ hitvā,"
+    },
+    {
+      "id": "pe2:186.4",
+      "pali": "kāyasucaritaṁ care”."
+    },
+    {
+      "id": "pe2:187.1",
+      "pali": "Dvīhi paṭhamapadehi catutthena ca padena anujānāti."
+    },
+    {
+      "id": "pe2:187.2",
+      "pali": "Kāyaduccaritaṁ hitvāti tatiyena padena paṭikkhittanti."
+    },
+    {
+      "id": "pe2:187.3",
+      "pali": "Mahāvibhaṅgo aciratapānādo."
+    },
+    {
+      "id": "pe2:188.1",
+      "pali": "Tatthimā uddānagāthā"
+    },
+    {
+      "id": "pe2:189.1",
+      "pali": "Sace bhāyasi dukkhassa,"
+    },
+    {
+      "id": "pe2:189.2",
+      "pali": "mābhinandi anāgataṁ;"
+    },
+    {
+      "id": "pe2:189.3",
+      "pali": "Vassakāle yathā chattaṁ,"
+    },
+    {
+      "id": "pe2:189.4",
+      "pali": "kusalāni kamatthake."
+    },
+    {
+      "id": "pe2:190.1",
+      "pali": "Sabbe dhammā anattāti,"
+    },
+    {
+      "id": "pe2:190.2",
+      "pali": "samāgataṁ vicālaye;"
+    },
+    {
+      "id": "pe2:190.3",
+      "pali": "Na vo dukkhā pamokkhātthi,"
+    },
+    {
+      "id": "pe2:190.4",
+      "pali": "samatho ca vipassanā."
+    },
+    {
+      "id": "pe2:191.1",
+      "pali": "Kāmacchandaṁ upādāya,"
+    },
+    {
+      "id": "pe2:191.2",
+      "pali": "yo so vitakkehi khajjati;"
+    },
+    {
+      "id": "pe2:191.3",
+      "pali": "Subhāvitatte bojjhaṅge,"
+    },
+    {
+      "id": "pe2:191.4",
+      "pali": "so imaṁ vijaṭaye jaṭaṁ."
+    },
+    {
+      "id": "pe2:192.1",
+      "pali": "Suññato lokaṁ avekkhassu,"
+    },
+    {
+      "id": "pe2:192.2",
+      "pali": "samādhibhāvi bhāvase;"
+    },
+    {
+      "id": "pe2:192.3",
+      "pali": "Kāmaṁ kāmayamānassa,"
+    },
+    {
+      "id": "pe2:192.4",
+      "pali": "dhammacariyāya sugatiṁ."
+    },
+    {
+      "id": "pe2:193.1",
+      "pali": "Haññate sabbā mucceva,"
+    },
+    {
+      "id": "pe2:193.2",
+      "pali": "nippoṭhento catuddisā;"
+    },
+    {
+      "id": "pe2:193.3",
+      "pali": "Yo kāme parivajjeti,"
+    },
+    {
+      "id": "pe2:193.4",
+      "pali": "pārichattopameva ca."
+    },
+    {
+      "id": "pe2:194.1",
+      "pali": "Yāni karoti puriso,"
+    },
+    {
+      "id": "pe2:194.2",
+      "pali": "lokadhammā pakāsitā;"
+    },
+    {
+      "id": "pe2:194.3",
+      "pali": "Sukho vipāko puññānaṁ,"
+    },
+    {
+      "id": "pe2:194.4",
+      "pali": "tatiyaṁ aññaṁ na vijjati."
+    },
+    {
+      "id": "pe2:195.1",
+      "pali": "Ādānassa bhayaṁ ñatvā,"
+    },
+    {
+      "id": "pe2:195.2",
+      "pali": "jāyate jīyatepi ca;"
+    },
+    {
+      "id": "pe2:195.3",
+      "pali": "Kāmā hi citrā vividhā,"
+    },
+    {
+      "id": "pe2:195.4",
+      "pali": "atha loṇasallopamaṁ."
+    },
+    {
+      "id": "pe2:196.1",
+      "pali": "Na hi pāpaṁ kataṁ kammaṁ,"
+    },
+    {
+      "id": "pe2:196.2",
+      "pali": "Agatīhi ca gacchati;"
+    },
+    {
+      "id": "pe2:196.3",
+      "pali": "Yassindriyāni samathaṅgatāni,"
+    },
+    {
+      "id": "pe2:196.4",
+      "pali": "Tatheva pañcañāṇiko."
+    },
+    {
+      "id": "pe2:197.1",
+      "pali": "Sattiyā viya omaṭṭho,"
+    },
+    {
+      "id": "pe2:197.2",
+      "pali": "viññāṇañca patiṭṭhitā;"
+    },
+    {
+      "id": "pe2:197.3",
+      "pali": "Yo pāṇamatipāteti,"
+    },
+    {
+      "id": "pe2:197.4",
+      "pali": "tīṇi duccaritāni ca."
+    },
+    {
+      "id": "pe2:198.1",
+      "pali": "Saṭṭhivassasahassāni,"
+    },
+    {
+      "id": "pe2:198.2",
+      "pali": "Khaṇaṁ laddhāna dullabhaṁ;"
+    },
+    {
+      "id": "pe2:198.3",
+      "pali": "Ayasāva malaṁ samuṭṭhitaṁ,"
+    },
+    {
+      "id": "pe2:198.4",
+      "pali": "Catūsu paṭipattisu."
+    },
+    {
+      "id": "pe2:199.1",
+      "pali": "Nelaṅgo setapacchādo,"
+    },
+    {
+      "id": "pe2:199.2",
+      "pali": "atha gopālakopamaṁ;"
+    },
+    {
+      "id": "pe2:199.3",
+      "pali": "Sukho viveko tuṭṭhassa,"
+    },
+    {
+      "id": "pe2:199.4",
+      "pali": "vitakkā ca sudesitā."
+    },
+    {
+      "id": "pe2:200.1",
+      "pali": "Pheṇapiṇḍopamaṁ rūpaṁ,"
+    },
+    {
+      "id": "pe2:200.2",
+      "pali": "brahā uju patāpavā;"
+    },
+    {
+      "id": "pe2:200.3",
+      "pali": "Paññā hi seṭṭhā lokasmiṁ,"
+    },
+    {
+      "id": "pe2:200.4",
+      "pali": "anaññā tīṇi indriyāni."
+    },
+    {
+      "id": "pe2:201.1",
+      "pali": "Kāmesu sattā kāmasaṅgasattā,"
+    },
+    {
+      "id": "pe2:201.2",
+      "pali": "Atha vaṇṇo rahassavā;"
+    },
+    {
+      "id": "pe2:201.3",
+      "pali": "Sabbe dhammā anattāti,"
+    },
+    {
+      "id": "pe2:201.4",
+      "pali": "Ariyasaccañca desitaṁ."
+    },
+    {
+      "id": "pe2:202.1",
+      "pali": "Eseva maggo natthañño,"
+    },
+    {
+      "id": "pe2:202.2",
+      "pali": "Sotāpannoti byākare;"
+    },
+    {
+      "id": "pe2:202.3",
+      "pali": "Yassindriyāni subhāvitāni,"
+    },
+    {
+      "id": "pe2:202.4",
+      "pali": "Atha dhammapadehi ca."
+    },
+    {
+      "id": "pe2:203.1",
+      "pali": "Vacasā manasā ceva,"
+    },
+    {
+      "id": "pe2:203.2",
+      "pali": "pañcakkhandhā aniccato;"
+    },
+    {
+      "id": "pe2:203.3",
+      "pali": "Yāni karoti puriso,"
+    },
+    {
+      "id": "pe2:203.4",
+      "pali": "tīṇi sucaritāni ca."
+    },
+    {
+      "id": "pe2:204.1",
+      "pali": "Rūpaṁ vedayitaṁ saññā,"
+    },
+    {
+      "id": "pe2:204.2",
+      "pali": "pañcakkhandhā pakāsitā;"
+    },
+    {
+      "id": "pe2:204.3",
+      "pali": "Yo evaṁ paṭipajjati,"
+    },
+    {
+      "id": "pe2:204.4",
+      "pali": "brahmā ceva phalāni ca."
+    },
+    {
+      "id": "pe2:205.1",
+      "pali": "Sabbapāpassa akaraṇaṁ,"
+    },
+    {
+      "id": "pe2:205.2",
+      "pali": "vimokkhā taṁ hi desitā;"
+    },
+    {
+      "id": "pe2:205.3",
+      "pali": "Natthi puttasamaṁ pemaṁ,"
+    },
+    {
+      "id": "pe2:205.4",
+      "pali": "devānaṁ asurāna ca."
+    },
+    {
+      "id": "pe2:206.1",
+      "pali": "Yaṁ pattaṁ yañca pattabbaṁ,"
+    },
+    {
+      "id": "pe2:206.2",
+      "pali": "nandati socati niccaṁ;"
+    },
+    {
+      "id": "pe2:206.3",
+      "pali": "Ye keci bhūtā bhavissanti,"
+    },
+    {
+      "id": "pe2:206.4",
+      "pali": "satthāro ca pakāsitā."
+    },
+    {
+      "id": "pe2:207.1",
+      "pali": "Yañca kāmasukhaṁ loke,"
+    },
+    {
+      "id": "pe2:207.2",
+      "pali": "bojjhaṅgā ca sudesitā;"
+    },
+    {
+      "id": "pe2:207.3",
+      "pali": "Maggānaṭṭhaṅgiko seṭṭho,"
+    },
+    {
+      "id": "pe2:207.4",
+      "pali": "tayo ca aggapattiyo."
+    },
+    {
+      "id": "pe2:208.1",
+      "pali": "Kāyena saṁvaro sādhu,"
+    },
+    {
+      "id": "pe2:208.2",
+      "pali": "karaṇīyañca desitaṁ;"
+    },
+    {
+      "id": "pe2:208.3",
+      "pali": "Natthi attasamaṁ pemaṁ,"
+    },
+    {
+      "id": "pe2:208.4",
+      "pali": "ariyā tīṇi ca desitā."
+    },
+    {
+      "id": "pe2:209.1",
+      "pali": "Kāyena kusalaṁ abhirato,"
+    },
+    {
+      "id": "pe2:209.2",
+      "pali": "Vinayañca kāmasukhaṁ loke;"
+    },
+    {
+      "id": "pe2:209.3",
+      "pali": "Bojjhaṅgā ca sudesitā,"
+    },
+    {
+      "id": "pe2:209.4",
+      "pali": "Duddasaṁ anataṁ ceva parāparaṁ ca."
+    },
+    {
+      "id": "pe2:210.1",
+      "pali": "Peṭakopadese sāsanappaṭṭhānaṁ nāma dutiyabhūmi samattā."
+    }
+  ]
+}

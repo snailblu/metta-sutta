@@ -1,0 +1,1587 @@
+{
+  "uid": "ps2.6",
+  "title": "2.6. Paṭisambhidākathā",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "ps2.6:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "ps2.6:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye."
+    },
+    {
+      "id": "ps2.6:1.3",
+      "pali": "Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi—"
+    },
+    {
+      "id": "ps2.6:2.1",
+      "pali": "“Dveme, bhikkhave, antā pabbajitena na sevitabbā."
+    },
+    {
+      "id": "ps2.6:2.2",
+      "pali": "Katame dve?"
+    },
+    {
+      "id": "ps2.6:2.3",
+      "pali": "Yo cāyaṁ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṁhito;"
+    },
+    {
+      "id": "ps2.6:2.4",
+      "pali": "yo cāyaṁ attakilamathānuyogo dukkho anariyo anatthasaṁhito."
+    },
+    {
+      "id": "ps2.6:2.5",
+      "pali": "Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati."
+    },
+    {
+      "id": "ps2.6:3.1",
+      "pali": "Katamā ca sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?"
+    },
+    {
+      "id": "ps2.6:3.2",
+      "pali": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—"
+    },
+    {
+      "id": "ps2.6:3.3",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "ps2.6:3.4",
+      "pali": "Ayaṁ kho sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati."
+    },
+    {
+      "id": "ps2.6:4.1",
+      "pali": "Idaṁ kho pana, bhikkhave, dukkhaṁ ariyasaccaṁ."
+    },
+    {
+      "id": "ps2.6:4.2",
+      "pali": "Jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṁ, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṁ na labhati tampi dukkhaṁ;"
+    },
+    {
+      "id": "ps2.6:4.3",
+      "pali": "saṅkhittena pañcupādānakkhandhā dukkhā."
+    },
+    {
+      "id": "ps2.6:4.4",
+      "pali": "Idaṁ kho pana, bhikkhave, dukkhasamudayaṁ ariyasaccaṁ—"
+    },
+    {
+      "id": "ps2.6:4.5",
+      "pali": "yāyaṁ taṇhā ponobhavikā nandirāgasahagatā tatratatrābhinandinī, seyyathidaṁ—"
+    },
+    {
+      "id": "ps2.6:4.6",
+      "pali": "kāmataṇhā, bhavataṇhā, vibhavataṇhā."
+    },
+    {
+      "id": "ps2.6:4.7",
+      "pali": "Idaṁ kho pana, bhikkhave, dukkhanirodhaṁ ariyasaccaṁ—"
+    },
+    {
+      "id": "ps2.6:4.8",
+      "pali": "yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo."
+    },
+    {
+      "id": "ps2.6:4.9",
+      "pali": "Idaṁ kho pana, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṁ—"
+    },
+    {
+      "id": "ps2.6:4.10",
+      "pali": "ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—"
+    },
+    {
+      "id": "ps2.6:4.11",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "ps2.6:5.1",
+      "pali": "‘Idaṁ dukkhaṁ ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+    },
+    {
+      "id": "ps2.6:5.2",
+      "pali": "‘Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan’ti me, bhikkhave …pe…"
+    },
+    {
+      "id": "ps2.6:5.3",
+      "pali": "pariññātanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+    },
+    {
+      "id": "ps2.6:6.1",
+      "pali": "‘Idaṁ dukkhasamudayaṁ ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+    },
+    {
+      "id": "ps2.6:6.2",
+      "pali": "‘Taṁ kho panidaṁ dukkhasamudayaṁ ariyasaccaṁ pahātabban’ti me, bhikkhave …pe…"
+    },
+    {
+      "id": "ps2.6:6.3",
+      "pali": "pahīnanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+    },
+    {
+      "id": "ps2.6:7.1",
+      "pali": "‘Idaṁ dukkhanirodhaṁ ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+    },
+    {
+      "id": "ps2.6:7.2",
+      "pali": "‘Taṁ kho panidaṁ dukkhanirodhaṁ ariyasaccaṁ sacchikātabban’ti me, bhikkhave …pe…"
+    },
+    {
+      "id": "ps2.6:7.3",
+      "pali": "sacchikatanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+    },
+    {
+      "id": "ps2.6:8.1",
+      "pali": "‘Idaṁ dukkhanirodhagāminī paṭipadā ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+    },
+    {
+      "id": "ps2.6:8.2",
+      "pali": "‘Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabban’ti me, bhikkhave …pe…"
+    },
+    {
+      "id": "ps2.6:8.3",
+      "pali": "bhāvitanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+    },
+    {
+      "id": "ps2.6:9.1",
+      "pali": "Yāvakīvañca me, bhikkhave, imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ na suvisuddhaṁ ahosi, neva tāvāhaṁ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṁ sammāsambodhiṁ abhisambuddho’ti paccaññāsiṁ."
+    },
+    {
+      "id": "ps2.6:10.1",
+      "pali": "Yato ca kho me, bhikkhave, imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ suvisuddhaṁ ahosi, athāhaṁ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṁ sammāsambodhiṁ abhisambuddho’ti paccaññāsiṁ."
+    },
+    {
+      "id": "ps2.6:10.2",
+      "pali": "Ñāṇañca pana me dassanaṁ udapādi—"
+    },
+    {
+      "id": "ps2.6:10.3",
+      "pali": "‘akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavo’”ti."
+    },
+    {
+      "id": "ps2.6:11.1",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "ps2.6:11.2",
+      "pali": "Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "ps2.6:12.1",
+      "pali": "Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi—"
+    },
+    {
+      "id": "ps2.6:12.2",
+      "pali": "“yaṁ kiñci samudayadhammaṁ, sabbaṁ taṁ nirodhadhamman”ti."
+    },
+    {
+      "id": "ps2.6:13.1",
+      "pali": "Pavattite ca pana bhagavatā dhammacakke bhummā devā saddamanussāvesuṁ—"
+    },
+    {
+      "id": "ps2.6:13.2",
+      "pali": "“etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin”ti."
+    },
+    {
+      "id": "ps2.6:13.3",
+      "pali": "Bhummānaṁ devānaṁ saddaṁ sutvā cātumahārājikā devā saddamanussāvesuṁ …"
+    },
+    {
+      "id": "ps2.6:13.4",
+      "pali": "cātumahārājikānaṁ devānaṁ saddaṁ sutvā tāvatiṁsā devā …pe…"
+    },
+    {
+      "id": "ps2.6:13.5",
+      "pali": "yāmā devā …pe…"
+    },
+    {
+      "id": "ps2.6:13.6",
+      "pali": "tusitā devā …pe…"
+    },
+    {
+      "id": "ps2.6:13.7",
+      "pali": "nimmānaratī devā …pe…"
+    },
+    {
+      "id": "ps2.6:13.8",
+      "pali": "paranimmitavasavattī devā …pe…"
+    },
+    {
+      "id": "ps2.6:13.9",
+      "pali": "brahmakāyikā devā saddamanussāvesuṁ—"
+    },
+    {
+      "id": "ps2.6:13.10",
+      "pali": "“etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin”ti."
+    },
+    {
+      "id": "ps2.6:14.1",
+      "pali": "Itiha tena khaṇena tena layena tena muhuttena yāva brahmalokā saddo abbhuggacchi."
+    },
+    {
+      "id": "ps2.6:14.2",
+      "pali": "Ayañca dasasahassī lokadhātu saṅkampi sampakampi sampavedhi, appamāṇo ca uḷāro obhāso loke pāturahosi atikkamma devānaṁ devānubhāvanti."
+    },
+    {
+      "id": "ps2.6:15.1",
+      "pali": "Atha kho bhagavā imaṁ udānaṁ udānesi—"
+    },
+    {
+      "id": "ps2.6:15.2",
+      "pali": "“aññāsi vata bho koṇḍañño;"
+    },
+    {
+      "id": "ps2.6:15.3",
+      "pali": "aññāsi vata bho koṇḍañño”ti."
+    },
+    {
+      "id": "ps2.6:15.4",
+      "pali": "Iti hidaṁ āyasmato koṇḍaññassa “aññāsikoṇḍañño”tveva nāmaṁ ahosi."
+    },
+    {
+      "id": "ps2.6:16.1",
+      "pali": "“‘<b>Idaṁ dukkhaṁ ariyasaccan’</b>ti pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:17.1",
+      "pali": "Cakkhuṁ udapādīti—"
+    },
+    {
+      "id": "ps2.6:17.2",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:17.3",
+      "pali": "Ñāṇaṁ udapādīti—"
+    },
+    {
+      "id": "ps2.6:17.4",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:17.5",
+      "pali": "Paññā udapādīti—"
+    },
+    {
+      "id": "ps2.6:17.6",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:17.7",
+      "pali": "Vijjā udapādīti—"
+    },
+    {
+      "id": "ps2.6:17.8",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:17.9",
+      "pali": "Āloko udapādīti—"
+    },
+    {
+      "id": "ps2.6:17.10",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:17.11",
+      "pali": "<b>Cakkhuṁ udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:17.12",
+      "pali": "dassanaṭṭhena."
+    },
+    {
+      "id": "ps2.6:17.13",
+      "pali": "<b>Ñāṇaṁ udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:17.14",
+      "pali": "ñātaṭṭhena."
+    },
+    {
+      "id": "ps2.6:17.15",
+      "pali": "<b>Paññā udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:17.16",
+      "pali": "pajānanaṭṭhena."
+    },
+    {
+      "id": "ps2.6:17.17",
+      "pali": "<b>Vijjā udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:17.18",
+      "pali": "paṭivedhaṭṭhena."
+    },
+    {
+      "id": "ps2.6:17.19",
+      "pali": "<b>Āloko udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:17.20",
+      "pali": "obhāsaṭṭhena."
+    },
+    {
+      "id": "ps2.6:18.1",
+      "pali": "Cakkhuṁ dhammo, ñāṇaṁ dhammo, paññā dhammo, vijjā dhammo, āloko dhammo."
+    },
+    {
+      "id": "ps2.6:18.2",
+      "pali": "Ime pañca dhammā dhammapaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:18.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:18.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:18.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:18.6",
+      "pali": "“dhammesu ñāṇaṁ dhammapaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:19.1",
+      "pali": "Dassanaṭṭho attho, ñātaṭṭho attho, pajānanaṭṭho attho, paṭivedhaṭṭho attho, obhāsaṭṭho attho."
+    },
+    {
+      "id": "ps2.6:19.2",
+      "pali": "Ime pañca atthā atthapaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:19.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:19.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:19.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:19.6",
+      "pali": "“atthesu ñāṇaṁ atthapaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:20.1",
+      "pali": "Pañca dhamme sandassetuṁ byañjananiruttābhilāpā, pañca atthe sandassetuṁ byañjananiruttābhilāpā."
+    },
+    {
+      "id": "ps2.6:20.2",
+      "pali": "Imā dasa niruttiyo niruttipaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:20.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:20.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:20.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:20.6",
+      "pali": "“niruttīsu ñāṇaṁ niruttipaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:21.1",
+      "pali": "Pañcasu dhammesu ñāṇāni, pañcasu atthesu ñāṇāni, dasasu niruttīsu ñāṇāni."
+    },
+    {
+      "id": "ps2.6:21.2",
+      "pali": "Imāni vīsati ñāṇāni paṭibhānapaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:21.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:21.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:21.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:21.6",
+      "pali": "“paṭibhānesu ñāṇaṁ paṭibhānapaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:22.1",
+      "pali": "“‘Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan’ti …pe…"
+    },
+    {
+      "id": "ps2.6:22.2",
+      "pali": "pariññātanti pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:23.1",
+      "pali": "Cakkhuṁ udapādīti—"
+    },
+    {
+      "id": "ps2.6:23.2",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:23.3",
+      "pali": "Ñāṇaṁ udapādīti—"
+    },
+    {
+      "id": "ps2.6:23.4",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:23.5",
+      "pali": "Paññā udapādīti—"
+    },
+    {
+      "id": "ps2.6:23.6",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:23.7",
+      "pali": "Vijjā udapādīti—"
+    },
+    {
+      "id": "ps2.6:23.8",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:23.9",
+      "pali": "Āloko udapādīti—"
+    },
+    {
+      "id": "ps2.6:23.10",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:23.11",
+      "pali": "<b>Cakkhuṁ udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:23.12",
+      "pali": "dassanaṭṭhena."
+    },
+    {
+      "id": "ps2.6:23.13",
+      "pali": "<b>Ñāṇaṁ udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:23.14",
+      "pali": "ñātaṭṭhena."
+    },
+    {
+      "id": "ps2.6:23.15",
+      "pali": "<b>Paññā udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:23.16",
+      "pali": "pajānanaṭṭhena."
+    },
+    {
+      "id": "ps2.6:23.17",
+      "pali": "<b>Vijjā udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:23.18",
+      "pali": "paṭivedhaṭṭhena."
+    },
+    {
+      "id": "ps2.6:23.19",
+      "pali": "<b>Āloko udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:23.20",
+      "pali": "obhāsaṭṭhena."
+    },
+    {
+      "id": "ps2.6:24.1",
+      "pali": "Cakkhuṁ dhammo, ñāṇaṁ dhammo, paññā dhammo, vijjā dhammo, āloko dhammo."
+    },
+    {
+      "id": "ps2.6:24.2",
+      "pali": "Ime pañca dhammā dhammapaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:24.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:24.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:24.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:24.6",
+      "pali": "“dhammesu ñāṇaṁ dhammapaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:25.1",
+      "pali": "Dassanaṭṭho attho, ñātaṭṭho attho, pajānanaṭṭho attho, paṭivedhaṭṭho attho, obhāsaṭṭho attho."
+    },
+    {
+      "id": "ps2.6:25.2",
+      "pali": "Ime pañca atthā atthapaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:25.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:25.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:25.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:25.6",
+      "pali": "“atthesu ñāṇaṁ atthapaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:26.1",
+      "pali": "Pañca dhamme sandassetuṁ byañjananiruttābhilāpā, pañca atthe sandassetuṁ byañjananiruttābhilāpā."
+    },
+    {
+      "id": "ps2.6:26.2",
+      "pali": "Imā dasa niruttiyo niruttipaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:26.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:26.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:26.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:26.6",
+      "pali": "“niruttīsu ñāṇaṁ niruttipaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:27.1",
+      "pali": "Pañcasu dhammesu ñāṇāni, pañcasu atthesu ñāṇāni, dasasu niruttīsu ñāṇāni."
+    },
+    {
+      "id": "ps2.6:27.2",
+      "pali": "Imāni vīsati ñāṇāni paṭibhānapaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:27.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:27.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:27.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:27.6",
+      "pali": "“paṭibhānesu ñāṇaṁ paṭibhānapaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:28.1",
+      "pali": "Dukkhe ariyasacce pannarasa dhammā, pannarasa atthā, tiṁsa niruttiyo, saṭṭhi ñāṇāni."
+    },
+    {
+      "id": "ps2.6:29.1",
+      "pali": "“‘<b>Idaṁ dukkhasamudayaṁ ariyasaccan</b>’ti pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:29.2",
+      "pali": "āloko udapādi."
+    },
+    {
+      "id": "ps2.6:29.3",
+      "pali": "‘Taṁ kho panidaṁ dukkhasamudayaṁ ariyasaccaṁ pahātabban’ti …pe…"
+    },
+    {
+      "id": "ps2.6:29.4",
+      "pali": "pahīnanti pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:29.5",
+      "pali": "āloko udapādi …pe… ”."
+    },
+    {
+      "id": "ps2.6:30.1",
+      "pali": "Dukkhasamudaye ariyasacce pannarasa dhammā, pannarasa atthā, tiṁsa niruttiyo, saṭṭhi ñāṇāni."
+    },
+    {
+      "id": "ps2.6:31.1",
+      "pali": "“‘<b>Idaṁ dukkhanirodhaṁ ariyasaccan</b>’ti pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:31.2",
+      "pali": "āloko udapādi."
+    },
+    {
+      "id": "ps2.6:31.3",
+      "pali": "‘Taṁ kho panidaṁ dukkhanirodhaṁ ariyasaccaṁ sacchikātabban’ti …pe…"
+    },
+    {
+      "id": "ps2.6:31.4",
+      "pali": "sacchikatanti pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:31.5",
+      "pali": "āloko udapādi …pe… ”."
+    },
+    {
+      "id": "ps2.6:32.1",
+      "pali": "Dukkhanirodhe ariyasacce pannarasa dhammā, pannarasa atthā, tiṁsa niruttiyo, saṭṭhi ñāṇāni."
+    },
+    {
+      "id": "ps2.6:33.1",
+      "pali": "“‘<b>Idaṁ dukkhanirodhagāminī paṭipadā ariyasaccan</b>’ti pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:33.2",
+      "pali": "āloko udapādi."
+    },
+    {
+      "id": "ps2.6:33.3",
+      "pali": "‘Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabban’ti …pe…"
+    },
+    {
+      "id": "ps2.6:33.4",
+      "pali": "bhāvitanti pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:33.5",
+      "pali": "āloko udapādi …pe… ”."
+    },
+    {
+      "id": "ps2.6:34.1",
+      "pali": "Dukkhanirodhagāminiyā paṭipadāya ariyasacce pannarasa dhammā, pannarasa atthā, tiṁsa niruttiyo, saṭṭhi ñāṇāni."
+    },
+    {
+      "id": "ps2.6:35.1",
+      "pali": "Catūsu ariyasaccesu saṭṭhi dhammā, saṭṭhi atthā, vīsatisataniruttiyo, cattālīsañca dve ca ñāṇasatāni."
+    },
+    {
+      "id": "ps2.6:36.1",
+      "pali": "“‘Ayaṁ kāye kāyānupassanā’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:36.2",
+      "pali": "āloko udapādi."
+    },
+    {
+      "id": "ps2.6:36.3",
+      "pali": "Sā kho panāyaṁ kāye kāyānupassanā bhāvetabbāti me, bhikkhave …pe…"
+    },
+    {
+      "id": "ps2.6:36.4",
+      "pali": "bhāvitāti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:36.5",
+      "pali": "āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:37.1",
+      "pali": "“Ayaṁ vedanāsu …pe…"
+    },
+    {
+      "id": "ps2.6:37.2",
+      "pali": "ayaṁ citte …pe…"
+    },
+    {
+      "id": "ps2.6:37.3",
+      "pali": "ayaṁ dhammesu dhammānupassanāti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:37.4",
+      "pali": "āloko udapādi."
+    },
+    {
+      "id": "ps2.6:37.5",
+      "pali": "Sā kho panāyaṁ dhammesu dhammānupassanā bhāvetabbāti …pe…"
+    },
+    {
+      "id": "ps2.6:37.6",
+      "pali": "bhāvitāti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:37.7",
+      "pali": "āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:38.1",
+      "pali": "“‘<b>Ayaṁ kāye kāyānupassanā</b>’ti pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:38.2",
+      "pali": "āloko udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:38.3",
+      "pali": "sā kho panāyaṁ kāye kāyānupassanā bhāvetabbāti …pe…"
+    },
+    {
+      "id": "ps2.6:38.4",
+      "pali": "bhāvitāti pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:39.1",
+      "pali": "Cakkhuṁ udapādīti—"
+    },
+    {
+      "id": "ps2.6:39.2",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:39.3",
+      "pali": "Ñāṇaṁ udapādīti—"
+    },
+    {
+      "id": "ps2.6:39.4",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:39.5",
+      "pali": "Paññā udapādīti—"
+    },
+    {
+      "id": "ps2.6:39.6",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:39.7",
+      "pali": "Vijjā udapādīti—"
+    },
+    {
+      "id": "ps2.6:39.8",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:39.9",
+      "pali": "Āloko udapādīti—"
+    },
+    {
+      "id": "ps2.6:39.10",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:39.11",
+      "pali": "<b>Cakkhuṁ udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:39.12",
+      "pali": "dassanaṭṭhena."
+    },
+    {
+      "id": "ps2.6:39.13",
+      "pali": "<b>Ñāṇaṁ udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:39.14",
+      "pali": "ñātaṭṭhena."
+    },
+    {
+      "id": "ps2.6:39.15",
+      "pali": "<b>Paññā udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:39.16",
+      "pali": "pajānanaṭṭhena."
+    },
+    {
+      "id": "ps2.6:39.17",
+      "pali": "<b>Vijjā udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:39.18",
+      "pali": "paṭivedhaṭṭhena."
+    },
+    {
+      "id": "ps2.6:39.19",
+      "pali": "<b>Āloko udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:39.20",
+      "pali": "obhāsaṭṭhena."
+    },
+    {
+      "id": "ps2.6:40.1",
+      "pali": "Cakkhuṁ dhammo, ñāṇaṁ dhammo, paññā dhammo, vijjā dhammo, āloko dhammo."
+    },
+    {
+      "id": "ps2.6:40.2",
+      "pali": "Ime pañca dhammā dhammapaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:40.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:40.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:40.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:40.6",
+      "pali": "“dhammesu ñāṇaṁ dhammapaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:41.1",
+      "pali": "Dassanaṭṭho attho, ñātaṭṭho attho, pajānanaṭṭho attho, paṭivedhaṭṭho attho, obhāsaṭṭho attho."
+    },
+    {
+      "id": "ps2.6:41.2",
+      "pali": "Ime pañca atthā atthapaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:41.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:41.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:41.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:41.6",
+      "pali": "“atthesu ñāṇaṁ atthapaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:42.1",
+      "pali": "Pañca dhamme sandassetuṁ byañjananiruttābhilāpā, pañca atthe sandassetuṁ byañjananiruttābhilāpā."
+    },
+    {
+      "id": "ps2.6:42.2",
+      "pali": "Imā dasa niruttiyo niruttipaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:42.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:42.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:42.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:42.6",
+      "pali": "“niruttīsu ñāṇaṁ niruttipaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:43.1",
+      "pali": "Pañcasu dhammesu ñāṇāni, pañcasu atthesu ñāṇāni, dasasu niruttīsu ñāṇāni."
+    },
+    {
+      "id": "ps2.6:43.2",
+      "pali": "Imāni vīsati ñāṇāni paṭibhānapaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:43.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:43.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:43.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:43.6",
+      "pali": "“paṭibhānesu ñāṇaṁ paṭibhānapaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:44.1",
+      "pali": "Kāye kāyānupassanāsatipaṭṭhāne pannarasa dhammā, pannarasa atthā, tiṁsa niruttiyo, saṭṭhi ñāṇāni."
+    },
+    {
+      "id": "ps2.6:45.1",
+      "pali": "“<b>Ayaṁ vedanāsu</b> …pe…"
+    },
+    {
+      "id": "ps2.6:45.2",
+      "pali": "<b>ayaṁ citte</b> …pe…"
+    },
+    {
+      "id": "ps2.6:45.3",
+      "pali": "<b>ayaṁ dhammesu dhammānupassanā</b>ti pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:45.4",
+      "pali": "āloko udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:45.5",
+      "pali": "sā kho panāyaṁ dhammesu dhammānupassanā bhāvetabbāti …pe…"
+    },
+    {
+      "id": "ps2.6:45.6",
+      "pali": "bhāvitāti pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:45.7",
+      "pali": "āloko udapādi …pe… ”."
+    },
+    {
+      "id": "ps2.6:46.1",
+      "pali": "Dhammesu dhammānupassanā satipaṭṭhāne pannarasa dhammā, pannarasa atthā, tiṁsa niruttiyo, saṭṭhi ñāṇāni."
+    },
+    {
+      "id": "ps2.6:47.1",
+      "pali": "Catūsu satipaṭṭhānesu saṭṭhi dhammā, saṭṭhi atthā, vīsatisataniruttiyo, cattālīsañca dve ca ñāṇasatāni."
+    },
+    {
+      "id": "ps2.6:48.1",
+      "pali": "“Ayaṁ chandasamādhipadhānasaṅkhārasamannāgato iddhipādoti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:48.2",
+      "pali": "āloko udapādi."
+    },
+    {
+      "id": "ps2.6:48.3",
+      "pali": "So kho panāyaṁ chandasamādhipadhānasaṅkhārasamannāgato iddhipādo bhāvetabboti me, bhikkhave …pe…"
+    },
+    {
+      "id": "ps2.6:48.4",
+      "pali": "bhāvitoti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:48.5",
+      "pali": "āloko udapādi."
+    },
+    {
+      "id": "ps2.6:49.1",
+      "pali": "Ayaṁ vīriyasamādhi …pe…"
+    },
+    {
+      "id": "ps2.6:49.2",
+      "pali": "ayaṁ cittasamādhi …pe…"
+    },
+    {
+      "id": "ps2.6:49.3",
+      "pali": "ayaṁ vīmaṁsāsamādhipadhānasaṅkhārasamannāgato iddhipādoti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:49.4",
+      "pali": "āloko udapādi."
+    },
+    {
+      "id": "ps2.6:49.5",
+      "pali": "So kho panāyaṁ vīmaṁsāsamādhipadhānasaṅkhārasamannāgato iddhipādo bhāvetabboti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:49.6",
+      "pali": "āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:50.1",
+      "pali": "“‘Ayaṁ <b>chandasamādhipadhānasaṅkhārasamannāgato iddhipādo</b>’ti pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:50.2",
+      "pali": "āloko udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:50.3",
+      "pali": "so kho panāyaṁ chandasamādhipadhānasaṅkhārasamannāgato iddhipādo bhāvetabboti …pe…"
+    },
+    {
+      "id": "ps2.6:50.4",
+      "pali": "bhāvitoti pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:51.1",
+      "pali": "Cakkhuṁ udapādīti—"
+    },
+    {
+      "id": "ps2.6:51.2",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:51.3",
+      "pali": "Ñāṇaṁ udapādīti—"
+    },
+    {
+      "id": "ps2.6:51.4",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:51.5",
+      "pali": "Paññā udapādīti—"
+    },
+    {
+      "id": "ps2.6:51.6",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:51.7",
+      "pali": "Vijjā udapādīti—"
+    },
+    {
+      "id": "ps2.6:51.8",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:51.9",
+      "pali": "Āloko udapādīti—"
+    },
+    {
+      "id": "ps2.6:51.10",
+      "pali": "kenaṭṭhena?"
+    },
+    {
+      "id": "ps2.6:51.11",
+      "pali": "<b>Cakkhuṁ udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:51.12",
+      "pali": "dassanaṭṭhena."
+    },
+    {
+      "id": "ps2.6:51.13",
+      "pali": "<b>Ñāṇaṁ udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:51.14",
+      "pali": "ñātaṭṭhena."
+    },
+    {
+      "id": "ps2.6:51.15",
+      "pali": "<b>Paññā udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:51.16",
+      "pali": "pajānanaṭṭhena."
+    },
+    {
+      "id": "ps2.6:51.17",
+      "pali": "<b>Vijjā udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:51.18",
+      "pali": "paṭivedhaṭṭhena."
+    },
+    {
+      "id": "ps2.6:51.19",
+      "pali": "<b>Āloko udapādī</b>ti—"
+    },
+    {
+      "id": "ps2.6:51.20",
+      "pali": "obhāsaṭṭhena."
+    },
+    {
+      "id": "ps2.6:52.1",
+      "pali": "Cakkhuṁ dhammo, ñāṇaṁ dhammo, paññā dhammo, vijjā dhammo, āloko dhammo."
+    },
+    {
+      "id": "ps2.6:52.2",
+      "pali": "Ime pañca dhammā dhammapaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:52.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:52.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:52.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:52.6",
+      "pali": "“dhammesu ñāṇaṁ dhammapaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:53.1",
+      "pali": "Dassanaṭṭho attho, ñātaṭṭho attho, pajānanaṭṭho attho, paṭivedhaṭṭho attho, obhāsaṭṭho attho."
+    },
+    {
+      "id": "ps2.6:53.2",
+      "pali": "Ime pañca atthā atthapaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:53.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:53.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:53.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:53.6",
+      "pali": "“atthesu ñāṇaṁ atthapaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:54.1",
+      "pali": "Pañca dhamme sandassetuṁ byañjananiruttābhilāpā, pañca atthe sandassetuṁ byañjananiruttābhilāpā."
+    },
+    {
+      "id": "ps2.6:54.2",
+      "pali": "Imā dasa niruttiyo niruttipaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:54.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:54.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:54.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:54.6",
+      "pali": "“niruttīsu ñāṇaṁ niruttipaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:55.1",
+      "pali": "Pañcasu dhammesu ñāṇāni, pañcasu atthesu ñāṇāni, dasasu niruttīsu ñāṇāni."
+    },
+    {
+      "id": "ps2.6:55.2",
+      "pali": "Imāni vīsati ñāṇāni paṭibhānapaṭisambhidāya ārammaṇā ceva honti gocarā ca."
+    },
+    {
+      "id": "ps2.6:55.3",
+      "pali": "Ye tassā ārammaṇā te tassā gocarā."
+    },
+    {
+      "id": "ps2.6:55.4",
+      "pali": "Ye tassā gocarā te tassā ārammaṇā."
+    },
+    {
+      "id": "ps2.6:55.5",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps2.6:55.6",
+      "pali": "“paṭibhānesu ñāṇaṁ paṭibhānapaṭisambhidā”."
+    },
+    {
+      "id": "ps2.6:56.1",
+      "pali": "Chandasamādhipadhānasaṅkhārasamannāgate iddhipāde pannarasa dhammā, pannarasa atthā, tiṁsa niruttiyo, saṭṭhi ñāṇāni."
+    },
+    {
+      "id": "ps2.6:57.1",
+      "pali": "“Ayaṁ <b>vīriyasamādhi</b> …pe…"
+    },
+    {
+      "id": "ps2.6:57.2",
+      "pali": "ayaṁ <b>cittasamādhi</b> …pe…"
+    },
+    {
+      "id": "ps2.6:57.3",
+      "pali": "ayaṁ <b>vīmaṁsāsamādhipadhānasaṅkhārasamannāgato iddhipādo</b>ti pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:57.4",
+      "pali": "āloko udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:57.5",
+      "pali": "so kho panāyaṁ vīmaṁsāsamādhipadhānasaṅkhārasamannāgato iddhipādo bhāvetabboti …pe…"
+    },
+    {
+      "id": "ps2.6:57.6",
+      "pali": "bhāvitoti pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:57.7",
+      "pali": "āloko udapādi …pe… ”."
+    },
+    {
+      "id": "ps2.6:58.1",
+      "pali": "Vīmaṁsāsamādhipadhānasaṅkhārasamannāgate iddhipāde pannarasa dhammā, pannarasa atthā, tiṁsa niruttiyo, saṭṭhi ñāṇāni."
+    },
+    {
+      "id": "ps2.6:59.1",
+      "pali": "Catūsu iddhipādesu saṭṭhi dhammā, saṭṭhi atthā, vīsatisataniruttiyo, cattālīsañca dve ca ñāṇasatāni."
+    },
+    {
+      "id": "ps2.6:60.1",
+      "pali": "“‘Samudayo samudayo’ti kho, bhikkhave, vipassissa bodhisattassa pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:60.2",
+      "pali": "āloko udapādi."
+    },
+    {
+      "id": "ps2.6:60.3",
+      "pali": "‘Nirodho nirodho’ti kho, bhikkhave, vipassissa bodhisattassa pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:60.4",
+      "pali": "āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:60.5",
+      "pali": "Vipassissa bodhisattassa veyyākaraṇe dasa dhammā, dasa atthā, vīsati niruttiyo, cattālīsaṁ ñāṇāni."
+    },
+    {
+      "id": "ps2.6:61.1",
+      "pali": "“‘Samudayo samudayo’ti kho, bhikkhave, sikhissa bodhisattassa …pe…"
+    },
+    {
+      "id": "ps2.6:61.2",
+      "pali": "vessabhussa bodhisattassa …pe…"
+    },
+    {
+      "id": "ps2.6:61.3",
+      "pali": "kakusandhassa bodhisattassa …pe…"
+    },
+    {
+      "id": "ps2.6:61.4",
+      "pali": "koṇāgamanassa bodhisattassa …pe…"
+    },
+    {
+      "id": "ps2.6:61.5",
+      "pali": "kassapassa bodhisattassa pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:61.6",
+      "pali": "āloko udapādi."
+    },
+    {
+      "id": "ps2.6:61.7",
+      "pali": "‘Nirodho nirodho’ti kho, bhikkhave, kassapassa bodhisattassa pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:61.8",
+      "pali": "āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:61.9",
+      "pali": "Kassapassa bodhisattassa veyyākaraṇe dasa dhammā, dasa atthā, vīsati niruttiyo, cattālīsaṁ ñāṇāni."
+    },
+    {
+      "id": "ps2.6:62.1",
+      "pali": "“‘Samudayo samudayo’ti kho, bhikkhave, gotamassa bodhisattassa pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:62.2",
+      "pali": "āloko udapādi."
+    },
+    {
+      "id": "ps2.6:62.3",
+      "pali": "‘Nirodho nirodho’ti kho, bhikkhave, gotamassa bodhisattassa pubbe ananussutesu dhammesu cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:62.4",
+      "pali": "āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:62.5",
+      "pali": "Gotamassa bodhisattassa veyyākaraṇe dasa dhammā, dasa atthā, vīsati niruttiyo, cattālīsaṁ ñāṇāni."
+    },
+    {
+      "id": "ps2.6:63.1",
+      "pali": "Sattannaṁ bodhisattānaṁ sattasu veyyākaraṇesu sattati dhammā, sattati atthā, cattālīsasataṁ niruttiyo, asīti ca dve ca ñāṇasatāni."
+    },
+    {
+      "id": "ps2.6:64.1",
+      "pali": "“‘Yāvatā abhiññāya abhiññaṭṭho ñāto diṭṭho vidito sacchikato phassito paññāya."
+    },
+    {
+      "id": "ps2.6:64.2",
+      "pali": "Aphassito paññāya abhiññaṭṭho natthī’ti—"
+    },
+    {
+      "id": "ps2.6:64.3",
+      "pali": "cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:64.4",
+      "pali": "Abhiññāya abhiññaṭṭhe pañcavīsati dhammā, pañcavīsati atthā, paññāsaṁ niruttiyo, sataṁ ñāṇāni."
+    },
+    {
+      "id": "ps2.6:65.1",
+      "pali": "“‘Yāvatā pariññāya pariññaṭṭho …pe…"
+    },
+    {
+      "id": "ps2.6:65.2",
+      "pali": "yāvatā pahānassa pahānaṭṭho …pe…"
+    },
+    {
+      "id": "ps2.6:65.3",
+      "pali": "yāvatā bhāvanāya bhāvanaṭṭho …pe…"
+    },
+    {
+      "id": "ps2.6:65.4",
+      "pali": "yāvatā sacchikiriyāya sacchikiriyaṭṭho ñāto diṭṭho vidito sacchikato phassito paññāya."
+    },
+    {
+      "id": "ps2.6:65.5",
+      "pali": "Aphassito paññāya sacchikiriyaṭṭho natthī’ti—"
+    },
+    {
+      "id": "ps2.6:65.6",
+      "pali": "cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:65.7",
+      "pali": "Sacchikiriyāya sacchikiriyaṭṭhe pañcavīsati dhammā, pañcavīsati atthā, paññāsaṁ niruttiyo, sataṁ ñāṇāni."
+    },
+    {
+      "id": "ps2.6:66.1",
+      "pali": "Abhiññāya abhiññaṭṭhe, pariññāya pariññaṭṭhe, pahānāya pahānaṭṭhe, bhāvanāya bhāvanaṭṭhe, sacchikiriyāya sacchikiriyaṭṭhe pañcavīsasataṁ dhammā, pañcavīsasataṁ atthā, aḍḍhateyyāni niruttisatāni, pañca ñāṇasatāni."
+    },
+    {
+      "id": "ps2.6:67.1",
+      "pali": "“‘Yāvatā khandhānaṁ khandhaṭṭho, ñāto diṭṭho vidito sacchikato phassito paññāya."
+    },
+    {
+      "id": "ps2.6:67.2",
+      "pali": "Aphassito paññāya khandhaṭṭho natthī’ti—"
+    },
+    {
+      "id": "ps2.6:67.3",
+      "pali": "cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:67.4",
+      "pali": "Khandhānaṁ khandhaṭṭhe pañcavīsati dhammā, pañcavīsati atthā, paññāsaṁ niruttiyo, sataṁ ñāṇāni."
+    },
+    {
+      "id": "ps2.6:68.1",
+      "pali": "“‘Yāvatā dhātūnaṁ dhātuṭṭho …pe…"
+    },
+    {
+      "id": "ps2.6:68.2",
+      "pali": "yāvatā āyatanānaṁ āyatanaṭṭho …pe…"
+    },
+    {
+      "id": "ps2.6:68.3",
+      "pali": "yāvatā saṅkhatānaṁ saṅkhataṭṭho …pe…"
+    },
+    {
+      "id": "ps2.6:68.4",
+      "pali": "yāvatā asaṅkhatassa asaṅkhataṭṭho ñāto diṭṭho vidito sacchikato phassito paññāya."
+    },
+    {
+      "id": "ps2.6:68.5",
+      "pali": "Aphassito paññāya asaṅkhataṭṭho natthī’ti—"
+    },
+    {
+      "id": "ps2.6:68.6",
+      "pali": "cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:68.7",
+      "pali": "āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:68.8",
+      "pali": "Asaṅkhatassa asaṅkhataṭṭhe pañcavīsati dhammā, pañcavīsati atthā, paññāsaṁ niruttiyo, sataṁ ñāṇāni."
+    },
+    {
+      "id": "ps2.6:69.1",
+      "pali": "Khandhānaṁ khandhaṭṭhe, dhātūnaṁ dhātuṭṭhe, āyatanānaṁ āyatanaṭṭhe saṅkhatānaṁ saṅkhataṭṭhe, asaṅkhatassa asaṅkhataṭṭhe pañcavīsatisataṁ dhammā, pañcavīsatisataṁ atthā, aḍḍhateyyāni niruttisatāni, pañca ñāṇasatāni."
+    },
+    {
+      "id": "ps2.6:70.1",
+      "pali": "“‘Yāvatā dukkhassa dukkhaṭṭho, ñāto diṭṭho vidito sacchikato phassito paññāya."
+    },
+    {
+      "id": "ps2.6:70.2",
+      "pali": "Aphassito paññāya dukkhaṭṭho natthī’ti—"
+    },
+    {
+      "id": "ps2.6:70.3",
+      "pali": "cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:70.4",
+      "pali": "Dukkhassa dukkhaṭṭhe pañcavīsati dhammā, pañcavīsati atthā, paññāsaṁ niruttiyo, sataṁ ñāṇāni."
+    },
+    {
+      "id": "ps2.6:71.1",
+      "pali": "“‘Yāvatā samudayassa samudayaṭṭho …pe…"
+    },
+    {
+      "id": "ps2.6:71.2",
+      "pali": "yāvatā nirodhassa nirodhaṭṭho …pe…"
+    },
+    {
+      "id": "ps2.6:71.3",
+      "pali": "yāvatā maggassa maggaṭṭho ñāto diṭṭho vidito sacchikato phassito paññāya."
+    },
+    {
+      "id": "ps2.6:71.4",
+      "pali": "Aphassito paññāya maggaṭṭho natthī’ti—"
+    },
+    {
+      "id": "ps2.6:71.5",
+      "pali": "cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:71.6",
+      "pali": "āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:71.7",
+      "pali": "Maggassa maggaṭṭhe pañcavīsati dhammā, pañcavīsati atthā, paññāsaṁ niruttiyo, sataṁ ñāṇāni."
+    },
+    {
+      "id": "ps2.6:72.1",
+      "pali": "Catūsu ariyasaccesu sataṁ dhammā, sataṁ atthā, dve niruttisatāni, cattāri ñāṇasatāni."
+    },
+    {
+      "id": "ps2.6:73.1",
+      "pali": "“‘Yāvatā atthapaṭisambhidāya atthapaṭisambhidaṭṭho, ñāto diṭṭho vidito sacchikato phassito paññāya."
+    },
+    {
+      "id": "ps2.6:73.2",
+      "pali": "Aphassito paññāya atthapaṭisambhidaṭṭho natthī’ti—"
+    },
+    {
+      "id": "ps2.6:73.3",
+      "pali": "cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:73.4",
+      "pali": "āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:73.5",
+      "pali": "Atthapaṭisambhidāya atthapaṭisambhidaṭṭhe pañcavīsati dhammā, pañcavīsati atthā, paññāsaṁ niruttiyo, sataṁ ñāṇāni."
+    },
+    {
+      "id": "ps2.6:74.1",
+      "pali": "“‘Yāvatā dhammapaṭisambhidāya dhammapaṭisambhidaṭṭho …pe…"
+    },
+    {
+      "id": "ps2.6:74.2",
+      "pali": "yāvatā niruttipaṭisambhidāya niruttipaṭisambhidaṭṭho …pe…"
+    },
+    {
+      "id": "ps2.6:74.3",
+      "pali": "yāvatā paṭibhānapaṭisambhidāya paṭibhānapaṭisambhidaṭṭho, ñāto diṭṭho vidito sacchikato phassito paññāya."
+    },
+    {
+      "id": "ps2.6:74.4",
+      "pali": "Aphassito paññāya paṭibhānapaṭisambhidaṭṭho natthī’ti—"
+    },
+    {
+      "id": "ps2.6:74.5",
+      "pali": "cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:74.6",
+      "pali": "āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:74.7",
+      "pali": "Paṭibhānapaṭisambhidaṭṭhe pañcavīsati dhammā, pañcavīsati atthā, paññāsaṁ niruttiyo, sataṁ ñāṇāni."
+    },
+    {
+      "id": "ps2.6:75.1",
+      "pali": "Catūsu paṭisambhidāsu sataṁ dhammā, sataṁ atthā, dve niruttisatāni, cattāri ñāṇasatāni."
+    },
+    {
+      "id": "ps2.6:76.1",
+      "pali": "“‘Yāvatā indriyaparopariyattañāṇaṁ, ñātaṁ diṭṭhaṁ viditaṁ sacchikataṁ phassitaṁ paññāya."
+    },
+    {
+      "id": "ps2.6:76.2",
+      "pali": "Aphassitaṁ paññāya indriyaparopariyattañāṇaṁ natthī’ti—"
+    },
+    {
+      "id": "ps2.6:76.3",
+      "pali": "cakkhuṁ udapādi …pe…"
+    },
+    {
+      "id": "ps2.6:76.4",
+      "pali": "āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:76.5",
+      "pali": "Indriyaparopariyattañāṇe pañcavīsati dhammā, pañcavīsati atthā, paññāsaṁ niruttiyo, sataṁ ñāṇāni."
+    },
+    {
+      "id": "ps2.6:77.1",
+      "pali": "“‘Yāvatā sattānaṁ āsayānusaye ñāṇaṁ …pe…"
+    },
+    {
+      "id": "ps2.6:77.2",
+      "pali": "yāvatā yamakapāṭihīre ñāṇaṁ …pe…"
+    },
+    {
+      "id": "ps2.6:77.3",
+      "pali": "yāvatā mahākaruṇāsamāpattiyā ñāṇaṁ …pe…"
+    },
+    {
+      "id": "ps2.6:77.4",
+      "pali": "yāvatā sabbaññutaññāṇaṁ …pe…"
+    },
+    {
+      "id": "ps2.6:77.5",
+      "pali": "yāvatā anāvaraṇaṁ ñāṇaṁ, ñātaṁ diṭṭhaṁ viditaṁ sacchikataṁ phassitaṁ paññāya."
+    },
+    {
+      "id": "ps2.6:77.6",
+      "pali": "Aphassitaṁ paññāya anāvaraṇaṁ ñāṇaṁ natthī’ti—"
+    },
+    {
+      "id": "ps2.6:77.7",
+      "pali": "cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi”."
+    },
+    {
+      "id": "ps2.6:77.8",
+      "pali": "Anāvaraṇe ñāṇe pañcavīsati dhammā, pañcavīsati atthā, paññāsaṁ niruttiyo, sataṁ ñāṇāni."
+    },
+    {
+      "id": "ps2.6:78.1",
+      "pali": "Chasu buddhadhammesu diyaḍḍhasataṁ dhammā, diyaḍḍhasataṁ atthā, tīṇi niruttisatāni, cha ñāṇasatāni."
+    },
+    {
+      "id": "ps2.6:79.1",
+      "pali": "Paṭisambhidādhikaraṇe aḍḍhanavadhammasatāni, aḍḍhanavaatthasatāni, niruttisahassañca satta ca niruttisatāni, tīṇi ca ñāṇasahassāni, cattāri ca ñāṇasatānīti."
+    },
+    {
+      "id": "ps2.6:79.2",
+      "pali": "Paṭisambhidākathā niṭṭhitā."
+    }
+  ]
+}

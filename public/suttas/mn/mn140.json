@@ -1,0 +1,955 @@
+{
+  "uid": "mn140",
+  "title": "Dhātuvibhaṅgasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn140:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn140:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā magadhesu cārikaṁ caramāno yena rājagahaṁ tadavasari;"
+    },
+    {
+      "id": "mn140:1.3",
+      "pali": "yena bhaggavo kumbhakāro tenupasaṅkami; upasaṅkamitvā bhaggavaṁ kumbhakāraṁ etadavoca:"
+    },
+    {
+      "id": "mn140:2.1",
+      "pali": "“sace te, bhaggava, agaru viharemu āvesane ekarattan”ti."
+    },
+    {
+      "id": "mn140:2.2",
+      "pali": "“Na kho me, bhante, garu."
+    },
+    {
+      "id": "mn140:2.3",
+      "pali": "Atthi cettha pabbajito paṭhamaṁ vāsūpagato."
+    },
+    {
+      "id": "mn140:2.4",
+      "pali": "Sace so anujānāti, viharatha, bhante, yathāsukhan”ti."
+    },
+    {
+      "id": "mn140:3.1",
+      "pali": "Tena kho pana samayena pukkusāti nāma kulaputto bhagavantaṁ uddissa saddhāya agārasmā anagāriyaṁ pabbajito."
+    },
+    {
+      "id": "mn140:3.2",
+      "pali": "So tasmiṁ kumbhakārāvesane paṭhamaṁ vāsūpagato hoti."
+    },
+    {
+      "id": "mn140:3.3",
+      "pali": "Atha kho bhagavā yenāyasmā pukkusāti tenupasaṅkami; upasaṅkamitvā āyasmantaṁ pukkusātiṁ etadavoca:"
+    },
+    {
+      "id": "mn140:3.4",
+      "pali": "“sace te, bhikkhu, agaru viharemu āvesane ekarattan”ti."
+    },
+    {
+      "id": "mn140:3.5",
+      "pali": "“Urundaṁ, āvuso, kumbhakārāvesanaṁ."
+    },
+    {
+      "id": "mn140:3.6",
+      "pali": "Viharatāyasmā yathāsukhan”ti."
+    },
+    {
+      "id": "mn140:4.1",
+      "pali": "Atha kho bhagavā kumbhakārāvesanaṁ pavisitvā ekamantaṁ tiṇasanthārakaṁ paññāpetvā nisīdi pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā."
+    },
+    {
+      "id": "mn140:4.2",
+      "pali": "Atha kho bhagavā bahudeva rattiṁ nisajjāya vītināmesi."
+    },
+    {
+      "id": "mn140:4.3",
+      "pali": "Āyasmāpi kho pukkusāti bahudeva rattiṁ nisajjāya vītināmesi."
+    },
+    {
+      "id": "mn140:4.4",
+      "pali": "Atha kho bhagavato etadahosi:"
+    },
+    {
+      "id": "mn140:4.5",
+      "pali": "“pāsādikaṁ kho ayaṁ kulaputto iriyati."
+    },
+    {
+      "id": "mn140:4.6",
+      "pali": "Yannūnāhaṁ puccheyyan”ti."
+    },
+    {
+      "id": "mn140:4.7",
+      "pali": "Atha kho bhagavā āyasmantaṁ pukkusātiṁ etadavoca:"
+    },
+    {
+      "id": "mn140:5.1",
+      "pali": "“kaṁsi tvaṁ, bhikkhu, uddissa pabbajito? Ko vā te satthā? Kassa vā tvaṁ dhammaṁ rocesī”ti?"
+    },
+    {
+      "id": "mn140:5.2",
+      "pali": "“Atthāvuso, samaṇo gotamo sakyaputto sakyakulā pabbajito."
+    },
+    {
+      "id": "mn140:5.3",
+      "pali": "Taṁ kho pana bhagavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato:"
+    },
+    {
+      "id": "mn140:5.4",
+      "pali": "‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti."
+    },
+    {
+      "id": "mn140:5.5",
+      "pali": "Tāhaṁ bhagavantaṁ uddissa pabbajito."
+    },
+    {
+      "id": "mn140:5.6",
+      "pali": "So ca me bhagavā satthā."
+    },
+    {
+      "id": "mn140:5.7",
+      "pali": "Tassa cāhaṁ bhagavato dhammaṁ rocemī”ti."
+    },
+    {
+      "id": "mn140:5.8",
+      "pali": "“Kahaṁ pana, bhikkhu, etarahi so bhagavā viharati arahaṁ sammāsambuddho”ti."
+    },
+    {
+      "id": "mn140:5.9",
+      "pali": "“Atthāvuso, uttaresu janapadesu sāvatthi nāma nagaraṁ."
+    },
+    {
+      "id": "mn140:5.10",
+      "pali": "Tattha so bhagavā etarahi viharati arahaṁ sammāsambuddho”ti."
+    },
+    {
+      "id": "mn140:5.11",
+      "pali": "“Diṭṭhapubbo pana te, bhikkhu, so bhagavā;"
+    },
+    {
+      "id": "mn140:5.12",
+      "pali": "disvā ca pana jāneyyāsī”ti?"
+    },
+    {
+      "id": "mn140:5.13",
+      "pali": "“Na kho me, āvuso, diṭṭhapubbo so bhagavā;"
+    },
+    {
+      "id": "mn140:5.14",
+      "pali": "disvā cāhaṁ na jāneyyan”ti."
+    },
+    {
+      "id": "mn140:6.1",
+      "pali": "Atha kho bhagavato etadahosi:"
+    },
+    {
+      "id": "mn140:6.2",
+      "pali": "“mamañca khvāyaṁ kulaputto uddissa pabbajito."
+    },
+    {
+      "id": "mn140:6.3",
+      "pali": "Yannūnassāhaṁ dhammaṁ deseyyan”ti."
+    },
+    {
+      "id": "mn140:6.4",
+      "pali": "Atha kho bhagavā āyasmantaṁ pukkusātiṁ āmantesi:"
+    },
+    {
+      "id": "mn140:6.5",
+      "pali": "“dhammaṁ te, bhikkhu, desessāmi."
+    },
+    {
+      "id": "mn140:6.6",
+      "pali": "Taṁ suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti."
+    },
+    {
+      "id": "mn140:6.7",
+      "pali": "“Evamāvuso”ti kho āyasmā pukkusāti bhagavato paccassosi."
+    },
+    {
+      "id": "mn140:6.8",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn140:7.1",
+      "pali": "“‘Cha dhāturo ayaṁ, bhikkhu, puriso cha phassāyatano aṭṭhārasa manopavicāro caturādhiṭṭhāno;"
+    },
+    {
+      "id": "mn140:7.2",
+      "pali": "yattha ṭhitaṁ maññassavā nappavattanti, maññassave kho pana nappavattamāne muni santoti vuccati."
+    },
+    {
+      "id": "mn140:7.3",
+      "pali": "Paññaṁ nappamajjeyya, saccamanurakkheyya, cāgamanubrūheyya, santimeva so sikkheyyā’ti—"
+    },
+    {
+      "id": "mn140:7.4",
+      "pali": "ayamuddeso dhātuvibhaṅgassa."
+    },
+    {
+      "id": "mn140:8.1",
+      "pali": "‘Cha dhāturo ayaṁ, bhikkhu, puriso’ti—"
+    },
+    {
+      "id": "mn140:8.2",
+      "pali": "iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ?"
+    },
+    {
+      "id": "mn140:8.3",
+      "pali": "Chayimā, bhikkhu, dhātuyo—"
+    },
+    {
+      "id": "mn140:8.4",
+      "pali": "pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu, ākāsadhātu, viññāṇadhātu."
+    },
+    {
+      "id": "mn140:8.5",
+      "pali": "‘Cha dhāturo ayaṁ, bhikkhu, puriso’ti—"
+    },
+    {
+      "id": "mn140:8.6",
+      "pali": "iti yaṁ taṁ vuttaṁ, idametaṁ paṭicca vuttaṁ."
+    },
+    {
+      "id": "mn140:9.1",
+      "pali": "‘Cha phassāyatano ayaṁ, bhikkhu, puriso’ti—"
+    },
+    {
+      "id": "mn140:9.2",
+      "pali": "iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ?"
+    },
+    {
+      "id": "mn140:9.3",
+      "pali": "Cakkhusamphassāyatanaṁ, sotasamphassāyatanaṁ, ghānasamphassāyatanaṁ, jivhāsamphassāyatanaṁ, kāyasamphassāyatanaṁ, manosamphassāyatanaṁ."
+    },
+    {
+      "id": "mn140:9.4",
+      "pali": "‘Cha phassāyatano ayaṁ, bhikkhu, puriso’ti—"
+    },
+    {
+      "id": "mn140:9.5",
+      "pali": "iti yaṁ taṁ vuttaṁ, idametaṁ paṭicca vuttaṁ."
+    },
+    {
+      "id": "mn140:10.1",
+      "pali": "‘Aṭṭhārasa manopavicāro ayaṁ, bhikkhu, puriso’ti—"
+    },
+    {
+      "id": "mn140:10.2",
+      "pali": "iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ?"
+    },
+    {
+      "id": "mn140:10.3",
+      "pali": "Cakkhunā rūpaṁ disvā somanassaṭṭhāniyaṁ rūpaṁ upavicarati, domanassaṭṭhāniyaṁ rūpaṁ upavicarati, upekkhāṭṭhāniyaṁ rūpaṁ upavicarati;"
+    },
+    {
+      "id": "mn140:10.4",
+      "pali": "sotena saddaṁ sutvā …pe…"
+    },
+    {
+      "id": "mn140:10.5",
+      "pali": "ghānena gandhaṁ ghāyitvā …"
+    },
+    {
+      "id": "mn140:10.6",
+      "pali": "jivhāya rasaṁ sāyitvā …"
+    },
+    {
+      "id": "mn140:10.7",
+      "pali": "kāyena phoṭṭhabbaṁ phusitvā …"
+    },
+    {
+      "id": "mn140:10.8",
+      "pali": "manasā dhammaṁ viññāya somanassaṭṭhāniyaṁ dhammaṁ upavicarati, domanassaṭṭhāniyaṁ dhammaṁ upavicarati, upekkhāṭṭhāniyaṁ dhammaṁ upavicarati—"
+    },
+    {
+      "id": "mn140:10.9",
+      "pali": "iti cha somanassupavicārā, cha domanassupavicārā, cha upekkhupavicārā."
+    },
+    {
+      "id": "mn140:10.10",
+      "pali": "‘Aṭṭhārasa manopavicāro ayaṁ, bhikkhu, puriso’ti—"
+    },
+    {
+      "id": "mn140:10.11",
+      "pali": "iti yaṁ taṁ vuttaṁ, idametaṁ paṭicca vuttaṁ."
+    },
+    {
+      "id": "mn140:11.1",
+      "pali": "‘Caturādhiṭṭhāno ayaṁ, bhikkhu, puriso’ti—"
+    },
+    {
+      "id": "mn140:11.2",
+      "pali": "iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ?"
+    },
+    {
+      "id": "mn140:11.3",
+      "pali": "Paññādhiṭṭhāno, saccādhiṭṭhāno, cāgādhiṭṭhāno, upasamādhiṭṭhāno."
+    },
+    {
+      "id": "mn140:11.4",
+      "pali": "‘Caturādhiṭṭhāno ayaṁ, bhikkhu, puriso’ti—"
+    },
+    {
+      "id": "mn140:11.5",
+      "pali": "iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ."
+    },
+    {
+      "id": "mn140:12.1",
+      "pali": "‘Paññaṁ nappamajjeyya, saccamanurakkheyya, cāgamanubrūheyya, santimeva so sikkheyyā’ti—"
+    },
+    {
+      "id": "mn140:12.2",
+      "pali": "iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ?"
+    },
+    {
+      "id": "mn140:13.1",
+      "pali": "Kathañca, bhikkhu, paññaṁ nappamajjati?"
+    },
+    {
+      "id": "mn140:13.2",
+      "pali": "Chayimā, bhikkhu, dhātuyo—"
+    },
+    {
+      "id": "mn140:13.3",
+      "pali": "pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu, ākāsadhātu, viññāṇadhātu."
+    },
+    {
+      "id": "mn140:14.1",
+      "pali": "Katamā ca, bhikkhu, pathavīdhātu?"
+    },
+    {
+      "id": "mn140:14.2",
+      "pali": "Pathavīdhātu siyā ajjhattikā siyā bāhirā."
+    },
+    {
+      "id": "mn140:14.3",
+      "pali": "Katamā ca, bhikkhu, ajjhattikā pathavīdhātu?"
+    },
+    {
+      "id": "mn140:14.4",
+      "pali": "Yaṁ ajjhattaṁ paccattaṁ kakkhaḷaṁ kharigataṁ upādinnaṁ, seyyathidaṁ—"
+    },
+    {
+      "id": "mn140:14.5",
+      "pali": "kesā lomā nakhā dantā taco maṁsaṁ nhāru aṭṭhi aṭṭhimiñjaṁ vakkaṁ hadayaṁ yakanaṁ kilomakaṁ pihakaṁ papphāsaṁ antaṁ antaguṇaṁ udariyaṁ karīsaṁ, yaṁ vā panaññampi kiñci ajjhattaṁ paccattaṁ kakkhaḷaṁ kharigataṁ upādinnaṁ—"
+    },
+    {
+      "id": "mn140:14.6",
+      "pali": "ayaṁ vuccati, bhikkhu, ajjhattikā pathavīdhātu."
+    },
+    {
+      "id": "mn140:14.7",
+      "pali": "Yā ceva kho pana ajjhattikā pathavīdhātu yā ca bāhirā pathavīdhātu pathavīdhāturevesā."
+    },
+    {
+      "id": "mn140:14.8",
+      "pali": "‘Taṁ netaṁ mama nesohamasmi na meso attā’ti—evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ."
+    },
+    {
+      "id": "mn140:14.9",
+      "pali": "Evametaṁ yathābhūtaṁ sammappaññāya disvā pathavīdhātuyā nibbindati, pathavīdhātuyā cittaṁ virājeti."
+    },
+    {
+      "id": "mn140:15.1",
+      "pali": "Katamā ca, bhikkhu, āpodhātu?"
+    },
+    {
+      "id": "mn140:15.2",
+      "pali": "Āpodhātu siyā ajjhattikā siyā bāhirā."
+    },
+    {
+      "id": "mn140:15.3",
+      "pali": "Katamā ca, bhikkhu, ajjhattikā āpodhātu?"
+    },
+    {
+      "id": "mn140:15.4",
+      "pali": "Yaṁ ajjhattaṁ paccattaṁ āpo āpogataṁ upādinnaṁ seyyathidaṁ—"
+    },
+    {
+      "id": "mn140:15.5",
+      "pali": "pittaṁ semhaṁ pubbo lohitaṁ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttaṁ, yaṁ vā panaññampi kiñci ajjhattaṁ paccattaṁ āpo āpogataṁ upādinnaṁ—"
+    },
+    {
+      "id": "mn140:15.6",
+      "pali": "ayaṁ vuccati, bhikkhu, ajjhattikā āpodhātu."
+    },
+    {
+      "id": "mn140:15.7",
+      "pali": "Yā ceva kho pana ajjhattikā āpodhātu yā ca bāhirā āpodhātu āpodhāturevesā."
+    },
+    {
+      "id": "mn140:15.8",
+      "pali": "‘Taṁ netaṁ mama, nesohamasmi, na meso attā’ti—evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ."
+    },
+    {
+      "id": "mn140:15.9",
+      "pali": "Evametaṁ yathābhūtaṁ sammappaññāya disvā āpodhātuyā nibbindati, āpodhātuyā cittaṁ virājeti."
+    },
+    {
+      "id": "mn140:16.1",
+      "pali": "Katamā ca, bhikkhu, tejodhātu?"
+    },
+    {
+      "id": "mn140:16.2",
+      "pali": "Tejodhātu siyā ajjhattikā siyā bāhirā."
+    },
+    {
+      "id": "mn140:16.3",
+      "pali": "Katamā ca, bhikkhu, ajjhattikā tejodhātu?"
+    },
+    {
+      "id": "mn140:16.4",
+      "pali": "Yaṁ ajjhattaṁ paccattaṁ tejo tejogataṁ upādinnaṁ, seyyathidaṁ—"
+    },
+    {
+      "id": "mn140:16.5",
+      "pali": "yena ca santappati, yena ca jīrīyati, yena ca pariḍayhati, yena ca asitapītakhāyitasāyitaṁ sammā pariṇāmaṁ gacchati, yaṁ vā panaññampi kiñci ajjhattaṁ paccattaṁ tejo tejogataṁ upādinnaṁ—"
+    },
+    {
+      "id": "mn140:16.6",
+      "pali": "ayaṁ vuccati, bhikkhu, ajjhattikā tejodhātu."
+    },
+    {
+      "id": "mn140:16.7",
+      "pali": "Yā ceva kho pana ajjhattikā tejodhātu yā ca bāhirā tejodhātu tejodhāturevesā."
+    },
+    {
+      "id": "mn140:16.8",
+      "pali": "‘Taṁ netaṁ mama, nesohamasmi, na meso attā’ti—evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ."
+    },
+    {
+      "id": "mn140:16.9",
+      "pali": "Evametaṁ yathābhūtaṁ sammappaññāya disvā tejodhātuyā nibbindati, tejodhātuyā cittaṁ virājeti."
+    },
+    {
+      "id": "mn140:17.1",
+      "pali": "Katamā ca, bhikkhu, vāyodhātu?"
+    },
+    {
+      "id": "mn140:17.2",
+      "pali": "Vāyodhātu siyā ajjhattikā siyā bāhirā."
+    },
+    {
+      "id": "mn140:17.3",
+      "pali": "Katamā ca, bhikkhu, ajjhattikā vāyodhātu?"
+    },
+    {
+      "id": "mn140:17.4",
+      "pali": "Yaṁ ajjhattaṁ paccattaṁ vāyo vāyogataṁ upādinnaṁ, seyyathidaṁ—"
+    },
+    {
+      "id": "mn140:17.5",
+      "pali": "uddhaṅgamā vātā adhogamā vātā kucchisayā vātā koṭṭhāsayā vātā aṅgamaṅgānusārino vātā assāso passāso iti, yaṁ vā panaññampi kiñci ajjhattaṁ paccattaṁ vāyo vāyogataṁ upādinnaṁ—"
+    },
+    {
+      "id": "mn140:17.6",
+      "pali": "ayaṁ vuccati, bhikkhu, ajjhattikā vāyodhātu."
+    },
+    {
+      "id": "mn140:17.7",
+      "pali": "Yā ceva kho pana ajjhattikā vāyodhātu yā ca bāhirā vāyodhātu vāyodhāturevesā."
+    },
+    {
+      "id": "mn140:17.8",
+      "pali": "‘Taṁ netaṁ mama, nesohamasmi, na meso attā’ti—evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ."
+    },
+    {
+      "id": "mn140:17.9",
+      "pali": "Evametaṁ yathābhūtaṁ sammappaññāya disvā vāyodhātuyā nibbindati, vāyodhātuyā cittaṁ virājeti."
+    },
+    {
+      "id": "mn140:18.1",
+      "pali": "Katamā ca, bhikkhu, ākāsadhātu?"
+    },
+    {
+      "id": "mn140:18.2",
+      "pali": "Ākāsadhātu siyā ajjhattikā siyā bāhirā."
+    },
+    {
+      "id": "mn140:18.3",
+      "pali": "Katamā ca, bhikkhu, ajjhattikā ākāsadhātu?"
+    },
+    {
+      "id": "mn140:18.4",
+      "pali": "Yaṁ ajjhattaṁ paccattaṁ ākāsaṁ ākāsagataṁ upādinnaṁ, seyyathidaṁ—"
+    },
+    {
+      "id": "mn140:18.5",
+      "pali": "kaṇṇacchiddaṁ nāsacchiddaṁ mukhadvāraṁ yena ca asitapītakhāyitasāyitaṁ ajjhoharati, yattha ca asitapītakhāyitasāyitaṁ santiṭṭhati, yena ca asitapītakhāyitasāyitaṁ adhobhāgaṁ nikkhamati, yaṁ vā panaññampi kiñci ajjhattaṁ paccattaṁ ākāsaṁ ākāsagataṁ aghaṁ aghagataṁ vivaraṁ vivaragataṁ asamphuṭṭhaṁ maṁsalohitehi upādinnaṁ—"
+    },
+    {
+      "id": "mn140:18.6",
+      "pali": "ayaṁ vuccati, bhikkhu, ajjhattikā ākāsadhātu."
+    },
+    {
+      "id": "mn140:18.7",
+      "pali": "Yā ceva kho pana ajjhattikā ākāsadhātu yā ca bāhirā ākāsadhātu ākāsadhāturevesā."
+    },
+    {
+      "id": "mn140:18.8",
+      "pali": "‘Taṁ netaṁ mama, nesohamasmi, na meso attā’ti—evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ."
+    },
+    {
+      "id": "mn140:18.9",
+      "pali": "Evametaṁ yathābhūtaṁ sammappaññāya disvā ākāsadhātuyā nibbindati, ākāsadhātuyā cittaṁ virājeti."
+    },
+    {
+      "id": "mn140:19.1",
+      "pali": "Athāparaṁ viññāṇaṁyeva avasissati parisuddhaṁ pariyodātaṁ."
+    },
+    {
+      "id": "mn140:19.2",
+      "pali": "Tena ca viññāṇena kiṁ vijānāti?"
+    },
+    {
+      "id": "mn140:19.3",
+      "pali": "‘Sukhan’tipi vijānāti, ‘dukkhan’tipi vijānāti, ‘adukkhamasukhan’tipi vijānāti."
+    },
+    {
+      "id": "mn140:19.4",
+      "pali": "Sukhavedaniyaṁ, bhikkhu, phassaṁ paṭicca uppajjati sukhā vedanā."
+    },
+    {
+      "id": "mn140:19.5",
+      "pali": "So sukhaṁ vedanaṁ vedayamāno ‘sukhaṁ vedanaṁ vedayāmī’ti pajānāti."
+    },
+    {
+      "id": "mn140:19.6",
+      "pali": "‘Tasseva sukhavedaniyassa phassassa nirodhā yaṁ tajjaṁ vedayitaṁ sukhavedaniyaṁ phassaṁ paṭicca uppannā sukhā vedanā sā nirujjhati, sā vūpasammatī’ti pajānāti."
+    },
+    {
+      "id": "mn140:19.7",
+      "pali": "Dukkhavedaniyaṁ, bhikkhu, phassaṁ paṭicca uppajjati dukkhā vedanā."
+    },
+    {
+      "id": "mn140:19.8",
+      "pali": "So dukkhaṁ vedanaṁ vedayamāno ‘dukkhaṁ vedanaṁ vedayāmī’ti pajānāti."
+    },
+    {
+      "id": "mn140:19.9",
+      "pali": "‘Tasseva dukkhavedaniyassa phassassa nirodhā yaṁ tajjaṁ vedayitaṁ dukkhavedaniyaṁ phassaṁ paṭicca uppannā dukkhā vedanā sā nirujjhati, sā vūpasammatī’ti pajānāti."
+    },
+    {
+      "id": "mn140:19.10",
+      "pali": "Adukkhamasukhavedaniyaṁ, bhikkhu, phassaṁ paṭicca uppajjati adukkhamasukhā vedanā."
+    },
+    {
+      "id": "mn140:19.11",
+      "pali": "So adukkhamasukhaṁ vedanaṁ vedayamāno ‘adukkhamasukhaṁ vedanaṁ vedayāmī’ti pajānāti."
+    },
+    {
+      "id": "mn140:19.12",
+      "pali": "‘Tasseva adukkhamasukhavedaniyassa phassassa nirodhā yaṁ tajjaṁ vedayitaṁ adukkhamasukhavedaniyaṁ phassaṁ paṭicca uppannā adukkhamasukhā vedanā sā nirujjhati, sā vūpasammatī’ti pajānāti."
+    },
+    {
+      "id": "mn140:19.13",
+      "pali": "Seyyathāpi, bhikkhu, dvinnaṁ kaṭṭhānaṁ saṅghaṭṭā samodhānā usmā jāyati, tejo abhinibbattati, tesaṁyeva dvinnaṁ kaṭṭhānaṁ nānābhāvā vinikkhepā yā tajjā usmā sā nirujjhati, sā vūpasammati;"
+    },
+    {
+      "id": "mn140:19.14",
+      "pali": "evameva kho, bhikkhu, sukhavedaniyaṁ phassaṁ paṭicca uppajjati sukhā vedanā."
+    },
+    {
+      "id": "mn140:19.15",
+      "pali": "So sukhaṁ vedanaṁ vedayamāno ‘sukhaṁ vedanaṁ vedayāmī’ti pajānāti."
+    },
+    {
+      "id": "mn140:19.16",
+      "pali": "‘Tasseva sukhavedaniyassa phassassa nirodhā yaṁ tajjaṁ vedayitaṁ sukhavedaniyaṁ phassaṁ paṭicca uppannā sukhā vedanā sā nirujjhati, sā vūpasammatī’ti pajānāti."
+    },
+    {
+      "id": "mn140:19.17",
+      "pali": "Dukkhavedaniyaṁ, bhikkhu, phassaṁ paṭicca uppajjati dukkhā vedanā."
+    },
+    {
+      "id": "mn140:19.18",
+      "pali": "So dukkhaṁ vedanaṁ vedayamāno ‘dukkhaṁ vedanaṁ vedayāmī’ti pajānāti."
+    },
+    {
+      "id": "mn140:19.19",
+      "pali": "‘Tasseva dukkhavedaniyassa phassassa nirodhā yaṁ tajjaṁ vedayitaṁ dukkhavedaniyaṁ phassaṁ paṭicca uppannā dukkhā vedanā sā nirujjhati, sā vūpasammatī’ti pajānāti."
+    },
+    {
+      "id": "mn140:19.20",
+      "pali": "Adukkhamasukhavedaniyaṁ, bhikkhu, phassaṁ paṭicca uppajjati adukkhamasukhā vedanā."
+    },
+    {
+      "id": "mn140:19.21",
+      "pali": "So adukkhamasukhaṁ vedanaṁ vedayamāno ‘adukkhamasukhaṁ vedanaṁ vedayāmī’ti pajānāti."
+    },
+    {
+      "id": "mn140:19.22",
+      "pali": "‘Tasseva adukkhamasukhavedaniyassa phassassa nirodhā yaṁ tajjaṁ vedayitaṁ adukkhamasukhavedaniyaṁ phassaṁ paṭicca uppannā adukkhamasukhā vedanā sā nirujjhati, sā vūpasammatī’ti pajānāti."
+    },
+    {
+      "id": "mn140:20.1",
+      "pali": "Athāparaṁ upekkhāyeva avasissati parisuddhā pariyodātā mudu ca kammaññā ca pabhassarā ca."
+    },
+    {
+      "id": "mn140:20.2",
+      "pali": "Seyyathāpi, bhikkhu, dakkho suvaṇṇakāro vā suvaṇṇakārantevāsī vā ukkaṁ bandheyya, ukkaṁ bandhitvā ukkāmukhaṁ ālimpeyya, ukkāmukhaṁ ālimpetvā saṇḍāsena jātarūpaṁ gahetvā ukkāmukhe pakkhipeyya, tamenaṁ kālena kālaṁ abhidhameyya, kālena kālaṁ udakena paripphoseyya, kālena kālaṁ ajjhupekkheyya, taṁ hoti jātarūpaṁ sudhantaṁ niddhantaṁ nīhaṭaṁ ninnītakasāvaṁ mudu ca kammaññañca pabhassarañca, yassā yassā ca piḷandhanavikatiyā ākaṅkhati—yadi paṭṭikāya yadi kuṇḍalāya yadi gīveyyakāya yadi suvaṇṇamālāya tañcassa atthaṁ anubhoti;"
+    },
+    {
+      "id": "mn140:20.3",
+      "pali": "evameva kho, bhikkhu, athāparaṁ upekkhāyeva avasissati parisuddhā pariyodātā mudu ca kammaññā ca pabhassarā ca."
+    },
+    {
+      "id": "mn140:21.1",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn140:21.2",
+      "pali": "‘imañce ahaṁ upekkhaṁ evaṁ parisuddhaṁ evaṁ pariyodātaṁ ākāsānañcāyatanaṁ upasaṁhareyyaṁ, tadanudhammañca cittaṁ bhāveyyaṁ."
+    },
+    {
+      "id": "mn140:21.3",
+      "pali": "Evaṁ me ayaṁ upekkhā tannissitā tadupādānā ciraṁ dīghamaddhānaṁ tiṭṭheyya."
+    },
+    {
+      "id": "mn140:21.4",
+      "pali": "Imañce ahaṁ upekkhaṁ evaṁ parisuddhaṁ evaṁ pariyodātaṁ viññāṇañcāyatanaṁ upasaṁhareyyaṁ, tadanudhammañca cittaṁ bhāveyyaṁ."
+    },
+    {
+      "id": "mn140:21.5",
+      "pali": "Evaṁ me ayaṁ upekkhā tannissitā tadupādānā ciraṁ dīghamaddhānaṁ tiṭṭheyya."
+    },
+    {
+      "id": "mn140:21.6",
+      "pali": "Imañce ahaṁ upekkhaṁ evaṁ parisuddhaṁ evaṁ pariyodātaṁ ākiñcaññāyatanaṁ upasaṁhareyyaṁ, tadanudhammañca cittaṁ bhāveyyaṁ."
+    },
+    {
+      "id": "mn140:21.7",
+      "pali": "Evaṁ me ayaṁ upekkhā tannissitā tadupādānā ciraṁ dīghamaddhānaṁ tiṭṭheyya."
+    },
+    {
+      "id": "mn140:21.8",
+      "pali": "Imañce ahaṁ upekkhaṁ evaṁ parisuddhaṁ evaṁ pariyodātaṁ nevasaññānāsaññāyatanaṁ upasaṁhareyyaṁ, tadanudhammañca cittaṁ bhāveyyaṁ."
+    },
+    {
+      "id": "mn140:21.9",
+      "pali": "Evaṁ me ayaṁ upekkhā tannissitā tadupādānā ciraṁ dīghamaddhānaṁ tiṭṭheyyā’ti."
+    },
+    {
+      "id": "mn140:22.1",
+      "pali": "So evaṁ pajānāti:"
+    },
+    {
+      "id": "mn140:22.2",
+      "pali": "‘imañce ahaṁ upekkhaṁ evaṁ parisuddhaṁ evaṁ pariyodātaṁ ākāsānañcāyatanaṁ upasaṁhareyyaṁ, tadanudhammañca cittaṁ bhāveyyaṁ;"
+    },
+    {
+      "id": "mn140:22.3",
+      "pali": "saṅkhatametaṁ."
+    },
+    {
+      "id": "mn140:22.4",
+      "pali": "Imañce ahaṁ upekkhaṁ evaṁ parisuddhaṁ evaṁ pariyodātaṁ viññāṇañcāyatanaṁ upasaṁhareyyaṁ, tadanudhammañca cittaṁ bhāveyyaṁ;"
+    },
+    {
+      "id": "mn140:22.5",
+      "pali": "saṅkhatametaṁ."
+    },
+    {
+      "id": "mn140:22.6",
+      "pali": "Imañce ahaṁ upekkhaṁ evaṁ parisuddhaṁ evaṁ pariyodātaṁ ākiñcaññāyatanaṁ upasaṁhareyyaṁ, tadanudhammañca cittaṁ bhāveyyaṁ;"
+    },
+    {
+      "id": "mn140:22.7",
+      "pali": "saṅkhatametaṁ."
+    },
+    {
+      "id": "mn140:22.8",
+      "pali": "Imañce ahaṁ upekkhaṁ evaṁ parisuddhaṁ evaṁ pariyodātaṁ nevasaññānāsaññāyatanaṁ upasaṁhareyyaṁ, tadanudhammañca cittaṁ bhāveyyaṁ;"
+    },
+    {
+      "id": "mn140:22.9",
+      "pali": "saṅkhatametan’ti."
+    },
+    {
+      "id": "mn140:22.10",
+      "pali": "So neva taṁ abhisaṅkharoti, na abhisañcetayati bhavāya vā vibhavāya vā."
+    },
+    {
+      "id": "mn140:22.11",
+      "pali": "So anabhisaṅkharonto anabhisañcetayanto bhavāya vā vibhavāya vā na kiñci loke upādiyati,"
+    },
+    {
+      "id": "mn140:22.12",
+      "pali": "anupādiyaṁ na paritassati, aparitassaṁ paccattaṁyeva parinibbāyati."
+    },
+    {
+      "id": "mn140:22.13",
+      "pali": "‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānāti."
+    },
+    {
+      "id": "mn140:23.1",
+      "pali": "So sukhañce vedanaṁ vedeti, ‘sā aniccā’ti pajānāti, ‘anajjhositā’ti pajānāti, ‘anabhinanditā’ti pajānāti."
+    },
+    {
+      "id": "mn140:23.2",
+      "pali": "Dukkhañce vedanaṁ vedeti, ‘sā aniccā’ti pajānāti, ‘anajjhositā’ti pajānāti, ‘anabhinanditā’ti pajānāti."
+    },
+    {
+      "id": "mn140:23.3",
+      "pali": "Adukkhamasukhañce vedanaṁ vedeti, ‘sā aniccā’ti pajānāti, ‘anajjhositā’ti pajānāti, ‘anabhinanditā’ti pajānāti."
+    },
+    {
+      "id": "mn140:24.1",
+      "pali": "So sukhañce vedanaṁ vedeti, visaṁyutto naṁ vedeti;"
+    },
+    {
+      "id": "mn140:24.2",
+      "pali": "dukkhañce vedanaṁ vedeti, visaṁyutto naṁ vedeti;"
+    },
+    {
+      "id": "mn140:24.3",
+      "pali": "adukkhamasukhañce vedanaṁ vedeti, visaṁyutto naṁ vedeti."
+    },
+    {
+      "id": "mn140:24.4",
+      "pali": "So kāyapariyantikaṁ vedanaṁ vedayamāno ‘kāyapariyantikaṁ vedanaṁ vedayāmī’ti pajānāti, jīvitapariyantikaṁ vedanaṁ vedayamāno ‘jīvitapariyantikaṁ vedanaṁ vedayāmī’ti pajānāti,"
+    },
+    {
+      "id": "mn140:24.5",
+      "pali": "‘kāyassa bhedā paraṁ maraṇā uddhaṁ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī’ti pajānāti."
+    },
+    {
+      "id": "mn140:24.6",
+      "pali": "Seyyathāpi, bhikkhu, telañca paṭicca vaṭṭiñca paṭicca telappadīpo jhāyati;"
+    },
+    {
+      "id": "mn140:24.7",
+      "pali": "tasseva telassa ca vaṭṭiyā ca pariyādānā aññassa ca anupahārā anāhāro nibbāyati;"
+    },
+    {
+      "id": "mn140:24.8",
+      "pali": "evameva kho, bhikkhu, kāyapariyantikaṁ vedanaṁ vedayamāno ‘kāyapariyantikaṁ vedanaṁ vedayāmī’ti pajānāti, jīvitapariyantikaṁ vedanaṁ vedayamāno ‘jīvitapariyantikaṁ vedanaṁ vedayāmī’ti pajānāti,"
+    },
+    {
+      "id": "mn140:24.9",
+      "pali": "‘kāyassa bhedā paraṁ maraṇā uddhaṁ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī’ti pajānāti."
+    },
+    {
+      "id": "mn140:25.1",
+      "pali": "Tasmā evaṁ samannāgato bhikkhu iminā paramena paññādhiṭṭhānena samannāgato hoti."
+    },
+    {
+      "id": "mn140:25.2",
+      "pali": "Esā hi, bhikkhu, paramā ariyā paññā yadidaṁ—"
+    },
+    {
+      "id": "mn140:25.3",
+      "pali": "sabbadukkhakkhaye ñāṇaṁ."
+    },
+    {
+      "id": "mn140:26.1",
+      "pali": "Tassa sā vimutti sacce ṭhitā akuppā hoti."
+    },
+    {
+      "id": "mn140:26.2",
+      "pali": "Tañhi, bhikkhu, musā yaṁ mosadhammaṁ, taṁ saccaṁ yaṁ amosadhammaṁ nibbānaṁ."
+    },
+    {
+      "id": "mn140:26.3",
+      "pali": "Tasmā evaṁ samannāgato bhikkhu iminā paramena saccādhiṭṭhānena samannāgato hoti."
+    },
+    {
+      "id": "mn140:26.4",
+      "pali": "Etañhi, bhikkhu, paramaṁ ariyasaccaṁ yadidaṁ—"
+    },
+    {
+      "id": "mn140:26.5",
+      "pali": "amosadhammaṁ nibbānaṁ."
+    },
+    {
+      "id": "mn140:27.1",
+      "pali": "Tasseva kho pana pubbe aviddasuno upadhī honti samattā samādinnā."
+    },
+    {
+      "id": "mn140:27.2",
+      "pali": "Tyāssa pahīnā honti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "mn140:27.3",
+      "pali": "Tasmā evaṁ samannāgato bhikkhu iminā paramena cāgādhiṭṭhānena samannāgato hoti."
+    },
+    {
+      "id": "mn140:27.4",
+      "pali": "Eso hi, bhikkhu, paramo ariyo cāgo yadidaṁ—"
+    },
+    {
+      "id": "mn140:27.5",
+      "pali": "sabbūpadhipaṭinissaggo."
+    },
+    {
+      "id": "mn140:28.1",
+      "pali": "Tasseva kho pana pubbe aviddasuno abhijjhā hoti chando sārāgo."
+    },
+    {
+      "id": "mn140:28.2",
+      "pali": "Svāssa pahīno hoti ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṁ anuppādadhammo."
+    },
+    {
+      "id": "mn140:28.3",
+      "pali": "Tasseva kho pana pubbe aviddasuno āghāto hoti byāpādo sampadoso."
+    },
+    {
+      "id": "mn140:28.4",
+      "pali": "Svāssa pahīno hoti ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṁ anuppādadhammo."
+    },
+    {
+      "id": "mn140:28.5",
+      "pali": "Tasseva kho pana pubbe aviddasuno avijjā hoti sammoho."
+    },
+    {
+      "id": "mn140:28.6",
+      "pali": "Svāssa pahīno hoti ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṁ anuppādadhammo."
+    },
+    {
+      "id": "mn140:28.7",
+      "pali": "Tasmā evaṁ samannāgato bhikkhu iminā paramena upasamādhiṭṭhānena samannāgato hoti."
+    },
+    {
+      "id": "mn140:28.8",
+      "pali": "Eso hi, bhikkhu, paramo ariyo upasamo yadidaṁ—"
+    },
+    {
+      "id": "mn140:28.9",
+      "pali": "rāgadosamohānaṁ upasamo."
+    },
+    {
+      "id": "mn140:29.1",
+      "pali": "‘Paññaṁ nappamajjeyya, saccamanurakkheyya, cāgamanubrūheyya, santimeva so sikkheyyā’ti—"
+    },
+    {
+      "id": "mn140:29.2",
+      "pali": "iti yaṁ taṁ vuttaṁ, idametaṁ paṭicca vuttaṁ."
+    },
+    {
+      "id": "mn140:30.1",
+      "pali": "‘Yattha ṭhitaṁ maññassavā nappavattanti, maññassave kho pana nappavattamāne muni santoti vuccatī’ti—"
+    },
+    {
+      "id": "mn140:30.2",
+      "pali": "iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ?"
+    },
+    {
+      "id": "mn140:31.1",
+      "pali": "‘Asmī’ti, bhikkhu, maññitametaṁ, ‘ayamahamasmī’ti maññitametaṁ, ‘bhavissan’ti maññitametaṁ, ‘na bhavissan’ti maññitametaṁ, ‘rūpī bhavissan’ti maññitametaṁ, ‘arūpī bhavissan’ti maññitametaṁ, ‘saññī bhavissan’ti maññitametaṁ, ‘asaññī bhavissan’ti maññitametaṁ, ‘nevasaññīnāsaññī bhavissan’ti maññitametaṁ."
+    },
+    {
+      "id": "mn140:31.2",
+      "pali": "Maññitaṁ, bhikkhu, rogo maññitaṁ gaṇḍo maññitaṁ sallaṁ."
+    },
+    {
+      "id": "mn140:31.3",
+      "pali": "Sabbamaññitānaṁ tveva, bhikkhu, samatikkamā muni santoti vuccati."
+    },
+    {
+      "id": "mn140:31.4",
+      "pali": "Muni kho pana, bhikkhu, santo na jāyati, na jīyati, na mīyati, na kuppati, na piheti."
+    },
+    {
+      "id": "mn140:31.5",
+      "pali": "Tañhissa, bhikkhu, natthi yena jāyetha, ajāyamāno kiṁ jīyissati, ajīyamāno kiṁ mīyissati, amīyamāno kiṁ kuppissati, akuppamāno kissa pihessati?"
+    },
+    {
+      "id": "mn140:32.1",
+      "pali": "‘Yattha ṭhitaṁ maññassavā nappavattanti, maññassave kho pana nappavattamāne muni santoti vuccatī’ti—"
+    },
+    {
+      "id": "mn140:32.2",
+      "pali": "iti yaṁ taṁ vuttaṁ, idametaṁ paṭicca vuttaṁ."
+    },
+    {
+      "id": "mn140:32.3",
+      "pali": "Imaṁ kho me tvaṁ, bhikkhu, saṅkhittena chadhātuvibhaṅgaṁ dhārehī”ti."
+    },
+    {
+      "id": "mn140:33.1",
+      "pali": "Atha kho āyasmā pukkusāti:"
+    },
+    {
+      "id": "mn140:33.2",
+      "pali": "“satthā kira me anuppatto, sugato kira me anuppatto, sammāsambuddho kira me anuppatto”ti uṭṭhāyāsanā ekaṁsaṁ cīvaraṁ katvā bhagavato pādesu sirasā nipatitvā bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn140:33.3",
+      "pali": "“accayo maṁ, bhante, accagamā yathābālaṁ yathāmūḷhaṁ yathāakusalaṁ, yohaṁ bhagavantaṁ āvusovādena samudācaritabbaṁ amaññissaṁ."
+    },
+    {
+      "id": "mn140:33.4",
+      "pali": "Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhātu āyatiṁ saṁvarāyā”ti."
+    },
+    {
+      "id": "mn140:33.5",
+      "pali": "“Taggha tvaṁ, bhikkhu, accayo accagamā yathābālaṁ yathāmūḷhaṁ yathāakusalaṁ, yaṁ maṁ tvaṁ āvusovādena samudācaritabbaṁ amaññittha."
+    },
+    {
+      "id": "mn140:33.6",
+      "pali": "Yato ca kho tvaṁ, bhikkhu, accayaṁ accayato disvā yathādhammaṁ paṭikarosi, taṁ te mayaṁ paṭiggaṇhāma."
+    },
+    {
+      "id": "mn140:33.7",
+      "pali": "Vuddhihesā, bhikkhu, ariyassa vinaye yo accayaṁ accayato disvā yathādhammaṁ paṭikaroti, āyatiṁ saṁvaraṁ āpajjatī”ti."
+    },
+    {
+      "id": "mn140:34.1",
+      "pali": "“Labheyyāhaṁ, bhante, bhagavato santike upasampadan”ti."
+    },
+    {
+      "id": "mn140:34.2",
+      "pali": "“Paripuṇṇaṁ pana te, bhikkhu, pattacīvaran”ti?"
+    },
+    {
+      "id": "mn140:34.3",
+      "pali": "“Na kho me, bhante, paripuṇṇaṁ pattacīvaran”ti."
+    },
+    {
+      "id": "mn140:34.4",
+      "pali": "“Na kho, bhikkhu, tathāgatā aparipuṇṇapattacīvaraṁ upasampādentī”ti."
+    },
+    {
+      "id": "mn140:35.1",
+      "pali": "Atha kho āyasmā pukkusāti bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pattacīvarapariyesanaṁ pakkāmi."
+    },
+    {
+      "id": "mn140:35.2",
+      "pali": "Atha kho āyasmantaṁ pukkusātiṁ pattacīvarapariyesanaṁ carantaṁ vibbhantā gāvī jīvitā voropesi."
+    },
+    {
+      "id": "mn140:36.1",
+      "pali": "Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn140:36.2",
+      "pali": "“yo so, bhante, pukkusāti nāma kulaputto bhagavatā saṅkhittena ovādena ovadito so kālaṅkato."
+    },
+    {
+      "id": "mn140:36.3",
+      "pali": "Tassa kā gati, ko abhisamparāyo”ti?"
+    },
+    {
+      "id": "mn140:36.4",
+      "pali": "“Paṇḍito, bhikkhave, pukkusāti kulaputto paccapādi dhammassānudhammaṁ, na ca maṁ dhammādhikaraṇaṁ vihesesi."
+    },
+    {
+      "id": "mn140:36.5",
+      "pali": "Pukkusāti, bhikkhave, kulaputto pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātiko tattha parinibbāyī anāvattidhammo tasmā lokā”ti."
+    },
+    {
+      "id": "mn140:36.6",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn140:36.7",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn140:36.8",
+      "pali": "Dhātuvibhaṅgasuttaṁ niṭṭhitaṁ dasamaṁ."
+    }
+  ]
+}
