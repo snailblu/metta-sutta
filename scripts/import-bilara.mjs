@@ -1,4 +1,4 @@
-import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 
 const SOURCE_DIR = "/tmp/bilara-data/root/pli/ms/sutta";
@@ -72,6 +72,7 @@ async function writeJson(filePath, value) {
 
 async function main() {
   const filePaths = await findBilaraFiles(SOURCE_DIR);
+  await rm(OUTPUT_DIR, { recursive: true, force: true });
   const suttasByNikaya = {
     dn: [],
     mn: [],
