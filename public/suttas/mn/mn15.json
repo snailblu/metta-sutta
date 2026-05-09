@@ -1,0 +1,1051 @@
+{
+  "uid": "mn15",
+  "title": "Anumānasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn15:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn15:1.2",
+      "pali": "ekaṁ samayaṁ āyasmā mahāmoggallāno bhaggesu viharati susumāragire bhesakaḷāvane migadāye."
+    },
+    {
+      "id": "mn15:1.3",
+      "pali": "Tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn15:1.4",
+      "pali": "“āvuso bhikkhavo”ti."
+    },
+    {
+      "id": "mn15:1.5",
+      "pali": "“Āvuso”ti kho te bhikkhū āyasmato mahāmoggallānassa paccassosuṁ."
+    },
+    {
+      "id": "mn15:1.6",
+      "pali": "Āyasmā mahāmoggallāno etadavoca:"
+    },
+    {
+      "id": "mn15:2.1",
+      "pali": "“Pavāreti cepi, āvuso, bhikkhu:"
+    },
+    {
+      "id": "mn15:2.2",
+      "pali": "‘vadantu maṁ āyasmanto, vacanīyomhi āyasmantehī’ti, so ca hoti dubbaco, dovacassakaraṇehi dhammehi samannāgato, akkhamo appadakkhiṇaggāhī anusāsaniṁ, atha kho naṁ sabrahmacārī na ceva vattabbaṁ maññanti, na ca anusāsitabbaṁ maññanti, na ca tasmiṁ puggale vissāsaṁ āpajjitabbaṁ maññanti."
+    },
+    {
+      "id": "mn15:3.1",
+      "pali": "Katame cāvuso, dovacassakaraṇā dhammā?"
+    },
+    {
+      "id": "mn15:3.2",
+      "pali": "Idhāvuso, bhikkhu pāpiccho hoti, pāpikānaṁ icchānaṁ vasaṁ gato."
+    },
+    {
+      "id": "mn15:3.3",
+      "pali": "Yaṁpāvuso, bhikkhu pāpiccho hoti, pāpikānaṁ icchānaṁ vasaṁ gato—"
+    },
+    {
+      "id": "mn15:3.4",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.5",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu attukkaṁsako hoti paravambhī."
+    },
+    {
+      "id": "mn15:3.6",
+      "pali": "Yaṁpāvuso, bhikkhu attukkaṁsako hoti paravambhī—"
+    },
+    {
+      "id": "mn15:3.7",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.8",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu kodhano hoti kodhābhibhūto."
+    },
+    {
+      "id": "mn15:3.9",
+      "pali": "Yaṁpāvuso, bhikkhu kodhano hoti kodhābhibhūto—"
+    },
+    {
+      "id": "mn15:3.10",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.11",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu kodhano hoti kodhahetu upanāhī."
+    },
+    {
+      "id": "mn15:3.12",
+      "pali": "Yaṁpāvuso, bhikkhu kodhano hoti kodhahetu upanāhī—"
+    },
+    {
+      "id": "mn15:3.13",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.14",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu kodhano hoti kodhahetu abhisaṅgī."
+    },
+    {
+      "id": "mn15:3.15",
+      "pali": "Yaṁpāvuso, bhikkhu kodhano hoti kodhahetu abhisaṅgī—"
+    },
+    {
+      "id": "mn15:3.16",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.17",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu kodhano hoti kodhasāmantā vācaṁ nicchāretā."
+    },
+    {
+      "id": "mn15:3.18",
+      "pali": "Yaṁpāvuso, bhikkhu kodhano hoti kodhasāmantā vācaṁ nicchāretā—"
+    },
+    {
+      "id": "mn15:3.19",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.20",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu codito codakena codakaṁ paṭippharati."
+    },
+    {
+      "id": "mn15:3.21",
+      "pali": "Yaṁpāvuso, bhikkhu codito codakena codakaṁ paṭippharati—"
+    },
+    {
+      "id": "mn15:3.22",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.23",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu codito codakena codakaṁ apasādeti."
+    },
+    {
+      "id": "mn15:3.24",
+      "pali": "Yaṁpāvuso, bhikkhu codito codakena codakaṁ apasādeti—"
+    },
+    {
+      "id": "mn15:3.25",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.26",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu codito codakena codakassa paccāropeti."
+    },
+    {
+      "id": "mn15:3.27",
+      "pali": "Yaṁpāvuso, bhikkhu codito codakena codakassa paccāropeti—"
+    },
+    {
+      "id": "mn15:3.28",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.29",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu codito codakena aññenaññaṁ paṭicarati, bahiddhā kathaṁ apanāmeti, kopañca dosañca appaccayañca pātukaroti."
+    },
+    {
+      "id": "mn15:3.30",
+      "pali": "Yaṁpāvuso, bhikkhu codito codakena aññenaññaṁ paṭicarati, bahiddhā kathaṁ apanāmeti, kopañca dosañca appaccayañca pātukaroti—"
+    },
+    {
+      "id": "mn15:3.31",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.32",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu codito codakena apadāne na sampāyati."
+    },
+    {
+      "id": "mn15:3.33",
+      "pali": "Yaṁpāvuso, bhikkhu codito codakena apadāne na sampāyati—"
+    },
+    {
+      "id": "mn15:3.34",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.35",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu makkhī hoti paḷāsī."
+    },
+    {
+      "id": "mn15:3.36",
+      "pali": "Yaṁpāvuso, bhikkhu makkhī hoti paḷāsī—"
+    },
+    {
+      "id": "mn15:3.37",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.38",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu issukī hoti maccharī."
+    },
+    {
+      "id": "mn15:3.39",
+      "pali": "Yaṁpāvuso, bhikkhu issukī hoti maccharī—"
+    },
+    {
+      "id": "mn15:3.40",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.41",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu saṭho hoti māyāvī."
+    },
+    {
+      "id": "mn15:3.42",
+      "pali": "Yaṁpāvuso, bhikkhu saṭho hoti māyāvī—"
+    },
+    {
+      "id": "mn15:3.43",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.44",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu thaddho hoti atimānī."
+    },
+    {
+      "id": "mn15:3.45",
+      "pali": "Yaṁpāvuso, bhikkhu thaddho hoti atimānī—"
+    },
+    {
+      "id": "mn15:3.46",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.47",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī."
+    },
+    {
+      "id": "mn15:3.48",
+      "pali": "Yaṁpāvuso, bhikkhu sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī—"
+    },
+    {
+      "id": "mn15:3.49",
+      "pali": "ayampi dhammo dovacassakaraṇo."
+    },
+    {
+      "id": "mn15:3.50",
+      "pali": "Ime vuccantāvuso, dovacassakaraṇā dhammā."
+    },
+    {
+      "id": "mn15:4.1",
+      "pali": "No cepi, āvuso, bhikkhu pavāreti:"
+    },
+    {
+      "id": "mn15:4.2",
+      "pali": "‘vadantu maṁ āyasmanto, vacanīyomhi āyasmantehī’ti, so ca hoti suvaco, sovacassakaraṇehi dhammehi samannāgato, khamo padakkhiṇaggāhī anusāsaniṁ, atha kho naṁ sabrahmacārī vattabbañceva maññanti, anusāsitabbañca maññanti, tasmiñca puggale vissāsaṁ āpajjitabbaṁ maññanti."
+    },
+    {
+      "id": "mn15:5.1",
+      "pali": "Katame cāvuso, sovacassakaraṇā dhammā?"
+    },
+    {
+      "id": "mn15:5.2",
+      "pali": "Idhāvuso, bhikkhu na pāpiccho hoti, na pāpikānaṁ icchānaṁ vasaṁ gato."
+    },
+    {
+      "id": "mn15:5.3",
+      "pali": "Yaṁpāvuso, bhikkhu na pāpiccho hoti na pāpikānaṁ icchānaṁ vasaṁ gato—"
+    },
+    {
+      "id": "mn15:5.4",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.5",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu anattukkaṁsako hoti aparavambhī."
+    },
+    {
+      "id": "mn15:5.6",
+      "pali": "Yaṁpāvuso, bhikkhu anattukkaṁsako hoti aparavambhī—"
+    },
+    {
+      "id": "mn15:5.7",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.8",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu na kodhano hoti na kodhābhibhūto."
+    },
+    {
+      "id": "mn15:5.9",
+      "pali": "Yaṁpāvuso, bhikkhu na kodhano hoti na kodhābhibhūto—"
+    },
+    {
+      "id": "mn15:5.10",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.11",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu na kodhano hoti na kodhahetu upanāhī."
+    },
+    {
+      "id": "mn15:5.12",
+      "pali": "Yaṁpāvuso, bhikkhu na kodhano hoti na kodhahetu upanāhī—"
+    },
+    {
+      "id": "mn15:5.13",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.14",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu na kodhano hoti na kodhahetu abhisaṅgī."
+    },
+    {
+      "id": "mn15:5.15",
+      "pali": "Yaṁpāvuso, bhikkhu na kodhano hoti na kodhahetu abhisaṅgī—"
+    },
+    {
+      "id": "mn15:5.16",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.17",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu na kodhano hoti na kodhasāmantā vācaṁ nicchāretā."
+    },
+    {
+      "id": "mn15:5.18",
+      "pali": "Yaṁpāvuso, bhikkhu na kodhano hoti na kodhasāmantā vācaṁ nicchāretā—"
+    },
+    {
+      "id": "mn15:5.19",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.20",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu codito codakena codakaṁ nappaṭippharati."
+    },
+    {
+      "id": "mn15:5.21",
+      "pali": "Yaṁpāvuso, bhikkhu codito codakena codakaṁ nappaṭippharati—"
+    },
+    {
+      "id": "mn15:5.22",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.23",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu codito codakena codakaṁ na apasādeti."
+    },
+    {
+      "id": "mn15:5.24",
+      "pali": "Yaṁpāvuso, bhikkhu codito codakena codakaṁ na apasādeti—"
+    },
+    {
+      "id": "mn15:5.25",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.26",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu codito codakena codakassa na paccāropeti."
+    },
+    {
+      "id": "mn15:5.27",
+      "pali": "Yaṁpāvuso, bhikkhu codito codakena codakassa na paccāropeti—"
+    },
+    {
+      "id": "mn15:5.28",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.29",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu codito codakena na aññenaññaṁ paṭicarati, na bahiddhā kathaṁ apanāmeti, na kopañca dosañca appaccayañca pātukaroti."
+    },
+    {
+      "id": "mn15:5.30",
+      "pali": "Yaṁpāvuso, bhikkhu codito codakena na aññenaññaṁ paṭicarati, na bahiddhā kathaṁ apanāmeti, na kopañca dosañca appaccayañca pātukaroti—"
+    },
+    {
+      "id": "mn15:5.31",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.32",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu codito codakena apadāne sampāyati."
+    },
+    {
+      "id": "mn15:5.33",
+      "pali": "Yaṁpāvuso, bhikkhu codito codakena apadāne sampāyati—"
+    },
+    {
+      "id": "mn15:5.34",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.35",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu amakkhī hoti apaḷāsī."
+    },
+    {
+      "id": "mn15:5.36",
+      "pali": "Yaṁpāvuso, bhikkhu amakkhī hoti apaḷāsī—"
+    },
+    {
+      "id": "mn15:5.37",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.38",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu anissukī hoti amaccharī."
+    },
+    {
+      "id": "mn15:5.39",
+      "pali": "Yaṁpāvuso, bhikkhu anissukī hoti amaccharī—"
+    },
+    {
+      "id": "mn15:5.40",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.41",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu asaṭho hoti amāyāvī."
+    },
+    {
+      "id": "mn15:5.42",
+      "pali": "Yaṁpāvuso, bhikkhu asaṭho hoti amāyāvī—"
+    },
+    {
+      "id": "mn15:5.43",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.44",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu atthaddho hoti anatimānī."
+    },
+    {
+      "id": "mn15:5.45",
+      "pali": "Yaṁpāvuso, bhikkhu atthaddho hoti anatimānī—"
+    },
+    {
+      "id": "mn15:5.46",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.47",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu asandiṭṭhiparāmāsī hoti anādhānaggāhī suppaṭinissaggī."
+    },
+    {
+      "id": "mn15:5.48",
+      "pali": "Yaṁpāvuso, bhikkhu asandiṭṭhiparāmāsī hoti, anādhānaggāhī suppaṭinissaggī—"
+    },
+    {
+      "id": "mn15:5.49",
+      "pali": "ayampi dhammo sovacassakaraṇo."
+    },
+    {
+      "id": "mn15:5.50",
+      "pali": "Ime vuccantāvuso, sovacassakaraṇā dhammā."
+    },
+    {
+      "id": "mn15:6.1",
+      "pali": "Tatrāvuso, bhikkhunā attanāva attānaṁ evaṁ anuminitabbaṁ:"
+    },
+    {
+      "id": "mn15:6.2",
+      "pali": "‘yo khvāyaṁ puggalo pāpiccho, pāpikānaṁ icchānaṁ vasaṁ gato, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.3",
+      "pali": "ahañceva kho panassaṁ pāpiccho pāpikānaṁ icchānaṁ vasaṁ gato, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.4",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘na pāpiccho bhavissāmi, na pāpikānaṁ icchānaṁ vasaṁ gato’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.5",
+      "pali": "‘Yo khvāyaṁ puggalo attukkaṁsako paravambhī, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.6",
+      "pali": "ahañceva kho panassaṁ attukkaṁsako paravambhī, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.7",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘anattukkaṁsako bhavissāmi aparavambhī’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.8",
+      "pali": "‘Yo khvāyaṁ puggalo kodhano kodhābhibhūto, ayaṁ me puggalo appiyo amanāpo."
+    },
+    {
+      "id": "mn15:6.9",
+      "pali": "Ahañceva kho panassaṁ kodhano kodhābhibhūto, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.10",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘na kodhano bhavissāmi na kodhābhibhūto’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.11",
+      "pali": "‘Yo khvāyaṁ puggalo kodhano kodhahetu upanāhī, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.12",
+      "pali": "ahañceva kho panassaṁ kodhano kodhahetu upanāhī, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.13",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘na kodhano bhavissāmi na kodhahetu upanāhī’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.14",
+      "pali": "‘Yo khvāyaṁ puggalo kodhano kodhahetu abhisaṅgī, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.15",
+      "pali": "ahañceva kho panassaṁ kodhano kodhahetu abhisaṅgī, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.16",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘na kodhano bhavissāmi na kodhahetu abhisaṅgī’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.17",
+      "pali": "‘Yo khvāyaṁ puggalo kodhano kodhasāmantā vācaṁ nicchāretā, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.18",
+      "pali": "ahañceva kho panassaṁ kodhano kodhasāmantā vācaṁ nicchāretā, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.19",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘na kodhano bhavissāmi na kodhasāmantā vācaṁ nicchāressāmī’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.20",
+      "pali": "‘Yo khvāyaṁ puggalo codito codakena codakaṁ paṭippharati, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.21",
+      "pali": "ahañceva kho pana codito codakena codakaṁ paṭipphareyyaṁ, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.22",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘codito codakena codakaṁ nappaṭippharissāmī’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.23",
+      "pali": "‘Yo khvāyaṁ puggalo codito codakena codakaṁ apasādeti, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.24",
+      "pali": "ahañceva kho pana codito codakena codakaṁ apasādeyyaṁ, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.25",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘codito codakena codakaṁ na apasādessāmī’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.26",
+      "pali": "‘Yo khvāyaṁ puggalo codito codakena codakassa paccāropeti, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.27",
+      "pali": "ahañceva kho pana codito codakena codakassa paccāropeyyaṁ, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.28",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘codito codakena codakassa na paccāropessāmī’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.29",
+      "pali": "‘Yo khvāyaṁ puggalo codito codakena aññenaññaṁ paṭicarati, bahiddhā kathaṁ apanāmeti, kopañca dosañca appaccayañca pātukaroti, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.30",
+      "pali": "ahañceva kho pana codito codakena aññenaññaṁ paṭicareyyaṁ, bahiddhā kathaṁ apanāmeyyaṁ, kopañca dosañca appaccayañca pātukareyyaṁ, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.31",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘codito codakena na aññenaññaṁ paṭicarissāmi, na bahiddhā kathaṁ apanāmessāmi, na kopañca dosañca appaccayañca pātukarissāmī’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.32",
+      "pali": "‘Yo khvāyaṁ puggalo codito codakena apadāne na sampāyati, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.33",
+      "pali": "ahañceva kho pana codito codakena apadāne na sampāyeyyaṁ, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.34",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘codito codakena apadāne sampāyissāmī’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.35",
+      "pali": "‘Yo khvāyaṁ puggalo makkhī paḷāsī, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.36",
+      "pali": "ahañceva kho panassaṁ makkhī paḷāsī, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.37",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘amakkhī bhavissāmi apaḷāsī’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.38",
+      "pali": "‘Yo khvāyaṁ puggalo issukī maccharī, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.39",
+      "pali": "ahañceva kho panassaṁ issukī maccharī, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.40",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘anissukī bhavissāmi amaccharī’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.41",
+      "pali": "‘Yo khvāyaṁ puggalo saṭho māyāvī, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.42",
+      "pali": "ahañceva kho panassaṁ saṭho māyāvī, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.43",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘asaṭho bhavissāmi amāyāvī’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.44",
+      "pali": "‘Yo khvāyaṁ puggalo thaddho atimānī, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.45",
+      "pali": "ahañceva kho panassaṁ thaddho atimānī, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.46",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘atthaddho bhavissāmi anatimānī’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:6.47",
+      "pali": "‘Yo khvāyaṁ puggalo sandiṭṭhiparāmāsī ādhānaggāhī duppaṭinissaggī, ayaṁ me puggalo appiyo amanāpo;"
+    },
+    {
+      "id": "mn15:6.48",
+      "pali": "ahañceva kho panassaṁ sandiṭṭhiparāmāsī ādhānaggāhī duppaṭinissaggī, ahampāssaṁ paresaṁ appiyo amanāpo’ti."
+    },
+    {
+      "id": "mn15:6.49",
+      "pali": "Evaṁ jānantenāvuso, bhikkhunā ‘asandiṭṭhiparāmāsī bhavissāmi anādhānaggāhī suppaṭinissaggī’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn15:7.1",
+      "pali": "Tatrāvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.2",
+      "pali": "‘kiṁ nu khomhi pāpiccho, pāpikānaṁ icchānaṁ vasaṁ gato’ti?"
+    },
+    {
+      "id": "mn15:7.3",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.4",
+      "pali": "‘pāpiccho khomhi, pāpikānaṁ icchānaṁ vasaṁ gato’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.5",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.6",
+      "pali": "‘na khomhi pāpiccho, na pāpikānaṁ icchānaṁ vasaṁ gato’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.7",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.8",
+      "pali": "‘kiṁ nu khomhi attukkaṁsako paravambhī’ti?"
+    },
+    {
+      "id": "mn15:7.9",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.10",
+      "pali": "‘attukkaṁsako khomhi paravambhī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.11",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.12",
+      "pali": "‘anattukkaṁsako khomhi aparavambhī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.13",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.14",
+      "pali": "‘kiṁ nu khomhi kodhano kodhābhibhūto’ti?"
+    },
+    {
+      "id": "mn15:7.15",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.16",
+      "pali": "‘kodhano khomhi kodhābhibhūto’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.17",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.18",
+      "pali": "‘na khomhi kodhano kodhābhibhūto’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.19",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.20",
+      "pali": "‘kiṁ nu khomhi kodhano kodhahetu upanāhī’ti?"
+    },
+    {
+      "id": "mn15:7.21",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti ‘kodhano khomhi kodhahetu upanāhī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.22",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti ‘na khomhi kodhano kodhahetu upanāhī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.23",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.24",
+      "pali": "‘kiṁ nu khomhi kodhano kodhahetu abhisaṅgī’ti?"
+    },
+    {
+      "id": "mn15:7.25",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.26",
+      "pali": "‘kodhano khomhi kodhahetu abhisaṅgī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.27",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.28",
+      "pali": "‘na khomhi kodhano kodhahetu abhisaṅgī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.29",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.30",
+      "pali": "‘kiṁ nu khomhi kodhano kodhasāmantā vācaṁ nicchāretā’ti?"
+    },
+    {
+      "id": "mn15:7.31",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.32",
+      "pali": "‘kodhano khomhi kodhasāmantā vācaṁ nicchāretā’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.33",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.34",
+      "pali": "‘na khomhi kodhano kodhasāmantā vācaṁ nicchāretā’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.35",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.36",
+      "pali": "‘kiṁ nu khomhi codito codakena codakaṁ paṭippharāmī’ti?"
+    },
+    {
+      "id": "mn15:7.37",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti ‘codito khomhi codakena codakaṁ paṭippharāmī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.38",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.39",
+      "pali": "‘codito khomhi codakena codakaṁ nappaṭippharāmī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.40",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.41",
+      "pali": "‘kiṁ nu khomhi codito codakena codakaṁ apasādemī’ti?"
+    },
+    {
+      "id": "mn15:7.42",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti ‘codito khomhi codakena codakaṁ apasādemī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.43",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.44",
+      "pali": "‘codito khomhi codakena codakaṁ na apasādemī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.45",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.46",
+      "pali": "‘kiṁ nu khomhi codito codakena codakassa paccāropemī’ti?"
+    },
+    {
+      "id": "mn15:7.47",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.48",
+      "pali": "‘codito khomhi codakena codakassa paccāropemī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.49",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.50",
+      "pali": "‘codito khomhi codakena codakassa na paccāropemī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.51",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.52",
+      "pali": "‘kiṁ nu khomhi codito codakena aññenaññaṁ paṭicarāmi, bahiddhā kathaṁ apanāmemi, kopañca dosañca appaccayañca pātukaromī’ti?"
+    },
+    {
+      "id": "mn15:7.53",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.54",
+      "pali": "‘codito khomhi codakena aññenaññaṁ paṭicarāmi, bahiddhā kathaṁ apanāmemi, kopañca dosañca appaccayañca pātukaromī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.55",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.56",
+      "pali": "‘codito khomhi codakena na aññenaññaṁ paṭicarāmi, na bahiddhā kathaṁ apanāmemi, na kopañca dosañca appaccayañca pātukaromī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.57",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.58",
+      "pali": "‘kiṁ nu khomhi codito codakena apadāne na sampāyāmī’ti?"
+    },
+    {
+      "id": "mn15:7.59",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.60",
+      "pali": "‘codito khomhi codakena apadāne na sampāyāmī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.61",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.62",
+      "pali": "‘codito khomhi codakena apadāne sampāyāmī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.63",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.64",
+      "pali": "‘kiṁ nu khomhi makkhī paḷāsī’ti?"
+    },
+    {
+      "id": "mn15:7.65",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.66",
+      "pali": "‘makkhī khomhi paḷāsī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.67",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.68",
+      "pali": "‘amakkhī khomhi apaḷāsī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.69",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.70",
+      "pali": "‘kiṁ nu khomhi issukī maccharī’ti?"
+    },
+    {
+      "id": "mn15:7.71",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.72",
+      "pali": "‘issukī khomhi maccharī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.73",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.74",
+      "pali": "‘anissukī khomhi amaccharī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.75",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.76",
+      "pali": "‘kiṁ nu khomhi saṭho māyāvī’ti?"
+    },
+    {
+      "id": "mn15:7.77",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.78",
+      "pali": "‘saṭho khomhi māyāvī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.79",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.80",
+      "pali": "‘asaṭho khomhi amāyāvī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.81",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.82",
+      "pali": "‘kiṁ nu khomhi thaddho atimānī’ti?"
+    },
+    {
+      "id": "mn15:7.83",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.84",
+      "pali": "‘thaddho khomhi atimānī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.85",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.86",
+      "pali": "‘atthaddho khomhi anatimānī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:7.87",
+      "pali": "Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:"
+    },
+    {
+      "id": "mn15:7.88",
+      "pali": "‘kiṁ nu khomhi sandiṭṭhiparāmāsī ādhānaggāhī duppaṭinissaggī’ti?"
+    },
+    {
+      "id": "mn15:7.89",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.90",
+      "pali": "‘sandiṭṭhiparāmāsī khomhi ādhānaggāhī duppaṭinissaggī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:7.91",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti:"
+    },
+    {
+      "id": "mn15:7.92",
+      "pali": "‘asandiṭṭhiparāmāsī khomhi anādhānaggāhī suppaṭinissaggī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:8.1",
+      "pali": "Sace, āvuso, bhikkhu paccavekkhamāno sabbepime pāpake akusale dhamme appahīne attani samanupassati, tenāvuso, bhikkhunā sabbesaṁyeva imesaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:8.2",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno sabbepime pāpake akusale dhamme pahīne attani samanupassati, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ, ahorattānusikkhinā kusalesu dhammesu."
+    },
+    {
+      "id": "mn15:8.3",
+      "pali": "Seyyathāpi, āvuso, itthī vā puriso vā, daharo yuvā maṇḍanajātiko, ādāse vā parisuddhe pariyodāte, acche vā udakapatte, sakaṁ mukhanimittaṁ paccavekkhamāno, sace tattha passati rajaṁ vā aṅgaṇaṁ vā, tasseva rajassa vā aṅgaṇassa vā pahānāya vāyamati;"
+    },
+    {
+      "id": "mn15:8.4",
+      "pali": "no ce tattha passati rajaṁ vā aṅgaṇaṁ vā, teneva attamano hoti:"
+    },
+    {
+      "id": "mn15:8.5",
+      "pali": "‘lābhā vata me, parisuddhaṁ vata me’ti."
+    },
+    {
+      "id": "mn15:8.6",
+      "pali": "Evameva kho, āvuso, sace bhikkhu paccavekkhamāno sabbepime pāpake akusale dhamme appahīne attani samanupassati, tenāvuso, bhikkhunā sabbesaṁyeva imesaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ."
+    },
+    {
+      "id": "mn15:8.7",
+      "pali": "Sace panāvuso, bhikkhu paccavekkhamāno sabbepime pāpake akusale dhamme pahīne attani samanupassati, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ, ahorattānusikkhinā kusalesu dhammesū”ti."
+    },
+    {
+      "id": "mn15:8.8",
+      "pali": "Idamavocāyasmā mahāmoggallāno."
+    },
+    {
+      "id": "mn15:8.9",
+      "pali": "Attamanā te bhikkhū āyasmato mahāmoggallānassa bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn15:8.10",
+      "pali": "Anumānasuttaṁ niṭṭhitaṁ pañcamaṁ."
+    }
+  ]
+}

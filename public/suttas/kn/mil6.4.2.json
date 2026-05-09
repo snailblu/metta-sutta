@@ -1,0 +1,515 @@
+{
+  "uid": "mil6.4.2",
+  "title": "Anumānavagga",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "mil6.4.2:1.1",
+      "pali": "“Passatāraññake bhikkhū,"
+    },
+    {
+      "id": "mil6.4.2:1.2",
+      "pali": "ajjhogāḷhe dhute guṇe;"
+    },
+    {
+      "id": "mil6.4.2:1.3",
+      "pali": "Puna passati gihī rājā,"
+    },
+    {
+      "id": "mil6.4.2:1.4",
+      "pali": "anāgāmiphale ṭhite."
+    },
+    {
+      "id": "mil6.4.2:2.1",
+      "pali": "Ubhopi te viloketvā,"
+    },
+    {
+      "id": "mil6.4.2:2.2",
+      "pali": "uppajji saṁsayo mahā;"
+    },
+    {
+      "id": "mil6.4.2:2.3",
+      "pali": "Bujjheyya ce gihī dhamme,"
+    },
+    {
+      "id": "mil6.4.2:2.4",
+      "pali": "dhutaṅgaṁ nipphalaṁ siyā."
+    },
+    {
+      "id": "mil6.4.2:3.1",
+      "pali": "Paravādivādamathanaṁ,"
+    },
+    {
+      "id": "mil6.4.2:3.2",
+      "pali": "nipuṇaṁ piṭakattaye;"
+    },
+    {
+      "id": "mil6.4.2:3.3",
+      "pali": "Handa pucche kathiseṭṭhaṁ,"
+    },
+    {
+      "id": "mil6.4.2:3.4",
+      "pali": "so me kaṅkhaṁ vinessatī”ti."
+    },
+    {
+      "id": "mil6.4.2:4.1",
+      "pali": "Atha kho milindo rājā yenāyasmā nāgaseno tenupasaṅkami, upasaṅkamitvā āyasmantaṁ nāgasenaṁ abhivādetvā ekamantaṁ nisīdi, ekamantaṁ nisinno kho milindo rājā āyasmantaṁ nāgasenaṁ etadavoca—"
+    },
+    {
+      "id": "mil6.4.2:4.2",
+      "pali": "“bhante nāgasena, atthi koci gihī agāriko kāmabhogī puttadārasambādhasayanaṁ ajjhāvasanto kāsikacandanaṁ paccanubhonto mālāgandhavilepanaṁ dhārayanto jātarūparajataṁ sādiyanto maṇimuttākañcanavicittamoḷibaddho yena santaṁ paramatthaṁ nibbānaṁ sacchikatan”ti?"
+    },
+    {
+      "id": "mil6.4.2:5.1",
+      "pali": "“Na, mahārāja, ekaññeva sataṁ na dve satāni na tīṇi cattāri pañca satāni na sahassaṁ na satasahassaṁ na koṭisataṁ na koṭisahassaṁ na koṭisatasahassaṁ, tiṭṭhatu, mahārāja, dasannaṁ vīsatiyā satassa sahassassa abhisamayo, katamena te pariyāyena anuyogaṁ dammī”ti."
+    },
+    {
+      "id": "mil6.4.2:6.1",
+      "pali": "“Tvamevetaṁ brūhī”ti."
+    },
+    {
+      "id": "mil6.4.2:6.2",
+      "pali": "“Tena hi te, mahārāja, kathayissāmi satena vā sahassena vā satasahassena vā koṭiyā vā koṭisatena vā koṭisahassena vā koṭisatasahassena vā, yā kāci navaṅge buddhavacane sallekhitācārappaṭipattidhutavaraṅgaguṇanissitā kathā, tā sabbā idha samosarissanti."
+    },
+    {
+      "id": "mil6.4.2:6.3",
+      "pali": "Yathā, mahārāja, ninnunnatasamavisamathalāthaladesabhāge abhivuṭṭhaṁ udakaṁ, sabbaṁ taṁ tato vinigaḷitvā mahodadhiṁ sāgaraṁ samosarati;"
+    },
+    {
+      "id": "mil6.4.2:6.4",
+      "pali": "evameva kho, mahārāja, sampādake sati yā kāci navaṅge buddhavacane sallekhitācārappaṭipattidhutaṅgaguṇadharanissitā kathā, tā sabbā idha samosarissanti."
+    },
+    {
+      "id": "mil6.4.2:7.1",
+      "pali": "Mayhampettha, mahārāja, paribyattatāya buddhiyā kāraṇaparidīpanaṁ samosarissati, teneso attho suvibhatto vicitto paripuṇṇo parisuddho samānīto bhavissati."
+    },
+    {
+      "id": "mil6.4.2:7.2",
+      "pali": "Yathā, mahārāja, kusalo lekhācariyo anusiṭṭho lekhaṁ osārento attano byattatāya buddhiyā kāraṇaparidīpanena lekhaṁ paripūreti, evaṁ sā lekhā samattā paripuṇṇā anūnikā bhavissati."
+    },
+    {
+      "id": "mil6.4.2:7.3",
+      "pali": "Evameva mayhampettha paribyattatāya buddhiyā kāraṇaparidīpanaṁ samosarissati, teneso attho suvibhatto vicitto paripuṇṇo parisuddho samānīto bhavissati."
+    },
+    {
+      "id": "mil6.4.2:8.1",
+      "pali": "Nagare, mahārāja, sāvatthiyā pañcakoṭimattā ariyasāvakā bhagavato upāsakaupāsikāyo sattapaṇṇāsasahassāni tīṇi ca satasahassāni anāgāmiphale patiṭṭhitā, te sabbepi gihīyeva, na pabbajitā."
+    },
+    {
+      "id": "mil6.4.2:8.2",
+      "pali": "Puna tattheva kaṇḍambamūle yamakapāṭihāriye vīsati pāṇakoṭiyo abhisamiṁsu, puna cūḷarāhulovāde, mahāmaṅgalasuttante, samacittapariyāye, parābhavasuttante, purābhedasuttante, kalahavivādasuttante, cūḷabyūhasuttante, mahābyūhasuttante, tuvaṭakasuttante, sāriputtasuttante gaṇanapathamatītānaṁ devatānaṁ dhammābhisamayo ahosi."
+    },
+    {
+      "id": "mil6.4.2:9.1",
+      "pali": "Nagare rājagahe paññāsasahassāni tīṇi ca satasahassāni ariyasāvakā bhagavato upāsakaupāsikāyo, puna tattheva dhanapālahatthināgadamane navuti pāṇakoṭiyo, pārāyanasamāgame pāsāṇakacetiye cuddasa pāṇakoṭiyo, puna indasālaguhāyaṁ asīti devatākoṭiyo, puna bārāṇasiyaṁ isipatane migadāye paṭhame dhammadesane aṭṭhārasa brahmakoṭiyo aparimāṇā ca devatāyo, puna tāvatiṁsabhavane paṇḍukambalasilāyaṁ abhidhammadesanāya asīti devatākoṭiyo, devorohaṇe saṅkassanagaradvāre lokavivaraṇapāṭihāriye pasannānaṁ naramarūnaṁ tiṁsa koṭiyo abhisamiṁsu."
+    },
+    {
+      "id": "mil6.4.2:10.1",
+      "pali": "Puna sakkesu kapilavatthusmiṁ nigrodhārāme buddhavaṁsadesanāya mahāsamayasuttantadesanāya ca gaṇanapathamatītānaṁ devatānaṁ dhammābhisamayo ahosi."
+    },
+    {
+      "id": "mil6.4.2:10.2",
+      "pali": "Puna sumanamālākārasamāgame, garahadinnasamāgame, ānandaseṭṭhisamāgame, jambukājīvakasamāgame, maṇḍukadevaputtasamāgame, maṭṭhakuṇḍalidevaputtasamāgame, sulasānagarasobhinisamāgame, sirimānagarasobhinisamāgame, pesakāradhītusamāgame, cūḷasubhaddāsamāgame, sāketabrāhmaṇassa āḷāhanadassanasamāgame, sūnāparantakasamāgame, sakkapañhasamāgame, tirokuṭṭasamāgame, ratanasuttasamāgame paccekaṁ caturāsītiyā pāṇasahassānaṁ dhammābhisamayo ahosi, yāvatā, mahārāja, bhagavā loke aṭṭhāsi, tāva tīsu maṇḍalesu soḷasasu mahājanapadesu yattha yattha bhagavā vihāsi, tattha tattha yebhuyyena dve tayo cattāro pañca sataṁ sahassaṁ satasahassaṁ devā ca manussā ca santaṁ paramatthaṁ nibbānaṁ sacchikariṁsu."
+    },
+    {
+      "id": "mil6.4.2:10.3",
+      "pali": "Ye te, mahārāja, devā gihīyeva, na te pabbajitā, etāni ceva, mahārāja, aññāni ca anekāni devatākoṭisatasahassāni gihī agārikā kāmabhogino santaṁ paramatthaṁ nibbānaṁ sacchikariṁsū”ti."
+    },
+    {
+      "id": "mil6.4.2:11.1",
+      "pali": "“Yadi, bhante nāgasena, gihī agārikā kāmabhogino santaṁ paramatthaṁ nibbānaṁ sacchikaronti, atha imāni dhutaṅgāni kimatthaṁ sādhenti, tena kāraṇena dhutaṅgāni akiccakarāni honti."
+    },
+    {
+      "id": "mil6.4.2:11.2",
+      "pali": "Yadi, bhante nāgasena, vinā mantosadhehi byādhayo vūpasamanti, kiṁ vamanavirecanādinā sarīradubbalakaraṇena?"
+    },
+    {
+      "id": "mil6.4.2:11.3",
+      "pali": "Yadi muṭṭhīhi paṭisattuniggaho bhavati, kiṁ asisattisaradhanukodaṇḍalaguḷamuggarehi?"
+    },
+    {
+      "id": "mil6.4.2:11.4",
+      "pali": "Yadi gaṇṭhikuṭilasusirakaṇṭalatāsākhā ālambitvā rukkhamabhirūhanaṁ bhavati, kiṁ dīghadaḷhanisseṇipariyesanena?"
+    },
+    {
+      "id": "mil6.4.2:11.5",
+      "pali": "Yadi thaṇḍilaseyyāya dhātusamatā bhavati, kiṁ sukhasamphassamahatimahāsirisayanapariyesanena?"
+    },
+    {
+      "id": "mil6.4.2:11.6",
+      "pali": "Yadi ekako sāsaṅkasappaṭibhayavisamakantārataraṇasamattho bhavati, kiṁ sannaddhasajjamahatimahāsatthapariyesanena?"
+    },
+    {
+      "id": "mil6.4.2:11.7",
+      "pali": "Yadi nadisaraṁ bāhunā tarituṁ samattho bhavati, kiṁ dhuvasetunāvāpariyesanena?"
+    },
+    {
+      "id": "mil6.4.2:11.8",
+      "pali": "Yadi sakasantakena ghāsacchādanaṁ kātuṁ pahoti, kiṁ parūpasevanapiyasamullāpapacchāpuredhāvanena?"
+    },
+    {
+      "id": "mil6.4.2:11.9",
+      "pali": "Yadi akhātataḷāke udakaṁ labhati, kiṁ udapānataḷākapokkharaṇikhaṇanena?"
+    },
+    {
+      "id": "mil6.4.2:11.10",
+      "pali": "Evameva kho, bhante nāgasena, yadi gihī agārikā kāmabhogino santaṁ paramatthaṁ nibbānaṁ sacchikaronti, kiṁ dhutaguṇavarasamādiyanenā”ti?"
+    },
+    {
+      "id": "mil6.4.2:12.1",
+      "pali": "“Aṭṭhavīsati kho panime, mahārāja, dhutaṅgaguṇā yathābhuccaguṇā, yehi guṇehi dhutaṅgāni sabbabuddhānaṁ pihayitāni patthitāni."
+    },
+    {
+      "id": "mil6.4.2:12.2",
+      "pali": "Katame aṭṭhavīsati?"
+    },
+    {
+      "id": "mil6.4.2:12.3",
+      "pali": "Idha, mahārāja, dhutaṅgaṁ suddhājīvaṁ sukhaphalaṁ anavajjaṁ na paradukkhāpanaṁ abhayaṁ asampīḷanaṁ ekantavaḍḍhikaṁ aparihāniyaṁ amāyaṁ ārakkhā patthitadadaṁ sabbasattadamanaṁ saṁvarahitaṁ patirūpaṁ anissitaṁ vippamuttaṁ rāgakkhayaṁ dosakkhayaṁ mohakkhayaṁ mānappahānaṁ kuvitakkacchedanaṁ kaṅkhāvitaraṇaṁ kosajjaviddhaṁsanaṁ aratippahānaṁ khamanaṁ atulaṁ appamāṇaṁ sabbadukkhakkhayagamanaṁ, ime kho, mahārāja, aṭṭhavīsati dhutaṅgaguṇā yathābhuccaguṇā yehi guṇehi dhutaṅgāni sabbabuddhānaṁ pihayitāni patthitāni."
+    },
+    {
+      "id": "mil6.4.2:13.1",
+      "pali": "Ye kho te, mahārāja, dhutaguṇe sammā upasevanti, te aṭṭhārasahi guṇehi samupetā bhavanti."
+    },
+    {
+      "id": "mil6.4.2:13.2",
+      "pali": "Katamehi aṭṭhārasahi?"
+    },
+    {
+      "id": "mil6.4.2:13.3",
+      "pali": "Ācāro tesaṁ suvisuddho hoti, paṭipadā supūritā hoti, kāyikaṁ vācasikaṁ surakkhitaṁ hoti, manosamācāro suvisuddho hoti, vīriyaṁ supaggahitaṁ hoti, bhayaṁ vūpasammati, attānudiṭṭhibyapagatā hoti, āghāto uparato hoti, mettā upaṭṭhitā hoti, āhāro pariññāto hoti, sabbasattānaṁ garukato hoti, bhojane mattaññū hoti, jāgariyamanuyutto hoti, aniketo hoti, yattha phāsu tattha vihārī hoti, pāpajegucchī hoti, vivekārāmo hoti, satataṁ appamatto hoti, ye te, mahārāja, dhutaguṇe sammā upasevanti, te imehi aṭṭhārasahi guṇehi samupetā bhavanti."
+    },
+    {
+      "id": "mil6.4.2:14.1",
+      "pali": "Dasa ime, mahārāja, puggalā dhutaguṇārahā."
+    },
+    {
+      "id": "mil6.4.2:14.2",
+      "pali": "Katame dasa?"
+    },
+    {
+      "id": "mil6.4.2:14.3",
+      "pali": "Saddho hoti hirimā dhitimā akuho atthavasī alolo sikkhākāmo daḷhasamādāno anujjhānabahulo mettāvihārī, ime kho, mahārāja, dasa puggalā dhutaguṇārahā."
+    },
+    {
+      "id": "mil6.4.2:15.1",
+      "pali": "Ye te, mahārāja, gihī agārikā kāmabhogino santaṁ paramatthaṁ nibbānaṁ sacchikaronti, sabbe te purimāsu jātīsu terasasu dhutaguṇesu katūpāsanā katabhūmikammā, te tattha cārañca paṭipattiñca sodhayitvā ajjetarahi gihīyeva santā santaṁ paramatthaṁ nibbānaṁ sacchikaronti."
+    },
+    {
+      "id": "mil6.4.2:16.1",
+      "pali": "Yathā, mahārāja, kusalo issāso antevāsike paṭhamaṁ tāva upāsanasālāyaṁ cāpabhedacāpāropanaggahaṇamuṭṭhippaṭipīḷanaaṅgulivināmanapādaṭhapanasaraggahaṇasannahanaākaḍḍhanasandhāraṇalakkhaniyamanakhipane tiṇapurisakachakaṇatiṇapalālamattikāpuñjaphalakalakkhavedhe anusikkhāpetvā rañño santike upāsanaṁ ārādhayitvā ājaññarathagajaturaṅgadhanadhaññahiraññasuvaṇṇadāsidāsabhariyagāmavaraṁ labhati;"
+    },
+    {
+      "id": "mil6.4.2:16.2",
+      "pali": "evameva kho, mahārāja, ye te gihī agārikā kāmabhogino santaṁ paramatthaṁ nibbānaṁ sacchikaronti, te sabbe purimāsu jātīsu terasasu dhutaguṇesu katūpāsanā katabhūmikammā, te tattheva cārañca paṭipattiñca sodhayitvā ajjetarahi gihīyeva santā santaṁ paramatthaṁ nibbānaṁ sacchikaronti."
+    },
+    {
+      "id": "mil6.4.2:16.3",
+      "pali": "Na, mahārāja, dhutaguṇesu pubbāsevanaṁ vinā ekissāyeva jātiyā arahattaṁ sacchikiriyā hoti, uttamena pana vīriyena uttamāya paṭipattiyā tathārūpena ācariyena kalyāṇamittena arahattaṁ sacchikiriyā hoti."
+    },
+    {
+      "id": "mil6.4.2:17.1",
+      "pali": "Yathā vā pana, mahārāja, bhisakko sallakatto ācariyaṁ dhanena vā vattappaṭipattiyā vā ārādhetvā satthaggahaṇachedanalekhanavedhanasalluddharaṇavaṇadhovanasosanabhesajjānulimpanavamanavirecanānuvāsanakiriyamanusikkhitvā vijjāsu katasikkho katūpāsano katahattho āture upasaṅkamati tikicchāya;"
+    },
+    {
+      "id": "mil6.4.2:17.2",
+      "pali": "evameva kho, mahārāja, ye te gihī agārikā kāmabhogino santaṁ paramatthaṁ nibbānaṁ sacchikaronti, te sabbe purimāsu jātīsu terasasu dhutaguṇesu katūpāsanā katabhūmikammā, te tattheva cārañca paṭipattiñca sodhayitvā ajjetarahi gihīyeva santā santaṁ paramatthaṁ nibbānaṁ sacchikaronti, na, mahārāja, dhutaguṇehi avisuddhānaṁ dhammābhisamayo hoti."
+    },
+    {
+      "id": "mil6.4.2:18.1",
+      "pali": "Yathā, mahārāja, udakassa asecanena bījānaṁ avirūhanaṁ hoti;"
+    },
+    {
+      "id": "mil6.4.2:18.2",
+      "pali": "evameva kho, mahārāja, dhutaguṇehi avisuddhānaṁ dhammābhisamayo na hoti."
+    },
+    {
+      "id": "mil6.4.2:19.1",
+      "pali": "Yathā vā pana, mahārāja, akatakusalānaṁ akatakalyāṇānaṁ sugatigamanaṁ na hoti;"
+    },
+    {
+      "id": "mil6.4.2:19.2",
+      "pali": "evameva kho, mahārāja, dhutaguṇehi avisuddhānaṁ dhammābhisamayo na hoti."
+    },
+    {
+      "id": "mil6.4.2:20.1",
+      "pali": "Pathavisamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ patiṭṭhānaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:21.1",
+      "pali": "Āposamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ sabbakilesamaladhovanaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:22.1",
+      "pali": "Tejosamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ sabbakilesavanajjhāpanaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:23.1",
+      "pali": "Vāyosamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ sabbakilesamalarajopavāhanaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:24.1",
+      "pali": "Agadasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ sabbakilesabyādhivūpasamanaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:25.1",
+      "pali": "Amatasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ sabbakilesavisanāsanaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:26.1",
+      "pali": "Khettasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ sabbasāmaññaguṇasassavirūhanaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:27.1",
+      "pali": "Manoharasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ patthiticchitasabbasampattivaradadaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:28.1",
+      "pali": "Nāvāsamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ saṁsāramahaṇṇavapāragamanaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:29.1",
+      "pali": "Bhīruttāṇasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ jarāmaraṇabhītānaṁ assāsakaraṇaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:30.1",
+      "pali": "Mātusamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ kilesadukkhappaṭipīḷitānaṁ anuggāhakaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:31.1",
+      "pali": "Pitusamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ kusalavaḍḍhikāmānaṁ sabbasāmaññaguṇajanakaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:32.1",
+      "pali": "Mittasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ sabbasāmaññaguṇapariyesanaavisaṁvādakaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:33.1",
+      "pali": "Padumasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ sabbakilesamalehi anupalittaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:34.1",
+      "pali": "Catujjātiyavaragandhasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ kilesaduggandhapaṭivinodanaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:35.1",
+      "pali": "Girirājavarasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ aṭṭhalokadhammavātehi akampiyaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:36.1",
+      "pali": "Ākāsasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ sabbattha gahaṇāpagatauruvisaṭavitthatamahantaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:37.1",
+      "pali": "Nadīsamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ kilesamalapavāhanaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:38.1",
+      "pali": "Sudesakasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ jātikantārakilesavanagahananittharaṇaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:39.1",
+      "pali": "Mahāsatthavāhasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ sabbabhayasuññakhemaabhayavarapavaranibbānanagarasampāpanaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:40.1",
+      "pali": "Sumajjitavimalādāsasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ saṅkhārānaṁ sabhāvadassanaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:41.1",
+      "pali": "Phalakasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ kilesalaguḷasarasattipaṭibāhanaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:42.1",
+      "pali": "Chattasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ kilesavassatividhaggisantāpātapapaṭibāhanaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:43.1",
+      "pali": "Candasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ pihayitapatthitaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:44.1",
+      "pali": "Sūriyasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ mohatamatimiranāsanaṭṭhena."
+    },
+    {
+      "id": "mil6.4.2:45.1",
+      "pali": "Sāgarasamaṁ, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ anekavidhasāmaññaguṇavararatanuṭṭhānaṭṭhena, aparimitaasaṅkhyeyyaappameyyaṭṭhena ca."
+    },
+    {
+      "id": "mil6.4.2:46.1",
+      "pali": "Evaṁ kho, mahārāja, dhutaguṇaṁ visuddhikāmānaṁ bahūpakāraṁ sabbadarathapariḷāhanudaṁ aratinudaṁ bhayanudaṁ bhavanudaṁ khīlanudaṁ malanudaṁ sokanudaṁ dukkhanudaṁ rāganudaṁ dosanudaṁ mohanudaṁ mānanudaṁ diṭṭhinudaṁ sabbākusaladhammanudaṁ yasāvahaṁ hitāvahaṁ sukhāvahaṁ phāsukaraṁ pītikaraṁ yogakkhemakaraṁ anavajjaṁ iṭṭhasukhavipākaṁ guṇarāsiguṇapuñjaaparimitaasaṅkhyeyyaappameyyaguṇaṁ varaṁ pavaraṁ aggaṁ."
+    },
+    {
+      "id": "mil6.4.2:47.1",
+      "pali": "Yathā, mahārāja, manussā upatthambhavasena bhojanaṁ upasevanti, hitavasena bhesajjaṁ upasevanti, upakāravasena mittaṁ upasevanti, tāraṇavasena nāvaṁ upasevanti, sugandhavasena mālāgandhaṁ upasevanti, abhayavasena bhīruttāṇaṁ upasevanti, patiṭṭhāvasena pathaviṁ upasevanti, sippavasena ācariyaṁ upasevanti, yasavasena rājānaṁ upasevanti, kāmadadavasena maṇiratanaṁ upasevanti;"
+    },
+    {
+      "id": "mil6.4.2:47.2",
+      "pali": "evameva kho, mahārāja, sabbasāmaññaguṇadadavasena ariyā dhutaguṇaṁ upasevanti."
+    },
+    {
+      "id": "mil6.4.2:48.1",
+      "pali": "Yathā vā pana, mahārāja, udakaṁ bījavirūhanāya, aggi jhāpanāya, āhāro balāharaṇāya, latā bandhanāya, satthaṁ chedanāya, pānīyaṁ pipāsāvinayanāya, nidhi assāsakaraṇāya, nāvā tīrasampāpanāya, bhesajjaṁ byādhivūpasamanāya, yānaṁ sukhagamanāya, bhīruttāṇaṁ bhayavinodanāya, rājā ārakkhatthāya, phalakaṁ daṇḍaleḍḍulaguḷasarasattipaṭibāhanāya, ācariyo anusāsanāya, mātā posanāya, ādāso olokanāya, alaṅkāro sobhanāya, vatthaṁ paṭicchādanāya, nisseṇī ārohanāya, tulā visamavikkhepanāya, mantaṁ parijappanāya, āvudhaṁ tajjanīyapaṭibāhanāya, padīpo andhakāravidhamanāya, vāto pariḷāhanibbāpanāya, sippaṁ vuttinipphādanāya, agadaṁ jīvitarakkhaṇāya, ākaro ratanuppādanāya, ratanaṁ alaṅkarāya, āṇā anatikkamanāya, issariyaṁ vasavattanāya;"
+    },
+    {
+      "id": "mil6.4.2:48.2",
+      "pali": "evameva kho, mahārāja, dhutaguṇaṁ sāmaññabījavirūhanāya, kilesamalajhāpanāya, iddhibalāharaṇāya, satisaṁvaranibandhanāya, vimativicikicchāsamucchedanāya, taṇhāpipāsāvinayanāya, abhisamayaassāsakaraṇāya, caturoghanittharaṇāya, kilesabyādhivūpasamāya, nibbānasukhappaṭilābhāya, jātijarābyādhimaraṇasokaparidevadukkhadomanassupāyāsabhayavinodanāya, sāmaññaguṇaparirakkhaṇāya, aratikuvitakkapaṭibāhanāya, sakalasāmaññatthānusāsanāya, sabbasāmaññaguṇaposanāya, samathavipassanāmaggaphalanibbānadassanāya, sakalalokathutathomitamahatimahāsobhanakaraṇāya, sabbāpāyapidahanāya, sāmaññatthaselasikharamuddhani abhirūhanāya, vaṅkakuṭilavisamacittavikkhepanāya, sevitabbāsevitabbadhamme sādhusajjhāyakaraṇāya, sabbakilesapaṭisattutajjanāya, avijjandhakāravidhamanāya, tividhaggisantāpapariḷāhanibbāpanāya, saṇhasukhumasantasamāpattinipphādanāya, sakalasāmaññaguṇaparirakkhaṇāya, bojjhaṅgavararatanuppādanāya, yogijanālaṅkaraṇāya, anavajjanipuṇasukhumasantisukhamanatikkamanāya, sakalasāmaññaariyadhammavasavattanāya."
+    },
+    {
+      "id": "mil6.4.2:48.3",
+      "pali": "Iti, mahārāja, imesaṁ guṇānaṁ adhigamāya yadidaṁ ekamekaṁ dhutaguṇaṁ, evaṁ, mahārāja, atuliyaṁ dhutaguṇaṁ appameyyaṁ asamaṁ appaṭisamaṁ appaṭibhāgaṁ appaṭiseṭṭhaṁ uttaraṁ seṭṭhaṁ visiṭṭhaṁ adhikaṁ āyataṁ puthulaṁ visaṭaṁ vitthataṁ garukaṁ bhāriyaṁ mahantaṁ."
+    },
+    {
+      "id": "mil6.4.2:49.1",
+      "pali": "Yo kho, mahārāja, puggalo pāpiccho icchāpakato kuhako luddho odariko lābhakāmo yasakāmo kittikāmo ayutto appatto ananucchaviko anaraho appatirūpo dhutaṅgaṁ samādiyati, so diguṇaṁ daṇḍamāpajjati, sabbaguṇaghātamāpajjati, diṭṭhadhammikaṁ hīḷanaṁ khīḷanaṁ garahanaṁ uppaṇḍanaṁ khipanaṁ asambhogaṁ nissāraṇaṁ nicchubhanaṁ pavāhanaṁ pabbājanaṁ paṭilabhati, samparāyepi satayojanike avīcimahāniraye uṇhakaṭhitatattasantattaaccijālāmālake anekavassakoṭisatasahassāni uddhamadho tiriyaṁ pheṇuddehakaṁ samparivattakaṁ paccati, tato muccitvā kisapharusakāḷaṅgapaccaṅgo sūnuddhumātasusiruttamaṅgo chāto pipāsito visamabhīmarūpavaṇṇo bhaggakaṇṇasoto ummīlitanimīlitanettanayano arugattapakkagatto pulavākiṇṇasabbakāyo vātamukhe jalamāno viya aggikkhandho anto jalamāno pajjalamāno atāṇo asaraṇo āruṇṇaruṇṇakāruññaravaṁ paridevamāno nijjhāmataṇhiko samaṇamahāpeto hutvā āhiṇḍamāno mahiyā aṭṭassaraṁ karoti."
+    },
+    {
+      "id": "mil6.4.2:50.1",
+      "pali": "Yathā, mahārāja, koci ayutto appatto ananucchaviko anaraho appatirūpo hīno kujātiko khattiyābhisekena abhisiñcati, so labhati hatthacchedaṁ pādacchedaṁ hatthapādacchedaṁ kaṇṇacchedaṁ nāsacchedaṁ kaṇṇanāsacchedaṁ bilaṅgathālikaṁ saṅkhamuṇḍikaṁ rāhumukhaṁ jotimālikaṁ hatthapajjotikaṁ erakavattikaṁ cīrakavāsikaṁ eṇeyyakaṁ baḷisamaṁsikaṁ kahāpaṇakaṁ khārāpatacchikaṁ palighaparivattikaṁ palālapīṭhakaṁ tattena telena osiñcanaṁ sunakhehi khādāpanaṁ jīvasūlāropanaṁ asinā sīsacchedaṁ anekavihitampi kammakāraṇaṁ anubhavati."
+    },
+    {
+      "id": "mil6.4.2:50.2",
+      "pali": "Kiṁ kāraṇā?"
+    },
+    {
+      "id": "mil6.4.2:50.3",
+      "pali": "Ayutto appatto ananucchaviko anaraho appatirūpo hīno kujātiko mahante issariye ṭhāne attānaṁ ṭhapesi, velaṁ ghātesi."
+    },
+    {
+      "id": "mil6.4.2:50.4",
+      "pali": "Evameva kho, mahārāja, yo koci puggalo pāpiccho …pe…"
+    },
+    {
+      "id": "mil6.4.2:50.5",
+      "pali": "mahiyā aṭṭassaraṁ karoti."
+    },
+    {
+      "id": "mil6.4.2:51.1",
+      "pali": "Yo pana, mahārāja, puggalo yutto patto anucchaviko araho patirūpo appiccho santuṭṭho pavivitto asaṁsaṭṭho āraddhavīriyo pahitatto asaṭho amāyo anodariko alābhakāmo ayasakāmo akittikāmo saddho saddhāpabbajito jarāmaraṇā muccitukāmo ‘sāsanaṁ paggaṇhissāmī’ti dhutaṅgaṁ samādiyati, so diguṇaṁ pūjaṁ arahati devānañca piyo hoti manāpo pihayito patthito, jātisumanamallikādīnaṁ viya pupphaṁ nahātānulittassa, jighacchitassa viya paṇītabhojanaṁ, pipāsitassa viya sītalavimalasurabhipānīyaṁ, visagatassa viya osadhavaraṁ, sīghagamanakāmassa viya ājaññarathavaruttamaṁ, atthakāmassa viya manoharamaṇiratanaṁ, abhisiñcitukāmassa viya paṇḍaravimalasetacchattaṁ, dhammakāmassa viya arahattaphalādhigamamanuttaraṁ."
+    },
+    {
+      "id": "mil6.4.2:51.2",
+      "pali": "Tassa cattāro satipaṭṭhānā bhāvanāpāripūriṁ gacchanti, cattāro sammappadhānā cattāro iddhipādā pañcindriyāni pañca balāni satta bojjhaṅgā ariyo aṭṭhaṅgiko maggo bhāvanāpāripūriṁ gacchati, samathavipassanā adhigacchati, adhigamappaṭipatti pariṇamati, cattāri sāmaññaphalāni catasso paṭisambhidā tisso vijjā chaḷabhiññā kevalo ca samaṇadhammo sabbe tassādheyyā honti, vimuttipaṇḍaravimalasetacchattena abhisiñcati."
+    },
+    {
+      "id": "mil6.4.2:52.1",
+      "pali": "Yathā, mahārāja, rañño khattiyassa abhijātakulakulīnassa khattiyābhisekena abhisittassa paricaranti saraṭṭhanegamajānapadabhaṭabalā aṭṭhattiṁsā ca rājaparisā naṭanaccakā mukhamaṅgalikā sotthivācakā samaṇabrāhmaṇasabbapāsaṇḍagaṇā abhigacchanti, yaṁ kiñci pathaviyā paṭṭanaratanākaranagarasuṅkaṭṭhānaverajjakachejjabhejjajanamanusāsanaṁ sabbattha sāmiko bhavati;"
+    },
+    {
+      "id": "mil6.4.2:52.2",
+      "pali": "evameva kho, mahārāja, yo koci puggalo yutto patto …pe…"
+    },
+    {
+      "id": "mil6.4.2:52.3",
+      "pali": "vimuttipaṇḍaravimalasetacchattena abhisiñcati."
+    },
+    {
+      "id": "mil6.4.2:53.1",
+      "pali": "Terasimāni, mahārāja, dhutaṅgāni, yehi suddhikato nibbānamahāsamuddaṁ pavisitvā bahuvidhaṁ dhammakīḷamabhikīḷati, rūpārūpaaṭṭhasamāpattiyo vaḷañjeti, iddhividhaṁ dibbasotadhātuṁ paracittavijānanaṁ pubbenivāsānussatiṁ dibbacakkhuṁ sabbāsavakkhayañca pāpuṇāti."
+    },
+    {
+      "id": "mil6.4.2:53.2",
+      "pali": "Katame terasa?"
+    },
+    {
+      "id": "mil6.4.2:53.3",
+      "pali": "Paṁsukūlikaṅgaṁ tecīvarikaṅgaṁ piṇḍapātikaṅgaṁ sapadānacārikaṅgaṁ ekāsanikaṅgaṁ pattapiṇḍikaṅgaṁ khalupacchābhattikaṅgaṁ āraññikaṅgaṁ rukkhamūlikaṅgaṁ abbhokāsikaṅgaṁ sosānikaṅgaṁ yathāsanthatikaṅgaṁ nesajjikaṅgaṁ, imehi kho, mahārāja, terasahi dhutaguṇehi pubbe āsevitehi nisevitehi ciṇṇehi pariciṇṇehi caritehi upacaritehi paripūritehi kevalaṁ sāmaññaṁ paṭilabhati, tassādheyyā honti kevalā santā sukhā samāpattiyo."
+    },
+    {
+      "id": "mil6.4.2:54.1",
+      "pali": "Yathā, mahārāja, sadhano nāviko paṭṭane suṭṭhu katasuṅko mahāsamuddaṁ pavisitvā vaṅgaṁ takkolaṁ cīnaṁ sovīraṁ suraṭṭhaṁ alasandaṁ kolapaṭṭanaṁ suvaṇṇabhūmiṁ gacchati aññampi yaṁ kiñci nāvāsañcaraṇaṁ;"
+    },
+    {
+      "id": "mil6.4.2:54.2",
+      "pali": "evameva kho, mahārāja, imehi terasahi dhutaguṇehi pubbe āsevitehi nisevitehi ciṇṇehi pariciṇṇehi caritehi upacaritehi paripūritehi kevalaṁ sāmaññaṁ paṭilabhati, tassādheyyā honti kevalā santā sukhā samāpattiyo."
+    },
+    {
+      "id": "mil6.4.2:55.1",
+      "pali": "Yathā, mahārāja, kassako paṭhamaṁ khettadosaṁ tiṇakaṭṭhapāsāṇaṁ apanetvā kasitvā vapitvā sammā udakaṁ pavesetvā rakkhitvā gopetvā lavanamaddanena bahudhaññako hoti, tassādheyyā bhavanti ye keci adhanā kapaṇā daliddā duggatajanā;"
+    },
+    {
+      "id": "mil6.4.2:55.2",
+      "pali": "evameva kho, mahārāja, imehi terasahi dhutaguṇehi pubbe āsevitehi …pe…"
+    },
+    {
+      "id": "mil6.4.2:55.3",
+      "pali": "kevalā santā sukhā samāpattiyo."
+    },
+    {
+      "id": "mil6.4.2:56.1",
+      "pali": "Yathā vā pana, mahārāja, khattiyo muddhāvasitto abhijātakulīno chejjabhejjajanamanusāsane issaro hoti vasavattī sāmiko icchākaraṇo, kevalā ca mahāpathavī tassādheyyā hoti;"
+    },
+    {
+      "id": "mil6.4.2:56.2",
+      "pali": "evameva kho, mahārāja, imehi terasahi dhutaguṇehi pubbe āsevitehi nisevitehi ciṇṇehi pariciṇṇehi caritehi upacaritehi paripūritehi jinasāsanavare issaro hoti vasavattī sāmiko icchākaraṇo, kevalā ca samaṇaguṇā tassādheyyā honti."
+    },
+    {
+      "id": "mil6.4.2:57.1",
+      "pali": "Nanu, mahārāja, thero upaseno vaṅgantaputto sallekhadhutaguṇe paripūrakāritāya anādiyitvā sāvatthiyā saṅghassa katikaṁ sapariso naradammasārathiṁ paṭisallānagataṁ upasaṅkamitvā bhagavato pāde sirasā vanditvā ekamantaṁ nisīdi, bhagavā ca taṁ suvinītaṁ parisaṁ oloketvā haṭṭhatuṭṭho pamudito udaggo parisāya saddhiṁ sallāpaṁ sallapitvā asambhinnena brahmassarena etadavoca—"
+    },
+    {
+      "id": "mil6.4.2:57.2",
+      "pali": "‘pāsādikā kho pana tyāyaṁ, upasena, parisā, kathaṁ tvaṁ, upasena, parisaṁ vinesī’ti."
+    },
+    {
+      "id": "mil6.4.2:57.3",
+      "pali": "Sopi sabbaññunā dasabalena devātidevena puṭṭho yathābhūtasabhāvaguṇavasena bhagavantaṁ etadavoca—"
+    },
+    {
+      "id": "mil6.4.2:58.1",
+      "pali": "‘Yo koci maṁ, bhante, upasaṅkamitvā pabbajjaṁ vā nissayaṁ vā yācati, tamahaṁ evaṁ vadāmi “ahaṁ kho, āvuso, āraññiko piṇḍapātiko paṁsukūliko tecīvariko."
+    },
+    {
+      "id": "mil6.4.2:58.2",
+      "pali": "Sace tvampi āraññiko bhavissasi piṇḍapātiko paṁsukūliko tecīvariko, evāhaṁ taṁ pabbājessāmi nissayaṁ dassāmī”ti, sace so me, bhante, paṭissuṇitvā nandati oramati, evāhaṁ taṁ pabbājemi nissayaṁ demi, sace na nandati na oramati, na taṁ pabbājemi, na nissayaṁ demi, evāhaṁ, bhante, parisaṁ vinemī’ti."
+    },
+    {
+      "id": "mil6.4.2:58.3",
+      "pali": "Evaṁ kho, mahārāja, dhutaguṇavarasamādiṇṇo jinasāsanavare issaro hoti."
+    },
+    {
+      "id": "mil6.4.2:58.4",
+      "pali": "Vasavattī sāmiko icchākaraṇo, tassādheyyā honti kevalā santā sukhā samāpattiyo."
+    },
+    {
+      "id": "mil6.4.2:59.1",
+      "pali": "Yathā, mahārāja, padumaṁ abhivuddhaparisuddhaudiccajātippabhavaṁ siniddhaṁ mudu lobhanīyaṁ sugandhaṁ piyaṁ patthitaṁ pasatthaṁ jalakaddamamanupalittaṁ aṇupattakesarakaṇṇikābhimaṇḍitaṁ bhamaragaṇasevitaṁ sītalasalilasaṁvaddhaṁ;"
+    },
+    {
+      "id": "mil6.4.2:59.2",
+      "pali": "evameva kho, mahārāja, imehi terasahi dhutaguṇehi pubbe āsevitehi nisevitehi ciṇṇehi pariciṇṇehi caritehi upacaritehi paripūritehi ariyasāvako tiṁsaguṇavarehi samupeto hoti."
+    },
+    {
+      "id": "mil6.4.2:60.1",
+      "pali": "Katamehi tiṁsaguṇavarehi?"
+    },
+    {
+      "id": "mil6.4.2:60.2",
+      "pali": "Siniddhamudumaddavamettacitto hoti, ghātitahatavihatakileso hoti, hatanihatamānadabbo hoti, acaladaḷhaniviṭṭhanibbematikasaddho hoti, paripuṇṇapīṇitapahaṭṭhalobhanīyasantasukhasamāpattilābhī hoti, sīlavarapavaraasamasucigandhaparibhāvito hoti, devamanussānaṁ piyo hoti manāpo, khīṇāsavaariyavarapuggalapatthito, devamanussānaṁ vanditapūjito, budhavibudhapaṇḍitajanānaṁ thutathavitathomitapasattho, idha vā huraṁ vā lokena anupalitto, appathokavajjepi bhayadassāvī, vipulavarasampattikāmānaṁ maggaphalavaratthasādhano, āyācitavipulapaṇītapaccayabhāgī, aniketasayano, jhānajjhositatappavaravihārī, vijaṭitakilesajālavatthu, bhinnabhaggasaṅkuṭitasañchinnagatinīvaraṇo, akuppadhammo, abhinītavāso, anavajjabhogī, gativimutto, uttiṇṇasabbavicikiccho, vimuttijjhositattho, diṭṭhadhammo, acaladaḷhabhīruttāṇamupagato, samucchinnānusayo, sabbāsavakkhayaṁ patto, santasukhasamāpattivihārabahulo, sabbasamaṇaguṇasamupeto, imehi tiṁsaguṇavarehi samupeto hoti."
+    },
+    {
+      "id": "mil6.4.2:61.1",
+      "pali": "Nanu, mahārāja, thero sāriputto dasasahassilokadhātuyā aggapuriso ṭhapetvā dasabalaṁ lokācariyaṁ, sopi aparimitamasaṅkhyeyyakappe samācitakusalamūlo brāhmaṇakulakulīno manāpikaṁ kāmaratiṁ anekasatasaṅkhaṁ dhanavarañca ohāya jinasāsane pabbajitvā imehi terasahi dhutaguṇehi kāyavacīcittaṁ damayitvā ajjetarahi anantaguṇasamannāgato gotamassa bhagavato sāsanavare dhammacakkamanuppavattako jāto."
+    },
+    {
+      "id": "mil6.4.2:61.2",
+      "pali": "Bhāsitampetaṁ, mahārāja, bhagavatā devātidevena ekaṅguttaranikāyavaralañchake—"
+    },
+    {
+      "id": "mil6.4.2:62.1",
+      "pali": "‘Nāhaṁ, bhikkhave, aññaṁ ekapuggalampi samanupassāmi, yo evaṁ tathāgatena anuttaraṁ dhammacakkaṁ pavattitaṁ sammadeva anuppavatteti, yathayidaṁ, bhikkhave, sāriputto, sāriputto, bhikkhave, tathāgatena anuttaraṁ dhammacakkaṁ pavattitaṁ sammadeva anuppavattetī’”ti."
+    },
+    {
+      "id": "mil6.4.2:63.1",
+      "pali": "“Sādhu, bhante nāgasena, yaṁ kiñci navaṅgaṁ buddhavacanaṁ, yā ca lokuttarā kiriyā, yā ca loke adhigamavipulavarasampattiyo, sabbaṁ taṁ terasasu dhutaguṇesu samodhānopagatan”ti."
+    },
+    {
+      "id": "mil6.4.2:64.1",
+      "pali": "Dhutaṅgapañho dutiyo."
+    },
+    {
+      "id": "mil6.4.2:65.1",
+      "pali": "Anumānavaggo catuttho."
+    }
+  ]
+}

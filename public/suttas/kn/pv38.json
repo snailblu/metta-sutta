@@ -1,0 +1,955 @@
+{
+  "uid": "pv38",
+  "title": "3. Nandakapetavatthu",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "pv38:1.1",
+      "pali": "Rājā piṅgalako nāma,"
+    },
+    {
+      "id": "pv38:1.2",
+      "pali": "Suraṭṭhānaṁ adhipati ahu;"
+    },
+    {
+      "id": "pv38:1.3",
+      "pali": "Moriyānaṁ upaṭṭhānaṁ gantvā,"
+    },
+    {
+      "id": "pv38:1.4",
+      "pali": "Suraṭṭhaṁ punarāgamā."
+    },
+    {
+      "id": "pv38:2.1",
+      "pali": "Uṇhe majjhanhike kāle,"
+    },
+    {
+      "id": "pv38:2.2",
+      "pali": "Rājā paṅkaṁ upāgami;"
+    },
+    {
+      "id": "pv38:2.3",
+      "pali": "Addasa maggaṁ ramaṇīyaṁ,"
+    },
+    {
+      "id": "pv38:2.4",
+      "pali": "Petānaṁ taṁ vaṇṇupathaṁ."
+    },
+    {
+      "id": "pv38:3.1",
+      "pali": "Sārathiṁ āmantayī rājā—"
+    },
+    {
+      "id": "pv38:4.1",
+      "pali": "“Ayaṁ maggo ramaṇīyo,"
+    },
+    {
+      "id": "pv38:4.2",
+      "pali": "khemo sovatthiko sivo;"
+    },
+    {
+      "id": "pv38:4.3",
+      "pali": "Iminā sārathi yāma,"
+    },
+    {
+      "id": "pv38:4.4",
+      "pali": "suraṭṭhānaṁ santike ito”."
+    },
+    {
+      "id": "pv38:5.1",
+      "pali": "Tena pāyāsi soraṭṭho,"
+    },
+    {
+      "id": "pv38:5.2",
+      "pali": "senāya caturaṅginiyā;"
+    },
+    {
+      "id": "pv38:5.3",
+      "pali": "Ubbiggarūpo puriso,"
+    },
+    {
+      "id": "pv38:5.4",
+      "pali": "soraṭṭhaṁ etadabravi."
+    },
+    {
+      "id": "pv38:6.1",
+      "pali": "“Kummaggaṁ paṭipannamhā,"
+    },
+    {
+      "id": "pv38:6.2",
+      "pali": "bhiṁsanaṁ lomahaṁsanaṁ;"
+    },
+    {
+      "id": "pv38:6.3",
+      "pali": "Purato dissati maggo,"
+    },
+    {
+      "id": "pv38:6.4",
+      "pali": "pacchato ca na dissati."
+    },
+    {
+      "id": "pv38:7.1",
+      "pali": "Kummaggaṁ paṭipannamhā,"
+    },
+    {
+      "id": "pv38:7.2",
+      "pali": "yamapurisāna santike;"
+    },
+    {
+      "id": "pv38:7.3",
+      "pali": "Amānuso vāyati gandho,"
+    },
+    {
+      "id": "pv38:7.4",
+      "pali": "ghoso suyyati dāruṇo”."
+    },
+    {
+      "id": "pv38:8.1",
+      "pali": "Saṁviggo rājā soraṭṭho,"
+    },
+    {
+      "id": "pv38:8.2",
+      "pali": "sārathiṁ etadabravi;"
+    },
+    {
+      "id": "pv38:8.3",
+      "pali": "“Kummaggaṁ paṭipannamhā,"
+    },
+    {
+      "id": "pv38:8.4",
+      "pali": "bhiṁsanaṁ lomahaṁsanaṁ;"
+    },
+    {
+      "id": "pv38:8.5",
+      "pali": "Purato dissati maggo,"
+    },
+    {
+      "id": "pv38:8.6",
+      "pali": "pacchato ca na dissati."
+    },
+    {
+      "id": "pv38:9.1",
+      "pali": "Kummaggaṁ paṭipannamhā,"
+    },
+    {
+      "id": "pv38:9.2",
+      "pali": "yamapurisāna santike;"
+    },
+    {
+      "id": "pv38:9.3",
+      "pali": "Amānuso vāyati gandho,"
+    },
+    {
+      "id": "pv38:9.4",
+      "pali": "ghoso suyyati dāruṇo”."
+    },
+    {
+      "id": "pv38:10.1",
+      "pali": "Hatthikkhandhaṁ samāruyha,"
+    },
+    {
+      "id": "pv38:10.2",
+      "pali": "Olokento catuddisaṁ;"
+    },
+    {
+      "id": "pv38:10.3",
+      "pali": "Addasa nigrodhaṁ ramaṇīyaṁ,"
+    },
+    {
+      "id": "pv38:10.4",
+      "pali": "Pādapaṁ chāyāsampannaṁ;"
+    },
+    {
+      "id": "pv38:10.5",
+      "pali": "Nīlabbhavaṇṇasadisaṁ,"
+    },
+    {
+      "id": "pv38:10.6",
+      "pali": "Meghavaṇṇasirīnibhaṁ."
+    },
+    {
+      "id": "pv38:11.1",
+      "pali": "Sārathiṁ āmantayī rājā,"
+    },
+    {
+      "id": "pv38:11.2",
+      "pali": "“kiṁ eso dissati brahā;"
+    },
+    {
+      "id": "pv38:11.3",
+      "pali": "Nīlabbhavaṇṇasadiso,"
+    },
+    {
+      "id": "pv38:11.4",
+      "pali": "meghavaṇṇasirīnibho”."
+    },
+    {
+      "id": "pv38:12.1",
+      "pali": "“Nigrodho so mahārāja,"
+    },
+    {
+      "id": "pv38:12.2",
+      "pali": "pādapo chāyāsampanno;"
+    },
+    {
+      "id": "pv38:12.3",
+      "pali": "Nīlabbhavaṇṇasadiso,"
+    },
+    {
+      "id": "pv38:12.4",
+      "pali": "meghavaṇṇasirīnibho”."
+    },
+    {
+      "id": "pv38:13.1",
+      "pali": "Tena pāyāsi soraṭṭho,"
+    },
+    {
+      "id": "pv38:13.2",
+      "pali": "yena so dissate brahā;"
+    },
+    {
+      "id": "pv38:13.3",
+      "pali": "Nīlabbhavaṇṇasadiso,"
+    },
+    {
+      "id": "pv38:13.4",
+      "pali": "meghavaṇṇasirīnibho."
+    },
+    {
+      "id": "pv38:14.1",
+      "pali": "Hatthikkhandhato oruyha,"
+    },
+    {
+      "id": "pv38:14.2",
+      "pali": "rājā rukkhaṁ upāgami;"
+    },
+    {
+      "id": "pv38:14.3",
+      "pali": "Nisīdi rukkhamūlasmiṁ,"
+    },
+    {
+      "id": "pv38:14.4",
+      "pali": "sāmacco saparijjano;"
+    },
+    {
+      "id": "pv38:14.5",
+      "pali": "Pūraṁ pānīyasarakaṁ,"
+    },
+    {
+      "id": "pv38:14.6",
+      "pali": "pūve vitte ca addasa."
+    },
+    {
+      "id": "pv38:15.1",
+      "pali": "Puriso ca devavaṇṇī,"
+    },
+    {
+      "id": "pv38:15.2",
+      "pali": "sabbābharaṇabhūsito;"
+    },
+    {
+      "id": "pv38:15.3",
+      "pali": "Upasaṅkamitvā rājānaṁ,"
+    },
+    {
+      "id": "pv38:15.4",
+      "pali": "soraṭṭhaṁ etadabravi."
+    },
+    {
+      "id": "pv38:16.1",
+      "pali": "“Svāgataṁ te mahārāja,"
+    },
+    {
+      "id": "pv38:16.2",
+      "pali": "atho te adurāgataṁ;"
+    },
+    {
+      "id": "pv38:16.3",
+      "pali": "Pivatu devo pānīyaṁ,"
+    },
+    {
+      "id": "pv38:16.4",
+      "pali": "pūve khāda arindama”."
+    },
+    {
+      "id": "pv38:17.1",
+      "pali": "Pivitvā rājā pānīyaṁ,"
+    },
+    {
+      "id": "pv38:17.2",
+      "pali": "sāmacco saparijjano;"
+    },
+    {
+      "id": "pv38:17.3",
+      "pali": "Pūve khāditvā pitvā ca,"
+    },
+    {
+      "id": "pv38:17.4",
+      "pali": "soraṭṭho etadabravi."
+    },
+    {
+      "id": "pv38:18.1",
+      "pali": "“Devatā nusi gandhabbo,"
+    },
+    {
+      "id": "pv38:18.2",
+      "pali": "adu sakko purindado;"
+    },
+    {
+      "id": "pv38:18.3",
+      "pali": "Ajānantā taṁ pucchāma,"
+    },
+    {
+      "id": "pv38:18.4",
+      "pali": "kathaṁ jānemu taṁ mayan”ti."
+    },
+    {
+      "id": "pv38:19.1",
+      "pali": "“Nāmhi devo na gandhabbo,"
+    },
+    {
+      "id": "pv38:19.2",
+      "pali": "nāpi sakko purindado;"
+    },
+    {
+      "id": "pv38:19.3",
+      "pali": "Peto ahaṁ mahārāja,"
+    },
+    {
+      "id": "pv38:19.4",
+      "pali": "suraṭṭhā idha māgato”ti."
+    },
+    {
+      "id": "pv38:20.1",
+      "pali": "“Kiṁsīlo kiṁsamācāro,"
+    },
+    {
+      "id": "pv38:20.2",
+      "pali": "suraṭṭhasmiṁ pure tuvaṁ;"
+    },
+    {
+      "id": "pv38:20.3",
+      "pali": "Kena te brahmacariyena,"
+    },
+    {
+      "id": "pv38:20.4",
+      "pali": "ānubhāvo ayaṁ tavā”ti."
+    },
+    {
+      "id": "pv38:21.1",
+      "pali": "“Taṁ suṇohi mahārāja,"
+    },
+    {
+      "id": "pv38:21.2",
+      "pali": "arindama raṭṭhavaḍḍhana;"
+    },
+    {
+      "id": "pv38:21.3",
+      "pali": "Amaccā pārisajjā ca,"
+    },
+    {
+      "id": "pv38:21.4",
+      "pali": "brāhmaṇo ca purohito."
+    },
+    {
+      "id": "pv38:22.1",
+      "pali": "Suraṭṭhasmiṁ ahaṁ deva,"
+    },
+    {
+      "id": "pv38:22.2",
+      "pali": "puriso pāpacetaso;"
+    },
+    {
+      "id": "pv38:22.3",
+      "pali": "Micchādiṭṭhi ca dussīlo,"
+    },
+    {
+      "id": "pv38:22.4",
+      "pali": "kadariyo paribhāsako."
+    },
+    {
+      "id": "pv38:23.1",
+      "pali": "Dadantānaṁ karontānaṁ,"
+    },
+    {
+      "id": "pv38:23.2",
+      "pali": "vārayissaṁ bahujjanaṁ;"
+    },
+    {
+      "id": "pv38:23.3",
+      "pali": "Aññesaṁ dadamānānaṁ,"
+    },
+    {
+      "id": "pv38:23.4",
+      "pali": "antarāyakaro ahaṁ."
+    },
+    {
+      "id": "pv38:24.1",
+      "pali": "Vipāko natthi dānassa,"
+    },
+    {
+      "id": "pv38:24.2",
+      "pali": "saṁyamassa kuto phalaṁ;"
+    },
+    {
+      "id": "pv38:24.3",
+      "pali": "Natthi ācariyo nāma,"
+    },
+    {
+      "id": "pv38:24.4",
+      "pali": "adantaṁ ko damessati."
+    },
+    {
+      "id": "pv38:25.1",
+      "pali": "Samatulyāni bhūtāni,"
+    },
+    {
+      "id": "pv38:25.2",
+      "pali": "kuto jeṭṭhāpacāyiko;"
+    },
+    {
+      "id": "pv38:25.3",
+      "pali": "Natthi balaṁ vīriyaṁ vā,"
+    },
+    {
+      "id": "pv38:25.4",
+      "pali": "kuto uṭṭhānaporisaṁ."
+    },
+    {
+      "id": "pv38:26.1",
+      "pali": "Natthi dānaphalaṁ nāma,"
+    },
+    {
+      "id": "pv38:26.2",
+      "pali": "na visodheti verinaṁ;"
+    },
+    {
+      "id": "pv38:26.3",
+      "pali": "Laddheyyaṁ labhate macco,"
+    },
+    {
+      "id": "pv38:26.4",
+      "pali": "niyatipariṇāmajaṁ."
+    },
+    {
+      "id": "pv38:27.1",
+      "pali": "Natthi mātā pitā bhātā,"
+    },
+    {
+      "id": "pv38:27.2",
+      "pali": "loko natthi ito paraṁ;"
+    },
+    {
+      "id": "pv38:27.3",
+      "pali": "Natthi dinnaṁ natthi hutaṁ,"
+    },
+    {
+      "id": "pv38:27.4",
+      "pali": "sunihitaṁ na vijjati."
+    },
+    {
+      "id": "pv38:28.1",
+      "pali": "Yopi haneyya purisaṁ,"
+    },
+    {
+      "id": "pv38:28.2",
+      "pali": "parassa chindate siraṁ;"
+    },
+    {
+      "id": "pv38:28.3",
+      "pali": "Na koci kañci hanati,"
+    },
+    {
+      "id": "pv38:28.4",
+      "pali": "sattannaṁ vivaramantare."
+    },
+    {
+      "id": "pv38:29.1",
+      "pali": "Acchejjābhejjo hi jīvo,"
+    },
+    {
+      "id": "pv38:29.2",
+      "pali": "Aṭṭhaṁso guḷaparimaṇḍalo;"
+    },
+    {
+      "id": "pv38:29.3",
+      "pali": "Yojanānaṁ sataṁ pañca,"
+    },
+    {
+      "id": "pv38:29.4",
+      "pali": "Ko jīvaṁ chettumarahati."
+    },
+    {
+      "id": "pv38:30.1",
+      "pali": "Yathā suttaguḷe khitte,"
+    },
+    {
+      "id": "pv38:30.2",
+      "pali": "nibbeṭhentaṁ palāyati;"
+    },
+    {
+      "id": "pv38:30.3",
+      "pali": "Evamevaṁ ca so jīvo,"
+    },
+    {
+      "id": "pv38:30.4",
+      "pali": "nibbeṭhento palāyati."
+    },
+    {
+      "id": "pv38:31.1",
+      "pali": "Yathā gāmato nikkhamma,"
+    },
+    {
+      "id": "pv38:31.2",
+      "pali": "aññaṁ gāmaṁ pavīsati;"
+    },
+    {
+      "id": "pv38:31.3",
+      "pali": "Evamevaṁ ca so jīvo,"
+    },
+    {
+      "id": "pv38:31.4",
+      "pali": "aññaṁ bondiṁ pavīsati."
+    },
+    {
+      "id": "pv38:32.1",
+      "pali": "Yathā gehato nikkhamma,"
+    },
+    {
+      "id": "pv38:32.2",
+      "pali": "aññaṁ gehaṁ pavīsati;"
+    },
+    {
+      "id": "pv38:32.3",
+      "pali": "Evamevaṁ ca so jīvo,"
+    },
+    {
+      "id": "pv38:32.4",
+      "pali": "aññaṁ bondiṁ pavīsati."
+    },
+    {
+      "id": "pv38:33.1",
+      "pali": "Cullāsīti mahākappino,"
+    },
+    {
+      "id": "pv38:33.2",
+      "pali": "satasahassāni hi;"
+    },
+    {
+      "id": "pv38:33.3",
+      "pali": "Ye bālā ye ca paṇḍitā,"
+    },
+    {
+      "id": "pv38:33.4",
+      "pali": "saṁsāraṁ khepayitvāna;"
+    },
+    {
+      "id": "pv38:33.5",
+      "pali": "Dukkhassantaṁ karissare."
+    },
+    {
+      "id": "pv38:34.1",
+      "pali": "Mitāni sukhadukkhāni,"
+    },
+    {
+      "id": "pv38:34.2",
+      "pali": "doṇehi piṭakehi ca;"
+    },
+    {
+      "id": "pv38:34.3",
+      "pali": "Jino sabbaṁ pajānāti,"
+    },
+    {
+      "id": "pv38:34.4",
+      "pali": "sammūḷhā itarā pajā."
+    },
+    {
+      "id": "pv38:35.1",
+      "pali": "Evaṁdiṭṭhi pure āsiṁ,"
+    },
+    {
+      "id": "pv38:35.2",
+      "pali": "sammūḷho mohapāruto;"
+    },
+    {
+      "id": "pv38:35.3",
+      "pali": "Micchādiṭṭhi ca dussīlo,"
+    },
+    {
+      "id": "pv38:35.4",
+      "pali": "kadariyo paribhāsako."
+    },
+    {
+      "id": "pv38:36.1",
+      "pali": "Oraṁ me chahi māsehi,"
+    },
+    {
+      "id": "pv38:36.2",
+      "pali": "kālakiriyā bhavissati;"
+    },
+    {
+      "id": "pv38:36.3",
+      "pali": "Ekantakaṭukaṁ ghoraṁ,"
+    },
+    {
+      "id": "pv38:36.4",
+      "pali": "nirayaṁ papatissahaṁ."
+    },
+    {
+      "id": "pv38:37.1",
+      "pali": "Catukkaṇṇaṁ catudvāraṁ,"
+    },
+    {
+      "id": "pv38:37.2",
+      "pali": "vibhattaṁ bhāgaso mitaṁ;"
+    },
+    {
+      "id": "pv38:37.3",
+      "pali": "Ayopākārapariyantaṁ,"
+    },
+    {
+      "id": "pv38:37.4",
+      "pali": "ayasā paṭikujjitaṁ."
+    },
+    {
+      "id": "pv38:38.1",
+      "pali": "Tassa ayomayā bhūmi,"
+    },
+    {
+      "id": "pv38:38.2",
+      "pali": "jalitā tejasā yutā;"
+    },
+    {
+      "id": "pv38:38.3",
+      "pali": "Samantā yojanasataṁ,"
+    },
+    {
+      "id": "pv38:38.4",
+      "pali": "pharitvā tiṭṭhati sabbadā."
+    },
+    {
+      "id": "pv38:39.1",
+      "pali": "Vassāni satasahassāni,"
+    },
+    {
+      "id": "pv38:39.2",
+      "pali": "ghoso suyyati tāvade;"
+    },
+    {
+      "id": "pv38:39.3",
+      "pali": "Lakkho eso mahārāja,"
+    },
+    {
+      "id": "pv38:39.4",
+      "pali": "satabhāgavassakoṭiyo."
+    },
+    {
+      "id": "pv38:40.1",
+      "pali": "Koṭisatasahassāni,"
+    },
+    {
+      "id": "pv38:40.2",
+      "pali": "niraye paccare janā;"
+    },
+    {
+      "id": "pv38:40.3",
+      "pali": "Micchādiṭṭhī ca dussīlā,"
+    },
+    {
+      "id": "pv38:40.4",
+      "pali": "ye ca ariyūpavādino."
+    },
+    {
+      "id": "pv38:41.1",
+      "pali": "Tatthāhaṁ dīghamaddhānaṁ,"
+    },
+    {
+      "id": "pv38:41.2",
+      "pali": "dukkhaṁ vedissa vedanaṁ;"
+    },
+    {
+      "id": "pv38:41.3",
+      "pali": "Phalaṁ pāpassa kammassa,"
+    },
+    {
+      "id": "pv38:41.4",
+      "pali": "tasmā socāmahaṁ bhusaṁ."
+    },
+    {
+      "id": "pv38:42.1",
+      "pali": "Taṁ suṇohi mahārāja,"
+    },
+    {
+      "id": "pv38:42.2",
+      "pali": "arindama raṭṭhavaḍḍhana;"
+    },
+    {
+      "id": "pv38:42.3",
+      "pali": "Dhītā mayhaṁ mahārāja,"
+    },
+    {
+      "id": "pv38:42.4",
+      "pali": "uttarā bhaddamatthu te."
+    },
+    {
+      "id": "pv38:43.1",
+      "pali": "Karoti bhaddakaṁ kammaṁ,"
+    },
+    {
+      "id": "pv38:43.2",
+      "pali": "sīlesuposathe ratā;"
+    },
+    {
+      "id": "pv38:43.3",
+      "pali": "Saññatā saṁvibhāgī ca,"
+    },
+    {
+      "id": "pv38:43.4",
+      "pali": "vadaññū vītamaccharā."
+    },
+    {
+      "id": "pv38:44.1",
+      "pali": "Akhaṇḍakārī sikkhāya,"
+    },
+    {
+      "id": "pv38:44.2",
+      "pali": "suṇhā parakulesu ca;"
+    },
+    {
+      "id": "pv38:44.3",
+      "pali": "Upāsikā sakyamunino,"
+    },
+    {
+      "id": "pv38:44.4",
+      "pali": "sambuddhassa sirīmato."
+    },
+    {
+      "id": "pv38:45.1",
+      "pali": "Bhikkhu ca sīlasampanno,"
+    },
+    {
+      "id": "pv38:45.2",
+      "pali": "gāmaṁ piṇḍāya pāvisi;"
+    },
+    {
+      "id": "pv38:45.3",
+      "pali": "Okkhittacakkhu satimā,"
+    },
+    {
+      "id": "pv38:45.4",
+      "pali": "guttadvāro susaṁvuto."
+    },
+    {
+      "id": "pv38:46.1",
+      "pali": "Sapadānaṁ caramāno,"
+    },
+    {
+      "id": "pv38:46.2",
+      "pali": "agamā taṁ nivesanaṁ;"
+    },
+    {
+      "id": "pv38:46.3",
+      "pali": "‘Tamaddasa mahārāja,"
+    },
+    {
+      "id": "pv38:46.4",
+      "pali": "uttarā bhaddamatthu te’."
+    },
+    {
+      "id": "pv38:47.1",
+      "pali": "Pūraṁ pānīyasarakaṁ,"
+    },
+    {
+      "id": "pv38:47.2",
+      "pali": "pūve vitte ca sā adā;"
+    },
+    {
+      "id": "pv38:47.3",
+      "pali": "‘Pitā me kālakato bhante,"
+    },
+    {
+      "id": "pv38:47.4",
+      "pali": "tassetaṁ upakappatu’."
+    },
+    {
+      "id": "pv38:48.1",
+      "pali": "Samanantarānuddiṭṭhe,"
+    },
+    {
+      "id": "pv38:48.2",
+      "pali": "vipāko udapajjatha;"
+    },
+    {
+      "id": "pv38:48.3",
+      "pali": "Bhuñjāmi kāmakāmīhaṁ,"
+    },
+    {
+      "id": "pv38:48.4",
+      "pali": "rājā vessavaṇo yathā."
+    },
+    {
+      "id": "pv38:49.1",
+      "pali": "Taṁ suṇohi mahārāja,"
+    },
+    {
+      "id": "pv38:49.2",
+      "pali": "arindama raṭṭhavaḍḍhana;"
+    },
+    {
+      "id": "pv38:49.3",
+      "pali": "Sadevakassa lokassa,"
+    },
+    {
+      "id": "pv38:49.4",
+      "pali": "buddho aggo pavuccati;"
+    },
+    {
+      "id": "pv38:49.5",
+      "pali": "Taṁ buddhaṁ saraṇaṁ gaccha,"
+    },
+    {
+      "id": "pv38:49.6",
+      "pali": "saputtadāro arindama."
+    },
+    {
+      "id": "pv38:50.1",
+      "pali": "Aṭṭhaṅgikena maggena,"
+    },
+    {
+      "id": "pv38:50.2",
+      "pali": "phusanti amataṁ padaṁ;"
+    },
+    {
+      "id": "pv38:50.3",
+      "pali": "Taṁ dhammaṁ saraṇaṁ gaccha,"
+    },
+    {
+      "id": "pv38:50.4",
+      "pali": "saputtadāro arindama."
+    },
+    {
+      "id": "pv38:51.1",
+      "pali": "Cattāro ca paṭipannā,"
+    },
+    {
+      "id": "pv38:51.2",
+      "pali": "cattāro ca phale ṭhitā;"
+    },
+    {
+      "id": "pv38:51.3",
+      "pali": "Esa saṅgho ujubhūto,"
+    },
+    {
+      "id": "pv38:51.4",
+      "pali": "paññāsīlasamāhito;"
+    },
+    {
+      "id": "pv38:51.5",
+      "pali": "Taṁ saṅghaṁ saraṇaṁ gaccha,"
+    },
+    {
+      "id": "pv38:51.6",
+      "pali": "saputtadāro arindama."
+    },
+    {
+      "id": "pv38:52.1",
+      "pali": "Pāṇātipātā viramassu khippaṁ,"
+    },
+    {
+      "id": "pv38:52.2",
+      "pali": "Loke adinnaṁ parivajjayassu;"
+    },
+    {
+      "id": "pv38:52.3",
+      "pali": "Amajjapo mā ca musā abhāṇi,"
+    },
+    {
+      "id": "pv38:52.4",
+      "pali": "Sakena dārena ca hohi tuṭṭho”ti."
+    },
+    {
+      "id": "pv38:53.1",
+      "pali": "“Atthakāmosi me yakkha,"
+    },
+    {
+      "id": "pv38:53.2",
+      "pali": "hitakāmosi devate;"
+    },
+    {
+      "id": "pv38:53.3",
+      "pali": "Karomi tuyhaṁ vacanaṁ,"
+    },
+    {
+      "id": "pv38:53.4",
+      "pali": "tvaṁsi ācariyo mama."
+    },
+    {
+      "id": "pv38:54.1",
+      "pali": "Upemi saraṇaṁ buddhaṁ,"
+    },
+    {
+      "id": "pv38:54.2",
+      "pali": "dhammañcāpi anuttaraṁ;"
+    },
+    {
+      "id": "pv38:54.3",
+      "pali": "Saṅghañca naradevassa,"
+    },
+    {
+      "id": "pv38:54.4",
+      "pali": "gacchāmi saraṇaṁ ahaṁ."
+    },
+    {
+      "id": "pv38:55.1",
+      "pali": "Pāṇātipātā viramāmi khippaṁ,"
+    },
+    {
+      "id": "pv38:55.2",
+      "pali": "Loke adinnaṁ parivajjayāmi;"
+    },
+    {
+      "id": "pv38:55.3",
+      "pali": "Amajjapo no ca musā bhaṇāmi,"
+    },
+    {
+      "id": "pv38:55.4",
+      "pali": "Sakena dārena ca homi tuṭṭho."
+    },
+    {
+      "id": "pv38:56.1",
+      "pali": "Ophuṇāmi mahāvāte,"
+    },
+    {
+      "id": "pv38:56.2",
+      "pali": "nadiyā sīghagāmiyā;"
+    },
+    {
+      "id": "pv38:56.3",
+      "pali": "Vamāmi pāpikaṁ diṭṭhiṁ,"
+    },
+    {
+      "id": "pv38:56.4",
+      "pali": "buddhānaṁ sāsane rato”."
+    },
+    {
+      "id": "pv38:57.1",
+      "pali": "Idaṁ vatvāna soraṭṭho,"
+    },
+    {
+      "id": "pv38:57.2",
+      "pali": "viramitvā pāpadassanā;"
+    },
+    {
+      "id": "pv38:57.3",
+      "pali": "Namo bhagavato katvā,"
+    },
+    {
+      "id": "pv38:57.4",
+      "pali": "pāmokkho rathamāruhīti."
+    },
+    {
+      "id": "pv38:58.1",
+      "pali": "Nandakapetavatthu tatiyaṁ."
+    }
+  ]
+}

@@ -1,0 +1,723 @@
+{
+  "uid": "mn126",
+  "title": "Bhūmijasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn126:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn126:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe."
+    },
+    {
+      "id": "mn126:2.1",
+      "pali": "Atha kho āyasmā bhūmijo pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena jayasenassa rājakumārassa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi."
+    },
+    {
+      "id": "mn126:3.1",
+      "pali": "Atha kho jayaseno rājakumāro yenāyasmā bhūmijo tenupasaṅkami; upasaṅkamitvā āyasmatā bhūmijena saddhiṁ sammodi."
+    },
+    {
+      "id": "mn126:3.2",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho jayaseno rājakumāro āyasmantaṁ bhūmijaṁ etadavoca:"
+    },
+    {
+      "id": "mn126:3.3",
+      "pali": "“santi, bho bhūmija, eke samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "mn126:3.4",
+      "pali": "‘āsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:3.5",
+      "pali": "anāsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:3.6",
+      "pali": "āsañca anāsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:3.7",
+      "pali": "nevāsaṁ nānāsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāyā’ti."
+    },
+    {
+      "id": "mn126:3.8",
+      "pali": "Idha bhoto bhūmijassa satthā kiṁvādī kimakkhāyī”ti?"
+    },
+    {
+      "id": "mn126:4.1",
+      "pali": "“Na kho metaṁ, rājakumāra, bhagavato sammukhā sutaṁ, sammukhā paṭiggahitaṁ."
+    },
+    {
+      "id": "mn126:4.2",
+      "pali": "Ṭhānañca kho etaṁ vijjati yaṁ bhagavā evaṁ byākareyya:"
+    },
+    {
+      "id": "mn126:4.3",
+      "pali": "‘āsañcepi karitvā ayoniso brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:4.4",
+      "pali": "anāsañcepi karitvā ayoniso brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:4.5",
+      "pali": "āsañca anāsañcepi karitvā ayoniso brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:4.6",
+      "pali": "nevāsaṁ nānāsañcepi karitvā ayoniso brahmacariyaṁ caranti, abhabbā phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:4.7",
+      "pali": "Āsañcepi karitvā yoniso brahmacariyaṁ caranti, bhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:4.8",
+      "pali": "anāsañcepi karitvā yoniso brahmacariyaṁ caranti, bhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:4.9",
+      "pali": "āsañca anāsañcepi karitvā yoniso brahmacariyaṁ caranti, bhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:4.10",
+      "pali": "nevāsaṁ nānāsañcepi karitvā yoniso brahmacariyaṁ caranti, bhabbā phalassa adhigamāyā’ti."
+    },
+    {
+      "id": "mn126:4.11",
+      "pali": "Na kho me taṁ, rājakumāra, bhagavato sammukhā sutaṁ, sammukhā paṭiggahitaṁ."
+    },
+    {
+      "id": "mn126:4.12",
+      "pali": "Ṭhānañca kho etaṁ vijjati yaṁ bhagavā evaṁ byākareyyā”ti."
+    },
+    {
+      "id": "mn126:5.1",
+      "pali": "“Sace kho bhoto bhūmijassa satthā evaṁvādī evamakkhāyī, addhā bhoto bhūmijassa satthā sabbesaṁyeva puthusamaṇabrāhmaṇānaṁ muddhānaṁ maññe āhacca tiṭṭhatī”ti."
+    },
+    {
+      "id": "mn126:6.1",
+      "pali": "Atha kho jayaseno rājakumāro āyasmantaṁ bhūmijaṁ sakeneva thālipākena parivisi."
+    },
+    {
+      "id": "mn126:7.1",
+      "pali": "Atha kho āyasmā bhūmijo pacchābhattaṁ piṇḍapātapaṭikkanto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā bhūmijo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn126:7.2",
+      "pali": "“idhāhaṁ, bhante, pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena jayasenassa rājakumārassa nivesanaṁ tenupasaṅkamiṁ; upasaṅkamitvā paññatte āsane nisīdiṁ."
+    },
+    {
+      "id": "mn126:7.3",
+      "pali": "Atha kho, bhante, jayaseno rājakumāro yenāhaṁ tenupasaṅkami; upasaṅkamitvā mayā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn126:7.4",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho, bhante, jayaseno rājakumāro maṁ etadavoca:"
+    },
+    {
+      "id": "mn126:7.5",
+      "pali": "‘santi, bho bhūmija, eke samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino—"
+    },
+    {
+      "id": "mn126:7.6",
+      "pali": "āsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:7.7",
+      "pali": "anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:7.8",
+      "pali": "āsañca anāsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:7.9",
+      "pali": "nevāsaṁ nānāsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāyā’ti."
+    },
+    {
+      "id": "mn126:7.10",
+      "pali": "‘Idha bhoto bhūmijassa satthā kiṁvādī kimakkhāyī’ti?"
+    },
+    {
+      "id": "mn126:7.11",
+      "pali": "Evaṁ vutte, ahaṁ, bhante, jayasenaṁ rājakumāraṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn126:7.12",
+      "pali": "‘na kho me taṁ, rājakumāra, bhagavato sammukhā sutaṁ, sammukhā paṭiggahitaṁ."
+    },
+    {
+      "id": "mn126:7.13",
+      "pali": "Ṭhānañca kho etaṁ vijjati yaṁ bhagavā evaṁ byākareyya—"
+    },
+    {
+      "id": "mn126:7.14",
+      "pali": "āsañcepi karitvā ayoniso brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:7.15",
+      "pali": "anāsañcepi karitvā ayoniso brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:7.16",
+      "pali": "āsañca anāsañcepi karitvā ayoniso brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:7.17",
+      "pali": "nevāsaṁ nānāsañcepi karitvā ayoniso brahmacariyaṁ caranti, abhabbā phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:7.18",
+      "pali": "Āsañcepi karitvā yoniso brahmacariyaṁ caranti, bhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:7.19",
+      "pali": "anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:7.20",
+      "pali": "āsañca anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:7.21",
+      "pali": "nevāsaṁ nānāsañcepi karitvā yoniso brahmacariyaṁ caranti, bhabbā phalassa adhigamāyāti."
+    },
+    {
+      "id": "mn126:7.22",
+      "pali": "Na kho me taṁ, rājakumāra, bhagavato sammukhā sutaṁ, sammukhā paṭiggahitaṁ."
+    },
+    {
+      "id": "mn126:7.23",
+      "pali": "Ṭhānañca kho etaṁ vijjati yaṁ bhagavā evaṁ byākareyyā’ti."
+    },
+    {
+      "id": "mn126:7.24",
+      "pali": "‘Sace bhoto bhūmijassa satthā evaṁvādī evamakkhāyī, addhā bhoto bhūmijassa satthā sabbesaṁyeva puthusamaṇabrāhmaṇānaṁ muddhānaṁ maññe āhacca tiṭṭhatī’ti."
+    },
+    {
+      "id": "mn126:7.25",
+      "pali": "‘Kaccāhaṁ, bhante, evaṁ puṭṭho evaṁ byākaramāno vuttavādī ceva bhagavato homi, na ca bhagavantaṁ abhūtena abbhācikkhāmi, dhammassa cānudhammaṁ byākaromi, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgacchatī’”ti?"
+    },
+    {
+      "id": "mn126:8.1",
+      "pali": "“Taggha tvaṁ, bhūmija, evaṁ puṭṭho evaṁ byākaramāno vuttavādī ceva me hosi, na ca maṁ abhūtena abbhācikkhasi, dhammassa cānudhammaṁ byākarosi, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgacchati."
+    },
+    {
+      "id": "mn126:9.1",
+      "pali": "Ye hi keci, bhūmija, samaṇā vā brāhmaṇā vā micchādiṭṭhino micchāsaṅkappā micchāvācā micchākammantā micchāājīvā micchāvāyāmā micchāsatī micchāsamādhino te āsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:9.2",
+      "pali": "anāsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:9.3",
+      "pali": "āsañca anāsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:9.4",
+      "pali": "nevāsaṁ nānāsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:9.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:9.6",
+      "pali": "Ayoni hesā, bhūmija, phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:10.1",
+      "pali": "Seyyathāpi, bhūmija, puriso telatthiko telagavesī telapariyesanaṁ caramāno vālikaṁ doṇiyā ākiritvā udakena paripphosakaṁ paripphosakaṁ pīḷeyya."
+    },
+    {
+      "id": "mn126:10.2",
+      "pali": "Āsañcepi karitvā vālikaṁ doṇiyā ākiritvā udakena paripphosakaṁ paripphosakaṁ pīḷeyya, abhabbo telassa adhigamāya;"
+    },
+    {
+      "id": "mn126:10.3",
+      "pali": "anāsañcepi karitvā vālikaṁ doṇiyā ākiritvā udakena paripphosakaṁ paripphosakaṁ pīḷeyya, abhabbo telassa adhigamāya;"
+    },
+    {
+      "id": "mn126:10.4",
+      "pali": "āsañca anāsañcepi karitvā vālikaṁ doṇiyā ākiritvā udakena paripphosakaṁ paripphosakaṁ pīḷeyya, abhabbo telassa adhigamāya;"
+    },
+    {
+      "id": "mn126:10.5",
+      "pali": "nevāsaṁ nānāsañcepi karitvā vālikaṁ doṇiyā ākiritvā udakena paripphosakaṁ paripphosakaṁ pīḷeyya, abhabbo telassa adhigamāya."
+    },
+    {
+      "id": "mn126:10.6",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:10.7",
+      "pali": "Ayoni hesā, bhūmija, telassa adhigamāya."
+    },
+    {
+      "id": "mn126:10.8",
+      "pali": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā micchādiṭṭhino micchāsaṅkappā micchāvācā micchākammantā micchāājīvā micchāvāyāmā micchāsatī micchāsamādhino te āsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:10.9",
+      "pali": "anāsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:10.10",
+      "pali": "āsañca anāsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:10.11",
+      "pali": "nevāsaṁ nānāsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:10.12",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:10.13",
+      "pali": "Ayoni hesā, bhūmija, phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:11.1",
+      "pali": "Seyyathāpi, bhūmija, puriso khīratthiko khīragavesī khīrapariyesanaṁ caramāno gāviṁ taruṇavacchaṁ visāṇato āviñcheyya."
+    },
+    {
+      "id": "mn126:11.2",
+      "pali": "Āsañcepi karitvā gāviṁ taruṇavacchaṁ visāṇato āviñcheyya, abhabbo khīrassa adhigamāya;"
+    },
+    {
+      "id": "mn126:11.3",
+      "pali": "anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:11.4",
+      "pali": "āsañca anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:11.5",
+      "pali": "nevāsaṁ nānāsañcepi karitvā gāviṁ taruṇavacchaṁ visāṇato āviñcheyya, abhabbo khīrassa adhigamāya."
+    },
+    {
+      "id": "mn126:11.6",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:11.7",
+      "pali": "Ayoni hesā, bhūmija, khīrassa adhigamāya."
+    },
+    {
+      "id": "mn126:11.8",
+      "pali": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā micchādiṭṭhino …pe…"
+    },
+    {
+      "id": "mn126:11.9",
+      "pali": "micchāsamādhino te āsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:11.10",
+      "pali": "anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:11.11",
+      "pali": "āsañca anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:11.12",
+      "pali": "nevāsaṁ nānāsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:11.13",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:11.14",
+      "pali": "Ayoni hesā, bhūmija, phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:12.1",
+      "pali": "Seyyathāpi, bhūmija, puriso navanītatthiko navanītagavesī navanītapariyesanaṁ caramāno udakaṁ kalase āsiñcitvā matthena āviñcheyya."
+    },
+    {
+      "id": "mn126:12.2",
+      "pali": "Āsañcepi karitvā udakaṁ kalase āsiñcitvā matthena āviñcheyya, abhabbo navanītassa adhigamāya;"
+    },
+    {
+      "id": "mn126:12.3",
+      "pali": "anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:12.4",
+      "pali": "āsañca anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:12.5",
+      "pali": "nevāsaṁ nānāsañcepi karitvā udakaṁ kalase āsiñcitvā matthena āviñcheyya, abhabbo navanītassa adhigamāya."
+    },
+    {
+      "id": "mn126:12.6",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:12.7",
+      "pali": "Ayoni hesā, bhūmija, navanītassa adhigamāya."
+    },
+    {
+      "id": "mn126:12.8",
+      "pali": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā micchādiṭṭhino …pe…"
+    },
+    {
+      "id": "mn126:12.9",
+      "pali": "micchāsamādhino te āsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:12.10",
+      "pali": "anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:12.11",
+      "pali": "āsañca anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:12.12",
+      "pali": "nevāsaṁ nānāsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:12.13",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:12.14",
+      "pali": "Ayoni hesā, bhūmija, phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:13.1",
+      "pali": "Seyyathāpi, bhūmija, puriso aggitthiko aggigavesī aggipariyesanaṁ caramāno allaṁ kaṭṭhaṁ sasnehaṁ uttarāraṇiṁ ādāya abhimantheyya."
+    },
+    {
+      "id": "mn126:13.2",
+      "pali": "Āsañcepi karitvā allaṁ kaṭṭhaṁ sasnehaṁ uttarāraṇiṁ ādāya abhimantheyya, abhabbo aggissa adhigamāya;"
+    },
+    {
+      "id": "mn126:13.3",
+      "pali": "anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:13.4",
+      "pali": "āsañca anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:13.5",
+      "pali": "nevāsaṁ nānāsañcepi karitvā allaṁ kaṭṭhaṁ sasnehaṁ uttarāraṇiṁ ādāya abhimantheyya, abhabbo aggissa adhigamāya."
+    },
+    {
+      "id": "mn126:13.6",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:13.7",
+      "pali": "Ayoni hesā, bhūmija, aggissa adhigamāya."
+    },
+    {
+      "id": "mn126:13.8",
+      "pali": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā micchādiṭṭhino …pe…"
+    },
+    {
+      "id": "mn126:13.9",
+      "pali": "micchāsamādhino te āsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:13.10",
+      "pali": "anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:13.11",
+      "pali": "āsañca anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:13.12",
+      "pali": "nevāsaṁ nānāsañcepi karitvā brahmacariyaṁ caranti, abhabbā phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:13.13",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:13.14",
+      "pali": "Ayoni hesā, bhūmija, phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:14.1",
+      "pali": "Ye hi keci, bhūmija, samaṇā vā brāhmaṇā vā sammādiṭṭhino sammāsaṅkappā sammāvācā sammākammantā sammāājīvā sammāvāyāmā sammāsatī sammāsamādhino te āsañcepi karitvā brahmacariyaṁ caranti, bhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:14.2",
+      "pali": "anāsañcepi karitvā brahmacariyaṁ caranti, bhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:14.3",
+      "pali": "āsañca anāsañcepi karitvā brahmacariyaṁ caranti, bhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:14.4",
+      "pali": "nevāsaṁ nānāsañcepi karitvā brahmacariyaṁ caranti, bhabbā phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:14.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:14.6",
+      "pali": "Yoni hesā, bhūmija, phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:15.1",
+      "pali": "Seyyathāpi, bhūmija, puriso telatthiko telagavesī telapariyesanaṁ caramāno tilapiṭṭhaṁ doṇiyā ākiritvā udakena paripphosakaṁ paripphosakaṁ pīḷeyya."
+    },
+    {
+      "id": "mn126:15.2",
+      "pali": "Āsañcepi karitvā tilapiṭṭhaṁ doṇiyā ākiritvā udakena paripphosakaṁ paripphosakaṁ pīḷeyya, bhabbo telassa adhigamāya;"
+    },
+    {
+      "id": "mn126:15.3",
+      "pali": "anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:15.4",
+      "pali": "āsañca anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:15.5",
+      "pali": "nevāsaṁ nānāsañcepi karitvā tilapiṭṭhaṁ doṇiyā ākiritvā udakena paripphosakaṁ paripphosakaṁ pīḷeyya, bhabbo telassa adhigamāya."
+    },
+    {
+      "id": "mn126:15.6",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:15.7",
+      "pali": "Yoni hesā, bhūmija, telassa adhigamāya."
+    },
+    {
+      "id": "mn126:15.8",
+      "pali": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā sammādiṭṭhino …pe…"
+    },
+    {
+      "id": "mn126:15.9",
+      "pali": "sammāsamādhino te āsañcepi karitvā brahmacariyaṁ caranti, bhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:15.10",
+      "pali": "anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:15.11",
+      "pali": "āsañca anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:15.12",
+      "pali": "nevāsaṁ nānāsañcepi karitvā brahmacariyaṁ caranti, bhabbā phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:15.13",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:15.14",
+      "pali": "Yoni hesā, bhūmija, phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:16.1",
+      "pali": "Seyyathāpi, bhūmija, puriso khīratthiko khīragavesī khīrapariyesanaṁ caramāno gāviṁ taruṇavacchaṁ thanato āviñcheyya."
+    },
+    {
+      "id": "mn126:16.2",
+      "pali": "Āsañcepi karitvā gāviṁ taruṇavacchaṁ thanato āviñcheyya, bhabbo khīrassa adhigamāya;"
+    },
+    {
+      "id": "mn126:16.3",
+      "pali": "anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:16.4",
+      "pali": "āsañca anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:16.5",
+      "pali": "nevāsaṁ nānāsañcepi karitvā gāviṁ taruṇavacchaṁ thanato āviñcheyya, bhabbo khīrassa adhigamāya."
+    },
+    {
+      "id": "mn126:16.6",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:16.7",
+      "pali": "Yoni hesā, bhūmija, khīrassa adhigamāya."
+    },
+    {
+      "id": "mn126:16.8",
+      "pali": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā sammādiṭṭhino …pe…"
+    },
+    {
+      "id": "mn126:16.9",
+      "pali": "sammāsamādhino te āsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:16.10",
+      "pali": "anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:16.11",
+      "pali": "āsañca anāsañcepi karitvā …pe…"
+    },
+    {
+      "id": "mn126:16.12",
+      "pali": "nevāsaṁ nānāsañcepi karitvā brahmacariyaṁ caranti, bhabbā phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:16.13",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:16.14",
+      "pali": "Yoni hesā, bhūmija, phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:17.1",
+      "pali": "Seyyathāpi, bhūmija, puriso navanītatthiko navanītagavesī navanītapariyesanaṁ caramāno dadhiṁ kalase āsiñcitvā matthena āviñcheyya."
+    },
+    {
+      "id": "mn126:17.2",
+      "pali": "Āsañcepi karitvā dadhiṁ kalase āsiñcitvā matthena āviñcheyya, bhabbo navanītassa adhigamāya;"
+    },
+    {
+      "id": "mn126:17.3",
+      "pali": "anāsañcepi karitvā …"
+    },
+    {
+      "id": "mn126:17.4",
+      "pali": "āsañca anāsañcepi karitvā …"
+    },
+    {
+      "id": "mn126:17.5",
+      "pali": "nevāsaṁ nānāsañcepi karitvā dadhiṁ kalase āsiñcitvā matthena āviñcheyya, bhabbo navanītassa adhigamāya."
+    },
+    {
+      "id": "mn126:17.6",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:17.7",
+      "pali": "Yoni hesā, bhūmija, navanītassa adhigamāya."
+    },
+    {
+      "id": "mn126:17.8",
+      "pali": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā sammādiṭṭhino …pe…"
+    },
+    {
+      "id": "mn126:17.9",
+      "pali": "sammāsamādhino te āsañcepi karitvā brahmacariyaṁ caranti, bhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:17.10",
+      "pali": "anāsañcepi karitvā …"
+    },
+    {
+      "id": "mn126:17.11",
+      "pali": "āsañca anāsañcepi karitvā …"
+    },
+    {
+      "id": "mn126:17.12",
+      "pali": "nevāsaṁ nānāsañcepi karitvā brahmacariyaṁ caranti, bhabbā phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:17.13",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:17.14",
+      "pali": "Yoni hesā, bhūmija, phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:18.1",
+      "pali": "Seyyathāpi, bhūmija, puriso aggitthiko aggigavesī aggipariyesanaṁ caramāno sukkhaṁ kaṭṭhaṁ koḷāpaṁ uttarāraṇiṁ ādāya abhimantheyya;"
+    },
+    {
+      "id": "mn126:18.2",
+      "pali": "(…) āsañcepi karitvā …"
+    },
+    {
+      "id": "mn126:18.3",
+      "pali": "anāsañcepi karitvā …"
+    },
+    {
+      "id": "mn126:18.4",
+      "pali": "āsañca anāsañcepi karitvā …"
+    },
+    {
+      "id": "mn126:18.5",
+      "pali": "nevāsaṁ nānāsañcepi karitvā sukkhaṁ kaṭṭhaṁ koḷāpaṁ uttarāraṇiṁ ādāya abhimantheyya, bhabbo aggissa adhigamāya."
+    },
+    {
+      "id": "mn126:18.6",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:18.7",
+      "pali": "Yoni hesā, bhūmija, aggissa adhigamāya."
+    },
+    {
+      "id": "mn126:18.8",
+      "pali": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā sammādiṭṭhino …pe…"
+    },
+    {
+      "id": "mn126:18.9",
+      "pali": "sammāsamādhino te āsañcepi karitvā brahmacariyaṁ caranti, bhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:18.10",
+      "pali": "anāsañcepi karitvā brahmacariyaṁ caranti, bhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:18.11",
+      "pali": "āsañca anāsañcepi karitvā brahmacariyaṁ caranti, bhabbā phalassa adhigamāya;"
+    },
+    {
+      "id": "mn126:18.12",
+      "pali": "nevāsaṁ nānāsañcepi karitvā brahmacariyaṁ caranti, bhabbā phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:18.13",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn126:18.14",
+      "pali": "Yoni hesā, bhūmija, phalassa adhigamāya."
+    },
+    {
+      "id": "mn126:19.1",
+      "pali": "Sace kho taṁ, bhūmija, jayasenassa rājakumārassa imā catasso upamā paṭibhāyeyyuṁ anacchariyaṁ te jayaseno rājakumāro pasīdeyya, pasanno ca te pasannākāraṁ kareyyā”ti."
+    },
+    {
+      "id": "mn126:19.2",
+      "pali": "“Kuto pana maṁ, bhante, jayasenassa rājakumārassa imā catasso upamā paṭibhāyissanti anacchariyā pubbe assutapubbā, seyyathāpi bhagavantan”ti?"
+    },
+    {
+      "id": "mn126:19.3",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn126:19.4",
+      "pali": "Attamano āyasmā bhūmijo bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn126:19.5",
+      "pali": "Bhūmijasuttaṁ niṭṭhitaṁ chaṭṭhaṁ."
+    }
+  ]
+}

@@ -1,0 +1,683 @@
+{
+  "uid": "mn90",
+  "title": "Kaṇṇakatthalasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn90:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn90:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā uruññāyaṁ viharati kaṇṇakatthale migadāye."
+    },
+    {
+      "id": "mn90:2.1",
+      "pali": "Tena kho pana samayena rājā pasenadi kosalo uruññaṁ anuppatto hoti kenacideva karaṇīyena."
+    },
+    {
+      "id": "mn90:2.2",
+      "pali": "Atha kho rājā pasenadi kosalo aññataraṁ purisaṁ āmantesi:"
+    },
+    {
+      "id": "mn90:2.3",
+      "pali": "“ehi tvaṁ, ambho purisa, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vandāhi, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha:"
+    },
+    {
+      "id": "mn90:2.4",
+      "pali": "‘rājā, bhante, pasenadi kosalo bhagavato pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’ti;"
+    },
+    {
+      "id": "mn90:2.5",
+      "pali": "evañca vadehi:"
+    },
+    {
+      "id": "mn90:2.6",
+      "pali": "‘ajja kira, bhante, rājā pasenadi kosalo pacchābhattaṁ bhuttapātarāso bhagavantaṁ dassanāya upasaṅkamissatī’”ti."
+    },
+    {
+      "id": "mn90:2.7",
+      "pali": "“Evaṁ, devā”ti kho so puriso rañño pasenadissa kosalassa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so puriso bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn90:2.8",
+      "pali": "“rājā, bhante, pasenadi kosalo bhagavato pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati;"
+    },
+    {
+      "id": "mn90:2.9",
+      "pali": "evañca vadeti:"
+    },
+    {
+      "id": "mn90:2.10",
+      "pali": "‘ajja kira, bhante, rājā pasenadi kosalo pacchābhattaṁ bhuttapātarāso bhagavantaṁ dassanāya upasaṅkamissatī’”ti."
+    },
+    {
+      "id": "mn90:3.1",
+      "pali": "Assosuṁ kho somā ca bhaginī sakulā ca bhaginī:"
+    },
+    {
+      "id": "mn90:3.2",
+      "pali": "“ajja kira rājā pasenadi kosalo pacchābhattaṁ bhuttapātarāso bhagavantaṁ dassanāya upasaṅkamissatī”ti."
+    },
+    {
+      "id": "mn90:3.3",
+      "pali": "Atha kho somā ca bhaginī sakulā ca bhaginī rājānaṁ pasenadiṁ kosalaṁ bhattābhihāre upasaṅkamitvā etadavocuṁ:"
+    },
+    {
+      "id": "mn90:3.4",
+      "pali": "“tena hi, mahārāja, amhākampi vacanena bhagavato pāde sirasā vandāhi, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha:"
+    },
+    {
+      "id": "mn90:3.5",
+      "pali": "‘somā ca, bhante, bhaginī sakulā ca bhaginī bhagavato pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’”ti."
+    },
+    {
+      "id": "mn90:4.1",
+      "pali": "Atha kho rājā pasenadi kosalo pacchābhattaṁ bhuttapātarāso yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rājā pasenadi kosalo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn90:4.2",
+      "pali": "“somā ca, bhante, bhaginī sakulā ca bhaginī bhagavato pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī”ti."
+    },
+    {
+      "id": "mn90:4.3",
+      "pali": "“Kiṁ pana, mahārāja, somā ca bhaginī sakulā ca bhaginī aññaṁ dūtaṁ nālatthun”ti?"
+    },
+    {
+      "id": "mn90:4.4",
+      "pali": "“Assosuṁ kho, bhante, somā ca bhaginī sakulā ca bhaginī:"
+    },
+    {
+      "id": "mn90:4.5",
+      "pali": "‘ajja kira rājā pasenadi kosalo pacchābhattaṁ bhuttapātarāso bhagavantaṁ dassanāya upasaṅkamissatī’ti."
+    },
+    {
+      "id": "mn90:4.6",
+      "pali": "Atha kho, bhante, somā ca bhaginī sakulā ca bhaginī maṁ bhattābhihāre upasaṅkamitvā etadavocuṁ:"
+    },
+    {
+      "id": "mn90:4.7",
+      "pali": "‘tena hi, mahārāja, amhākampi vacanena bhagavato pāde sirasā vandāhi, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha—"
+    },
+    {
+      "id": "mn90:4.8",
+      "pali": "somā ca bhaginī sakulā ca bhaginī bhagavato pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’”ti."
+    },
+    {
+      "id": "mn90:4.9",
+      "pali": "“Sukhiniyo hontu tā, mahārāja, somā ca bhaginī sakulā ca bhaginī”ti."
+    },
+    {
+      "id": "mn90:5.1",
+      "pali": "Atha kho rājā pasenadi kosalo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn90:5.2",
+      "pali": "“sutaṁ metaṁ, bhante, samaṇo gotamo evamāha:"
+    },
+    {
+      "id": "mn90:5.3",
+      "pali": "‘natthi so samaṇo vā brāhmaṇo vā yo sabbaññū sabbadassāvī aparisesaṁ ñāṇadassanaṁ paṭijānissati, netaṁ ṭhānaṁ vijjatī’ti."
+    },
+    {
+      "id": "mn90:5.4",
+      "pali": "Ye te, bhante, evamāhaṁsu: ‘samaṇo gotamo evamāha—natthi so samaṇo vā brāhmaṇo vā yo sabbaññū sabbadassāvī aparisesaṁ ñāṇadassanaṁ paṭijānissati, netaṁ ṭhānaṁ vijjatī’ti; kacci te, bhante, bhagavato vuttavādino, na ca bhagavantaṁ abhūtena abbhācikkhanti, dhammassa cānudhammaṁ byākaronti, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgacchatī”ti?"
+    },
+    {
+      "id": "mn90:5.5",
+      "pali": "“Ye te, mahārāja, evamāhaṁsu: ‘samaṇo gotamo evamāha—natthi so samaṇo vā brāhmaṇo vā yo sabbaññū sabbadassāvī aparisesaṁ ñāṇadassanaṁ paṭijānissati, netaṁ ṭhānaṁ vijjatī’ti; na me te vuttavādino, abbhācikkhanti ca pana maṁ te asatā abhūtenā”ti."
+    },
+    {
+      "id": "mn90:6.1",
+      "pali": "Atha kho rājā pasenadi kosalo viṭaṭūbhaṁ senāpatiṁ āmantesi:"
+    },
+    {
+      "id": "mn90:6.2",
+      "pali": "“ko nu kho, senāpati, imaṁ kathāvatthuṁ rājantepure abbhudāhāsī”ti?"
+    },
+    {
+      "id": "mn90:6.3",
+      "pali": "“Sañjayo, mahārāja, brāhmaṇo ākāsagotto”ti."
+    },
+    {
+      "id": "mn90:7.1",
+      "pali": "Atha kho rājā pasenadi kosalo aññataraṁ purisaṁ āmantesi:"
+    },
+    {
+      "id": "mn90:7.2",
+      "pali": "“ehi tvaṁ, ambho purisa, mama vacanena sañjayaṁ brāhmaṇaṁ ākāsagottaṁ āmantehi:"
+    },
+    {
+      "id": "mn90:7.3",
+      "pali": "‘rājā taṁ, bhante, pasenadi kosalo āmantetī’”ti."
+    },
+    {
+      "id": "mn90:7.4",
+      "pali": "“Evaṁ, devā”ti kho so puriso rañño pasenadissa kosalassa paṭissutvā yena sañjayo brāhmaṇo ākāsagotto tenupasaṅkami; upasaṅkamitvā sañjayaṁ brāhmaṇaṁ ākāsagottaṁ etadavoca:"
+    },
+    {
+      "id": "mn90:7.5",
+      "pali": "“rājā taṁ, bhante, pasenadi kosalo āmantetī”ti."
+    },
+    {
+      "id": "mn90:8.1",
+      "pali": "Atha kho rājā pasenadi kosalo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn90:8.2",
+      "pali": "“siyā nu kho, bhante, bhagavatā aññadeva kiñci sandhāya bhāsitaṁ, tañca jano aññathāpi paccāgaccheyya."
+    },
+    {
+      "id": "mn90:8.3",
+      "pali": "Yathā kathaṁ pana, bhante, bhagavā abhijānāti vācaṁ bhāsitā”ti?"
+    },
+    {
+      "id": "mn90:8.4",
+      "pali": "“Evaṁ kho ahaṁ, mahārāja, abhijānāmi vācaṁ bhāsitā:"
+    },
+    {
+      "id": "mn90:8.5",
+      "pali": "‘natthi so samaṇo vā brāhmaṇo vā yo sakideva sabbaṁ ñassati, sabbaṁ dakkhiti, netaṁ ṭhānaṁ vijjatī’”ti."
+    },
+    {
+      "id": "mn90:8.6",
+      "pali": "“Heturūpaṁ, bhante, bhagavā āha; saheturūpaṁ, bhante, bhagavā āha:"
+    },
+    {
+      "id": "mn90:8.7",
+      "pali": "‘natthi so samaṇo vā brāhmaṇo vā yo sakideva sabbaṁ ñassati, sabbaṁ dakkhiti, netaṁ ṭhānaṁ vijjatī’ti."
+    },
+    {
+      "id": "mn90:9.1",
+      "pali": "Cattārome, bhante, vaṇṇā—"
+    },
+    {
+      "id": "mn90:9.2",
+      "pali": "khattiyā, brāhmaṇā, vessā, suddā."
+    },
+    {
+      "id": "mn90:9.3",
+      "pali": "Imesaṁ nu kho, bhante, catunnaṁ vaṇṇānaṁ siyā viseso siyā nānākaraṇan”ti?"
+    },
+    {
+      "id": "mn90:9.4",
+      "pali": "“Cattārome, mahārāja, vaṇṇā—"
+    },
+    {
+      "id": "mn90:9.5",
+      "pali": "khattiyā, brāhmaṇā, vessā, suddā."
+    },
+    {
+      "id": "mn90:9.6",
+      "pali": "Imesaṁ kho, mahārāja, catunnaṁ vaṇṇānaṁ dve vaṇṇā aggamakkhāyanti—"
+    },
+    {
+      "id": "mn90:9.7",
+      "pali": "khattiyā ca brāhmaṇā ca—"
+    },
+    {
+      "id": "mn90:9.8",
+      "pali": "yadidaṁ abhivādanapaccuṭṭhānaañjalikammasāmīcikammānī”ti."
+    },
+    {
+      "id": "mn90:10.1",
+      "pali": "“Nāhaṁ, bhante, bhagavantaṁ diṭṭhadhammikaṁ pucchāmi;"
+    },
+    {
+      "id": "mn90:10.2",
+      "pali": "samparāyikāhaṁ, bhante, bhagavantaṁ pucchāmi."
+    },
+    {
+      "id": "mn90:10.3",
+      "pali": "Cattārome, bhante, vaṇṇā—"
+    },
+    {
+      "id": "mn90:10.4",
+      "pali": "khattiyā, brāhmaṇā, vessā, suddā."
+    },
+    {
+      "id": "mn90:10.5",
+      "pali": "Imesaṁ nu kho, bhante, catunnaṁ vaṇṇānaṁ siyā viseso siyā nānākaraṇan”ti?"
+    },
+    {
+      "id": "mn90:10.6",
+      "pali": "“Pañcimāni, mahārāja, padhāniyaṅgāni."
+    },
+    {
+      "id": "mn90:10.7",
+      "pali": "Katamāni pañca?"
+    },
+    {
+      "id": "mn90:10.8",
+      "pali": "Idha, mahārāja, bhikkhu saddho hoti, saddahati tathāgatassa bodhiṁ:"
+    },
+    {
+      "id": "mn90:10.9",
+      "pali": "‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti;"
+    },
+    {
+      "id": "mn90:10.10",
+      "pali": "appābādho hoti appātaṅko samavepākiniyā gahaṇiyā samannāgato nātisītāya nāccuṇhāya majjhimāya padhānakkhamāya;"
+    },
+    {
+      "id": "mn90:10.11",
+      "pali": "asaṭho hoti amāyāvī yathābhūtaṁ attānaṁ āvikattā satthari vā viññūsu vā sabrahmacārīsu;"
+    },
+    {
+      "id": "mn90:10.12",
+      "pali": "āraddhavīriyo viharati akusalānaṁ dhammānaṁ pahānāya, kusalānaṁ dhammānaṁ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu;"
+    },
+    {
+      "id": "mn90:10.13",
+      "pali": "paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammādukkhakkhayagāminiyā—"
+    },
+    {
+      "id": "mn90:10.14",
+      "pali": "imāni kho, mahārāja, pañca padhāniyaṅgāni."
+    },
+    {
+      "id": "mn90:10.15",
+      "pali": "Cattārome, mahārāja, vaṇṇā—"
+    },
+    {
+      "id": "mn90:10.16",
+      "pali": "khattiyā, brāhmaṇā, vessā, suddā."
+    },
+    {
+      "id": "mn90:10.17",
+      "pali": "Te cassu imehi pañcahi padhāniyaṅgehi samannāgatā;"
+    },
+    {
+      "id": "mn90:10.18",
+      "pali": "ettha pana nesaṁ assa dīgharattaṁ hitāya sukhāyā”ti."
+    },
+    {
+      "id": "mn90:11.1",
+      "pali": "“Cattārome, bhante, vaṇṇā—"
+    },
+    {
+      "id": "mn90:11.2",
+      "pali": "khattiyā, brāhmaṇā, vessā, suddā."
+    },
+    {
+      "id": "mn90:11.3",
+      "pali": "Te cassu imehi pañcahi padhāniyaṅgehi samannāgatā;"
+    },
+    {
+      "id": "mn90:11.4",
+      "pali": "ettha pana nesaṁ, bhante, siyā viseso siyā nānākaraṇan”ti?"
+    },
+    {
+      "id": "mn90:11.5",
+      "pali": "“Ettha kho nesāhaṁ, mahārāja, padhānavemattataṁ vadāmi."
+    },
+    {
+      "id": "mn90:11.6",
+      "pali": "Seyyathāpissu, mahārāja, dve hatthidammā vā assadammā vā godammā vā sudantā suvinītā, dve hatthidammā vā assadammā vā godammā vā adantā avinītā."
+    },
+    {
+      "id": "mn90:11.7",
+      "pali": "Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn90:11.8",
+      "pali": "ye te dve hatthidammā vā assadammā vā godammā vā sudantā suvinītā, api nu te dantāva dantakāraṇaṁ gaccheyyuṁ, dantāva dantabhūmiṁ sampāpuṇeyyun”ti?"
+    },
+    {
+      "id": "mn90:11.9",
+      "pali": "“Evaṁ, bhante”."
+    },
+    {
+      "id": "mn90:11.10",
+      "pali": "“Ye pana te dve hatthidammā vā assadammā vā godammā vā adantā avinītā, api nu te adantāva dantakāraṇaṁ gaccheyyuṁ, adantāva dantabhūmiṁ sampāpuṇeyyuṁ, seyyathāpi te dve hatthidammā vā assadammā vā godammā vā sudantā suvinītā”ti?"
+    },
+    {
+      "id": "mn90:11.11",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn90:11.12",
+      "pali": "“Evameva kho, mahārāja, yaṁ taṁ saddhena pattabbaṁ appābādhena asaṭhena amāyāvinā āraddhavīriyena paññavatā, taṁ vata assaddho bahvābādho saṭho māyāvī kusīto duppañño pāpuṇissatīti—netaṁ ṭhānaṁ vijjatī”ti."
+    },
+    {
+      "id": "mn90:12.1",
+      "pali": "“Heturūpaṁ, bhante, bhagavā āha; saheturūpaṁ, bhante, bhagavā āha."
+    },
+    {
+      "id": "mn90:12.2",
+      "pali": "Cattārome, bhante, vaṇṇā—"
+    },
+    {
+      "id": "mn90:12.3",
+      "pali": "khattiyā, brāhmaṇā, vessā, suddā."
+    },
+    {
+      "id": "mn90:12.4",
+      "pali": "Te cassu imehi pañcahi padhāniyaṅgehi samannāgatā te cassu sammappadhānā;"
+    },
+    {
+      "id": "mn90:12.5",
+      "pali": "ettha pana nesaṁ, bhante, siyā viseso siyā nānākaraṇan”ti?"
+    },
+    {
+      "id": "mn90:12.6",
+      "pali": "“Ettha kho nesāhaṁ, mahārāja, na kiñci nānākaraṇaṁ vadāmi—yadidaṁ vimuttiyā vimuttiṁ."
+    },
+    {
+      "id": "mn90:12.7",
+      "pali": "Seyyathāpi, mahārāja, puriso sukkhaṁ sākakaṭṭhaṁ ādāya aggiṁ abhinibbatteyya, tejo pātukareyya;"
+    },
+    {
+      "id": "mn90:12.8",
+      "pali": "athāparo puriso sukkhaṁ sālakaṭṭhaṁ ādāya aggiṁ abhinibbatteyya, tejo pātukareyya;"
+    },
+    {
+      "id": "mn90:12.9",
+      "pali": "athāparo puriso sukkhaṁ ambakaṭṭhaṁ ādāya aggiṁ abhinibbatteyya, tejo pātukareyya;"
+    },
+    {
+      "id": "mn90:12.10",
+      "pali": "athāparo puriso sukkhaṁ udumbarakaṭṭhaṁ ādāya aggiṁ abhinibbatteyya, tejo pātukareyya."
+    },
+    {
+      "id": "mn90:12.11",
+      "pali": "Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn90:12.12",
+      "pali": "siyā nu kho tesaṁ aggīnaṁ nānādāruto abhinibbattānaṁ kiñci nānākaraṇaṁ acciyā vā acciṁ, vaṇṇena vā vaṇṇaṁ, ābhāya vā ābhan”ti?"
+    },
+    {
+      "id": "mn90:12.13",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn90:12.14",
+      "pali": "“Evameva kho, mahārāja, yaṁ taṁ tejaṁ vīriyā nimmathitaṁ padhānābhinibbattaṁ, nāhaṁ tattha kiñci nānākaraṇaṁ vadāmi—yadidaṁ vimuttiyā vimuttin”ti."
+    },
+    {
+      "id": "mn90:13.1",
+      "pali": "“Heturūpaṁ, bhante, bhagavā āha; saheturūpaṁ, bhante, bhagavā āha."
+    },
+    {
+      "id": "mn90:13.2",
+      "pali": "Kiṁ pana, bhante, atthi devā”ti?"
+    },
+    {
+      "id": "mn90:13.3",
+      "pali": "“Kiṁ pana tvaṁ, mahārāja, evaṁ vadesi:"
+    },
+    {
+      "id": "mn90:13.4",
+      "pali": "‘kiṁ pana, bhante, atthi devā’”ti?"
+    },
+    {
+      "id": "mn90:13.5",
+      "pali": "“Yadi vā te, bhante, devā āgantāro itthattaṁ yadi vā anāgantāro itthattaṁ”?"
+    },
+    {
+      "id": "mn90:13.6",
+      "pali": "“Ye te, mahārāja, devā sabyābajjhā te devā āgantāro itthattaṁ, ye te devā abyābajjhā te devā anāgantāro itthattan”ti."
+    },
+    {
+      "id": "mn90:14.1",
+      "pali": "Evaṁ vutte, viṭaṭūbho senāpati bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn90:14.2",
+      "pali": "“ye te, bhante, devā sabyābajjhā āgantāro itthattaṁ te devā, ye te devā abyābajjhā anāgantāro itthattaṁ te deve tamhā ṭhānā cāvessanti vā pabbājessanti vā”ti?"
+    },
+    {
+      "id": "mn90:14.3",
+      "pali": "Atha kho āyasmato ānandassa etadahosi:"
+    },
+    {
+      "id": "mn90:14.4",
+      "pali": "“ayaṁ kho viṭaṭūbho senāpati rañño pasenadissa kosalassa putto;"
+    },
+    {
+      "id": "mn90:14.5",
+      "pali": "ahaṁ bhagavato putto."
+    },
+    {
+      "id": "mn90:14.6",
+      "pali": "Ayaṁ kho kālo yaṁ putto puttena manteyyā”ti."
+    },
+    {
+      "id": "mn90:14.7",
+      "pali": "Atha kho āyasmā ānando viṭaṭūbhaṁ senāpatiṁ āmantesi:"
+    },
+    {
+      "id": "mn90:14.8",
+      "pali": "“tena hi, senāpati, taññevettha paṭipucchissāmi; yathā te khameyya tathā naṁ byākareyyāsi."
+    },
+    {
+      "id": "mn90:14.9",
+      "pali": "Taṁ kiṁ maññasi, senāpati,"
+    },
+    {
+      "id": "mn90:14.10",
+      "pali": "yāvatā rañño pasenadissa kosalassa vijitaṁ yattha ca rājā pasenadi kosalo issariyādhipaccaṁ rajjaṁ kāreti, pahoti tattha rājā pasenadi kosalo samaṇaṁ vā brāhmaṇaṁ vā puññavantaṁ vā apuññavantaṁ vā brahmacariyavantaṁ vā abrahmacariyavantaṁ vā tamhā ṭhānā cāvetuṁ vā pabbājetuṁ vā”ti?"
+    },
+    {
+      "id": "mn90:14.11",
+      "pali": "“Yāvatā, bho, rañño pasenadissa kosalassa vijitaṁ yattha ca rājā pasenadi kosalo issariyādhipaccaṁ rajjaṁ kāreti, pahoti tattha rājā pasenadi kosalo samaṇaṁ vā brāhmaṇaṁ vā puññavantaṁ vā apuññavantaṁ vā brahmacariyavantaṁ vā abrahmacariyavantaṁ vā tamhā ṭhānā cāvetuṁ vā pabbājetuṁ vā”ti."
+    },
+    {
+      "id": "mn90:14.12",
+      "pali": "“Taṁ kiṁ maññasi, senāpati,"
+    },
+    {
+      "id": "mn90:14.13",
+      "pali": "yāvatā rañño pasenadissa kosalassa avijitaṁ yattha ca rājā pasenadi kosalo na issariyādhipaccaṁ rajjaṁ kāreti, tattha pahoti rājā pasenadi kosalo samaṇaṁ vā brāhmaṇaṁ vā puññavantaṁ vā apuññavantaṁ vā brahmacariyavantaṁ vā abrahmacariyavantaṁ vā tamhā ṭhānā cāvetuṁ vā pabbājetuṁ vā”ti?"
+    },
+    {
+      "id": "mn90:14.14",
+      "pali": "“Yāvatā, bho, rañño pasenadissa kosalassa avijitaṁ yattha ca rājā pasenadi kosalo na issariyādhipaccaṁ rajjaṁ kāreti, na tattha pahoti rājā pasenadi kosalo samaṇaṁ vā brāhmaṇaṁ vā puññavantaṁ vā apuññavantaṁ vā brahmacariyavantaṁ vā abrahmacariyavantaṁ vā tamhā ṭhānā cāvetuṁ vā pabbājetuṁ vā”ti."
+    },
+    {
+      "id": "mn90:14.15",
+      "pali": "“Taṁ kiṁ maññasi, senāpati,"
+    },
+    {
+      "id": "mn90:14.16",
+      "pali": "sutā te devā tāvatiṁsā”ti?"
+    },
+    {
+      "id": "mn90:14.17",
+      "pali": "“Evaṁ, bho."
+    },
+    {
+      "id": "mn90:14.18",
+      "pali": "Sutā me devā tāvatiṁsā."
+    },
+    {
+      "id": "mn90:14.19",
+      "pali": "Idhāpi bhotā raññā pasenadinā kosalena sutā devā tāvatiṁsā”ti."
+    },
+    {
+      "id": "mn90:14.20",
+      "pali": "“Taṁ kiṁ maññasi, senāpati,"
+    },
+    {
+      "id": "mn90:14.21",
+      "pali": "pahoti rājā pasenadi kosalo deve tāvatiṁse tamhā ṭhānā cāvetuṁ vā pabbājetuṁ vā”ti?"
+    },
+    {
+      "id": "mn90:14.22",
+      "pali": "“Dassanampi, bho, rājā pasenadi kosalo deve tāvatiṁse nappahoti, kuto pana tamhā ṭhānā cāvessati vā pabbājessati vā”ti?"
+    },
+    {
+      "id": "mn90:14.23",
+      "pali": "“Evameva kho, senāpati, ye te devā sabyābajjhā āgantāro itthattaṁ te devā, ye te devā abyābajjhā anāgantāro itthattaṁ te deve dassanāyapi nappahonti; kuto pana tamhā ṭhānā cāvessanti vā pabbājessanti vā”ti?"
+    },
+    {
+      "id": "mn90:15.1",
+      "pali": "Atha kho rājā pasenadi kosalo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn90:15.2",
+      "pali": "“konāmo ayaṁ, bhante, bhikkhū”ti?"
+    },
+    {
+      "id": "mn90:15.3",
+      "pali": "“Ānando nāma, mahārājā”ti."
+    },
+    {
+      "id": "mn90:15.4",
+      "pali": "“Ānando vata bho, ānandarūpo vata bho."
+    },
+    {
+      "id": "mn90:15.5",
+      "pali": "Heturūpaṁ, bhante, āyasmā ānando āha; saheturūpaṁ, bhante, āyasmā ānando āha."
+    },
+    {
+      "id": "mn90:15.6",
+      "pali": "Kiṁ pana, bhante, atthi brahmā”ti?"
+    },
+    {
+      "id": "mn90:15.7",
+      "pali": "“Kiṁ pana tvaṁ, mahārāja, evaṁ vadesi:"
+    },
+    {
+      "id": "mn90:15.8",
+      "pali": "‘kiṁ pana, bhante, atthi brahmā’”ti?"
+    },
+    {
+      "id": "mn90:15.9",
+      "pali": "“Yadi vā so, bhante, brahmā āgantā itthattaṁ, yadi vā anāgantā itthattan”ti?"
+    },
+    {
+      "id": "mn90:15.10",
+      "pali": "“Yo so, mahārāja, brahmā sabyābajjho so brahmā āgantā itthattaṁ, yo so brahmā abyābajjho so brahmā anāgantā itthattan”ti."
+    },
+    {
+      "id": "mn90:16.1",
+      "pali": "Atha kho aññataro puriso rājānaṁ pasenadiṁ kosalaṁ etadavoca:"
+    },
+    {
+      "id": "mn90:16.2",
+      "pali": "“sañjayo, mahārāja, brāhmaṇo ākāsagotto āgato”ti."
+    },
+    {
+      "id": "mn90:16.3",
+      "pali": "Atha kho rājā pasenadi kosalo sañjayaṁ brāhmaṇaṁ ākāsagottaṁ etadavoca:"
+    },
+    {
+      "id": "mn90:16.4",
+      "pali": "“ko nu kho, brāhmaṇa, imaṁ kathāvatthuṁ rājantepure abbhudāhāsī”ti?"
+    },
+    {
+      "id": "mn90:16.5",
+      "pali": "“Viṭaṭūbho, mahārāja, senāpatī”ti."
+    },
+    {
+      "id": "mn90:16.6",
+      "pali": "Viṭaṭūbho senāpati evamāha:"
+    },
+    {
+      "id": "mn90:16.7",
+      "pali": "“sañjayo, mahārāja, brāhmaṇo ākāsagotto”ti."
+    },
+    {
+      "id": "mn90:17.1",
+      "pali": "Atha kho aññataro puriso rājānaṁ pasenadiṁ kosalaṁ etadavoca:"
+    },
+    {
+      "id": "mn90:17.2",
+      "pali": "“yānakālo, mahārājā”ti."
+    },
+    {
+      "id": "mn90:17.3",
+      "pali": "Atha kho rājā pasenadi kosalo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn90:17.4",
+      "pali": "“sabbaññutaṁ mayaṁ, bhante, bhagavantaṁ apucchimhā, sabbaññutaṁ bhagavā byākāsi;"
+    },
+    {
+      "id": "mn90:17.5",
+      "pali": "tañca panamhākaṁ ruccati ceva khamati ca, tena camhā attamanā."
+    },
+    {
+      "id": "mn90:17.6",
+      "pali": "Cātuvaṇṇisuddhiṁ mayaṁ, bhante, bhagavantaṁ apucchimhā, cātuvaṇṇisuddhiṁ bhagavā byākāsi;"
+    },
+    {
+      "id": "mn90:17.7",
+      "pali": "tañca panamhākaṁ ruccati ceva khamati ca, tena camhā attamanā."
+    },
+    {
+      "id": "mn90:17.8",
+      "pali": "Adhideve mayaṁ, bhante, bhagavantaṁ apucchimhā, adhideve bhagavā byākāsi;"
+    },
+    {
+      "id": "mn90:17.9",
+      "pali": "tañca panamhākaṁ ruccati ceva khamati ca, tena camhā attamanā."
+    },
+    {
+      "id": "mn90:17.10",
+      "pali": "Adhibrahmānaṁ mayaṁ, bhante, bhagavantaṁ apucchimhā, adhibrahmānaṁ bhagavā byākāsi;"
+    },
+    {
+      "id": "mn90:17.11",
+      "pali": "tañca panamhākaṁ ruccati ceva khamati ca, tena camhā attamanā."
+    },
+    {
+      "id": "mn90:17.12",
+      "pali": "Yaṁ yadeva ca mayaṁ bhagavantaṁ apucchimhā taṁ tadeva bhagavā byākāsi;"
+    },
+    {
+      "id": "mn90:17.13",
+      "pali": "tañca panamhākaṁ ruccati ceva khamati ca, tena camhā attamanā."
+    },
+    {
+      "id": "mn90:17.14",
+      "pali": "Handa ca dāni mayaṁ, bhante, gacchāma;"
+    },
+    {
+      "id": "mn90:17.15",
+      "pali": "bahukiccā mayaṁ bahukaraṇīyā”ti."
+    },
+    {
+      "id": "mn90:17.16",
+      "pali": "“Yassadāni tvaṁ, mahārāja, kālaṁ maññasī”ti."
+    },
+    {
+      "id": "mn90:18.1",
+      "pali": "Atha kho rājā pasenadi kosalo bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmīti."
+    },
+    {
+      "id": "mn90:18.2",
+      "pali": "Kaṇṇakatthalasuttaṁ niṭṭhitaṁ dasamaṁ."
+    },
+    {
+      "id": "mn90:18.3",
+      "pali": "Rājavaggo niṭṭhito catuttho."
+    },
+    {
+      "id": "mn90:19.1",
+      "pali": "Ghaṭikāro raṭṭhapālo,"
+    },
+    {
+      "id": "mn90:19.2",
+      "pali": "maghadevo madhuriyaṁ;"
+    },
+    {
+      "id": "mn90:19.3",
+      "pali": "Bodhi aṅgulimālo ca,"
+    },
+    {
+      "id": "mn90:19.4",
+      "pali": "piyajātaṁ bāhitikaṁ;"
+    },
+    {
+      "id": "mn90:19.5",
+      "pali": "Dhammacetiyasuttañca,"
+    },
+    {
+      "id": "mn90:19.6",
+      "pali": "dasamaṁ kaṇṇakatthalaṁ."
+    }
+  ]
+}

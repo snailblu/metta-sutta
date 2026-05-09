@@ -1,0 +1,2319 @@
+{
+  "uid": "dn24",
+  "title": "Pāthikasutta",
+  "nikaya": "dn",
+  "segments": [
+    {
+      "id": "dn24:1.1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "dn24:1.1.2",
+      "pali": "ekaṁ samayaṁ bhagavā mallesu viharati anupiyaṁ nāma mallānaṁ nigamo."
+    },
+    {
+      "id": "dn24:1.1.3",
+      "pali": "Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya anupiyaṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "dn24:1.1.4",
+      "pali": "Atha kho bhagavato etadahosi:"
+    },
+    {
+      "id": "dn24:1.1.5",
+      "pali": "“atippago kho tāva anupiyāyaṁ piṇḍāya carituṁ."
+    },
+    {
+      "id": "dn24:1.1.6",
+      "pali": "Yannūnāhaṁ yena bhaggavagottassa paribbājakassa ārāmo, yena bhaggavagotto paribbājako tenupasaṅkameyyan”ti."
+    },
+    {
+      "id": "dn24:1.2.1",
+      "pali": "Atha kho bhagavā yena bhaggavagottassa paribbājakassa ārāmo, yena bhaggavagotto paribbājako tenupasaṅkami."
+    },
+    {
+      "id": "dn24:1.2.2",
+      "pali": "Atha kho bhaggavagotto paribbājako bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn24:1.2.3",
+      "pali": "“etu kho, bhante, bhagavā."
+    },
+    {
+      "id": "dn24:1.2.4",
+      "pali": "Svāgataṁ, bhante, bhagavato."
+    },
+    {
+      "id": "dn24:1.2.5",
+      "pali": "Cirassaṁ kho, bhante, bhagavā imaṁ pariyāyamakāsi yadidaṁ idhāgamanāya."
+    },
+    {
+      "id": "dn24:1.2.6",
+      "pali": "Nisīdatu, bhante, bhagavā, idamāsanaṁ paññattan”ti."
+    },
+    {
+      "id": "dn24:1.2.7",
+      "pali": "Nisīdi bhagavā paññatte āsane."
+    },
+    {
+      "id": "dn24:1.2.8",
+      "pali": "Bhaggavagottopi kho paribbājako aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "dn24:1.2.9",
+      "pali": "Ekamantaṁ nisinno kho bhaggavagotto paribbājako bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn24:1.2.10",
+      "pali": "“purimāni, bhante, divasāni purimatarāni sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ etadavoca:"
+    },
+    {
+      "id": "dn24:1.2.11",
+      "pali": "‘paccakkhāto dāni mayā, bhaggava, bhagavā."
+    },
+    {
+      "id": "dn24:1.2.12",
+      "pali": "Na dānāhaṁ bhagavantaṁ uddissa viharāmī’ti."
+    },
+    {
+      "id": "dn24:1.2.13",
+      "pali": "Kaccetaṁ, bhante, tatheva, yathā sunakkhatto licchaviputto avacā”ti?"
+    },
+    {
+      "id": "dn24:1.2.14",
+      "pali": "“Tatheva kho etaṁ, bhaggava, yathā sunakkhatto licchaviputto avaca."
+    },
+    {
+      "id": "dn24:1.3.1",
+      "pali": "Purimāni, bhaggava, divasāni purimatarāni sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho, bhaggava, sunakkhatto licchaviputto maṁ etadavoca:"
+    },
+    {
+      "id": "dn24:1.3.2",
+      "pali": "‘paccakkhāmi dānāhaṁ, bhante, bhagavantaṁ."
+    },
+    {
+      "id": "dn24:1.3.3",
+      "pali": "Na dānāhaṁ, bhante, bhagavantaṁ uddissa viharissāmī’ti."
+    },
+    {
+      "id": "dn24:1.3.4",
+      "pali": "Evaṁ vutte, ahaṁ, bhaggava, sunakkhattaṁ licchaviputtaṁ etadavocaṁ:"
+    },
+    {
+      "id": "dn24:1.3.5",
+      "pali": "‘api nu tāhaṁ, sunakkhatta, evaṁ avacaṁ,"
+    },
+    {
+      "id": "dn24:1.3.6",
+      "pali": "ehi tvaṁ, sunakkhatta, mamaṁ uddissa viharāhī’ti?"
+    },
+    {
+      "id": "dn24:1.3.7",
+      "pali": "‘No hetaṁ, bhante’."
+    },
+    {
+      "id": "dn24:1.3.8",
+      "pali": "‘Tvaṁ vā pana maṁ evaṁ avaca—"
+    },
+    {
+      "id": "dn24:1.3.9",
+      "pali": "ahaṁ, bhante, bhagavantaṁ uddissa viharissāmī’ti?"
+    },
+    {
+      "id": "dn24:1.3.10",
+      "pali": "‘No hetaṁ, bhante’."
+    },
+    {
+      "id": "dn24:1.3.11",
+      "pali": "‘Iti kira, sunakkhatta, nevāhaṁ taṁ vadāmi—"
+    },
+    {
+      "id": "dn24:1.3.12",
+      "pali": "ehi tvaṁ, sunakkhatta, mamaṁ uddissa viharāhīti."
+    },
+    {
+      "id": "dn24:1.3.13",
+      "pali": "Napi kira maṁ tvaṁ vadesi—"
+    },
+    {
+      "id": "dn24:1.3.14",
+      "pali": "ahaṁ, bhante, bhagavantaṁ uddissa viharissāmīti."
+    },
+    {
+      "id": "dn24:1.3.15",
+      "pali": "Evaṁ sante, moghapurisa, ko santo kaṁ paccācikkhasi?"
+    },
+    {
+      "id": "dn24:1.3.16",
+      "pali": "Passa, moghapurisa, yāvañca te idaṁ aparaddhan’ti."
+    },
+    {
+      "id": "dn24:1.4.1",
+      "pali": "‘Na hi pana me, bhante, bhagavā uttari manussadhammā iddhipāṭihāriyaṁ karotī’ti."
+    },
+    {
+      "id": "dn24:1.4.2",
+      "pali": "‘Api nu tāhaṁ, sunakkhatta, evaṁ avacaṁ—"
+    },
+    {
+      "id": "dn24:1.4.3",
+      "pali": "ehi tvaṁ, sunakkhatta, mamaṁ uddissa viharāhi, ahaṁ te uttari manussadhammā iddhipāṭihāriyaṁ karissāmī’ti?"
+    },
+    {
+      "id": "dn24:1.4.4",
+      "pali": "‘No hetaṁ, bhante’."
+    },
+    {
+      "id": "dn24:1.4.5",
+      "pali": "‘Tvaṁ vā pana maṁ evaṁ avaca—"
+    },
+    {
+      "id": "dn24:1.4.6",
+      "pali": "ahaṁ, bhante, bhagavantaṁ uddissa viharissāmi, bhagavā me uttari manussadhammā iddhipāṭihāriyaṁ karissatī’ti?"
+    },
+    {
+      "id": "dn24:1.4.7",
+      "pali": "‘No hetaṁ, bhante’."
+    },
+    {
+      "id": "dn24:1.4.8",
+      "pali": "‘Iti kira, sunakkhatta, nevāhaṁ taṁ vadāmi—"
+    },
+    {
+      "id": "dn24:1.4.9",
+      "pali": "ehi tvaṁ, sunakkhatta, mamaṁ uddissa viharāhi, ahaṁ te uttari manussadhammā iddhipāṭihāriyaṁ karissāmīti;"
+    },
+    {
+      "id": "dn24:1.4.10",
+      "pali": "napi kira maṁ tvaṁ vadesi—"
+    },
+    {
+      "id": "dn24:1.4.11",
+      "pali": "ahaṁ, bhante, bhagavantaṁ uddissa viharissāmi, bhagavā me uttari manussadhammā iddhipāṭihāriyaṁ karissatīti."
+    },
+    {
+      "id": "dn24:1.4.12",
+      "pali": "Evaṁ sante, moghapurisa, ko santo kaṁ paccācikkhasi?"
+    },
+    {
+      "id": "dn24:1.4.13",
+      "pali": "Taṁ kiṁ maññasi, sunakkhatta,"
+    },
+    {
+      "id": "dn24:1.4.14",
+      "pali": "kate vā uttari manussadhammā iddhipāṭihāriye akate vā uttari manussadhammā iddhipāṭihāriye yassatthāya mayā dhammo desito so niyyāti takkarassa sammā dukkhakkhayāyā’ti?"
+    },
+    {
+      "id": "dn24:1.4.15",
+      "pali": "‘Kate vā, bhante, uttari manussadhammā iddhipāṭihāriye akate vā uttari manussadhammā iddhipāṭihāriye yassatthāya bhagavatā dhammo desito so niyyāti takkarassa sammā dukkhakkhayāyā’ti."
+    },
+    {
+      "id": "dn24:1.4.16",
+      "pali": "‘Iti kira, sunakkhatta, kate vā uttari manussadhammā iddhipāṭihāriye, akate vā uttari manussadhammā iddhipāṭihāriye, yassatthāya mayā dhammo desito, so niyyāti takkarassa sammā dukkhakkhayāya."
+    },
+    {
+      "id": "dn24:1.4.17",
+      "pali": "Tatra, sunakkhatta, kiṁ uttari manussadhammā iddhipāṭihāriyaṁ kataṁ karissati?"
+    },
+    {
+      "id": "dn24:1.4.18",
+      "pali": "Passa, moghapurisa, yāvañca te idaṁ aparaddhan’ti."
+    },
+    {
+      "id": "dn24:1.5.1",
+      "pali": "‘Na hi pana me, bhante, bhagavā aggaññaṁ paññapetī’ti?"
+    },
+    {
+      "id": "dn24:1.5.2",
+      "pali": "‘Api nu tāhaṁ, sunakkhatta, evaṁ avacaṁ—"
+    },
+    {
+      "id": "dn24:1.5.3",
+      "pali": "ehi tvaṁ, sunakkhatta, mamaṁ uddissa viharāhi, ahaṁ te aggaññaṁ paññapessāmī’ti?"
+    },
+    {
+      "id": "dn24:1.5.4",
+      "pali": "‘No hetaṁ, bhante’."
+    },
+    {
+      "id": "dn24:1.5.5",
+      "pali": "‘Tvaṁ vā pana maṁ evaṁ avaca—"
+    },
+    {
+      "id": "dn24:1.5.6",
+      "pali": "ahaṁ, bhante, bhagavantaṁ uddissa viharissāmi, bhagavā me aggaññaṁ paññapessatī’ti?"
+    },
+    {
+      "id": "dn24:1.5.7",
+      "pali": "‘No hetaṁ, bhante’."
+    },
+    {
+      "id": "dn24:1.5.8",
+      "pali": "‘Iti kira, sunakkhatta, nevāhaṁ taṁ vadāmi—"
+    },
+    {
+      "id": "dn24:1.5.9",
+      "pali": "ehi tvaṁ, sunakkhatta, mamaṁ uddissa viharāhi, ahaṁ te aggaññaṁ paññapessāmīti."
+    },
+    {
+      "id": "dn24:1.5.10",
+      "pali": "Napi kira maṁ tvaṁ vadesi—"
+    },
+    {
+      "id": "dn24:1.5.11",
+      "pali": "ahaṁ, bhante, bhagavantaṁ uddissa viharissāmi, bhagavā me aggaññaṁ paññapessatīti."
+    },
+    {
+      "id": "dn24:1.5.12",
+      "pali": "Evaṁ sante, moghapurisa, ko santo kaṁ paccācikkhasi?"
+    },
+    {
+      "id": "dn24:1.5.13",
+      "pali": "Taṁ kiṁ maññasi, sunakkhatta,"
+    },
+    {
+      "id": "dn24:1.5.14",
+      "pali": "paññatte vā aggaññe, apaññatte vā aggaññe, yassatthāya mayā dhammo desito, so niyyāti takkarassa sammā dukkhakkhayāyā’ti?"
+    },
+    {
+      "id": "dn24:1.5.15",
+      "pali": "‘Paññatte vā, bhante, aggaññe, apaññatte vā aggaññe, yassatthāya bhagavatā dhammo desito, so niyyāti takkarassa sammā dukkhakkhayāyā’ti."
+    },
+    {
+      "id": "dn24:1.5.16",
+      "pali": "‘Iti kira, sunakkhatta, paññatte vā aggaññe, apaññatte vā aggaññe, yassatthāya mayā dhammo desito, so niyyāti takkarassa sammā dukkhakkhayāya."
+    },
+    {
+      "id": "dn24:1.5.17",
+      "pali": "Tatra, sunakkhatta, kiṁ aggaññaṁ paññattaṁ karissati?"
+    },
+    {
+      "id": "dn24:1.5.18",
+      "pali": "Passa, moghapurisa, yāvañca te idaṁ aparaddhaṁ."
+    },
+    {
+      "id": "dn24:1.6.1",
+      "pali": "Anekapariyāyena kho te, sunakkhatta, mama vaṇṇo bhāsito vajjigāme—"
+    },
+    {
+      "id": "dn24:1.6.2",
+      "pali": "itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavāti."
+    },
+    {
+      "id": "dn24:1.6.3",
+      "pali": "Iti kho te, sunakkhatta, anekapariyāyena mama vaṇṇo bhāsito vajjigāme."
+    },
+    {
+      "id": "dn24:1.6.4",
+      "pali": "Anekapariyāyena kho te, sunakkhatta, dhammassa vaṇṇo bhāsito vajjigāme—"
+    },
+    {
+      "id": "dn24:1.6.5",
+      "pali": "svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṁ veditabbo viññūhīti."
+    },
+    {
+      "id": "dn24:1.6.6",
+      "pali": "Iti kho te, sunakkhatta, anekapariyāyena dhammassa vaṇṇo bhāsito vajjigāme."
+    },
+    {
+      "id": "dn24:1.6.7",
+      "pali": "Anekapariyāyena kho te, sunakkhatta, saṅghassa vaṇṇo bhāsito vajjigāme—"
+    },
+    {
+      "id": "dn24:1.6.8",
+      "pali": "suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato sāvakasaṅgho, yadidaṁ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho, āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassāti."
+    },
+    {
+      "id": "dn24:1.6.9",
+      "pali": "Iti kho te, sunakkhatta, anekapariyāyena saṅghassa vaṇṇo bhāsito vajjigāme."
+    },
+    {
+      "id": "dn24:1.6.10",
+      "pali": "Ārocayāmi kho te, sunakkhatta, paṭivedayāmi kho te, sunakkhatta."
+    },
+    {
+      "id": "dn24:1.6.11",
+      "pali": "Bhavissanti kho te, sunakkhatta, vattāro, no visahi sunakkhatto licchaviputto samaṇe gotame brahmacariyaṁ carituṁ, so avisahanto sikkhaṁ paccakkhāya hīnāyāvattoti."
+    },
+    {
+      "id": "dn24:1.6.12",
+      "pali": "Iti kho te, sunakkhatta, bhavissanti vattāro’ti."
+    },
+    {
+      "id": "dn24:1.6.13",
+      "pali": "Evaṁ kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva imasmā dhammavinayā, yathā taṁ āpāyiko nerayiko."
+    },
+    {
+      "id": "dn24:1.7.0",
+      "pali": "2. Korakkhattiyavatthu"
+    },
+    {
+      "id": "dn24:1.7.1",
+      "pali": "Ekamidāhaṁ, bhaggava, samayaṁ thūlūsu viharāmi uttarakā nāma thūlūnaṁ nigamo."
+    },
+    {
+      "id": "dn24:1.7.2",
+      "pali": "Atha khvāhaṁ, bhaggava, pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sunakkhattena licchaviputtena pacchāsamaṇena uttarakaṁ piṇḍāya pāvisiṁ."
+    },
+    {
+      "id": "dn24:1.7.3",
+      "pali": "Tena kho pana samayena acelo korakkhattiyo kukkuravatiko catukkuṇḍiko chamānikiṇṇaṁ bhakkhasaṁ mukheneva khādati, mukheneva bhuñjati."
+    },
+    {
+      "id": "dn24:1.7.4",
+      "pali": "Addasā kho, bhaggava, sunakkhatto licchaviputto acelaṁ korakkhattiyaṁ kukkuravatikaṁ catukkuṇḍikaṁ chamānikiṇṇaṁ bhakkhasaṁ mukheneva khādantaṁ mukheneva bhuñjantaṁ."
+    },
+    {
+      "id": "dn24:1.7.5",
+      "pali": "Disvānassa etadahosi:"
+    },
+    {
+      "id": "dn24:1.7.6",
+      "pali": "‘sādhurūpo vata bho ayaṁ samaṇo catukkuṇḍiko chamānikiṇṇaṁ bhakkhasaṁ mukheneva khādati, mukheneva bhuñjatī’ti."
+    },
+    {
+      "id": "dn24:1.7.7",
+      "pali": "Atha khvāhaṁ, bhaggava, sunakkhattassa licchaviputtassa cetasā cetoparivitakkamaññāya sunakkhattaṁ licchaviputtaṁ etadavocaṁ:"
+    },
+    {
+      "id": "dn24:1.7.8",
+      "pali": "‘tvampi nāma, moghapurisa, samaṇo sakyaputtiyo paṭijānissasī’ti."
+    },
+    {
+      "id": "dn24:1.7.9",
+      "pali": "‘Kiṁ pana maṁ, bhante, bhagavā evamāha:"
+    },
+    {
+      "id": "dn24:1.7.10",
+      "pali": "“tvampi nāma, moghapurisa, samaṇo sakyaputtiyo paṭijānissasī”’ti?"
+    },
+    {
+      "id": "dn24:1.7.11",
+      "pali": "‘Nanu te, sunakkhatta, imaṁ acelaṁ korakkhattiyaṁ kukkuravatikaṁ catukkuṇḍikaṁ chamānikiṇṇaṁ bhakkhasaṁ mukheneva khādantaṁ mukheneva bhuñjantaṁ disvāna etadahosi—"
+    },
+    {
+      "id": "dn24:1.7.12",
+      "pali": "sādhurūpo vata bho ayaṁ samaṇo catukkuṇḍiko chamānikiṇṇaṁ bhakkhasaṁ mukheneva khādati, mukheneva bhuñjatī’ti?"
+    },
+    {
+      "id": "dn24:1.7.13",
+      "pali": "‘Evaṁ, bhante."
+    },
+    {
+      "id": "dn24:1.7.14",
+      "pali": "Kiṁ pana, bhante, bhagavā arahattassa maccharāyatī’ti?"
+    },
+    {
+      "id": "dn24:1.7.15",
+      "pali": "‘Na kho ahaṁ, moghapurisa, arahattassa maccharāyāmi."
+    },
+    {
+      "id": "dn24:1.7.16",
+      "pali": "Api ca tuyhevetaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ, taṁ pajaha."
+    },
+    {
+      "id": "dn24:1.7.17",
+      "pali": "Mā te ahosi dīgharattaṁ ahitāya dukkhāya."
+    },
+    {
+      "id": "dn24:1.7.18",
+      "pali": "Yaṁ kho panetaṁ, sunakkhatta, maññasi acelaṁ korakkhattiyaṁ—sādhurūpo ayaṁ samaṇoti. So sattamaṁ divasaṁ alasakena kālaṁ karissati."
+    },
+    {
+      "id": "dn24:1.7.19",
+      "pali": "Kālaṅkato ca kālakañcikā nāma asurā sabbanihīno asurakāyo, tatra upapajjissati."
+    },
+    {
+      "id": "dn24:1.7.20",
+      "pali": "Kālaṅkatañca naṁ bīraṇatthambake susāne chaḍḍessanti."
+    },
+    {
+      "id": "dn24:1.7.21",
+      "pali": "Ākaṅkhamāno ca tvaṁ, sunakkhatta, acelaṁ korakkhattiyaṁ upasaṅkamitvā puccheyyāsi—"
+    },
+    {
+      "id": "dn24:1.7.22",
+      "pali": "jānāsi, āvuso korakkhattiya, attano gatinti?"
+    },
+    {
+      "id": "dn24:1.7.23",
+      "pali": "Ṭhānaṁ kho panetaṁ, sunakkhatta, vijjati yaṁ te acelo korakkhattiyo byākarissati—"
+    },
+    {
+      "id": "dn24:1.7.24",
+      "pali": "jānāmi, āvuso sunakkhatta, attano gatiṁ;"
+    },
+    {
+      "id": "dn24:1.7.25",
+      "pali": "kālakañcikā nāma asurā sabbanihīno asurakāyo, tatrāmhi upapanno’ti."
+    },
+    {
+      "id": "dn24:1.8.1",
+      "pali": "Atha kho, bhaggava, sunakkhatto licchaviputto yena acelo korakkhattiyo tenupasaṅkami; upasaṅkamitvā acelaṁ korakkhattiyaṁ etadavoca:"
+    },
+    {
+      "id": "dn24:1.8.2",
+      "pali": "‘byākato khosi, āvuso korakkhattiya, samaṇena gotamena—"
+    },
+    {
+      "id": "dn24:1.8.3",
+      "pali": "acelo korakkhattiyo sattamaṁ divasaṁ alasakena kālaṁ karissati."
+    },
+    {
+      "id": "dn24:1.8.4",
+      "pali": "Kālaṅkato ca kālakañcikā nāma asurā sabbanihīno asurakāyo, tatra upapajjissati."
+    },
+    {
+      "id": "dn24:1.8.5",
+      "pali": "Kālaṅkatañca naṁ bīraṇatthambake susāne chaḍḍessantīti."
+    },
+    {
+      "id": "dn24:1.8.6",
+      "pali": "Yena tvaṁ, āvuso korakkhattiya, mattaṁ mattañca bhattaṁ bhuñjeyyāsi, mattaṁ mattañca pānīyaṁ piveyyāsi."
+    },
+    {
+      "id": "dn24:1.8.7",
+      "pali": "Yathā samaṇassa gotamassa micchā assa vacanan’ti."
+    },
+    {
+      "id": "dn24:1.8.8",
+      "pali": "Atha kho, bhaggava, sunakkhatto licchaviputto ekadvīhikāya sattarattindivāni gaṇesi, yathā taṁ tathāgatassa asaddahamāno."
+    },
+    {
+      "id": "dn24:1.8.9",
+      "pali": "Atha kho, bhaggava, acelo korakkhattiyo sattamaṁ divasaṁ alasakena kālamakāsi."
+    },
+    {
+      "id": "dn24:1.8.10",
+      "pali": "kālaṅkato ca kālakañcikā nāma asurā sabbanihīno asurakāyo, tatra upapajji."
+    },
+    {
+      "id": "dn24:1.8.11",
+      "pali": "kālaṅkatañca naṁ bīraṇatthambake susāne chaḍḍesuṁ."
+    },
+    {
+      "id": "dn24:1.9.1",
+      "pali": "Assosi kho, bhaggava, sunakkhatto licchaviputto:"
+    },
+    {
+      "id": "dn24:1.9.2",
+      "pali": "‘acelo kira korakkhattiyo alasakena kālaṅkato bīraṇatthambake susāne chaḍḍito’ti."
+    },
+    {
+      "id": "dn24:1.9.3",
+      "pali": "Atha kho, bhaggava, sunakkhatto licchaviputto yena bīraṇatthambakaṁ susānaṁ, yena acelo korakkhattiyo tenupasaṅkami; upasaṅkamitvā acelaṁ korakkhattiyaṁ tikkhattuṁ pāṇinā ākoṭesi:"
+    },
+    {
+      "id": "dn24:1.9.4",
+      "pali": "‘jānāsi, āvuso korakkhattiya, attano gatin’ti?"
+    },
+    {
+      "id": "dn24:1.9.5",
+      "pali": "Atha kho, bhaggava, acelo korakkhattiyo pāṇinā piṭṭhiṁ paripuñchanto vuṭṭhāsi."
+    },
+    {
+      "id": "dn24:1.9.6",
+      "pali": "‘Jānāmi, āvuso sunakkhatta, attano gatiṁ."
+    },
+    {
+      "id": "dn24:1.9.7",
+      "pali": "Kālakañcikā nāma asurā sabbanihīno asurakāyo, tatrāmhi upapanno’ti vatvā tattheva uttāno papati."
+    },
+    {
+      "id": "dn24:1.10.1",
+      "pali": "Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho ahaṁ, bhaggava, sunakkhattaṁ licchaviputtaṁ etadavocaṁ:"
+    },
+    {
+      "id": "dn24:1.10.2",
+      "pali": "‘Taṁ kiṁ maññasi, sunakkhatta,"
+    },
+    {
+      "id": "dn24:1.10.3",
+      "pali": "yatheva te ahaṁ acelaṁ korakkhattiyaṁ ārabbha byākāsiṁ, tatheva taṁ vipākaṁ, aññathā vā’ti?"
+    },
+    {
+      "id": "dn24:1.10.4",
+      "pali": "‘Yatheva me, bhante, bhagavā acelaṁ korakkhattiyaṁ ārabbha byākāsi, tatheva taṁ vipākaṁ, no aññathā’ti."
+    },
+    {
+      "id": "dn24:1.10.5",
+      "pali": "‘Taṁ kiṁ maññasi, sunakkhatta,"
+    },
+    {
+      "id": "dn24:1.10.6",
+      "pali": "yadi evaṁ sante kataṁ vā hoti uttari manussadhammā iddhipāṭihāriyaṁ, akataṁ vā’ti?"
+    },
+    {
+      "id": "dn24:1.10.7",
+      "pali": "‘Addhā kho, bhante, evaṁ sante kataṁ hoti uttari manussadhammā iddhipāṭihāriyaṁ, no akatan’ti."
+    },
+    {
+      "id": "dn24:1.10.8",
+      "pali": "‘Evampi kho maṁ tvaṁ, moghapurisa, uttari manussadhammā iddhipāṭihāriyaṁ karontaṁ evaṁ vadesi—"
+    },
+    {
+      "id": "dn24:1.10.9",
+      "pali": "na hi pana me, bhante, bhagavā uttari manussadhammā iddhipāṭihāriyaṁ karotīti."
+    },
+    {
+      "id": "dn24:1.10.10",
+      "pali": "Passa, moghapurisa, yāvañca te idaṁ aparaddhan’ti."
+    },
+    {
+      "id": "dn24:1.10.11",
+      "pali": "Evampi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva imasmā dhammavinayā, yathā taṁ āpāyiko nerayiko."
+    },
+    {
+      "id": "dn24:1.11.0",
+      "pali": "3. Acelakaḷāramaṭṭakavatthu"
+    },
+    {
+      "id": "dn24:1.11.1",
+      "pali": "Ekamidāhaṁ, bhaggava, samayaṁ vesāliyaṁ viharāmi mahāvane kūṭāgārasālāyaṁ."
+    },
+    {
+      "id": "dn24:1.11.2",
+      "pali": "Tena kho pana samayena acelo kaḷāramaṭṭako vesāliyaṁ paṭivasati lābhaggappatto ceva yasaggappatto ca vajjigāme."
+    },
+    {
+      "id": "dn24:1.11.3",
+      "pali": "Tassa sattavatapadāni samattāni samādinnāni honti:"
+    },
+    {
+      "id": "dn24:1.11.4",
+      "pali": "‘yāvajīvaṁ acelako assaṁ, na vatthaṁ paridaheyyaṁ, yāvajīvaṁ brahmacārī assaṁ, na methunaṁ dhammaṁ paṭiseveyyaṁ, yāvajīvaṁ surāmaṁseneva yāpeyyaṁ, na odanakummāsaṁ bhuñjeyyaṁ."
+    },
+    {
+      "id": "dn24:1.11.5",
+      "pali": "Puratthimena vesāliṁ udenaṁ nāma cetiyaṁ, taṁ nātikkameyyaṁ, dakkhiṇena vesāliṁ gotamakaṁ nāma cetiyaṁ, taṁ nātikkameyyaṁ, pacchimena vesāliṁ sattambaṁ nāma cetiyaṁ, taṁ nātikkameyyaṁ, uttarena vesāliṁ bahuputtaṁ nāma cetiyaṁ taṁ nātikkameyyan’ti."
+    },
+    {
+      "id": "dn24:1.11.6",
+      "pali": "So imesaṁ sattannaṁ vatapadānaṁ samādānahetu lābhaggappatto ceva yasaggappatto ca vajjigāme."
+    },
+    {
+      "id": "dn24:1.12.1",
+      "pali": "Atha kho, bhaggava, sunakkhatto licchaviputto yena acelo kaḷāramaṭṭako tenupasaṅkami; upasaṅkamitvā acelaṁ kaḷāramaṭṭakaṁ pañhaṁ apucchi."
+    },
+    {
+      "id": "dn24:1.12.2",
+      "pali": "Tassa acelo kaḷāramaṭṭako pañhaṁ puṭṭho na sampāyāsi."
+    },
+    {
+      "id": "dn24:1.12.3",
+      "pali": "Asampāyanto kopañca dosañca appaccayañca pātvākāsi."
+    },
+    {
+      "id": "dn24:1.12.4",
+      "pali": "Atha kho, bhaggava, sunakkhattassa licchaviputtassa etadahosi:"
+    },
+    {
+      "id": "dn24:1.12.5",
+      "pali": "‘sādhurūpaṁ vata bho arahantaṁ samaṇaṁ āsādimhase."
+    },
+    {
+      "id": "dn24:1.12.6",
+      "pali": "Mā vata no ahosi dīgharattaṁ ahitāya dukkhāyā’ti."
+    },
+    {
+      "id": "dn24:1.13.1",
+      "pali": "Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho ahaṁ, bhaggava, sunakkhattaṁ licchaviputtaṁ etadavocaṁ:"
+    },
+    {
+      "id": "dn24:1.13.2",
+      "pali": "‘tvampi nāma, moghapurisa, samaṇo sakyaputtiyo paṭijānissasī’ti."
+    },
+    {
+      "id": "dn24:1.13.3",
+      "pali": "‘Kiṁ pana maṁ, bhante, bhagavā evamāha—"
+    },
+    {
+      "id": "dn24:1.13.4",
+      "pali": "tvampi nāma, moghapurisa, samaṇo sakyaputtiyo paṭijānissasī’ti?"
+    },
+    {
+      "id": "dn24:1.13.5",
+      "pali": "‘Nanu tvaṁ, sunakkhatta, acelaṁ kaḷāramaṭṭakaṁ upasaṅkamitvā pañhaṁ apucchi."
+    },
+    {
+      "id": "dn24:1.13.6",
+      "pali": "Tassa te acelo kaḷāramaṭṭako pañhaṁ puṭṭho na sampāyāsi."
+    },
+    {
+      "id": "dn24:1.13.7",
+      "pali": "Asampāyanto kopañca dosañca appaccayañca pātvākāsi."
+    },
+    {
+      "id": "dn24:1.13.8",
+      "pali": "Tassa te etadahosi:"
+    },
+    {
+      "id": "dn24:1.13.9",
+      "pali": "“sādhurūpaṁ vata bho arahantaṁ samaṇaṁ āsādimhase."
+    },
+    {
+      "id": "dn24:1.13.10",
+      "pali": "Mā vata no ahosi dīgharattaṁ ahitāya dukkhāyā”’ti."
+    },
+    {
+      "id": "dn24:1.13.11",
+      "pali": "‘Evaṁ, bhante."
+    },
+    {
+      "id": "dn24:1.13.12",
+      "pali": "Kiṁ pana, bhante, bhagavā arahattassa maccharāyatī’ti?"
+    },
+    {
+      "id": "dn24:1.13.13",
+      "pali": "‘Na kho ahaṁ, moghapurisa, arahattassa maccharāyāmi,"
+    },
+    {
+      "id": "dn24:1.13.14",
+      "pali": "api ca tuyhevetaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ, taṁ pajaha."
+    },
+    {
+      "id": "dn24:1.13.15",
+      "pali": "Mā te ahosi dīgharattaṁ ahitāya dukkhāya."
+    },
+    {
+      "id": "dn24:1.13.16",
+      "pali": "Yaṁ kho panetaṁ, sunakkhatta, maññasi acelaṁ kaḷāramaṭṭakaṁ—"
+    },
+    {
+      "id": "dn24:1.13.17",
+      "pali": "sādhurūpo ayaṁ samaṇoti, so nacirasseva parihito sānucāriko vicaranto odanakummāsaṁ bhuñjamāno sabbāneva vesāliyāni cetiyāni samatikkamitvā yasā nihīno kālaṁ karissatī’ti."
+    },
+    {
+      "id": "dn24:1.13.18",
+      "pali": "Atha kho, bhaggava, acelo kaḷāramaṭṭako nacirasseva parihito sānucāriko vicaranto odanakummāsaṁ bhuñjamāno sabbāneva vesāliyāni cetiyāni samatikkamitvā yasā nihīno kālamakāsi."
+    },
+    {
+      "id": "dn24:1.14.1",
+      "pali": "Assosi kho, bhaggava, sunakkhatto licchaviputto:"
+    },
+    {
+      "id": "dn24:1.14.2",
+      "pali": "‘acelo kira kaḷāramaṭṭako parihito sānucāriko vicaranto odanakummāsaṁ bhuñjamāno sabbāneva vesāliyāni cetiyāni samatikkamitvā yasā nihīno kālaṅkato’ti."
+    },
+    {
+      "id": "dn24:1.14.3",
+      "pali": "Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho ahaṁ, bhaggava, sunakkhattaṁ licchaviputtaṁ etadavocaṁ:"
+    },
+    {
+      "id": "dn24:1.14.4",
+      "pali": "‘Taṁ kiṁ maññasi, sunakkhatta,"
+    },
+    {
+      "id": "dn24:1.14.5",
+      "pali": "yatheva te ahaṁ acelaṁ kaḷāramaṭṭakaṁ ārabbha byākāsiṁ, tatheva taṁ vipākaṁ, aññathā vā’ti?"
+    },
+    {
+      "id": "dn24:1.14.6",
+      "pali": "‘Yatheva me, bhante, bhagavā acelaṁ kaḷāramaṭṭakaṁ ārabbha byākāsi, tatheva taṁ vipākaṁ, no aññathā’ti."
+    },
+    {
+      "id": "dn24:1.14.7",
+      "pali": "‘Taṁ kiṁ maññasi, sunakkhatta,"
+    },
+    {
+      "id": "dn24:1.14.8",
+      "pali": "yadi evaṁ sante kataṁ vā hoti uttari manussadhammā iddhipāṭihāriyaṁ akataṁ vā’ti?"
+    },
+    {
+      "id": "dn24:1.14.9",
+      "pali": "‘Addhā kho, bhante, evaṁ sante kataṁ hoti uttari manussadhammā iddhipāṭihāriyaṁ, no akatan’ti."
+    },
+    {
+      "id": "dn24:1.14.10",
+      "pali": "‘Evampi kho maṁ tvaṁ, moghapurisa, uttari manussadhammā iddhipāṭihāriyaṁ karontaṁ evaṁ vadesi:"
+    },
+    {
+      "id": "dn24:1.14.11",
+      "pali": "“na hi pana me, bhante, bhagavā uttari manussadhammā iddhipāṭihāriyaṁ karotī”ti."
+    },
+    {
+      "id": "dn24:1.14.12",
+      "pali": "Passa, moghapurisa, yāvañca te idaṁ aparaddhan’ti."
+    },
+    {
+      "id": "dn24:1.14.13",
+      "pali": "Evampi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva imasmā dhammavinayā, yathā taṁ āpāyiko nerayiko."
+    },
+    {
+      "id": "dn24:1.15.0",
+      "pali": "4. Acelapāthikaputtavatthu"
+    },
+    {
+      "id": "dn24:1.15.1",
+      "pali": "Ekamidāhaṁ, bhaggava, samayaṁ tattheva vesāliyaṁ viharāmi mahāvane kūṭāgārasālāyaṁ."
+    },
+    {
+      "id": "dn24:1.15.2",
+      "pali": "Tena kho pana samayena acelo pāthikaputto vesāliyaṁ paṭivasati lābhaggappatto ceva yasaggappatto ca vajjigāme."
+    },
+    {
+      "id": "dn24:1.15.3",
+      "pali": "So vesāliyaṁ parisati evaṁ vācaṁ bhāsati:"
+    },
+    {
+      "id": "dn24:1.15.4",
+      "pali": "‘samaṇopi gotamo ñāṇavādo, ahampi ñāṇavādo."
+    },
+    {
+      "id": "dn24:1.15.5",
+      "pali": "Ñāṇavādo kho pana ñāṇavādena arahati uttari manussadhammā iddhipāṭihāriyaṁ dassetuṁ."
+    },
+    {
+      "id": "dn24:1.15.6",
+      "pali": "Samaṇo gotamo upaḍḍhapathaṁ āgaccheyya, ahampi upaḍḍhapathaṁ gaccheyyaṁ."
+    },
+    {
+      "id": "dn24:1.15.7",
+      "pali": "Te tattha ubhopi uttari manussadhammā iddhipāṭihāriyaṁ kareyyāma."
+    },
+    {
+      "id": "dn24:1.15.8",
+      "pali": "Ekañce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṁ karissati, dvāhaṁ karissāmi."
+    },
+    {
+      "id": "dn24:1.15.9",
+      "pali": "Dve ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, cattārāhaṁ karissāmi."
+    },
+    {
+      "id": "dn24:1.15.10",
+      "pali": "Cattāri ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, aṭṭhāhaṁ karissāmi."
+    },
+    {
+      "id": "dn24:1.15.11",
+      "pali": "Iti yāvatakaṁ yāvatakaṁ samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṁ karissati, taddiguṇaṁ taddiguṇāhaṁ karissāmī’ti."
+    },
+    {
+      "id": "dn24:1.16.1",
+      "pali": "Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho, bhaggava, sunakkhatto licchaviputto maṁ etadavoca:"
+    },
+    {
+      "id": "dn24:1.16.2",
+      "pali": "‘acelo, bhante, pāthikaputto vesāliyaṁ paṭivasati lābhaggappatto ceva yasaggappatto ca vajjigāme."
+    },
+    {
+      "id": "dn24:1.16.3",
+      "pali": "So vesāliyaṁ parisati evaṁ vācaṁ bhāsati:"
+    },
+    {
+      "id": "dn24:1.16.4",
+      "pali": "“samaṇopi gotamo ñāṇavādo, ahampi ñāṇavādo."
+    },
+    {
+      "id": "dn24:1.16.5",
+      "pali": "Ñāṇavādo kho pana ñāṇavādena arahati uttari manussadhammā iddhipāṭihāriyaṁ dassetuṁ."
+    },
+    {
+      "id": "dn24:1.16.6",
+      "pali": "Samaṇo gotamo upaḍḍhapathaṁ āgaccheyya, ahampi upaḍḍhapathaṁ gaccheyyaṁ."
+    },
+    {
+      "id": "dn24:1.16.7",
+      "pali": "Te tattha ubhopi uttari manussadhammā iddhipāṭihāriyaṁ kareyyāma."
+    },
+    {
+      "id": "dn24:1.16.8",
+      "pali": "Ekañce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṁ karissati, dvāhaṁ karissāmi."
+    },
+    {
+      "id": "dn24:1.16.9",
+      "pali": "Dve ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, cattārāhaṁ karissāmi."
+    },
+    {
+      "id": "dn24:1.16.10",
+      "pali": "Cattāri ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, aṭṭhāhaṁ karissāmi."
+    },
+    {
+      "id": "dn24:1.16.11",
+      "pali": "Iti yāvatakaṁ yāvatakaṁ samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṁ karissati, taddiguṇaṁ taddiguṇāhaṁ karissāmī”’ti."
+    },
+    {
+      "id": "dn24:1.16.12",
+      "pali": "Evaṁ vutte, ahaṁ, bhaggava, sunakkhattaṁ licchaviputtaṁ etadavocaṁ:"
+    },
+    {
+      "id": "dn24:1.16.13",
+      "pali": "‘abhabbo kho, sunakkhatta, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:1.16.14",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:1.16.15",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyā’ti."
+    },
+    {
+      "id": "dn24:1.17.1",
+      "pali": "‘Rakkhatetaṁ, bhante, bhagavā vācaṁ, rakkhatetaṁ sugato vācan’ti."
+    },
+    {
+      "id": "dn24:1.17.2",
+      "pali": "‘Kiṁ pana maṁ tvaṁ, sunakkhatta, evaṁ vadesi—"
+    },
+    {
+      "id": "dn24:1.17.3",
+      "pali": "rakkhatetaṁ, bhante, bhagavā vācaṁ, rakkhatetaṁ sugato vācan’ti?"
+    },
+    {
+      "id": "dn24:1.17.4",
+      "pali": "‘Bhagavatā cassa, bhante, esā vācā ekaṁsena odhāritā—"
+    },
+    {
+      "id": "dn24:1.17.5",
+      "pali": "abhabbo acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:1.17.6",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:1.17.7",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti."
+    },
+    {
+      "id": "dn24:1.17.8",
+      "pali": "Acelo ca, bhante, pāthikaputto virūparūpena bhagavato sammukhībhāvaṁ āgaccheyya, tadassa bhagavato musā’ti."
+    },
+    {
+      "id": "dn24:1.18.1",
+      "pali": "‘Api nu, sunakkhatta, tathāgato taṁ vācaṁ bhāseyya yā sā vācā dvayagāminī’ti?"
+    },
+    {
+      "id": "dn24:1.18.2",
+      "pali": "‘Kiṁ pana, bhante, bhagavatā acelo pāthikaputto cetasā ceto paricca vidito—"
+    },
+    {
+      "id": "dn24:1.18.3",
+      "pali": "abhabbo acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:1.18.4",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:1.18.5",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti?"
+    },
+    {
+      "id": "dn24:1.18.6",
+      "pali": "Udāhu, devatā bhagavato etamatthaṁ ārocesuṁ—"
+    },
+    {
+      "id": "dn24:1.18.7",
+      "pali": "abhabbo, bhante, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā bhagavato sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:1.18.8",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:1.18.9",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyā’ti?"
+    },
+    {
+      "id": "dn24:1.18.10",
+      "pali": "‘Cetasā ceto paricca vidito ceva me, sunakkhatta, acelo pāthikaputto—"
+    },
+    {
+      "id": "dn24:1.18.11",
+      "pali": "abhabbo acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:1.18.12",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:1.18.13",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti."
+    },
+    {
+      "id": "dn24:1.18.14",
+      "pali": "Devatāpi me etamatthaṁ ārocesuṁ—"
+    },
+    {
+      "id": "dn24:1.18.15",
+      "pali": "abhabbo, bhante, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā bhagavato sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:1.18.16",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:1.18.17",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti."
+    },
+    {
+      "id": "dn24:1.18.18",
+      "pali": "Ajitopi nāma licchavīnaṁ senāpati adhunā kālaṅkato tāvatiṁsakāyaṁ upapanno."
+    },
+    {
+      "id": "dn24:1.18.19",
+      "pali": "Sopi maṁ upasaṅkamitvā evamārocesi—"
+    },
+    {
+      "id": "dn24:1.18.20",
+      "pali": "alajjī, bhante, acelo pāthikaputto;"
+    },
+    {
+      "id": "dn24:1.18.21",
+      "pali": "musāvādī, bhante, acelo pāthikaputto."
+    },
+    {
+      "id": "dn24:1.18.22",
+      "pali": "Mampi, bhante, acelo pāthikaputto byākāsi vajjigāme—"
+    },
+    {
+      "id": "dn24:1.18.23",
+      "pali": "ajito licchavīnaṁ senāpati mahānirayaṁ upapannoti."
+    },
+    {
+      "id": "dn24:1.18.24",
+      "pali": "Na kho panāhaṁ, bhante, mahānirayaṁ upapanno;"
+    },
+    {
+      "id": "dn24:1.18.25",
+      "pali": "tāvatiṁsakāyamhi upapanno."
+    },
+    {
+      "id": "dn24:1.18.26",
+      "pali": "Alajjī, bhante, acelo pāthikaputto;"
+    },
+    {
+      "id": "dn24:1.18.27",
+      "pali": "musāvādī, bhante, acelo pāthikaputto;"
+    },
+    {
+      "id": "dn24:1.18.28",
+      "pali": "abhabbo ca, bhante, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā bhagavato sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:1.18.29",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:1.18.30",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti."
+    },
+    {
+      "id": "dn24:1.18.31",
+      "pali": "Iti kho, sunakkhatta, cetasā ceto paricca vidito ceva me acelo pāthikaputto abhabbo acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:1.18.32",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:1.18.33",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti."
+    },
+    {
+      "id": "dn24:1.18.34",
+      "pali": "Devatāpi me etamatthaṁ ārocesuṁ—"
+    },
+    {
+      "id": "dn24:1.18.35",
+      "pali": "abhabbo, bhante, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā bhagavato sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:1.18.36",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:1.18.37",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti."
+    },
+    {
+      "id": "dn24:1.18.38",
+      "pali": "So kho panāhaṁ, sunakkhatta, vesāliyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkamissāmi divāvihārāya."
+    },
+    {
+      "id": "dn24:1.18.39",
+      "pali": "Yassadāni tvaṁ, sunakkhatta, icchasi, tassa ārocehī’ti."
+    },
+    {
+      "id": "dn24:1.19.0",
+      "pali": "5. Iddhipāṭihāriyakathā"
+    },
+    {
+      "id": "dn24:1.19.1",
+      "pali": "Atha khvāhaṁ, bhaggava, pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya vesāliṁ piṇḍāya pāvisiṁ."
+    },
+    {
+      "id": "dn24:1.19.2",
+      "pali": "Vesāliyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkamiṁ divāvihārāya."
+    },
+    {
+      "id": "dn24:1.19.3",
+      "pali": "Atha kho, bhaggava, sunakkhatto licchaviputto taramānarūpo vesāliṁ pavisitvā yena abhiññātā abhiññātā licchavī tenupasaṅkami; upasaṅkamitvā abhiññāte abhiññāte licchavī etadavoca:"
+    },
+    {
+      "id": "dn24:1.19.4",
+      "pali": "‘esāvuso, bhagavā vesāliyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkami divāvihārāya."
+    },
+    {
+      "id": "dn24:1.19.5",
+      "pali": "Abhikkamathāyasmanto abhikkamathāyasmanto, sādhurūpānaṁ samaṇānaṁ uttari manussadhammā iddhipāṭihāriyaṁ bhavissatī’ti."
+    },
+    {
+      "id": "dn24:1.19.6",
+      "pali": "Atha kho, bhaggava, abhiññātānaṁ abhiññātānaṁ licchavīnaṁ etadahosi:"
+    },
+    {
+      "id": "dn24:1.19.7",
+      "pali": "‘sādhurūpānaṁ kira, bho, samaṇānaṁ uttari manussadhammā iddhipāṭihāriyaṁ bhavissati;"
+    },
+    {
+      "id": "dn24:1.19.8",
+      "pali": "handa vata, bho, gacchāmā’ti."
+    },
+    {
+      "id": "dn24:1.19.9",
+      "pali": "Yena ca abhiññātā abhiññātā brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā tenupasaṅkami. upasaṅkamitvā abhiññāte abhiññāte nānātitthiye samaṇabrāhmaṇe etadavoca:"
+    },
+    {
+      "id": "dn24:1.19.10",
+      "pali": "‘esāvuso, bhagavā vesāliyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkami divāvihārāya."
+    },
+    {
+      "id": "dn24:1.19.11",
+      "pali": "Abhikkamathāyasmanto abhikkamathāyasmanto, sādhurūpānaṁ samaṇānaṁ uttari manussadhammā iddhipāṭihāriyaṁ bhavissatī’ti."
+    },
+    {
+      "id": "dn24:1.19.12",
+      "pali": "Atha kho, bhaggava, abhiññātānaṁ abhiññātānaṁ nānātitthiyānaṁ samaṇabrāhmaṇānaṁ etadahosi:"
+    },
+    {
+      "id": "dn24:1.19.13",
+      "pali": "‘sādhurūpānaṁ kira, bho, samaṇānaṁ uttari manussadhammā iddhipāṭihāriyaṁ bhavissati;"
+    },
+    {
+      "id": "dn24:1.19.14",
+      "pali": "handa vata, bho, gacchāmā’ti."
+    },
+    {
+      "id": "dn24:1.19.15",
+      "pali": "Atha kho, bhaggava, abhiññātā abhiññātā licchavī, abhiññātā abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā yena acelassa pāthikaputtassa ārāmo tenupasaṅkamiṁsu."
+    },
+    {
+      "id": "dn24:1.19.16",
+      "pali": "Sā esā, bhaggava, parisā mahā hoti anekasatā anekasahassā."
+    },
+    {
+      "id": "dn24:1.20.1",
+      "pali": "Assosi kho, bhaggava, acelo pāthikaputto:"
+    },
+    {
+      "id": "dn24:1.20.2",
+      "pali": "‘abhikkantā kira abhiññātā abhiññātā licchavī, abhikkantā abhiññātā abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā."
+    },
+    {
+      "id": "dn24:1.20.3",
+      "pali": "Samaṇopi gotamo mayhaṁ ārāme divāvihāraṁ nisinno’ti."
+    },
+    {
+      "id": "dn24:1.20.4",
+      "pali": "Sutvānassa bhayaṁ chambhitattaṁ lomahaṁso udapādi."
+    },
+    {
+      "id": "dn24:1.20.5",
+      "pali": "Atha kho, bhaggava, acelo pāthikaputto bhīto saṁviggo lomahaṭṭhajāto yena tindukakhāṇuparibbājakārāmo tenupasaṅkami."
+    },
+    {
+      "id": "dn24:1.20.6",
+      "pali": "Assosi kho, bhaggava, sā parisā:"
+    },
+    {
+      "id": "dn24:1.20.7",
+      "pali": "‘acelo kira pāthikaputto bhīto saṁviggo lomahaṭṭhajāto yena tindukakhāṇuparibbājakārāmo tenupasaṅkanto’ti."
+    },
+    {
+      "id": "dn24:1.20.8",
+      "pali": "Atha kho, bhaggava, sā parisā aññataraṁ purisaṁ āmantesi:"
+    },
+    {
+      "id": "dn24:1.20.9",
+      "pali": "‘Ehi tvaṁ, bho purisa, yena tindukakhāṇuparibbājakārāmo, yena acelo pāthikaputto tenupasaṅkama. upasaṅkamitvā acelaṁ pāthikaputtaṁ evaṁ vadehi:"
+    },
+    {
+      "id": "dn24:1.20.10",
+      "pali": "“abhikkamāvuso, pāthikaputta, abhikkantā abhiññātā abhiññātā licchavī, abhikkantā abhiññātā abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā, samaṇopi gotamo āyasmato ārāme divāvihāraṁ nisinno;"
+    },
+    {
+      "id": "dn24:1.20.11",
+      "pali": "bhāsitā kho pana te esā, āvuso pāthikaputta, vesāliyaṁ parisati vācā"
+    },
+    {
+      "id": "dn24:1.20.12",
+      "pali": "samaṇopi gotamo ñāṇavādo, ahampi ñāṇavādo."
+    },
+    {
+      "id": "dn24:1.20.13",
+      "pali": "Ñāṇavādo kho pana ñāṇavādena arahati uttari manussadhammā iddhipāṭihāriyaṁ dassetuṁ."
+    },
+    {
+      "id": "dn24:1.20.14",
+      "pali": "Samaṇo gotamo upaḍḍhapathaṁ āgaccheyya ahampi upaḍḍhapathaṁ gaccheyyaṁ."
+    },
+    {
+      "id": "dn24:1.20.15",
+      "pali": "Te tattha ubhopi uttari manussadhammā iddhipāṭihāriyaṁ kareyyāma."
+    },
+    {
+      "id": "dn24:1.20.16",
+      "pali": "Ekañce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṁ karissati, dvāhaṁ karissāmi."
+    },
+    {
+      "id": "dn24:1.20.17",
+      "pali": "Dve ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, cattārāhaṁ karissāmi."
+    },
+    {
+      "id": "dn24:1.20.18",
+      "pali": "Cattāri ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, aṭṭhāhaṁ karissāmi."
+    },
+    {
+      "id": "dn24:1.20.19",
+      "pali": "Iti yāvatakaṁ yāvatakaṁ samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṁ karissati, taddiguṇaṁ taddiguṇāhaṁ karissāmī”ti"
+    },
+    {
+      "id": "dn24:1.20.20",
+      "pali": "abhikkamasseva kho āvuso pāthikaputta, upaḍḍhapathaṁ."
+    },
+    {
+      "id": "dn24:1.20.21",
+      "pali": "Sabbapaṭhamaṁyeva āgantvā samaṇo gotamo āyasmato ārāme divāvihāraṁ nisinno’ti."
+    },
+    {
+      "id": "dn24:1.21.1",
+      "pali": "Evaṁ, bhoti kho, bhaggava, so puriso tassā parisāya paṭissutvā yena tindukakhāṇuparibbājakārāmo, yena acelo pāthikaputto tenupasaṅkami. upasaṅkamitvā acelaṁ pāthikaputtaṁ etadavoca:"
+    },
+    {
+      "id": "dn24:1.21.2",
+      "pali": "‘abhikkamāvuso pāthikaputta, abhikkantā abhiññātā abhiññātā licchavī, abhikkantā abhiññātā abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā."
+    },
+    {
+      "id": "dn24:1.21.3",
+      "pali": "Samaṇopi gotamo āyasmato ārāme divāvihāraṁ nisinno."
+    },
+    {
+      "id": "dn24:1.21.4",
+      "pali": "Bhāsitā kho pana te esā, āvuso pāthikaputta, vesāliyaṁ parisati vācā—"
+    },
+    {
+      "id": "dn24:1.21.5",
+      "pali": "samaṇopi gotamo ñāṇavādo; ahampi ñāṇavādo."
+    },
+    {
+      "id": "dn24:1.21.6",
+      "pali": "Ñāṇavādo kho pana ñāṇavādena arahati uttari manussadhammā iddhipāṭihāriyaṁ dassetuṁ …pe…"
+    },
+    {
+      "id": "dn24:1.21.7",
+      "pali": "taddiguṇaṁ taddiguṇāhaṁ karissāmīti."
+    },
+    {
+      "id": "dn24:1.21.8",
+      "pali": "Abhikkamasseva kho, āvuso pāthikaputta, upaḍḍhapathaṁ."
+    },
+    {
+      "id": "dn24:1.21.9",
+      "pali": "Sabbapaṭhamaṁyeva āgantvā samaṇo gotamo āyasmato ārāme divāvihāraṁ nisinno’ti."
+    },
+    {
+      "id": "dn24:1.21.10",
+      "pali": "Evaṁ vutte, bhaggava, acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātuṁ."
+    },
+    {
+      "id": "dn24:1.21.11",
+      "pali": "Atha kho so, bhaggava, puriso acelaṁ pāthikaputtaṁ etadavoca:"
+    },
+    {
+      "id": "dn24:1.21.12",
+      "pali": "‘kiṁ su nāma te, āvuso pāthikaputta, pāvaḷā su nāma te pīṭhakasmiṁ allīnā, pīṭhakaṁ su nāma te pāvaḷāsu allīnaṁ?"
+    },
+    {
+      "id": "dn24:1.21.13",
+      "pali": "Āyāmi āvuso, āyāmi āvusoti vatvā tattheva saṁsappasi, na sakkosi āsanāpi vuṭṭhātun’ti."
+    },
+    {
+      "id": "dn24:1.21.14",
+      "pali": "Evampi kho, bhaggava, vuccamāno acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātuṁ."
+    },
+    {
+      "id": "dn24:1.22.1",
+      "pali": "Yadā kho so, bhaggava, puriso aññāsi:"
+    },
+    {
+      "id": "dn24:1.22.2",
+      "pali": "‘parābhūtarūpo ayaṁ acelo pāthikaputto."
+    },
+    {
+      "id": "dn24:1.22.3",
+      "pali": "Āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātun’ti."
+    },
+    {
+      "id": "dn24:1.22.4",
+      "pali": "Atha taṁ parisaṁ āgantvā evamārocesi:"
+    },
+    {
+      "id": "dn24:1.22.5",
+      "pali": "‘parābhūtarūpo, bho, acelo pāthikaputto."
+    },
+    {
+      "id": "dn24:1.22.6",
+      "pali": "Āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātun’ti."
+    },
+    {
+      "id": "dn24:1.22.7",
+      "pali": "Evaṁ vutte, ahaṁ, bhaggava, taṁ parisaṁ etadavocaṁ:"
+    },
+    {
+      "id": "dn24:1.22.8",
+      "pali": "‘abhabbo kho, āvuso, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:1.22.9",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:1.22.10",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyā’ti."
+    },
+    {
+      "id": "dn24:1.22.11",
+      "pali": "Paṭhamabhāṇavāro niṭṭhito."
+    },
+    {
+      "id": "dn24:2.1.1",
+      "pali": "Atha kho, bhaggava, aññataro licchavimahāmatto uṭṭhāyāsanā taṁ parisaṁ etadavoca:"
+    },
+    {
+      "id": "dn24:2.1.2",
+      "pali": "‘tena hi, bho, muhuttaṁ tāva āgametha, yāvāhaṁ gacchāmi."
+    },
+    {
+      "id": "dn24:2.1.3",
+      "pali": "Appeva nāma ahampi sakkuṇeyyaṁ acelaṁ pāthikaputtaṁ imaṁ parisaṁ ānetun’ti."
+    },
+    {
+      "id": "dn24:2.1.4",
+      "pali": "Atha kho so, bhaggava, licchavimahāmatto yena tindukakhāṇuparibbājakārāmo, yena acelo pāthikaputto tenupasaṅkami. upasaṅkamitvā acelaṁ pāthikaputtaṁ etadavoca:"
+    },
+    {
+      "id": "dn24:2.1.5",
+      "pali": "‘abhikkamāvuso pāthikaputta, abhikkantaṁ te seyyo, abhikkantā abhiññātā abhiññātā licchavī, abhikkantā abhiññātā abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā. Samaṇopi gotamo āyasmato ārāme divāvihāraṁ nisinno."
+    },
+    {
+      "id": "dn24:2.1.6",
+      "pali": "Bhāsitā kho pana te esā, āvuso pāthikaputta, vesāliyaṁ parisati vācā—"
+    },
+    {
+      "id": "dn24:2.1.7",
+      "pali": "samaṇopi gotamo ñāṇavādo …pe…"
+    },
+    {
+      "id": "dn24:2.1.8",
+      "pali": "taddiguṇaṁ taddiguṇāhaṁ karissāmīti."
+    },
+    {
+      "id": "dn24:2.1.9",
+      "pali": "Abhikkamasseva kho, āvuso pāthikaputta, upaḍḍhapathaṁ."
+    },
+    {
+      "id": "dn24:2.1.10",
+      "pali": "Sabbapaṭhamaṁyeva āgantvā samaṇo gotamo āyasmato ārāme divāvihāraṁ nisinno."
+    },
+    {
+      "id": "dn24:2.1.11",
+      "pali": "Bhāsitā kho panesā, āvuso pāthikaputta, samaṇena gotamena parisati vācā—"
+    },
+    {
+      "id": "dn24:2.1.12",
+      "pali": "abhabbo kho acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:2.1.13",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:2.1.14",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti."
+    },
+    {
+      "id": "dn24:2.1.15",
+      "pali": "Abhikkamāvuso pāthikaputta, abhikkamaneneva te jayaṁ karissāma, samaṇassa gotamassa parājayan’ti."
+    },
+    {
+      "id": "dn24:2.2.1",
+      "pali": "Evaṁ vutte, bhaggava, acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātuṁ."
+    },
+    {
+      "id": "dn24:2.2.2",
+      "pali": "Atha kho so, bhaggava, licchavimahāmatto acelaṁ pāthikaputtaṁ etadavoca:"
+    },
+    {
+      "id": "dn24:2.2.3",
+      "pali": "‘kiṁ su nāma te, āvuso pāthikaputta, pāvaḷā su nāma te pīṭhakasmiṁ allīnā, pīṭhakaṁ su nāma te pāvaḷāsu allīnaṁ?"
+    },
+    {
+      "id": "dn24:2.2.4",
+      "pali": "Āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṁsappasi, na sakkosi āsanāpi vuṭṭhātun’ti."
+    },
+    {
+      "id": "dn24:2.2.5",
+      "pali": "Evampi kho, bhaggava, vuccamāno acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātuṁ."
+    },
+    {
+      "id": "dn24:2.3.1",
+      "pali": "Yadā kho so, bhaggava, licchavimahāmatto aññāsi:"
+    },
+    {
+      "id": "dn24:2.3.2",
+      "pali": "‘parābhūtarūpo ayaṁ acelo pāthikaputto āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātun’ti."
+    },
+    {
+      "id": "dn24:2.3.3",
+      "pali": "Atha taṁ parisaṁ āgantvā evamārocesi:"
+    },
+    {
+      "id": "dn24:2.3.4",
+      "pali": "‘parābhūtarūpo, bho, acelo pāthikaputto āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātun’ti."
+    },
+    {
+      "id": "dn24:2.3.5",
+      "pali": "Evaṁ vutte, ahaṁ, bhaggava, taṁ parisaṁ etadavocaṁ:"
+    },
+    {
+      "id": "dn24:2.3.6",
+      "pali": "‘abhabbo kho, āvuso, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:2.3.7",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:2.3.8",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyya."
+    },
+    {
+      "id": "dn24:2.3.9",
+      "pali": "Sace pāyasmantānaṁ licchavīnaṁ evamassa—"
+    },
+    {
+      "id": "dn24:2.3.10",
+      "pali": "mayaṁ acelaṁ pāthikaputtaṁ varattāhi bandhitvā goyugehi āviñcheyyāmāti, tā varattā chijjeyyuṁ pāthikaputto vā."
+    },
+    {
+      "id": "dn24:2.3.11",
+      "pali": "Abhabbo pana acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:2.3.12",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:2.3.13",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyā’ti."
+    },
+    {
+      "id": "dn24:2.4.1",
+      "pali": "Atha kho, bhaggava, jāliyo dārupattikantevāsī uṭṭhāyāsanā taṁ parisaṁ etadavoca:"
+    },
+    {
+      "id": "dn24:2.4.2",
+      "pali": "‘tena hi, bho, muhuttaṁ tāva āgametha, yāvāhaṁ gacchāmi;"
+    },
+    {
+      "id": "dn24:2.4.3",
+      "pali": "appeva nāma ahampi sakkuṇeyyaṁ acelaṁ pāthikaputtaṁ imaṁ parisaṁ ānetun’ti."
+    },
+    {
+      "id": "dn24:2.4.4",
+      "pali": "Atha kho, bhaggava, jāliyo dārupattikantevāsī yena tindukakhāṇuparibbājakārāmo, yena acelo pāthikaputto tenupasaṅkami. upasaṅkamitvā acelaṁ pāthikaputtaṁ etadavoca:"
+    },
+    {
+      "id": "dn24:2.4.5",
+      "pali": "‘abhikkamāvuso pāthikaputta, abhikkantaṁ te seyyo. Abhikkantā abhiññātā abhiññātā licchavī, abhikkantā abhiññātā abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā. Samaṇopi gotamo āyasmato ārāme divāvihāraṁ nisinno."
+    },
+    {
+      "id": "dn24:2.4.6",
+      "pali": "Bhāsitā kho pana te esā, āvuso pāthikaputta, vesāliyaṁ parisati vācā—"
+    },
+    {
+      "id": "dn24:2.4.7",
+      "pali": "samaṇopi gotamo ñāṇavādo …pe…"
+    },
+    {
+      "id": "dn24:2.4.8",
+      "pali": "taddiguṇaṁ taddiguṇāhaṁ karissāmīti."
+    },
+    {
+      "id": "dn24:2.4.9",
+      "pali": "Abhikkamasseva, kho āvuso pāthikaputta, upaḍḍhapathaṁ."
+    },
+    {
+      "id": "dn24:2.4.10",
+      "pali": "Sabbapaṭhamaṁyeva āgantvā samaṇo gotamo āyasmato ārāme divāvihāraṁ nisinno."
+    },
+    {
+      "id": "dn24:2.4.11",
+      "pali": "Bhāsitā kho panesā, āvuso pāthikaputta, samaṇena gotamena parisati vācā—"
+    },
+    {
+      "id": "dn24:2.4.12",
+      "pali": "abhabbo acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:2.4.13",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:2.4.14",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyya."
+    },
+    {
+      "id": "dn24:2.4.15",
+      "pali": "Sace pāyasmantānaṁ licchavīnaṁ evamassa—"
+    },
+    {
+      "id": "dn24:2.4.16",
+      "pali": "mayaṁ acelaṁ pāthikaputtaṁ varattāhi bandhitvā goyugehi āviñcheyyāmāti. Tā varattā chijjeyyuṁ pāthikaputto vā."
+    },
+    {
+      "id": "dn24:2.4.17",
+      "pali": "Abhabbo pana acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:2.4.18",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:2.4.19",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ āgaccheyyanti, muddhāpi tassa vipateyyāti."
+    },
+    {
+      "id": "dn24:2.4.20",
+      "pali": "Abhikkamāvuso pāthikaputta, abhikkamaneneva te jayaṁ karissāma, samaṇassa gotamassa parājayan’ti."
+    },
+    {
+      "id": "dn24:2.5.1",
+      "pali": "Evaṁ vutte, bhaggava, acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātuṁ."
+    },
+    {
+      "id": "dn24:2.5.2",
+      "pali": "Atha kho, bhaggava, jāliyo dārupattikantevāsī acelaṁ pāthikaputtaṁ etadavoca:"
+    },
+    {
+      "id": "dn24:2.5.3",
+      "pali": "‘kiṁ su nāma te, āvuso pāthikaputta, pāvaḷā su nāma te pīṭhakasmiṁ allīnā, pīṭhakaṁ su nāma te pāvaḷāsu allīnaṁ?"
+    },
+    {
+      "id": "dn24:2.5.4",
+      "pali": "Āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṁsappasi, na sakkosi āsanāpi vuṭṭhātun’ti."
+    },
+    {
+      "id": "dn24:2.5.5",
+      "pali": "Evampi kho, bhaggava, vuccamāno acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātunti."
+    },
+    {
+      "id": "dn24:2.6.1",
+      "pali": "Yadā kho, bhaggava, jāliyo dārupattikantevāsī aññāsi:"
+    },
+    {
+      "id": "dn24:2.6.2",
+      "pali": "‘parābhūtarūpo ayaṁ acelo pāthikaputto āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātun’ti, atha naṁ etadavoca—"
+    },
+    {
+      "id": "dn24:2.6.3",
+      "pali": "Bhūtapubbaṁ, āvuso pāthikaputta, sīhassa migarañño etadahosi:"
+    },
+    {
+      "id": "dn24:2.6.4",
+      "pali": "‘yannūnāhaṁ aññataraṁ vanasaṇḍaṁ nissāya āsayaṁ kappeyyaṁ."
+    },
+    {
+      "id": "dn24:2.6.5",
+      "pali": "Tatrāsayaṁ kappetvā sāyanhasamayaṁ āsayā nikkhameyyaṁ, āsayā nikkhamitvā vijambheyyaṁ, vijambhitvā samantā catuddisā anuvilokeyyaṁ, samantā catuddisā anuviloketvā tikkhattuṁ sīhanādaṁ nadeyyaṁ, tikkhattuṁ sīhanādaṁ naditvā gocarāya pakkameyyaṁ."
+    },
+    {
+      "id": "dn24:2.6.6",
+      "pali": "So varaṁ varaṁ migasaṅghe vadhitvā mudumaṁsāni mudumaṁsāni bhakkhayitvā tameva āsayaṁ ajjhupeyyan’ti."
+    },
+    {
+      "id": "dn24:2.6.7",
+      "pali": "Atha kho, āvuso, so sīho migarājā aññataraṁ vanasaṇḍaṁ nissāya āsayaṁ kappesi."
+    },
+    {
+      "id": "dn24:2.6.8",
+      "pali": "Tatrāsayaṁ kappetvā sāyanhasamayaṁ āsayā nikkhami, āsayā nikkhamitvā vijambhi, vijambhitvā samantā catuddisā anuvilokesi, samantā catuddisā anuviloketvā tikkhattuṁ sīhanādaṁ nadi, tikkhattuṁ sīhanādaṁ naditvā gocarāya pakkāmi."
+    },
+    {
+      "id": "dn24:2.6.9",
+      "pali": "So varaṁ varaṁ migasaṅghe vadhitvā mudumaṁsāni mudumaṁsāni bhakkhayitvā tameva āsayaṁ ajjhupesi."
+    },
+    {
+      "id": "dn24:2.6.10",
+      "pali": "Tasseva kho, āvuso pāthikaputta, sīhassa migarañño vighāsasaṁvaḍḍho jarasiṅgālo ditto ceva balavā ca."
+    },
+    {
+      "id": "dn24:2.6.11",
+      "pali": "Atha kho, āvuso, tassa jarasiṅgālassa etadahosi:"
+    },
+    {
+      "id": "dn24:2.6.12",
+      "pali": "‘ko cāhaṁ, ko sīho migarājā."
+    },
+    {
+      "id": "dn24:2.6.13",
+      "pali": "Yannūnāhampi aññataraṁ vanasaṇḍaṁ nissāya āsayaṁ kappeyyaṁ."
+    },
+    {
+      "id": "dn24:2.6.14",
+      "pali": "Tatrāsayaṁ kappetvā sāyanhasamayaṁ āsayā nikkhameyyaṁ, āsayā nikkhamitvā vijambheyyaṁ, vijambhitvā samantā catuddisā anuvilokeyyaṁ, samantā catuddisā anuviloketvā tikkhattuṁ sīhanādaṁ nadeyyaṁ, tikkhattuṁ sīhanādaṁ naditvā gocarāya pakkameyyaṁ."
+    },
+    {
+      "id": "dn24:2.6.15",
+      "pali": "So varaṁ varaṁ migasaṅghe vadhitvā mudumaṁsāni mudumaṁsāni bhakkhayitvā tameva āsayaṁ ajjhupeyyan’ti."
+    },
+    {
+      "id": "dn24:2.7.1",
+      "pali": "Atha kho so, āvuso, jarasiṅgālo aññataraṁ vanasaṇḍaṁ nissāya āsayaṁ kappesi."
+    },
+    {
+      "id": "dn24:2.7.2",
+      "pali": "Tatrāsayaṁ kappetvā sāyanhasamayaṁ āsayā nikkhami, āsayā nikkhamitvā vijambhi, vijambhitvā samantā catuddisā anuvilokesi, samantā catuddisā anuviloketvā tikkhattuṁ sīhanādaṁ nadissāmīti siṅgālakaṁyeva anadi bheraṇḍakaṁyeva anadi, ke ca chave siṅgāle, ke pana sīhanādeti."
+    },
+    {
+      "id": "dn24:2.7.3",
+      "pali": "Evameva kho tvaṁ, āvuso pāthikaputta, sugatāpadānesu jīvamāno sugatātirittāni bhuñjamāno tathāgate arahante sammāsambuddhe āsādetabbaṁ maññasi."
+    },
+    {
+      "id": "dn24:2.7.4",
+      "pali": "Ke ca chave pāthikaputte, kā ca tathāgatānaṁ arahantānaṁ sammāsambuddhānaṁ āsādanāti."
+    },
+    {
+      "id": "dn24:2.8.1",
+      "pali": "Yato kho, bhaggava, jāliyo dārupattikantevāsī iminā opammena neva asakkhi acelaṁ pāthikaputtaṁ tamhā āsanā cāvetuṁ."
+    },
+    {
+      "id": "dn24:2.8.2",
+      "pali": "Atha naṁ etadavoca:"
+    },
+    {
+      "id": "dn24:2.8.3",
+      "pali": "‘Sīhoti attānaṁ samekkhiyāna,"
+    },
+    {
+      "id": "dn24:2.8.4",
+      "pali": "Amaññi kotthu migarājāhamasmi;"
+    },
+    {
+      "id": "dn24:2.8.5",
+      "pali": "Tatheva so siṅgālakaṁ anadi,"
+    },
+    {
+      "id": "dn24:2.8.6",
+      "pali": "Ke ca chave siṅgāle ke pana sīhanādeti."
+    },
+    {
+      "id": "dn24:2.8.7",
+      "pali": "Evameva kho tvaṁ, āvuso pāthikaputta, sugatāpadānesu jīvamāno sugatātirittāni bhuñjamāno tathāgate arahante sammāsambuddhe āsādetabbaṁ maññasi."
+    },
+    {
+      "id": "dn24:2.8.8",
+      "pali": "Ke ca chave pāthikaputte, kā ca tathāgatānaṁ arahantānaṁ sammāsambuddhānaṁ āsādanā’ti."
+    },
+    {
+      "id": "dn24:2.9.1",
+      "pali": "Yato kho, bhaggava, jāliyo dārupattikantevāsī imināpi opammena neva asakkhi acelaṁ pāthikaputtaṁ tamhā āsanā cāvetuṁ."
+    },
+    {
+      "id": "dn24:2.9.2",
+      "pali": "Atha naṁ etadavoca:"
+    },
+    {
+      "id": "dn24:2.9.3",
+      "pali": "‘Aññaṁ anucaṅkamanaṁ,"
+    },
+    {
+      "id": "dn24:2.9.4",
+      "pali": "Attānaṁ vighāse samekkhiya;"
+    },
+    {
+      "id": "dn24:2.9.5",
+      "pali": "Yāva attānaṁ na passati,"
+    },
+    {
+      "id": "dn24:2.9.6",
+      "pali": "Kotthu tāva byagghoti maññati."
+    },
+    {
+      "id": "dn24:2.9.7",
+      "pali": "Tatheva so siṅgālakaṁ anadi,"
+    },
+    {
+      "id": "dn24:2.9.8",
+      "pali": "Ke ca chave siṅgāle ke pana sīhanādeti."
+    },
+    {
+      "id": "dn24:2.9.9",
+      "pali": "Evameva kho tvaṁ, āvuso pāthikaputta, sugatāpadānesu jīvamāno sugatātirittāni bhuñjamāno tathāgate arahante sammāsambuddhe āsādetabbaṁ maññasi."
+    },
+    {
+      "id": "dn24:2.9.10",
+      "pali": "Ke ca chave pāthikaputte, kā ca tathāgatānaṁ arahantānaṁ sammāsambuddhānaṁ āsādanā’ti."
+    },
+    {
+      "id": "dn24:2.10.1",
+      "pali": "Yato kho, bhaggava, jāliyo dārupattikantevāsī imināpi opammena neva asakkhi acelaṁ pāthikaputtaṁ tamhā āsanā cāvetuṁ."
+    },
+    {
+      "id": "dn24:2.10.2",
+      "pali": "Atha naṁ etadavoca:"
+    },
+    {
+      "id": "dn24:2.10.3",
+      "pali": "‘Bhutvāna bheke khalamūsikāyo,"
+    },
+    {
+      "id": "dn24:2.10.4",
+      "pali": "Kaṭasīsu khittāni ca koṇapāni;"
+    },
+    {
+      "id": "dn24:2.10.5",
+      "pali": "Mahāvane suññavane vivaḍḍho,"
+    },
+    {
+      "id": "dn24:2.10.6",
+      "pali": "Amaññi kotthu migarājāhamasmi;"
+    },
+    {
+      "id": "dn24:2.10.7",
+      "pali": "Tatheva so siṅgālakaṁ anadi,"
+    },
+    {
+      "id": "dn24:2.10.8",
+      "pali": "Ke ca chave siṅgāle ke pana sīhanādeti."
+    },
+    {
+      "id": "dn24:2.10.9",
+      "pali": "Evameva kho tvaṁ, āvuso pāthikaputta, sugatāpadānesu jīvamāno sugatātirittāni bhuñjamāno tathāgate arahante sammāsambuddhe āsādetabbaṁ maññasi."
+    },
+    {
+      "id": "dn24:2.10.10",
+      "pali": "Ke ca chave pāthikaputte, kā ca tathāgatānaṁ arahantānaṁ sammāsambuddhānaṁ āsādanā’ti."
+    },
+    {
+      "id": "dn24:2.11.1",
+      "pali": "Yato kho, bhaggava, jāliyo dārupattikantevāsī imināpi opammena neva asakkhi acelaṁ pāthikaputtaṁ tamhā āsanā cāvetuṁ."
+    },
+    {
+      "id": "dn24:2.11.2",
+      "pali": "Atha taṁ parisaṁ āgantvā evamārocesi:"
+    },
+    {
+      "id": "dn24:2.11.3",
+      "pali": "‘parābhūtarūpo, bho, acelo pāthikaputto āyāmi āvuso, āyāmi, āvusoti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātun’ti."
+    },
+    {
+      "id": "dn24:2.12.1",
+      "pali": "Evaṁ vutte, ahaṁ, bhaggava, taṁ parisaṁ etadavocaṁ:"
+    },
+    {
+      "id": "dn24:2.12.2",
+      "pali": "‘abhabbo kho, āvuso, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:2.12.3",
+      "pali": "Sacepissa evamassa—"
+    },
+    {
+      "id": "dn24:2.12.4",
+      "pali": "ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyya."
+    },
+    {
+      "id": "dn24:2.12.5",
+      "pali": "Sacepāyasmantānaṁ licchavīnaṁ evamassa—"
+    },
+    {
+      "id": "dn24:2.12.6",
+      "pali": "mayaṁ acelaṁ pāthikaputtaṁ varattāhi bandhitvā nāgehi āviñcheyyāmāti. Tā varattā chijjeyyuṁ pāthikaputto vā."
+    },
+    {
+      "id": "dn24:2.12.7",
+      "pali": "Abhabbo pana acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ."
+    },
+    {
+      "id": "dn24:2.12.8",
+      "pali": "Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyā’ti."
+    },
+    {
+      "id": "dn24:2.13.1",
+      "pali": "Atha khvāhaṁ, bhaggava, taṁ parisaṁ dhammiyā kathāya sandassesiṁ samādapesiṁ samuttejesiṁ sampahaṁsesiṁ, taṁ parisaṁ dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā mahābandhanā mokkhaṁ karitvā caturāsītipāṇasahassāni mahāviduggā uddharitvā tejodhātuṁ samāpajjitvā sattatālaṁ vehāsaṁ abbhuggantvā aññaṁ sattatālampi acciṁ abhinimminitvā pajjalitvā dhūmāyitvā mahāvane kūṭāgārasālāyaṁ paccuṭṭhāsiṁ."
+    },
+    {
+      "id": "dn24:2.13.2",
+      "pali": "Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho ahaṁ, bhaggava, sunakkhattaṁ licchaviputtaṁ etadavocaṁ:"
+    },
+    {
+      "id": "dn24:2.13.3",
+      "pali": "‘Taṁ kiṁ maññasi, sunakkhatta,"
+    },
+    {
+      "id": "dn24:2.13.4",
+      "pali": "yatheva te ahaṁ acelaṁ pāthikaputtaṁ ārabbha byākāsiṁ, tatheva taṁ vipākaṁ aññathā vā’ti?"
+    },
+    {
+      "id": "dn24:2.13.5",
+      "pali": "‘Yatheva me, bhante, bhagavā acelaṁ pāthikaputtaṁ ārabbha byākāsi, tatheva taṁ vipākaṁ, no aññathā’ti."
+    },
+    {
+      "id": "dn24:2.13.6",
+      "pali": "‘Taṁ kiṁ maññasi, sunakkhatta,"
+    },
+    {
+      "id": "dn24:2.13.7",
+      "pali": "yadi evaṁ sante kataṁ vā hoti uttari manussadhammā iddhipāṭihāriyaṁ, akataṁ vā’ti?"
+    },
+    {
+      "id": "dn24:2.13.8",
+      "pali": "‘Addhā kho, bhante, evaṁ sante kataṁ hoti uttari manussadhammā iddhipāṭihāriyaṁ, no akatan’ti."
+    },
+    {
+      "id": "dn24:2.13.9",
+      "pali": "‘Evampi kho maṁ tvaṁ, moghapurisa, uttari manussadhammā iddhipāṭihāriyaṁ karontaṁ evaṁ vadesi—"
+    },
+    {
+      "id": "dn24:2.13.10",
+      "pali": "na hi pana me, bhante, bhagavā uttari manussadhammā iddhipāṭihāriyaṁ karotīti."
+    },
+    {
+      "id": "dn24:2.13.11",
+      "pali": "Passa, moghapurisa, yāvañca te idaṁ aparaddhan’ti."
+    },
+    {
+      "id": "dn24:2.13.12",
+      "pali": "Evampi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva imasmā dhammavinayā, yathā taṁ āpāyiko nerayiko."
+    },
+    {
+      "id": "dn24:2.14.0",
+      "pali": "6. Aggaññapaññattikathā"
+    },
+    {
+      "id": "dn24:2.14.1",
+      "pali": "Aggaññañcāhaṁ, bhaggava, pajānāmi."
+    },
+    {
+      "id": "dn24:2.14.2",
+      "pali": "Tañca pajānāmi, tato ca uttaritaraṁ pajānāmi, tañca pajānaṁ na parāmasāmi, aparāmasato ca me paccattaññeva nibbuti viditā, yadabhijānaṁ tathāgato no anayaṁ āpajjati."
+    },
+    {
+      "id": "dn24:2.14.3",
+      "pali": "Santi, bhaggava, eke samaṇabrāhmaṇā issarakuttaṁ brahmakuttaṁ ācariyakaṁ aggaññaṁ paññapenti."
+    },
+    {
+      "id": "dn24:2.14.4",
+      "pali": "Tyāhaṁ upasaṅkamitvā evaṁ vadāmi:"
+    },
+    {
+      "id": "dn24:2.14.5",
+      "pali": "‘saccaṁ kira tumhe āyasmanto issarakuttaṁ brahmakuttaṁ ācariyakaṁ aggaññaṁ paññapethā’ti?"
+    },
+    {
+      "id": "dn24:2.14.6",
+      "pali": "Te ca me evaṁ puṭṭhā, ‘āmo’ti paṭijānanti."
+    },
+    {
+      "id": "dn24:2.14.7",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn24:2.14.8",
+      "pali": "‘kathaṁvihitakaṁ pana tumhe āyasmanto issarakuttaṁ brahmakuttaṁ ācariyakaṁ aggaññaṁ paññapethā’ti?"
+    },
+    {
+      "id": "dn24:2.14.9",
+      "pali": "Te mayā puṭṭhā na sampāyanti, asampāyantā mamaññeva paṭipucchanti."
+    },
+    {
+      "id": "dn24:2.14.10",
+      "pali": "Tesāhaṁ puṭṭho byākaromi:"
+    },
+    {
+      "id": "dn24:2.14.11",
+      "pali": "‘Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati."
+    },
+    {
+      "id": "dn24:2.14.12",
+      "pali": "Saṁvaṭṭamāne loke yebhuyyena sattā ābhassarasaṁvattanikā honti."
+    },
+    {
+      "id": "dn24:2.14.13",
+      "pali": "Te tattha honti manomayā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino ciraṁ dīghamaddhānaṁ tiṭṭhanti."
+    },
+    {
+      "id": "dn24:2.15.1",
+      "pali": "Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati."
+    },
+    {
+      "id": "dn24:2.15.2",
+      "pali": "Vivaṭṭamāne loke suññaṁ brahmavimānaṁ pātubhavati."
+    },
+    {
+      "id": "dn24:2.15.3",
+      "pali": "Atha kho aññataro satto āyukkhayā vā puññakkhayā vā ābhassarakāyā cavitvā suññaṁ brahmavimānaṁ upapajjati."
+    },
+    {
+      "id": "dn24:2.15.4",
+      "pali": "So tattha hoti manomayo pītibhakkho sayampabho antalikkhacaro subhaṭṭhāyī, ciraṁ dīghamaddhānaṁ tiṭṭhati."
+    },
+    {
+      "id": "dn24:2.16.1",
+      "pali": "Tassa tattha ekakassa dīgharattaṁ nivusitattā anabhirati paritassanā uppajjati—"
+    },
+    {
+      "id": "dn24:2.16.2",
+      "pali": "aho vata aññepi sattā itthattaṁ āgaccheyyunti."
+    },
+    {
+      "id": "dn24:2.16.3",
+      "pali": "Atha aññepi sattā āyukkhayā vā puññakkhayā vā ābhassarakāyā cavitvā suññaṁ brahmavimānaṁ upapajjanti tassa sattassa sahabyataṁ."
+    },
+    {
+      "id": "dn24:2.16.4",
+      "pali": "Tepi tattha honti manomayā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino, ciraṁ dīghamaddhānaṁ tiṭṭhanti."
+    },
+    {
+      "id": "dn24:2.17.1",
+      "pali": "Tatrāvuso, yo so satto paṭhamaṁ upapanno, tassa evaṁ hoti—"
+    },
+    {
+      "id": "dn24:2.17.2",
+      "pali": "ahamasmi brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṁ, mayā ime sattā nimmitā."
+    },
+    {
+      "id": "dn24:2.17.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn24:2.17.4",
+      "pali": "Mamañhi pubbe etadahosi—"
+    },
+    {
+      "id": "dn24:2.17.5",
+      "pali": "aho vata aññepi sattā itthattaṁ āgaccheyyunti;"
+    },
+    {
+      "id": "dn24:2.17.6",
+      "pali": "iti mama ca manopaṇidhi. Ime ca sattā itthattaṁ āgatāti."
+    },
+    {
+      "id": "dn24:2.17.7",
+      "pali": "Yepi te sattā pacchā upapannā, tesampi evaṁ hoti—"
+    },
+    {
+      "id": "dn24:2.17.8",
+      "pali": "ayaṁ kho bhavaṁ brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṁ;"
+    },
+    {
+      "id": "dn24:2.17.9",
+      "pali": "iminā mayaṁ bhotā brahmunā nimmitā."
+    },
+    {
+      "id": "dn24:2.17.10",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn24:2.17.11",
+      "pali": "Imañhi mayaṁ addasāma idha paṭhamaṁ upapannaṁ; mayaṁ panāmha pacchā upapannāti."
+    },
+    {
+      "id": "dn24:2.17.12",
+      "pali": "Tatrāvuso, yo so satto paṭhamaṁ upapanno, so dīghāyukataro ca hoti vaṇṇavantataro ca mahesakkhataro ca."
+    },
+    {
+      "id": "dn24:2.17.13",
+      "pali": "Ye pana te sattā pacchā upapannā, te appāyukatarā ca honti dubbaṇṇatarā ca appesakkhatarā ca."
+    },
+    {
+      "id": "dn24:2.17.14",
+      "pali": "Ṭhānaṁ kho panetaṁ, āvuso, vijjati, yaṁ aññataro satto tamhā kāyā cavitvā itthattaṁ āgacchati."
+    },
+    {
+      "id": "dn24:2.17.15",
+      "pali": "Itthattaṁ āgato samāno agārasmā anagāriyaṁ pabbajati."
+    },
+    {
+      "id": "dn24:2.17.16",
+      "pali": "Agārasmā anagāriyaṁ pabbajito samāno ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṁ cetosamādhiṁ phusati, yathāsamāhite citte taṁ pubbenivāsaṁ anussarati; tato paraṁ nānussarati."
+    },
+    {
+      "id": "dn24:2.17.17",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "dn24:2.17.18",
+      "pali": "“yo kho so bhavaṁ brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṁ, yena mayaṁ bhotā brahmunā nimmitā. So nicco dhuvo sassato avipariṇāmadhammo sassatisamaṁ tatheva ṭhassati."
+    },
+    {
+      "id": "dn24:2.17.19",
+      "pali": "Ye pana mayaṁ ahumhā tena bhotā brahmunā nimmitā, te mayaṁ aniccā addhuvā appāyukā cavanadhammā itthattaṁ āgatā”ti."
+    },
+    {
+      "id": "dn24:2.17.20",
+      "pali": "Evaṁvihitakaṁ no tumhe āyasmanto issarakuttaṁ brahmakuttaṁ ācariyakaṁ aggaññaṁ paññapethā’ti."
+    },
+    {
+      "id": "dn24:2.17.21",
+      "pali": "Te evamāhaṁsu:"
+    },
+    {
+      "id": "dn24:2.17.22",
+      "pali": "‘evaṁ kho no, āvuso gotama, sutaṁ, yathevāyasmā gotamo āhā’ti."
+    },
+    {
+      "id": "dn24:2.17.23",
+      "pali": "Aggaññañcāhaṁ, bhaggava, pajānāmi."
+    },
+    {
+      "id": "dn24:2.17.24",
+      "pali": "Tañca pajānāmi, tato ca uttaritaraṁ pajānāmi, tañca pajānaṁ na parāmasāmi, aparāmasato ca me paccattaññeva nibbuti viditā. Yadabhijānaṁ tathāgato no anayaṁ āpajjati."
+    },
+    {
+      "id": "dn24:2.18.1",
+      "pali": "Santi, bhaggava, eke samaṇabrāhmaṇā khiḍḍāpadosikaṁ ācariyakaṁ aggaññaṁ paññapenti."
+    },
+    {
+      "id": "dn24:2.18.2",
+      "pali": "Tyāhaṁ upasaṅkamitvā evaṁ vadāmi:"
+    },
+    {
+      "id": "dn24:2.18.3",
+      "pali": "‘saccaṁ kira tumhe āyasmanto khiḍḍāpadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti?"
+    },
+    {
+      "id": "dn24:2.18.4",
+      "pali": "Te ca me evaṁ puṭṭhā ‘āmo’ti paṭijānanti."
+    },
+    {
+      "id": "dn24:2.18.5",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn24:2.18.6",
+      "pali": "‘kathaṁvihitakaṁ pana tumhe āyasmanto khiḍḍāpadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti?"
+    },
+    {
+      "id": "dn24:2.18.7",
+      "pali": "Te mayā puṭṭhā na sampāyanti, asampāyantā mamaññeva paṭipucchanti,"
+    },
+    {
+      "id": "dn24:2.18.8",
+      "pali": "tesāhaṁ puṭṭho byākaromi:"
+    },
+    {
+      "id": "dn24:2.18.9",
+      "pali": "‘Santāvuso, khiḍḍāpadosikā nāma devā. Te ativelaṁ hassakhiḍḍāratidhammasamāpannā viharanti. Tesaṁ ativelaṁ hassakhiḍḍāratidhammasamāpannānaṁ viharataṁ sati sammussati, satiyā sammosā te devā tamhā kāyā cavanti."
+    },
+    {
+      "id": "dn24:2.18.10",
+      "pali": "Ṭhānaṁ kho panetaṁ, āvuso, vijjati, yaṁ aññataro satto tamhā kāyā cavitvā itthattaṁ āgacchati,"
+    },
+    {
+      "id": "dn24:2.18.11",
+      "pali": "itthattaṁ āgato samāno agārasmā anagāriyaṁ pabbajati,"
+    },
+    {
+      "id": "dn24:2.18.12",
+      "pali": "agārasmā anagāriyaṁ pabbajito samāno ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṁ cetosamādhiṁ phusati, yathāsamāhite citte taṁ pubbenivāsaṁ anussarati; tato paraṁ nānussarati."
+    },
+    {
+      "id": "dn24:2.18.13",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "dn24:2.18.14",
+      "pali": "“ye kho te bhonto devā na khiḍḍāpadosikā te na ativelaṁ hassakhiḍḍāratidhammasamāpannā viharanti. Tesaṁ nātivelaṁ hassakhiḍḍāratidhammasamāpannānaṁ viharataṁ sati na sammussati, satiyā asammosā te devā tamhā kāyā na cavanti,"
+    },
+    {
+      "id": "dn24:2.18.15",
+      "pali": "niccā dhuvā sassatā avipariṇāmadhammā sassatisamaṁ tatheva ṭhassanti."
+    },
+    {
+      "id": "dn24:2.18.16",
+      "pali": "Ye pana mayaṁ ahumhā khiḍḍāpadosikā te mayaṁ ativelaṁ hassakhiḍḍāratidhammasamāpannā viharimhā, tesaṁ no ativelaṁ hassakhiḍḍāratidhammasamāpannānaṁ viharataṁ sati sammussati, satiyā sammosā evaṁ mayaṁ tamhā kāyā cutā,"
+    },
+    {
+      "id": "dn24:2.18.17",
+      "pali": "aniccā addhuvā appāyukā cavanadhammā itthattaṁ āgatā”ti."
+    },
+    {
+      "id": "dn24:2.18.18",
+      "pali": "Evaṁvihitakaṁ no tumhe āyasmanto khiḍḍāpadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti."
+    },
+    {
+      "id": "dn24:2.18.19",
+      "pali": "Te evamāhaṁsu:"
+    },
+    {
+      "id": "dn24:2.18.20",
+      "pali": "‘evaṁ kho no, āvuso gotama, sutaṁ, yathevāyasmā gotamo āhā’ti."
+    },
+    {
+      "id": "dn24:2.18.21",
+      "pali": "Aggaññañcāhaṁ, bhaggava, pajānāmi …pe…"
+    },
+    {
+      "id": "dn24:2.18.22",
+      "pali": "yadabhijānaṁ tathāgato no anayaṁ āpajjati."
+    },
+    {
+      "id": "dn24:2.19.1",
+      "pali": "Santi, bhaggava, eke samaṇabrāhmaṇā manopadosikaṁ ācariyakaṁ aggaññaṁ paññapenti."
+    },
+    {
+      "id": "dn24:2.19.2",
+      "pali": "Tyāhaṁ upasaṅkamitvā evaṁ vadāmi:"
+    },
+    {
+      "id": "dn24:2.19.3",
+      "pali": "‘saccaṁ kira tumhe āyasmanto manopadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti?"
+    },
+    {
+      "id": "dn24:2.19.4",
+      "pali": "Te ca me evaṁ puṭṭhā ‘āmo’ti paṭijānanti."
+    },
+    {
+      "id": "dn24:2.19.5",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn24:2.19.6",
+      "pali": "‘kathaṁvihitakaṁ pana tumhe āyasmanto manopadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti?"
+    },
+    {
+      "id": "dn24:2.19.7",
+      "pali": "Te mayā puṭṭhā na sampāyanti, asampāyantā mamaññeva paṭipucchanti."
+    },
+    {
+      "id": "dn24:2.19.8",
+      "pali": "Tesāhaṁ puṭṭho byākaromi:"
+    },
+    {
+      "id": "dn24:2.19.9",
+      "pali": "‘Santāvuso, manopadosikā nāma devā. Te ativelaṁ aññamaññaṁ upanijjhāyanti. Te ativelaṁ aññamaññaṁ upanijjhāyantā aññamaññamhi cittāni padūsenti. Te aññamaññaṁ paduṭṭhacittā kilantakāyā kilantacittā. Te devā tamhā kāyā cavanti."
+    },
+    {
+      "id": "dn24:2.19.10",
+      "pali": "Ṭhānaṁ kho panetaṁ, āvuso, vijjati, yaṁ aññataro satto tamhā kāyā cavitvā itthattaṁ āgacchati."
+    },
+    {
+      "id": "dn24:2.19.11",
+      "pali": "Itthattaṁ āgato samāno agārasmā anagāriyaṁ pabbajati."
+    },
+    {
+      "id": "dn24:2.19.12",
+      "pali": "Agārasmā anagāriyaṁ pabbajito samāno ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṁ cetosamādhiṁ phusati, yathāsamāhite citte taṁ pubbenivāsaṁ anussarati, tato paraṁ nānussarati."
+    },
+    {
+      "id": "dn24:2.19.13",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "dn24:2.19.14",
+      "pali": "“ye kho te bhonto devā na manopadosikā te nātivelaṁ aññamaññaṁ upanijjhāyanti. Te nātivelaṁ aññamaññaṁ upanijjhāyantā aññamaññamhi cittāni nappadūsenti. Te aññamaññaṁ appaduṭṭhacittā akilantakāyā akilantacittā. Te devā tamhā kāyā na cavanti,"
+    },
+    {
+      "id": "dn24:2.19.15",
+      "pali": "niccā dhuvā sassatā avipariṇāmadhammā sassatisamaṁ tatheva ṭhassanti."
+    },
+    {
+      "id": "dn24:2.19.16",
+      "pali": "Ye pana mayaṁ ahumhā manopadosikā, te mayaṁ ativelaṁ aññamaññaṁ upanijjhāyimhā. Te mayaṁ ativelaṁ aññamaññaṁ upanijjhāyantā aññamaññamhi cittāni padūsimhā. Te mayaṁ aññamaññaṁ paduṭṭhacittā kilantakāyā kilantacittā. Evaṁ mayaṁ tamhā kāyā cutā,"
+    },
+    {
+      "id": "dn24:2.19.17",
+      "pali": "aniccā addhuvā appāyukā cavanadhammā itthattaṁ āgatā”ti."
+    },
+    {
+      "id": "dn24:2.19.18",
+      "pali": "Evaṁvihitakaṁ no tumhe āyasmanto manopadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti."
+    },
+    {
+      "id": "dn24:2.19.19",
+      "pali": "Te evamāhaṁsu:"
+    },
+    {
+      "id": "dn24:2.19.20",
+      "pali": "‘evaṁ kho no, āvuso gotama, sutaṁ, yathevāyasmā gotamo āhā’ti."
+    },
+    {
+      "id": "dn24:2.19.21",
+      "pali": "Aggaññañcāhaṁ, bhaggava, pajānāmi …pe…"
+    },
+    {
+      "id": "dn24:2.19.22",
+      "pali": "yadabhijānaṁ tathāgato no anayaṁ āpajjati."
+    },
+    {
+      "id": "dn24:2.20.1",
+      "pali": "Santi, bhaggava, eke samaṇabrāhmaṇā adhiccasamuppannaṁ ācariyakaṁ aggaññaṁ paññapenti."
+    },
+    {
+      "id": "dn24:2.20.2",
+      "pali": "Tyāhaṁ upasaṅkamitvā evaṁ vadāmi:"
+    },
+    {
+      "id": "dn24:2.20.3",
+      "pali": "‘saccaṁ kira tumhe āyasmanto adhiccasamuppannaṁ ācariyakaṁ aggaññaṁ paññapethā’ti?"
+    },
+    {
+      "id": "dn24:2.20.4",
+      "pali": "Te ca me evaṁ puṭṭhā ‘āmo’ti paṭijānanti."
+    },
+    {
+      "id": "dn24:2.20.5",
+      "pali": "Tyāhaṁ evaṁ vadāmi:"
+    },
+    {
+      "id": "dn24:2.20.6",
+      "pali": "‘kathaṁvihitakaṁ pana tumhe āyasmanto adhiccasamuppannaṁ ācariyakaṁ aggaññaṁ paññapethā’ti?"
+    },
+    {
+      "id": "dn24:2.20.7",
+      "pali": "Te mayā puṭṭhā na sampāyanti, asampāyantā mamaññeva paṭipucchanti."
+    },
+    {
+      "id": "dn24:2.20.8",
+      "pali": "Tesāhaṁ puṭṭho byākaromi:"
+    },
+    {
+      "id": "dn24:2.20.9",
+      "pali": "‘Santāvuso, asaññasattā nāma devā."
+    },
+    {
+      "id": "dn24:2.20.10",
+      "pali": "Saññuppādā ca pana te devā tamhā kāyā cavanti."
+    },
+    {
+      "id": "dn24:2.20.11",
+      "pali": "Ṭhānaṁ kho panetaṁ, āvuso, vijjati yaṁ aññataro satto tamhā kāyā cavitvā itthattaṁ āgacchati."
+    },
+    {
+      "id": "dn24:2.20.12",
+      "pali": "Itthattaṁ āgato samāno agārasmā anagāriyaṁ pabbajati."
+    },
+    {
+      "id": "dn24:2.20.13",
+      "pali": "Agārasmā anagāriyaṁ pabbajito samāno ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṁ cetosamādhiṁ phusati, yathāsamāhite citte taṁ saññuppādaṁ anussarati, tato paraṁ nānussarati’."
+    },
+    {
+      "id": "dn24:2.20.14",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "dn24:2.20.15",
+      "pali": "‘adhiccasamuppanno attā ca loko ca."
+    },
+    {
+      "id": "dn24:2.20.16",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn24:2.20.17",
+      "pali": "Ahañhi pubbe nāhosiṁ, somhi etarahi ahutvā santatāya pariṇato’ti."
+    },
+    {
+      "id": "dn24:2.20.18",
+      "pali": "‘Evaṁvihitakaṁ no tumhe āyasmanto adhiccasamuppannaṁ ācariyakaṁ aggaññaṁ paññapethā’ti?"
+    },
+    {
+      "id": "dn24:2.20.19",
+      "pali": "Te evamāhaṁsu:"
+    },
+    {
+      "id": "dn24:2.20.20",
+      "pali": "‘evaṁ kho no, āvuso gotama, sutaṁ yathevāyasmā gotamo āhā’ti."
+    },
+    {
+      "id": "dn24:2.20.21",
+      "pali": "Aggaññañcāhaṁ, bhaggava, pajānāmi tañca pajānāmi, tato ca uttaritaraṁ pajānāmi, tañca pajānaṁ na parāmasāmi, aparāmasato ca me paccattaññeva nibbuti viditā."
+    },
+    {
+      "id": "dn24:2.20.22",
+      "pali": "Yadabhijānaṁ tathāgato no anayaṁ āpajjati."
+    },
+    {
+      "id": "dn24:2.21.1",
+      "pali": "Evaṁvādiṁ kho maṁ, bhaggava, evamakkhāyiṁ eke samaṇabrāhmaṇā asatā tucchā musā abhūtena abbhācikkhanti:"
+    },
+    {
+      "id": "dn24:2.21.2",
+      "pali": "‘viparīto samaṇo gotamo bhikkhavo ca."
+    },
+    {
+      "id": "dn24:2.21.3",
+      "pali": "Samaṇo gotamo evamāha—"
+    },
+    {
+      "id": "dn24:2.21.4",
+      "pali": "yasmiṁ samaye subhaṁ vimokkhaṁ upasampajja viharati, sabbaṁ tasmiṁ samaye asubhantveva pajānātī’ti."
+    },
+    {
+      "id": "dn24:2.21.5",
+      "pali": "Na kho panāhaṁ, bhaggava, evaṁ vadāmi:"
+    },
+    {
+      "id": "dn24:2.21.6",
+      "pali": "‘yasmiṁ samaye subhaṁ vimokkhaṁ upasampajja viharati, sabbaṁ tasmiṁ samaye asubhantveva pajānātī’ti."
+    },
+    {
+      "id": "dn24:2.21.7",
+      "pali": "Evañca khvāhaṁ, bhaggava, vadāmi:"
+    },
+    {
+      "id": "dn24:2.21.8",
+      "pali": "‘yasmiṁ samaye subhaṁ vimokkhaṁ upasampajja viharati, subhantveva tasmiṁ samaye pajānātī’”ti."
+    },
+    {
+      "id": "dn24:2.21.9",
+      "pali": "“Te ca, bhante, viparītā, ye bhagavantaṁ viparītato dahanti bhikkhavo ca."
+    },
+    {
+      "id": "dn24:2.21.10",
+      "pali": "Evaṁpasanno ahaṁ, bhante, bhagavati. Pahoti me bhagavā tathā dhammaṁ desetuṁ, yathā ahaṁ subhaṁ vimokkhaṁ upasampajja vihareyyan”ti."
+    },
+    {
+      "id": "dn24:2.21.11",
+      "pali": "“Dukkaraṁ kho etaṁ, bhaggava, tayā aññadiṭṭhikena aññakhantikena aññarucikena aññatrāyogena aññatrācariyakena subhaṁ vimokkhaṁ upasampajja viharituṁ."
+    },
+    {
+      "id": "dn24:2.21.12",
+      "pali": "Iṅgha tvaṁ, bhaggava, yo ca te ayaṁ mayi pasādo, tameva tvaṁ sādhukamanurakkhā”ti."
+    },
+    {
+      "id": "dn24:2.21.13",
+      "pali": "“Sace taṁ, bhante, mayā dukkaraṁ aññadiṭṭhikena aññakhantikena aññarucikena aññatrāyogena aññatrācariyakena subhaṁ vimokkhaṁ upasampajja viharituṁ."
+    },
+    {
+      "id": "dn24:2.21.14",
+      "pali": "Yo ca me ayaṁ, bhante, bhagavati pasādo, tamevāhaṁ sādhukamanurakkhissāmī”ti."
+    },
+    {
+      "id": "dn24:2.21.15",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "dn24:2.21.16",
+      "pali": "Attamano bhaggavagotto paribbājako bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "dn24:2.21.17",
+      "pali": "Pāthikasuttaṁ niṭṭhitaṁ paṭhamaṁ."
+    }
+  ]
+}

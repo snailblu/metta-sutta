@@ -1,0 +1,807 @@
+{
+  "uid": "mn70",
+  "title": "Kīṭāgirisutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn70:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn70:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā kāsīsu cārikaṁ carati mahatā bhikkhusaṅghena saddhiṁ."
+    },
+    {
+      "id": "mn70:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn70:2.1",
+      "pali": "“ahaṁ kho, bhikkhave, aññatreva rattibhojanā bhuñjāmi."
+    },
+    {
+      "id": "mn70:2.2",
+      "pali": "Aññatra kho panāhaṁ, bhikkhave, rattibhojanā bhuñjamāno appābādhatañca sañjānāmi appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañca."
+    },
+    {
+      "id": "mn70:2.3",
+      "pali": "Etha, tumhepi, bhikkhave, aññatreva rattibhojanā bhuñjatha."
+    },
+    {
+      "id": "mn70:2.4",
+      "pali": "Aññatra kho pana, bhikkhave, tumhepi rattibhojanā bhuñjamānā appābādhatañca sañjānissatha appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañcā”ti."
+    },
+    {
+      "id": "mn70:2.5",
+      "pali": "“Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn70:3.1",
+      "pali": "Atha kho bhagavā kāsīsu anupubbena cārikaṁ caramāno yena kīṭāgiri nāma kāsīnaṁ nigamo tadavasari."
+    },
+    {
+      "id": "mn70:3.2",
+      "pali": "Tatra sudaṁ bhagavā kīṭāgirismiṁ viharati kāsīnaṁ nigame."
+    },
+    {
+      "id": "mn70:4.1",
+      "pali": "Tena kho pana samayena assajipunabbasukā nāma bhikkhū kīṭāgirismiṁ āvāsikā honti."
+    },
+    {
+      "id": "mn70:4.2",
+      "pali": "Atha kho sambahulā bhikkhū yena assajipunabbasukā bhikkhū tenupasaṅkamiṁsu; upasaṅkamitvā assajipunabbasuke bhikkhū etadavocuṁ:"
+    },
+    {
+      "id": "mn70:4.3",
+      "pali": "“bhagavā kho, āvuso, aññatreva rattibhojanā bhuñjati bhikkhusaṅgho ca."
+    },
+    {
+      "id": "mn70:4.4",
+      "pali": "Aññatra kho panāvuso, rattibhojanā bhuñjamānā appābādhatañca sañjānanti appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañca."
+    },
+    {
+      "id": "mn70:4.5",
+      "pali": "Etha, tumhepi, āvuso, aññatreva rattibhojanā bhuñjatha."
+    },
+    {
+      "id": "mn70:4.6",
+      "pali": "Aññatra kho panāvuso, tumhepi rattibhojanā bhuñjamānā appābādhatañca sañjānissatha appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañcā”ti."
+    },
+    {
+      "id": "mn70:4.7",
+      "pali": "Evaṁ vutte, assajipunabbasukā bhikkhū te bhikkhū etadavocuṁ:"
+    },
+    {
+      "id": "mn70:4.8",
+      "pali": "“mayaṁ kho, āvuso, sāyañceva bhuñjāma pāto ca divā ca vikāle."
+    },
+    {
+      "id": "mn70:4.9",
+      "pali": "Te mayaṁ sāyañceva bhuñjamānā pāto ca divā ca vikāle appābādhatañca sañjānāma appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañca."
+    },
+    {
+      "id": "mn70:4.10",
+      "pali": "Te mayaṁ kiṁ sandiṭṭhikaṁ hitvā kālikaṁ anudhāvissāma?"
+    },
+    {
+      "id": "mn70:4.11",
+      "pali": "Sāyañceva mayaṁ bhuñjissāma pāto ca divā ca vikāle”ti."
+    },
+    {
+      "id": "mn70:5.1",
+      "pali": "Yato kho te bhikkhū nāsakkhiṁsu assajipunabbasuke bhikkhū saññāpetuṁ, atha yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn70:5.2",
+      "pali": "“idha mayaṁ, bhante, yena assajipunabbasukā bhikkhū tenupasaṅkamimha; upasaṅkamitvā assajipunabbasuke bhikkhū etadavocumha:"
+    },
+    {
+      "id": "mn70:5.3",
+      "pali": "‘bhagavā kho, āvuso, aññatreva rattibhojanā bhuñjati bhikkhusaṅgho ca;"
+    },
+    {
+      "id": "mn70:5.4",
+      "pali": "aññatra kho panāvuso, rattibhojanā bhuñjamānā appābādhatañca sañjānanti appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañca."
+    },
+    {
+      "id": "mn70:5.5",
+      "pali": "Etha, tumhepi, āvuso, aññatreva rattibhojanā bhuñjatha."
+    },
+    {
+      "id": "mn70:5.6",
+      "pali": "Aññatra kho panāvuso, tumhepi rattibhojanā bhuñjamānā appābādhatañca sañjānissatha appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañcā’ti."
+    },
+    {
+      "id": "mn70:5.7",
+      "pali": "Evaṁ vutte, bhante, assajipunabbasukā bhikkhū amhe etadavocuṁ:"
+    },
+    {
+      "id": "mn70:5.8",
+      "pali": "‘mayaṁ kho, āvuso, sāyañceva bhuñjāma pāto ca divā ca vikāle."
+    },
+    {
+      "id": "mn70:5.9",
+      "pali": "Te mayaṁ sāyañceva bhuñjamānā pāto ca divā ca vikāle appābādhatañca sañjānāma appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañca."
+    },
+    {
+      "id": "mn70:5.10",
+      "pali": "Te mayaṁ kiṁ sandiṭṭhikaṁ hitvā kālikaṁ anudhāvissāma?"
+    },
+    {
+      "id": "mn70:5.11",
+      "pali": "Sāyañceva mayaṁ bhuñjissāma pāto ca divā ca vikāle’ti."
+    },
+    {
+      "id": "mn70:5.12",
+      "pali": "Yato kho mayaṁ, bhante, nāsakkhimha assajipunabbasuke bhikkhū saññāpetuṁ, atha mayaṁ etamatthaṁ bhagavato ārocemā”ti."
+    },
+    {
+      "id": "mn70:6.1",
+      "pali": "Atha kho bhagavā aññataraṁ bhikkhuṁ āmantesi:"
+    },
+    {
+      "id": "mn70:6.2",
+      "pali": "“ehi tvaṁ, bhikkhu, mama vacanena assajipunabbasuke bhikkhū āmantehi:"
+    },
+    {
+      "id": "mn70:6.3",
+      "pali": "‘satthā āyasmante āmantetī’”ti."
+    },
+    {
+      "id": "mn70:6.4",
+      "pali": "“Evaṁ, bhante”ti kho so bhikkhu bhagavato paṭissutvā yena assajipunabbasukā bhikkhū tenupasaṅkami; upasaṅkamitvā assajipunabbasuke bhikkhū etadavoca:"
+    },
+    {
+      "id": "mn70:6.5",
+      "pali": "“satthā āyasmante āmantetī”ti."
+    },
+    {
+      "id": "mn70:6.6",
+      "pali": "“Evamāvuso”ti kho assajipunabbasukā bhikkhū tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinne kho assajipunabbasuke bhikkhū bhagavā etadavoca:"
+    },
+    {
+      "id": "mn70:6.7",
+      "pali": "“saccaṁ kira, bhikkhave, sambahulā bhikkhū tumhe upasaṅkamitvā etadavocuṁ:"
+    },
+    {
+      "id": "mn70:6.8",
+      "pali": "‘bhagavā kho, āvuso, aññatreva rattibhojanā bhuñjati bhikkhusaṅgho ca."
+    },
+    {
+      "id": "mn70:6.9",
+      "pali": "Aññatra kho panāvuso, rattibhojanā bhuñjamānā appābādhatañca sañjānanti appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañca."
+    },
+    {
+      "id": "mn70:6.10",
+      "pali": "Etha, tumhepi, āvuso, aññatreva rattibhojanā bhuñjatha."
+    },
+    {
+      "id": "mn70:6.11",
+      "pali": "Aññatra kho panāvuso, tumhepi rattibhojanā bhuñjamānā appābādhatañca sañjānissatha appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañcā’ti."
+    },
+    {
+      "id": "mn70:6.12",
+      "pali": "Evaṁ vutte, kira, bhikkhave, tumhe te bhikkhū evaṁ avacuttha:"
+    },
+    {
+      "id": "mn70:6.13",
+      "pali": "‘mayaṁ kho panāvuso, sāyañceva bhuñjāma pāto ca divā ca vikāle."
+    },
+    {
+      "id": "mn70:6.14",
+      "pali": "Te mayaṁ sāyañceva bhuñjamānā pāto ca divā ca vikāle appābādhatañca sañjānāma appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañca."
+    },
+    {
+      "id": "mn70:6.15",
+      "pali": "Te mayaṁ kiṁ sandiṭṭhikaṁ hitvā kālikaṁ anudhāvissāma?"
+    },
+    {
+      "id": "mn70:6.16",
+      "pali": "Sāyañceva mayaṁ bhuñjissāma pāto ca divā ca vikāle’”ti."
+    },
+    {
+      "id": "mn70:6.17",
+      "pali": "“Evaṁ, bhante”."
+    },
+    {
+      "id": "mn70:6.18",
+      "pali": "“Kiṁ nu me tumhe, bhikkhave, evaṁ dhammaṁ desitaṁ ājānātha yaṁ kiñcāyaṁ purisapuggalo paṭisaṁvedeti sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tassa akusalā dhammā parihāyanti kusalā dhammā abhivaḍḍhantī”ti?"
+    },
+    {
+      "id": "mn70:6.19",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn70:7.1",
+      "pali": "“Nanu me tumhe, bhikkhave, evaṁ dhammaṁ desitaṁ ājānātha idhekaccassa yaṁ evarūpaṁ sukhaṁ vedanaṁ vedayato akusalā dhammā abhivaḍḍhanti kusalā dhammā parihāyanti, idha panekaccassa evarūpaṁ sukhaṁ vedanaṁ vedayato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti, idhekaccassa evarūpaṁ dukkhaṁ vedanaṁ vedayato akusalā dhammā abhivaḍḍhanti kusalā dhammā parihāyanti, idha panekaccassa evarūpaṁ dukkhaṁ vedanaṁ vedayato akusalā dhammā parihāyanti kusalā dhammā abhivaḍḍhanti, idhekaccassa evarūpaṁ adukkhamasukhaṁ vedanaṁ vedayato akusalā dhammā abhivaḍḍhanti kusalā dhammā parihāyanti, idha panekaccassa evarūpaṁ adukkhamasukhaṁ vedanaṁ vedayato akusalā dhammā parihāyanti kusalā dhammā abhivaḍḍhantī”ti?"
+    },
+    {
+      "id": "mn70:7.2",
+      "pali": "“Evaṁ, bhante”."
+    },
+    {
+      "id": "mn70:8.1",
+      "pali": "“Sādhu, bhikkhave."
+    },
+    {
+      "id": "mn70:8.2",
+      "pali": "Mayā cetaṁ, bhikkhave, aññātaṁ abhavissa adiṭṭhaṁ aviditaṁ asacchikataṁ aphassitaṁ paññāya:"
+    },
+    {
+      "id": "mn70:8.3",
+      "pali": "‘idhekaccassa evarūpaṁ sukhaṁ vedanaṁ vedayato akusalā dhammā abhivaḍḍhanti kusalā dhammā parihāyantī’ti,"
+    },
+    {
+      "id": "mn70:8.4",
+      "pali": "evāhaṁ ajānanto ‘evarūpaṁ sukhaṁ vedanaṁ pajahathā’ti vadeyyaṁ; api nu me etaṁ, bhikkhave, patirūpaṁ abhavissā”ti?"
+    },
+    {
+      "id": "mn70:8.5",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn70:8.6",
+      "pali": "“Yasmā ca kho etaṁ, bhikkhave, mayā ñātaṁ diṭṭhaṁ viditaṁ sacchikataṁ phassitaṁ paññāya:"
+    },
+    {
+      "id": "mn70:8.7",
+      "pali": "‘idhekaccassa evarūpaṁ sukhaṁ vedanaṁ vedayato akusalā dhammā abhivaḍḍhanti kusalā dhammā parihāyantī’ti, tasmāhaṁ ‘evarūpaṁ sukhaṁ vedanaṁ pajahathā’ti vadāmi."
+    },
+    {
+      "id": "mn70:8.8",
+      "pali": "Mayā cetaṁ, bhikkhave, aññātaṁ abhavissa adiṭṭhaṁ aviditaṁ asacchikataṁ aphassitaṁ paññāya:"
+    },
+    {
+      "id": "mn70:8.9",
+      "pali": "‘idhekaccassa evarūpaṁ sukhaṁ vedanaṁ vedayato akusalā dhammā parihāyanti kusalā dhammā abhivaḍḍhantī’ti, evāhaṁ ajānanto ‘evarūpaṁ sukhaṁ vedanaṁ upasampajja viharathā’ti vadeyyaṁ;"
+    },
+    {
+      "id": "mn70:8.10",
+      "pali": "api nu me etaṁ, bhikkhave, patirūpaṁ abhavissā”ti?"
+    },
+    {
+      "id": "mn70:8.11",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn70:8.12",
+      "pali": "“Yasmā ca kho etaṁ, bhikkhave, mayā ñātaṁ diṭṭhaṁ viditaṁ sacchikataṁ phassitaṁ paññāya:"
+    },
+    {
+      "id": "mn70:8.13",
+      "pali": "‘idhekaccassa evarūpaṁ sukhaṁ vedanaṁ vedayato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhantī’ti, tasmāhaṁ ‘evarūpaṁ sukhaṁ vedanaṁ upasampajja viharathā’ti vadāmi."
+    },
+    {
+      "id": "mn70:8.14",
+      "pali": "Mayā cetaṁ, bhikkhave, aññātaṁ abhavissa adiṭṭhaṁ aviditaṁ asacchikataṁ aphassitaṁ paññāya:"
+    },
+    {
+      "id": "mn70:8.15",
+      "pali": "‘idhekaccassa evarūpaṁ dukkhaṁ vedanaṁ vedayato akusalā dhammā abhivaḍḍhanti kusalā dhammā parihāyantī’ti, evāhaṁ ajānanto ‘evarūpaṁ dukkhaṁ vedanaṁ pajahathā’ti vadeyyaṁ;"
+    },
+    {
+      "id": "mn70:8.16",
+      "pali": "api nu me etaṁ, bhikkhave, patirūpaṁ abhavissā”ti?"
+    },
+    {
+      "id": "mn70:8.17",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn70:9.1",
+      "pali": "“Yasmā ca kho etaṁ, bhikkhave, mayā ñātaṁ diṭṭhaṁ viditaṁ sacchikataṁ phassitaṁ paññāya:"
+    },
+    {
+      "id": "mn70:9.2",
+      "pali": "‘idhekaccassa evarūpaṁ dukkhaṁ vedanaṁ vedayato akusalā dhammā abhivaḍḍhanti kusalā dhammā parihāyantī’ti, tasmāhaṁ ‘evarūpaṁ dukkhaṁ vedanaṁ pajahathā’ti vadāmi."
+    },
+    {
+      "id": "mn70:9.3",
+      "pali": "Mayā cetaṁ, bhikkhave, aññātaṁ abhavissa adiṭṭhaṁ aviditaṁ asacchikataṁ aphassitaṁ paññāya:"
+    },
+    {
+      "id": "mn70:9.4",
+      "pali": "‘idhekaccassa evarūpaṁ dukkhaṁ vedanaṁ vedayato akusalā dhammā parihāyanti kusalā dhammā abhivaḍḍhantī’ti, evāhaṁ ajānanto ‘evarūpaṁ dukkhaṁ vedanaṁ upasampajja viharathā’ti vadeyyaṁ;"
+    },
+    {
+      "id": "mn70:9.5",
+      "pali": "api nu me etaṁ, bhikkhave, patirūpaṁ abhavissā”ti?"
+    },
+    {
+      "id": "mn70:9.6",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn70:9.7",
+      "pali": "“Yasmā ca kho etaṁ, bhikkhave, mayā ñātaṁ diṭṭhaṁ viditaṁ sacchikataṁ phassitaṁ paññāya:"
+    },
+    {
+      "id": "mn70:9.8",
+      "pali": "‘idhekaccassa evarūpaṁ dukkhaṁ vedanaṁ vedayato akusalā dhammā parihāyanti kusalā dhammā abhivaḍḍhantī’ti, tasmāhaṁ ‘evarūpaṁ dukkhaṁ vedanaṁ upasampajja viharathā’ti vadāmi."
+    },
+    {
+      "id": "mn70:10.1",
+      "pali": "Mayā cetaṁ, bhikkhave, aññātaṁ abhavissa adiṭṭhaṁ aviditaṁ asacchikataṁ aphassitaṁ paññāya:"
+    },
+    {
+      "id": "mn70:10.2",
+      "pali": "‘idhekaccassa evarūpaṁ adukkhamasukhaṁ vedanaṁ vedayato akusalā dhammā abhivaḍḍhanti kusalā dhammā parihāyantī’ti, evāhaṁ ajānanto ‘evarūpaṁ adukkhamasukhaṁ vedanaṁ pajahathā’ti vadeyyaṁ;"
+    },
+    {
+      "id": "mn70:10.3",
+      "pali": "api nu me etaṁ, bhikkhave, patirūpaṁ abhavissā”ti?"
+    },
+    {
+      "id": "mn70:10.4",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn70:10.5",
+      "pali": "“Yasmā ca kho etaṁ, bhikkhave, mayā ñātaṁ diṭṭhaṁ viditaṁ sacchikataṁ phassitaṁ paññāya:"
+    },
+    {
+      "id": "mn70:10.6",
+      "pali": "‘idhekaccassa evarūpaṁ adukkhamasukhaṁ vedanaṁ vedayato akusalā dhammā abhivaḍḍhanti kusalā dhammā parihāyantī’ti, tasmāhaṁ ‘evarūpaṁ adukkhamasukhaṁ vedanaṁ pajahathā’ti vadāmi."
+    },
+    {
+      "id": "mn70:10.7",
+      "pali": "Mayā cetaṁ, bhikkhave, aññātaṁ abhavissa adiṭṭhaṁ aviditaṁ asacchikataṁ aphassitaṁ paññāya:"
+    },
+    {
+      "id": "mn70:10.8",
+      "pali": "‘idhekaccassa evarūpaṁ adukkhamasukhaṁ vedanaṁ vedayato akusalā dhammā parihāyanti kusalā dhammā abhivaḍḍhantī’ti, evāhaṁ ajānanto ‘evarūpaṁ adukkhamasukhaṁ vedanaṁ upasampajja viharathā’ti vadeyyaṁ;"
+    },
+    {
+      "id": "mn70:10.9",
+      "pali": "api nu me etaṁ, bhikkhave, patirūpaṁ abhavissā”ti?"
+    },
+    {
+      "id": "mn70:10.10",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn70:11.1",
+      "pali": "“Yasmā ca kho etaṁ, bhikkhave, mayā ñātaṁ diṭṭhaṁ viditaṁ sacchikataṁ phassitaṁ paññāya:"
+    },
+    {
+      "id": "mn70:11.2",
+      "pali": "‘idhekaccassa evarūpaṁ adukkhamasukhaṁ vedanaṁ vedayato akusalā dhammā parihāyanti kusalā dhammā abhivaḍḍhantī’ti, tasmāhaṁ ‘evarūpaṁ adukkhamasukhaṁ vedanaṁ upasampajja viharathā’ti vadāmi."
+    },
+    {
+      "id": "mn70:12.1",
+      "pali": "Nāhaṁ, bhikkhave, sabbesaṁyeva bhikkhūnaṁ ‘appamādena karaṇīyan’ti vadāmi;"
+    },
+    {
+      "id": "mn70:12.2",
+      "pali": "na panāhaṁ, bhikkhave, sabbesaṁyeva bhikkhūnaṁ ‘na appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:12.3",
+      "pali": "Ye te, bhikkhave, bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṁyojanā sammadaññāvimuttā, tathārūpānāhaṁ, bhikkhave, bhikkhūnaṁ ‘na appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:12.4",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn70:12.5",
+      "pali": "Kataṁ tesaṁ appamādena."
+    },
+    {
+      "id": "mn70:12.6",
+      "pali": "Abhabbā te pamajjituṁ."
+    },
+    {
+      "id": "mn70:13.1",
+      "pali": "Ye ca kho te, bhikkhave, bhikkhū sekkhā appattamānasā anuttaraṁ yogakkhemaṁ patthayamānā viharanti, tathārūpānāhaṁ, bhikkhave, bhikkhūnaṁ ‘appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:13.2",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn70:13.3",
+      "pali": "Appeva nāmime āyasmanto anulomikāni senāsanāni paṭisevamānā kalyāṇamitte bhajamānā indriyāni samannānayamānā—"
+    },
+    {
+      "id": "mn70:13.4",
+      "pali": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyyunti."
+    },
+    {
+      "id": "mn70:13.5",
+      "pali": "Imaṁ kho ahaṁ, bhikkhave, imesaṁ bhikkhūnaṁ appamādaphalaṁ sampassamāno ‘appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:14.1",
+      "pali": "Sattime, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ."
+    },
+    {
+      "id": "mn70:14.2",
+      "pali": "Katame satta?"
+    },
+    {
+      "id": "mn70:14.3",
+      "pali": "Ubhatobhāgavimutto, paññāvimutto, kāyasakkhi, diṭṭhippatto, saddhāvimutto, dhammānusārī, saddhānusārī."
+    },
+    {
+      "id": "mn70:15.1",
+      "pali": "Katamo ca, bhikkhave, puggalo ubhatobhāgavimutto?"
+    },
+    {
+      "id": "mn70:15.2",
+      "pali": "Idha, bhikkhave, ekacco puggalo ye te santā vimokkhā atikkamma rūpe āruppā te kāyena phusitvā viharati paññāya cassa disvā āsavā parikkhīṇā honti."
+    },
+    {
+      "id": "mn70:15.3",
+      "pali": "Ayaṁ vuccati, bhikkhave, puggalo ubhatobhāgavimutto"
+    },
+    {
+      "id": "mn70:15.4",
+      "pali": "imassa kho ahaṁ, bhikkhave, bhikkhuno ‘na appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:15.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn70:15.6",
+      "pali": "Kataṁ tassa appamādena."
+    },
+    {
+      "id": "mn70:15.7",
+      "pali": "Abhabbo so pamajjituṁ."
+    },
+    {
+      "id": "mn70:16.1",
+      "pali": "Katamo ca, bhikkhave, puggalo paññāvimutto?"
+    },
+    {
+      "id": "mn70:16.2",
+      "pali": "Idha, bhikkhave, ekacco puggalo ye te santā vimokkhā atikkamma rūpe āruppā te na kāyena phusitvā viharati, paññāya cassa disvā āsavā parikkhīṇā honti."
+    },
+    {
+      "id": "mn70:16.3",
+      "pali": "Ayaṁ vuccati, bhikkhave, puggalo paññāvimutto."
+    },
+    {
+      "id": "mn70:16.4",
+      "pali": "Imassapi kho ahaṁ, bhikkhave, bhikkhuno ‘na appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:16.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn70:16.6",
+      "pali": "Kataṁ tassa appamādena."
+    },
+    {
+      "id": "mn70:16.7",
+      "pali": "Abhabbo so pamajjituṁ."
+    },
+    {
+      "id": "mn70:17.1",
+      "pali": "Katamo ca, bhikkhave, puggalo kāyasakkhi?"
+    },
+    {
+      "id": "mn70:17.2",
+      "pali": "Idha, bhikkhave, ekacco puggalo ye te santā vimokkhā atikkamma rūpe āruppā te kāyena phusitvā viharati, paññāya cassa disvā ekacce āsavā parikkhīṇā honti."
+    },
+    {
+      "id": "mn70:17.3",
+      "pali": "Ayaṁ vuccati, bhikkhave, puggalo kāyasakkhi."
+    },
+    {
+      "id": "mn70:17.4",
+      "pali": "Imassa kho ahaṁ, bhikkhave, bhikkhuno ‘appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:17.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn70:17.6",
+      "pali": "Appeva nāma ayamāyasmā anulomikāni senāsanāni paṭisevamāno kalyāṇamitte bhajamāno indriyāni samannānayamāno—"
+    },
+    {
+      "id": "mn70:17.7",
+      "pali": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyyāti."
+    },
+    {
+      "id": "mn70:17.8",
+      "pali": "Imaṁ kho ahaṁ, bhikkhave, imassa bhikkhuno appamādaphalaṁ sampassamāno ‘appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:18.1",
+      "pali": "Katamo ca, bhikkhave, puggalo diṭṭhippatto?"
+    },
+    {
+      "id": "mn70:18.2",
+      "pali": "Idha, bhikkhave, ekacco puggalo ye te santā vimokkhā atikkamma rūpe āruppā te na kāyena phusitvā viharati, paññāya cassa disvā ekacce āsavā parikkhīṇā honti, tathāgatappaveditā cassa dhammā paññāya vodiṭṭhā honti vocaritā."
+    },
+    {
+      "id": "mn70:18.3",
+      "pali": "Ayaṁ vuccati, bhikkhave, puggalo diṭṭhippatto."
+    },
+    {
+      "id": "mn70:18.4",
+      "pali": "Imassapi kho ahaṁ, bhikkhave, bhikkhuno ‘appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:18.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn70:18.6",
+      "pali": "Appeva nāma ayamāyasmā anulomikāni senāsanāni paṭisevamāno kalyāṇamitte bhajamāno indriyāni samannānayamāno—"
+    },
+    {
+      "id": "mn70:18.7",
+      "pali": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyyāti."
+    },
+    {
+      "id": "mn70:18.8",
+      "pali": "Imaṁ kho ahaṁ, bhikkhave, imassa bhikkhuno appamādaphalaṁ sampassamāno ‘appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:19.1",
+      "pali": "Katamo ca, bhikkhave, puggalo saddhāvimutto."
+    },
+    {
+      "id": "mn70:19.2",
+      "pali": "Idha, bhikkhave, ekacco puggalo ye te santā vimokkhā atikkamma rūpe āruppā te na kāyena phusitvā viharati, paññāya cassa disvā ekacce āsavā parikkhīṇā honti, tathāgate cassa saddhā niviṭṭhā hoti mūlajātā patiṭṭhitā."
+    },
+    {
+      "id": "mn70:19.3",
+      "pali": "Ayaṁ vuccati, bhikkhave, puggalo saddhāvimutto."
+    },
+    {
+      "id": "mn70:19.4",
+      "pali": "Imassapi kho ahaṁ, bhikkhave, bhikkhuno ‘appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:19.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn70:19.6",
+      "pali": "Appeva nāma ayamāyasmā anulomikāni senāsanāni paṭisevamāno kalyāṇamitte bhajamāno indriyāni samannānayamāno—"
+    },
+    {
+      "id": "mn70:19.7",
+      "pali": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyyāti."
+    },
+    {
+      "id": "mn70:19.8",
+      "pali": "Imaṁ kho ahaṁ, bhikkhave, imassa bhikkhuno appamādaphalaṁ sampassamāno ‘appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:20.1",
+      "pali": "Katamo ca, bhikkhave, puggalo dhammānusārī?"
+    },
+    {
+      "id": "mn70:20.2",
+      "pali": "Idha, bhikkhave, ekacco puggalo ye te santā vimokkhā atikkamma rūpe āruppā te na kāyena phusitvā viharati, paññāya cassa disvā ekacce āsavā parikkhīṇā honti, tathāgatappaveditā cassa dhammā paññāya mattaso nijjhānaṁ khamanti, api cassa ime dhammā honti, seyyathidaṁ—"
+    },
+    {
+      "id": "mn70:20.3",
+      "pali": "saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ, paññindriyaṁ."
+    },
+    {
+      "id": "mn70:20.4",
+      "pali": "Ayaṁ vuccati, bhikkhave, puggalo dhammānusārī."
+    },
+    {
+      "id": "mn70:20.5",
+      "pali": "Imassapi kho ahaṁ, bhikkhave, bhikkhuno ‘appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:20.6",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn70:20.7",
+      "pali": "Appeva nāma ayamāyasmā anulomikāni senāsanāni paṭisevamāno kalyāṇamitte bhajamāno indriyāni samannānayamāno—"
+    },
+    {
+      "id": "mn70:20.8",
+      "pali": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyyāti."
+    },
+    {
+      "id": "mn70:20.9",
+      "pali": "Imaṁ kho ahaṁ, bhikkhave, imassa bhikkhuno appamādaphalaṁ sampassamāno ‘appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:21.1",
+      "pali": "Katamo ca, bhikkhave, puggalo saddhānusārī?"
+    },
+    {
+      "id": "mn70:21.2",
+      "pali": "Idha, bhikkhave, ekacco puggalo ye te santā vimokkhā atikkamma rūpe āruppā te na kāyena phusitvā viharati, paññāya cassa disvā ekacce āsavā parikkhīṇā honti, tathāgate cassa saddhāmattaṁ hoti pemamattaṁ, api cassa ime dhammā honti, seyyathidaṁ—"
+    },
+    {
+      "id": "mn70:21.3",
+      "pali": "saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ, paññindriyaṁ."
+    },
+    {
+      "id": "mn70:21.4",
+      "pali": "Ayaṁ vuccati, bhikkhave, puggalo saddhānusārī."
+    },
+    {
+      "id": "mn70:21.5",
+      "pali": "Imassapi kho ahaṁ, bhikkhave, bhikkhuno ‘appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:21.6",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn70:21.7",
+      "pali": "Appeva nāma ayamāyasmā anulomikāni senāsanāni paṭisevamāno kalyāṇamitte bhajamāno indriyāni samannānayamāno—"
+    },
+    {
+      "id": "mn70:21.8",
+      "pali": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyyāti."
+    },
+    {
+      "id": "mn70:21.9",
+      "pali": "Imaṁ kho ahaṁ, bhikkhave, imassa bhikkhuno appamādaphalaṁ sampassamāno ‘appamādena karaṇīyan’ti vadāmi."
+    },
+    {
+      "id": "mn70:22.1",
+      "pali": "Nāhaṁ, bhikkhave, ādikeneva aññārādhanaṁ vadāmi;"
+    },
+    {
+      "id": "mn70:22.2",
+      "pali": "api ca, bhikkhave, anupubbasikkhā anupubbakiriyā anupubbapaṭipadā aññārādhanā hoti."
+    },
+    {
+      "id": "mn70:23.1",
+      "pali": "Kathañca, bhikkhave, anupubbasikkhā anupubbakiriyā anupubbapaṭipadā aññārādhanā hoti?"
+    },
+    {
+      "id": "mn70:23.2",
+      "pali": "Idha, bhikkhave, saddhājāto upasaṅkamati, upasaṅkamanto payirupāsati, payirupāsanto sotaṁ odahati, ohitasoto dhammaṁ suṇāti, sutvā dhammaṁ dhāreti, dhatānaṁ dhammānaṁ atthaṁ upaparikkhati, atthaṁ upaparikkhato dhammā nijjhānaṁ khamanti, dhammanijjhānakkhantiyā sati chando jāyati, chandajāto ussahati, ussāhetvā tuleti, tulayitvā padahati, pahitatto samāno kāyena ceva paramasaccaṁ sacchikaroti, paññāya ca naṁ ativijjha passati."
+    },
+    {
+      "id": "mn70:24.1",
+      "pali": "Sāpi nāma, bhikkhave, saddhā nāhosi;"
+    },
+    {
+      "id": "mn70:24.2",
+      "pali": "tampi nāma, bhikkhave, upasaṅkamanaṁ nāhosi;"
+    },
+    {
+      "id": "mn70:24.3",
+      "pali": "sāpi nāma, bhikkhave, payirupāsanā nāhosi;"
+    },
+    {
+      "id": "mn70:24.4",
+      "pali": "tampi nāma, bhikkhave, sotāvadhānaṁ nāhosi;"
+    },
+    {
+      "id": "mn70:24.5",
+      "pali": "tampi nāma, bhikkhave, dhammassavanaṁ nāhosi;"
+    },
+    {
+      "id": "mn70:24.6",
+      "pali": "sāpi nāma, bhikkhave, dhammadhāraṇā nāhosi;"
+    },
+    {
+      "id": "mn70:24.7",
+      "pali": "sāpi nāma, bhikkhave, atthūpaparikkhā nāhosi;"
+    },
+    {
+      "id": "mn70:24.8",
+      "pali": "sāpi nāma, bhikkhave, dhammanijjhānakkhanti nāhosi;"
+    },
+    {
+      "id": "mn70:24.9",
+      "pali": "sopi nāma, bhikkhave, chando nāhosi;"
+    },
+    {
+      "id": "mn70:24.10",
+      "pali": "sopi nāma, bhikkhave, ussāho nāhosi;"
+    },
+    {
+      "id": "mn70:24.11",
+      "pali": "sāpi nāma, bhikkhave, tulanā nāhosi;"
+    },
+    {
+      "id": "mn70:24.12",
+      "pali": "tampi nāma, bhikkhave, padhānaṁ nāhosi."
+    },
+    {
+      "id": "mn70:24.13",
+      "pali": "Vippaṭipannāttha, bhikkhave, micchāpaṭipannāttha, bhikkhave."
+    },
+    {
+      "id": "mn70:24.14",
+      "pali": "Kīva dūrevime, bhikkhave, moghapurisā apakkantā imamhā dhammavinayā."
+    },
+    {
+      "id": "mn70:25.1",
+      "pali": "Atthi, bhikkhave, catuppadaṁ veyyākaraṇaṁ yassuddiṭṭhassa viññū puriso nacirasseva paññāyatthaṁ ājāneyya."
+    },
+    {
+      "id": "mn70:25.2",
+      "pali": "Uddisissāmi vo, bhikkhave, ājānissatha me tan”ti?"
+    },
+    {
+      "id": "mn70:25.3",
+      "pali": "“Ke ca mayaṁ, bhante, ke ca dhammassa aññātāro”ti?"
+    },
+    {
+      "id": "mn70:26.1",
+      "pali": "“Yopi so, bhikkhave, satthā āmisagaru āmisadāyādo āmisehi saṁsaṭṭho viharati tassa pāyaṁ evarūpī paṇopaṇaviyā na upeti:"
+    },
+    {
+      "id": "mn70:26.2",
+      "pali": "‘evañca no assa atha naṁ kareyyāma, na ca no evamassa na naṁ kareyyāmā’ti, kiṁ pana, bhikkhave, yaṁ tathāgato sabbaso āmisehi visaṁsaṭṭho viharati."
+    },
+    {
+      "id": "mn70:27.1",
+      "pali": "Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato ayamanudhammo hoti:"
+    },
+    {
+      "id": "mn70:27.2",
+      "pali": "‘satthā bhagavā, sāvakohamasmi;"
+    },
+    {
+      "id": "mn70:27.3",
+      "pali": "jānāti bhagavā, nāhaṁ jānāmī’ti."
+    },
+    {
+      "id": "mn70:27.4",
+      "pali": "Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato ruḷhanīyaṁ satthusāsanaṁ hoti ojavantaṁ."
+    },
+    {
+      "id": "mn70:27.5",
+      "pali": "Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato ayamanudhammo hoti:"
+    },
+    {
+      "id": "mn70:27.6",
+      "pali": "‘kāmaṁ taco ca nhāru ca aṭṭhi ca avasissatu, sarīre upassussatu maṁsalohitaṁ, yaṁ taṁ purisathāmena purisavīriyena purisaparakkamena pattabbaṁ na taṁ apāpuṇitvā vīriyassa saṇṭhānaṁ bhavissatī’ti."
+    },
+    {
+      "id": "mn70:27.7",
+      "pali": "Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—"
+    },
+    {
+      "id": "mn70:27.8",
+      "pali": "diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti."
+    },
+    {
+      "id": "mn70:27.9",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn70:27.10",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn70:27.11",
+      "pali": "Kīṭāgirisuttaṁ niṭṭhitaṁ dasamaṁ."
+    },
+    {
+      "id": "mn70:27.12",
+      "pali": "Bhikkhuvaggo niṭṭhito dutiyo."
+    },
+    {
+      "id": "mn70:28.1",
+      "pali": "Kuñjara rāhula sassataloko,"
+    },
+    {
+      "id": "mn70:28.2",
+      "pali": "Mālukyaputto ca bhaddāli nāmo;"
+    },
+    {
+      "id": "mn70:28.3",
+      "pali": "Khudda dijātha sahampatiyācaṁ,"
+    },
+    {
+      "id": "mn70:28.4",
+      "pali": "Nāḷaka raññikiṭāgirināmo."
+    }
+  ]
+}

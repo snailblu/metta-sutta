@@ -1,0 +1,835 @@
+{
+  "uid": "ja495",
+  "title": "Sālikedāravagga",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "ja495:1.1",
+      "pali": "Rājā avoca vidhuraṁ,"
+    },
+    {
+      "id": "ja495:1.2",
+      "pali": "Dhammakāmo yudhiṭṭhilo;"
+    },
+    {
+      "id": "ja495:1.3",
+      "pali": "“Brāhmaṇe vidhura pariyesa,"
+    },
+    {
+      "id": "ja495:1.4",
+      "pali": "Sīlavante bahussute."
+    },
+    {
+      "id": "ja495:2.1",
+      "pali": "Virate methunā dhammā,"
+    },
+    {
+      "id": "ja495:2.2",
+      "pali": "Ye me bhuñjeyyu bhojanaṁ;"
+    },
+    {
+      "id": "ja495:2.3",
+      "pali": "Dakkhiṇaṁ samma dassāma,"
+    },
+    {
+      "id": "ja495:2.4",
+      "pali": "Yattha dinnaṁ mahapphalaṁ”."
+    },
+    {
+      "id": "ja495:3.1",
+      "pali": "“Dullabhā brāhmaṇā deva,"
+    },
+    {
+      "id": "ja495:3.2",
+      "pali": "sīlavanto bahussutā;"
+    },
+    {
+      "id": "ja495:3.3",
+      "pali": "Viratā methunā dhammā,"
+    },
+    {
+      "id": "ja495:3.4",
+      "pali": "ye te bhuñjeyyu bhojanaṁ."
+    },
+    {
+      "id": "ja495:4.1",
+      "pali": "Dasa khalu mahārāja,"
+    },
+    {
+      "id": "ja495:4.2",
+      "pali": "yā tā brāhmaṇajātiyo;"
+    },
+    {
+      "id": "ja495:4.3",
+      "pali": "Tesaṁ vibhaṅgaṁ vicayaṁ,"
+    },
+    {
+      "id": "ja495:4.4",
+      "pali": "vitthārena suṇohi me."
+    },
+    {
+      "id": "ja495:5.1",
+      "pali": "Pasibbake gahetvāna,"
+    },
+    {
+      "id": "ja495:5.2",
+      "pali": "puṇṇe mūlassa saṁvute;"
+    },
+    {
+      "id": "ja495:5.3",
+      "pali": "Osadhikāyo ganthenti,"
+    },
+    {
+      "id": "ja495:5.4",
+      "pali": "nhāpayanti japanti ca."
+    },
+    {
+      "id": "ja495:6.1",
+      "pali": "Tikicchakasamā rāja,"
+    },
+    {
+      "id": "ja495:6.2",
+      "pali": "tepi vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:6.3",
+      "pali": "Akkhātā te mahārāja,"
+    },
+    {
+      "id": "ja495:6.4",
+      "pali": "tādise nipatāmase”."
+    },
+    {
+      "id": "ja495:7.1",
+      "pali": "“Apetā te ca brahmaññā,"
+    },
+    {
+      "id": "ja495:7.2",
+      "pali": "(iti rājā korabyo)"
+    },
+    {
+      "id": "ja495:7.3",
+      "pali": "Na te vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:7.4",
+      "pali": "Aññe vidhura pariyesa,"
+    },
+    {
+      "id": "ja495:7.5",
+      "pali": "Sīlavante bahussute."
+    },
+    {
+      "id": "ja495:8.1",
+      "pali": "Virate methunā dhammā,"
+    },
+    {
+      "id": "ja495:8.2",
+      "pali": "Ye me bhuñjeyyu bhojanaṁ;"
+    },
+    {
+      "id": "ja495:8.3",
+      "pali": "Dakkhiṇaṁ samma dassāma,"
+    },
+    {
+      "id": "ja495:8.4",
+      "pali": "Yattha dinnaṁ mahapphalaṁ”."
+    },
+    {
+      "id": "ja495:9.1",
+      "pali": "“Kiṅkiṇikāyo gahetvā,"
+    },
+    {
+      "id": "ja495:9.2",
+      "pali": "ghosenti puratopi te;"
+    },
+    {
+      "id": "ja495:9.3",
+      "pali": "Pesanānipi gacchanti,"
+    },
+    {
+      "id": "ja495:9.4",
+      "pali": "rathacariyāsu sikkhare."
+    },
+    {
+      "id": "ja495:10.1",
+      "pali": "Paricārakasamā rāja,"
+    },
+    {
+      "id": "ja495:10.2",
+      "pali": "tepi vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:10.3",
+      "pali": "Akkhātā te mahārāja,"
+    },
+    {
+      "id": "ja495:10.4",
+      "pali": "tādise nipatāmase”."
+    },
+    {
+      "id": "ja495:11.1",
+      "pali": "“Apetā te ca brahmaññā,"
+    },
+    {
+      "id": "ja495:11.2",
+      "pali": "(iti rājā korabyo)"
+    },
+    {
+      "id": "ja495:11.3",
+      "pali": "Na te vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:11.4",
+      "pali": "Aññe vidhura pariyesa,"
+    },
+    {
+      "id": "ja495:11.5",
+      "pali": "Sīlavante bahussute."
+    },
+    {
+      "id": "ja495:12.1",
+      "pali": "Virate methunā dhammā,"
+    },
+    {
+      "id": "ja495:12.2",
+      "pali": "ye me bhuñjeyyu bhojanaṁ;"
+    },
+    {
+      "id": "ja495:12.3",
+      "pali": "Dakkhiṇaṁ samma dassāma,"
+    },
+    {
+      "id": "ja495:12.4",
+      "pali": "yattha dinnaṁ mahapphalaṁ”."
+    },
+    {
+      "id": "ja495:13.1",
+      "pali": "“Kamaṇḍaluṁ gahetvāna,"
+    },
+    {
+      "id": "ja495:13.2",
+      "pali": "vaṅkadaṇḍañca brāhmaṇā;"
+    },
+    {
+      "id": "ja495:13.3",
+      "pali": "Paccupessanti rājāno,"
+    },
+    {
+      "id": "ja495:13.4",
+      "pali": "gāmesu nigamesu ca;"
+    },
+    {
+      "id": "ja495:13.5",
+      "pali": "Nādinne vuṭṭhahissāma,"
+    },
+    {
+      "id": "ja495:13.6",
+      "pali": "gāmamhi vā vanamhi vā."
+    },
+    {
+      "id": "ja495:14.1",
+      "pali": "Niggāhakasamā rāja,"
+    },
+    {
+      "id": "ja495:14.2",
+      "pali": "tepi vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:14.3",
+      "pali": "Akkhātā te mahārāja,"
+    },
+    {
+      "id": "ja495:14.4",
+      "pali": "tādise nipatāmase”."
+    },
+    {
+      "id": "ja495:15.1",
+      "pali": "“Apetā te ca brahmaññā,"
+    },
+    {
+      "id": "ja495:15.2",
+      "pali": "(iti rājā korabyo)"
+    },
+    {
+      "id": "ja495:15.3",
+      "pali": "Na te vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:15.4",
+      "pali": "Aññe vidhura pariyesa,"
+    },
+    {
+      "id": "ja495:15.5",
+      "pali": "Sīlavante bahussute."
+    },
+    {
+      "id": "ja495:16.1",
+      "pali": "Virate methunā dhammā,"
+    },
+    {
+      "id": "ja495:16.2",
+      "pali": "ye me bhuñjeyyu bhojanaṁ;"
+    },
+    {
+      "id": "ja495:16.3",
+      "pali": "Dakkhiṇaṁ samma dassāma,"
+    },
+    {
+      "id": "ja495:16.4",
+      "pali": "yattha dinnaṁ mahapphalaṁ”."
+    },
+    {
+      "id": "ja495:17.1",
+      "pali": "“Parūḷhakacchanakhalomā,"
+    },
+    {
+      "id": "ja495:17.2",
+      "pali": "paṅkadantā rajassirā;"
+    },
+    {
+      "id": "ja495:17.3",
+      "pali": "Okiṇṇā rajareṇūhi,"
+    },
+    {
+      "id": "ja495:17.4",
+      "pali": "yācakā vicaranti te."
+    },
+    {
+      "id": "ja495:18.1",
+      "pali": "Khāṇughātasamā rāja,"
+    },
+    {
+      "id": "ja495:18.2",
+      "pali": "tepi vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:18.3",
+      "pali": "Akkhātā te mahārāja,"
+    },
+    {
+      "id": "ja495:18.4",
+      "pali": "tādise nipatāmase”."
+    },
+    {
+      "id": "ja495:19.1",
+      "pali": "“Apetā te ca brahmaññā,"
+    },
+    {
+      "id": "ja495:19.2",
+      "pali": "(iti rājā korabyo)"
+    },
+    {
+      "id": "ja495:19.3",
+      "pali": "Na te vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:19.4",
+      "pali": "Aññe vidhura pariyesa,"
+    },
+    {
+      "id": "ja495:19.5",
+      "pali": "Sīlavante bahussute."
+    },
+    {
+      "id": "ja495:20.1",
+      "pali": "Virate methunā dhammā,"
+    },
+    {
+      "id": "ja495:20.2",
+      "pali": "ye me bhuñjeyyu bhojanaṁ;"
+    },
+    {
+      "id": "ja495:20.3",
+      "pali": "Dakkhiṇaṁ samma dassāma,"
+    },
+    {
+      "id": "ja495:20.4",
+      "pali": "yattha dinnaṁ mahapphalaṁ”."
+    },
+    {
+      "id": "ja495:21.1",
+      "pali": "“Harītakaṁ āmalakaṁ,"
+    },
+    {
+      "id": "ja495:21.2",
+      "pali": "Ambaṁ jambuṁ vibhītakaṁ;"
+    },
+    {
+      "id": "ja495:21.3",
+      "pali": "Labujaṁ dantapoṇāni,"
+    },
+    {
+      "id": "ja495:21.4",
+      "pali": "Beluvā badarāni ca."
+    },
+    {
+      "id": "ja495:22.1",
+      "pali": "Rājāyatanaṁ ucchupuṭaṁ,"
+    },
+    {
+      "id": "ja495:22.2",
+      "pali": "dhūmanettaṁ madhuañjanaṁ;"
+    },
+    {
+      "id": "ja495:22.3",
+      "pali": "Uccāvacāni paṇiyāni,"
+    },
+    {
+      "id": "ja495:22.4",
+      "pali": "vipaṇenti janādhipa."
+    },
+    {
+      "id": "ja495:23.1",
+      "pali": "Vāṇijakasamā rāja,"
+    },
+    {
+      "id": "ja495:23.2",
+      "pali": "tepi vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:23.3",
+      "pali": "Akkhātā te mahārāja,"
+    },
+    {
+      "id": "ja495:23.4",
+      "pali": "tādise nipatāmase”."
+    },
+    {
+      "id": "ja495:24.1",
+      "pali": "“Apetā te ca brahmaññā,"
+    },
+    {
+      "id": "ja495:24.2",
+      "pali": "(iti rājā korabyo)"
+    },
+    {
+      "id": "ja495:24.3",
+      "pali": "Na te vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:24.4",
+      "pali": "Aññe vidhura pariyesa,"
+    },
+    {
+      "id": "ja495:24.5",
+      "pali": "Sīlavante bahussute."
+    },
+    {
+      "id": "ja495:25.1",
+      "pali": "Virate methunā dhammā,"
+    },
+    {
+      "id": "ja495:25.2",
+      "pali": "ye me bhuñjeyyu bhojanaṁ;"
+    },
+    {
+      "id": "ja495:25.3",
+      "pali": "Dakkhiṇaṁ samma dassāma,"
+    },
+    {
+      "id": "ja495:25.4",
+      "pali": "yattha dinnaṁ mahapphalaṁ”."
+    },
+    {
+      "id": "ja495:26.1",
+      "pali": "“Kasivāṇijjaṁ kārenti,"
+    },
+    {
+      "id": "ja495:26.2",
+      "pali": "posayanti ajeḷake;"
+    },
+    {
+      "id": "ja495:26.3",
+      "pali": "Kumāriyo pavecchanti,"
+    },
+    {
+      "id": "ja495:26.4",
+      "pali": "vivāhantāvahanti ca."
+    },
+    {
+      "id": "ja495:27.1",
+      "pali": "Samā ambaṭṭhavessehi,"
+    },
+    {
+      "id": "ja495:27.2",
+      "pali": "tepi vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:27.3",
+      "pali": "Akkhātā te mahārāja,"
+    },
+    {
+      "id": "ja495:27.4",
+      "pali": "tādise nipatāmase”."
+    },
+    {
+      "id": "ja495:28.1",
+      "pali": "“Apetā te ca brahmaññā,"
+    },
+    {
+      "id": "ja495:28.2",
+      "pali": "(iti rājā korabyo)"
+    },
+    {
+      "id": "ja495:28.3",
+      "pali": "Na te vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:28.4",
+      "pali": "Aññe vidhura pariyesa,"
+    },
+    {
+      "id": "ja495:28.5",
+      "pali": "Sīlavante bahussute."
+    },
+    {
+      "id": "ja495:29.1",
+      "pali": "Virate methunā dhammā,"
+    },
+    {
+      "id": "ja495:29.2",
+      "pali": "ye me bhuñjeyyu bhojanaṁ;"
+    },
+    {
+      "id": "ja495:29.3",
+      "pali": "Dakkhiṇaṁ samma dassāma,"
+    },
+    {
+      "id": "ja495:29.4",
+      "pali": "yattha dinnaṁ mahapphalaṁ”."
+    },
+    {
+      "id": "ja495:30.1",
+      "pali": "“Nikkhittabhikkhaṁ bhuñjanti,"
+    },
+    {
+      "id": "ja495:30.2",
+      "pali": "gāmesveke purohitā;"
+    },
+    {
+      "id": "ja495:30.3",
+      "pali": "Bahū te paripucchanti,"
+    },
+    {
+      "id": "ja495:30.4",
+      "pali": "aṇḍacchedā nilañchakā."
+    },
+    {
+      "id": "ja495:31.1",
+      "pali": "Pasūpi tattha haññanti,"
+    },
+    {
+      "id": "ja495:31.2",
+      "pali": "mahiṁsā sūkarā ajā;"
+    },
+    {
+      "id": "ja495:31.3",
+      "pali": "Goghātakasamā rāja,"
+    },
+    {
+      "id": "ja495:31.4",
+      "pali": "tepi vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:31.5",
+      "pali": "Akkhātā te mahārāja,"
+    },
+    {
+      "id": "ja495:31.6",
+      "pali": "tādise nipatāmase”."
+    },
+    {
+      "id": "ja495:32.1",
+      "pali": "“Apetā te ca brahmaññā,"
+    },
+    {
+      "id": "ja495:32.2",
+      "pali": "(iti rājā korabyo)"
+    },
+    {
+      "id": "ja495:32.3",
+      "pali": "Na te vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:32.4",
+      "pali": "Aññe vidhura pariyesa,"
+    },
+    {
+      "id": "ja495:32.5",
+      "pali": "Sīlavante bahussute."
+    },
+    {
+      "id": "ja495:33.1",
+      "pali": "Virate methunā dhammā,"
+    },
+    {
+      "id": "ja495:33.2",
+      "pali": "ye me bhuñjeyyu bhojanaṁ;"
+    },
+    {
+      "id": "ja495:33.3",
+      "pali": "Dakkhiṇaṁ samma dassāma,"
+    },
+    {
+      "id": "ja495:33.4",
+      "pali": "yattha dinnaṁ mahapphalaṁ”."
+    },
+    {
+      "id": "ja495:34.1",
+      "pali": "“Asicammaṁ gahetvāna,"
+    },
+    {
+      "id": "ja495:34.2",
+      "pali": "khaggaṁ paggayha brāhmaṇā;"
+    },
+    {
+      "id": "ja495:34.3",
+      "pali": "Vessapathesu tiṭṭhanti,"
+    },
+    {
+      "id": "ja495:34.4",
+      "pali": "satthaṁ abbāhayantipi."
+    },
+    {
+      "id": "ja495:35.1",
+      "pali": "Samā gopanisādehi,"
+    },
+    {
+      "id": "ja495:35.2",
+      "pali": "tepi vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:35.3",
+      "pali": "Akkhātā te mahārāja,"
+    },
+    {
+      "id": "ja495:35.4",
+      "pali": "tādise nipatāmase”."
+    },
+    {
+      "id": "ja495:36.1",
+      "pali": "“Apetā te ca brahmaññā,"
+    },
+    {
+      "id": "ja495:36.2",
+      "pali": "(iti rājā korabyo)"
+    },
+    {
+      "id": "ja495:36.3",
+      "pali": "Na te vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:36.4",
+      "pali": "Aññe vidhura pariyesa,"
+    },
+    {
+      "id": "ja495:36.5",
+      "pali": "Sīlavante bahussute."
+    },
+    {
+      "id": "ja495:37.1",
+      "pali": "Virate methunā dhammā,"
+    },
+    {
+      "id": "ja495:37.2",
+      "pali": "ye me bhuñjeyyu bhojanaṁ;"
+    },
+    {
+      "id": "ja495:37.3",
+      "pali": "Dakkhiṇaṁ samma dassāma,"
+    },
+    {
+      "id": "ja495:37.4",
+      "pali": "yattha dinnaṁ mahapphalaṁ”."
+    },
+    {
+      "id": "ja495:38.1",
+      "pali": "“Araññe kuṭikaṁ katvā,"
+    },
+    {
+      "id": "ja495:38.2",
+      "pali": "kūṭāni kārayanti te;"
+    },
+    {
+      "id": "ja495:38.3",
+      "pali": "Sasabiḷāre bādhenti,"
+    },
+    {
+      "id": "ja495:38.4",
+      "pali": "āgodhā macchakacchapaṁ."
+    },
+    {
+      "id": "ja495:39.1",
+      "pali": "Te luddakasamā rāja,"
+    },
+    {
+      "id": "ja495:39.2",
+      "pali": "tepi vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:39.3",
+      "pali": "Akkhātā te mahārāja,"
+    },
+    {
+      "id": "ja495:39.4",
+      "pali": "tādise nipatāmase”."
+    },
+    {
+      "id": "ja495:40.1",
+      "pali": "“Apetā te ca brahmaññā,"
+    },
+    {
+      "id": "ja495:40.2",
+      "pali": "(iti rājā korabyo)"
+    },
+    {
+      "id": "ja495:40.3",
+      "pali": "Na te vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:40.4",
+      "pali": "Aññe vidhura pariyesa,"
+    },
+    {
+      "id": "ja495:40.5",
+      "pali": "Sīlavante bahussute."
+    },
+    {
+      "id": "ja495:41.1",
+      "pali": "Virate methunā dhammā,"
+    },
+    {
+      "id": "ja495:41.2",
+      "pali": "ye me bhuñjeyyu bhojanaṁ;"
+    },
+    {
+      "id": "ja495:41.3",
+      "pali": "Dakkhiṇaṁ samma dassāma,"
+    },
+    {
+      "id": "ja495:41.4",
+      "pali": "yattha dinnaṁ mahapphalaṁ”."
+    },
+    {
+      "id": "ja495:42.1",
+      "pali": "“Aññe dhanassa kāmā hi,"
+    },
+    {
+      "id": "ja495:42.2",
+      "pali": "heṭṭhāmañce pasakkitā;"
+    },
+    {
+      "id": "ja495:42.3",
+      "pali": "Rājāno upari nhāyanti,"
+    },
+    {
+      "id": "ja495:42.4",
+      "pali": "somayāge upaṭṭhite."
+    },
+    {
+      "id": "ja495:43.1",
+      "pali": "Malamajjakasamā rāja,"
+    },
+    {
+      "id": "ja495:43.2",
+      "pali": "Tepi vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:43.3",
+      "pali": "Akkhātā te mahārāja,"
+    },
+    {
+      "id": "ja495:43.4",
+      "pali": "Tādise nipatāmase”."
+    },
+    {
+      "id": "ja495:44.1",
+      "pali": "“Apetā te ca brahmaññā,"
+    },
+    {
+      "id": "ja495:44.2",
+      "pali": "(iti rājā korabyo)"
+    },
+    {
+      "id": "ja495:44.3",
+      "pali": "Na te vuccanti brāhmaṇā;"
+    },
+    {
+      "id": "ja495:44.4",
+      "pali": "Aññe vidhura pariyesa,"
+    },
+    {
+      "id": "ja495:44.5",
+      "pali": "Sīlavante bahussute."
+    },
+    {
+      "id": "ja495:45.1",
+      "pali": "Virate methunā dhammā,"
+    },
+    {
+      "id": "ja495:45.2",
+      "pali": "ye me bhuñjeyyu bhojanaṁ;"
+    },
+    {
+      "id": "ja495:45.3",
+      "pali": "Dakkhiṇaṁ samma dassāma,"
+    },
+    {
+      "id": "ja495:45.4",
+      "pali": "yattha dinnaṁ mahapphalaṁ”."
+    },
+    {
+      "id": "ja495:46.1",
+      "pali": "“Atthi kho brāhmaṇā deva,"
+    },
+    {
+      "id": "ja495:46.2",
+      "pali": "sīlavanto bahussutā;"
+    },
+    {
+      "id": "ja495:46.3",
+      "pali": "Viratā methunā dhammā,"
+    },
+    {
+      "id": "ja495:46.4",
+      "pali": "ye te bhuñjeyyu bhojanaṁ."
+    },
+    {
+      "id": "ja495:47.1",
+      "pali": "Ekañca bhattaṁ bhuñjanti,"
+    },
+    {
+      "id": "ja495:47.2",
+      "pali": "na ca majjaṁ pivanti te;"
+    },
+    {
+      "id": "ja495:47.3",
+      "pali": "Akkhātā te mahārāja,"
+    },
+    {
+      "id": "ja495:47.4",
+      "pali": "tādise nipatāmase”."
+    },
+    {
+      "id": "ja495:48.1",
+      "pali": "“Ete kho brāhmaṇā vidhura,"
+    },
+    {
+      "id": "ja495:48.2",
+      "pali": "Sīlavanto bahussutā;"
+    },
+    {
+      "id": "ja495:48.3",
+      "pali": "Ete vidhura pariyesa,"
+    },
+    {
+      "id": "ja495:48.4",
+      "pali": "Khippañca ne nimantayā”ti."
+    },
+    {
+      "id": "ja495:49.1",
+      "pali": "Dasabrāhmaṇajātakaṁ dvādasamaṁ."
+    }
+  ]
+}

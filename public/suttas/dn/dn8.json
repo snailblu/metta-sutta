@@ -1,0 +1,979 @@
+{
+  "uid": "dn8",
+  "title": "Mahāsīhanādasutta",
+  "nikaya": "dn",
+  "segments": [
+    {
+      "id": "dn8:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "dn8:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā uruññāyaṁ viharati kaṇṇakatthale migadāye."
+    },
+    {
+      "id": "dn8:1.3",
+      "pali": "Atha kho acelo kassapo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "dn8:1.4",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho acelo kassapo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn8:2.1",
+      "pali": "“sutaṁ metaṁ, bho gotama:"
+    },
+    {
+      "id": "dn8:2.2",
+      "pali": "‘samaṇo gotamo sabbaṁ tapaṁ garahati, sabbaṁ tapassiṁ lūkhājīviṁ ekaṁsena upakkosati upavadatī’ti."
+    },
+    {
+      "id": "dn8:2.3",
+      "pali": "Ye te, bho gotama, evamāhaṁsu: ‘samaṇo gotamo sabbaṁ tapaṁ garahati, sabbaṁ tapassiṁ lūkhājīviṁ ekaṁsena upakkosati upavadatī’ti, kacci te bhoto gotamassa vuttavādino, na ca bhavantaṁ gotamaṁ abhūtena abbhācikkhanti, dhammassa cānudhammaṁ byākaronti, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgacchati?"
+    },
+    {
+      "id": "dn8:2.4",
+      "pali": "Anabbhakkhātukāmā hi mayaṁ bhavantaṁ gotaman”ti."
+    },
+    {
+      "id": "dn8:3.1",
+      "pali": "“Ye te, kassapa, evamāhaṁsu: ‘samaṇo gotamo sabbaṁ tapaṁ garahati, sabbaṁ tapassiṁ lūkhājīviṁ ekaṁsena upakkosati upavadatī’ti, na me te vuttavādino, abbhācikkhanti ca pana maṁ te asatā abhūtena."
+    },
+    {
+      "id": "dn8:3.2",
+      "pali": "Idhāhaṁ, kassapa, ekaccaṁ tapassiṁ lūkhājīviṁ passāmi dibbena cakkhunā visuddhena atikkantamānusakena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapannaṁ."
+    },
+    {
+      "id": "dn8:3.3",
+      "pali": "Idha panāhaṁ, kassapa, ekaccaṁ tapassiṁ lūkhājīviṁ passāmi dibbena cakkhunā visuddhena atikkantamānusakena kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapannaṁ."
+    },
+    {
+      "id": "dn8:3.4",
+      "pali": "Idhāhaṁ, kassapa, ekaccaṁ tapassiṁ appadukkhavihāriṁ passāmi dibbena cakkhunā visuddhena atikkantamānusakena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapannaṁ."
+    },
+    {
+      "id": "dn8:3.5",
+      "pali": "Idha panāhaṁ, kassapa, ekaccaṁ tapassiṁ appadukkhavihāriṁ passāmi dibbena cakkhunā visuddhena atikkantamānusakena kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapannaṁ."
+    },
+    {
+      "id": "dn8:3.6",
+      "pali": "Yohaṁ, kassapa, imesaṁ tapassīnaṁ evaṁ āgatiñca gatiñca cutiñca upapattiñca yathābhūtaṁ pajānāmi, sohaṁ kiṁ sabbaṁ tapaṁ garahissāmi, sabbaṁ vā tapassiṁ lūkhājīviṁ ekaṁsena upakkosissāmi upavadissāmi?"
+    },
+    {
+      "id": "dn8:4.1",
+      "pali": "Santi, kassapa, eke samaṇabrāhmaṇā paṇḍitā nipuṇā kataparappavādā vālavedhirūpā. Te bhindantā maññe caranti paññāgatena diṭṭhigatāni."
+    },
+    {
+      "id": "dn8:4.2",
+      "pali": "Tehipi me saddhiṁ ekaccesu ṭhānesu sameti, ekaccesu ṭhānesu na sameti."
+    },
+    {
+      "id": "dn8:4.3",
+      "pali": "Yaṁ te ekaccaṁ vadanti ‘sādhū’ti, mayampi taṁ ekaccaṁ vadema ‘sādhū’ti."
+    },
+    {
+      "id": "dn8:4.4",
+      "pali": "Yaṁ te ekaccaṁ vadanti ‘na sādhū’ti, mayampi taṁ ekaccaṁ vadema ‘na sādhū’ti."
+    },
+    {
+      "id": "dn8:4.5",
+      "pali": "Yaṁ te ekaccaṁ vadanti ‘sādhū’ti, mayaṁ taṁ ekaccaṁ vadema ‘na sādhū’ti."
+    },
+    {
+      "id": "dn8:4.6",
+      "pali": "Yaṁ te ekaccaṁ vadanti ‘na sādhū’ti, mayaṁ taṁ ekaccaṁ vadema ‘sādhū’ti."
+    },
+    {
+      "id": "dn8:4.7",
+      "pali": "Yaṁ mayaṁ ekaccaṁ vadema ‘sādhū’ti, parepi taṁ ekaccaṁ vadanti ‘sādhū’ti."
+    },
+    {
+      "id": "dn8:4.8",
+      "pali": "Yaṁ mayaṁ ekaccaṁ vadema ‘na sādhū’ti, parepi taṁ ekaccaṁ vadanti ‘na sādhū’ti."
+    },
+    {
+      "id": "dn8:4.9",
+      "pali": "Yaṁ mayaṁ ekaccaṁ vadema ‘na sādhū’ti, pare taṁ ekaccaṁ vadanti ‘sādhū’ti."
+    },
+    {
+      "id": "dn8:4.10",
+      "pali": "Yaṁ mayaṁ ekaccaṁ vadema ‘sādhū’ti, pare taṁ ekaccaṁ vadanti ‘na sādhū’ti."
+    },
+    {
+      "id": "dn8:5.1",
+      "pali": "Tyāhaṁ upasaṅkamitvā evaṁ vadāmi:"
+    },
+    {
+      "id": "dn8:5.2",
+      "pali": "‘yesu no, āvuso, ṭhānesu na sameti, tiṭṭhantu tāni ṭhānāni."
+    },
+    {
+      "id": "dn8:5.3",
+      "pali": "Yesu ṭhānesu sameti, tattha viññū samanuyuñjantaṁ samanugāhantaṁ samanubhāsantaṁ satthārā vā satthāraṁ saṅghena vā saṅghaṁ:"
+    },
+    {
+      "id": "dn8:5.4",
+      "pali": "“ye imesaṁ bhavataṁ dhammā akusalā akusalasaṅkhātā, sāvajjā sāvajjasaṅkhātā, asevitabbā asevitabbasaṅkhātā, na alamariyā na alamariyasaṅkhātā, kaṇhā kaṇhasaṅkhātā."
+    },
+    {
+      "id": "dn8:5.5",
+      "pali": "Ko ime dhamme anavasesaṁ pahāya vattati, samaṇo vā gotamo, pare vā pana bhonto gaṇācariyā”ti?"
+    },
+    {
+      "id": "dn8:6.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, kassapa, vijjati, yaṁ viññū samanuyuñjantā samanugāhantā samanubhāsantā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn8:6.2",
+      "pali": "‘ye imesaṁ bhavataṁ dhammā akusalā akusalasaṅkhātā, sāvajjā sāvajjasaṅkhātā, asevitabbā asevitabbasaṅkhātā, na alamariyā na alamariyasaṅkhātā, kaṇhā kaṇhasaṅkhātā."
+    },
+    {
+      "id": "dn8:6.3",
+      "pali": "Samaṇo gotamo ime dhamme anavasesaṁ pahāya vattati, yaṁ vā pana bhonto pare gaṇācariyā’ti."
+    },
+    {
+      "id": "dn8:6.4",
+      "pali": "Itiha, kassapa, viññū samanuyuñjantā samanugāhantā samanubhāsantā amheva tattha yebhuyyena pasaṁseyyuṁ."
+    },
+    {
+      "id": "dn8:7.1",
+      "pali": "Aparampi no, kassapa, viññū samanuyuñjantaṁ samanugāhantaṁ samanubhāsantaṁ satthārā vā satthāraṁ saṅghena vā saṅghaṁ:"
+    },
+    {
+      "id": "dn8:7.2",
+      "pali": "‘ye imesaṁ bhavataṁ dhammā kusalā kusalasaṅkhātā, anavajjā anavajjasaṅkhātā, sevitabbā sevitabbasaṅkhātā, alamariyā alamariyasaṅkhātā, sukkā sukkasaṅkhātā."
+    },
+    {
+      "id": "dn8:7.3",
+      "pali": "Ko ime dhamme anavasesaṁ samādāya vattati, samaṇo vā gotamo, pare vā pana bhonto gaṇācariyā’ti?"
+    },
+    {
+      "id": "dn8:8.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, kassapa, vijjati, yaṁ viññū samanuyuñjantā samanugāhantā samanubhāsantā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn8:8.2",
+      "pali": "‘ye imesaṁ bhavataṁ dhammā kusalā kusalasaṅkhātā, anavajjā anavajjasaṅkhātā, sevitabbā sevitabbasaṅkhātā, alamariyā alamariyasaṅkhātā, sukkā sukkasaṅkhātā."
+    },
+    {
+      "id": "dn8:8.3",
+      "pali": "Samaṇo gotamo ime dhamme anavasesaṁ samādāya vattati, yaṁ vā pana bhonto pare gaṇācariyā’ti."
+    },
+    {
+      "id": "dn8:8.4",
+      "pali": "Itiha, kassapa, viññū samanuyuñjantā samanugāhantā samanubhāsantā amheva tattha yebhuyyena pasaṁseyyuṁ."
+    },
+    {
+      "id": "dn8:9.1",
+      "pali": "Aparampi no, kassapa, viññū samanuyuñjantaṁ samanugāhantaṁ samanubhāsantaṁ satthārā vā satthāraṁ saṅghena vā saṅghaṁ:"
+    },
+    {
+      "id": "dn8:9.2",
+      "pali": "‘ye imesaṁ bhavataṁ dhammā akusalā akusalasaṅkhātā, sāvajjā sāvajjasaṅkhātā, asevitabbā asevitabbasaṅkhātā, na alamariyā na alamariyasaṅkhātā, kaṇhā kaṇhasaṅkhātā."
+    },
+    {
+      "id": "dn8:9.3",
+      "pali": "Ko ime dhamme anavasesaṁ pahāya vattati, gotamasāvakasaṅgho vā, pare vā pana bhonto gaṇācariyasāvakasaṅghā’ti?"
+    },
+    {
+      "id": "dn8:10.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, kassapa, vijjati, yaṁ viññū samanuyuñjantā samanugāhantā samanubhāsantā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn8:10.2",
+      "pali": "‘ye imesaṁ bhavataṁ dhammā akusalā akusalasaṅkhātā, sāvajjā sāvajjasaṅkhātā, asevitabbā asevitabbasaṅkhātā, na alamariyā na alamariyasaṅkhātā, kaṇhā kaṇhasaṅkhātā."
+    },
+    {
+      "id": "dn8:10.3",
+      "pali": "Gotamasāvakasaṅgho ime dhamme anavasesaṁ pahāya vattati, yaṁ vā pana bhonto pare gaṇācariyasāvakasaṅghā’ti."
+    },
+    {
+      "id": "dn8:10.4",
+      "pali": "Itiha, kassapa, viññū samanuyuñjantā samanugāhantā samanubhāsantā amheva tattha yebhuyyena pasaṁseyyuṁ."
+    },
+    {
+      "id": "dn8:11.1",
+      "pali": "Aparampi no, kassapa, viññū samanuyuñjantaṁ samanugāhantaṁ samanubhāsantaṁ satthārā vā satthāraṁ saṅghena vā saṅghaṁ."
+    },
+    {
+      "id": "dn8:11.2",
+      "pali": "‘Ye imesaṁ bhavataṁ dhammā kusalā kusalasaṅkhātā, anavajjā anavajjasaṅkhātā, sevitabbā sevitabbasaṅkhātā, alamariyā alamariyasaṅkhātā, sukkā sukkasaṅkhātā."
+    },
+    {
+      "id": "dn8:11.3",
+      "pali": "Ko ime dhamme anavasesaṁ samādāya vattati, gotamasāvakasaṅgho vā, pare vā pana bhonto gaṇācariyasāvakasaṅghā’ti?"
+    },
+    {
+      "id": "dn8:12.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, kassapa, vijjati, yaṁ viññū samanuyuñjantā samanugāhantā samanubhāsantā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn8:12.2",
+      "pali": "‘ye imesaṁ bhavataṁ dhammā kusalā kusalasaṅkhātā, anavajjā anavajjasaṅkhātā, sevitabbā sevitabbasaṅkhātā, alamariyā alamariyasaṅkhātā, sukkā sukkasaṅkhātā."
+    },
+    {
+      "id": "dn8:12.3",
+      "pali": "Gotamasāvakasaṅgho ime dhamme anavasesaṁ samādāya vattati, yaṁ vā pana bhonto pare gaṇācariyasāvakasaṅghā’ti."
+    },
+    {
+      "id": "dn8:12.4",
+      "pali": "Itiha, kassapa, viññū samanuyuñjantā samanugāhantā samanubhāsantā amheva tattha yebhuyyena pasaṁseyyuṁ."
+    },
+    {
+      "id": "dn8:13.1",
+      "pali": "Atthi, kassapa, maggo atthi paṭipadā, yathāpaṭipanno sāmaññeva ñassati sāmaṁ dakkhati:"
+    },
+    {
+      "id": "dn8:13.2",
+      "pali": "‘samaṇova gotamo kālavādī bhūtavādī atthavādī dhammavādī vinayavādī’ti."
+    },
+    {
+      "id": "dn8:13.3",
+      "pali": "Katamo ca, kassapa, maggo, katamā ca paṭipadā, yathāpaṭipanno sāmaññeva ñassati sāmaṁ dakkhati:"
+    },
+    {
+      "id": "dn8:13.4",
+      "pali": "‘samaṇova gotamo kālavādī bhūtavādī atthavādī dhammavādī vinayavādī’ti?"
+    },
+    {
+      "id": "dn8:13.5",
+      "pali": "Ayameva ariyo aṭṭhaṅgiko maggo."
+    },
+    {
+      "id": "dn8:13.6",
+      "pali": "Seyyathidaṁ—sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi."
+    },
+    {
+      "id": "dn8:13.7",
+      "pali": "Ayaṁ kho, kassapa, maggo, ayaṁ paṭipadā, yathāpaṭipanno sāmaññeva ñassati sāmaṁ dakkhati ‘samaṇova gotamo kālavādī bhūtavādī atthavādī dhammavādī vinayavādī’”ti."
+    },
+    {
+      "id": "dn8:14.1",
+      "pali": "Evaṁ vutte, acelo kassapo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn8:14.2",
+      "pali": "“imepi kho, āvuso gotama, tapopakkamā etesaṁ samaṇabrāhmaṇānaṁ sāmaññasaṅkhātā ca brahmaññasaṅkhātā ca."
+    },
+    {
+      "id": "dn8:14.3",
+      "pali": "Acelako hoti, muttācāro, hatthāpalekhano, naehibhaddantiko, natiṭṭhabhaddantiko, nābhihaṭaṁ, na uddissakataṁ, na nimantanaṁ sādiyati."
+    },
+    {
+      "id": "dn8:14.4",
+      "pali": "So na kumbhimukhā paṭiggaṇhāti, na kaḷopimukhā paṭiggaṇhāti, na eḷakamantaraṁ, na daṇḍamantaraṁ, na musalamantaraṁ, na dvinnaṁ bhuñjamānānaṁ, na gabbhiniyā, na pāyamānāya, na purisantaragatāya, na saṅkittīsu, na yattha sā upaṭṭhito hoti, na yattha makkhikā saṇḍasaṇḍacārinī, na macchaṁ, na maṁsaṁ, na suraṁ, na merayaṁ, na thusodakaṁ pivati."
+    },
+    {
+      "id": "dn8:14.5",
+      "pali": "So ekāgāriko vā hoti ekālopiko, dvāgāriko vā hoti dvālopiko … sattāgāriko vā hoti sattālopiko;"
+    },
+    {
+      "id": "dn8:14.6",
+      "pali": "ekissāpi dattiyā yāpeti, dvīhipi dattīhi yāpeti … sattahipi dattīhi yāpeti;"
+    },
+    {
+      "id": "dn8:14.7",
+      "pali": "ekāhikampi āhāraṁ āhāreti, dvīhikampi āhāraṁ āhāreti … sattāhikampi āhāraṁ āhāreti. Iti evarūpaṁ addhamāsikampi pariyāyabhattabhojanānuyogamanuyutto viharati."
+    },
+    {
+      "id": "dn8:14.8",
+      "pali": "Imepi kho, āvuso gotama, tapopakkamā etesaṁ samaṇabrāhmaṇānaṁ sāmaññasaṅkhātā ca brahmaññasaṅkhātā ca."
+    },
+    {
+      "id": "dn8:14.9",
+      "pali": "Sākabhakkho vā hoti, sāmākabhakkho vā hoti, nīvārabhakkho vā hoti, daddulabhakkho vā hoti, haṭabhakkho vā hoti, kaṇabhakkho vā hoti, ācāmabhakkho vā hoti, piññākabhakkho vā hoti, tiṇabhakkho vā hoti, gomayabhakkho vā hoti, vanamūlaphalāhāro yāpeti pavattaphalabhojī."
+    },
+    {
+      "id": "dn8:14.10",
+      "pali": "Imepi kho, āvuso gotama, tapopakkamā etesaṁ samaṇabrāhmaṇānaṁ sāmaññasaṅkhātā ca brahmaññasaṅkhātā ca."
+    },
+    {
+      "id": "dn8:14.11",
+      "pali": "Sāṇānipi dhāreti, masāṇānipi dhāreti, chavadussānipi dhāreti, paṁsukūlānipi dhāreti, tirīṭānipi dhāreti, ajinampi dhāreti, ajinakkhipampi dhāreti, kusacīrampi dhāreti, vākacīrampi dhāreti, phalakacīrampi dhāreti, kesakambalampi dhāreti, vāḷakambalampi dhāreti, ulūkapakkhikampi dhāreti,"
+    },
+    {
+      "id": "dn8:14.12",
+      "pali": "kesamassulocakopi hoti kesamassulocanānuyogamanuyutto,"
+    },
+    {
+      "id": "dn8:14.13",
+      "pali": "ubbhaṭṭhakopi hoti āsanapaṭikkhitto,"
+    },
+    {
+      "id": "dn8:14.14",
+      "pali": "ukkuṭikopi hoti ukkuṭikappadhānamanuyutto,"
+    },
+    {
+      "id": "dn8:14.15",
+      "pali": "kaṇṭakāpassayikopi hoti kaṇṭakāpassaye seyyaṁ kappeti,"
+    },
+    {
+      "id": "dn8:14.16",
+      "pali": "phalakaseyyampi kappeti, thaṇḍilaseyyampi kappeti,"
+    },
+    {
+      "id": "dn8:14.17",
+      "pali": "ekapassayikopi hoti"
+    },
+    {
+      "id": "dn8:14.18",
+      "pali": "rajojalladharo,"
+    },
+    {
+      "id": "dn8:14.19",
+      "pali": "abbhokāsikopi hoti"
+    },
+    {
+      "id": "dn8:14.20",
+      "pali": "yathāsanthatiko,"
+    },
+    {
+      "id": "dn8:14.21",
+      "pali": "vekaṭikopi hoti vikaṭabhojanānuyogamanuyutto,"
+    },
+    {
+      "id": "dn8:14.22",
+      "pali": "apānakopi hoti apānakattamanuyutto,"
+    },
+    {
+      "id": "dn8:14.23",
+      "pali": "sāyatatiyakampi udakorohanānuyogamanuyutto viharatī”ti."
+    },
+    {
+      "id": "dn8:15.1",
+      "pali": "“Acelako cepi, kassapa, hoti, muttācāro, hatthāpalekhano …pe… iti evarūpaṁ addhamāsikampi pariyāyabhattabhojanānuyogamanuyutto viharati."
+    },
+    {
+      "id": "dn8:15.2",
+      "pali": "Tassa cāyaṁ sīlasampadā cittasampadā paññāsampadā abhāvitā hoti asacchikatā. Atha kho so ārakāva sāmaññā ārakāva brahmaññā."
+    },
+    {
+      "id": "dn8:15.3",
+      "pali": "Yato kho, kassapa, bhikkhu averaṁ abyāpajjaṁ mettacittaṁ bhāveti, āsavānañca khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati."
+    },
+    {
+      "id": "dn8:15.4",
+      "pali": "Ayaṁ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipi."
+    },
+    {
+      "id": "dn8:15.5",
+      "pali": "Sākabhakkho cepi, kassapa, hoti, sāmākabhakkho …pe… vanamūlaphalāhāro yāpeti pavattaphalabhojī."
+    },
+    {
+      "id": "dn8:15.6",
+      "pali": "Tassa cāyaṁ sīlasampadā cittasampadā paññāsampadā abhāvitā hoti asacchikatā."
+    },
+    {
+      "id": "dn8:15.7",
+      "pali": "Atha kho so ārakāva sāmaññā ārakāva brahmaññā."
+    },
+    {
+      "id": "dn8:15.8",
+      "pali": "Yato kho, kassapa, bhikkhu averaṁ abyāpajjaṁ mettacittaṁ bhāveti, āsavānañca khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati."
+    },
+    {
+      "id": "dn8:15.9",
+      "pali": "Ayaṁ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipi."
+    },
+    {
+      "id": "dn8:15.10",
+      "pali": "Sāṇāni cepi, kassapa, dhāreti, masāṇānipi dhāreti …pe…"
+    },
+    {
+      "id": "dn8:15.11",
+      "pali": "sāyatatiyakampi udakorohanānuyogamanuyutto viharati."
+    },
+    {
+      "id": "dn8:15.12",
+      "pali": "Tassa cāyaṁ sīlasampadā cittasampadā paññāsampadā abhāvitā hoti asacchikatā."
+    },
+    {
+      "id": "dn8:15.13",
+      "pali": "Atha kho so ārakāva sāmaññā ārakāva brahmaññā."
+    },
+    {
+      "id": "dn8:15.14",
+      "pali": "Yato kho, kassapa, bhikkhu averaṁ abyāpajjaṁ mettacittaṁ bhāveti, āsavānañca khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati."
+    },
+    {
+      "id": "dn8:15.15",
+      "pali": "Ayaṁ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipī”ti."
+    },
+    {
+      "id": "dn8:16.1",
+      "pali": "Evaṁ vutte, acelo kassapo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn8:16.2",
+      "pali": "“dukkaraṁ, bho gotama, sāmaññaṁ dukkaraṁ brahmaññan”ti."
+    },
+    {
+      "id": "dn8:16.3",
+      "pali": "“Pakati kho esā, kassapa, lokasmiṁ ‘dukkaraṁ sāmaññaṁ dukkaraṁ brahmaññan’ti."
+    },
+    {
+      "id": "dn8:16.4",
+      "pali": "Acelako cepi, kassapa, hoti, muttācāro, hatthāpalekhano …pe… iti evarūpaṁ addhamāsikampi pariyāyabhattabhojanānuyogamanuyutto viharati."
+    },
+    {
+      "id": "dn8:16.5",
+      "pali": "Imāya ca, kassapa, mattāya iminā tapopakkamena sāmaññaṁ vā abhavissa brahmaññaṁ vā dukkaraṁ sudukkaraṁ, netaṁ abhavissa kallaṁ vacanāya:"
+    },
+    {
+      "id": "dn8:16.6",
+      "pali": "‘dukkaraṁ sāmaññaṁ dukkaraṁ brahmaññan’ti."
+    },
+    {
+      "id": "dn8:16.7",
+      "pali": "Sakkā ca panetaṁ abhavissa kātuṁ gahapatinā vā gahapatiputtena vā antamaso kumbhadāsiyāpi:"
+    },
+    {
+      "id": "dn8:16.8",
+      "pali": "‘handāhaṁ acelako homi, muttācāro, hatthāpalekhano …pe… iti evarūpaṁ addhamāsikampi pariyāyabhattabhojanānuyogamanuyutto viharāmī’ti."
+    },
+    {
+      "id": "dn8:16.9",
+      "pali": "Yasmā ca kho, kassapa, aññatreva imāya mattāya aññatra iminā tapopakkamena sāmaññaṁ vā hoti brahmaññaṁ vā dukkaraṁ sudukkaraṁ, tasmā etaṁ kallaṁ vacanāya:"
+    },
+    {
+      "id": "dn8:16.10",
+      "pali": "‘dukkaraṁ sāmaññaṁ dukkaraṁ brahmaññan’ti."
+    },
+    {
+      "id": "dn8:16.11",
+      "pali": "Yato kho, kassapa, bhikkhu averaṁ abyāpajjaṁ mettacittaṁ bhāveti, āsavānañca khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati."
+    },
+    {
+      "id": "dn8:16.12",
+      "pali": "Ayaṁ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipi."
+    },
+    {
+      "id": "dn8:16.13",
+      "pali": "Sākabhakkho cepi, kassapa, hoti, sāmākabhakkho …pe… vanamūlaphalāhāro yāpeti pavattaphalabhojī."
+    },
+    {
+      "id": "dn8:16.14",
+      "pali": "Imāya ca, kassapa, mattāya iminā tapopakkamena sāmaññaṁ vā abhavissa brahmaññaṁ vā dukkaraṁ sudukkaraṁ, netaṁ abhavissa kallaṁ vacanāya:"
+    },
+    {
+      "id": "dn8:16.15",
+      "pali": "‘dukkaraṁ sāmaññaṁ dukkaraṁ brahmaññan’ti."
+    },
+    {
+      "id": "dn8:16.16",
+      "pali": "Sakkā ca panetaṁ abhavissa kātuṁ gahapatinā vā gahapatiputtena vā antamaso kumbhadāsiyāpi:"
+    },
+    {
+      "id": "dn8:16.17",
+      "pali": "‘handāhaṁ sākabhakkho vā homi, sāmākabhakkho vā …pe… vanamūlaphalāhāro yāpemi pavattaphalabhojī’ti."
+    },
+    {
+      "id": "dn8:16.18",
+      "pali": "Yasmā ca kho, kassapa, aññatreva imāya mattāya aññatra iminā tapopakkamena sāmaññaṁ vā hoti brahmaññaṁ vā dukkaraṁ sudukkaraṁ, tasmā etaṁ kallaṁ vacanāya:"
+    },
+    {
+      "id": "dn8:16.19",
+      "pali": "‘dukkaraṁ sāmaññaṁ dukkaraṁ brahmaññan’ti."
+    },
+    {
+      "id": "dn8:16.20",
+      "pali": "Yato kho, kassapa, bhikkhu averaṁ abyāpajjaṁ mettacittaṁ bhāveti, āsavānañca khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati."
+    },
+    {
+      "id": "dn8:16.21",
+      "pali": "Ayaṁ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipi."
+    },
+    {
+      "id": "dn8:16.22",
+      "pali": "Sāṇāni cepi, kassapa, dhāreti, masāṇānipi dhāreti …pe… sāyatatiyakampi udakorohanānuyogamanuyutto viharati."
+    },
+    {
+      "id": "dn8:16.23",
+      "pali": "Imāya ca, kassapa, mattāya iminā tapopakkamena sāmaññaṁ vā abhavissa brahmaññaṁ vā dukkaraṁ sudukkaraṁ, netaṁ abhavissa kallaṁ vacanāya:"
+    },
+    {
+      "id": "dn8:16.24",
+      "pali": "‘dukkaraṁ sāmaññaṁ dukkaraṁ brahmaññan’ti."
+    },
+    {
+      "id": "dn8:16.25",
+      "pali": "Sakkā ca panetaṁ abhavissa kātuṁ gahapatinā vā gahapatiputtena vā antamaso kumbhadāsiyāpi:"
+    },
+    {
+      "id": "dn8:16.26",
+      "pali": "‘handāhaṁ sāṇānipi dhāremi, masāṇānipi dhāremi …pe… sāyatatiyakampi udakorohanānuyogamanuyutto viharāmī’ti."
+    },
+    {
+      "id": "dn8:16.27",
+      "pali": "Yasmā ca kho, kassapa, aññatreva imāya mattāya aññatra iminā tapopakkamena sāmaññaṁ vā hoti brahmaññaṁ vā dukkaraṁ sudukkaraṁ, tasmā etaṁ kallaṁ vacanāya:"
+    },
+    {
+      "id": "dn8:16.28",
+      "pali": "‘dukkaraṁ sāmaññaṁ dukkaraṁ brahmaññan’ti."
+    },
+    {
+      "id": "dn8:16.29",
+      "pali": "Yato kho, kassapa, bhikkhu averaṁ abyāpajjaṁ mettacittaṁ bhāveti, āsavānañca khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati."
+    },
+    {
+      "id": "dn8:16.30",
+      "pali": "Ayaṁ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipī”ti."
+    },
+    {
+      "id": "dn8:17.1",
+      "pali": "Evaṁ vutte, acelo kassapo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn8:17.2",
+      "pali": "“dujjāno, bho gotama, samaṇo, dujjāno brāhmaṇo”ti."
+    },
+    {
+      "id": "dn8:17.3",
+      "pali": "“Pakati kho esā, kassapa, lokasmiṁ ‘dujjāno samaṇo dujjāno brāhmaṇo’ti."
+    },
+    {
+      "id": "dn8:17.4",
+      "pali": "Acelako cepi, kassapa, hoti, muttācāro, hatthāpalekhano …pe… iti evarūpaṁ addhamāsikampi pariyāyabhattabhojanānuyogamanuyutto viharati."
+    },
+    {
+      "id": "dn8:17.5",
+      "pali": "Imāya ca, kassapa, mattāya iminā tapopakkamena samaṇo vā abhavissa brāhmaṇo vā dujjāno sudujjāno, netaṁ abhavissa kallaṁ vacanāya:"
+    },
+    {
+      "id": "dn8:17.6",
+      "pali": "‘dujjāno samaṇo dujjāno brāhmaṇo’ti."
+    },
+    {
+      "id": "dn8:17.7",
+      "pali": "Sakkā ca paneso abhavissa ñātuṁ gahapatinā vā gahapatiputtena vā antamaso kumbhadāsiyāpi:"
+    },
+    {
+      "id": "dn8:17.8",
+      "pali": "‘ayaṁ acelako hoti, muttācāro, hatthāpalekhano …pe… iti evarūpaṁ addhamāsikampi pariyāyabhattabhojanānuyogamanuyutto viharatī’ti."
+    },
+    {
+      "id": "dn8:17.9",
+      "pali": "Yasmā ca kho, kassapa, aññatreva imāya mattāya aññatra iminā tapopakkamena samaṇo vā hoti brāhmaṇo vā dujjāno sudujjāno, tasmā etaṁ kallaṁ vacanāya:"
+    },
+    {
+      "id": "dn8:17.10",
+      "pali": "‘dujjāno samaṇo dujjāno brāhmaṇo’ti."
+    },
+    {
+      "id": "dn8:17.11",
+      "pali": "Yato kho, kassapa, bhikkhu averaṁ abyāpajjaṁ mettacittaṁ bhāveti, āsavānañca khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati."
+    },
+    {
+      "id": "dn8:17.12",
+      "pali": "Ayaṁ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipi."
+    },
+    {
+      "id": "dn8:17.13",
+      "pali": "Sākabhakkho cepi, kassapa, hoti sāmākabhakkho …pe… vanamūlaphalāhāro yāpeti pavattaphalabhojī."
+    },
+    {
+      "id": "dn8:17.14",
+      "pali": "Imāya ca, kassapa, mattāya iminā tapopakkamena samaṇo vā abhavissa brāhmaṇo vā dujjāno sudujjāno, netaṁ abhavissa kallaṁ vacanāya:"
+    },
+    {
+      "id": "dn8:17.15",
+      "pali": "‘dujjāno samaṇo dujjāno brāhmaṇo’ti."
+    },
+    {
+      "id": "dn8:17.16",
+      "pali": "Sakkā ca paneso abhavissa ñātuṁ gahapatinā vā gahapatiputtena vā antamaso kumbhadāsiyāpi:"
+    },
+    {
+      "id": "dn8:17.17",
+      "pali": "‘ayaṁ sākabhakkho vā hoti sāmākabhakkho …pe… vanamūlaphalāhāro yāpeti pavattaphalabhojī’ti."
+    },
+    {
+      "id": "dn8:17.18",
+      "pali": "Yasmā ca kho, kassapa, aññatreva imāya mattāya aññatra iminā tapopakkamena samaṇo vā hoti brāhmaṇo vā dujjāno sudujjāno, tasmā etaṁ kallaṁ vacanāya:"
+    },
+    {
+      "id": "dn8:17.19",
+      "pali": "‘dujjāno samaṇo dujjāno brāhmaṇo’ti."
+    },
+    {
+      "id": "dn8:17.20",
+      "pali": "Yato kho, kassapa, bhikkhu averaṁ abyāpajjaṁ mettacittaṁ bhāveti, āsavānañca khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati."
+    },
+    {
+      "id": "dn8:17.21",
+      "pali": "Ayaṁ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipi."
+    },
+    {
+      "id": "dn8:17.22",
+      "pali": "Sāṇāni cepi, kassapa, dhāreti, masāṇānipi dhāreti …pe… sāyatatiyakampi udakorohanānuyogamanuyutto viharati."
+    },
+    {
+      "id": "dn8:17.23",
+      "pali": "Imāya ca, kassapa, mattāya iminā tapopakkamena samaṇo vā abhavissa brāhmaṇo vā dujjāno sudujjāno, netaṁ abhavissa kallaṁ vacanāya:"
+    },
+    {
+      "id": "dn8:17.24",
+      "pali": "‘dujjāno samaṇo dujjāno brāhmaṇo’ti."
+    },
+    {
+      "id": "dn8:17.25",
+      "pali": "Sakkā ca paneso abhavissa ñātuṁ gahapatinā vā gahapatiputtena vā antamaso kumbhadāsiyāpi:"
+    },
+    {
+      "id": "dn8:17.26",
+      "pali": "‘ayaṁ sāṇānipi dhāreti, masāṇānipi dhāreti …pe… sāyatatiyakampi udakorohanānuyogamanuyutto viharatī’ti."
+    },
+    {
+      "id": "dn8:17.27",
+      "pali": "Yasmā ca kho, kassapa, aññatreva imāya mattāya aññatra iminā tapopakkamena samaṇo vā hoti brāhmaṇo vā dujjāno sudujjāno, tasmā etaṁ kallaṁ vacanāya:"
+    },
+    {
+      "id": "dn8:17.28",
+      "pali": "‘dujjāno samaṇo dujjāno brāhmaṇo’ti."
+    },
+    {
+      "id": "dn8:17.29",
+      "pali": "Yato kho, kassapa, bhikkhu averaṁ abyāpajjaṁ mettacittaṁ bhāveti, āsavānañca khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati."
+    },
+    {
+      "id": "dn8:17.30",
+      "pali": "Ayaṁ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipī”ti."
+    },
+    {
+      "id": "dn8:18.1",
+      "pali": "Evaṁ vutte, acelo kassapo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn8:18.2",
+      "pali": "“katamā pana sā, bho gotama, sīlasampadā, katamā cittasampadā, katamā paññāsampadā”ti?"
+    },
+    {
+      "id": "dn8:18.3",
+      "pali": "“Idha, kassapa, tathāgato loke uppajjati arahaṁ, sammāsambuddho …pe…"
+    },
+    {
+      "id": "dn8:18.4",
+      "pali": "bhayadassāvī samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato kusalena parisuddhājīvo sīlasampanno indriyesu guttadvāro satisampajaññena samannāgato santuṭṭho."
+    },
+    {
+      "id": "dn8:18.5",
+      "pali": "Kathañca, kassapa, bhikkhu sīlasampanno hoti?"
+    },
+    {
+      "id": "dn8:18.6",
+      "pali": "Idha, kassapa, bhikkhu pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati."
+    },
+    {
+      "id": "dn8:18.7",
+      "pali": "Idampissa hoti sīlasampadāya …pe…"
+    },
+    {
+      "id": "dn8:19.1",
+      "pali": "Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṁ kappenti."
+    },
+    {
+      "id": "dn8:19.2",
+      "pali": "Seyyathidaṁ—santikammaṁ paṇidhikammaṁ …pe… osadhīnaṁ patimokkho"
+    },
+    {
+      "id": "dn8:19.3",
+      "pali": "iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti."
+    },
+    {
+      "id": "dn8:19.4",
+      "pali": "Idampissa hoti sīlasampadāya."
+    },
+    {
+      "id": "dn8:19.5",
+      "pali": "Sa kho so, kassapa, bhikkhu evaṁ sīlasampanno na kutoci bhayaṁ samanupassati, yadidaṁ sīlasaṁvarato."
+    },
+    {
+      "id": "dn8:19.6",
+      "pali": "Seyyathāpi, kassapa, rājā khattiyo muddhāvasitto nihatapaccāmitto na kutoci bhayaṁ samanupassati, yadidaṁ paccatthikato;"
+    },
+    {
+      "id": "dn8:19.7",
+      "pali": "evameva kho, kassapa, bhikkhu evaṁ sīlasampanno na kutoci bhayaṁ samanupassati, yadidaṁ sīlasaṁvarato."
+    },
+    {
+      "id": "dn8:19.8",
+      "pali": "So iminā ariyena sīlakkhandhena samannāgato ajjhattaṁ anavajjasukhaṁ paṭisaṁvedeti."
+    },
+    {
+      "id": "dn8:19.9",
+      "pali": "Evaṁ kho, kassapa, bhikkhu sīlasampanno hoti."
+    },
+    {
+      "id": "dn8:19.10",
+      "pali": "Ayaṁ kho, kassapa, sīlasampadā …pe…"
+    },
+    {
+      "id": "dn8:19.11",
+      "pali": "paṭhamaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn8:19.12",
+      "pali": "Idampissa hoti cittasampadāya …pe…"
+    },
+    {
+      "id": "dn8:19.13",
+      "pali": "dutiyaṁ jhānaṁ …"
+    },
+    {
+      "id": "dn8:19.14",
+      "pali": "tatiyaṁ jhānaṁ …"
+    },
+    {
+      "id": "dn8:19.15",
+      "pali": "catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn8:19.16",
+      "pali": "Idampissa hoti cittasampadāya."
+    },
+    {
+      "id": "dn8:19.17",
+      "pali": "Ayaṁ kho, kassapa, cittasampadā."
+    },
+    {
+      "id": "dn8:20.1",
+      "pali": "So evaṁ samāhite citte …pe…"
+    },
+    {
+      "id": "dn8:20.2",
+      "pali": "ñāṇadassanāya cittaṁ abhinīharati abhininnāmeti …"
+    },
+    {
+      "id": "dn8:20.3",
+      "pali": "idampissa hoti paññāsampadāya …pe…"
+    },
+    {
+      "id": "dn8:20.4",
+      "pali": "nāparaṁ itthattāyāti pajānāti."
+    },
+    {
+      "id": "dn8:20.5",
+      "pali": "Idampissa hoti paññāsampadāya."
+    },
+    {
+      "id": "dn8:20.6",
+      "pali": "Ayaṁ kho, kassapa, paññāsampadā."
+    },
+    {
+      "id": "dn8:20.7",
+      "pali": "Imāya ca, kassapa, sīlasampadāya cittasampadāya paññāsampadāya aññā sīlasampadā cittasampadā paññāsampadā uttaritarā vā paṇītatarā vā natthi."
+    },
+    {
+      "id": "dn8:21.1",
+      "pali": "Santi, kassapa, eke samaṇabrāhmaṇā sīlavādā."
+    },
+    {
+      "id": "dn8:21.2",
+      "pali": "Te anekapariyāyena sīlassa vaṇṇaṁ bhāsanti."
+    },
+    {
+      "id": "dn8:21.3",
+      "pali": "Yāvatā, kassapa, ariyaṁ paramaṁ sīlaṁ, nāhaṁ tattha attano samasamaṁ samanupassāmi, kuto bhiyyo."
+    },
+    {
+      "id": "dn8:21.4",
+      "pali": "Atha kho ahameva tattha bhiyyo, yadidaṁ adhisīlaṁ."
+    },
+    {
+      "id": "dn8:21.5",
+      "pali": "Santi, kassapa, eke samaṇabrāhmaṇā tapojigucchāvādā."
+    },
+    {
+      "id": "dn8:21.6",
+      "pali": "Te anekapariyāyena tapojigucchāya vaṇṇaṁ bhāsanti."
+    },
+    {
+      "id": "dn8:21.7",
+      "pali": "Yāvatā, kassapa, ariyā paramā tapojigucchā, nāhaṁ tattha attano samasamaṁ samanupassāmi, kuto bhiyyo."
+    },
+    {
+      "id": "dn8:21.8",
+      "pali": "Atha kho ahameva tattha bhiyyo, yadidaṁ adhijegucchaṁ."
+    },
+    {
+      "id": "dn8:21.9",
+      "pali": "Santi, kassapa, eke samaṇabrāhmaṇā paññāvādā."
+    },
+    {
+      "id": "dn8:21.10",
+      "pali": "Te anekapariyāyena paññāya vaṇṇaṁ bhāsanti."
+    },
+    {
+      "id": "dn8:21.11",
+      "pali": "Yāvatā, kassapa, ariyā paramā paññā, nāhaṁ tattha attano samasamaṁ samanupassāmi, kuto bhiyyo."
+    },
+    {
+      "id": "dn8:21.12",
+      "pali": "Atha kho ahameva tattha bhiyyo, yadidaṁ adhipaññaṁ."
+    },
+    {
+      "id": "dn8:21.13",
+      "pali": "Santi, kassapa, eke samaṇabrāhmaṇā vimuttivādā."
+    },
+    {
+      "id": "dn8:21.14",
+      "pali": "Te anekapariyāyena vimuttiyā vaṇṇaṁ bhāsanti."
+    },
+    {
+      "id": "dn8:21.15",
+      "pali": "Yāvatā, kassapa, ariyā paramā vimutti, nāhaṁ tattha attano samasamaṁ samanupassāmi, kuto bhiyyo."
+    },
+    {
+      "id": "dn8:21.16",
+      "pali": "Atha kho ahameva tattha bhiyyo, yadidaṁ adhivimutti."
+    },
+    {
+      "id": "dn8:22.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, kassapa, vijjati, yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn8:22.2",
+      "pali": "‘sīhanādaṁ kho samaṇo gotamo nadati, tañca kho suññāgāre nadati, no parisāsū’ti."
+    },
+    {
+      "id": "dn8:22.3",
+      "pali": "Te: ‘mā hevan’tissu vacanīyā."
+    },
+    {
+      "id": "dn8:22.4",
+      "pali": "‘Sīhanādañca samaṇo gotamo nadati, parisāsu ca nadatī’ti evamassu, kassapa, vacanīyā."
+    },
+    {
+      "id": "dn8:22.5",
+      "pali": "Ṭhānaṁ kho panetaṁ, kassapa, vijjati, yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn8:22.6",
+      "pali": "‘sīhanādañca samaṇo gotamo nadati, parisāsu ca nadati, no ca kho visārado nadatī’ti."
+    },
+    {
+      "id": "dn8:22.7",
+      "pali": "Te: ‘mā hevan’tissu vacanīyā."
+    },
+    {
+      "id": "dn8:22.8",
+      "pali": "‘Sīhanādañca samaṇo gotamo nadati, parisāsu ca nadati, visārado ca nadatī’ti evamassu, kassapa, vacanīyā."
+    },
+    {
+      "id": "dn8:22.9",
+      "pali": "Ṭhānaṁ kho panetaṁ, kassapa, vijjati, yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn8:22.10",
+      "pali": "‘sīhanādañca samaṇo gotamo nadati, parisāsu ca nadati, visārado ca nadati, no ca kho naṁ pañhaṁ pucchanti …pe…"
+    },
+    {
+      "id": "dn8:22.11",
+      "pali": "pañhañca naṁ pucchanti; no ca kho nesaṁ pañhaṁ puṭṭho byākaroti …pe…"
+    },
+    {
+      "id": "dn8:22.12",
+      "pali": "pañhañca nesaṁ puṭṭho byākaroti; no ca kho pañhassa veyyākaraṇena cittaṁ ārādheti …pe…"
+    },
+    {
+      "id": "dn8:22.13",
+      "pali": "pañhassa ca veyyākaraṇena cittaṁ ārādheti; no ca kho sotabbaṁ maññanti …pe…"
+    },
+    {
+      "id": "dn8:22.14",
+      "pali": "sotabbañcassa maññanti; no ca kho sutvā pasīdanti …pe…"
+    },
+    {
+      "id": "dn8:22.15",
+      "pali": "sutvā cassa pasīdanti; no ca kho pasannākāraṁ karonti …pe…"
+    },
+    {
+      "id": "dn8:22.16",
+      "pali": "pasannākārañca karonti; no ca kho tathattāya paṭipajjanti …pe…"
+    },
+    {
+      "id": "dn8:22.17",
+      "pali": "tathattāya ca paṭipajjanti; no ca kho paṭipannā ārādhentī’ti."
+    },
+    {
+      "id": "dn8:22.18",
+      "pali": "Te: ‘mā hevan’tissu vacanīyā."
+    },
+    {
+      "id": "dn8:22.19",
+      "pali": "‘Sīhanādañca samaṇo gotamo nadati, parisāsu ca nadati, visārado ca nadati, pañhañca naṁ pucchanti, pañhañca nesaṁ puṭṭho byākaroti, pañhassa ca veyyākaraṇena cittaṁ ārādheti, sotabbañcassa maññanti, sutvā cassa pasīdanti, pasannākārañca karonti, tathattāya ca paṭipajjanti, paṭipannā ca ārādhentī’ti evamassu, kassapa, vacanīyā."
+    },
+    {
+      "id": "dn8:23.1",
+      "pali": "Ekamidāhaṁ, kassapa, samayaṁ rājagahe viharāmi gijjhakūṭe pabbate."
+    },
+    {
+      "id": "dn8:23.2",
+      "pali": "Tatra maṁ aññataro tapabrahmacārī nigrodho nāma adhijegucche pañhaṁ apucchi."
+    },
+    {
+      "id": "dn8:23.3",
+      "pali": "Tassāhaṁ adhijegucche pañhaṁ puṭṭho byākāsiṁ."
+    },
+    {
+      "id": "dn8:23.4",
+      "pali": "Byākate ca pana me attamano ahosi paraṁ viya mattāyā”ti."
+    },
+    {
+      "id": "dn8:23.5",
+      "pali": "“Ko hi, bhante, bhagavato dhammaṁ sutvā na attamano assa paraṁ viya mattāya?"
+    },
+    {
+      "id": "dn8:23.6",
+      "pali": "Ahampi hi, bhante, bhagavato dhammaṁ sutvā attamano paraṁ viya mattāya."
+    },
+    {
+      "id": "dn8:23.7",
+      "pali": "Abhikkantaṁ, bhante, abhikkantaṁ, bhante."
+    },
+    {
+      "id": "dn8:23.8",
+      "pali": "Seyyathāpi, bhante, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhagavatā anekapariyāyena dhammo pakāsito."
+    },
+    {
+      "id": "dn8:23.9",
+      "pali": "Esāhaṁ, bhante, bhagavantaṁ saraṇaṁ gacchāmi, dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "dn8:23.10",
+      "pali": "Labheyyāhaṁ, bhante, bhagavato santike pabbajjaṁ, labheyyaṁ upasampadan”ti."
+    },
+    {
+      "id": "dn8:24.1",
+      "pali": "“Yo kho, kassapa, aññatitthiyapubbo imasmiṁ dhammavinaye ākaṅkhati pabbajjaṁ, ākaṅkhati upasampadaṁ, so cattāro māse parivasati, catunnaṁ māsānaṁ accayena āraddhacittā bhikkhū pabbājenti, upasampādenti bhikkhubhāvāya."
+    },
+    {
+      "id": "dn8:24.2",
+      "pali": "Api ca mettha puggalavemattatā viditā”ti."
+    },
+    {
+      "id": "dn8:24.3",
+      "pali": "“Sace, bhante, aññatitthiyapubbā imasmiṁ dhammavinaye ākaṅkhanti pabbajjaṁ, ākaṅkhanti upasampadaṁ, cattāro māse parivasanti, catunnaṁ māsānaṁ accayena āraddhacittā bhikkhū pabbājenti, upasampādenti bhikkhubhāvāya. Ahaṁ cattāri vassāni parivasissāmi, catunnaṁ vassānaṁ accayena āraddhacittā bhikkhū pabbājentu, upasampādentu bhikkhubhāvāyā”ti."
+    },
+    {
+      "id": "dn8:24.4",
+      "pali": "Alattha kho acelo kassapo bhagavato santike pabbajjaṁ, alattha upasampadaṁ."
+    },
+    {
+      "id": "dn8:24.5",
+      "pali": "Acirūpasampanno kho panāyasmā kassapo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto na cirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi."
+    },
+    {
+      "id": "dn8:24.6",
+      "pali": "“Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi."
+    },
+    {
+      "id": "dn8:24.7",
+      "pali": "Aññataro kho panāyasmā kassapo arahataṁ ahosīti."
+    },
+    {
+      "id": "dn8:24.8",
+      "pali": "Mahāsīhanādasuttaṁ niṭṭhitaṁ aṭṭhamaṁ."
+    }
+  ]
+}

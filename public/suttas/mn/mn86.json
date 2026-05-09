@@ -1,0 +1,831 @@
+{
+  "uid": "mn86",
+  "title": "Aṅgulimālasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn86:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn86:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn86:2.1",
+      "pali": "Tena kho pana samayena rañño pasenadissa kosalassa vijite coro aṅgulimālo nāma hoti luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu."
+    },
+    {
+      "id": "mn86:2.2",
+      "pali": "Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā."
+    },
+    {
+      "id": "mn86:2.3",
+      "pali": "So manusse vadhitvā vadhitvā aṅgulīnaṁ mālaṁ dhāreti."
+    },
+    {
+      "id": "mn86:3.1",
+      "pali": "Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "mn86:3.2",
+      "pali": "Sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto senāsanaṁ saṁsāmetvā pattacīvaramādāya yena coro aṅgulimālo tenaddhānamaggaṁ paṭipajji."
+    },
+    {
+      "id": "mn86:3.3",
+      "pali": "Addasāsuṁ kho gopālakā pasupālakā kassakā pathāvino bhagavantaṁ yena coro aṅgulimālo tenaddhānamaggapaṭipannaṁ."
+    },
+    {
+      "id": "mn86:3.4",
+      "pali": "Disvāna bhagavantaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn86:3.5",
+      "pali": "“mā, samaṇa, etaṁ maggaṁ paṭipajji."
+    },
+    {
+      "id": "mn86:3.6",
+      "pali": "Etasmiṁ, samaṇa, magge coro aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu."
+    },
+    {
+      "id": "mn86:3.7",
+      "pali": "Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā."
+    },
+    {
+      "id": "mn86:3.8",
+      "pali": "So manusse vadhitvā vadhitvā aṅgulīnaṁ mālaṁ dhāreti."
+    },
+    {
+      "id": "mn86:3.9",
+      "pali": "Etañhi, samaṇa, maggaṁ dasapi purisā vīsampi purisā tiṁsampi purisā cattārīsampi purisā paññāsampi purisā saṅkaritvā saṅkaritvā paṭipajjanti."
+    },
+    {
+      "id": "mn86:3.10",
+      "pali": "Tepi corassa aṅgulimālassa hatthatthaṁ gacchantī”ti."
+    },
+    {
+      "id": "mn86:3.11",
+      "pali": "Evaṁ vutte, bhagavā tuṇhībhūto agamāsi."
+    },
+    {
+      "id": "mn86:3.12",
+      "pali": "Dutiyampi kho gopālakā …pe…"
+    },
+    {
+      "id": "mn86:3.13",
+      "pali": "tatiyampi kho gopālakā pasupālakā kassakā pathāvino bhagavantaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn86:3.14",
+      "pali": "“mā, samaṇa, etaṁ maggaṁ paṭipajji, etasmiṁ samaṇa magge coro aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu, tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā."
+    },
+    {
+      "id": "mn86:3.15",
+      "pali": "So manusse vadhitvā vadhitvā aṅgulīnaṁ mālaṁ dhāreti."
+    },
+    {
+      "id": "mn86:3.16",
+      "pali": "Etañhi samaṇa maggaṁ dasapi purisā vīsampi purisā tiṁsampi purisā cattārīsampi purisā paññāsampi purisā saṅkaritvā saṅkaritvā paṭipajjanti."
+    },
+    {
+      "id": "mn86:3.17",
+      "pali": "Tepi corassa aṅgulimālassa hatthatthaṁ gacchantī”ti."
+    },
+    {
+      "id": "mn86:4.1",
+      "pali": "Atha kho bhagavā tuṇhībhūto agamāsi."
+    },
+    {
+      "id": "mn86:4.2",
+      "pali": "Addasā kho coro aṅgulimālo bhagavantaṁ dūratova āgacchantaṁ."
+    },
+    {
+      "id": "mn86:4.3",
+      "pali": "Disvānassa etadahosi:"
+    },
+    {
+      "id": "mn86:4.4",
+      "pali": "“acchariyaṁ vata bho, abbhutaṁ vata bho."
+    },
+    {
+      "id": "mn86:4.5",
+      "pali": "Imañhi maggaṁ dasapi purisā vīsampi purisā tiṁsampi purisā cattārīsampi purisā paññāsampi purisā saṅkaritvā saṅkaritvā paṭipajjanti."
+    },
+    {
+      "id": "mn86:4.6",
+      "pali": "Tepi mama hatthatthaṁ gacchanti."
+    },
+    {
+      "id": "mn86:4.7",
+      "pali": "Atha ca panāyaṁ samaṇo eko adutiyo pasayha maññe āgacchati."
+    },
+    {
+      "id": "mn86:4.8",
+      "pali": "Yannūnāhaṁ imaṁ samaṇaṁ jīvitā voropeyyan”ti."
+    },
+    {
+      "id": "mn86:5.1",
+      "pali": "Atha kho coro aṅgulimālo asicammaṁ gahetvā dhanukalāpaṁ sannayhitvā bhagavantaṁ piṭṭhito piṭṭhito anubandhi."
+    },
+    {
+      "id": "mn86:5.2",
+      "pali": "Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi yathā coro aṅgulimālo bhagavantaṁ pakatiyā gacchantaṁ sabbathāmena gacchanto na sakkoti sampāpuṇituṁ."
+    },
+    {
+      "id": "mn86:5.3",
+      "pali": "Atha kho corassa aṅgulimālassa etadahosi:"
+    },
+    {
+      "id": "mn86:5.4",
+      "pali": "“acchariyaṁ vata bho, abbhutaṁ vata bho."
+    },
+    {
+      "id": "mn86:5.5",
+      "pali": "Ahañhi pubbe hatthimpi dhāvantaṁ anupatitvā gaṇhāmi, assampi dhāvantaṁ anupatitvā gaṇhāmi, rathampi dhāvantaṁ anupatitvā gaṇhāmi, migampi dhāvantaṁ anupatitvā gaṇhāmi;"
+    },
+    {
+      "id": "mn86:5.6",
+      "pali": "atha ca panāhaṁ imaṁ samaṇaṁ pakatiyā gacchantaṁ sabbathāmena gacchanto na sakkomi sampāpuṇitun”ti."
+    },
+    {
+      "id": "mn86:5.7",
+      "pali": "Ṭhitova bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn86:5.8",
+      "pali": "“tiṭṭha, tiṭṭha, samaṇā”ti."
+    },
+    {
+      "id": "mn86:5.9",
+      "pali": "“Ṭhito ahaṁ, aṅgulimāla, tvañca tiṭṭhā”ti."
+    },
+    {
+      "id": "mn86:5.10",
+      "pali": "Atha kho corassa aṅgulimālassa etadahosi:"
+    },
+    {
+      "id": "mn86:5.11",
+      "pali": "“ime kho samaṇā sakyaputtiyā saccavādino saccapaṭiññā."
+    },
+    {
+      "id": "mn86:5.12",
+      "pali": "Atha panāyaṁ samaṇo gacchaṁ yevāha:"
+    },
+    {
+      "id": "mn86:5.13",
+      "pali": "‘ṭhito ahaṁ, aṅgulimāla, tvañca tiṭṭhā’ti."
+    },
+    {
+      "id": "mn86:5.14",
+      "pali": "Yannūnāhaṁ imaṁ samaṇaṁ puccheyyan”ti."
+    },
+    {
+      "id": "mn86:6.1",
+      "pali": "Atha kho coro aṅgulimālo bhagavantaṁ gāthāya ajjhabhāsi:"
+    },
+    {
+      "id": "mn86:6.2",
+      "pali": "“Gacchaṁ vadesi samaṇa ṭhitomhi,"
+    },
+    {
+      "id": "mn86:6.3",
+      "pali": "Mamañca brūsi ṭhitamaṭṭhitoti;"
+    },
+    {
+      "id": "mn86:6.4",
+      "pali": "Pucchāmi taṁ samaṇa etamatthaṁ,"
+    },
+    {
+      "id": "mn86:6.5",
+      "pali": "Kathaṁ ṭhito tvaṁ ahamaṭṭhitomhī”ti."
+    },
+    {
+      "id": "mn86:6.6",
+      "pali": "“Ṭhito ahaṁ aṅgulimāla sabbadā,"
+    },
+    {
+      "id": "mn86:6.7",
+      "pali": "Sabbesu bhūtesu nidhāya daṇḍaṁ;"
+    },
+    {
+      "id": "mn86:6.8",
+      "pali": "Tuvañca pāṇesu asaññatosi,"
+    },
+    {
+      "id": "mn86:6.9",
+      "pali": "Tasmā ṭhitohaṁ tuvamaṭṭhitosī”ti."
+    },
+    {
+      "id": "mn86:6.10",
+      "pali": "“Cirassaṁ vata me mahito mahesī,"
+    },
+    {
+      "id": "mn86:6.11",
+      "pali": "Mahāvanaṁ pāpuṇi saccavādī;"
+    },
+    {
+      "id": "mn86:6.12",
+      "pali": "Sohaṁ carissāmi pahāya pāpaṁ,"
+    },
+    {
+      "id": "mn86:6.13",
+      "pali": "Sutvāna gāthaṁ tava dhammayuttaṁ”."
+    },
+    {
+      "id": "mn86:6.14",
+      "pali": "Itveva coro asimāvudhañca,"
+    },
+    {
+      "id": "mn86:6.15",
+      "pali": "Sobbhe papāte narake akiri;"
+    },
+    {
+      "id": "mn86:6.16",
+      "pali": "Avandi coro sugatassa pāde,"
+    },
+    {
+      "id": "mn86:6.17",
+      "pali": "Tattheva naṁ pabbajjaṁ ayāci."
+    },
+    {
+      "id": "mn86:6.18",
+      "pali": "Buddho ca kho kāruṇiko mahesi,"
+    },
+    {
+      "id": "mn86:6.19",
+      "pali": "Yo satthā lokassa sadevakassa;"
+    },
+    {
+      "id": "mn86:6.20",
+      "pali": "“Tamehi bhikkhū”ti tadā avoca,"
+    },
+    {
+      "id": "mn86:6.21",
+      "pali": "Eseva tassa ahu bhikkhubhāvoti."
+    },
+    {
+      "id": "mn86:7.1",
+      "pali": "Atha kho bhagavā āyasmatā aṅgulimālena pacchāsamaṇena yena sāvatthi tena cārikaṁ pakkāmi."
+    },
+    {
+      "id": "mn86:7.2",
+      "pali": "Anupubbena cārikaṁ caramāno yena sāvatthi tadavasari."
+    },
+    {
+      "id": "mn86:7.3",
+      "pali": "Tatra sudaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn86:8.1",
+      "pali": "Tena kho pana samayena rañño pasenadissa kosalassa antepuradvāre mahājanakāyo sannipatitvā uccāsaddo mahāsaddo hoti:"
+    },
+    {
+      "id": "mn86:8.2",
+      "pali": "“coro te, deva, vijite aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu."
+    },
+    {
+      "id": "mn86:8.3",
+      "pali": "Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā."
+    },
+    {
+      "id": "mn86:8.4",
+      "pali": "So manusse vadhitvā vadhitvā aṅgulīnaṁ mālaṁ dhāreti."
+    },
+    {
+      "id": "mn86:8.5",
+      "pali": "Taṁ devo paṭisedhetū”ti."
+    },
+    {
+      "id": "mn86:9.1",
+      "pali": "Atha kho rājā pasenadi kosalo pañcamattehi assasatehi sāvatthiyā nikkhami divā divassa."
+    },
+    {
+      "id": "mn86:9.2",
+      "pali": "Yena ārāmo tena pāvisi."
+    },
+    {
+      "id": "mn86:9.3",
+      "pali": "Yāvatikā yānassa bhūmi yānena gantvā yānā paccorohitvā pattikova yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho rājānaṁ pasenadiṁ kosalaṁ bhagavā etadavoca:"
+    },
+    {
+      "id": "mn86:9.4",
+      "pali": "“kiṁ nu te, mahārāja, rājā vā māgadho seniyo bimbisāro kupito vesālikā vā licchavī aññe vā paṭirājāno”ti?"
+    },
+    {
+      "id": "mn86:10.1",
+      "pali": "“Na kho me, bhante, rājā māgadho seniyo bimbisāro kupito, nāpi vesālikā licchavī, nāpi aññe paṭirājāno."
+    },
+    {
+      "id": "mn86:10.2",
+      "pali": "Coro me, bhante, vijite aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu."
+    },
+    {
+      "id": "mn86:10.3",
+      "pali": "Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā."
+    },
+    {
+      "id": "mn86:10.4",
+      "pali": "So manusse vadhitvā vadhitvā aṅgulīnaṁ mālaṁ dhāreti."
+    },
+    {
+      "id": "mn86:10.5",
+      "pali": "Tāhaṁ, bhante, paṭisedhissāmī”ti."
+    },
+    {
+      "id": "mn86:11.1",
+      "pali": "“Sace pana tvaṁ, mahārāja, aṅgulimālaṁ passeyyāsi kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajitaṁ, virataṁ pāṇātipātā, virataṁ adinnādānā, virataṁ musāvādā, ekabhattikaṁ, brahmacāriṁ, sīlavantaṁ, kalyāṇadhammaṁ, kinti naṁ kareyyāsī”ti?"
+    },
+    {
+      "id": "mn86:11.2",
+      "pali": "“Abhivādeyyāma vā, bhante, paccuṭṭheyyāma vā āsanena vā nimanteyyāma, abhinimanteyyāma vā naṁ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārehi, dhammikaṁ vā assa rakkhāvaraṇaguttiṁ saṁvidaheyyāma."
+    },
+    {
+      "id": "mn86:11.3",
+      "pali": "Kuto panassa, bhante, dussīlassa pāpadhammassa evarūpo sīlasaṁyamo bhavissatī”ti?"
+    },
+    {
+      "id": "mn86:12.1",
+      "pali": "Tena kho pana samayena āyasmā aṅgulimālo bhagavato avidūre nisinno hoti."
+    },
+    {
+      "id": "mn86:12.2",
+      "pali": "Atha kho bhagavā dakkhiṇaṁ bāhuṁ paggahetvā rājānaṁ pasenadiṁ kosalaṁ etadavoca:"
+    },
+    {
+      "id": "mn86:12.3",
+      "pali": "“eso, mahārāja, aṅgulimālo”ti."
+    },
+    {
+      "id": "mn86:12.4",
+      "pali": "Atha kho rañño pasenadissa kosalassa ahudeva bhayaṁ, ahu chambhitattaṁ, ahu lomahaṁso."
+    },
+    {
+      "id": "mn86:12.5",
+      "pali": "Atha kho bhagavā rājānaṁ pasenadiṁ kosalaṁ bhītaṁ saṁviggaṁ lomahaṭṭhajātaṁ viditvā rājānaṁ pasenadiṁ kosalaṁ etadavoca:"
+    },
+    {
+      "id": "mn86:12.6",
+      "pali": "“mā bhāyi, mahārāja, natthi te ito bhayan”ti."
+    },
+    {
+      "id": "mn86:12.7",
+      "pali": "Atha kho rañño pasenadissa kosalassa yaṁ ahosi bhayaṁ vā chambhitattaṁ vā lomahaṁso vā so paṭippassambhi."
+    },
+    {
+      "id": "mn86:12.8",
+      "pali": "Atha kho rājā pasenadi kosalo yenāyasmā aṅgulimālo tenupasaṅkami; upasaṅkamitvā āyasmantaṁ aṅgulimālaṁ etadavoca:"
+    },
+    {
+      "id": "mn86:12.9",
+      "pali": "“ayyo no, bhante, aṅgulimālo”ti?"
+    },
+    {
+      "id": "mn86:12.10",
+      "pali": "“Evaṁ, mahārājā”ti."
+    },
+    {
+      "id": "mn86:12.11",
+      "pali": "“Kathaṅgotto ayyassa pitā, kathaṅgottā mātā”ti?"
+    },
+    {
+      "id": "mn86:12.12",
+      "pali": "“Gaggo kho, mahārāja, pitā, mantāṇī mātā”ti."
+    },
+    {
+      "id": "mn86:12.13",
+      "pali": "“Abhiramatu, bhante, ayyo gaggo mantāṇiputto."
+    },
+    {
+      "id": "mn86:12.14",
+      "pali": "Ahamayyassa gaggassa mantāṇiputtassa ussukkaṁ karissāmi cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānan”ti."
+    },
+    {
+      "id": "mn86:13.1",
+      "pali": "Tena kho pana samayena āyasmā aṅgulimālo āraññiko hoti piṇḍapātiko paṁsukūliko tecīvariko."
+    },
+    {
+      "id": "mn86:13.2",
+      "pali": "Atha kho āyasmā aṅgulimālo rājānaṁ pasenadiṁ kosalaṁ etadavoca:"
+    },
+    {
+      "id": "mn86:13.3",
+      "pali": "“alaṁ, mahārāja, paripuṇṇaṁ me cīvaran”ti."
+    },
+    {
+      "id": "mn86:13.4",
+      "pali": "Atha kho rājā pasenadi kosalo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rājā pasenadi kosalo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn86:13.5",
+      "pali": "“acchariyaṁ, bhante, abbhutaṁ, bhante."
+    },
+    {
+      "id": "mn86:13.6",
+      "pali": "Yāvañcidaṁ, bhante, bhagavā adantānaṁ dametā, asantānaṁ sametā, aparinibbutānaṁ parinibbāpetā."
+    },
+    {
+      "id": "mn86:13.7",
+      "pali": "Yañhi mayaṁ, bhante, nāsakkhimhā daṇḍenapi satthenapi dametuṁ so bhagavatā adaṇḍena asattheneva danto."
+    },
+    {
+      "id": "mn86:13.8",
+      "pali": "Handa ca dāni mayaṁ, bhante, gacchāma;"
+    },
+    {
+      "id": "mn86:13.9",
+      "pali": "bahukiccā mayaṁ bahukaraṇīyā”ti."
+    },
+    {
+      "id": "mn86:13.10",
+      "pali": "“Yassadāni, mahārāja, kālaṁ maññasī”ti."
+    },
+    {
+      "id": "mn86:13.11",
+      "pali": "Atha kho rājā pasenadi kosalo uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi."
+    },
+    {
+      "id": "mn86:14.1",
+      "pali": "Atha kho āyasmā aṅgulimālo pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiyaṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "mn86:14.2",
+      "pali": "Addasā kho āyasmā aṅgulimālo sāvatthiyaṁ sapadānaṁ piṇḍāya caramāno aññataraṁ itthiṁ mūḷhagabbhaṁ vighātagabbhaṁ."
+    },
+    {
+      "id": "mn86:14.3",
+      "pali": "Disvānassa etadahosi:"
+    },
+    {
+      "id": "mn86:14.4",
+      "pali": "“kilissanti vata, bho, sattā;"
+    },
+    {
+      "id": "mn86:14.5",
+      "pali": "kilissanti vata, bho, sattā”ti."
+    },
+    {
+      "id": "mn86:14.6",
+      "pali": "Atha kho āyasmā aṅgulimālo sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā aṅgulimālo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn86:14.7",
+      "pali": "“idhāhaṁ, bhante, pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisiṁ."
+    },
+    {
+      "id": "mn86:14.8",
+      "pali": "Addasaṁ kho ahaṁ, bhante, sāvatthiyaṁ sapadānaṁ piṇḍāya caramāno aññataraṁ itthiṁ mūḷhagabbhaṁ vighātagabbhaṁ."
+    },
+    {
+      "id": "mn86:14.9",
+      "pali": "Disvāna mayhaṁ etadahosi:"
+    },
+    {
+      "id": "mn86:14.10",
+      "pali": "‘kilissanti vata bho sattā, kilissanti vata bho sattā’”ti."
+    },
+    {
+      "id": "mn86:15.1",
+      "pali": "“Tena hi tvaṁ, aṅgulimāla, yena sā itthī tenupasaṅkama; upasaṅkamitvā taṁ itthiṁ evaṁ vadehi:"
+    },
+    {
+      "id": "mn86:15.2",
+      "pali": "‘yatohaṁ, bhagini, jāto nābhijānāmi sañcicca pāṇaṁ jīvitā voropetā, tena saccena sotthi te hotu, sotthi gabbhassā’”ti."
+    },
+    {
+      "id": "mn86:15.3",
+      "pali": "“So hi nūna me, bhante, sampajānamusāvādo bhavissati."
+    },
+    {
+      "id": "mn86:15.4",
+      "pali": "Mayā hi, bhante, bahū sañcicca pāṇā jīvitā voropitā”ti."
+    },
+    {
+      "id": "mn86:15.5",
+      "pali": "“Tena hi tvaṁ, aṅgulimāla, yena sā itthī tenupasaṅkama; upasaṅkamitvā taṁ itthiṁ evaṁ vadehi:"
+    },
+    {
+      "id": "mn86:15.6",
+      "pali": "‘yatohaṁ, bhagini, ariyāya jātiyā jāto, nābhijānāmi sañcicca pāṇaṁ jīvitā voropetā, tena saccena sotthi te hotu, sotthi gabbhassā’”ti."
+    },
+    {
+      "id": "mn86:15.7",
+      "pali": "“Evaṁ, bhante”ti kho āyasmā aṅgulimālo bhagavato paṭissutvā yena sā itthī tenupasaṅkami; upasaṅkamitvā taṁ itthiṁ etadavoca:"
+    },
+    {
+      "id": "mn86:15.8",
+      "pali": "“yatohaṁ, bhagini, ariyāya jātiyā jāto, nābhijānāmi sañcicca pāṇaṁ jīvitā voropetā, tena saccena sotthi te hotu, sotthi gabbhassā”ti."
+    },
+    {
+      "id": "mn86:15.9",
+      "pali": "Atha khvāssā itthiyā sotthi ahosi, sotthi gabbhassa."
+    },
+    {
+      "id": "mn86:16.1",
+      "pali": "Atha kho āyasmā aṅgulimālo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi."
+    },
+    {
+      "id": "mn86:16.2",
+      "pali": "“Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi."
+    },
+    {
+      "id": "mn86:16.3",
+      "pali": "Aññataro kho panāyasmā aṅgulimālo arahataṁ ahosi."
+    },
+    {
+      "id": "mn86:17.1",
+      "pali": "Atha kho āyasmā aṅgulimālo pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "mn86:17.2",
+      "pali": "Tena kho pana samayena aññenapi leḍḍu khitto āyasmato aṅgulimālassa kāye nipatati, aññenapi daṇḍo khitto āyasmato aṅgulimālassa kāye nipatati, aññenapi sakkharā khittā āyasmato aṅgulimālassa kāye nipatati."
+    },
+    {
+      "id": "mn86:17.3",
+      "pali": "Atha kho āyasmā aṅgulimālo bhinnena sīsena, lohitena gaḷantena, bhinnena pattena, vipphālitāya saṅghāṭiyā yena bhagavā tenupasaṅkami."
+    },
+    {
+      "id": "mn86:17.4",
+      "pali": "Addasā kho bhagavā āyasmantaṁ aṅgulimālaṁ dūratova āgacchantaṁ."
+    },
+    {
+      "id": "mn86:17.5",
+      "pali": "Disvāna āyasmantaṁ aṅgulimālaṁ etadavoca:"
+    },
+    {
+      "id": "mn86:17.6",
+      "pali": "“adhivāsehi tvaṁ, brāhmaṇa, adhivāsehi tvaṁ, brāhmaṇa."
+    },
+    {
+      "id": "mn86:17.7",
+      "pali": "Yassa kho tvaṁ, brāhmaṇa, kammassa vipākena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni niraye pacceyyāsi tassa tvaṁ, brāhmaṇa, kammassa vipākaṁ diṭṭheva dhamme paṭisaṁvedesī”ti."
+    },
+    {
+      "id": "mn86:18.1",
+      "pali": "Atha kho āyasmā aṅgulimālo rahogato paṭisallīno vimuttisukhaṁ paṭisaṁvedi;"
+    },
+    {
+      "id": "mn86:18.2",
+      "pali": "tāyaṁ velāyaṁ imaṁ udānaṁ udānesi:"
+    },
+    {
+      "id": "mn86:18.3",
+      "pali": "“Yo pubbeva pamajjitvā,"
+    },
+    {
+      "id": "mn86:18.4",
+      "pali": "pacchā so nappamajjati;"
+    },
+    {
+      "id": "mn86:18.5",
+      "pali": "Somaṁ lokaṁ pabhāseti,"
+    },
+    {
+      "id": "mn86:18.6",
+      "pali": "abbhā muttova candimā."
+    },
+    {
+      "id": "mn86:18.7",
+      "pali": "Yassa pāpaṁ kataṁ kammaṁ,"
+    },
+    {
+      "id": "mn86:18.8",
+      "pali": "kusalena pidhīyati;"
+    },
+    {
+      "id": "mn86:18.9",
+      "pali": "Somaṁ lokaṁ pabhāseti,"
+    },
+    {
+      "id": "mn86:18.10",
+      "pali": "abbhā muttova candimā."
+    },
+    {
+      "id": "mn86:18.11",
+      "pali": "Yo have daharo bhikkhu,"
+    },
+    {
+      "id": "mn86:18.12",
+      "pali": "yuñjati buddhasāsane;"
+    },
+    {
+      "id": "mn86:18.13",
+      "pali": "Somaṁ lokaṁ pabhāseti,"
+    },
+    {
+      "id": "mn86:18.14",
+      "pali": "abbhā muttova candimā."
+    },
+    {
+      "id": "mn86:18.15",
+      "pali": "Disā hi me dhammakathaṁ suṇantu,"
+    },
+    {
+      "id": "mn86:18.16",
+      "pali": "Disā hi me yuñjantu buddhasāsane;"
+    },
+    {
+      "id": "mn86:18.17",
+      "pali": "Disā hi me te manujā bhajantu,"
+    },
+    {
+      "id": "mn86:18.18",
+      "pali": "Ye dhammamevādapayanti santo."
+    },
+    {
+      "id": "mn86:18.19",
+      "pali": "Disā hi me khantivādānaṁ,"
+    },
+    {
+      "id": "mn86:18.20",
+      "pali": "avirodhappasaṁsīnaṁ;"
+    },
+    {
+      "id": "mn86:18.21",
+      "pali": "Suṇantu dhammaṁ kālena,"
+    },
+    {
+      "id": "mn86:18.22",
+      "pali": "tañca anuvidhīyantu."
+    },
+    {
+      "id": "mn86:18.23",
+      "pali": "Na hi jātu so mamaṁ hiṁse,"
+    },
+    {
+      "id": "mn86:18.24",
+      "pali": "aññaṁ vā pana kiñci naṁ;"
+    },
+    {
+      "id": "mn86:18.25",
+      "pali": "Pappuyya paramaṁ santiṁ,"
+    },
+    {
+      "id": "mn86:18.26",
+      "pali": "rakkheyya tasathāvare."
+    },
+    {
+      "id": "mn86:18.27",
+      "pali": "Udakañhi nayanti nettikā,"
+    },
+    {
+      "id": "mn86:18.28",
+      "pali": "Usukārā namayanti tejanaṁ;"
+    },
+    {
+      "id": "mn86:18.29",
+      "pali": "Dāruṁ namayanti tacchakā,"
+    },
+    {
+      "id": "mn86:18.30",
+      "pali": "Attānaṁ damayanti paṇḍitā."
+    },
+    {
+      "id": "mn86:18.31",
+      "pali": "Daṇḍeneke damayanti,"
+    },
+    {
+      "id": "mn86:18.32",
+      "pali": "aṅkusehi kasāhi ca;"
+    },
+    {
+      "id": "mn86:18.33",
+      "pali": "Adaṇḍena asatthena,"
+    },
+    {
+      "id": "mn86:18.34",
+      "pali": "ahaṁ dantomhi tādinā."
+    },
+    {
+      "id": "mn86:18.35",
+      "pali": "Ahiṁsakoti me nāmaṁ,"
+    },
+    {
+      "id": "mn86:18.36",
+      "pali": "hiṁsakassa pure sato;"
+    },
+    {
+      "id": "mn86:18.37",
+      "pali": "Ajjāhaṁ saccanāmomhi,"
+    },
+    {
+      "id": "mn86:18.38",
+      "pali": "na naṁ hiṁsāmi kiñci naṁ."
+    },
+    {
+      "id": "mn86:18.39",
+      "pali": "Coro ahaṁ pure āsiṁ,"
+    },
+    {
+      "id": "mn86:18.40",
+      "pali": "aṅgulimāloti vissuto;"
+    },
+    {
+      "id": "mn86:18.41",
+      "pali": "Vuyhamāno mahoghena,"
+    },
+    {
+      "id": "mn86:18.42",
+      "pali": "buddhaṁ saraṇamāgamaṁ."
+    },
+    {
+      "id": "mn86:18.43",
+      "pali": "Lohitapāṇi pure āsiṁ,"
+    },
+    {
+      "id": "mn86:18.44",
+      "pali": "aṅgulimāloti vissuto;"
+    },
+    {
+      "id": "mn86:18.45",
+      "pali": "Saraṇagamanaṁ passa,"
+    },
+    {
+      "id": "mn86:18.46",
+      "pali": "bhavanetti samūhatā."
+    },
+    {
+      "id": "mn86:18.47",
+      "pali": "Tādisaṁ kammaṁ katvāna,"
+    },
+    {
+      "id": "mn86:18.48",
+      "pali": "bahuṁ duggatigāminaṁ;"
+    },
+    {
+      "id": "mn86:18.49",
+      "pali": "Phuṭṭho kammavipākena,"
+    },
+    {
+      "id": "mn86:18.50",
+      "pali": "aṇaṇo bhuñjāmi bhojanaṁ."
+    },
+    {
+      "id": "mn86:18.51",
+      "pali": "Pamādamanuyuñjanti,"
+    },
+    {
+      "id": "mn86:18.52",
+      "pali": "bālā dummedhino janā;"
+    },
+    {
+      "id": "mn86:18.53",
+      "pali": "Appamādañca medhāvī,"
+    },
+    {
+      "id": "mn86:18.54",
+      "pali": "dhanaṁ seṭṭhaṁva rakkhati."
+    },
+    {
+      "id": "mn86:18.55",
+      "pali": "Mā pamādamanuyuñjetha,"
+    },
+    {
+      "id": "mn86:18.56",
+      "pali": "mā kāmarati santhavaṁ;"
+    },
+    {
+      "id": "mn86:18.57",
+      "pali": "Appamatto hi jhāyanto,"
+    },
+    {
+      "id": "mn86:18.58",
+      "pali": "pappoti vipulaṁ sukhaṁ."
+    },
+    {
+      "id": "mn86:18.59",
+      "pali": "Svāgataṁ nāpagataṁ,"
+    },
+    {
+      "id": "mn86:18.60",
+      "pali": "nayidaṁ dummantitaṁ mama;"
+    },
+    {
+      "id": "mn86:18.61",
+      "pali": "Saṁvibhattesu dhammesu,"
+    },
+    {
+      "id": "mn86:18.62",
+      "pali": "yaṁ seṭṭhaṁ tadupāgamaṁ."
+    },
+    {
+      "id": "mn86:18.63",
+      "pali": "Svāgataṁ nāpagataṁ,"
+    },
+    {
+      "id": "mn86:18.64",
+      "pali": "nayidaṁ dummantitaṁ mama;"
+    },
+    {
+      "id": "mn86:18.65",
+      "pali": "Tisso vijjā anuppattā,"
+    },
+    {
+      "id": "mn86:18.66",
+      "pali": "kataṁ buddhassa sāsanan”ti."
+    },
+    {
+      "id": "mn86:18.67",
+      "pali": "Aṅgulimālasuttaṁ niṭṭhitaṁ chaṭṭhaṁ."
+    }
+  ]
+}

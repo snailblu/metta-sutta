@@ -1,0 +1,663 @@
+{
+  "uid": "mn104",
+  "title": "Sāmagāmasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn104:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn104:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sakkesu viharati sāmagāme."
+    },
+    {
+      "id": "mn104:2.1",
+      "pali": "Tena kho pana samayena nigaṇṭho nāṭaputto pāvāyaṁ adhunākālaṅkato hoti."
+    },
+    {
+      "id": "mn104:2.2",
+      "pali": "Tassa kālaṅkiriyāya bhinnā nigaṇṭhā dvedhikajātā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṁ mukhasattīhi vitudantā viharanti:"
+    },
+    {
+      "id": "mn104:2.3",
+      "pali": "“na tvaṁ imaṁ dhammavinayaṁ ājānāsi, ahaṁ imaṁ dhammavinayaṁ ājānāmi. Kiṁ tvaṁ imaṁ dhammavinayaṁ ājānissasi. Micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno. Sahitaṁ me, asahitaṁ te. Purevacanīyaṁ pacchā avaca, pacchāvacanīyaṁ pure avaca. Adhiciṇṇaṁ te viparāvattaṁ. Āropito te vādo. Niggahitosi, cara vādappamokkhāya; nibbeṭhehi vā sace pahosī”ti."
+    },
+    {
+      "id": "mn104:2.4",
+      "pali": "Vadhoyeva kho maññe nigaṇṭhesu nāṭaputtiyesu vattati."
+    },
+    {
+      "id": "mn104:2.5",
+      "pali": "Yepi nigaṇṭhassa nāṭaputtassa sāvakā gihī odātavasanā tepi nigaṇṭhesu nāṭaputtiyesu nibbinnarūpā virattarūpā paṭivānarūpā yathā taṁ durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṁvattanike asammāsambuddhappavedite bhinnathūpe appaṭisaraṇe."
+    },
+    {
+      "id": "mn104:3.1",
+      "pali": "Atha kho cundo samaṇuddeso pāvāyaṁ vassaṁvuṭṭho yena sāmagāmo yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṁ ānandaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho cundo samaṇuddeso āyasmantaṁ ānandaṁ etadavoca:"
+    },
+    {
+      "id": "mn104:3.2",
+      "pali": "“nigaṇṭho, bhante, nāṭaputto pāvāyaṁ adhunākālaṅkato."
+    },
+    {
+      "id": "mn104:3.3",
+      "pali": "Tassa kālaṅkiriyāya bhinnā nigaṇṭhā dvedhikajātā …pe… bhinnathūpe appaṭisaraṇe”ti."
+    },
+    {
+      "id": "mn104:4.1",
+      "pali": "Evaṁ vutte, āyasmā ānando cundaṁ samaṇuddesaṁ etadavoca:"
+    },
+    {
+      "id": "mn104:4.2",
+      "pali": "“atthi kho idaṁ, āvuso cunda, kathāpābhataṁ bhagavantaṁ dassanāya."
+    },
+    {
+      "id": "mn104:4.3",
+      "pali": "Āyāma, āvuso cunda, yena bhagavā tenupasaṅkamissāma; upasaṅkamitvā etamatthaṁ bhagavato ārocessāmā”ti."
+    },
+    {
+      "id": "mn104:4.4",
+      "pali": "“Evaṁ, bhante”ti kho cundo samaṇuddeso āyasmato ānandassa paccassosi."
+    },
+    {
+      "id": "mn104:4.5",
+      "pali": "Atha kho āyasmā ca ānando cundo ca samaṇuddeso yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn104:4.6",
+      "pali": "“ayaṁ, bhante, cundo samaṇuddeso evamāha:"
+    },
+    {
+      "id": "mn104:4.7",
+      "pali": "‘nigaṇṭho, bhante, nāṭaputto pāvāyaṁ adhunākālaṅkato."
+    },
+    {
+      "id": "mn104:4.8",
+      "pali": "Tassa kālaṅkiriyāya bhinnā nigaṇṭhā dvedhikajātā …pe… bhinnathūpe appaṭisaraṇe’ti."
+    },
+    {
+      "id": "mn104:4.9",
+      "pali": "Tassa mayhaṁ, bhante, evaṁ hoti:"
+    },
+    {
+      "id": "mn104:4.10",
+      "pali": "‘mā heva bhagavato accayena saṅghe vivādo uppajji;"
+    },
+    {
+      "id": "mn104:4.11",
+      "pali": "svāssa vivādo bahujanāhitāya bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānan’”ti."
+    },
+    {
+      "id": "mn104:5.1",
+      "pali": "“Taṁ kiṁ maññasi, ānanda,"
+    },
+    {
+      "id": "mn104:5.2",
+      "pali": "ye vo mayā dhammā abhiññā desitā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn104:5.3",
+      "pali": "cattāro satipaṭṭhānā cattāro sammappadhānā cattāro iddhipādā pañcindriyāni pañca balāni satta bojjhaṅgā ariyo aṭṭhaṅgiko maggo, passasi no tvaṁ, ānanda, imesu dhammesu dvepi bhikkhū nānāvāde”ti?"
+    },
+    {
+      "id": "mn104:5.4",
+      "pali": "“Ye me, bhante, dhammā bhagavatā abhiññā desitā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn104:5.5",
+      "pali": "cattāro satipaṭṭhānā cattāro sammappadhānā cattāro iddhipādā pañcindriyāni pañca balāni satta bojjhaṅgā ariyo aṭṭhaṅgiko maggo, nāhaṁ passāmi imesu dhammesu dvepi bhikkhū nānāvāde."
+    },
+    {
+      "id": "mn104:5.6",
+      "pali": "Ye ca kho, bhante, puggalā bhagavantaṁ patissayamānarūpā viharanti tepi bhagavato accayena saṅghe vivādaṁ janeyyuṁ ajjhājīve vā adhipātimokkhe vā."
+    },
+    {
+      "id": "mn104:5.7",
+      "pali": "Svāssa vivādo bahujanāhitāya bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānan”ti."
+    },
+    {
+      "id": "mn104:5.8",
+      "pali": "“Appamattako so, ānanda, vivādo yadidaṁ—ajjhājīve vā adhipātimokkhe vā."
+    },
+    {
+      "id": "mn104:5.9",
+      "pali": "Magge vā hi, ānanda, paṭipadāya vā saṅghe vivādo uppajjamāno uppajjeyya; svāssa vivādo bahujanāhitāya bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ."
+    },
+    {
+      "id": "mn104:6.1",
+      "pali": "Chayimāni, ānanda, vivādamūlāni."
+    },
+    {
+      "id": "mn104:6.2",
+      "pali": "Katamāni cha?"
+    },
+    {
+      "id": "mn104:6.3",
+      "pali": "Idhānanda, bhikkhu kodhano hoti upanāhī."
+    },
+    {
+      "id": "mn104:6.4",
+      "pali": "Yo so, ānanda, bhikkhu kodhano hoti upanāhī so sattharipi agāravo viharati appatisso, dhammepi agāravo viharati appatisso, saṅghepi agāravo viharati appatisso, sikkhāyapi na paripūrakārī hoti."
+    },
+    {
+      "id": "mn104:6.5",
+      "pali": "Yo so, ānanda, bhikkhu satthari agāravo viharati appatisso, dhamme … saṅghe agāravo viharati appatisso, sikkhāya na paripūrakārī hoti, so saṅghe vivādaṁ janeti; yo hoti vivādo bahujanāhitāya bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ."
+    },
+    {
+      "id": "mn104:6.6",
+      "pali": "Evarūpañce tumhe, ānanda, vivādamūlaṁ ajjhattaṁ vā bahiddhā vā samanupasseyyātha, tatra tumhe, ānanda, tasseva pāpakassa vivādamūlassa pahānāya vāyameyyātha."
+    },
+    {
+      "id": "mn104:6.7",
+      "pali": "Evarūpañce tumhe, ānanda, vivādamūlaṁ ajjhattaṁ vā bahiddhā vā na samanupasseyyātha. Tatra tumhe, ānanda, tasseva pāpakassa vivādamūlassa āyatiṁ anavassavāya paṭipajjeyyātha."
+    },
+    {
+      "id": "mn104:6.8",
+      "pali": "Evametassa pāpakassa vivādamūlassa pahānaṁ hoti, evametassa pāpakassa vivādamūlassa āyatiṁ anavassavo hoti."
+    },
+    {
+      "id": "mn104:7-11.1",
+      "pali": "Puna caparaṁ, ānanda, bhikkhu makkhī hoti paḷāsī …pe…"
+    },
+    {
+      "id": "mn104:7-11.2",
+      "pali": "issukī hoti maccharī …pe…"
+    },
+    {
+      "id": "mn104:7-11.3",
+      "pali": "saṭho hoti māyāvī …pe…"
+    },
+    {
+      "id": "mn104:7-11.4",
+      "pali": "pāpiccho hoti micchādiṭṭhi …pe…"
+    },
+    {
+      "id": "mn104:7-11.5",
+      "pali": "sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī."
+    },
+    {
+      "id": "mn104:7-11.6",
+      "pali": "Yo so, ānanda, bhikkhu sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī so sattharipi agāravo viharati appatisso, dhammepi agāravo viharati appatisso, saṅghepi agāravo viharati appatisso, sikkhāyapi na paripūrakārī hoti."
+    },
+    {
+      "id": "mn104:7-11.7",
+      "pali": "Yo so, ānanda, bhikkhu satthari agāravo viharati appatisso, dhamme … saṅghe … sikkhāya na paripūrakārī hoti so saṅghe vivādaṁ janeti; yo hoti vivādo bahujanāhitāya bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ."
+    },
+    {
+      "id": "mn104:7-11.8",
+      "pali": "Evarūpañce tumhe, ānanda, vivādamūlaṁ ajjhattaṁ vā bahiddhā vā samanupasseyyātha. Tatra tumhe, ānanda, tasseva pāpakassa vivādamūlassa pahānāya vāyameyyātha."
+    },
+    {
+      "id": "mn104:7-11.9",
+      "pali": "Evarūpañce tumhe, ānanda, vivādamūlaṁ ajjhattaṁ vā bahiddhā vā na samanupasseyyātha, tatra tumhe, ānanda, tasseva pāpakassa vivādamūlassa āyatiṁ anavassavāya paṭipajjeyyātha."
+    },
+    {
+      "id": "mn104:7-11.10",
+      "pali": "Evametassa pāpakassa vivādamūlassa pahānaṁ hoti, evametassa pāpakassa vivādamūlassa āyatiṁ anavassavo hoti."
+    },
+    {
+      "id": "mn104:7-11.11",
+      "pali": "Imāni kho, ānanda, cha vivādamūlāni."
+    },
+    {
+      "id": "mn104:12.1",
+      "pali": "Cattārimāni, ānanda, adhikaraṇāni."
+    },
+    {
+      "id": "mn104:12.2",
+      "pali": "Katamāni cattāri?"
+    },
+    {
+      "id": "mn104:12.3",
+      "pali": "Vivādādhikaraṇaṁ, anuvādādhikaraṇaṁ, āpattādhikaraṇaṁ, kiccādhikaraṇaṁ—"
+    },
+    {
+      "id": "mn104:12.4",
+      "pali": "imāni kho, ānanda, cattāri adhikaraṇāni."
+    },
+    {
+      "id": "mn104:13.1",
+      "pali": "Satta kho panime, ānanda, adhikaraṇasamathā uppannuppannānaṁ adhikaraṇānaṁ samathāya vūpasamāya—"
+    },
+    {
+      "id": "mn104:13.2",
+      "pali": "sammukhāvinayo dātabbo, sativinayo dātabbo, amūḷhavinayo dātabbo, paṭiññāya kāretabbaṁ, yebhuyyasikā, tassapāpiyasikā, tiṇavatthārako."
+    },
+    {
+      "id": "mn104:14.1",
+      "pali": "Kathañcānanda, sammukhāvinayo hoti?"
+    },
+    {
+      "id": "mn104:14.2",
+      "pali": "Idhānanda, bhikkhū vivadanti dhammoti vā adhammoti vā vinayoti vā avinayoti vā."
+    },
+    {
+      "id": "mn104:14.3",
+      "pali": "Tehānanda, bhikkhūhi sabbeheva samaggehi sannipatitabbaṁ."
+    },
+    {
+      "id": "mn104:14.4",
+      "pali": "Sannipatitvā dhammanetti samanumajjitabbā."
+    },
+    {
+      "id": "mn104:14.5",
+      "pali": "Dhammanettiṁ samanumajjitvā yathā tattha sameti tathā taṁ adhikaraṇaṁ vūpasametabbaṁ."
+    },
+    {
+      "id": "mn104:14.6",
+      "pali": "Evaṁ kho, ānanda, sammukhāvinayo hoti;"
+    },
+    {
+      "id": "mn104:14.7",
+      "pali": "evañca panidhekaccānaṁ adhikaraṇānaṁ vūpasamo hoti yadidaṁ—"
+    },
+    {
+      "id": "mn104:14.8",
+      "pali": "sammukhāvinayena."
+    },
+    {
+      "id": "mn104:15.1",
+      "pali": "Kathañcānanda, yebhuyyasikā hoti?"
+    },
+    {
+      "id": "mn104:15.2",
+      "pali": "Te ce, ānanda, bhikkhū na sakkonti taṁ adhikaraṇaṁ tasmiṁ āvāse vūpasametuṁ."
+    },
+    {
+      "id": "mn104:15.3",
+      "pali": "Tehānanda, bhikkhūhi yasmiṁ āvāse bahutarā bhikkhū so āvāso gantabbo."
+    },
+    {
+      "id": "mn104:15.4",
+      "pali": "Tattha sabbeheva samaggehi sannipatitabbaṁ."
+    },
+    {
+      "id": "mn104:15.5",
+      "pali": "Sannipatitvā dhammanetti samanumajjitabbā."
+    },
+    {
+      "id": "mn104:15.6",
+      "pali": "Dhammanettiṁ samanumajjitvā yathā tattha sameti tathā taṁ adhikaraṇaṁ vūpasametabbaṁ."
+    },
+    {
+      "id": "mn104:15.7",
+      "pali": "Evaṁ kho, ānanda, yebhuyyasikā hoti, evañca panidhekaccānaṁ adhikaraṇānaṁ vūpasamo hoti yadidaṁ—"
+    },
+    {
+      "id": "mn104:15.8",
+      "pali": "yebhuyyasikāya."
+    },
+    {
+      "id": "mn104:16.1",
+      "pali": "Kathañcānanda, sativinayo hoti?"
+    },
+    {
+      "id": "mn104:16.2",
+      "pali": "Idhānanda, bhikkhū bhikkhuṁ evarūpāya garukāya āpattiyā codenti pārājikena vā pārājikasāmantena vā:"
+    },
+    {
+      "id": "mn104:16.3",
+      "pali": "‘saratāyasmā evarūpiṁ garukaṁ āpattiṁ āpajjitā pārājikaṁ vā pārājikasāmantaṁ vā’ti?"
+    },
+    {
+      "id": "mn104:16.4",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn104:16.5",
+      "pali": "‘na kho ahaṁ, āvuso, sarāmi evarūpiṁ garukaṁ āpattiṁ āpajjitā pārājikaṁ vā pārājikasāmantaṁ vā’ti."
+    },
+    {
+      "id": "mn104:16.6",
+      "pali": "Tassa kho, ānanda, bhikkhuno sativinayo dātabbo."
+    },
+    {
+      "id": "mn104:16.7",
+      "pali": "Evaṁ kho, ānanda, sativinayo hoti, evañca panidhekaccānaṁ adhikaraṇānaṁ vūpasamo hoti yadidaṁ—"
+    },
+    {
+      "id": "mn104:16.8",
+      "pali": "sativinayena."
+    },
+    {
+      "id": "mn104:17.1",
+      "pali": "Kathañcānanda, amūḷhavinayo hoti?"
+    },
+    {
+      "id": "mn104:17.2",
+      "pali": "Idhānanda, bhikkhū bhikkhuṁ evarūpāya garukāya āpattiyā codenti pārājikena vā pārājikasāmantena vā:"
+    },
+    {
+      "id": "mn104:17.3",
+      "pali": "‘saratāyasmā evarūpiṁ garukaṁ āpattiṁ āpajjitā pārājikaṁ vā pārājikasāmantaṁ vā’ti?"
+    },
+    {
+      "id": "mn104:17.4",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn104:17.5",
+      "pali": "‘na kho ahaṁ, āvuso, sarāmi evarūpiṁ garukaṁ āpattiṁ āpajjitā pārājikaṁ vā pārājikasāmantaṁ vā’ti."
+    },
+    {
+      "id": "mn104:17.6",
+      "pali": "Tamenaṁ so nibbeṭhentaṁ ativeṭheti:"
+    },
+    {
+      "id": "mn104:17.7",
+      "pali": "‘iṅghāyasmā sādhukameva jānāhi yadi sarasi evarūpiṁ garukaṁ āpattiṁ āpajjitā pārājikaṁ vā pārājikasāmantaṁ vā’ti."
+    },
+    {
+      "id": "mn104:17.8",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn104:17.9",
+      "pali": "‘ahaṁ kho, āvuso, ummādaṁ pāpuṇiṁ cetaso vipariyāsaṁ."
+    },
+    {
+      "id": "mn104:17.10",
+      "pali": "Tena me ummattakena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ."
+    },
+    {
+      "id": "mn104:17.11",
+      "pali": "Nāhaṁ taṁ sarāmi."
+    },
+    {
+      "id": "mn104:17.12",
+      "pali": "Mūḷhena me etaṁ katan’ti."
+    },
+    {
+      "id": "mn104:17.13",
+      "pali": "Tassa kho, ānanda, bhikkhuno amūḷhavinayo dātabbo."
+    },
+    {
+      "id": "mn104:17.14",
+      "pali": "Evaṁ kho, ānanda, amūḷhavinayo hoti, evañca panidhekaccānaṁ adhikaraṇānaṁ vūpasamo hoti yadidaṁ—"
+    },
+    {
+      "id": "mn104:17.15",
+      "pali": "amūḷhavinayena."
+    },
+    {
+      "id": "mn104:18.1",
+      "pali": "Kathañcānanda, paṭiññātakaraṇaṁ hoti?"
+    },
+    {
+      "id": "mn104:18.2",
+      "pali": "Idhānanda, bhikkhu codito vā acodito vā āpattiṁ sarati, vivarati uttānīkaroti."
+    },
+    {
+      "id": "mn104:18.3",
+      "pali": "Tena, ānanda, bhikkhunā vuḍḍhataraṁ bhikkhuṁ upasaṅkamitvā ekaṁsaṁ cīvaraṁ katvā pāde vanditvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassa vacanīyo:"
+    },
+    {
+      "id": "mn104:18.4",
+      "pali": "‘ahaṁ, bhante, itthannāmaṁ āpattiṁ āpanno, taṁ paṭidesemī’ti."
+    },
+    {
+      "id": "mn104:18.5",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn104:18.6",
+      "pali": "‘passasī’ti?"
+    },
+    {
+      "id": "mn104:18.7",
+      "pali": "‘Āma passāmī’ti."
+    },
+    {
+      "id": "mn104:18.8",
+      "pali": "‘Āyatiṁ saṁvareyyāsī’ti."
+    },
+    {
+      "id": "mn104:18.9",
+      "pali": "‘Saṁvarissāmī’ti."
+    },
+    {
+      "id": "mn104:18.10",
+      "pali": "Evaṁ kho, ānanda, paṭiññātakaraṇaṁ hoti, evañca panidhekaccānaṁ adhikaraṇānaṁ vūpasamo hoti yadidaṁ—"
+    },
+    {
+      "id": "mn104:18.11",
+      "pali": "paṭiññātakaraṇena."
+    },
+    {
+      "id": "mn104:19.1",
+      "pali": "Kathañcānanda, tassapāpiyasikā hoti?"
+    },
+    {
+      "id": "mn104:19.2",
+      "pali": "Idhānanda, bhikkhu bhikkhuṁ evarūpāya garukāya āpattiyā codeti pārājikena vā pārājikasāmantena vā:"
+    },
+    {
+      "id": "mn104:19.3",
+      "pali": "‘saratāyasmā evarūpiṁ garukaṁ āpattiṁ āpajjitā pārājikaṁ vā pārājikasāmantaṁ vā’ti?"
+    },
+    {
+      "id": "mn104:19.4",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn104:19.5",
+      "pali": "‘na kho ahaṁ, āvuso, sarāmi evarūpiṁ garukaṁ āpattiṁ āpajjitā pārājikaṁ vā pārājikasāmantaṁ vā’ti."
+    },
+    {
+      "id": "mn104:19.6",
+      "pali": "Tamenaṁ so nibbeṭhentaṁ ativeṭheti:"
+    },
+    {
+      "id": "mn104:19.7",
+      "pali": "‘iṅghāyasmā sādhukameva jānāhi yadi sarasi evarūpiṁ garukaṁ āpattiṁ āpajjitā pārājikaṁ vā pārājikasāmantaṁ vā’ti."
+    },
+    {
+      "id": "mn104:19.8",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn104:19.9",
+      "pali": "‘na kho ahaṁ, āvuso, sarāmi evarūpiṁ garukaṁ āpattiṁ āpajjitā pārājikaṁ vā pārājikasāmantaṁ vā;"
+    },
+    {
+      "id": "mn104:19.10",
+      "pali": "sarāmi ca kho ahaṁ, āvuso, evarūpiṁ appamattikaṁ āpattiṁ āpajjitā’ti."
+    },
+    {
+      "id": "mn104:19.11",
+      "pali": "Tamenaṁ so nibbeṭhentaṁ ativeṭheti:"
+    },
+    {
+      "id": "mn104:19.12",
+      "pali": "‘iṅghāyasmā sādhukameva jānāhi yadi sarasi evarūpiṁ garukaṁ āpattiṁ āpajjitā pārājikaṁ vā pārājikasāmantaṁ vā’ti?"
+    },
+    {
+      "id": "mn104:19.13",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn104:19.14",
+      "pali": "‘imañhi nāmāhaṁ, āvuso, appamattikaṁ āpattiṁ āpajjitvā apuṭṭho paṭijānissāmi."
+    },
+    {
+      "id": "mn104:19.15",
+      "pali": "Kiṁ panāhaṁ evarūpiṁ garukaṁ āpattiṁ āpajjitvā pārājikaṁ vā pārājikasāmantaṁ vā puṭṭho na paṭijānissāmī’ti?"
+    },
+    {
+      "id": "mn104:19.16",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn104:19.17",
+      "pali": "‘imañhi nāma tvaṁ, āvuso, appamattikaṁ āpattiṁ āpajjitvā apuṭṭho na paṭijānissasi, kiṁ pana tvaṁ evarūpiṁ garukaṁ āpattiṁ āpajjitvā pārājikaṁ vā pārājikasāmantaṁ vā puṭṭho paṭijānissasi?"
+    },
+    {
+      "id": "mn104:19.18",
+      "pali": "Iṅghāyasmā sādhukameva jānāhi yadi sarasi evarūpiṁ garukaṁ āpattiṁ āpajjitā pārājikaṁ vā pārājikasāmantaṁ vā’ti."
+    },
+    {
+      "id": "mn104:19.19",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn104:19.20",
+      "pali": "‘sarāmi kho ahaṁ, āvuso, evarūpiṁ garukaṁ āpattiṁ āpajjitā pārājikaṁ vā pārājikasāmantaṁ vā."
+    },
+    {
+      "id": "mn104:19.21",
+      "pali": "Davā me etaṁ vuttaṁ, ravā me etaṁ vuttaṁ—"
+    },
+    {
+      "id": "mn104:19.22",
+      "pali": "nāhaṁ taṁ sarāmi evarūpiṁ garukaṁ āpattiṁ āpajjitā pārājikaṁ vā pārājikasāmantaṁ vā’ti."
+    },
+    {
+      "id": "mn104:19.23",
+      "pali": "Evaṁ kho, ānanda, tassapāpiyasikā hoti, evañca panidhekaccānaṁ adhikaraṇānaṁ vūpasamo hoti yadidaṁ—"
+    },
+    {
+      "id": "mn104:19.24",
+      "pali": "tassapāpiyasikāya."
+    },
+    {
+      "id": "mn104:20.1",
+      "pali": "Kathañcānanda, tiṇavatthārako hoti?"
+    },
+    {
+      "id": "mn104:20.2",
+      "pali": "Idhānanda, bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ hoti bhāsitaparikkantaṁ."
+    },
+    {
+      "id": "mn104:20.3",
+      "pali": "Tehānanda, bhikkhūhi sabbeheva samaggehi sannipatitabbaṁ."
+    },
+    {
+      "id": "mn104:20.4",
+      "pali": "Sannipatitvā ekatopakkhikānaṁ bhikkhūnaṁ byattena bhikkhunā uṭṭhāyāsanā ekaṁsaṁ cīvaraṁ katvā añjaliṁ paṇāmetvā saṅgho ñāpetabbo—"
+    },
+    {
+      "id": "mn104:20.5",
+      "pali": "Suṇātu me, bhante, saṅgho."
+    },
+    {
+      "id": "mn104:20.6",
+      "pali": "Idaṁ amhākaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ."
+    },
+    {
+      "id": "mn104:20.7",
+      "pali": "Yadi saṅghassa pattakallaṁ, ahaṁ yā ceva imesaṁ āyasmantānaṁ āpatti yā ca attano āpatti, imesañceva āyasmantānaṁ atthāya attano ca atthāya, saṅghamajjhe tiṇavatthārakena deseyyaṁ, ṭhapetvā thullavajjaṁ ṭhapetvā gihipaṭisaṁyuttan’ti."
+    },
+    {
+      "id": "mn104:20.8",
+      "pali": "Athāparesaṁ ekatopakkhikānaṁ bhikkhūnaṁ byattena bhikkhunā uṭṭhāyāsanā ekaṁsaṁ cīvaraṁ katvā añjaliṁ paṇāmetvā saṅgho ñāpetabbo:"
+    },
+    {
+      "id": "mn104:20.9",
+      "pali": "‘Suṇātu me, bhante, saṅgho."
+    },
+    {
+      "id": "mn104:20.10",
+      "pali": "Idaṁ amhākaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ."
+    },
+    {
+      "id": "mn104:20.11",
+      "pali": "Yadi saṅghassa pattakallaṁ, ahaṁ yā ceva imesaṁ āyasmantānaṁ āpatti yā ca attano āpatti, imesañceva āyasmantānaṁ atthāya attano ca atthāya, saṅghamajjhe tiṇavatthārakena deseyyaṁ, ṭhapetvā thullavajjaṁ ṭhapetvā gihipaṭisaṁyuttan’ti."
+    },
+    {
+      "id": "mn104:20.12",
+      "pali": "Evaṁ kho, ānanda, tiṇavatthārako hoti, evañca panidhekaccānaṁ adhikaraṇānaṁ vūpasamo hoti yadidaṁ—"
+    },
+    {
+      "id": "mn104:20.13",
+      "pali": "tiṇavatthārakena."
+    },
+    {
+      "id": "mn104:21.1",
+      "pali": "Chayime, ānanda, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattanti."
+    },
+    {
+      "id": "mn104:21.2",
+      "pali": "Katame cha?"
+    },
+    {
+      "id": "mn104:21.3",
+      "pali": "Idhānanda, bhikkhuno mettaṁ kāyakammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca."
+    },
+    {
+      "id": "mn104:21.4",
+      "pali": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "mn104:21.5",
+      "pali": "Puna caparaṁ, ānanda, bhikkhuno mettaṁ vacīkammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca."
+    },
+    {
+      "id": "mn104:21.6",
+      "pali": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "mn104:21.7",
+      "pali": "Puna caparaṁ, ānanda, bhikkhuno mettaṁ manokammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca."
+    },
+    {
+      "id": "mn104:21.8",
+      "pali": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "mn104:21.9",
+      "pali": "Puna caparaṁ, ānanda, bhikkhu—ye te lābhā dhammikā dhammaladdhā antamaso pattapariyāpannamattampi tathārūpehi lābhehi—apaṭivibhattabhogī hoti, sīlavantehi sabrahmacārīhi sādhāraṇabhogī."
+    },
+    {
+      "id": "mn104:21.10",
+      "pali": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "mn104:21.11",
+      "pali": "Puna caparaṁ, ānanda, bhikkhu—yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṁvattanikāni tathārūpesu sīlesu—sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca."
+    },
+    {
+      "id": "mn104:21.12",
+      "pali": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "mn104:21.13",
+      "pali": "Puna caparaṁ, ānanda, bhikkhu—yāyaṁ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya tathārūpāya diṭṭhiyā—diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca."
+    },
+    {
+      "id": "mn104:21.14",
+      "pali": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati."
+    },
+    {
+      "id": "mn104:21.15",
+      "pali": "Ime kho, ānanda, cha sāraṇīyā dhammā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattanti."
+    },
+    {
+      "id": "mn104:22.1",
+      "pali": "Ime ce tumhe, ānanda, cha sāraṇīye dhamme samādāya vatteyyātha, passatha no tumhe, ānanda, taṁ vacanapathaṁ aṇuṁ vā thūlaṁ vā yaṁ tumhe nādhivāseyyāthā”ti?"
+    },
+    {
+      "id": "mn104:22.2",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn104:22.3",
+      "pali": "“Tasmātihānanda, ime cha sāraṇīye dhamme samādāya vattatha."
+    },
+    {
+      "id": "mn104:22.4",
+      "pali": "Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā”ti."
+    },
+    {
+      "id": "mn104:22.5",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn104:22.6",
+      "pali": "Attamano āyasmā ānando bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn104:22.7",
+      "pali": "Sāmagāmasuttaṁ niṭṭhitaṁ catutthaṁ."
+    }
+  ]
+}

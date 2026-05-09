@@ -1,0 +1,299 @@
+{
+  "uid": "snp1.10",
+  "title": "Āḷavakasutta",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "snp1.10:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "snp1.10:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā āḷaviyaṁ viharati āḷavakassa yakkhassa bhavane."
+    },
+    {
+      "id": "snp1.10:1.3",
+      "pali": "Atha kho āḷavako yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "snp1.10:1.4",
+      "pali": "“nikkhama, samaṇā”ti."
+    },
+    {
+      "id": "snp1.10:1.5",
+      "pali": "“Sādhāvuso”ti bhagavā nikkhami."
+    },
+    {
+      "id": "snp1.10:1.6",
+      "pali": "“Pavisa, samaṇā”ti."
+    },
+    {
+      "id": "snp1.10:1.7",
+      "pali": "“Sādhāvuso”ti bhagavā pāvisi."
+    },
+    {
+      "id": "snp1.10:2.1",
+      "pali": "Dutiyampi kho …pe…"
+    },
+    {
+      "id": "snp1.10:2.2",
+      "pali": "tatiyampi kho āḷavako yakkho bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "snp1.10:2.3",
+      "pali": "“nikkhama, samaṇā”ti."
+    },
+    {
+      "id": "snp1.10:2.4",
+      "pali": "“Sādhāvuso”ti bhagavā nikkhami."
+    },
+    {
+      "id": "snp1.10:2.5",
+      "pali": "“Pavisa, samaṇā”ti."
+    },
+    {
+      "id": "snp1.10:2.6",
+      "pali": "“Sādhāvuso”ti bhagavā pāvisi."
+    },
+    {
+      "id": "snp1.10:3.1",
+      "pali": "Catutthampi kho āḷavako yakkho bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "snp1.10:3.2",
+      "pali": "“nikkhama, samaṇā”ti."
+    },
+    {
+      "id": "snp1.10:3.3",
+      "pali": "“Na khvāhaṁ taṁ, āvuso, nikkhamissāmi."
+    },
+    {
+      "id": "snp1.10:3.4",
+      "pali": "Yaṁ te karaṇīyaṁ, taṁ karohī”ti."
+    },
+    {
+      "id": "snp1.10:4.1",
+      "pali": "“Pañhaṁ taṁ, samaṇa, pucchissāmi."
+    },
+    {
+      "id": "snp1.10:4.2",
+      "pali": "Sace me na byākarissasi, cittaṁ vā te khipissāmi, hadayaṁ vā te phālessāmi, pādesu vā gahetvā pāragaṅgāya khipissāmī”ti."
+    },
+    {
+      "id": "snp1.10:5.1",
+      "pali": "“Na khvāhaṁ taṁ, āvuso, passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya yo me cittaṁ vā khipeyya hadayaṁ vā phāleyya pādesu vā gahetvā pāragaṅgāya khipeyya."
+    },
+    {
+      "id": "snp1.10:5.2",
+      "pali": "Api ca tvaṁ, āvuso, puccha yadākaṅkhasī”ti."
+    },
+    {
+      "id": "snp1.10:5.3",
+      "pali": "Atha kho āḷavako yakkho bhagavantaṁ gāthāya ajjhabhāsi:"
+    },
+    {
+      "id": "snp1.10:6.1",
+      "pali": "“Kiṁ sūdha vittaṁ purisassa seṭṭhaṁ,"
+    },
+    {
+      "id": "snp1.10:6.2",
+      "pali": "Kiṁ su suciṇṇaṁ sukhamāvahāti;"
+    },
+    {
+      "id": "snp1.10:6.3",
+      "pali": "Kiṁ su have sādutaraṁ rasānaṁ,"
+    },
+    {
+      "id": "snp1.10:6.4",
+      "pali": "Kathaṁjīviṁ jīvitamāhu seṭṭhaṁ”."
+    },
+    {
+      "id": "snp1.10:7.1",
+      "pali": "“Saddhīdha vittaṁ purisassa seṭṭhaṁ,"
+    },
+    {
+      "id": "snp1.10:7.2",
+      "pali": "Dhammo suciṇṇo sukhamāvahāti;"
+    },
+    {
+      "id": "snp1.10:7.3",
+      "pali": "Saccaṁ have sādutaraṁ rasānaṁ,"
+    },
+    {
+      "id": "snp1.10:7.4",
+      "pali": "Paññājīviṁ jīvitamāhu seṭṭhaṁ”."
+    },
+    {
+      "id": "snp1.10:8.1",
+      "pali": "“Kathaṁ su tarati oghaṁ,"
+    },
+    {
+      "id": "snp1.10:8.2",
+      "pali": "kathaṁ su tarati aṇṇavaṁ;"
+    },
+    {
+      "id": "snp1.10:8.3",
+      "pali": "Kathaṁ su dukkhamacceti,"
+    },
+    {
+      "id": "snp1.10:8.4",
+      "pali": "kathaṁ su parisujjhati”."
+    },
+    {
+      "id": "snp1.10:9.1",
+      "pali": "“Saddhāya tarati oghaṁ,"
+    },
+    {
+      "id": "snp1.10:9.2",
+      "pali": "appamādena aṇṇavaṁ;"
+    },
+    {
+      "id": "snp1.10:9.3",
+      "pali": "Vīriyena dukkhamacceti,"
+    },
+    {
+      "id": "snp1.10:9.4",
+      "pali": "paññāya parisujjhati”."
+    },
+    {
+      "id": "snp1.10:10.1",
+      "pali": "“Kathaṁ su labhate paññaṁ,"
+    },
+    {
+      "id": "snp1.10:10.2",
+      "pali": "kathaṁ su vindate dhanaṁ;"
+    },
+    {
+      "id": "snp1.10:10.3",
+      "pali": "Kathaṁ su kittiṁ pappoti,"
+    },
+    {
+      "id": "snp1.10:10.4",
+      "pali": "kathaṁ mittāni ganthati;"
+    },
+    {
+      "id": "snp1.10:10.5",
+      "pali": "Asmā lokā paraṁ lokaṁ,"
+    },
+    {
+      "id": "snp1.10:10.6",
+      "pali": "kathaṁ pecca na socati”."
+    },
+    {
+      "id": "snp1.10:11.1",
+      "pali": "“Saddahāno arahataṁ,"
+    },
+    {
+      "id": "snp1.10:11.2",
+      "pali": "dhammaṁ nibbānapattiyā;"
+    },
+    {
+      "id": "snp1.10:11.3",
+      "pali": "Sussūsaṁ labhate paññaṁ,"
+    },
+    {
+      "id": "snp1.10:11.4",
+      "pali": "appamatto vicakkhaṇo."
+    },
+    {
+      "id": "snp1.10:12.1",
+      "pali": "Patirūpakārī dhuravā,"
+    },
+    {
+      "id": "snp1.10:12.2",
+      "pali": "uṭṭhātā vindate dhanaṁ;"
+    },
+    {
+      "id": "snp1.10:12.3",
+      "pali": "Saccena kittiṁ pappoti,"
+    },
+    {
+      "id": "snp1.10:12.4",
+      "pali": "dadaṁ mittāni ganthati."
+    },
+    {
+      "id": "snp1.10:13.1",
+      "pali": "Yassete caturo dhammā,"
+    },
+    {
+      "id": "snp1.10:13.2",
+      "pali": "saddhassa gharamesino;"
+    },
+    {
+      "id": "snp1.10:13.3",
+      "pali": "Saccaṁ dhammo dhiti cāgo,"
+    },
+    {
+      "id": "snp1.10:13.4",
+      "pali": "sa ve pecca na socati."
+    },
+    {
+      "id": "snp1.10:14.1",
+      "pali": "Iṅgha aññepi pucchassu,"
+    },
+    {
+      "id": "snp1.10:14.2",
+      "pali": "puthū samaṇabrāhmaṇe;"
+    },
+    {
+      "id": "snp1.10:14.3",
+      "pali": "Yadi saccā damā cāgā,"
+    },
+    {
+      "id": "snp1.10:14.4",
+      "pali": "khantyā bhiyyodha vijjati”."
+    },
+    {
+      "id": "snp1.10:15.1",
+      "pali": "“Kathaṁ nu dāni puccheyyaṁ,"
+    },
+    {
+      "id": "snp1.10:15.2",
+      "pali": "Puthū samaṇabrāhmaṇe;"
+    },
+    {
+      "id": "snp1.10:15.3",
+      "pali": "Yohaṁ ajja pajānāmi,"
+    },
+    {
+      "id": "snp1.10:15.4",
+      "pali": "Yo attho samparāyiko."
+    },
+    {
+      "id": "snp1.10:16.1",
+      "pali": "Atthāya vata me buddho,"
+    },
+    {
+      "id": "snp1.10:16.2",
+      "pali": "Vāsāyāḷavimāgamā;"
+    },
+    {
+      "id": "snp1.10:16.3",
+      "pali": "Yohaṁ ajja pajānāmi,"
+    },
+    {
+      "id": "snp1.10:16.4",
+      "pali": "Yattha dinnaṁ mahapphalaṁ."
+    },
+    {
+      "id": "snp1.10:17.1",
+      "pali": "So ahaṁ vicarissāmi,"
+    },
+    {
+      "id": "snp1.10:17.2",
+      "pali": "Gāmā gāmaṁ purā puraṁ;"
+    },
+    {
+      "id": "snp1.10:17.3",
+      "pali": "Namassamāno sambuddhaṁ,"
+    },
+    {
+      "id": "snp1.10:17.4",
+      "pali": "Dhammassa ca sudhammatan”ti."
+    },
+    {
+      "id": "snp1.10:17.5",
+      "pali": "Āḷavakasuttaṁ dasamaṁ."
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "uid": "mn11",
+  "title": "Cūḷasīhanādasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn11:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn11:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn11:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn11:1.4",
+      "pali": "“bhikkhavo”ti."
+    },
+    {
+      "id": "mn11:1.5",
+      "pali": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn11:1.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn11:2.1",
+      "pali": "“Idheva, bhikkhave, samaṇo, idha dutiyo samaṇo, idha tatiyo samaṇo, idha catuttho samaṇo;"
+    },
+    {
+      "id": "mn11:2.2",
+      "pali": "suññā parappavādā samaṇebhi aññehīti."
+    },
+    {
+      "id": "mn11:2.3",
+      "pali": "Evametaṁ, bhikkhave, sammā sīhanādaṁ nadatha."
+    },
+    {
+      "id": "mn11:3.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, bhikkhave, vijjati yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "mn11:3.2",
+      "pali": "‘ko panāyasmantānaṁ assāso, kiṁ balaṁ, yena tumhe āyasmanto evaṁ vadetha—"
+    },
+    {
+      "id": "mn11:3.3",
+      "pali": "idheva samaṇo, idha dutiyo samaṇo, idha tatiyo samaṇo, idha catuttho samaṇo;"
+    },
+    {
+      "id": "mn11:3.4",
+      "pali": "suññā parappavādā samaṇebhi aññehī’ti?"
+    },
+    {
+      "id": "mn11:3.5",
+      "pali": "Evaṁvādino, bhikkhave, aññatitthiyā paribbājakā evamassu vacanīyā:"
+    },
+    {
+      "id": "mn11:3.6",
+      "pali": "‘atthi kho no, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro dhammā akkhātā ye mayaṁ attani sampassamānā evaṁ vadema—"
+    },
+    {
+      "id": "mn11:3.7",
+      "pali": "idheva samaṇo, idha dutiyo samaṇo, idha tatiyo samaṇo, idha catuttho samaṇo;"
+    },
+    {
+      "id": "mn11:3.8",
+      "pali": "suññā parappavādā samaṇebhi aññehīti."
+    },
+    {
+      "id": "mn11:3.9",
+      "pali": "Katame cattāro?"
+    },
+    {
+      "id": "mn11:3.10",
+      "pali": "Atthi kho no, āvuso, satthari pasādo, atthi dhamme pasādo, atthi sīlesu paripūrakāritā;"
+    },
+    {
+      "id": "mn11:3.11",
+      "pali": "sahadhammikā kho pana piyā manāpā—"
+    },
+    {
+      "id": "mn11:3.12",
+      "pali": "gahaṭṭhā ceva pabbajitā ca."
+    },
+    {
+      "id": "mn11:3.13",
+      "pali": "Ime kho no, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro dhammā akkhātā ye mayaṁ attani sampassamānā evaṁ vadema—"
+    },
+    {
+      "id": "mn11:3.14",
+      "pali": "idheva samaṇo, idha dutiyo samaṇo, idha tatiyo samaṇo, idha catuttho samaṇo;"
+    },
+    {
+      "id": "mn11:3.15",
+      "pali": "suññā parappavādā samaṇebhi aññehī’ti."
+    },
+    {
+      "id": "mn11:4.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, bhikkhave, vijjati yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "mn11:4.2",
+      "pali": "‘amhākampi kho, āvuso, atthi satthari pasādo yo amhākaṁ satthā, amhākampi atthi dhamme pasādo yo amhākaṁ dhammo, mayampi sīlesu paripūrakārino yāni amhākaṁ sīlāni,"
+    },
+    {
+      "id": "mn11:4.3",
+      "pali": "amhākampi sahadhammikā piyā manāpā—"
+    },
+    {
+      "id": "mn11:4.4",
+      "pali": "gahaṭṭhā ceva pabbajitā ca."
+    },
+    {
+      "id": "mn11:4.5",
+      "pali": "Idha no, āvuso, ko viseso ko adhippayāso kiṁ nānākaraṇaṁ yadidaṁ tumhākañceva amhākañcā’ti?"
+    },
+    {
+      "id": "mn11:5.1",
+      "pali": "Evaṁvādino, bhikkhave, aññatitthiyā paribbājakā evamassu vacanīyā:"
+    },
+    {
+      "id": "mn11:5.2",
+      "pali": "‘kiṁ panāvuso, ekā niṭṭhā, udāhu puthu niṭṭhā’ti?"
+    },
+    {
+      "id": "mn11:5.3",
+      "pali": "Sammā byākaramānā, bhikkhave, aññatitthiyā paribbājakā evaṁ byākareyyuṁ:"
+    },
+    {
+      "id": "mn11:5.4",
+      "pali": "‘ekāvuso, niṭṭhā, na puthu niṭṭhā’ti."
+    },
+    {
+      "id": "mn11:5.5",
+      "pali": "‘Sā panāvuso, niṭṭhā sarāgassa udāhu vītarāgassā’ti?"
+    },
+    {
+      "id": "mn11:5.6",
+      "pali": "Sammā byākaramānā, bhikkhave, aññatitthiyā paribbājakā evaṁ byākareyyuṁ:"
+    },
+    {
+      "id": "mn11:5.7",
+      "pali": "‘vītarāgassāvuso, sā niṭṭhā, na sā niṭṭhā sarāgassā’ti."
+    },
+    {
+      "id": "mn11:5.8",
+      "pali": "‘Sā panāvuso, niṭṭhā sadosassa udāhu vītadosassā’ti?"
+    },
+    {
+      "id": "mn11:5.9",
+      "pali": "Sammā byākaramānā, bhikkhave, aññatitthiyā paribbājakā evaṁ byākareyyuṁ:"
+    },
+    {
+      "id": "mn11:5.10",
+      "pali": "‘vītadosassāvuso, sā niṭṭhā, na sā niṭṭhā sadosassā’ti."
+    },
+    {
+      "id": "mn11:5.11",
+      "pali": "‘Sā panāvuso, niṭṭhā samohassa udāhu vītamohassā’ti?"
+    },
+    {
+      "id": "mn11:5.12",
+      "pali": "Sammā byākaramānā, bhikkhave, aññatitthiyā paribbājakā evaṁ byākareyyuṁ:"
+    },
+    {
+      "id": "mn11:5.13",
+      "pali": "‘vītamohassāvuso, sā niṭṭhā, na sā niṭṭhā samohassā’ti."
+    },
+    {
+      "id": "mn11:5.14",
+      "pali": "‘Sā panāvuso, niṭṭhā sataṇhassa udāhu vītataṇhassā’ti?"
+    },
+    {
+      "id": "mn11:5.15",
+      "pali": "Sammā byākaramānā, bhikkhave, aññatitthiyā paribbājakā evaṁ byākareyyuṁ:"
+    },
+    {
+      "id": "mn11:5.16",
+      "pali": "‘vītataṇhassāvuso, sā niṭṭhā, na sā niṭṭhā sataṇhassā’ti."
+    },
+    {
+      "id": "mn11:5.17",
+      "pali": "‘Sā panāvuso, niṭṭhā saupādānassa udāhu anupādānassā’ti?"
+    },
+    {
+      "id": "mn11:5.18",
+      "pali": "Sammā byākaramānā, bhikkhave, aññatitthiyā paribbājakā evaṁ byākareyyuṁ:"
+    },
+    {
+      "id": "mn11:5.19",
+      "pali": "‘anupādānassāvuso, sā niṭṭhā, na sā niṭṭhā saupādānassā’ti."
+    },
+    {
+      "id": "mn11:5.20",
+      "pali": "‘Sā panāvuso, niṭṭhā viddasuno udāhu aviddasuno’ti?"
+    },
+    {
+      "id": "mn11:5.21",
+      "pali": "Sammā byākaramānā, bhikkhave, aññatitthiyā paribbājakā evaṁ byākareyyuṁ:"
+    },
+    {
+      "id": "mn11:5.22",
+      "pali": "‘viddasuno, āvuso, sā niṭṭhā, na sā niṭṭhā aviddasuno’ti."
+    },
+    {
+      "id": "mn11:5.23",
+      "pali": "‘Sā panāvuso, niṭṭhā anuruddhappaṭiviruddhassa udāhu ananuruddhaappaṭiviruddhassā’ti?"
+    },
+    {
+      "id": "mn11:5.24",
+      "pali": "Sammā byākaramānā, bhikkhave, aññatitthiyā paribbājakā evaṁ byākareyyuṁ:"
+    },
+    {
+      "id": "mn11:5.25",
+      "pali": "‘ananuruddhaappaṭiviruddhassāvuso, sā niṭṭhā, na sā niṭṭhā anuruddhappaṭiviruddhassā’ti."
+    },
+    {
+      "id": "mn11:5.26",
+      "pali": "‘Sā panāvuso, niṭṭhā papañcārāmassa papañcaratino udāhu nippapañcārāmassa nippapañcaratino’ti?"
+    },
+    {
+      "id": "mn11:5.27",
+      "pali": "Sammā byākaramānā, bhikkhave, aññatitthiyā paribbājakā evaṁ byākareyyuṁ:"
+    },
+    {
+      "id": "mn11:5.28",
+      "pali": "‘nippapañcārāmassāvuso, sā niṭṭhā nippapañcaratino, na sā niṭṭhā papañcārāmassa papañcaratino’ti."
+    },
+    {
+      "id": "mn11:6.1",
+      "pali": "Dvemā, bhikkhave, diṭṭhiyo—"
+    },
+    {
+      "id": "mn11:6.2",
+      "pali": "bhavadiṭṭhi ca vibhavadiṭṭhi ca."
+    },
+    {
+      "id": "mn11:6.3",
+      "pali": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā bhavadiṭṭhiṁ allīnā bhavadiṭṭhiṁ upagatā bhavadiṭṭhiṁ ajjhositā, vibhavadiṭṭhiyā te paṭiviruddhā."
+    },
+    {
+      "id": "mn11:6.4",
+      "pali": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā vibhavadiṭṭhiṁ allīnā vibhavadiṭṭhiṁ upagatā vibhavadiṭṭhiṁ ajjhositā, bhavadiṭṭhiyā te paṭiviruddhā."
+    },
+    {
+      "id": "mn11:7.1",
+      "pali": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā imāsaṁ dvinnaṁ diṭṭhīnaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānanti, te sarāgā te sadosā te samohā te sataṇhā te saupādānā te aviddasuno te anuruddhappaṭiviruddhā te papañcārāmā papañcaratino;"
+    },
+    {
+      "id": "mn11:7.2",
+      "pali": "te na parimuccanti jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi;"
+    },
+    {
+      "id": "mn11:7.3",
+      "pali": "‘na parimuccanti dukkhasmā’ti vadāmi."
+    },
+    {
+      "id": "mn11:8.1",
+      "pali": "Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā imāsaṁ dvinnaṁ diṭṭhīnaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānanti, te vītarāgā te vītadosā te vītamohā te vītataṇhā te anupādānā te viddasuno te ananuruddhaappaṭiviruddhā te nippapañcārāmā nippapañcaratino;"
+    },
+    {
+      "id": "mn11:8.2",
+      "pali": "te parimuccanti jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi;"
+    },
+    {
+      "id": "mn11:8.3",
+      "pali": "‘parimuccanti dukkhasmā’ti vadāmi."
+    },
+    {
+      "id": "mn11:9.1",
+      "pali": "Cattārimāni, bhikkhave, upādānāni."
+    },
+    {
+      "id": "mn11:9.2",
+      "pali": "Katamāni cattāri?"
+    },
+    {
+      "id": "mn11:9.3",
+      "pali": "Kāmupādānaṁ, diṭṭhupādānaṁ, sīlabbatupādānaṁ, attavādupādānaṁ."
+    },
+    {
+      "id": "mn11:10.1",
+      "pali": "Santi, bhikkhave, eke samaṇabrāhmaṇā sabbupādānapariññāvādā paṭijānamānā."
+    },
+    {
+      "id": "mn11:10.2",
+      "pali": "Te na sammā sabbupādānapariññaṁ paññapenti—"
+    },
+    {
+      "id": "mn11:10.3",
+      "pali": "kāmupādānassa pariññaṁ paññapenti, na diṭṭhupādānassa pariññaṁ paññapenti, na sīlabbatupādānassa pariññaṁ paññapenti, na attavādupādānassa pariññaṁ paññapenti."
+    },
+    {
+      "id": "mn11:10.4",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn11:10.5",
+      "pali": "Imāni hi te bhonto samaṇabrāhmaṇā tīṇi ṭhānāni yathābhūtaṁ nappajānanti."
+    },
+    {
+      "id": "mn11:10.6",
+      "pali": "Tasmā te bhonto samaṇabrāhmaṇā sabbupādānapariññāvādā paṭijānamānā;"
+    },
+    {
+      "id": "mn11:10.7",
+      "pali": "te na sammā sabbupādānapariññaṁ paññapenti—"
+    },
+    {
+      "id": "mn11:10.8",
+      "pali": "kāmupādānassa pariññaṁ paññapenti, na diṭṭhupādānassa pariññaṁ paññapenti, na sīlabbatupādānassa pariññaṁ paññapenti, na attavādupādānassa pariññaṁ paññapenti."
+    },
+    {
+      "id": "mn11:11.1",
+      "pali": "Santi, bhikkhave, eke samaṇabrāhmaṇā sabbupādānapariññāvādā paṭijānamānā."
+    },
+    {
+      "id": "mn11:11.2",
+      "pali": "Te na sammā sabbupādānapariññaṁ paññapenti—"
+    },
+    {
+      "id": "mn11:11.3",
+      "pali": "kāmupādānassa pariññaṁ paññapenti, diṭṭhupādānassa pariññaṁ paññapenti, na sīlabbatupādānassa pariññaṁ paññapenti, na attavādupādānassa pariññaṁ paññapenti."
+    },
+    {
+      "id": "mn11:11.4",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn11:11.5",
+      "pali": "Imāni hi te bhonto samaṇabrāhmaṇā dve ṭhānāni yathābhūtaṁ nappajānanti."
+    },
+    {
+      "id": "mn11:11.6",
+      "pali": "Tasmā te bhonto samaṇabrāhmaṇā sabbupādānapariññāvādā paṭijānamānā;"
+    },
+    {
+      "id": "mn11:11.7",
+      "pali": "te na sammā sabbupādānapariññaṁ paññapenti—"
+    },
+    {
+      "id": "mn11:11.8",
+      "pali": "kāmupādānassa pariññaṁ paññapenti, diṭṭhupādānassa pariññaṁ paññapenti, na sīlabbatupādānassa pariññaṁ paññapenti, na attavādupādānassa pariññaṁ paññapenti."
+    },
+    {
+      "id": "mn11:12.1",
+      "pali": "Santi, bhikkhave, eke samaṇabrāhmaṇā sabbupādānapariññāvādā paṭijānamānā."
+    },
+    {
+      "id": "mn11:12.2",
+      "pali": "Te na sammā sabbupādānapariññaṁ paññapenti—"
+    },
+    {
+      "id": "mn11:12.3",
+      "pali": "kāmupādānassa pariññaṁ paññapenti, diṭṭhupādānassa pariññaṁ paññapenti, sīlabbatupādānassa pariññaṁ paññapenti, na attavādupādānassa pariññaṁ paññapenti."
+    },
+    {
+      "id": "mn11:12.4",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn11:12.5",
+      "pali": "Imañhi te bhonto samaṇabrāhmaṇā ekaṁ ṭhānaṁ yathābhūtaṁ nappajānanti."
+    },
+    {
+      "id": "mn11:12.6",
+      "pali": "Tasmā te bhonto samaṇabrāhmaṇā sabbupādānapariññāvādā paṭijānamānā;"
+    },
+    {
+      "id": "mn11:12.7",
+      "pali": "te na sammā sabbupādānapariññaṁ paññapenti—"
+    },
+    {
+      "id": "mn11:12.8",
+      "pali": "kāmupādānassa pariññaṁ paññapenti, diṭṭhupādānassa pariññaṁ paññapenti, sīlabbatupādānassa pariññaṁ paññapenti, na attavādupādānassa pariññaṁ paññapenti."
+    },
+    {
+      "id": "mn11:13.1",
+      "pali": "Evarūpe kho, bhikkhave, dhammavinaye yo satthari pasādo so na sammaggato akkhāyati;"
+    },
+    {
+      "id": "mn11:13.2",
+      "pali": "yo dhamme pasādo so na sammaggato akkhāyati;"
+    },
+    {
+      "id": "mn11:13.3",
+      "pali": "yā sīlesu paripūrakāritā sā na sammaggatā akkhāyati;"
+    },
+    {
+      "id": "mn11:13.4",
+      "pali": "yā sahadhammikesu piyamanāpatā sā na sammaggatā akkhāyati."
+    },
+    {
+      "id": "mn11:13.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn11:13.6",
+      "pali": "Evañhetaṁ, bhikkhave, hoti yathā taṁ durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṁvattanike asammāsambuddhappavedite."
+    },
+    {
+      "id": "mn11:14.1",
+      "pali": "Tathāgato ca kho, bhikkhave, arahaṁ sammāsambuddho sabbupādānapariññāvādo paṭijānamāno sammā sabbupādānapariññaṁ paññapeti—"
+    },
+    {
+      "id": "mn11:14.2",
+      "pali": "kāmupādānassa pariññaṁ paññapeti, diṭṭhupādānassa pariññaṁ paññapeti, sīlabbatupādānassa pariññaṁ paññapeti, attavādupādānassa pariññaṁ paññapeti."
+    },
+    {
+      "id": "mn11:15.1",
+      "pali": "Evarūpe kho, bhikkhave, dhammavinaye yo satthari pasādo so sammaggato akkhāyati;"
+    },
+    {
+      "id": "mn11:15.2",
+      "pali": "yo dhamme pasādo so sammaggato akkhāyati;"
+    },
+    {
+      "id": "mn11:15.3",
+      "pali": "yā sīlesu paripūrakāritā sā sammaggatā akkhāyati;"
+    },
+    {
+      "id": "mn11:15.4",
+      "pali": "yā sahadhammikesu piyamanāpatā sā sammaggatā akkhāyati."
+    },
+    {
+      "id": "mn11:15.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn11:15.6",
+      "pali": "Evañhetaṁ, bhikkhave, hoti yathā taṁ svākkhāte dhammavinaye suppavedite niyyānike upasamasaṁvattanike sammāsambuddhappavedite."
+    },
+    {
+      "id": "mn11:16.1",
+      "pali": "Ime ca, bhikkhave, cattāro upādānā. Kiṁnidānā kiṁsamudayā kiṁjātikā kiṁpabhavā?"
+    },
+    {
+      "id": "mn11:16.2",
+      "pali": "Ime cattāro upādānā taṇhānidānā taṇhāsamudayā taṇhājātikā taṇhāpabhavā."
+    },
+    {
+      "id": "mn11:16.3",
+      "pali": "Taṇhā cāyaṁ, bhikkhave, kiṁnidānā kiṁsamudayā kiṁjātikā kiṁpabhavā?"
+    },
+    {
+      "id": "mn11:16.4",
+      "pali": "Taṇhā vedanānidānā vedanāsamudayā vedanājātikā vedanāpabhavā."
+    },
+    {
+      "id": "mn11:16.5",
+      "pali": "Vedanā cāyaṁ, bhikkhave, kiṁnidānā kiṁsamudayā kiṁjātikā kiṁpabhavā?"
+    },
+    {
+      "id": "mn11:16.6",
+      "pali": "Vedanā phassanidānā phassasamudayā phassajātikā phassapabhavā."
+    },
+    {
+      "id": "mn11:16.7",
+      "pali": "Phasso cāyaṁ, bhikkhave, kiṁnidāno kiṁsamudayo kiṁjātiko kiṁpabhavo?"
+    },
+    {
+      "id": "mn11:16.8",
+      "pali": "Phasso saḷāyatananidāno saḷāyatanasamudayo saḷāyatanajātiko saḷāyatanapabhavo."
+    },
+    {
+      "id": "mn11:16.9",
+      "pali": "Saḷāyatanañcidaṁ, bhikkhave, kiṁnidānaṁ kiṁsamudayaṁ kiṁjātikaṁ kiṁpabhavaṁ?"
+    },
+    {
+      "id": "mn11:16.10",
+      "pali": "Saḷāyatanaṁ nāmarūpanidānaṁ nāmarūpasamudayaṁ nāmarūpajātikaṁ nāmarūpapabhavaṁ."
+    },
+    {
+      "id": "mn11:16.11",
+      "pali": "Nāmarūpañcidaṁ, bhikkhave, kiṁnidānaṁ kiṁsamudayaṁ kiṁjātikaṁ kiṁpabhavaṁ?"
+    },
+    {
+      "id": "mn11:16.12",
+      "pali": "Nāmarūpaṁ viññāṇanidānaṁ viññāṇasamudayaṁ viññāṇajātikaṁ viññāṇapabhavaṁ."
+    },
+    {
+      "id": "mn11:16.13",
+      "pali": "Viññāṇañcidaṁ, bhikkhave, kiṁnidānaṁ kiṁsamudayaṁ kiṁjātikaṁ kiṁpabhavaṁ?"
+    },
+    {
+      "id": "mn11:16.14",
+      "pali": "Viññāṇaṁ saṅkhāranidānaṁ saṅkhārasamudayaṁ saṅkhārajātikaṁ saṅkhārapabhavaṁ."
+    },
+    {
+      "id": "mn11:16.15",
+      "pali": "Saṅkhārā cime, bhikkhave, kiṁnidānā kiṁsamudayā kiṁjātikā kiṁpabhavā?"
+    },
+    {
+      "id": "mn11:16.16",
+      "pali": "Saṅkhārā avijjānidānā avijjāsamudayā avijjājātikā avijjāpabhavā."
+    },
+    {
+      "id": "mn11:17.1",
+      "pali": "Yato ca kho, bhikkhave, bhikkhuno avijjā pahīnā hoti vijjā uppannā, so avijjāvirāgā vijjuppādā neva kāmupādānaṁ upādiyati, na diṭṭhupādānaṁ upādiyati, na sīlabbatupādānaṁ upādiyati, na attavādupādānaṁ upādiyati."
+    },
+    {
+      "id": "mn11:17.2",
+      "pali": "Anupādiyaṁ na paritassati, aparitassaṁ paccattaññeva parinibbāyati."
+    },
+    {
+      "id": "mn11:17.3",
+      "pali": "‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti."
+    },
+    {
+      "id": "mn11:17.4",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn11:17.5",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn11:17.6",
+      "pali": "Cūḷasīhanādasuttaṁ niṭṭhitaṁ paṭhamaṁ."
+    }
+  ]
+}

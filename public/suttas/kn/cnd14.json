@@ -1,0 +1,703 @@
+{
+  "uid": "cnd14",
+  "title": "Pucchāniddesa",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "cnd14:1.1",
+      "pali": "<b>Majjhe sarasmiṁ tiṭṭhataṁ,</b>"
+    },
+    {
+      "id": "cnd14:1.2",
+      "pali": "(iccāyasmā kappo)"
+    },
+    {
+      "id": "cnd14:1.3",
+      "pali": "<b>Oghe jāte mahabbhaye;</b>"
+    },
+    {
+      "id": "cnd14:1.4",
+      "pali": "<b>Jarāmaccuparetānaṁ,</b>"
+    },
+    {
+      "id": "cnd14:1.5",
+      "pali": "<b>Dīpaṁ pabrūhi mārisa;</b>"
+    },
+    {
+      "id": "cnd14:1.6",
+      "pali": "<b>Tvañca me dīpamakkhāhi,</b>"
+    },
+    {
+      "id": "cnd14:1.7",
+      "pali": "<b>Yathāyidaṁ nāparaṁ siyā. </b>"
+    },
+    {
+      "id": "cnd14:2.1",
+      "pali": "<b>Majjhe sarasmiṁ tiṭṭhatan</b>ti saro vuccati saṁsāro āgamanaṁ gamanaṁ gamanāgamanaṁ kālaṁ gati bhavābhavo cuti ca upapatti ca nibbatti ca bhedo ca jāti ca jarā ca maraṇañca."
+    },
+    {
+      "id": "cnd14:2.2",
+      "pali": "Saṁsārassa purimāpi koṭi na paññāyati, pacchimāpi koṭi na paññāyati;"
+    },
+    {
+      "id": "cnd14:2.3",
+      "pali": "majjheva saṁsāre sattā ṭhitā patiṭṭhitā allīnā upagatā ajjhositā adhimuttā."
+    },
+    {
+      "id": "cnd14:3.1",
+      "pali": "Kathaṁ saṁsārassa purimā koṭi na paññāyati?"
+    },
+    {
+      "id": "cnd14:3.2",
+      "pali": "Ettakā jātiyo vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:3.3",
+      "pali": "Ettakāni jātisatāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:3.4",
+      "pali": "Ettakāni jātisahassāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:3.5",
+      "pali": "Ettakāni jātisatasahassāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:3.6",
+      "pali": "Ettakā jātikoṭiyo vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:3.7",
+      "pali": "Ettakāni jātikoṭisatāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:3.8",
+      "pali": "Ettakāni jātikoṭisahassāni vaṭṭaṁ vatti, tato paraṁ na vattatīti, hevaṁ natthi."
+    },
+    {
+      "id": "cnd14:3.9",
+      "pali": "Evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:3.10",
+      "pali": "Ettakāni jātikoṭisatasahassāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:4.1",
+      "pali": "Ettakāni vassāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:4.2",
+      "pali": "Ettakāni vassasatāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:4.3",
+      "pali": "Ettakāni vassasahassāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:4.4",
+      "pali": "Ettakāni vassasatasahassāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:4.5",
+      "pali": "Ettakā vassakoṭiyo vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:4.6",
+      "pali": "Ettakāni vassakoṭisatāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:4.7",
+      "pali": "Ettakāni vassakoṭisahassāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:4.8",
+      "pali": "Ettakāni vassakoṭisatasahassāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:5.1",
+      "pali": "Ettakāni kappāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:5.2",
+      "pali": "Ettakāni kappasatāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:5.3",
+      "pali": "Ettakāni kappasahassāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:5.4",
+      "pali": "Ettakāni kappasatasahassāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:5.5",
+      "pali": "Ettakā kappakoṭiyo vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:5.6",
+      "pali": "Ettakāni kappakoṭisatāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:5.7",
+      "pali": "Ettakāni kappakoṭisahassāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:5.8",
+      "pali": "Ettakāni kappakoṭisatasahassāni vaṭṭaṁ vatti, tato paraṁ na vattatīti hevaṁ natthi, evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:6.1",
+      "pali": "Vuttañhetaṁ bhagavatā—"
+    },
+    {
+      "id": "cnd14:6.2",
+      "pali": "“anamataggoyaṁ, bhikkhave, saṁsāro, pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ."
+    },
+    {
+      "id": "cnd14:6.3",
+      "pali": "Evaṁ dīgharattaṁ kho, bhikkhave, dukkhaṁ paccanubhūtaṁ tibbaṁ paccanubhūtaṁ byasanaṁ paccanubhūtaṁ, kaṭasī vaḍḍhitā."
+    },
+    {
+      "id": "cnd14:6.4",
+      "pali": "Yāvañcidaṁ, bhikkhave, alameva sabbasaṅkhāresu nibbindituṁ alaṁ virajjituṁ alaṁ vimuccitun”ti."
+    },
+    {
+      "id": "cnd14:6.5",
+      "pali": "Evampi saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:7.1",
+      "pali": "Kathaṁ saṁsārassa pacchimā koṭi na paññāyati?"
+    },
+    {
+      "id": "cnd14:7.2",
+      "pali": "Ettakā jātiyo vaṭṭaṁ vattissati, tato paraṁ na vattissatīti hevaṁ natthi, evampi saṁsārassa pacchimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:7.3",
+      "pali": "Ettakāni jātisatāni, ettakāni jātisahassāni, ettakāni jātisatasahassāni …pe…"
+    },
+    {
+      "id": "cnd14:7.4",
+      "pali": "ettakā jātikoṭiyo, ettakāni jātikoṭisatāni, ettakāni jātikoṭisahassāni, ettakāni jātikoṭisatasahassāni, ettakāni vassāni, ettakāni vassasatāni, ettakāni vassasahassāni, ettakāni vassasatasahassāni, ettakā vassakoṭiyo, ettakāni vassakoṭisatāni, ettakāni vassakoṭisahassāni, ettakāni vassakoṭisatasahassāni, ettakāni kappāni, ettakāni kappasatāni, ettakāni kappasahassāni, ettakāni kappasatasahassāni, ettakā kappakoṭiyo, ettakāni kappakoṭisatāni, ettakāni kappakoṭisahassāni, ettakāni kappakoṭisatasahassāni vaṭṭaṁ vattissati, tato paraṁ na vattissatīti hevaṁ natthi, evampi saṁsārassa pacchimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:7.5",
+      "pali": "Evampi saṁsārassa purimāpi koṭi na paññāyati, pacchimāpi koṭi na paññāyati, majjheva saṁsāre sattā ṭhitā patiṭṭhitā allīnā upagatā ajjhositā adhimuttāti—"
+    },
+    {
+      "id": "cnd14:7.6",
+      "pali": "majjhe sarasmiṁ tiṭṭhataṁ."
+    },
+    {
+      "id": "cnd14:7.7",
+      "pali": "<b>Iccāyasmā kappo</b>ti."
+    },
+    {
+      "id": "cnd14:7.8",
+      "pali": "<b>Iccā</b>ti padasandhi …pe…."
+    },
+    {
+      "id": "cnd14:7.9",
+      "pali": "<b>Āyasmā</b>ti piyavacanaṁ …pe…."
+    },
+    {
+      "id": "cnd14:7.10",
+      "pali": "<b>Kappo</b>ti tassa brāhmaṇassa nāmaṁ …pe… abhilāpoti—"
+    },
+    {
+      "id": "cnd14:7.11",
+      "pali": "iccāyasmā kappo."
+    },
+    {
+      "id": "cnd14:8.1",
+      "pali": "<b>Oghe jāte mahabbhaye</b>ti kāmoghe bhavoghe diṭṭhoghe avijjoghe jāte sañjāte nibbatte abhinibbatte pātubhūte."
+    },
+    {
+      "id": "cnd14:8.2",
+      "pali": "<b>Mahabbhaye</b>ti jātibhaye jarābhaye byādhibhaye maraṇabhayeti—"
+    },
+    {
+      "id": "cnd14:8.3",
+      "pali": "oghe jāte mahabbhaye."
+    },
+    {
+      "id": "cnd14:9.1",
+      "pali": "<b>Jarāmaccuparetānan</b>ti jarāya phuṭṭhānaṁ paretānaṁ samohitānaṁ samannāgatānaṁ."
+    },
+    {
+      "id": "cnd14:9.2",
+      "pali": "Maccunā phuṭṭhānaṁ paretānaṁ samohitānaṁ samannāgatānaṁ, jātiyā anugatānaṁ jarāya anusaṭānaṁ byādhinā abhibhūtānaṁ maraṇena abbhāhatānaṁ atāṇānaṁ aleṇānaṁ asaraṇānaṁ asaraṇībhūtānanti—"
+    },
+    {
+      "id": "cnd14:9.3",
+      "pali": "jarāmaccuparetānaṁ."
+    },
+    {
+      "id": "cnd14:10.1",
+      "pali": "<b>Dīpaṁ pabrūhi mārisā</b>ti dīpaṁ tāṇaṁ leṇaṁ saraṇaṁ gatiṁ parāyanaṁ brūhi ācikkhāhi desehi paññapehi paṭṭhapehi vivarāhi vibhajāhi uttānīkarohi pakāsehi."
+    },
+    {
+      "id": "cnd14:10.2",
+      "pali": "<b>Mārisā</b>ti piyavacanaṁ garuvacanaṁ sagāravasappatissādhivacanametaṁ mārisāti—"
+    },
+    {
+      "id": "cnd14:10.3",
+      "pali": "dīpaṁ pabrūhi mārisa."
+    },
+    {
+      "id": "cnd14:11.1",
+      "pali": "<b>Tvañca me dīpamakkhāhī</b>ti."
+    },
+    {
+      "id": "cnd14:11.2",
+      "pali": "<b>Tvan</b>ti bhagavantaṁ bhaṇati."
+    },
+    {
+      "id": "cnd14:11.3",
+      "pali": "<b>Dīpamakkhāhī</b>ti dīpaṁ tāṇaṁ leṇaṁ saraṇaṁ gatiṁ parāyanaṁ akkhāhi ācikkhāhi desehi paññapehi paṭṭhapehi vivarāhi vibhajāhi uttānīkarohi pakāsehīti—"
+    },
+    {
+      "id": "cnd14:11.4",
+      "pali": "tvañca me dīpamakkhāhi."
+    },
+    {
+      "id": "cnd14:12.1",
+      "pali": "<b>Yathāyidaṁ nāparaṁ siyā</b>ti yathayidaṁ dukkhaṁ idheva nirujjheyya vūpasameyya atthaṁ gaccheyya paṭippassambheyya punapaṭisandhikaṁ dukkhaṁ na nibbatteyya, kāmadhātuyā vā rūpadhātuyā vā arūpadhātuyā vā kāmabhave vā rūpabhave vā arūpabhave vā saññābhave vā asaññābhave vā nevasaññānāsaññābhave vā ekavokārabhave vā catuvokārabhave vā pañcavokārabhave vā punagatiyā vā upapattiyā vā paṭisandhiyā vā bhave vā saṁsāre vā vaṭṭe vā na janeyya na sañjaneyya na nibbatteyya nābhinibbatteyya."
+    },
+    {
+      "id": "cnd14:12.2",
+      "pali": "Idheva nirujjheyya vūpasameyya atthaṁ gaccheyya paṭippassambheyyāti—"
+    },
+    {
+      "id": "cnd14:12.3",
+      "pali": "yathāyidaṁ nāparaṁ siyā."
+    },
+    {
+      "id": "cnd14:12.4",
+      "pali": "Tenāha so brāhmaṇo—"
+    },
+    {
+      "id": "cnd14:13.1",
+      "pali": "“Majjhe sarasmiṁ tiṭṭhataṁ,"
+    },
+    {
+      "id": "cnd14:13.2",
+      "pali": "(iccāyasmā kappo)"
+    },
+    {
+      "id": "cnd14:13.3",
+      "pali": "Oghe jāte mahabbhaye;"
+    },
+    {
+      "id": "cnd14:13.4",
+      "pali": "Jarāmaccuparetānaṁ,"
+    },
+    {
+      "id": "cnd14:13.5",
+      "pali": "Dīpaṁ pabrūhi mārisa;"
+    },
+    {
+      "id": "cnd14:13.6",
+      "pali": "Tvañca me dīpamakkhāhi,"
+    },
+    {
+      "id": "cnd14:13.7",
+      "pali": "Yathāyidaṁ nāparaṁ siyā”ti."
+    },
+    {
+      "id": "cnd14:14.1",
+      "pali": "<b>Majjhe sarasmiṁ tiṭṭhataṁ,</b>"
+    },
+    {
+      "id": "cnd14:14.2",
+      "pali": "(kappāti bhagavā)"
+    },
+    {
+      "id": "cnd14:14.3",
+      "pali": "<b>Oghe jāte mahabbhaye;</b>"
+    },
+    {
+      "id": "cnd14:14.4",
+      "pali": "<b>Jarāmaccuparetānaṁ,</b>"
+    },
+    {
+      "id": "cnd14:14.5",
+      "pali": "<b>Dīpaṁ pabrūmi kappa te. </b>"
+    },
+    {
+      "id": "cnd14:15.1",
+      "pali": "<b>Majjhe sarasmiṁ tiṭṭhatan</b>ti saro vuccati saṁsāro āgamanaṁ gamanaṁ gamanāgamanaṁ kālaṁ gati bhavābhavo, cuti ca upapatti ca nibbatti ca bhedo ca jāti ca jarā ca maraṇañca."
+    },
+    {
+      "id": "cnd14:15.2",
+      "pali": "Saṁsārassa purimāpi koṭi na paññāyati, pacchimāpi koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:15.3",
+      "pali": "Majjheva saṁsāre sattā ṭhitā patiṭṭhitā allīnā upagatā ajjhositā adhimuttā."
+    },
+    {
+      "id": "cnd14:16.1",
+      "pali": "Kathaṁ saṁsārassa purimā koṭi na paññāyati …pe…"
+    },
+    {
+      "id": "cnd14:16.2",
+      "pali": "evaṁ saṁsārassa purimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:16.3",
+      "pali": "Kathaṁ saṁsārassa pacchimā koṭi na paññāyati …pe…"
+    },
+    {
+      "id": "cnd14:16.4",
+      "pali": "evaṁ saṁsārassa pacchimā koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:16.5",
+      "pali": "Evaṁ saṁsārassa purimāpi koṭi na paññāyati, pacchimāpi koṭi na paññāyati."
+    },
+    {
+      "id": "cnd14:16.6",
+      "pali": "Majjheva saṁsāre sattā ṭhitā patiṭṭhitā allīnā upagatā ajjhositā adhimuttāti—"
+    },
+    {
+      "id": "cnd14:16.7",
+      "pali": "majjhe sarasmiṁ tiṭṭhataṁ."
+    },
+    {
+      "id": "cnd14:16.8",
+      "pali": "<b>Kappāti bhagavā</b>ti."
+    },
+    {
+      "id": "cnd14:16.9",
+      "pali": "<b>Kappā</b>ti bhagavā taṁ brāhmaṇaṁ nāmena ālapati."
+    },
+    {
+      "id": "cnd14:16.10",
+      "pali": "<b>Bhagavā</b>ti gāravādhivacanametaṁ …pe… sacchikā paññatti, yadidaṁ bhagavāti—"
+    },
+    {
+      "id": "cnd14:16.11",
+      "pali": "kappāti bhagavā."
+    },
+    {
+      "id": "cnd14:17.1",
+      "pali": "<b>Oghe jāte mahabbhaye</b>ti kāmoghe bhavoghe diṭṭhoghe avijjoghe jāte sañjāte nibbatte abhinibbatte pātubhūte."
+    },
+    {
+      "id": "cnd14:17.2",
+      "pali": "<b>Mahabbhaye</b>ti jātibhaye jarābhaye byādhibhaye maraṇabhayeti—"
+    },
+    {
+      "id": "cnd14:17.3",
+      "pali": "oghe jāte mahabbhaye."
+    },
+    {
+      "id": "cnd14:18.1",
+      "pali": "<b>Jarāmaccuparetānan</b>ti jarāya phuṭṭhānaṁ paretānaṁ samohitānaṁ samannāgatānaṁ, maccunā phuṭṭhānaṁ paretānaṁ samohitānaṁ samannāgatānaṁ jātiyā anugatānaṁ jarāya anusaṭānaṁ byādhinā abhibhūtānaṁ maraṇena abbhāhatānaṁ atāṇānaṁ aleṇānaṁ asaraṇānaṁ asaraṇībhūtānanti—"
+    },
+    {
+      "id": "cnd14:18.2",
+      "pali": "jarāmaccuparetānaṁ."
+    },
+    {
+      "id": "cnd14:19.1",
+      "pali": "<b>Dīpaṁ pabrūmi kappa te</b>ti dīpaṁ tāṇaṁ leṇaṁ saraṇaṁ gatiṁ parāyanaṁ brūmi ācikkhāmi desemi paññapemi paṭṭhapemi vivarāmi vibhajāmi uttānīkaromi pakāsemīti—"
+    },
+    {
+      "id": "cnd14:19.2",
+      "pali": "dīpaṁ pabrūmi kappa te."
+    },
+    {
+      "id": "cnd14:19.3",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "cnd14:20.1",
+      "pali": "“Majjhe sarasmiṁ tiṭṭhataṁ,"
+    },
+    {
+      "id": "cnd14:20.2",
+      "pali": "(kappāti bhagavā)"
+    },
+    {
+      "id": "cnd14:20.3",
+      "pali": "Oghe jāte mahabbhaye;"
+    },
+    {
+      "id": "cnd14:20.4",
+      "pali": "Jarāmaccuparetānaṁ,"
+    },
+    {
+      "id": "cnd14:20.5",
+      "pali": "Dīpaṁ pabrūmi kappa te”ti."
+    },
+    {
+      "id": "cnd14:21.1",
+      "pali": "<b>Akiñcanaṁ anādānaṁ,</b>"
+    },
+    {
+      "id": "cnd14:21.2",
+      "pali": "<b>etaṁ dīpaṁ anāparaṁ;</b>"
+    },
+    {
+      "id": "cnd14:21.3",
+      "pali": "<b>Nibbānaṁ iti naṁ brūmi,</b>"
+    },
+    {
+      "id": "cnd14:21.4",
+      "pali": "<b>jarāmaccuparikkhayaṁ. </b>"
+    },
+    {
+      "id": "cnd14:22.1",
+      "pali": "<b>Akiñcanaṁ anādānan</b>ti."
+    },
+    {
+      "id": "cnd14:22.2",
+      "pali": "<b>Kiñcanan</b>ti—"
+    },
+    {
+      "id": "cnd14:22.3",
+      "pali": "rāgakiñcanaṁ dosakiñcanaṁ mohakiñcanaṁ mānakiñcanaṁ diṭṭhikiñcanaṁ kilesakiñcanaṁ duccaritakiñcanaṁ;"
+    },
+    {
+      "id": "cnd14:22.4",
+      "pali": "kiñcanappahānaṁ kiñcanavūpasamaṁ kiñcanapaṭinissaggaṁ kiñcanapaṭippassaddhiṁ amataṁ nibbānanti—"
+    },
+    {
+      "id": "cnd14:22.5",
+      "pali": "akiñcanaṁ."
+    },
+    {
+      "id": "cnd14:22.6",
+      "pali": "<b>Anādānan</b>ti <b>ādānaṁ</b> vuccati taṇhā."
+    },
+    {
+      "id": "cnd14:22.7",
+      "pali": "Yo rāgo sārāgo …pe… abhijjhā lobho akusalamūlaṁ."
+    },
+    {
+      "id": "cnd14:22.8",
+      "pali": "Ādānappahānaṁ ādānavūpasamaṁ ādānapaṭinissaggaṁ ādānapaṭippassaddhiṁ amataṁ nibbānanti—"
+    },
+    {
+      "id": "cnd14:22.9",
+      "pali": "akiñcanaṁ anādānaṁ."
+    },
+    {
+      "id": "cnd14:23.1",
+      "pali": "<b>Etaṁ dīpaṁ anāparan</b>ti etaṁ dīpaṁ tāṇaṁ leṇaṁ saraṇaṁ gati parāyanaṁ."
+    },
+    {
+      "id": "cnd14:23.2",
+      "pali": "<b>Anāparan</b>ti tamhā paro añño dīpo natthi."
+    },
+    {
+      "id": "cnd14:23.3",
+      "pali": "Atha kho so evaṁ dīpo aggo ca seṭṭho ca viseṭṭho ca pāmokkho ca uttamo ca pavaro cāti—"
+    },
+    {
+      "id": "cnd14:23.4",
+      "pali": "etaṁ dīpaṁ anāparaṁ."
+    },
+    {
+      "id": "cnd14:24.1",
+      "pali": "<b>Nibbānaṁ iti naṁ brūmī</b>ti vānaṁ vuccati taṇhā."
+    },
+    {
+      "id": "cnd14:24.2",
+      "pali": "Yo rāgo sārāgo …pe… abhijjhā lobho akusalamūlaṁ."
+    },
+    {
+      "id": "cnd14:24.3",
+      "pali": "Vānappahānaṁ vānavūpasamaṁ vānapaṭinissaggaṁ vānapaṭippassaddhiṁ amataṁ nibbānaṁ."
+    },
+    {
+      "id": "cnd14:24.4",
+      "pali": "<b>Itī</b>ti padasandhi padasaṁsaggo padapāripūrī akkharasamavāyo byañjanasiliṭṭhatā padānupubbatāpetaṁ—"
+    },
+    {
+      "id": "cnd14:24.5",
+      "pali": "itīti."
+    },
+    {
+      "id": "cnd14:24.6",
+      "pali": "<b>Brūmī</b>ti brūmi ācikkhāmi desemi paññapemi paṭṭhapemi vivarāmi vibhajāmi uttānīkaromi pakāsemīti—"
+    },
+    {
+      "id": "cnd14:24.7",
+      "pali": "nibbānaṁ iti naṁ brūmi."
+    },
+    {
+      "id": "cnd14:25.1",
+      "pali": "<b>Jarāmaccuparikkhayan</b>ti jarāmaraṇassa pahānaṁ vūpasamaṁ paṭinissaggaṁ paṭippassaddhiṁ amataṁ nibbānanti—"
+    },
+    {
+      "id": "cnd14:25.2",
+      "pali": "jarāmaccuparikkhayaṁ."
+    },
+    {
+      "id": "cnd14:25.3",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "cnd14:26.1",
+      "pali": "“Akiñcanaṁ anādānaṁ,"
+    },
+    {
+      "id": "cnd14:26.2",
+      "pali": "etaṁ dīpaṁ anāparaṁ;"
+    },
+    {
+      "id": "cnd14:26.3",
+      "pali": "Nibbānaṁ iti naṁ brūmi,"
+    },
+    {
+      "id": "cnd14:26.4",
+      "pali": "jarāmaccuparikkhayan”ti."
+    },
+    {
+      "id": "cnd14:27.1",
+      "pali": "<b>Etadaññāya ye satā,</b>"
+    },
+    {
+      "id": "cnd14:27.2",
+      "pali": "<b>Diṭṭhadhammābhinibbutā;</b>"
+    },
+    {
+      "id": "cnd14:27.3",
+      "pali": "<b>Na te māravasānugā,</b>"
+    },
+    {
+      "id": "cnd14:27.4",
+      "pali": "<b>Na te mārassa paddhagū. </b>"
+    },
+    {
+      "id": "cnd14:28.1",
+      "pali": "<b>Etadaññāya ye satā</b>ti."
+    },
+    {
+      "id": "cnd14:28.2",
+      "pali": "<b>Etan</b>ti amataṁ nibbānaṁ."
+    },
+    {
+      "id": "cnd14:28.3",
+      "pali": "Yo so sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṁ."
+    },
+    {
+      "id": "cnd14:28.4",
+      "pali": "<b>Aññāyā</b>ti aññāya jānitvā tulayitvā tīrayitvā vibhāvayitvā vibhūtaṁ katvā, “sabbe saṅkhārā aniccā”ti …pe…"
+    },
+    {
+      "id": "cnd14:28.5",
+      "pali": "“yaṁ kiñci samudayadhammaṁ, sabbaṁ taṁ nirodhadhamman”ti aññāya jānitvā tulayitvā tīrayitvā vibhāvayitvā vibhūtaṁ katvā."
+    },
+    {
+      "id": "cnd14:28.6",
+      "pali": "<b>Ye</b>ti arahanto khīṇāsavā."
+    },
+    {
+      "id": "cnd14:28.7",
+      "pali": "<b>Satā</b>ti catūhi kāraṇehi satā—"
+    },
+    {
+      "id": "cnd14:28.8",
+      "pali": "kāye kāyānupassanāsatipaṭṭhānaṁ bhāventā satā …pe…"
+    },
+    {
+      "id": "cnd14:28.9",
+      "pali": "te vuccanti satāti—"
+    },
+    {
+      "id": "cnd14:28.10",
+      "pali": "etadaññāya ye satā."
+    },
+    {
+      "id": "cnd14:29.1",
+      "pali": "<b>Diṭṭhadhammābhinibbutā</b>ti."
+    },
+    {
+      "id": "cnd14:29.2",
+      "pali": "<b>Diṭṭhadhammā</b>ti diṭṭhadhammā ñātadhammā tulitadhammā tīritadhammā vibhūtadhammā vibhāvitadhammā."
+    },
+    {
+      "id": "cnd14:29.3",
+      "pali": "<b>Abhinibbutā</b>ti rāgassa nibbāpitattā nibbutā, dosassa …pe…"
+    },
+    {
+      "id": "cnd14:29.4",
+      "pali": "sabbākusalābhisaṅkhārānaṁ santattā samitattā vūpasamitattā nijjhātattā nibbutattā paṭippassaddhattā santā upasantā vūpasantā nibbutā paṭippassaddhāti—"
+    },
+    {
+      "id": "cnd14:29.5",
+      "pali": "diṭṭhadhammābhinibbutā."
+    },
+    {
+      "id": "cnd14:30.1",
+      "pali": "<b>Na te māravasānugā</b>ti."
+    },
+    {
+      "id": "cnd14:30.2",
+      "pali": "<b>Māro</b>ti yo so māro kaṇho adhipati antagū namuci pamattabandhu."
+    },
+    {
+      "id": "cnd14:30.3",
+      "pali": "<b>Na te māravasānugā</b>ti na te mārassa vase vattanti, nāpi māro tesu vasaṁ vatteti."
+    },
+    {
+      "id": "cnd14:30.4",
+      "pali": "Te mārañca mārapakkhañca mārapāsañca mārabaḷisañca mārāmisañca māravisayañca māranivāsañca māragocarañca mārabandhanañca abhibhuyya abhibhavitvā ajjhottharitvā pariyādiyitvā madditvā caranti viharanti iriyanti vattenti pālenti yapenti yāpentīti—"
+    },
+    {
+      "id": "cnd14:30.5",
+      "pali": "na te māravasānugā."
+    },
+    {
+      "id": "cnd14:31.1",
+      "pali": "<b>Na te mārassa paddhagū</b>ti na te mārassa paddhā paddhacarā paricārikā siyā;"
+    },
+    {
+      "id": "cnd14:31.2",
+      "pali": "buddhassa te bhagavato paddhā paddhacarā paricārikā siyāti—"
+    },
+    {
+      "id": "cnd14:31.3",
+      "pali": "na te mārassa paddhagū."
+    },
+    {
+      "id": "cnd14:31.4",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "cnd14:32.1",
+      "pali": "“Etadaññāya ye satā,"
+    },
+    {
+      "id": "cnd14:32.2",
+      "pali": "diṭṭhadhammābhinibbutā;"
+    },
+    {
+      "id": "cnd14:32.3",
+      "pali": "Na te māravasānugā,"
+    },
+    {
+      "id": "cnd14:32.4",
+      "pali": "na te mārassa paddhagū”ti."
+    },
+    {
+      "id": "cnd14:33.1",
+      "pali": "Saha gāthāpariyosānā …pe…"
+    },
+    {
+      "id": "cnd14:33.2",
+      "pali": "satthā me bhante bhagavā, sāvakohamasmīti."
+    },
+    {
+      "id": "cnd14:33.3",
+      "pali": "Kappamāṇavapucchāniddeso dasamo."
+    }
+  ]
+}

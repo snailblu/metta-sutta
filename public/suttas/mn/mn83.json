@@ -1,0 +1,723 @@
+{
+  "uid": "mn83",
+  "title": "Maghadevasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn83:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn83:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā mithilāyaṁ viharati maghadevaambavane."
+    },
+    {
+      "id": "mn83:2.1",
+      "pali": "Atha kho bhagavā aññatarasmiṁ padese sitaṁ pātvākāsi."
+    },
+    {
+      "id": "mn83:2.2",
+      "pali": "Atha kho āyasmato ānandassa etadahosi:"
+    },
+    {
+      "id": "mn83:2.3",
+      "pali": "“ko nu kho hetu, ko paccayo bhagavato sitassa pātukammāya?"
+    },
+    {
+      "id": "mn83:2.4",
+      "pali": "Na akāraṇena tathāgatā sitaṁ pātukarontī”ti."
+    },
+    {
+      "id": "mn83:2.5",
+      "pali": "Atha kho āyasmā ānando ekaṁsaṁ cīvaraṁ katvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn83:2.6",
+      "pali": "“ko nu kho, bhante, hetu, ko paccayo bhagavato sitassa pātukammāya?"
+    },
+    {
+      "id": "mn83:2.7",
+      "pali": "Na akāraṇena tathāgatā sitaṁ pātukarontī”ti."
+    },
+    {
+      "id": "mn83:3.1",
+      "pali": "“Bhūtapubbaṁ, ānanda, imissāyeva mithilāyaṁ rājā ahosi maghadevo nāma dhammiko dhammarājā dhamme ṭhito mahārājā;"
+    },
+    {
+      "id": "mn83:3.2",
+      "pali": "dhammaṁ carati brāhmaṇagahapatikesu negamesu ceva jānapadesu ca;"
+    },
+    {
+      "id": "mn83:3.3",
+      "pali": "uposathañca upavasati cātuddasiṁ pañcadasiṁ aṭṭhamiñca pakkhassa."
+    },
+    {
+      "id": "mn83:4.1",
+      "pali": "Atha kho, ānanda, rājā maghadevo bahūnaṁ vassānaṁ bahūnaṁ vassasatānaṁ bahūnaṁ vassasahassānaṁ accayena kappakaṁ āmantesi:"
+    },
+    {
+      "id": "mn83:4.2",
+      "pali": "‘yadā me, samma kappaka, passeyyāsi sirasmiṁ palitāni jātāni, atha me āroceyyāsī’ti."
+    },
+    {
+      "id": "mn83:4.3",
+      "pali": "‘Evaṁ, devā’ti kho, ānanda, kappako rañño maghadevassa paccassosi."
+    },
+    {
+      "id": "mn83:4.4",
+      "pali": "Addasā kho, ānanda, kappako bahūnaṁ vassānaṁ bahūnaṁ vassasatānaṁ bahūnaṁ vassasahassānaṁ accayena rañño maghadevassa sirasmiṁ palitāni jātāni."
+    },
+    {
+      "id": "mn83:4.5",
+      "pali": "Disvāna rājānaṁ maghadevaṁ etadavoca:"
+    },
+    {
+      "id": "mn83:4.6",
+      "pali": "‘pātubhūtā kho devassa devadūtā, dissanti sirasmiṁ palitāni jātānī’ti."
+    },
+    {
+      "id": "mn83:4.7",
+      "pali": "‘Tena hi, samma kappaka, tāni palitāni sādhukaṁ saṇḍāsena uddharitvā mama añjalismiṁ patiṭṭhāpehī’ti."
+    },
+    {
+      "id": "mn83:4.8",
+      "pali": "‘Evaṁ, devā’ti kho, ānanda, kappako rañño maghadevassa paṭissutvā tāni palitāni sādhukaṁ saṇḍāsena uddharitvā rañño maghadevassa añjalismiṁ patiṭṭhāpesi."
+    },
+    {
+      "id": "mn83:4.9",
+      "pali": "Atha kho, ānanda, rājā maghadevo kappakassa gāmavaraṁ datvā jeṭṭhaputtaṁ kumāraṁ āmantāpetvā etadavoca:"
+    },
+    {
+      "id": "mn83:4.10",
+      "pali": "‘pātubhūtā kho me, tāta kumāra, devadūtā;"
+    },
+    {
+      "id": "mn83:4.11",
+      "pali": "dissanti sirasmiṁ palitāni jātāni;"
+    },
+    {
+      "id": "mn83:4.12",
+      "pali": "bhuttā kho pana me mānusakā kāmā;"
+    },
+    {
+      "id": "mn83:4.13",
+      "pali": "samayo dibbe kāme pariyesituṁ."
+    },
+    {
+      "id": "mn83:4.14",
+      "pali": "Ehi tvaṁ, tāta kumāra, imaṁ rajjaṁ paṭipajja."
+    },
+    {
+      "id": "mn83:4.15",
+      "pali": "Ahaṁ pana kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajissāmi."
+    },
+    {
+      "id": "mn83:4.16",
+      "pali": "Tena hi, tāta kumāra, yadā tvampi passeyyāsi sirasmiṁ palitāni jātāni, atha kappakassa gāmavaraṁ datvā jeṭṭhaputtaṁ kumāraṁ sādhukaṁ rajje samanusāsitvā kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyāsi."
+    },
+    {
+      "id": "mn83:4.17",
+      "pali": "Yena me idaṁ kalyāṇaṁ vattaṁ nihitaṁ anuppavatteyyāsi, mā kho me tvaṁ antimapuriso ahosi."
+    },
+    {
+      "id": "mn83:4.18",
+      "pali": "Yasmiṁ kho, tāta kumāra, purisayuge vattamāne evarūpassa kalyāṇassa vattassa samucchedo hoti so tesaṁ antimapuriso hoti."
+    },
+    {
+      "id": "mn83:4.19",
+      "pali": "Taṁ tāhaṁ, tāta kumāra, evaṁ vadāmi—"
+    },
+    {
+      "id": "mn83:4.20",
+      "pali": "yena me idaṁ kalyāṇaṁ vattaṁ nihitaṁ anuppavatteyyāsi, mā kho me tvaṁ antimapuriso ahosī’ti."
+    },
+    {
+      "id": "mn83:5.1",
+      "pali": "Atha kho, ānanda, rājā maghadevo kappakassa gāmavaraṁ datvā jeṭṭhaputtaṁ kumāraṁ sādhukaṁ rajje samanusāsitvā imasmiṁyeva maghadevaambavane kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbaji."
+    },
+    {
+      "id": "mn83:5.2",
+      "pali": "So mettāsahagatena cetasā ekaṁ disaṁ pharitvā vihāsi, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ; iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā vihāsi."
+    },
+    {
+      "id": "mn83:5.3",
+      "pali": "Karuṇāsahagatena cetasā …"
+    },
+    {
+      "id": "mn83:5.4",
+      "pali": "muditāsahagatena cetasā …"
+    },
+    {
+      "id": "mn83:5.5",
+      "pali": "upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā vihāsi, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ; iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā vihāsi."
+    },
+    {
+      "id": "mn83:6.1",
+      "pali": "Rājā kho panānanda, maghadevo caturāsītivassasahassāni kumārakīḷitaṁ kīḷi, caturāsītivassasahassāni oparajjaṁ kāresi, caturāsītivassasahassāni rajjaṁ kāresi, caturāsītivassasahassāni imasmiṁyeva maghadevaambavane agārasmā anagāriyaṁ pabbajito brahmacariyamacari."
+    },
+    {
+      "id": "mn83:6.2",
+      "pali": "So cattāro brahmavihāre bhāvetvā kāyassa bhedā paraṁ maraṇā brahmalokūpago ahosi."
+    },
+    {
+      "id": "mn83:7.1",
+      "pali": "Atha kho rañño, ānanda, maghadevassa putto bahūnaṁ vassānaṁ bahūnaṁ vassasatānaṁ bahūnaṁ vassasahassānaṁ accayena kappakaṁ āmantesi:"
+    },
+    {
+      "id": "mn83:7.2",
+      "pali": "‘yadā me, samma kappaka, passeyyāsi sirasmiṁ palitāni jātāni, atha kho āroceyyāsī’ti."
+    },
+    {
+      "id": "mn83:7.3",
+      "pali": "‘Evaṁ, devā’ti kho, ānanda, kappako rañño maghadevassa puttassa paccassosi."
+    },
+    {
+      "id": "mn83:7.4",
+      "pali": "Addasā kho, ānanda, kappako bahūnaṁ vassānaṁ bahūnaṁ vassasatānaṁ bahūnaṁ vassasahassānaṁ accayena rañño maghadevassa puttassa sirasmiṁ palitāni jātāni."
+    },
+    {
+      "id": "mn83:7.5",
+      "pali": "Disvāna rañño maghadevassa puttaṁ etadavoca:"
+    },
+    {
+      "id": "mn83:7.6",
+      "pali": "‘pātubhūtā kho devassa devadūtā;"
+    },
+    {
+      "id": "mn83:7.7",
+      "pali": "dissanti sirasmiṁ palitāni jātānī’ti."
+    },
+    {
+      "id": "mn83:7.8",
+      "pali": "‘Tena hi, samma kappaka, tāni palitāni sādhukaṁ saṇḍāsena uddharitvā mama añjalismiṁ patiṭṭhāpehī’ti."
+    },
+    {
+      "id": "mn83:7.9",
+      "pali": "‘Evaṁ, devā’ti kho, ānanda, kappako rañño maghadevassa puttassa paṭissutvā tāni palitāni sādhukaṁ saṇḍāsena uddharitvā rañño maghadevassa puttassa añjalismiṁ patiṭṭhāpesi."
+    },
+    {
+      "id": "mn83:8.1",
+      "pali": "Atha kho, ānanda, rañño maghadevassa putto kappakassa gāmavaraṁ datvā jeṭṭhaputtaṁ kumāraṁ āmantāpetvā etadavoca:"
+    },
+    {
+      "id": "mn83:8.2",
+      "pali": "‘pātubhūtā kho me, tāta kumāra, devadūtā;"
+    },
+    {
+      "id": "mn83:8.3",
+      "pali": "dissanti sirasmiṁ palitāni jātāni;"
+    },
+    {
+      "id": "mn83:8.4",
+      "pali": "bhuttā kho pana me mānusakā kāmā;"
+    },
+    {
+      "id": "mn83:8.5",
+      "pali": "samayo dibbe kāme pariyesituṁ."
+    },
+    {
+      "id": "mn83:8.6",
+      "pali": "Ehi tvaṁ, tāta kumāra, imaṁ rajjaṁ paṭipajja."
+    },
+    {
+      "id": "mn83:8.7",
+      "pali": "Ahaṁ pana kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajissāmi."
+    },
+    {
+      "id": "mn83:8.8",
+      "pali": "Tena hi, tāta kumāra, yadā tvampi passeyyāsi sirasmiṁ palitāni jātāni, atha kappakassa gāmavaraṁ datvā jeṭṭhaputtaṁ kumāraṁ sādhukaṁ rajje samanusāsitvā kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyāsi."
+    },
+    {
+      "id": "mn83:8.9",
+      "pali": "Yena me idaṁ kalyāṇaṁ vattaṁ nihitaṁ anuppavatteyyāsi, mā kho me tvaṁ antimapuriso ahosi."
+    },
+    {
+      "id": "mn83:8.10",
+      "pali": "Yasmiṁ kho, tāta kumāra, purisayuge vattamāne evarūpassa kalyāṇassa vattassa samucchedo hoti so tesaṁ antimapuriso hoti."
+    },
+    {
+      "id": "mn83:8.11",
+      "pali": "Taṁ tāhaṁ, tāta kumāra, evaṁ vadāmi—"
+    },
+    {
+      "id": "mn83:8.12",
+      "pali": "yena me idaṁ kalyāṇaṁ vattaṁ nihitaṁ anuppavatteyyāsi, mā kho me tvaṁ antimapuriso ahosī’ti."
+    },
+    {
+      "id": "mn83:9.1",
+      "pali": "Atha kho, ānanda, rañño maghadevassa putto kappakassa gāmavaraṁ datvā jeṭṭhaputtaṁ kumāraṁ sādhukaṁ rajje samanusāsitvā imasmiṁyeva maghadevaambavane kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbaji."
+    },
+    {
+      "id": "mn83:9.2",
+      "pali": "So mettāsahagatena cetasā ekaṁ disaṁ pharitvā vihāsi, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ; iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā vihāsi."
+    },
+    {
+      "id": "mn83:9.3",
+      "pali": "Karuṇāsahagatena cetasā …"
+    },
+    {
+      "id": "mn83:9.4",
+      "pali": "muditāsahagatena cetasā …"
+    },
+    {
+      "id": "mn83:9.5",
+      "pali": "upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā vihāsi, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ; iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā vihāsi."
+    },
+    {
+      "id": "mn83:9.6",
+      "pali": "Rañño kho panānanda, maghadevassa putto caturāsītivassasahassāni kumārakīḷitaṁ kīḷi, caturāsītivassasahassāni oparajjaṁ kāresi, caturāsītivassasahassāni rajjaṁ kāresi, caturāsītivassasahassāni imasmiṁyeva maghadevaambavane agārasmā anagāriyaṁ pabbajito brahmacariyamacari."
+    },
+    {
+      "id": "mn83:9.7",
+      "pali": "So cattāro brahmavihāre bhāvetvā kāyassa bhedā paraṁ maraṇā brahmalokūpago ahosi."
+    },
+    {
+      "id": "mn83:10.1",
+      "pali": "Rañño kho panānanda, maghadevassa puttapaputtakā tassa paramparā caturāsītirājasahassāni imasmiṁyeva maghadevaambavane kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajiṁsu."
+    },
+    {
+      "id": "mn83:10.2",
+      "pali": "Te mettāsahagatena cetasā ekaṁ disaṁ pharitvā vihariṁsu, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ; iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā vihariṁsu."
+    },
+    {
+      "id": "mn83:11.1",
+      "pali": "Karuṇāsahagatena cetasā …"
+    },
+    {
+      "id": "mn83:11.2",
+      "pali": "muditāsahagatena cetasā …"
+    },
+    {
+      "id": "mn83:11.3",
+      "pali": "upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā vihariṁsu, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ; iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā vihariṁsu."
+    },
+    {
+      "id": "mn83:11.4",
+      "pali": "Caturāsītivassasahassāni kumārakīḷitaṁ kīḷiṁsu, caturāsītivassasahassāni oparajjaṁ kāresuṁ, caturāsītivassasahassāni rajjaṁ kāresuṁ, caturāsītivassasahassāni imasmiṁyeva maghadevaambavane agārasmā anagāriyaṁ pabbajitā brahmacariyamacariṁsu."
+    },
+    {
+      "id": "mn83:11.5",
+      "pali": "Te cattāro brahmavihāre bhāvetvā kāyassa bhedā paraṁ maraṇā brahmalokūpagā ahesuṁ."
+    },
+    {
+      "id": "mn83:12.1",
+      "pali": "Nimi tesaṁ rājā pacchimako ahosi dhammiko dhammarājā dhamme ṭhito mahārājā;"
+    },
+    {
+      "id": "mn83:12.2",
+      "pali": "dhammaṁ carati brāhmaṇagahapatikesu negamesu ceva jānapadesu ca;"
+    },
+    {
+      "id": "mn83:12.3",
+      "pali": "uposathañca upavasati cātuddasiṁ pañcadasiṁ aṭṭhamiñca pakkhassa."
+    },
+    {
+      "id": "mn83:13.1",
+      "pali": "Bhūtapubbaṁ, ānanda, devānaṁ tāvatiṁsānaṁ sudhammāyaṁ sabhāyaṁ sannisinnānaṁ sannipatitānaṁ ayamantarākathā udapādi:"
+    },
+    {
+      "id": "mn83:13.2",
+      "pali": "‘lābhā vata, bho, videhānaṁ, suladdhaṁ vata, bho, videhānaṁ,"
+    },
+    {
+      "id": "mn83:13.3",
+      "pali": "yesaṁ nimi rājā dhammiko dhammarājā dhamme ṭhito mahārājā;"
+    },
+    {
+      "id": "mn83:13.4",
+      "pali": "dhammaṁ carati brāhmaṇagahapatikesu negamesu ceva jānapadesu ca;"
+    },
+    {
+      "id": "mn83:13.5",
+      "pali": "uposathañca upavasati cātuddasiṁ pañcadasiṁ aṭṭhamiñca pakkhassā’ti."
+    },
+    {
+      "id": "mn83:13.6",
+      "pali": "Atha kho, ānanda, sakko devānamindo deve tāvatiṁse āmantesi:"
+    },
+    {
+      "id": "mn83:13.7",
+      "pali": "‘iccheyyātha no tumhe, mārisā, nimiṁ rājānaṁ daṭṭhun’ti?"
+    },
+    {
+      "id": "mn83:13.8",
+      "pali": "‘Icchāma mayaṁ, mārisa, nimiṁ rājānaṁ daṭṭhun’ti."
+    },
+    {
+      "id": "mn83:13.9",
+      "pali": "Tena kho pana, ānanda, samayena nimi rājā tadahuposathe pannarase sīsaṁnhāto uposathiko uparipāsādavaragato nisinno hoti."
+    },
+    {
+      "id": "mn83:13.10",
+      "pali": "Atha kho, ānanda, sakko devānamindo—seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva—devesu tāvatiṁsesu antarahito nimissa rañño pamukhe pāturahosi."
+    },
+    {
+      "id": "mn83:13.11",
+      "pali": "Atha kho, ānanda, sakko devānamindo nimiṁ rājānaṁ etadavoca:"
+    },
+    {
+      "id": "mn83:13.12",
+      "pali": "‘lābhā te, mahārāja, suladdhaṁ te, mahārāja."
+    },
+    {
+      "id": "mn83:13.13",
+      "pali": "Devā, mahārāja, tāvatiṁsā sudhammāyaṁ sabhāyaṁ kittayamānarūpā sannisinnā:"
+    },
+    {
+      "id": "mn83:13.14",
+      "pali": "“lābhā vata, bho, videhānaṁ, suladdhaṁ vata, bho, videhānaṁ,"
+    },
+    {
+      "id": "mn83:13.15",
+      "pali": "yesaṁ nimi rājā dhammiko dhammarājā dhamme ṭhito mahārājā;"
+    },
+    {
+      "id": "mn83:13.16",
+      "pali": "dhammaṁ carati brāhmaṇagahapatikesu negamesu ceva jānapadesu ca;"
+    },
+    {
+      "id": "mn83:13.17",
+      "pali": "uposathañca upavasati cātuddasiṁ pañcadasiṁ aṭṭhamiñca pakkhassā”ti."
+    },
+    {
+      "id": "mn83:13.18",
+      "pali": "Devā te, mahārāja, tāvatiṁsā dassanakāmā."
+    },
+    {
+      "id": "mn83:13.19",
+      "pali": "Tassa te ahaṁ, mahārāja, sahassayuttaṁ ājaññarathaṁ pahiṇissāmi;"
+    },
+    {
+      "id": "mn83:13.20",
+      "pali": "abhiruheyyāsi, mahārāja, dibbaṁ yānaṁ avikampamāno’ti."
+    },
+    {
+      "id": "mn83:13.21",
+      "pali": "Adhivāsesi kho, ānanda, nimi rājā tuṇhībhāvena."
+    },
+    {
+      "id": "mn83:13.22",
+      "pali": "Atha kho, ānanda, sakko devānamindo nimissa rañño adhivāsanaṁ viditvā—seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva—nimissa rañño pamukhe antarahito devesu tāvatiṁsesu pāturahosi."
+    },
+    {
+      "id": "mn83:14.1",
+      "pali": "Atha kho, ānanda, sakko devānamindo mātaliṁ saṅgāhakaṁ āmantesi:"
+    },
+    {
+      "id": "mn83:14.2",
+      "pali": "‘ehi tvaṁ, samma mātali, sahassayuttaṁ ājaññarathaṁ yojetvā nimiṁ rājānaṁ upasaṅkamitvā evaṁ vadehi—"
+    },
+    {
+      "id": "mn83:14.3",
+      "pali": "ayaṁ te, mahārāja, sahassayutto ājaññaratho sakkena devānamindena pesito;"
+    },
+    {
+      "id": "mn83:14.4",
+      "pali": "abhiruheyyāsi, mahārāja, dibbaṁ yānaṁ avikampamāno’ti."
+    },
+    {
+      "id": "mn83:14.5",
+      "pali": "‘Evaṁ, bhaddantavā’ti kho, ānanda, mātali saṅgāhako sakkassa devānamindassa paṭissutvā sahassayuttaṁ ājaññarathaṁ yojetvā nimiṁ rājānaṁ upasaṅkamitvā etadavoca:"
+    },
+    {
+      "id": "mn83:14.6",
+      "pali": "‘ayaṁ te, mahārāja, sahassayutto ājaññaratho sakkena devānamindena pesito;"
+    },
+    {
+      "id": "mn83:14.7",
+      "pali": "abhiruha, mahārāja, dibbaṁ yānaṁ avikampamāno."
+    },
+    {
+      "id": "mn83:14.8",
+      "pali": "Api ca, mahārāja, katamena taṁ nemi, yena vā pāpakammā pāpakānaṁ kammānaṁ vipākaṁ paṭisaṁvedenti, yena vā kalyāṇakammā kalyāṇakammānaṁ vipākaṁ paṭisaṁvedentī’ti?"
+    },
+    {
+      "id": "mn83:14.9",
+      "pali": "‘Ubhayeneva maṁ, mātali, nehī’ti."
+    },
+    {
+      "id": "mn83:15.1",
+      "pali": "Sampavesesi kho, ānanda, mātali, saṅgāhako nimiṁ rājānaṁ sudhammaṁ sabhaṁ."
+    },
+    {
+      "id": "mn83:15.2",
+      "pali": "Addasā kho, ānanda, sakko devānamindo nimiṁ rājānaṁ dūratova āgacchantaṁ."
+    },
+    {
+      "id": "mn83:15.3",
+      "pali": "Disvāna nimiṁ rājānaṁ etadavoca:"
+    },
+    {
+      "id": "mn83:15.4",
+      "pali": "‘ehi kho, mahārāja."
+    },
+    {
+      "id": "mn83:15.5",
+      "pali": "Svāgataṁ, mahārāja."
+    },
+    {
+      "id": "mn83:15.6",
+      "pali": "Devā te dassanakāmā, mahārāja, tāvatiṁsā sudhammāyaṁ sabhāyaṁ kittayamānarūpā sannisinnā:"
+    },
+    {
+      "id": "mn83:15.7",
+      "pali": "“lābhā vata, bho, videhānaṁ, suladdhaṁ vata, bho, videhānaṁ,"
+    },
+    {
+      "id": "mn83:15.8",
+      "pali": "yesaṁ nimi rājā dhammiko dhammarājā dhamme ṭhito mahārājā;"
+    },
+    {
+      "id": "mn83:15.9",
+      "pali": "dhammaṁ carati brāhmaṇagahapatikesu negamesu ceva jānapadesu ca;"
+    },
+    {
+      "id": "mn83:15.10",
+      "pali": "uposathañca upavasati cātuddasiṁ pañcadasiṁ aṭṭhamiñca pakkhassā”ti."
+    },
+    {
+      "id": "mn83:15.11",
+      "pali": "Devā te, mahārāja, tāvatiṁsā dassanakāmā."
+    },
+    {
+      "id": "mn83:15.12",
+      "pali": "Abhirama, mahārāja, devesu devānubhāvenā’ti."
+    },
+    {
+      "id": "mn83:15.13",
+      "pali": "‘Alaṁ, mārisa, tattheva maṁ mithilaṁ paṭinetu."
+    },
+    {
+      "id": "mn83:15.14",
+      "pali": "Tathāhaṁ dhammaṁ carissāmi brāhmaṇagahapatikesu negamesu ceva jānapadesu ca;"
+    },
+    {
+      "id": "mn83:15.15",
+      "pali": "uposathañca upavasāmi cātuddasiṁ pañcadasiṁ aṭṭhamiñca pakkhassā’ti."
+    },
+    {
+      "id": "mn83:16.1",
+      "pali": "Atha kho, ānanda, sakko devānamindo mātaliṁ saṅgāhakaṁ āmantesi:"
+    },
+    {
+      "id": "mn83:16.2",
+      "pali": "‘ehi tvaṁ, samma mātali, sahassayuttaṁ ājaññarathaṁ yojetvā nimiṁ rājānaṁ tattheva mithilaṁ paṭinehī’ti."
+    },
+    {
+      "id": "mn83:16.3",
+      "pali": "‘Evaṁ, bhaddantavā’ti kho, ānanda, mātali saṅgāhako sakkassa devānamindassa paṭissutvā sahassayuttaṁ ājaññarathaṁ yojetvā nimiṁ rājānaṁ tattheva mithilaṁ paṭinesi."
+    },
+    {
+      "id": "mn83:16.4",
+      "pali": "Tatra sudaṁ, ānanda, nimi rājā dhammaṁ carati brāhmaṇagahapatikesu negamesu ceva jānapadesu ca, uposathañca upavasati cātuddasiṁ pañcadasiṁ aṭṭhamiñca pakkhassāti."
+    },
+    {
+      "id": "mn83:16.5",
+      "pali": "Atha kho, ānanda, nimi rājā bahūnaṁ vassānaṁ bahūnaṁ vassasatānaṁ bahūnaṁ vassasahassānaṁ accayena kappakaṁ āmantesi:"
+    },
+    {
+      "id": "mn83:16.6",
+      "pali": "‘yadā me, samma kappaka, passeyyāsi sirasmiṁ palitāni jātāni, atha me āroceyyāsī’ti."
+    },
+    {
+      "id": "mn83:16.7",
+      "pali": "‘Evaṁ, devā’ti kho, ānanda, kappako nimissa rañño paccassosi."
+    },
+    {
+      "id": "mn83:16.8",
+      "pali": "Addasā kho, ānanda, kappako bahūnaṁ vassānaṁ bahūnaṁ vassasatānaṁ bahūnaṁ vassasahassānaṁ accayena nimissa rañño sirasmiṁ palitāni jātāni."
+    },
+    {
+      "id": "mn83:16.9",
+      "pali": "Disvāna nimiṁ rājānaṁ etadavoca:"
+    },
+    {
+      "id": "mn83:16.10",
+      "pali": "‘pātubhūtā kho devassa devadūtā;"
+    },
+    {
+      "id": "mn83:16.11",
+      "pali": "dissanti sirasmiṁ palitāni jātānī’ti."
+    },
+    {
+      "id": "mn83:16.12",
+      "pali": "‘Tena hi, samma kappaka, tāni palitāni sādhukaṁ saṇḍāsena uddharitvā mama añjalismiṁ patiṭṭhāpehī’ti."
+    },
+    {
+      "id": "mn83:16.13",
+      "pali": "‘Evaṁ, devā’ti kho, ānanda, kappako nimissa rañño paṭissutvā tāni palitāni sādhukaṁ saṇḍāsena uddharitvā nimissa rañño añjalismiṁ patiṭṭhāpesi."
+    },
+    {
+      "id": "mn83:16.14",
+      "pali": "Atha kho, ānanda, nimi rājā kappakassa gāmavaraṁ datvā jeṭṭhaputtaṁ kumāraṁ āmantāpetvā etadavoca:"
+    },
+    {
+      "id": "mn83:16.15",
+      "pali": "‘pātubhūtā kho me, tāta kumāra, devadūtā;"
+    },
+    {
+      "id": "mn83:16.16",
+      "pali": "dissanti sirasmiṁ palitāni jātāni;"
+    },
+    {
+      "id": "mn83:16.17",
+      "pali": "bhuttā kho pana me mānusakā kāmā;"
+    },
+    {
+      "id": "mn83:16.18",
+      "pali": "samayo dibbe kāme pariyesituṁ."
+    },
+    {
+      "id": "mn83:16.19",
+      "pali": "Ehi tvaṁ, tāta kumāra, imaṁ rajjaṁ paṭipajja."
+    },
+    {
+      "id": "mn83:16.20",
+      "pali": "Ahaṁ pana kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajissāmi."
+    },
+    {
+      "id": "mn83:16.21",
+      "pali": "Tena hi, tāta kumāra, yadā tvampi passeyyāsi sirasmiṁ palitāni jātāni, atha kappakassa gāmavaraṁ datvā jeṭṭhaputtaṁ kumāraṁ sādhukaṁ rajje samanusāsitvā kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyāsi."
+    },
+    {
+      "id": "mn83:16.22",
+      "pali": "Yena me idaṁ kalyāṇaṁ vattaṁ nihitaṁ anuppavatteyyāsi, mā kho me tvaṁ antimapuriso ahosi."
+    },
+    {
+      "id": "mn83:16.23",
+      "pali": "Yasmiṁ kho, tāta kumāra, purisayuge vattamāne evarūpassa kalyāṇassa vattassa samucchedo hoti so tesaṁ antimapuriso hoti."
+    },
+    {
+      "id": "mn83:16.24",
+      "pali": "Taṁ tāhaṁ, tāta kumāra, evaṁ vadāmi:"
+    },
+    {
+      "id": "mn83:16.25",
+      "pali": "“yena me idaṁ kalyāṇaṁ vattaṁ nihitaṁ anuppavatteyyāsi, mā kho me tvaṁ antimapuriso ahosī”’ti."
+    },
+    {
+      "id": "mn83:17-19.1",
+      "pali": "Atha kho, ānanda, nimi rājā kappakassa gāmavaraṁ datvā jeṭṭhaputtaṁ kumāraṁ sādhukaṁ rajje samanusāsitvā imasmiṁyeva maghadevaambavane kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbaji."
+    },
+    {
+      "id": "mn83:17-19.2",
+      "pali": "So mettāsahagatena cetasā ekaṁ disaṁ pharitvā vihāsi, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ; iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā vihāsi."
+    },
+    {
+      "id": "mn83:17-19.3",
+      "pali": "Karuṇāsahagatena cetasā …"
+    },
+    {
+      "id": "mn83:17-19.4",
+      "pali": "muditāsahagatena cetasā …"
+    },
+    {
+      "id": "mn83:17-19.5",
+      "pali": "upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā vihāsi, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ; iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā vihāsi."
+    },
+    {
+      "id": "mn83:17-19.6",
+      "pali": "Nimi kho panānanda, rājā caturāsītivassasahassāni kumārakīḷitaṁ kīḷi, caturāsītivassasahassāni oparajjaṁ kāresi, caturāsītivassasahassāni rajjaṁ kāresi, caturāsītivassasahassāni imasmiṁyeva maghadevaambavane agārasmā anagāriyaṁ pabbajito brahmacariyamacari."
+    },
+    {
+      "id": "mn83:17-19.7",
+      "pali": "So cattāro brahmavihāre bhāvetvā kāyassa bhedā paraṁ maraṇā brahmalokūpago ahosi."
+    },
+    {
+      "id": "mn83:20.1",
+      "pali": "Nimissa kho panānanda, rañño kaḷārajanako nāma putto ahosi."
+    },
+    {
+      "id": "mn83:20.2",
+      "pali": "Na so agārasmā anagāriyaṁ pabbaji."
+    },
+    {
+      "id": "mn83:20.3",
+      "pali": "So taṁ kalyāṇaṁ vattaṁ samucchindi."
+    },
+    {
+      "id": "mn83:20.4",
+      "pali": "So tesaṁ antimapuriso ahosi."
+    },
+    {
+      "id": "mn83:21.1",
+      "pali": "Siyā kho pana te, ānanda, evamassa:"
+    },
+    {
+      "id": "mn83:21.2",
+      "pali": "‘añño nūna tena samayena rājā maghadevo ahosi, yena taṁ kalyāṇaṁ vattaṁ nihitan’ti."
+    },
+    {
+      "id": "mn83:21.3",
+      "pali": "Na kho panetaṁ, ānanda, evaṁ daṭṭhabbaṁ."
+    },
+    {
+      "id": "mn83:21.4",
+      "pali": "Ahaṁ tena samayena rājā maghadevo ahosiṁ."
+    },
+    {
+      "id": "mn83:21.5",
+      "pali": "Ahaṁ taṁ kalyāṇaṁ vattaṁ nihiniṁ, mayā taṁ kalyāṇaṁ vattaṁ nihitaṁ;"
+    },
+    {
+      "id": "mn83:21.6",
+      "pali": "pacchimā janatā anuppavattesi."
+    },
+    {
+      "id": "mn83:21.7",
+      "pali": "Taṁ kho panānanda, kalyāṇaṁ vattaṁ na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati, yāvadeva brahmalokūpapattiyā."
+    },
+    {
+      "id": "mn83:21.8",
+      "pali": "Idaṁ kho panānanda, etarahi mayā kalyāṇaṁ vattaṁ nihitaṁ ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati."
+    },
+    {
+      "id": "mn83:21.9",
+      "pali": "Katamañcānanda, etarahi mayā kalyāṇaṁ vattaṁ nihitaṁ ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?"
+    },
+    {
+      "id": "mn83:21.10",
+      "pali": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—"
+    },
+    {
+      "id": "mn83:21.11",
+      "pali": "sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi."
+    },
+    {
+      "id": "mn83:21.12",
+      "pali": "Idaṁ kho, ānanda, etarahi mayā kalyāṇaṁ vattaṁ nihitaṁ ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati."
+    },
+    {
+      "id": "mn83:21.13",
+      "pali": "Taṁ vo ahaṁ, ānanda, evaṁ vadāmi:"
+    },
+    {
+      "id": "mn83:21.14",
+      "pali": "‘yena me idaṁ kalyāṇaṁ vattaṁ nihitaṁ anuppavatteyyātha, mā kho me tumhe antimapurisā ahuvattha’."
+    },
+    {
+      "id": "mn83:21.15",
+      "pali": "Yasmiṁ kho, ānanda, purisayuge vattamāne evarūpassa kalyāṇassa vattassa samucchedo hoti so tesaṁ antimapuriso hoti."
+    },
+    {
+      "id": "mn83:21.16",
+      "pali": "Taṁ vo ahaṁ, ānanda, evaṁ vadāmi:"
+    },
+    {
+      "id": "mn83:21.17",
+      "pali": "‘yena me idaṁ kalyāṇaṁ vattaṁ nihitaṁ anuppavatteyyātha, mā kho me tumhe antimapurisā ahuvatthā’”ti."
+    },
+    {
+      "id": "mn83:21.18",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn83:21.19",
+      "pali": "Attamano āyasmā ānando bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn83:21.20",
+      "pali": "Maghadevasuttaṁ niṭṭhitaṁ tatiyaṁ."
+    }
+  ]
+}

@@ -1,0 +1,1335 @@
+{
+  "uid": "bv1",
+  "title": "1. Ratanacaṅkamanakaṇḍa",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "bv1:1.1",
+      "pali": "Namo tassa Bhagavato Arahato Sammāsambuddhassa."
+    },
+    {
+      "id": "bv1:2.1",
+      "pali": "Brahmā ca lokādhipatī sahampatī,"
+    },
+    {
+      "id": "bv1:2.2",
+      "pali": "Katañjalī anadhivaraṁ ayācatha;"
+    },
+    {
+      "id": "bv1:2.3",
+      "pali": "“Santīdha sattāpparajakkhajātikā,"
+    },
+    {
+      "id": "bv1:2.4",
+      "pali": "Desehi dhammaṁ anukampimaṁ pajaṁ”."
+    },
+    {
+      "id": "bv1:3.1",
+      "pali": "Sampannavijjācaraṇassa tādino,"
+    },
+    {
+      "id": "bv1:3.2",
+      "pali": "Jutindharassantimadehadhārino;"
+    },
+    {
+      "id": "bv1:3.3",
+      "pali": "Tathāgatassappaṭipuggalassa,"
+    },
+    {
+      "id": "bv1:3.4",
+      "pali": "Uppajji kāruññatā sabbasatte."
+    },
+    {
+      "id": "bv1:4.1",
+      "pali": "“Na hete jānanti sadevamānusā,"
+    },
+    {
+      "id": "bv1:4.2",
+      "pali": "Buddho ayaṁ kīdisako naruttamo;"
+    },
+    {
+      "id": "bv1:4.3",
+      "pali": "Iddhibalaṁ paññābalañca kīdisaṁ,"
+    },
+    {
+      "id": "bv1:4.4",
+      "pali": "Buddhabalaṁ lokahitassa kīdisaṁ."
+    },
+    {
+      "id": "bv1:5.1",
+      "pali": "Na hete jānanti sadevamānusā,"
+    },
+    {
+      "id": "bv1:5.2",
+      "pali": "Buddho ayaṁ edisako naruttamo;"
+    },
+    {
+      "id": "bv1:5.3",
+      "pali": "Iddhibalaṁ paññābalañca edisaṁ,"
+    },
+    {
+      "id": "bv1:5.4",
+      "pali": "Buddhabalaṁ lokahitassa edisaṁ."
+    },
+    {
+      "id": "bv1:6.1",
+      "pali": "Handāhaṁ dassayissāmi,"
+    },
+    {
+      "id": "bv1:6.2",
+      "pali": "buddhabalamanuttaraṁ;"
+    },
+    {
+      "id": "bv1:6.3",
+      "pali": "Caṅkamaṁ māpayissāmi,"
+    },
+    {
+      "id": "bv1:6.4",
+      "pali": "nabhe ratanamaṇḍitaṁ”."
+    },
+    {
+      "id": "bv1:7.1",
+      "pali": "Bhummā mahārājikā tāvatiṁsā,"
+    },
+    {
+      "id": "bv1:7.2",
+      "pali": "Yāmā ca devā tusitā ca nimmitā;"
+    },
+    {
+      "id": "bv1:7.3",
+      "pali": "Paranimmitā yepi ca brahmakāyikā,"
+    },
+    {
+      "id": "bv1:7.4",
+      "pali": "Ānanditā vipulamakaṁsu ghosaṁ."
+    },
+    {
+      "id": "bv1:8.1",
+      "pali": "Obhāsitā ca pathavī sadevakā,"
+    },
+    {
+      "id": "bv1:8.2",
+      "pali": "Puthū ca lokantarikā asaṁvutā;"
+    },
+    {
+      "id": "bv1:8.3",
+      "pali": "Tamo ca tibbo vihato tadā ahu,"
+    },
+    {
+      "id": "bv1:8.4",
+      "pali": "Disvāna accherakaṁ pāṭihīraṁ."
+    },
+    {
+      "id": "bv1:9.1",
+      "pali": "Sadevagandhabbamanussarakkhase,"
+    },
+    {
+      "id": "bv1:9.2",
+      "pali": "Ābhā uḷārā vipulā ajāyatha;"
+    },
+    {
+      "id": "bv1:9.3",
+      "pali": "Imasmiṁ loke parasmiñcobhayasmiṁ,"
+    },
+    {
+      "id": "bv1:9.4",
+      "pali": "Adho ca uddhaṁ tiriyañca vitthataṁ."
+    },
+    {
+      "id": "bv1:10.1",
+      "pali": "Sattuttamo anadhivaro vināyako,"
+    },
+    {
+      "id": "bv1:10.2",
+      "pali": "Satthā ahū devamanussapūjito;"
+    },
+    {
+      "id": "bv1:10.3",
+      "pali": "Mahānubhāvo satapuññalakkhaṇo,"
+    },
+    {
+      "id": "bv1:10.4",
+      "pali": "Dassesi accherakaṁ pāṭihīraṁ."
+    },
+    {
+      "id": "bv1:11.1",
+      "pali": "So yācito devavarena cakkhumā,"
+    },
+    {
+      "id": "bv1:11.2",
+      "pali": "Atthaṁ samekkhitvā tadā naruttamo;"
+    },
+    {
+      "id": "bv1:11.3",
+      "pali": "Caṅkamaṁ māpayi lokanāyako,"
+    },
+    {
+      "id": "bv1:11.4",
+      "pali": "Suniṭṭhitaṁ sabbaratananimmitaṁ."
+    },
+    {
+      "id": "bv1:12.1",
+      "pali": "Iddhī ca ādesanānusāsanī,"
+    },
+    {
+      "id": "bv1:12.2",
+      "pali": "Tipāṭihīre bhagavā vasī ahu;"
+    },
+    {
+      "id": "bv1:12.3",
+      "pali": "Caṅkamaṁ māpayi lokanāyako,"
+    },
+    {
+      "id": "bv1:12.4",
+      "pali": "Suniṭṭhitaṁ sabbaratananimmitaṁ."
+    },
+    {
+      "id": "bv1:13.1",
+      "pali": "Dasasahassīlokadhātuyā,"
+    },
+    {
+      "id": "bv1:13.2",
+      "pali": "Sinerupabbatuttame;"
+    },
+    {
+      "id": "bv1:13.3",
+      "pali": "Thambheva dassesi paṭipāṭiyā,"
+    },
+    {
+      "id": "bv1:13.4",
+      "pali": "Caṅkame ratanāmaye."
+    },
+    {
+      "id": "bv1:14.1",
+      "pali": "Dasasahassī atikkamma,"
+    },
+    {
+      "id": "bv1:14.2",
+      "pali": "caṅkamaṁ māpayī jino;"
+    },
+    {
+      "id": "bv1:14.3",
+      "pali": "Sabbasoṇṇamayā passe,"
+    },
+    {
+      "id": "bv1:14.4",
+      "pali": "caṅkame ratanāmaye."
+    },
+    {
+      "id": "bv1:15.1",
+      "pali": "Tulāsaṅghāṭānuvaggā,"
+    },
+    {
+      "id": "bv1:15.2",
+      "pali": "sovaṇṇaphalakatthatā;"
+    },
+    {
+      "id": "bv1:15.3",
+      "pali": "Vedikā sabbasovaṇṇā,"
+    },
+    {
+      "id": "bv1:15.4",
+      "pali": "dubhato passesu nimmitā."
+    },
+    {
+      "id": "bv1:16.1",
+      "pali": "Maṇimuttāvālikākiṇṇā,"
+    },
+    {
+      "id": "bv1:16.2",
+      "pali": "nimmito ratanāmayo;"
+    },
+    {
+      "id": "bv1:16.3",
+      "pali": "Obhāseti disā sabbā,"
+    },
+    {
+      "id": "bv1:16.4",
+      "pali": "sataraṁsīva uggato."
+    },
+    {
+      "id": "bv1:17.1",
+      "pali": "Tasmiṁ caṅkamane dhīro,"
+    },
+    {
+      "id": "bv1:17.2",
+      "pali": "dvattiṁsavaralakkhaṇo;"
+    },
+    {
+      "id": "bv1:17.3",
+      "pali": "Virocamāno sambuddho,"
+    },
+    {
+      "id": "bv1:17.4",
+      "pali": "caṅkame caṅkamī jino."
+    },
+    {
+      "id": "bv1:18.1",
+      "pali": "Dibbaṁ mandāravaṁ pupphaṁ,"
+    },
+    {
+      "id": "bv1:18.2",
+      "pali": "padumaṁ pārichattakaṁ;"
+    },
+    {
+      "id": "bv1:18.3",
+      "pali": "Caṅkamane okiranti,"
+    },
+    {
+      "id": "bv1:18.4",
+      "pali": "sabbe devā samāgatā."
+    },
+    {
+      "id": "bv1:19.1",
+      "pali": "Passanti taṁ devasaṅghā,"
+    },
+    {
+      "id": "bv1:19.2",
+      "pali": "dasasahassī pamoditā;"
+    },
+    {
+      "id": "bv1:19.3",
+      "pali": "Namassamānā nipatanti,"
+    },
+    {
+      "id": "bv1:19.4",
+      "pali": "tuṭṭhahaṭṭhā pamoditā."
+    },
+    {
+      "id": "bv1:20.1",
+      "pali": "Tāvatiṁsā ca yāmā ca,"
+    },
+    {
+      "id": "bv1:20.2",
+      "pali": "tusitā cāpi devatā;"
+    },
+    {
+      "id": "bv1:20.3",
+      "pali": "Nimmānaratino devā,"
+    },
+    {
+      "id": "bv1:20.4",
+      "pali": "ye devā vasavattino;"
+    },
+    {
+      "id": "bv1:20.5",
+      "pali": "Udaggacittā sumanā,"
+    },
+    {
+      "id": "bv1:20.6",
+      "pali": "passanti lokanāyakaṁ."
+    },
+    {
+      "id": "bv1:21.1",
+      "pali": "Sadevagandhabbamanussarakkhasā,"
+    },
+    {
+      "id": "bv1:21.2",
+      "pali": "Nāgā supaṇṇā atha vāpi kinnarā;"
+    },
+    {
+      "id": "bv1:21.3",
+      "pali": "Passanti taṁ lokahitānukampakaṁ,"
+    },
+    {
+      "id": "bv1:21.4",
+      "pali": "Nabheva accuggatacandamaṇḍalaṁ."
+    },
+    {
+      "id": "bv1:22.1",
+      "pali": "Ābhassarā subhakiṇhā,"
+    },
+    {
+      "id": "bv1:22.2",
+      "pali": "Vehapphalā akaniṭṭhā ca devatā;"
+    },
+    {
+      "id": "bv1:22.3",
+      "pali": "Susuddhasukkavatthavasanā,"
+    },
+    {
+      "id": "bv1:22.4",
+      "pali": "Tiṭṭhanti pañjalīkatā."
+    },
+    {
+      "id": "bv1:23.1",
+      "pali": "Muñcanti pupphaṁ pana pañcavaṇṇikaṁ,"
+    },
+    {
+      "id": "bv1:23.2",
+      "pali": "Mandāravaṁ candanacuṇṇamissitaṁ;"
+    },
+    {
+      "id": "bv1:23.3",
+      "pali": "Bhamenti celāni ca ambare tadā,"
+    },
+    {
+      "id": "bv1:23.4",
+      "pali": "“Aho jino lokahitānukampako."
+    },
+    {
+      "id": "bv1:24.1",
+      "pali": "Tuvaṁ satthā ca ketū ca,"
+    },
+    {
+      "id": "bv1:24.2",
+      "pali": "dhajo yūpo ca pāṇinaṁ;"
+    },
+    {
+      "id": "bv1:24.3",
+      "pali": "Parāyaṇo patiṭṭhā ca,"
+    },
+    {
+      "id": "bv1:24.4",
+      "pali": "dīpo ca dvipaduttamo”."
+    },
+    {
+      "id": "bv1:25.1",
+      "pali": "Dasasahassīlokadhātuyā,"
+    },
+    {
+      "id": "bv1:25.2",
+      "pali": "Devatāyo mahiddhikā;"
+    },
+    {
+      "id": "bv1:25.3",
+      "pali": "Parivāretvā namassanti,"
+    },
+    {
+      "id": "bv1:25.4",
+      "pali": "Tuṭṭhahaṭṭhā pamoditā."
+    },
+    {
+      "id": "bv1:26.1",
+      "pali": "Devatā devakaññā ca,"
+    },
+    {
+      "id": "bv1:26.2",
+      "pali": "pasannā tuṭṭhamānasā;"
+    },
+    {
+      "id": "bv1:26.3",
+      "pali": "Pañcavaṇṇikapupphehi,"
+    },
+    {
+      "id": "bv1:26.4",
+      "pali": "pūjayanti narāsabhaṁ."
+    },
+    {
+      "id": "bv1:27.1",
+      "pali": "Passanti taṁ devasaṅghā,"
+    },
+    {
+      "id": "bv1:27.2",
+      "pali": "pasannā tuṭṭhamānasā;"
+    },
+    {
+      "id": "bv1:27.3",
+      "pali": "Pañcavaṇṇikapupphehi,"
+    },
+    {
+      "id": "bv1:27.4",
+      "pali": "pūjayanti narāsabhaṁ."
+    },
+    {
+      "id": "bv1:28.1",
+      "pali": "“Aho acchariyaṁ loke,"
+    },
+    {
+      "id": "bv1:28.2",
+      "pali": "abbhutaṁ lomahaṁsanaṁ;"
+    },
+    {
+      "id": "bv1:28.3",
+      "pali": "Na medisaṁ bhūtapubbaṁ,"
+    },
+    {
+      "id": "bv1:28.4",
+      "pali": "accheraṁ lomahaṁsanaṁ”."
+    },
+    {
+      "id": "bv1:29.1",
+      "pali": "Sakasakamhi bhavane,"
+    },
+    {
+      "id": "bv1:29.2",
+      "pali": "nisīditvāna devatā;"
+    },
+    {
+      "id": "bv1:29.3",
+      "pali": "Hasanti tā mahāhasitaṁ,"
+    },
+    {
+      "id": "bv1:29.4",
+      "pali": "disvānaccherakaṁ nabhe."
+    },
+    {
+      "id": "bv1:30.1",
+      "pali": "Ākāsaṭṭhā ca bhūmaṭṭhā,"
+    },
+    {
+      "id": "bv1:30.2",
+      "pali": "tiṇapanthanivāsino;"
+    },
+    {
+      "id": "bv1:30.3",
+      "pali": "Katañjalī namassanti,"
+    },
+    {
+      "id": "bv1:30.4",
+      "pali": "tuṭṭhahaṭṭhā pamoditā."
+    },
+    {
+      "id": "bv1:31.1",
+      "pali": "Yepi dīghāyukā nāgā,"
+    },
+    {
+      "id": "bv1:31.2",
+      "pali": "puññavanto mahiddhikā;"
+    },
+    {
+      "id": "bv1:31.3",
+      "pali": "Pamoditā namassanti,"
+    },
+    {
+      "id": "bv1:31.4",
+      "pali": "pūjayanti naruttamaṁ."
+    },
+    {
+      "id": "bv1:32.1",
+      "pali": "Saṅgītiyo pavattenti,"
+    },
+    {
+      "id": "bv1:32.2",
+      "pali": "ambare anilañjase;"
+    },
+    {
+      "id": "bv1:32.3",
+      "pali": "Cammanaddhāni vādenti,"
+    },
+    {
+      "id": "bv1:32.4",
+      "pali": "disvānaccherakaṁ nabhe."
+    },
+    {
+      "id": "bv1:33.1",
+      "pali": "Saṅkhā ca paṇavā ceva,"
+    },
+    {
+      "id": "bv1:33.2",
+      "pali": "athopi ḍiṇḍimā bahū;"
+    },
+    {
+      "id": "bv1:33.3",
+      "pali": "Antalikkhasmiṁ vajjanti,"
+    },
+    {
+      "id": "bv1:33.4",
+      "pali": "disvānaccherakaṁ nabhe."
+    },
+    {
+      "id": "bv1:34.1",
+      "pali": "“Abbhuto vata no ajja,"
+    },
+    {
+      "id": "bv1:34.2",
+      "pali": "uppajji lomahaṁsano;"
+    },
+    {
+      "id": "bv1:34.3",
+      "pali": "Dhuvamatthasiddhiṁ labhāma,"
+    },
+    {
+      "id": "bv1:34.4",
+      "pali": "khaṇo no paṭipādito”."
+    },
+    {
+      "id": "bv1:35.1",
+      "pali": "Buddhoti tesaṁ sutvāna,"
+    },
+    {
+      "id": "bv1:35.2",
+      "pali": "pīti uppajji tāvade;"
+    },
+    {
+      "id": "bv1:35.3",
+      "pali": "Buddho buddhoti kathayantā,"
+    },
+    {
+      "id": "bv1:35.4",
+      "pali": "tiṭṭhanti pañjalīkatā."
+    },
+    {
+      "id": "bv1:36.1",
+      "pali": "Hiṅkārā sādhukārā ca,"
+    },
+    {
+      "id": "bv1:36.2",
+      "pali": "ukkuṭṭhi sampahaṁsanaṁ;"
+    },
+    {
+      "id": "bv1:36.3",
+      "pali": "Pajā ca vividhā gagane,"
+    },
+    {
+      "id": "bv1:36.4",
+      "pali": "vattenti pañjalīkatā."
+    },
+    {
+      "id": "bv1:37.1",
+      "pali": "Gāyanti seḷenti ca vādayanti ca,"
+    },
+    {
+      "id": "bv1:37.2",
+      "pali": "Bhujāni pothenti ca naccayanti ca;"
+    },
+    {
+      "id": "bv1:37.3",
+      "pali": "Muñcanti pupphaṁ pana pañcavaṇṇikaṁ,"
+    },
+    {
+      "id": "bv1:37.4",
+      "pali": "Mandāravaṁ candanacuṇṇamissitaṁ."
+    },
+    {
+      "id": "bv1:38.1",
+      "pali": "“Yathā tuyhaṁ mahāvīra,"
+    },
+    {
+      "id": "bv1:38.2",
+      "pali": "pādesu cakkalakkhaṇaṁ;"
+    },
+    {
+      "id": "bv1:38.3",
+      "pali": "Dhajavajirapaṭākā,"
+    },
+    {
+      "id": "bv1:38.4",
+      "pali": "vaḍḍhamānaṅkusācitaṁ."
+    },
+    {
+      "id": "bv1:39.1",
+      "pali": "Rūpe sīle samādhimhi,"
+    },
+    {
+      "id": "bv1:39.2",
+      "pali": "paññāya ca asādiso;"
+    },
+    {
+      "id": "bv1:39.3",
+      "pali": "Vimuttiyā asamasamo,"
+    },
+    {
+      "id": "bv1:39.4",
+      "pali": "dhammacakkappavattane."
+    },
+    {
+      "id": "bv1:40.1",
+      "pali": "Dasanāgabalaṁ kāye,"
+    },
+    {
+      "id": "bv1:40.2",
+      "pali": "tuyhaṁ pākatikaṁ balaṁ;"
+    },
+    {
+      "id": "bv1:40.3",
+      "pali": "Iddhibalena asamo,"
+    },
+    {
+      "id": "bv1:40.4",
+      "pali": "dhammacakkappavattane."
+    },
+    {
+      "id": "bv1:41.1",
+      "pali": "Evaṁ sabbaguṇūpetaṁ,"
+    },
+    {
+      "id": "bv1:41.2",
+      "pali": "sabbaṅgasamupāgataṁ;"
+    },
+    {
+      "id": "bv1:41.3",
+      "pali": "Mahāmuniṁ kāruṇikaṁ,"
+    },
+    {
+      "id": "bv1:41.4",
+      "pali": "lokanāthaṁ namassatha."
+    },
+    {
+      "id": "bv1:42.1",
+      "pali": "Abhivādanaṁ thomanañca,"
+    },
+    {
+      "id": "bv1:42.2",
+      "pali": "vandanañca pasaṁsanaṁ;"
+    },
+    {
+      "id": "bv1:42.3",
+      "pali": "Namassanañca pūjañca,"
+    },
+    {
+      "id": "bv1:42.4",
+      "pali": "sabbaṁ arahasī tuvaṁ."
+    },
+    {
+      "id": "bv1:43.1",
+      "pali": "Ye keci loke vandaneyyā,"
+    },
+    {
+      "id": "bv1:43.2",
+      "pali": "vandanaṁ arahanti ye;"
+    },
+    {
+      "id": "bv1:43.3",
+      "pali": "Sabbaseṭṭho mahāvīra,"
+    },
+    {
+      "id": "bv1:43.4",
+      "pali": "sadiso te na vijjati."
+    },
+    {
+      "id": "bv1:44.1",
+      "pali": "Sāriputto mahāpañño,"
+    },
+    {
+      "id": "bv1:44.2",
+      "pali": "samādhijjhānakovido;"
+    },
+    {
+      "id": "bv1:44.3",
+      "pali": "Gijjhakūṭe ṭhitoyeva,"
+    },
+    {
+      "id": "bv1:44.4",
+      "pali": "passati lokanāyakaṁ."
+    },
+    {
+      "id": "bv1:45.1",
+      "pali": "Suphullaṁ sālarājaṁva,"
+    },
+    {
+      "id": "bv1:45.2",
+      "pali": "candaṁva gagane yathā;"
+    },
+    {
+      "id": "bv1:45.3",
+      "pali": "Majjhanhikeva sūriyaṁ,"
+    },
+    {
+      "id": "bv1:45.4",
+      "pali": "olokesi narāsabhaṁ."
+    },
+    {
+      "id": "bv1:46.1",
+      "pali": "Jalantaṁ dīparukkhaṁva,"
+    },
+    {
+      "id": "bv1:46.2",
+      "pali": "Taruṇasūriyaṁva uggataṁ;"
+    },
+    {
+      "id": "bv1:46.3",
+      "pali": "Byāmappabhānurañjitaṁ,"
+    },
+    {
+      "id": "bv1:46.4",
+      "pali": "Dhīraṁ passati lokanāyakaṁ."
+    },
+    {
+      "id": "bv1:47.1",
+      "pali": "Pañcannaṁ bhikkhusatānaṁ,"
+    },
+    {
+      "id": "bv1:47.2",
+      "pali": "katakiccāna tādinaṁ;"
+    },
+    {
+      "id": "bv1:47.3",
+      "pali": "Khīṇāsavānaṁ vimalānaṁ,"
+    },
+    {
+      "id": "bv1:47.4",
+      "pali": "khaṇena sannipātayi."
+    },
+    {
+      "id": "bv1:48.1",
+      "pali": "Lokappasādanaṁ nāma,"
+    },
+    {
+      "id": "bv1:48.2",
+      "pali": "pāṭihīraṁ nidassayi;"
+    },
+    {
+      "id": "bv1:48.3",
+      "pali": "Amhepi tattha gantvāna,"
+    },
+    {
+      "id": "bv1:48.4",
+      "pali": "vandissāma mayaṁ jinaṁ."
+    },
+    {
+      "id": "bv1:49.1",
+      "pali": "Etha sabbe gamissāma,"
+    },
+    {
+      "id": "bv1:49.2",
+      "pali": "pucchissāma mayaṁ jinaṁ;"
+    },
+    {
+      "id": "bv1:49.3",
+      "pali": "Kaṅkhaṁ vinodayissāma,"
+    },
+    {
+      "id": "bv1:49.4",
+      "pali": "passitvā lokanāyakaṁ”."
+    },
+    {
+      "id": "bv1:50.1",
+      "pali": "Sādhūti te paṭissutvā,"
+    },
+    {
+      "id": "bv1:50.2",
+      "pali": "nipakā saṁvutindriyā;"
+    },
+    {
+      "id": "bv1:50.3",
+      "pali": "Pattacīvaramādāya,"
+    },
+    {
+      "id": "bv1:50.4",
+      "pali": "taramānā upāgamuṁ."
+    },
+    {
+      "id": "bv1:51.1",
+      "pali": "Khīṇāsavehi vimalehi,"
+    },
+    {
+      "id": "bv1:51.2",
+      "pali": "dantehi uttame dame;"
+    },
+    {
+      "id": "bv1:51.3",
+      "pali": "Sāriputto mahāpañño,"
+    },
+    {
+      "id": "bv1:51.4",
+      "pali": "iddhiyā upasaṅkami."
+    },
+    {
+      "id": "bv1:52.1",
+      "pali": "Tehi bhikkhūhi parivuto,"
+    },
+    {
+      "id": "bv1:52.2",
+      "pali": "sāriputto mahāgaṇī;"
+    },
+    {
+      "id": "bv1:52.3",
+      "pali": "Laḷanto devova gagane,"
+    },
+    {
+      "id": "bv1:52.4",
+      "pali": "iddhiyā upasaṅkami."
+    },
+    {
+      "id": "bv1:53.1",
+      "pali": "Ukkāsitañca khipitaṁ,"
+    },
+    {
+      "id": "bv1:53.2",
+      "pali": "ajjhupekkhiya subbatā;"
+    },
+    {
+      "id": "bv1:53.3",
+      "pali": "Sagāravā sappatissā,"
+    },
+    {
+      "id": "bv1:53.4",
+      "pali": "sambuddhaṁ upasaṅkamuṁ."
+    },
+    {
+      "id": "bv1:54.1",
+      "pali": "Upasaṅkamitvā passanti,"
+    },
+    {
+      "id": "bv1:54.2",
+      "pali": "sayambhuṁ lokanāyakaṁ;"
+    },
+    {
+      "id": "bv1:54.3",
+      "pali": "Nabhe accuggataṁ dhīraṁ,"
+    },
+    {
+      "id": "bv1:54.4",
+      "pali": "candaṁva gagane yathā."
+    },
+    {
+      "id": "bv1:55.1",
+      "pali": "Jalantaṁ dīparukkhaṁva,"
+    },
+    {
+      "id": "bv1:55.2",
+      "pali": "vijjuṁva gagane yathā;"
+    },
+    {
+      "id": "bv1:55.3",
+      "pali": "Majjhanhikeva sūriyaṁ,"
+    },
+    {
+      "id": "bv1:55.4",
+      "pali": "passanti lokanāyakaṁ."
+    },
+    {
+      "id": "bv1:56.1",
+      "pali": "Pañcabhikkhusatā sabbe,"
+    },
+    {
+      "id": "bv1:56.2",
+      "pali": "passanti lokanāyakaṁ;"
+    },
+    {
+      "id": "bv1:56.3",
+      "pali": "Rahadamiva vippasannaṁ,"
+    },
+    {
+      "id": "bv1:56.4",
+      "pali": "suphullaṁ padumaṁ yathā."
+    },
+    {
+      "id": "bv1:57.1",
+      "pali": "Añjaliṁ paggahetvāna,"
+    },
+    {
+      "id": "bv1:57.2",
+      "pali": "tuṭṭhahaṭṭhā pamoditā;"
+    },
+    {
+      "id": "bv1:57.3",
+      "pali": "Namassamānā nipatanti,"
+    },
+    {
+      "id": "bv1:57.4",
+      "pali": "satthuno cakkalakkhaṇe."
+    },
+    {
+      "id": "bv1:58.1",
+      "pali": "Sāriputto mahāpañño,"
+    },
+    {
+      "id": "bv1:58.2",
+      "pali": "koraṇḍasamasādiso;"
+    },
+    {
+      "id": "bv1:58.3",
+      "pali": "Samādhijjhānakusalo,"
+    },
+    {
+      "id": "bv1:58.4",
+      "pali": "vandate lokanāyakaṁ."
+    },
+    {
+      "id": "bv1:59.1",
+      "pali": "Gajjitā kālameghova,"
+    },
+    {
+      "id": "bv1:59.2",
+      "pali": "nīluppalasamasādiso;"
+    },
+    {
+      "id": "bv1:59.3",
+      "pali": "Iddhibalena asamo,"
+    },
+    {
+      "id": "bv1:59.4",
+      "pali": "moggallāno mahiddhiko."
+    },
+    {
+      "id": "bv1:60.1",
+      "pali": "Mahākassapopi ca thero,"
+    },
+    {
+      "id": "bv1:60.2",
+      "pali": "uttattakanakasannibho;"
+    },
+    {
+      "id": "bv1:60.3",
+      "pali": "Dhutaguṇe agganikkhitto,"
+    },
+    {
+      "id": "bv1:60.4",
+      "pali": "thomito satthuvaṇṇito."
+    },
+    {
+      "id": "bv1:61.1",
+      "pali": "Dibbacakkhūnaṁ yo aggo,"
+    },
+    {
+      "id": "bv1:61.2",
+      "pali": "anuruddho mahāgaṇī;"
+    },
+    {
+      "id": "bv1:61.3",
+      "pali": "Ñātiseṭṭho bhagavato,"
+    },
+    {
+      "id": "bv1:61.4",
+      "pali": "avidūreva tiṭṭhati."
+    },
+    {
+      "id": "bv1:62.1",
+      "pali": "Āpattianāpattiyā,"
+    },
+    {
+      "id": "bv1:62.2",
+      "pali": "satekicchāya kovido;"
+    },
+    {
+      "id": "bv1:62.3",
+      "pali": "Vinaye agganikkhitto,"
+    },
+    {
+      "id": "bv1:62.4",
+      "pali": "upāli satthuvaṇṇito."
+    },
+    {
+      "id": "bv1:63.1",
+      "pali": "Sukhumanipuṇatthapaṭividdho,"
+    },
+    {
+      "id": "bv1:63.2",
+      "pali": "Kathikānaṁ pavaro gaṇī;"
+    },
+    {
+      "id": "bv1:63.3",
+      "pali": "Isi mantāniyā putto,"
+    },
+    {
+      "id": "bv1:63.4",
+      "pali": "Puṇṇo nāmāti vissuto."
+    },
+    {
+      "id": "bv1:64.1",
+      "pali": "Etesaṁ cittamaññāya,"
+    },
+    {
+      "id": "bv1:64.2",
+      "pali": "opammakusalo muni;"
+    },
+    {
+      "id": "bv1:64.3",
+      "pali": "Kaṅkhacchedo mahāvīro,"
+    },
+    {
+      "id": "bv1:64.4",
+      "pali": "kathesi attano guṇaṁ."
+    },
+    {
+      "id": "bv1:65.1",
+      "pali": "“Cattāro te asaṅkheyyā,"
+    },
+    {
+      "id": "bv1:65.2",
+      "pali": "koṭi yesaṁ na nāyati;"
+    },
+    {
+      "id": "bv1:65.3",
+      "pali": "Sattakāyo ca ākāso,"
+    },
+    {
+      "id": "bv1:65.4",
+      "pali": "cakkavāḷā canantakā;"
+    },
+    {
+      "id": "bv1:65.5",
+      "pali": "Buddhañāṇaṁ appameyyaṁ,"
+    },
+    {
+      "id": "bv1:65.6",
+      "pali": "na sakkā ete vijānituṁ."
+    },
+    {
+      "id": "bv1:66.1",
+      "pali": "Kimetaṁ acchariyaṁ loke,"
+    },
+    {
+      "id": "bv1:66.2",
+      "pali": "yaṁ me iddhivikubbanaṁ;"
+    },
+    {
+      "id": "bv1:66.3",
+      "pali": "Aññe bahū acchariyā,"
+    },
+    {
+      "id": "bv1:66.4",
+      "pali": "abbhutā lomahaṁsanā."
+    },
+    {
+      "id": "bv1:67.1",
+      "pali": "Yadāhaṁ tusite kāye,"
+    },
+    {
+      "id": "bv1:67.2",
+      "pali": "santusito nāmahaṁ tadā;"
+    },
+    {
+      "id": "bv1:67.3",
+      "pali": "Dasasahassī samāgamma,"
+    },
+    {
+      "id": "bv1:67.4",
+      "pali": "yācanti pañjalī mamaṁ."
+    },
+    {
+      "id": "bv1:68.1",
+      "pali": "‘Kālo kho te mahāvīra,"
+    },
+    {
+      "id": "bv1:68.2",
+      "pali": "uppajja mātukucchiyaṁ;"
+    },
+    {
+      "id": "bv1:68.3",
+      "pali": "Sadevakaṁ tārayanto,"
+    },
+    {
+      "id": "bv1:68.4",
+      "pali": "bujjhassu amataṁ padaṁ’."
+    },
+    {
+      "id": "bv1:69.1",
+      "pali": "Tusitā kāyā cavitvāna,"
+    },
+    {
+      "id": "bv1:69.2",
+      "pali": "yadā okkami kucchiyaṁ;"
+    },
+    {
+      "id": "bv1:69.3",
+      "pali": "Dasasahassīlokadhātu,"
+    },
+    {
+      "id": "bv1:69.4",
+      "pali": "kampittha dharaṇī tadā."
+    },
+    {
+      "id": "bv1:70.1",
+      "pali": "Yadāhaṁ mātukucchito,"
+    },
+    {
+      "id": "bv1:70.2",
+      "pali": "sampajānova nikkhamiṁ;"
+    },
+    {
+      "id": "bv1:70.3",
+      "pali": "Sādhukāraṁ pavattenti,"
+    },
+    {
+      "id": "bv1:70.4",
+      "pali": "dasasahassī pakampatha."
+    },
+    {
+      "id": "bv1:71.1",
+      "pali": "Okkantiṁ me samo natthi,"
+    },
+    {
+      "id": "bv1:71.2",
+      "pali": "jātito abhinikkhame;"
+    },
+    {
+      "id": "bv1:71.3",
+      "pali": "Sambodhiyaṁ ahaṁ seṭṭho,"
+    },
+    {
+      "id": "bv1:71.4",
+      "pali": "dhammacakkappavattane."
+    },
+    {
+      "id": "bv1:72.1",
+      "pali": "Aho acchariyaṁ loke,"
+    },
+    {
+      "id": "bv1:72.2",
+      "pali": "buddhānaṁ guṇamahantatā;"
+    },
+    {
+      "id": "bv1:72.3",
+      "pali": "Dasasahassīlokadhātu,"
+    },
+    {
+      "id": "bv1:72.4",
+      "pali": "chappakāraṁ pakampatha;"
+    },
+    {
+      "id": "bv1:72.5",
+      "pali": "Obhāso ca mahā āsi,"
+    },
+    {
+      "id": "bv1:72.6",
+      "pali": "accheraṁ lomahaṁsanaṁ”."
+    },
+    {
+      "id": "bv1:73.1",
+      "pali": "Bhagavā tamhi samaye,"
+    },
+    {
+      "id": "bv1:73.2",
+      "pali": "lokajeṭṭho narāsabho;"
+    },
+    {
+      "id": "bv1:73.3",
+      "pali": "Sadevakaṁ dassayanto,"
+    },
+    {
+      "id": "bv1:73.4",
+      "pali": "iddhiyā caṅkamī jino."
+    },
+    {
+      "id": "bv1:74.1",
+      "pali": "Caṅkame caṅkamantova,"
+    },
+    {
+      "id": "bv1:74.2",
+      "pali": "kathesi lokanāyako;"
+    },
+    {
+      "id": "bv1:74.3",
+      "pali": "Antarā na nivatteti,"
+    },
+    {
+      "id": "bv1:74.4",
+      "pali": "catuhatthe caṅkame yathā."
+    },
+    {
+      "id": "bv1:75.1",
+      "pali": "Sāriputto mahāpañño,"
+    },
+    {
+      "id": "bv1:75.2",
+      "pali": "samādhijjhānakovido;"
+    },
+    {
+      "id": "bv1:75.3",
+      "pali": "Paññāya pāramippatto,"
+    },
+    {
+      "id": "bv1:75.4",
+      "pali": "pucchati lokanāyakaṁ."
+    },
+    {
+      "id": "bv1:76.1",
+      "pali": "“Kīdiso te mahāvīra,"
+    },
+    {
+      "id": "bv1:76.2",
+      "pali": "abhinīhāro naruttama;"
+    },
+    {
+      "id": "bv1:76.3",
+      "pali": "Kamhi kāle tayā dhīra,"
+    },
+    {
+      "id": "bv1:76.4",
+      "pali": "patthitā bodhimuttamā."
+    },
+    {
+      "id": "bv1:77.1",
+      "pali": "Dānaṁ sīlañca nekkhammaṁ,"
+    },
+    {
+      "id": "bv1:77.2",
+      "pali": "paññāvīriyañca kīdisaṁ;"
+    },
+    {
+      "id": "bv1:77.3",
+      "pali": "Khantisaccamadhiṭṭhānaṁ,"
+    },
+    {
+      "id": "bv1:77.4",
+      "pali": "mettupekkhā ca kīdisā."
+    },
+    {
+      "id": "bv1:78.1",
+      "pali": "Dasa pāramī tayā dhīra,"
+    },
+    {
+      "id": "bv1:78.2",
+      "pali": "kīdisī lokanāyaka;"
+    },
+    {
+      "id": "bv1:78.3",
+      "pali": "Kathaṁ upapāramī puṇṇā,"
+    },
+    {
+      "id": "bv1:78.4",
+      "pali": "paramatthapāramī kathaṁ”."
+    },
+    {
+      "id": "bv1:79.1",
+      "pali": "Tassa puṭṭho viyākāsi,"
+    },
+    {
+      "id": "bv1:79.2",
+      "pali": "karavīkamadhuragiro;"
+    },
+    {
+      "id": "bv1:79.3",
+      "pali": "Nibbāpayanto hadayaṁ,"
+    },
+    {
+      "id": "bv1:79.4",
+      "pali": "hāsayanto sadevakaṁ."
+    },
+    {
+      "id": "bv1:80.1",
+      "pali": "Atītabuddhānaṁ jinānaṁ desitaṁ,"
+    },
+    {
+      "id": "bv1:80.2",
+      "pali": "Nikīlitaṁ buddhaparamparāgataṁ;"
+    },
+    {
+      "id": "bv1:80.3",
+      "pali": "Pubbenivāsānugatāya buddhiyā,"
+    },
+    {
+      "id": "bv1:80.4",
+      "pali": "Pakāsayī lokahitaṁ sadevake."
+    },
+    {
+      "id": "bv1:81.1",
+      "pali": "“Pītipāmojjajananaṁ,"
+    },
+    {
+      "id": "bv1:81.2",
+      "pali": "sokasallavinodanaṁ;"
+    },
+    {
+      "id": "bv1:81.3",
+      "pali": "Sabbasampattipaṭilābhaṁ,"
+    },
+    {
+      "id": "bv1:81.4",
+      "pali": "cittīkatvā suṇātha me."
+    },
+    {
+      "id": "bv1:82.1",
+      "pali": "Madanimmadanaṁ sokanudaṁ,"
+    },
+    {
+      "id": "bv1:82.2",
+      "pali": "Saṁsāraparimocanaṁ;"
+    },
+    {
+      "id": "bv1:82.3",
+      "pali": "Sabbadukkhakkhayaṁ maggaṁ,"
+    },
+    {
+      "id": "bv1:82.4",
+      "pali": "Sakkaccaṁ paṭipajjathā”ti."
+    },
+    {
+      "id": "bv1:83.1",
+      "pali": "Ratanacaṅkamanakaṇḍo niṭṭhito."
+    }
+  ]
+}

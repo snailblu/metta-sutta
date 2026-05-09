@@ -1,0 +1,751 @@
+{
+  "uid": "mn105",
+  "title": "Sunakkhattasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn105:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn105:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ."
+    },
+    {
+      "id": "mn105:2.1",
+      "pali": "Tena kho pana samayena sambahulehi bhikkhūhi bhagavato santike aññā byākatā hoti:"
+    },
+    {
+      "id": "mn105:2.2",
+      "pali": "“‘khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānāmā”ti."
+    },
+    {
+      "id": "mn105:2.3",
+      "pali": "Assosi kho sunakkhatto licchaviputto:"
+    },
+    {
+      "id": "mn105:2.4",
+      "pali": "“sambahulehi kira bhikkhūhi bhagavato santike aññā byākatā hoti:"
+    },
+    {
+      "id": "mn105:2.5",
+      "pali": "‘khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyāti pajānāmā’”ti."
+    },
+    {
+      "id": "mn105:3.1",
+      "pali": "Atha kho sunakkhatto licchaviputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho sunakkhatto licchaviputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn105:4.1",
+      "pali": "“sutaṁ metaṁ, bhante:"
+    },
+    {
+      "id": "mn105:4.2",
+      "pali": "‘sambahulehi kira bhikkhūhi bhagavato santike aññā byākatā—"
+    },
+    {
+      "id": "mn105:4.3",
+      "pali": "khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyāti pajānāmā’ti."
+    },
+    {
+      "id": "mn105:4.4",
+      "pali": "Ye te, bhante, bhikkhū bhagavato santike aññaṁ byākaṁsu:"
+    },
+    {
+      "id": "mn105:4.5",
+      "pali": "‘khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyāti pajānāmā’ti, kacci te, bhante, bhikkhū sammadeva aññaṁ byākaṁsu udāhu santetthekacce bhikkhū adhimānena aññaṁ byākaṁsū”ti?"
+    },
+    {
+      "id": "mn105:5.1",
+      "pali": "“Ye te, sunakkhatta, bhikkhū mama santike aññaṁ byākaṁsu:"
+    },
+    {
+      "id": "mn105:5.2",
+      "pali": "‘khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyāti pajānāmā’ti."
+    },
+    {
+      "id": "mn105:5.3",
+      "pali": "Santetthekacce bhikkhū sammadeva aññaṁ byākaṁsu, santi panidhekacce bhikkhū adhimānenapi aññaṁ byākaṁsu."
+    },
+    {
+      "id": "mn105:5.4",
+      "pali": "Tatra, sunakkhatta, ye te bhikkhū sammadeva aññaṁ byākaṁsu tesaṁ taṁ tatheva hoti;"
+    },
+    {
+      "id": "mn105:5.5",
+      "pali": "ye pana te bhikkhū adhimānena aññaṁ byākaṁsu tatra, sunakkhatta, tathāgatassa evaṁ hoti:"
+    },
+    {
+      "id": "mn105:5.6",
+      "pali": "‘dhammaṁ nesaṁ desessan’ti."
+    },
+    {
+      "id": "mn105:5.7",
+      "pali": "Evañcettha, sunakkhatta, tathāgatassa hoti:"
+    },
+    {
+      "id": "mn105:5.8",
+      "pali": "‘dhammaṁ nesaṁ desessan’ti."
+    },
+    {
+      "id": "mn105:5.9",
+      "pali": "Atha ca panidhekacce moghapurisā pañhaṁ abhisaṅkharitvā abhisaṅkharitvā tathāgataṁ upasaṅkamitvā pucchanti."
+    },
+    {
+      "id": "mn105:5.10",
+      "pali": "Tatra, sunakkhatta, yampi tathāgatassa evaṁ hoti:"
+    },
+    {
+      "id": "mn105:5.11",
+      "pali": "‘dhammaṁ nesaṁ desessan’ti tassapi hoti aññathattan”ti."
+    },
+    {
+      "id": "mn105:6.1",
+      "pali": "“Etassa bhagavā kālo, etassa sugata kālo,"
+    },
+    {
+      "id": "mn105:6.2",
+      "pali": "yaṁ bhagavā dhammaṁ deseyya. Bhagavato sutvā bhikkhū dhāressantī”ti."
+    },
+    {
+      "id": "mn105:6.3",
+      "pali": "“Tena hi, sunakkhatta, suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti."
+    },
+    {
+      "id": "mn105:6.4",
+      "pali": "“Evaṁ, bhante”ti kho sunakkhatto licchaviputto bhagavato paccassosi."
+    },
+    {
+      "id": "mn105:6.5",
+      "pali": "Bhagavā etadavoca—"
+    },
+    {
+      "id": "mn105:7.1",
+      "pali": "Pañca kho ime, sunakkhatta, kāmaguṇā."
+    },
+    {
+      "id": "mn105:7.2",
+      "pali": "Katame pañca?"
+    },
+    {
+      "id": "mn105:7.3",
+      "pali": "Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā,"
+    },
+    {
+      "id": "mn105:7.4",
+      "pali": "sotaviññeyyā saddā …pe…"
+    },
+    {
+      "id": "mn105:7.5",
+      "pali": "ghānaviññeyyā gandhā …"
+    },
+    {
+      "id": "mn105:7.6",
+      "pali": "jivhāviññeyyā rasā …"
+    },
+    {
+      "id": "mn105:7.7",
+      "pali": "kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā—"
+    },
+    {
+      "id": "mn105:7.8",
+      "pali": "ime kho, sunakkhatta, pañca kāmaguṇā."
+    },
+    {
+      "id": "mn105:8.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, sunakkhatta, vijjati yaṁ idhekacco purisapuggalo lokāmisādhimutto assa."
+    },
+    {
+      "id": "mn105:8.2",
+      "pali": "Lokāmisādhimuttassa kho, sunakkhatta, purisapuggalassa tappatirūpī ceva kathā saṇṭhāti, tadanudhammañca anuvitakketi, anuvicāreti, tañca purisaṁ bhajati, tena ca vittiṁ āpajjati;"
+    },
+    {
+      "id": "mn105:8.3",
+      "pali": "āneñjapaṭisaṁyuttāya ca pana kathāya kacchamānāya na sussūsati, na sotaṁ odahati, na aññā cittaṁ upaṭṭhāpeti, na ca taṁ purisaṁ bhajati, na ca tena vittiṁ āpajjati."
+    },
+    {
+      "id": "mn105:9.1",
+      "pali": "Seyyathāpi, sunakkhatta, puriso sakamhā gāmā vā nigamā vā ciravippavuttho assa."
+    },
+    {
+      "id": "mn105:9.2",
+      "pali": "So aññataraṁ purisaṁ passeyya tamhā gāmā vā nigamā vā acirapakkantaṁ."
+    },
+    {
+      "id": "mn105:9.3",
+      "pali": "So taṁ purisaṁ tassa gāmassa vā nigamassa vā khematañca subhikkhatañca appābādhatañca puccheyya;"
+    },
+    {
+      "id": "mn105:9.4",
+      "pali": "tassa so puriso tassa gāmassa vā nigamassa vā khematañca subhikkhatañca appābādhatañca saṁseyya."
+    },
+    {
+      "id": "mn105:9.5",
+      "pali": "Taṁ kiṁ maññasi, sunakkhatta,"
+    },
+    {
+      "id": "mn105:9.6",
+      "pali": "api nu so puriso tassa purisassa sussūseyya, sotaṁ odaheyya, aññā cittaṁ upaṭṭhāpeyya, tañca purisaṁ bhajeyya, tena ca vittiṁ āpajjeyyā”ti?"
+    },
+    {
+      "id": "mn105:9.7",
+      "pali": "“Evaṁ, bhante”."
+    },
+    {
+      "id": "mn105:9.8",
+      "pali": "“Evameva kho, sunakkhatta, ṭhānametaṁ vijjati yaṁ idhekacco purisapuggalo lokāmisādhimutto assa."
+    },
+    {
+      "id": "mn105:9.9",
+      "pali": "Lokāmisādhimuttassa kho, sunakkhatta, purisapuggalassa tappatirūpī ceva kathā saṇṭhāti, tadanudhammañca anuvitakketi, anuvicāreti, tañca purisaṁ bhajati, tena ca vittiṁ āpajjati;"
+    },
+    {
+      "id": "mn105:9.10",
+      "pali": "āneñjapaṭisaṁyuttāya ca pana kathāya kacchamānāya na sussūsati, na sotaṁ odahati, na aññā cittaṁ upaṭṭhāpeti, na ca taṁ purisaṁ bhajati, na ca tena vittiṁ āpajjati."
+    },
+    {
+      "id": "mn105:9.11",
+      "pali": "So evamassa veditabbo:"
+    },
+    {
+      "id": "mn105:9.12",
+      "pali": "‘āneñjasaṁyojanena hi kho visaṁyutto lokāmisādhimutto purisapuggalo’ti."
+    },
+    {
+      "id": "mn105:10.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, sunakkhatta, vijjati yaṁ idhekacco purisapuggalo āneñjādhimutto assa."
+    },
+    {
+      "id": "mn105:10.2",
+      "pali": "Āneñjādhimuttassa kho, sunakkhatta, purisapuggalassa tappatirūpī ceva kathā saṇṭhāti, tadanudhammañca anuvitakketi, anuvicāreti, tañca purisaṁ bhajati, tena ca vittiṁ āpajjati;"
+    },
+    {
+      "id": "mn105:10.3",
+      "pali": "lokāmisapaṭisaṁyuttāya ca pana kathāya kacchamānāya na sussūsati, na sotaṁ odahati, na aññā cittaṁ upaṭṭhāpeti, na ca taṁ purisaṁ bhajati, na ca tena vittiṁ āpajjati."
+    },
+    {
+      "id": "mn105:11.1",
+      "pali": "Seyyathāpi, sunakkhatta, paṇḍupalāso bandhanā pavutto abhabbo haritattāya;"
+    },
+    {
+      "id": "mn105:11.2",
+      "pali": "evameva kho, sunakkhatta, āneñjādhimuttassa purisapuggalassa ye lokāmisasaṁyojane se pavutte."
+    },
+    {
+      "id": "mn105:11.3",
+      "pali": "So evamassa veditabbo:"
+    },
+    {
+      "id": "mn105:11.4",
+      "pali": "‘lokāmisasaṁyojanena hi kho visaṁyutto āneñjādhimutto purisapuggalo’ti."
+    },
+    {
+      "id": "mn105:12.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, sunakkhatta, vijjati yaṁ idhekacco purisapuggalo ākiñcaññāyatanādhimutto assa."
+    },
+    {
+      "id": "mn105:12.2",
+      "pali": "Ākiñcaññāyatanādhimuttassa kho, sunakkhatta, purisapuggalassa tappatirūpī ceva kathā saṇṭhāti, tadanudhammañca anuvitakketi, anuvicāreti, tañca purisaṁ bhajati, tena ca vittiṁ āpajjati;"
+    },
+    {
+      "id": "mn105:12.3",
+      "pali": "āneñjapaṭisaṁyuttāya ca pana kathāya kacchamānāya na sussūsati, na sotaṁ odahati, na aññā cittaṁ upaṭṭhāpeti, na ca taṁ purisaṁ bhajati, na ca tena vittiṁ āpajjati."
+    },
+    {
+      "id": "mn105:13.1",
+      "pali": "Seyyathāpi, sunakkhatta, puthusilā dvedhābhinnā appaṭisandhikā hoti;"
+    },
+    {
+      "id": "mn105:13.2",
+      "pali": "evameva kho, sunakkhatta, ākiñcaññāyatanādhimuttassa purisapuggalassa ye āneñjasaṁyojane se bhinne."
+    },
+    {
+      "id": "mn105:13.3",
+      "pali": "So evamassa veditabbo:"
+    },
+    {
+      "id": "mn105:13.4",
+      "pali": "‘āneñjasaṁyojanena hi kho visaṁyutto ākiñcaññāyatanādhimutto purisapuggalo’ti."
+    },
+    {
+      "id": "mn105:14.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, sunakkhatta, vijjati yaṁ idhekacco purisapuggalo nevasaññānāsaññāyatanādhimutto assa."
+    },
+    {
+      "id": "mn105:14.2",
+      "pali": "Nevasaññānāsaññāyatanādhimuttassa kho, sunakkhatta, purisapuggalassa tappatirūpī ceva kathā saṇṭhāti, tadanudhammañca anuvitakketi, anuvicāreti, tañca purisaṁ bhajati, tena ca vittiṁ āpajjati;"
+    },
+    {
+      "id": "mn105:14.3",
+      "pali": "ākiñcaññāyatanapaṭisaṁyuttāya ca pana kathāya kacchamānāya na sussūsati, na sotaṁ odahati, na aññā cittaṁ upaṭṭhāpeti, na ca taṁ purisaṁ bhajati, na ca tena vittiṁ āpajjati."
+    },
+    {
+      "id": "mn105:15.1",
+      "pali": "Seyyathāpi, sunakkhatta, puriso manuññabhojanaṁ bhuttāvī chaḍḍeyya."
+    },
+    {
+      "id": "mn105:15.2",
+      "pali": "Taṁ kiṁ maññasi, sunakkhatta,"
+    },
+    {
+      "id": "mn105:15.3",
+      "pali": "api nu tassa purisassa tasmiṁ bhatte puna bhottukamyatā assā”ti?"
+    },
+    {
+      "id": "mn105:15.4",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn105:15.5",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn105:15.6",
+      "pali": "“Aduñhi, bhante, bhattaṁ paṭikūlasammatan”ti."
+    },
+    {
+      "id": "mn105:15.7",
+      "pali": "“Evameva kho, sunakkhatta, nevasaññānāsaññāyatanādhimuttassa purisapuggalassa ye ākiñcaññāyatanasaṁyojane se vante."
+    },
+    {
+      "id": "mn105:15.8",
+      "pali": "So evamassa veditabbo:"
+    },
+    {
+      "id": "mn105:15.9",
+      "pali": "‘ākiñcaññāyatanasaṁyojanena hi kho visaṁyutto nevasaññānāsaññāyatanādhimutto purisapuggalo’ti."
+    },
+    {
+      "id": "mn105:16.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, sunakkhatta, vijjati yaṁ idhekacco purisapuggalo sammā nibbānādhimutto assa."
+    },
+    {
+      "id": "mn105:16.2",
+      "pali": "Sammā nibbānādhimuttassa kho, sunakkhatta, purisapuggalassa tappatirūpī ceva kathā saṇṭhāti, tadanudhammañca anuvitakketi, anuvicāreti, tañca purisaṁ bhajati, tena ca vittiṁ āpajjati;"
+    },
+    {
+      "id": "mn105:16.3",
+      "pali": "nevasaññānāsaññāyatanapaṭisaṁyuttāya ca pana kathāya kacchamānāya na sussūsati, na sotaṁ odahati, na aññā cittaṁ upaṭṭhāpeti, na ca taṁ purisaṁ bhajati, na ca tena vittiṁ āpajjati."
+    },
+    {
+      "id": "mn105:17.1",
+      "pali": "Seyyathāpi, sunakkhatta, tālo matthakacchinno abhabbo puna viruḷhiyā;"
+    },
+    {
+      "id": "mn105:17.2",
+      "pali": "evameva kho, sunakkhatta, sammā nibbānādhimuttassa purisapuggalassa ye nevasaññānāsaññāyatanasaṁyojane se ucchinnamūle tālāvatthukate anabhāvaṅkate āyatiṁ anuppādadhamme."
+    },
+    {
+      "id": "mn105:17.3",
+      "pali": "So evamassa veditabbo:"
+    },
+    {
+      "id": "mn105:17.4",
+      "pali": "‘nevasaññānāsaññāyatanasaṁyojanena hi kho visaṁyutto sammā nibbānādhimutto purisapuggalo’ti."
+    },
+    {
+      "id": "mn105:18.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, sunakkhatta, vijjati yaṁ idhekaccassa bhikkhuno evamassa:"
+    },
+    {
+      "id": "mn105:18.2",
+      "pali": "‘taṇhā kho sallaṁ samaṇena vuttaṁ, avijjāvisadoso, chandarāgabyāpādena ruppati."
+    },
+    {
+      "id": "mn105:18.3",
+      "pali": "Taṁ me taṇhāsallaṁ pahīnaṁ, apanīto avijjāvisadoso, sammā nibbānādhimuttohamasmī’ti."
+    },
+    {
+      "id": "mn105:18.4",
+      "pali": "Evaṁmāni assa atathaṁ samānaṁ."
+    },
+    {
+      "id": "mn105:18.5",
+      "pali": "So yāni sammā nibbānādhimuttassa asappāyāni tāni anuyuñjeyya; asappāyaṁ cakkhunā rūpadassanaṁ anuyuñjeyya, asappāyaṁ sotena saddaṁ anuyuñjeyya, asappāyaṁ ghānena gandhaṁ anuyuñjeyya, asappāyaṁ jivhāya rasaṁ anuyuñjeyya, asappāyaṁ kāyena phoṭṭhabbaṁ anuyuñjeyya, asappāyaṁ manasā dhammaṁ anuyuñjeyya."
+    },
+    {
+      "id": "mn105:18.6",
+      "pali": "Tassa asappāyaṁ cakkhunā rūpadassanaṁ anuyuttassa, asappāyaṁ sotena saddaṁ anuyuttassa, asappāyaṁ ghānena gandhaṁ anuyuttassa, asappāyaṁ jivhāya rasaṁ anuyuttassa, asappāyaṁ kāyena phoṭṭhabbaṁ anuyuttassa, asappāyaṁ manasā dhammaṁ anuyuttassa rāgo cittaṁ anuddhaṁseyya."
+    },
+    {
+      "id": "mn105:18.7",
+      "pali": "So rāgānuddhaṁsitena cittena maraṇaṁ vā nigaccheyya maraṇamattaṁ vā dukkhaṁ."
+    },
+    {
+      "id": "mn105:19.1",
+      "pali": "Seyyathāpi, sunakkhatta, puriso sallena viddho assa savisena gāḷhūpalepanena."
+    },
+    {
+      "id": "mn105:19.2",
+      "pali": "Tassa mittāmaccā ñātisālohitā bhisakkaṁ sallakattaṁ upaṭṭhāpeyyuṁ."
+    },
+    {
+      "id": "mn105:19.3",
+      "pali": "Tassa so bhisakko sallakatto satthena vaṇamukhaṁ parikanteyya."
+    },
+    {
+      "id": "mn105:19.4",
+      "pali": "Satthena vaṇamukhaṁ parikantitvā esaniyā sallaṁ eseyya."
+    },
+    {
+      "id": "mn105:19.5",
+      "pali": "Esaniyā sallaṁ esitvā sallaṁ abbuheyya, apaneyya visadosaṁ saupādisesaṁ."
+    },
+    {
+      "id": "mn105:19.6",
+      "pali": "Saupādisesoti jānamāno so evaṁ vadeyya:"
+    },
+    {
+      "id": "mn105:19.7",
+      "pali": "‘ambho purisa, ubbhataṁ kho te sallaṁ, apanīto visadoso saupādiseso."
+    },
+    {
+      "id": "mn105:19.8",
+      "pali": "Analañca te antarāyāya."
+    },
+    {
+      "id": "mn105:19.9",
+      "pali": "Sappāyāni ceva bhojanāni bhuñjeyyāsi, mā te asappāyāni bhojanāni bhuñjato vaṇo assāvī assa."
+    },
+    {
+      "id": "mn105:19.10",
+      "pali": "Kālena kālañca vaṇaṁ dhoveyyāsi, kālena kālaṁ vaṇamukhaṁ ālimpeyyāsi, mā te na kālena kālaṁ vaṇaṁ dhovato na kālena kālaṁ vaṇamukhaṁ ālimpato pubbalohitaṁ vaṇamukhaṁ pariyonandhi."
+    },
+    {
+      "id": "mn105:19.11",
+      "pali": "Mā ca vātātape cārittaṁ anuyuñji, mā te vātātape cārittaṁ anuyuttassa rajosūkaṁ vaṇamukhaṁ anuddhaṁsesi."
+    },
+    {
+      "id": "mn105:19.12",
+      "pali": "Vaṇānurakkhī ca, ambho purisa, vihareyyāsi vaṇasāropī’ti."
+    },
+    {
+      "id": "mn105:20.1",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn105:20.2",
+      "pali": "‘ubbhataṁ kho me sallaṁ, apanīto visadoso anupādiseso."
+    },
+    {
+      "id": "mn105:20.3",
+      "pali": "Analañca me antarāyāyā’ti."
+    },
+    {
+      "id": "mn105:20.4",
+      "pali": "So asappāyāni ceva bhojanāni bhuñjeyya. Tassa asappāyāni bhojanāni bhuñjato vaṇo assāvī assa."
+    },
+    {
+      "id": "mn105:20.5",
+      "pali": "Na ca kālena kālaṁ vaṇaṁ dhoveyya, na ca kālena kālaṁ vaṇamukhaṁ ālimpeyya. Tassa na kālena kālaṁ vaṇaṁ dhovato, na kālena kālaṁ vaṇamukhaṁ ālimpato pubbalohitaṁ vaṇamukhaṁ pariyonandheyya."
+    },
+    {
+      "id": "mn105:20.6",
+      "pali": "Vātātape ca cārittaṁ anuyuñjeyya. Tassa vātātape cārittaṁ anuyuttassa rajosūkaṁ vaṇamukhaṁ anuddhaṁseyya."
+    },
+    {
+      "id": "mn105:20.7",
+      "pali": "Na ca vaṇānurakkhī vihareyya na vaṇasāropī."
+    },
+    {
+      "id": "mn105:20.8",
+      "pali": "Tassa imissā ca asappāyakiriyāya, asuci visadoso apanīto saupādiseso tadubhayena vaṇo puthuttaṁ gaccheyya."
+    },
+    {
+      "id": "mn105:20.9",
+      "pali": "So puthuttaṁ gatena vaṇena maraṇaṁ vā nigaccheyya maraṇamattaṁ vā dukkhaṁ."
+    },
+    {
+      "id": "mn105:21.1",
+      "pali": "Evameva kho, sunakkhatta, ṭhānametaṁ vijjati yaṁ idhekaccassa bhikkhuno evamassa:"
+    },
+    {
+      "id": "mn105:21.2",
+      "pali": "‘taṇhā kho sallaṁ samaṇena vuttaṁ, avijjāvisadoso chandarāgabyāpādena ruppati."
+    },
+    {
+      "id": "mn105:21.3",
+      "pali": "Taṁ me taṇhāsallaṁ pahīnaṁ, apanīto avijjāvisadoso, sammā nibbānādhimuttohamasmī’ti."
+    },
+    {
+      "id": "mn105:21.4",
+      "pali": "Evaṁmāni assa atathaṁ samānaṁ."
+    },
+    {
+      "id": "mn105:21.5",
+      "pali": "So yāni sammā nibbānādhimuttassa asappāyāni tāni anuyuñjeyya, asappāyaṁ cakkhunā rūpadassanaṁ anuyuñjeyya, asappāyaṁ sotena saddaṁ anuyuñjeyya, asappāyaṁ ghānena gandhaṁ anuyuñjeyya, asappāyaṁ jivhāya rasaṁ anuyuñjeyya, asappāyaṁ kāyena phoṭṭhabbaṁ anuyuñjeyya, asappāyaṁ manasā dhammaṁ anuyuñjeyya."
+    },
+    {
+      "id": "mn105:21.6",
+      "pali": "Tassa asappāyaṁ cakkhunā rūpadassanaṁ anuyuttassa, asappāyaṁ sotena saddaṁ anuyuttassa, asappāyaṁ ghānena gandhaṁ anuyuttassa, asappāyaṁ jivhāya rasaṁ anuyuttassa, asappāyaṁ kāyena phoṭṭhabbaṁ anuyuttassa, asappāyaṁ manasā dhammaṁ anuyuttassa rāgo cittaṁ anuddhaṁseyya."
+    },
+    {
+      "id": "mn105:21.7",
+      "pali": "So rāgānuddhaṁsitena cittena maraṇaṁ vā nigaccheyya maraṇamattaṁ vā dukkhaṁ."
+    },
+    {
+      "id": "mn105:22.1",
+      "pali": "Maraṇañhetaṁ, sunakkhatta, ariyassa vinaye yo sikkhaṁ paccakkhāya hīnāyāvattati;"
+    },
+    {
+      "id": "mn105:22.2",
+      "pali": "maraṇamattañhetaṁ, sunakkhatta, dukkhaṁ yaṁ aññataraṁ saṅkiliṭṭhaṁ āpattiṁ āpajjati."
+    },
+    {
+      "id": "mn105:23.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, sunakkhatta, vijjati yaṁ idhekaccassa bhikkhuno evamassa:"
+    },
+    {
+      "id": "mn105:23.2",
+      "pali": "‘taṇhā kho sallaṁ samaṇena vuttaṁ, avijjāvisadoso chandarāgabyāpādena ruppati."
+    },
+    {
+      "id": "mn105:23.3",
+      "pali": "Taṁ me taṇhāsallaṁ pahīnaṁ, apanīto avijjāvisadoso, sammā nibbānādhimuttohamasmī’ti."
+    },
+    {
+      "id": "mn105:23.4",
+      "pali": "Sammā nibbānādhimuttasseva sato so yāni sammā nibbānādhimuttassa asappāyāni tāni nānuyuñjeyya, asappāyaṁ cakkhunā rūpadassanaṁ nānuyuñjeyya, asappāyaṁ sotena saddaṁ nānuyuñjeyya, asappāyaṁ ghānena gandhaṁ nānuyuñjeyya, asappāyaṁ jivhāya rasaṁ nānuyuñjeyya, asappāyaṁ kāyena phoṭṭhabbaṁ nānuyuñjeyya, asappāyaṁ manasā dhammaṁ nānuyuñjeyya."
+    },
+    {
+      "id": "mn105:23.5",
+      "pali": "Tassa asappāyaṁ cakkhunā rūpadassanaṁ nānuyuttassa, asappāyaṁ sotena saddaṁ nānuyuttassa, asappāyaṁ ghānena gandhaṁ nānuyuttassa, asappāyaṁ jivhāya rasaṁ nānuyuttassa, asappāyaṁ kāyena phoṭṭhabbaṁ nānuyuttassa, asappāyaṁ manasā dhammaṁ nānuyuttassa rāgo cittaṁ nānuddhaṁseyya."
+    },
+    {
+      "id": "mn105:23.6",
+      "pali": "So na rāgānuddhaṁsitena cittena neva maraṇaṁ vā nigaccheyya na maraṇamattaṁ vā dukkhaṁ."
+    },
+    {
+      "id": "mn105:24.1",
+      "pali": "Seyyathāpi, sunakkhatta, puriso sallena viddho assa savisena gāḷhūpalepanena."
+    },
+    {
+      "id": "mn105:24.2",
+      "pali": "Tassa mittāmaccā ñātisālohitā bhisakkaṁ sallakattaṁ upaṭṭhāpeyyuṁ."
+    },
+    {
+      "id": "mn105:24.3",
+      "pali": "Tassa so bhisakko sallakatto satthena vaṇamukhaṁ parikanteyya."
+    },
+    {
+      "id": "mn105:24.4",
+      "pali": "Satthena vaṇamukhaṁ parikantitvā esaniyā sallaṁ eseyya."
+    },
+    {
+      "id": "mn105:24.5",
+      "pali": "Esaniyā sallaṁ esitvā sallaṁ abbuheyya, apaneyya visadosaṁ anupādisesaṁ."
+    },
+    {
+      "id": "mn105:24.6",
+      "pali": "Anupādisesoti jānamāno so evaṁ vadeyya:"
+    },
+    {
+      "id": "mn105:24.7",
+      "pali": "‘ambho purisa, ubbhataṁ kho te sallaṁ, apanīto visadoso anupādiseso."
+    },
+    {
+      "id": "mn105:24.8",
+      "pali": "Analañca te antarāyāya."
+    },
+    {
+      "id": "mn105:24.9",
+      "pali": "Sappāyāni ceva bhojanāni bhuñjeyyāsi, mā te asappāyāni bhojanāni bhuñjato vaṇo assāvī assa."
+    },
+    {
+      "id": "mn105:24.10",
+      "pali": "Kālena kālañca vaṇaṁ dhoveyyāsi, kālena kālaṁ vaṇamukhaṁ ālimpeyyāsi. Mā te na kālena kālaṁ vaṇaṁ dhovato na kālena kālaṁ vaṇamukhaṁ ālimpato pubbalohitaṁ vaṇamukhaṁ pariyonandhi."
+    },
+    {
+      "id": "mn105:24.11",
+      "pali": "Mā ca vātātape cārittaṁ anuyuñji, mā te vātātape cārittaṁ anuyuttassa rajosūkaṁ vaṇamukhaṁ anuddhaṁsesi."
+    },
+    {
+      "id": "mn105:24.12",
+      "pali": "Vaṇānurakkhī ca, ambho purisa, vihareyyāsi vaṇasāropī’ti."
+    },
+    {
+      "id": "mn105:25.1",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn105:25.2",
+      "pali": "‘ubbhataṁ kho me sallaṁ, apanīto visadoso anupādiseso."
+    },
+    {
+      "id": "mn105:25.3",
+      "pali": "Analañca me antarāyāyā’ti."
+    },
+    {
+      "id": "mn105:25.4",
+      "pali": "So sappāyāni ceva bhojanāni bhuñjeyya. Tassa sappāyāni bhojanāni bhuñjato vaṇo na assāvī assa."
+    },
+    {
+      "id": "mn105:25.5",
+      "pali": "Kālena kālañca vaṇaṁ dhoveyya, kālena kālaṁ vaṇamukhaṁ ālimpeyya. Tassa kālena kālaṁ vaṇaṁ dhovato kālena kālaṁ vaṇamukhaṁ ālimpato na pubbalohitaṁ vaṇamukhaṁ pariyonandheyya."
+    },
+    {
+      "id": "mn105:25.6",
+      "pali": "Na ca vātātape cārittaṁ anuyuñjeyya. Tassa vātātape cārittaṁ ananuyuttassa rajosūkaṁ vaṇamukhaṁ nānuddhaṁseyya."
+    },
+    {
+      "id": "mn105:25.7",
+      "pali": "Vaṇānurakkhī ca vihareyya vaṇasāropī."
+    },
+    {
+      "id": "mn105:25.8",
+      "pali": "Tassa imissā ca sappāyakiriyāya asu ca visadoso apanīto anupādiseso tadubhayena vaṇo viruheyya."
+    },
+    {
+      "id": "mn105:25.9",
+      "pali": "So ruḷhena vaṇena sañchavinā neva maraṇaṁ vā nigaccheyya na maraṇamattaṁ vā dukkhaṁ."
+    },
+    {
+      "id": "mn105:26.1",
+      "pali": "Evameva kho, sunakkhatta, ṭhānametaṁ vijjati yaṁ idhekaccassa bhikkhuno evamassa:"
+    },
+    {
+      "id": "mn105:26.2",
+      "pali": "‘taṇhā kho sallaṁ samaṇena vuttaṁ, avijjāvisadoso chandarāgabyāpādena ruppati."
+    },
+    {
+      "id": "mn105:26.3",
+      "pali": "Taṁ me taṇhāsallaṁ pahīnaṁ, apanīto avijjāvisadoso, sammā nibbānādhimuttohamasmī’ti."
+    },
+    {
+      "id": "mn105:26.4",
+      "pali": "Sammā nibbānādhimuttasseva sato so yāni sammā nibbānādhimuttassa asappāyāni tāni nānuyuñjeyya, asappāyaṁ cakkhunā rūpadassanaṁ nānuyuñjeyya, asappāyaṁ sotena saddaṁ nānuyuñjeyya, asappāyaṁ ghānena gandhaṁ nānuyuñjeyya, asappāyaṁ jivhāya rasaṁ nānuyuñjeyya, asappāyaṁ kāyena phoṭṭhabbaṁ nānuyuñjeyya, asappāyaṁ manasā dhammaṁ nānuyuñjeyya."
+    },
+    {
+      "id": "mn105:26.5",
+      "pali": "Tassa asappāyaṁ cakkhunā rūpadassanaṁ nānuyuttassa, asappāyaṁ sotena saddaṁ nānuyuttassa, asappāyaṁ ghānena gandhaṁ nānuyuttassa, asappāyaṁ jivhāya rasaṁ nānuyuttassa, asappāyaṁ kāyena phoṭṭhabbaṁ nānuyuttassa, asappāyaṁ manasā dhammaṁ nānuyuttassa, rāgo cittaṁ nānuddhaṁseyya."
+    },
+    {
+      "id": "mn105:26.6",
+      "pali": "So na rāgānuddhaṁsitena cittena neva maraṇaṁ vā nigaccheyya na maraṇamattaṁ vā dukkhaṁ."
+    },
+    {
+      "id": "mn105:27.1",
+      "pali": "Upamā kho me ayaṁ, sunakkhatta, katā atthassa viññāpanāya."
+    },
+    {
+      "id": "mn105:27.2",
+      "pali": "Ayaṁyevettha attho—"
+    },
+    {
+      "id": "mn105:27.3",
+      "pali": "vaṇoti kho, sunakkhatta, channetaṁ ajjhattikānaṁ āyatanānaṁ adhivacanaṁ;"
+    },
+    {
+      "id": "mn105:27.4",
+      "pali": "visadosoti kho, sunakkhatta, avijjāyetaṁ adhivacanaṁ;"
+    },
+    {
+      "id": "mn105:27.5",
+      "pali": "sallanti kho, sunakkhatta, taṇhāyetaṁ adhivacanaṁ;"
+    },
+    {
+      "id": "mn105:27.6",
+      "pali": "esanīti kho, sunakkhatta, satiyāyetaṁ adhivacanaṁ;"
+    },
+    {
+      "id": "mn105:27.7",
+      "pali": "satthanti kho, sunakkhatta, ariyāyetaṁ paññāya adhivacanaṁ;"
+    },
+    {
+      "id": "mn105:27.8",
+      "pali": "bhisakko sallakattoti kho, sunakkhatta, tathāgatassetaṁ adhivacanaṁ arahato sammāsambuddhassa."
+    },
+    {
+      "id": "mn105:28.1",
+      "pali": "So vata, sunakkhatta, bhikkhu chasu phassāyatanesu saṁvutakārī."
+    },
+    {
+      "id": "mn105:28.2",
+      "pali": "‘Upadhi dukkhassa mūlan’ti—iti viditvā nirupadhi upadhisaṅkhaye vimutto upadhismiṁ vā kāyaṁ upasaṁharissati cittaṁ vā uppādessatīti—netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "mn105:29.1",
+      "pali": "Seyyathāpi, sunakkhatta, āpānīyakaṁso vaṇṇasampanno gandhasampanno rasasampanno;"
+    },
+    {
+      "id": "mn105:29.2",
+      "pali": "so ca kho visena saṁsaṭṭho."
+    },
+    {
+      "id": "mn105:29.3",
+      "pali": "Atha puriso āgaccheyya jīvitukāmo amaritukāmo sukhakāmo dukkhapaṭikūlo."
+    },
+    {
+      "id": "mn105:29.4",
+      "pali": "Taṁ kiṁ maññasi, sunakkhatta,"
+    },
+    {
+      "id": "mn105:29.5",
+      "pali": "api nu so puriso amuṁ āpānīyakaṁsaṁ piveyya yaṁ jaññā:"
+    },
+    {
+      "id": "mn105:29.6",
+      "pali": "‘imāhaṁ pivitvā maraṇaṁ vā nigacchāmi maraṇamattaṁ vā dukkhan’”ti?"
+    },
+    {
+      "id": "mn105:29.7",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn105:29.8",
+      "pali": "“Evameva kho, sunakkhatta, so vata bhikkhu chasu phassāyatanesu saṁvutakārī."
+    },
+    {
+      "id": "mn105:29.9",
+      "pali": "‘Upadhi dukkhassa mūlan’ti—iti viditvā nirupadhi upadhisaṅkhaye vimutto upadhismiṁ vā kāyaṁ upasaṁharissati cittaṁ vā uppādessatīti—netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "mn105:30.1",
+      "pali": "Seyyathāpi, sunakkhatta, āsīviso ghoraviso."
+    },
+    {
+      "id": "mn105:30.2",
+      "pali": "Atha puriso āgaccheyya jīvitukāmo amaritukāmo sukhakāmo dukkhapaṭikūlo."
+    },
+    {
+      "id": "mn105:30.3",
+      "pali": "Taṁ kiṁ maññasi, sunakkhatta,"
+    },
+    {
+      "id": "mn105:30.4",
+      "pali": "api nu so puriso amussa āsīvisassa ghoravisassa hatthaṁ vā aṅguṭṭhaṁ vā dajjā yaṁ jaññā:"
+    },
+    {
+      "id": "mn105:30.5",
+      "pali": "‘imināhaṁ daṭṭho maraṇaṁ vā nigacchāmi maraṇamattaṁ vā dukkhan’”ti?"
+    },
+    {
+      "id": "mn105:30.6",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn105:30.7",
+      "pali": "“Evameva kho, sunakkhatta, so vata bhikkhu chasu phassāyatanesu saṁvutakārī."
+    },
+    {
+      "id": "mn105:30.8",
+      "pali": "‘Upadhi dukkhassa mūlan’ti—iti viditvā nirupadhi upadhisaṅkhaye vimutto upadhismiṁ vā kāyaṁ upasaṁharissati cittaṁ vā uppādessatīti—"
+    },
+    {
+      "id": "mn105:30.9",
+      "pali": "netaṁ ṭhānaṁ vijjatī”ti."
+    },
+    {
+      "id": "mn105:30.10",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn105:30.11",
+      "pali": "Attamano sunakkhatto licchaviputto bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn105:30.12",
+      "pali": "Sunakkhattasuttaṁ niṭṭhitaṁ pañcamaṁ."
+    }
+  ]
+}

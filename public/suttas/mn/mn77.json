@@ -1,0 +1,1559 @@
+{
+  "uid": "mn77",
+  "title": "Mahāsakuludāyisutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn77:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn77:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe."
+    },
+    {
+      "id": "mn77:2.1",
+      "pali": "Tena kho pana samayena sambahulā abhiññātā abhiññātā paribbājakā moranivāpe paribbājakārāme paṭivasanti, seyyathidaṁ—"
+    },
+    {
+      "id": "mn77:2.2",
+      "pali": "annabhāro varadharo sakuludāyī ca paribbājako aññe ca abhiññātā abhiññātā paribbājakā."
+    },
+    {
+      "id": "mn77:3.1",
+      "pali": "Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya rājagahaṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "mn77:3.2",
+      "pali": "Atha kho bhagavato etadahosi:"
+    },
+    {
+      "id": "mn77:3.3",
+      "pali": "“atippago kho tāva rājagahe piṇḍāya carituṁ."
+    },
+    {
+      "id": "mn77:3.4",
+      "pali": "Yannūnāhaṁ yena moranivāpo paribbājakārāmo yena sakuludāyī paribbājako tenupasaṅkameyyan”ti."
+    },
+    {
+      "id": "mn77:4.1",
+      "pali": "Atha kho bhagavā yena moranivāpo paribbājakārāmo tenupasaṅkami."
+    },
+    {
+      "id": "mn77:4.2",
+      "pali": "Tena kho pana samayena sakuludāyī paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn77:4.3",
+      "pali": "rājakathaṁ corakathaṁ mahāmattakathaṁ senākathaṁ bhayakathaṁ yuddhakathaṁ annakathaṁ pānakathaṁ vatthakathaṁ sayanakathaṁ mālākathaṁ gandhakathaṁ ñātikathaṁ yānakathaṁ gāmakathaṁ nigamakathaṁ nagarakathaṁ janapadakathaṁ itthikathaṁ sūrakathaṁ visikhākathaṁ kumbhaṭṭhānakathaṁ pubbapetakathaṁ nānattakathaṁ lokakkhāyikaṁ samuddakkhāyikaṁ itibhavābhavakathaṁ iti vā."
+    },
+    {
+      "id": "mn77:4.4",
+      "pali": "Addasā kho sakuludāyī paribbājako bhagavantaṁ dūratova āgacchantaṁ."
+    },
+    {
+      "id": "mn77:4.5",
+      "pali": "Disvāna sakaṁ parisaṁ saṇṭhāpeti:"
+    },
+    {
+      "id": "mn77:4.6",
+      "pali": "“appasaddā bhonto hontu;"
+    },
+    {
+      "id": "mn77:4.7",
+      "pali": "mā bhonto saddamakattha."
+    },
+    {
+      "id": "mn77:4.8",
+      "pali": "Ayaṁ samaṇo gotamo āgacchati;"
+    },
+    {
+      "id": "mn77:4.9",
+      "pali": "appasaddakāmo kho pana so āyasmā appasaddassa vaṇṇavādī."
+    },
+    {
+      "id": "mn77:4.10",
+      "pali": "Appeva nāma appasaddaṁ parisaṁ viditvā upasaṅkamitabbaṁ maññeyyā”ti."
+    },
+    {
+      "id": "mn77:4.11",
+      "pali": "Atha kho te paribbājakā tuṇhī ahesuṁ."
+    },
+    {
+      "id": "mn77:5.1",
+      "pali": "Atha kho bhagavā yena sakuludāyī paribbājako tenupasaṅkami."
+    },
+    {
+      "id": "mn77:5.2",
+      "pali": "Atha kho sakuludāyī paribbājako bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn77:5.3",
+      "pali": "“etu kho, bhante, bhagavā."
+    },
+    {
+      "id": "mn77:5.4",
+      "pali": "Svāgataṁ, bhante, bhagavato."
+    },
+    {
+      "id": "mn77:5.5",
+      "pali": "Cirassaṁ kho, bhante, bhagavā imaṁ pariyāyamakāsi yadidaṁ idhāgamanāya."
+    },
+    {
+      "id": "mn77:5.6",
+      "pali": "Nisīdatu, bhante, bhagavā;"
+    },
+    {
+      "id": "mn77:5.7",
+      "pali": "idamāsanaṁ paññattan”ti."
+    },
+    {
+      "id": "mn77:5.8",
+      "pali": "Nisīdi bhagavā paññatte āsane."
+    },
+    {
+      "id": "mn77:5.9",
+      "pali": "Sakuludāyīpi kho paribbājako aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "mn77:5.10",
+      "pali": "Ekamantaṁ nisinnaṁ kho sakuludāyiṁ paribbājakaṁ bhagavā etadavoca:"
+    },
+    {
+      "id": "mn77:5.11",
+      "pali": "“Kāya nuttha, udāyi, etarahi kathāya sannisinnā, kā ca pana vo antarākathā vippakatā”ti?"
+    },
+    {
+      "id": "mn77:6.1",
+      "pali": "“Tiṭṭhatesā, bhante, kathā yāya mayaṁ etarahi kathāya sannisinnā."
+    },
+    {
+      "id": "mn77:6.2",
+      "pali": "Nesā, bhante, kathā bhagavato dullabhā bhavissati pacchāpi savanāya."
+    },
+    {
+      "id": "mn77:6.3",
+      "pali": "Purimāni, bhante, divasāni purimatarāni nānātitthiyānaṁ samaṇabrāhmaṇānaṁ kutūhalasālāyaṁ sannisinnānaṁ sannipatitānaṁ ayamantarākathā udapādi:"
+    },
+    {
+      "id": "mn77:6.4",
+      "pali": "‘lābhā vata, bho, aṅgamagadhānaṁ, suladdhalābhā vata, bho, aṅgamagadhānaṁ."
+    },
+    {
+      "id": "mn77:6.5",
+      "pali": "Tatrime samaṇabrāhmaṇā saṅghino gaṇino gaṇācariyā ñātā yasassino titthakarā sādhusammatā bahujanassa rājagahaṁ vassāvāsaṁ osaṭā."
+    },
+    {
+      "id": "mn77:6.6",
+      "pali": "Ayampi kho pūraṇo kassapo saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa;"
+    },
+    {
+      "id": "mn77:6.7",
+      "pali": "sopi rājagahaṁ vassāvāsaṁ osaṭo."
+    },
+    {
+      "id": "mn77:6.8",
+      "pali": "Ayampi kho makkhali gosālo …pe…"
+    },
+    {
+      "id": "mn77:6.9",
+      "pali": "ajito kesakambalo …"
+    },
+    {
+      "id": "mn77:6.10",
+      "pali": "pakudho kaccāyano …"
+    },
+    {
+      "id": "mn77:6.11",
+      "pali": "sañjayo belaṭṭhaputto …"
+    },
+    {
+      "id": "mn77:6.12",
+      "pali": "nigaṇṭho nāṭaputto saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa;"
+    },
+    {
+      "id": "mn77:6.13",
+      "pali": "sopi rājagahaṁ vassāvāsaṁ osaṭo."
+    },
+    {
+      "id": "mn77:6.14",
+      "pali": "Ayampi kho samaṇo gotamo saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa;"
+    },
+    {
+      "id": "mn77:6.15",
+      "pali": "sopi rājagahaṁ vassāvāsaṁ osaṭo."
+    },
+    {
+      "id": "mn77:6.16",
+      "pali": "Ko nu kho imesaṁ bhavataṁ samaṇabrāhmaṇānaṁ saṅghīnaṁ gaṇīnaṁ gaṇācariyānaṁ ñātānaṁ yasassinaṁ titthakarānaṁ sādhusammatānaṁ bahujanassa sāvakānaṁ sakkato garukato mānito pūjito, kañca pana sāvakā sakkatvā garuṁ katvā upanissāya viharantī’ti?"
+    },
+    {
+      "id": "mn77:6.17",
+      "pali": "Tatrekacce evamāhaṁsu:"
+    },
+    {
+      "id": "mn77:6.18",
+      "pali": "‘ayaṁ kho pūraṇo kassapo saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa;"
+    },
+    {
+      "id": "mn77:6.19",
+      "pali": "so ca kho sāvakānaṁ na sakkato na garukato na mānito na pūjito, na ca pana pūraṇaṁ kassapaṁ sāvakā sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:6.20",
+      "pali": "Bhūtapubbaṁ pūraṇo kassapo anekasatāya parisāya dhammaṁ deseti."
+    },
+    {
+      "id": "mn77:6.21",
+      "pali": "Tatraññataro pūraṇassa kassapassa sāvako saddamakāsi:"
+    },
+    {
+      "id": "mn77:6.22",
+      "pali": "“mā bhonto pūraṇaṁ kassapaṁ etamatthaṁ pucchittha;"
+    },
+    {
+      "id": "mn77:6.23",
+      "pali": "neso etaṁ jānāti;"
+    },
+    {
+      "id": "mn77:6.24",
+      "pali": "mayametaṁ jānāma, amhe etamatthaṁ pucchatha;"
+    },
+    {
+      "id": "mn77:6.25",
+      "pali": "mayametaṁ bhavantānaṁ byākarissāmā”ti."
+    },
+    {
+      "id": "mn77:6.26",
+      "pali": "Bhūtapubbaṁ pūraṇo kassapo bāhā paggayha kandanto na labhati:"
+    },
+    {
+      "id": "mn77:6.27",
+      "pali": "“appasaddā bhonto hontu, mā bhonto saddamakattha."
+    },
+    {
+      "id": "mn77:6.28",
+      "pali": "Nete, bhavante, pucchanti, amhe ete pucchanti;"
+    },
+    {
+      "id": "mn77:6.29",
+      "pali": "mayametesaṁ byākarissāmā”ti."
+    },
+    {
+      "id": "mn77:6.30",
+      "pali": "Bahū kho pana pūraṇassa kassapassa sāvakā vādaṁ āropetvā apakkantā:"
+    },
+    {
+      "id": "mn77:6.31",
+      "pali": "“na tvaṁ imaṁ dhammavinayaṁ ājānāsi, ahaṁ imaṁ dhammavinayaṁ ājānāmi, kiṁ tvaṁ imaṁ dhammavinayaṁ ājānissasi? Micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno, sahitaṁ me, asahitaṁ te, purevacanīyaṁ pacchā avaca, pacchāvacanīyaṁ pure avaca, adhiciṇṇaṁ te viparāvattaṁ, āropito te vādo, niggahitosi, cara vādappamokkhāya, nibbeṭhehi vā sace pahosī”ti."
+    },
+    {
+      "id": "mn77:6.32",
+      "pali": "Iti pūraṇo kassapo sāvakānaṁ na sakkato na garukato na mānito na pūjito, na ca pana pūraṇaṁ kassapaṁ sāvakā sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:6.33",
+      "pali": "Akkuṭṭho ca pana pūraṇo kassapo dhammakkosenā’ti."
+    },
+    {
+      "id": "mn77:6.34",
+      "pali": "Ekacce evamāhaṁsu:"
+    },
+    {
+      "id": "mn77:6.35",
+      "pali": "‘ayampi kho makkhali gosālo …pe…"
+    },
+    {
+      "id": "mn77:6.36",
+      "pali": "ajito kesakambalo …"
+    },
+    {
+      "id": "mn77:6.37",
+      "pali": "pakudho kaccāyano …"
+    },
+    {
+      "id": "mn77:6.38",
+      "pali": "sañjayo belaṭṭhaputto …"
+    },
+    {
+      "id": "mn77:6.39",
+      "pali": "nigaṇṭho nāṭaputto saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa;"
+    },
+    {
+      "id": "mn77:6.40",
+      "pali": "so ca kho sāvakānaṁ na sakkato na garukato na mānito na pūjito, na ca pana nigaṇṭhaṁ nāṭaputtaṁ sāvakā sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:6.41",
+      "pali": "Bhūtapubbaṁ nigaṇṭho nāṭaputto anekasatāya parisāya dhammaṁ deseti."
+    },
+    {
+      "id": "mn77:6.42",
+      "pali": "Tatraññataro nigaṇṭhassa nāṭaputtassa sāvako saddamakāsi:"
+    },
+    {
+      "id": "mn77:6.43",
+      "pali": "“mā bhonto nigaṇṭhaṁ nāṭaputtaṁ etamatthaṁ pucchittha;"
+    },
+    {
+      "id": "mn77:6.44",
+      "pali": "neso etaṁ jānāti;"
+    },
+    {
+      "id": "mn77:6.45",
+      "pali": "mayametaṁ jānāma, amhe etamatthaṁ pucchatha;"
+    },
+    {
+      "id": "mn77:6.46",
+      "pali": "mayametaṁ bhavantānaṁ byākarissāmā”ti."
+    },
+    {
+      "id": "mn77:6.47",
+      "pali": "Bhūtapubbaṁ nigaṇṭho nāṭaputto bāhā paggayha kandanto na labhati:"
+    },
+    {
+      "id": "mn77:6.48",
+      "pali": "“appasaddā bhonto hontu, mā bhonto saddamakattha."
+    },
+    {
+      "id": "mn77:6.49",
+      "pali": "Nete bhavante pucchanti, amhe ete pucchanti;"
+    },
+    {
+      "id": "mn77:6.50",
+      "pali": "mayametesaṁ byākarissāmā”ti."
+    },
+    {
+      "id": "mn77:6.51",
+      "pali": "Bahū kho pana nigaṇṭhassa nāṭaputtassa sāvakā vādaṁ āropetvā apakkantā:"
+    },
+    {
+      "id": "mn77:6.52",
+      "pali": "“na tvaṁ imaṁ dhammavinayaṁ ājānāsi, ahaṁ imaṁ dhammavinayaṁ ājānāmi. Kiṁ tvaṁ imaṁ dhammavinayaṁ ājānissasi? Micchāpaṭipanno tvamasi. Ahamasmi sammāpaṭipanno. Sahitaṁ me asahitaṁ te, purevacanīyaṁ pacchā avaca, pacchāvacanīyaṁ pure avaca, adhiciṇṇaṁ te viparāvattaṁ, āropito te vādo, niggahitosi, cara vādappamokkhāya, nibbeṭhehi vā sace pahosī”ti."
+    },
+    {
+      "id": "mn77:6.53",
+      "pali": "Iti nigaṇṭho nāṭaputto sāvakānaṁ na sakkato na garukato na mānito na pūjito, na ca pana nigaṇṭhaṁ nāṭaputtaṁ sāvakā sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:6.54",
+      "pali": "Akkuṭṭho ca pana nigaṇṭho nāṭaputto dhammakkosenā’ti."
+    },
+    {
+      "id": "mn77:6.55",
+      "pali": "Ekacce evamāhaṁsu:"
+    },
+    {
+      "id": "mn77:6.56",
+      "pali": "‘ayampi kho samaṇo gotamo saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa;"
+    },
+    {
+      "id": "mn77:6.57",
+      "pali": "so ca kho sāvakānaṁ sakkato garukato mānito pūjito, samaṇañca pana gotamaṁ sāvakā sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:6.58",
+      "pali": "Bhūtapubbaṁ samaṇo gotamo anekasatāya parisāya dhammaṁ desesi."
+    },
+    {
+      "id": "mn77:6.59",
+      "pali": "Tatraññataro samaṇassa gotamassa sāvako ukkāsi."
+    },
+    {
+      "id": "mn77:6.60",
+      "pali": "Tamenāññataro sabrahmacārī jaṇṇukena ghaṭṭesi:"
+    },
+    {
+      "id": "mn77:6.61",
+      "pali": "“appasaddo āyasmā hotu, māyasmā saddamakāsi, satthā no bhagavā dhammaṁ desesī”ti."
+    },
+    {
+      "id": "mn77:6.62",
+      "pali": "Yasmiṁ samaye samaṇo gotamo anekasatāya parisāya dhammaṁ deseti, neva tasmiṁ samaye samaṇassa gotamassa sāvakānaṁ khipitasaddo vā hoti ukkāsitasaddo vā."
+    },
+    {
+      "id": "mn77:6.63",
+      "pali": "Tamenaṁ mahājanakāyo paccāsīsamānarūpo paccupaṭṭhito hoti:"
+    },
+    {
+      "id": "mn77:6.64",
+      "pali": "“yaṁ no bhagavā dhammaṁ bhāsissati taṁ no sossāmā”ti."
+    },
+    {
+      "id": "mn77:6.65",
+      "pali": "Seyyathāpi nāma puriso cātummahāpathe khuddamadhuṁ anelakaṁ pīḷeyya."
+    },
+    {
+      "id": "mn77:6.66",
+      "pali": "Tamenaṁ mahājanakāyo paccāsīsamānarūpo paccupaṭṭhito assa."
+    },
+    {
+      "id": "mn77:6.67",
+      "pali": "Evameva yasmiṁ samaye samaṇo gotamo anekasatāya parisāya dhammaṁ deseti, neva tasmiṁ samaye samaṇassa gotamassa sāvakānaṁ khipitasaddo vā hoti ukkāsitasaddo vā."
+    },
+    {
+      "id": "mn77:6.68",
+      "pali": "Tamenaṁ mahājanakāyo paccāsīsamānarūpo paccupaṭṭhito hoti:"
+    },
+    {
+      "id": "mn77:6.69",
+      "pali": "“yaṁ no bhagavā dhammaṁ bhāsissati taṁ no sossāmā”ti."
+    },
+    {
+      "id": "mn77:6.70",
+      "pali": "Yepi samaṇassa gotamassa sāvakā sabrahmacārīhi sampayojetvā sikkhaṁ paccakkhāya hīnāyāvattanti tepi satthu ceva vaṇṇavādino honti, dhammassa ca vaṇṇavādino honti, saṅghassa ca vaṇṇavādino honti, attagarahinoyeva honti anaññagarahino, “mayamevamhā alakkhikā mayaṁ appapuññā te mayaṁ evaṁ svākkhāte dhammavinaye pabbajitvā nāsakkhimhā yāvajīvaṁ paripuṇṇaṁ parisuddhaṁ brahmacariyaṁ caritun”ti."
+    },
+    {
+      "id": "mn77:6.71",
+      "pali": "Te ārāmikabhūtā vā upāsakabhūtā vā pañcasikkhāpade samādāya vattanti."
+    },
+    {
+      "id": "mn77:6.72",
+      "pali": "Iti samaṇo gotamo sāvakānaṁ sakkato garukato mānito pūjito, samaṇañca pana gotamaṁ sāvakā sakkatvā garuṁ katvā upanissāya viharantī’”ti."
+    },
+    {
+      "id": "mn77:7.1",
+      "pali": "“Kati pana tvaṁ, udāyi, mayi dhamme samanupassasi, yehi mamaṁ sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharantī”ti?"
+    },
+    {
+      "id": "mn77:8.1",
+      "pali": "“Pañca kho ahaṁ, bhante, bhagavati dhamme samanupassāmi yehi bhagavantaṁ sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:8.2",
+      "pali": "Katame pañca?"
+    },
+    {
+      "id": "mn77:8.3",
+      "pali": "Bhagavā hi, bhante, appāhāro, appāhāratāya ca vaṇṇavādī."
+    },
+    {
+      "id": "mn77:8.4",
+      "pali": "Yampi, bhante, bhagavā appāhāro, appāhāratāya ca vaṇṇavādī imaṁ kho ahaṁ, bhante, bhagavati paṭhamaṁ dhammaṁ samanupassāmi yena bhagavantaṁ sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:8.5",
+      "pali": "Puna caparaṁ, bhante, bhagavā santuṭṭho itarītarena cīvarena, itarītaracīvarasantuṭṭhiyā ca vaṇṇavādī."
+    },
+    {
+      "id": "mn77:8.6",
+      "pali": "Yampi, bhante, bhagavā santuṭṭho itarītarena cīvarena, itarītaracīvarasantuṭṭhiyā ca vaṇṇavādī, imaṁ kho ahaṁ, bhante, bhagavati dutiyaṁ dhammaṁ samanupassāmi yena bhagavantaṁ sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:8.7",
+      "pali": "Puna caparaṁ, bhante, bhagavā santuṭṭho itarītarena piṇḍapātena, itarītarapiṇḍapātasantuṭṭhiyā ca vaṇṇavādī."
+    },
+    {
+      "id": "mn77:8.8",
+      "pali": "Yampi, bhante, bhagavā santuṭṭho itarītarena piṇḍapātena, itarītarapiṇḍapātasantuṭṭhiyā ca vaṇṇavādī, imaṁ kho ahaṁ, bhante, bhagavati tatiyaṁ dhammaṁ samanupassāmi yena bhagavantaṁ sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:8.9",
+      "pali": "Puna caparaṁ, bhante, bhagavā santuṭṭho itarītarena senāsanena, itarītarasenāsanasantuṭṭhiyā ca vaṇṇavādī."
+    },
+    {
+      "id": "mn77:8.10",
+      "pali": "Yampi, bhante, bhagavā santuṭṭho itarītarena senāsanena, itarītarasenāsanasantuṭṭhiyā ca vaṇṇavādī, imaṁ kho ahaṁ, bhante, bhagavati catutthaṁ dhammaṁ samanupassāmi yena bhagavantaṁ sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:8.11",
+      "pali": "Puna caparaṁ, bhante, bhagavā pavivitto, pavivekassa ca vaṇṇavādī."
+    },
+    {
+      "id": "mn77:8.12",
+      "pali": "Yampi, bhante, bhagavā pavivitto, pavivekassa ca vaṇṇavādī, imaṁ kho ahaṁ, bhante, bhagavati pañcamaṁ dhammaṁ samanupassāmi yena bhagavantaṁ sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:8.13",
+      "pali": "Ime kho ahaṁ, bhante, bhagavati pañca dhamme samanupassāmi yehi bhagavantaṁ sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharantī”ti."
+    },
+    {
+      "id": "mn77:9.1",
+      "pali": "“‘Appāhāro samaṇo gotamo, appāhāratāya ca vaṇṇavādī’ti, iti ce maṁ, udāyi, sāvakā sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ, santi kho pana me, udāyi, sāvakā kosakāhārāpi aḍḍhakosakāhārāpi beluvāhārāpi aḍḍhabeluvāhārāpi."
+    },
+    {
+      "id": "mn77:9.2",
+      "pali": "Ahaṁ kho pana, udāyi, appekadā iminā pattena samatittikampi bhuñjāmi bhiyyopi bhuñjāmi."
+    },
+    {
+      "id": "mn77:9.3",
+      "pali": "‘Appāhāro samaṇo gotamo, appāhāratāya ca vaṇṇavādī’ti, iti ce maṁ, udāyi, sāvakā sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ, ye te, udāyi, mama sāvakā kosakāhārāpi aḍḍhakosakāhārāpi beluvāhārāpi aḍḍhabeluvāhārāpi na maṁ te iminā dhammena sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ."
+    },
+    {
+      "id": "mn77:9.4",
+      "pali": "‘Santuṭṭho samaṇo gotamo itarītarena cīvarena, itarītaracīvarasantuṭṭhiyā ca vaṇṇavādī’ti, iti ce maṁ, udāyi, sāvakā sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ, santi kho pana me, udāyi, sāvakā paṁsukūlikā lūkhacīvaradharā te susānā vā saṅkārakūṭā vā pāpaṇikā vā nantakāni uccinitvā saṅghāṭiṁ karitvā dhārenti."
+    },
+    {
+      "id": "mn77:9.5",
+      "pali": "Ahaṁ kho panudāyi, appekadā gahapaticīvarāni dhāremi daḷhāni satthalūkhāni alābulomasāni."
+    },
+    {
+      "id": "mn77:9.6",
+      "pali": "‘Santuṭṭho samaṇo gotamo itarītarena cīvarena, itarītaracīvarasantuṭṭhiyā ca vaṇṇavādī’ti, iti ce maṁ, udāyi, sāvakā sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ, ye te, udāyi, mama sāvakā paṁsukūlikā lūkhacīvaradharā te susānā vā saṅkārakūṭā vā pāpaṇikā vā nantakāni uccinitvā saṅghāṭiṁ karitvā dhārenti, na maṁ te iminā dhammena sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ."
+    },
+    {
+      "id": "mn77:9.7",
+      "pali": "‘Santuṭṭho samaṇo gotamo itarītarena piṇḍapātena, itarītarapiṇḍapātasantuṭṭhiyā ca vaṇṇavādī’ti, iti ce maṁ, udāyi, sāvakā sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ, santi kho pana me, udāyi, sāvakā piṇḍapātikā sapadānacārino uñchāsake vate ratā, te antaragharaṁ paviṭṭhā samānā āsanenapi nimantiyamānā na sādiyanti."
+    },
+    {
+      "id": "mn77:9.8",
+      "pali": "Ahaṁ kho panudāyi, appekadā nimantanepi bhuñjāmi sālīnaṁ odanaṁ vicitakāḷakaṁ anekasūpaṁ anekabyañjanaṁ."
+    },
+    {
+      "id": "mn77:9.9",
+      "pali": "‘Santuṭṭho samaṇo gotamo itarītarena piṇḍapātena, itarītarapiṇḍapātasantuṭṭhiyā ca vaṇṇavādī’ti, iti ce maṁ, udāyi, sāvakā sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ, ye te, udāyi, mama sāvakā piṇḍapātikā sapadānacārino uñchāsake vate ratā te antaragharaṁ paviṭṭhā samānā āsanenapi nimantiyamānā na sādiyanti, na maṁ te iminā dhammena sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ."
+    },
+    {
+      "id": "mn77:9.10",
+      "pali": "‘Santuṭṭho samaṇo gotamo itarītarena senāsanena, itarītarasenāsanasantuṭṭhiyā ca vaṇṇavādī’ti, iti ce maṁ, udāyi, sāvakā sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ, santi kho pana me, udāyi, sāvakā rukkhamūlikā abbhokāsikā, te aṭṭhamāse channaṁ na upenti."
+    },
+    {
+      "id": "mn77:9.11",
+      "pali": "Ahaṁ kho panudāyi, appekadā kūṭāgāresupi viharāmi ullittāvalittesu nivātesu phusitaggaḷesu pihitavātapānesu."
+    },
+    {
+      "id": "mn77:9.12",
+      "pali": "‘Santuṭṭho samaṇo gotamo itarītarena senāsanena, itarītarasenāsanasantuṭṭhiyā ca vaṇṇavādī’ti, iti ce maṁ, udāyi, sāvakā sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ, ye te, udāyi, mama sāvakā rukkhamūlikā abbhokāsikā te aṭṭhamāse channaṁ na upenti, na maṁ te iminā dhammena sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ."
+    },
+    {
+      "id": "mn77:9.13",
+      "pali": "‘Pavivitto samaṇo gotamo, pavivekassa ca vaṇṇavādī’ti, iti ce maṁ, udāyi, sāvakā sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ, santi kho pana me, udāyi, sāvakā āraññikā pantasenāsanā araññavanapatthāni pantāni senāsanāni ajjhogāhetvā viharanti, te anvaddhamāsaṁ saṅghamajjhe osaranti pātimokkhuddesāya."
+    },
+    {
+      "id": "mn77:9.14",
+      "pali": "Ahaṁ kho panudāyi, appekadā ākiṇṇo viharāmi bhikkhūhi bhikkhunīhi upāsakehi upāsikāhi raññā rājamahāmattehi titthiyehi titthiyasāvakehi."
+    },
+    {
+      "id": "mn77:9.15",
+      "pali": "‘Pavivitto samaṇo gotamo, pavivekassa ca vaṇṇavādī’ti, iti ce maṁ, udāyi, sāvakā sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ. Ye te, udāyi, mama sāvakā āraññakā pantasenāsanā araññavanapatthāni pantāni senāsanāni ajjhogāhetvā viharanti te anvaddhamāsaṁ saṅghamajjhe osaranti pātimokkhuddesāya, na maṁ te iminā dhammena sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, sakkatvā garuṁ katvā upanissāya vihareyyuṁ."
+    },
+    {
+      "id": "mn77:9.16",
+      "pali": "Iti kho, udāyi, na mamaṁ sāvakā imehi pañcahi dhammehi sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:10.1",
+      "pali": "Atthi kho, udāyi, aññe ca pañca dhammā yehi pañcahi dhammehi mamaṁ sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:10.2",
+      "pali": "Katame pañca?"
+    },
+    {
+      "id": "mn77:10.3",
+      "pali": "Idhudāyi, mamaṁ sāvakā adhisīle sambhāventi:"
+    },
+    {
+      "id": "mn77:10.4",
+      "pali": "‘sīlavā samaṇo gotamo paramena sīlakkhandhena samannāgato’ti."
+    },
+    {
+      "id": "mn77:11.1",
+      "pali": "Yampudāyi, mamaṁ sāvakā adhisīle sambhāventi:"
+    },
+    {
+      "id": "mn77:11.2",
+      "pali": "‘sīlavā samaṇo gotamo paramena sīlakkhandhena samannāgato’ti, ayaṁ kho, udāyi, paṭhamo dhammo yena mamaṁ sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:12.1",
+      "pali": "Puna caparaṁ, udāyi, mamaṁ sāvakā abhikkante ñāṇadassane sambhāventi:"
+    },
+    {
+      "id": "mn77:12.2",
+      "pali": "‘jānaṁyevāha samaṇo gotamo—jānāmīti,"
+    },
+    {
+      "id": "mn77:12.3",
+      "pali": "passaṁyevāha samaṇo gotamo—passāmīti;"
+    },
+    {
+      "id": "mn77:12.4",
+      "pali": "abhiññāya samaṇo gotamo dhammaṁ deseti no anabhiññāya;"
+    },
+    {
+      "id": "mn77:12.5",
+      "pali": "sanidānaṁ samaṇo gotamo dhammaṁ deseti no anidānaṁ;"
+    },
+    {
+      "id": "mn77:12.6",
+      "pali": "sappāṭihāriyaṁ samaṇo gotamo dhammaṁ deseti no appāṭihāriyan’ti."
+    },
+    {
+      "id": "mn77:12.7",
+      "pali": "Yampudāyi, mamaṁ sāvakā abhikkante ñāṇadassane sambhāventi:"
+    },
+    {
+      "id": "mn77:12.8",
+      "pali": "‘jānaṁyevāha samaṇo gotamo—jānāmīti,"
+    },
+    {
+      "id": "mn77:12.9",
+      "pali": "passaṁyevāha samaṇo gotamo—passāmīti;"
+    },
+    {
+      "id": "mn77:12.10",
+      "pali": "abhiññāya samaṇo gotamo dhammaṁ deseti no anabhiññāya;"
+    },
+    {
+      "id": "mn77:12.11",
+      "pali": "sanidānaṁ samaṇo gotamo dhammaṁ deseti no anidānaṁ;"
+    },
+    {
+      "id": "mn77:12.12",
+      "pali": "sappāṭihāriyaṁ samaṇo gotamo dhammaṁ deseti no appāṭihāriyan’ti, ayaṁ kho, udāyi, dutiyo dhammo yena mamaṁ sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:13.1",
+      "pali": "Puna caparaṁ, udāyi, mamaṁ sāvakā adhipaññāya sambhāventi:"
+    },
+    {
+      "id": "mn77:13.2",
+      "pali": "‘paññavā samaṇo gotamo paramena paññākkhandhena samannāgato;"
+    },
+    {
+      "id": "mn77:13.3",
+      "pali": "taṁ vata anāgataṁ vādapathaṁ na dakkhati, uppannaṁ vā parappavādaṁ na sahadhammena suniggahitaṁ niggaṇhissatīti—netaṁ ṭhānaṁ vijjati’."
+    },
+    {
+      "id": "mn77:13.4",
+      "pali": "Taṁ kiṁ maññasi, udāyi,"
+    },
+    {
+      "id": "mn77:13.5",
+      "pali": "api nu me sāvakā evaṁ jānantā evaṁ passantā antarantarā kathaṁ opāteyyun”ti?"
+    },
+    {
+      "id": "mn77:13.6",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn77:13.7",
+      "pali": "“Na kho panāhaṁ, udāyi, sāvakesu anusāsaniṁ paccāsīsāmi;"
+    },
+    {
+      "id": "mn77:13.8",
+      "pali": "aññadatthu mamayeva sāvakā anusāsaniṁ paccāsīsanti."
+    },
+    {
+      "id": "mn77:13.9",
+      "pali": "Yampudāyi, mamaṁ sāvakā adhipaññāya sambhāventi:"
+    },
+    {
+      "id": "mn77:13.10",
+      "pali": "‘paññavā samaṇo gotamo paramena paññākkhandhena samannāgato;"
+    },
+    {
+      "id": "mn77:13.11",
+      "pali": "taṁ vata anāgataṁ vādapathaṁ na dakkhati, uppannaṁ vā parappavādaṁ na sahadhammena niggahitaṁ niggaṇhissatīti—"
+    },
+    {
+      "id": "mn77:13.12",
+      "pali": "netaṁ ṭhānaṁ vijjati’."
+    },
+    {
+      "id": "mn77:13.13",
+      "pali": "Ayaṁ kho, udāyi, tatiyo dhammo yena mamaṁ sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:14.1",
+      "pali": "Puna caparaṁ, udāyi, mama sāvakā yena dukkhena dukkhotiṇṇā dukkhaparetā te maṁ upasaṅkamitvā dukkhaṁ ariyasaccaṁ pucchanti, tesāhaṁ dukkhaṁ ariyasaccaṁ puṭṭho byākaromi, tesāhaṁ cittaṁ ārādhemi pañhassa veyyākaraṇena;"
+    },
+    {
+      "id": "mn77:14.2",
+      "pali": "te maṁ dukkhasamudayaṁ …"
+    },
+    {
+      "id": "mn77:14.3",
+      "pali": "dukkhanirodhaṁ …"
+    },
+    {
+      "id": "mn77:14.4",
+      "pali": "dukkhanirodhagāminiṁ paṭipadaṁ ariyasaccaṁ pucchanti, tesāhaṁ dukkhanirodhagāminiṁ paṭipadaṁ ariyasaccaṁ puṭṭho byākaromi, tesāhaṁ cittaṁ ārādhemi pañhassa veyyākaraṇena."
+    },
+    {
+      "id": "mn77:14.5",
+      "pali": "Yampudāyi, mama sāvakā yena dukkhena dukkhotiṇṇā dukkhaparetā te maṁ upasaṅkamitvā dukkhaṁ ariyasaccaṁ pucchanti, tesāhaṁ dukkhaṁ ariyasaccaṁ puṭṭho byākaromi, tesāhaṁ cittaṁ ārādhemi pañhassa veyyākaraṇena."
+    },
+    {
+      "id": "mn77:14.6",
+      "pali": "Te maṁ dukkhasamudayaṁ …"
+    },
+    {
+      "id": "mn77:14.7",
+      "pali": "dukkhanirodhaṁ …"
+    },
+    {
+      "id": "mn77:14.8",
+      "pali": "dukkhanirodhagāminiṁ paṭipadaṁ ariyasaccaṁ pucchanti."
+    },
+    {
+      "id": "mn77:14.9",
+      "pali": "Tesāhaṁ dukkhanirodhagāminiṁ paṭipadaṁ ariyasaccaṁ puṭṭho byākaromi."
+    },
+    {
+      "id": "mn77:14.10",
+      "pali": "Tesāhaṁ cittaṁ ārādhemi pañhassa veyyākaraṇena."
+    },
+    {
+      "id": "mn77:14.11",
+      "pali": "Ayaṁ kho, udāyi, catuttho dhammo yena mamaṁ sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:15.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā cattāro satipaṭṭhāne bhāventi."
+    },
+    {
+      "id": "mn77:15.2",
+      "pali": "Idhudāyi, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ;"
+    },
+    {
+      "id": "mn77:15.3",
+      "pali": "vedanāsu vedanānupassī viharati …"
+    },
+    {
+      "id": "mn77:15.4",
+      "pali": "citte cittānupassī viharati …"
+    },
+    {
+      "id": "mn77:15.5",
+      "pali": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "mn77:15.6",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:16.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā cattāro sammappadhāne bhāventi."
+    },
+    {
+      "id": "mn77:16.2",
+      "pali": "Idhudāyi, bhikkhu anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti, vāyamati, vīriyaṁ ārabhati, cittaṁ paggaṇhāti, padahati;"
+    },
+    {
+      "id": "mn77:16.3",
+      "pali": "uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti, vāyamati, vīriyaṁ ārabhati, cittaṁ paggaṇhāti, padahati;"
+    },
+    {
+      "id": "mn77:16.4",
+      "pali": "anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya chandaṁ janeti, vāyamati, vīriyaṁ ārabhati, cittaṁ paggaṇhāti, padahati;"
+    },
+    {
+      "id": "mn77:16.5",
+      "pali": "uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti, vāyamati, vīriyaṁ ārabhati, cittaṁ paggaṇhāti, padahati."
+    },
+    {
+      "id": "mn77:16.6",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:17.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā cattāro iddhipāde bhāventi."
+    },
+    {
+      "id": "mn77:17.2",
+      "pali": "Idhudāyi, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti,"
+    },
+    {
+      "id": "mn77:17.3",
+      "pali": "vīriyasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti,"
+    },
+    {
+      "id": "mn77:17.4",
+      "pali": "cittasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti,"
+    },
+    {
+      "id": "mn77:17.5",
+      "pali": "vīmaṁsāsamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti."
+    },
+    {
+      "id": "mn77:17.6",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:18.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā pañcindriyāni bhāventi."
+    },
+    {
+      "id": "mn77:18.2",
+      "pali": "Idhudāyi, bhikkhu saddhindriyaṁ bhāveti upasamagāmiṁ sambodhagāmiṁ;"
+    },
+    {
+      "id": "mn77:18.3",
+      "pali": "vīriyindriyaṁ bhāveti …pe…"
+    },
+    {
+      "id": "mn77:18.4",
+      "pali": "satindriyaṁ bhāveti …"
+    },
+    {
+      "id": "mn77:18.5",
+      "pali": "samādhindriyaṁ bhāveti …"
+    },
+    {
+      "id": "mn77:18.6",
+      "pali": "paññindriyaṁ bhāveti upasamagāmiṁ sambodhagāmiṁ."
+    },
+    {
+      "id": "mn77:18.7",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:19.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā pañca balāni bhāventi."
+    },
+    {
+      "id": "mn77:19.2",
+      "pali": "Idhudāyi, bhikkhu saddhābalaṁ bhāveti upasamagāmiṁ sambodhagāmiṁ;"
+    },
+    {
+      "id": "mn77:19.3",
+      "pali": "vīriyabalaṁ bhāveti …pe…"
+    },
+    {
+      "id": "mn77:19.4",
+      "pali": "satibalaṁ bhāveti …"
+    },
+    {
+      "id": "mn77:19.5",
+      "pali": "samādhibalaṁ bhāveti …"
+    },
+    {
+      "id": "mn77:19.6",
+      "pali": "paññābalaṁ bhāveti upasamagāmiṁ sambodhagāmiṁ."
+    },
+    {
+      "id": "mn77:19.7",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:20.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā sattabojjhaṅge bhāventi."
+    },
+    {
+      "id": "mn77:20.2",
+      "pali": "Idhudāyi, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ;"
+    },
+    {
+      "id": "mn77:20.3",
+      "pali": "dhammavicayasambojjhaṅgaṁ bhāveti …pe…"
+    },
+    {
+      "id": "mn77:20.4",
+      "pali": "vīriyasambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn77:20.5",
+      "pali": "pītisambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn77:20.6",
+      "pali": "passaddhisambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn77:20.7",
+      "pali": "samādhisambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn77:20.8",
+      "pali": "upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ."
+    },
+    {
+      "id": "mn77:20.9",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:21.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāventi."
+    },
+    {
+      "id": "mn77:21.2",
+      "pali": "Idhudāyi, bhikkhu sammādiṭṭhiṁ bhāveti, sammāsaṅkappaṁ bhāveti, sammāvācaṁ bhāveti, sammākammantaṁ bhāveti, sammāājīvaṁ bhāveti, sammāvāyāmaṁ bhāveti, sammāsatiṁ bhāveti, sammāsamādhiṁ bhāveti."
+    },
+    {
+      "id": "mn77:21.3",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:22.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā aṭṭha vimokkhe bhāventi."
+    },
+    {
+      "id": "mn77:22.2",
+      "pali": "Rūpī rūpāni passati,"
+    },
+    {
+      "id": "mn77:22.3",
+      "pali": "ayaṁ paṭhamo vimokkho;"
+    },
+    {
+      "id": "mn77:22.4",
+      "pali": "ajjhattaṁ arūpasaññī bahiddhā rūpāni passati,"
+    },
+    {
+      "id": "mn77:22.5",
+      "pali": "ayaṁ dutiyo vimokkho;"
+    },
+    {
+      "id": "mn77:22.6",
+      "pali": "subhanteva adhimutto hoti,"
+    },
+    {
+      "id": "mn77:22.7",
+      "pali": "ayaṁ tatiyo vimokkho;"
+    },
+    {
+      "id": "mn77:22.8",
+      "pali": "sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati,"
+    },
+    {
+      "id": "mn77:22.9",
+      "pali": "ayaṁ catuttho vimokkho;"
+    },
+    {
+      "id": "mn77:22.10",
+      "pali": "sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati,"
+    },
+    {
+      "id": "mn77:22.11",
+      "pali": "ayaṁ pañcamo vimokkho;"
+    },
+    {
+      "id": "mn77:22.12",
+      "pali": "sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati,"
+    },
+    {
+      "id": "mn77:22.13",
+      "pali": "ayaṁ chaṭṭho vimokkho;"
+    },
+    {
+      "id": "mn77:22.14",
+      "pali": "sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati,"
+    },
+    {
+      "id": "mn77:22.15",
+      "pali": "ayaṁ sattamo vimokkho;"
+    },
+    {
+      "id": "mn77:22.16",
+      "pali": "sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharati,"
+    },
+    {
+      "id": "mn77:22.17",
+      "pali": "ayaṁ aṭṭhamo vimokkho."
+    },
+    {
+      "id": "mn77:22.18",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:23.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā aṭṭha abhibhāyatanāni bhāventi."
+    },
+    {
+      "id": "mn77:23.2",
+      "pali": "Ajjhattaṁ rūpasaññī eko bahiddhā rūpāni passati parittāni suvaṇṇadubbaṇṇāni."
+    },
+    {
+      "id": "mn77:23.3",
+      "pali": "‘Tāni abhibhuyya jānāmi, passāmī’ti evaṁ saññī hoti."
+    },
+    {
+      "id": "mn77:23.4",
+      "pali": "Idaṁ paṭhamaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "mn77:23.5",
+      "pali": "Ajjhattaṁ rūpasaññī eko bahiddhā rūpāni passati appamāṇāni suvaṇṇadubbaṇṇāni."
+    },
+    {
+      "id": "mn77:23.6",
+      "pali": "‘Tāni abhibhuyya jānāmi, passāmī’ti evaṁ saññī hoti."
+    },
+    {
+      "id": "mn77:23.7",
+      "pali": "Idaṁ dutiyaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "mn77:23.8",
+      "pali": "Ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati parittāni suvaṇṇadubbaṇṇāni."
+    },
+    {
+      "id": "mn77:23.9",
+      "pali": "‘Tāni abhibhuyya jānāmi, passāmī’ti evaṁ saññī hoti."
+    },
+    {
+      "id": "mn77:23.10",
+      "pali": "Idaṁ tatiyaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "mn77:23.11",
+      "pali": "Ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati appamāṇāni suvaṇṇadubbaṇṇāni."
+    },
+    {
+      "id": "mn77:23.12",
+      "pali": "‘Tāni abhibhuyya jānāmi, passāmī’ti evaṁ saññī hoti."
+    },
+    {
+      "id": "mn77:23.13",
+      "pali": "Idaṁ catutthaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "mn77:23.14",
+      "pali": "Ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati nīlāni nīlavaṇṇāni nīlanidassanāni nīlanibhāsāni."
+    },
+    {
+      "id": "mn77:23.15",
+      "pali": "Seyyathāpi nāma umāpupphaṁ nīlaṁ nīlavaṇṇaṁ nīlanidassanaṁ nīlanibhāsaṁ, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ nīlaṁ nīlavaṇṇaṁ nīlanidassanaṁ nīlanibhāsaṁ;"
+    },
+    {
+      "id": "mn77:23.16",
+      "pali": "evameva ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati nīlāni nīlavaṇṇāni nīlanidassanāni nīlanibhāsāni."
+    },
+    {
+      "id": "mn77:23.17",
+      "pali": "‘Tāni abhibhuyya jānāmi, passāmī’ti evaṁ saññī hoti."
+    },
+    {
+      "id": "mn77:23.18",
+      "pali": "Idaṁ pañcamaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "mn77:23.19",
+      "pali": "Ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati pītāni pītavaṇṇāni pītanidassanāni pītanibhāsāni."
+    },
+    {
+      "id": "mn77:23.20",
+      "pali": "Seyyathāpi nāma kaṇikārapupphaṁ pītaṁ pītavaṇṇaṁ pītanidassanaṁ pītanibhāsaṁ, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ pītaṁ pītavaṇṇaṁ pītanidassanaṁ pītanibhāsaṁ;"
+    },
+    {
+      "id": "mn77:23.21",
+      "pali": "evameva ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati pītāni pītavaṇṇāni pītanidassanāni pītanibhāsāni."
+    },
+    {
+      "id": "mn77:23.22",
+      "pali": "‘Tāni abhibhuyya jānāmi, passāmī’ti evaṁ saññī hoti."
+    },
+    {
+      "id": "mn77:23.23",
+      "pali": "Idaṁ chaṭṭhaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "mn77:23.24",
+      "pali": "Ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati lohitakāni lohitakavaṇṇāni lohitakanidassanāni lohitakanibhāsāni."
+    },
+    {
+      "id": "mn77:23.25",
+      "pali": "Seyyathāpi nāma bandhujīvakapupphaṁ lohitakaṁ lohitakavaṇṇaṁ lohitakanidassanaṁ lohitakanibhāsaṁ, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ lohitakaṁ lohitakavaṇṇaṁ lohitakanidassanaṁ lohitakanibhāsaṁ;"
+    },
+    {
+      "id": "mn77:23.26",
+      "pali": "evameva ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati lohitakāni lohitakavaṇṇāni lohitakanidassanāni lohitakanibhāsāni."
+    },
+    {
+      "id": "mn77:23.27",
+      "pali": "‘Tāni abhibhuyya jānāmi, passāmī’ti evaṁ saññī hoti."
+    },
+    {
+      "id": "mn77:23.28",
+      "pali": "Idaṁ sattamaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "mn77:23.29",
+      "pali": "Ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati odātāni odātavaṇṇāni odātanidassanāni odātanibhāsāni."
+    },
+    {
+      "id": "mn77:23.30",
+      "pali": "Seyyathāpi nāma osadhitārakā odātā odātavaṇṇā odātanidassanā odātanibhāsā, seyyathā vā pana taṁ vatthaṁ bārāṇaseyyakaṁ ubhatobhāgavimaṭṭhaṁ odātaṁ odātavaṇṇaṁ odātanidassanaṁ odātanibhāsaṁ;"
+    },
+    {
+      "id": "mn77:23.31",
+      "pali": "evameva ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati odātāni odātavaṇṇāni odātanidassanāni odātanibhāsāni."
+    },
+    {
+      "id": "mn77:23.32",
+      "pali": "‘Tāni abhibhuyya jānāmi, passāmī’ti evaṁsaññī hoti."
+    },
+    {
+      "id": "mn77:23.33",
+      "pali": "Idaṁ aṭṭhamaṁ abhibhāyatanaṁ."
+    },
+    {
+      "id": "mn77:23.34",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:24.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā dasa kasiṇāyatanāni bhāventi."
+    },
+    {
+      "id": "mn77:24.2",
+      "pali": "Pathavīkasiṇameko sañjānāti uddhamadho tiriyaṁ advayaṁ appamāṇaṁ;"
+    },
+    {
+      "id": "mn77:24.3",
+      "pali": "āpokasiṇameko sañjānāti …pe…"
+    },
+    {
+      "id": "mn77:24.4",
+      "pali": "tejokasiṇameko sañjānāti …"
+    },
+    {
+      "id": "mn77:24.5",
+      "pali": "vāyokasiṇameko sañjānāti …"
+    },
+    {
+      "id": "mn77:24.6",
+      "pali": "nīlakasiṇameko sañjānāti …"
+    },
+    {
+      "id": "mn77:24.7",
+      "pali": "pītakasiṇameko sañjānāti …"
+    },
+    {
+      "id": "mn77:24.8",
+      "pali": "lohitakasiṇameko sañjānāti …"
+    },
+    {
+      "id": "mn77:24.9",
+      "pali": "odātakasiṇameko sañjānāti …"
+    },
+    {
+      "id": "mn77:24.10",
+      "pali": "ākāsakasiṇameko sañjānāti …"
+    },
+    {
+      "id": "mn77:24.11",
+      "pali": "viññāṇakasiṇameko sañjānāti uddhamadho tiriyaṁ advayaṁ appamāṇaṁ."
+    },
+    {
+      "id": "mn77:24.12",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:25.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā cattāri jhānāni bhāventi."
+    },
+    {
+      "id": "mn77:25.2",
+      "pali": "Idhudāyi, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn77:25.3",
+      "pali": "So imameva kāyaṁ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn77:25.4",
+      "pali": "Seyyathāpi, udāyi, dakkho nhāpako vā nhāpakantevāsī vā kaṁsathāle nhānīyacuṇṇāni ākiritvā udakena paripphosakaṁ paripphosakaṁ sanneyya, sāyaṁ nhānīyapiṇḍi snehānugatā snehaparetā santarabāhirā phuṭā snehena na ca pagghariṇī;"
+    },
+    {
+      "id": "mn77:25.5",
+      "pali": "evameva kho, udāyi, bhikkhu imameva kāyaṁ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn77:26.1",
+      "pali": "Puna caparaṁ, udāyi, bhikkhu vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ …pe… dutiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn77:26.2",
+      "pali": "So imameva kāyaṁ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn77:26.3",
+      "pali": "Seyyathāpi, udāyi, udakarahado gambhīro ubbhidodako. Tassa nevassa puratthimāya disāya udakassa āyamukhaṁ, na pacchimāya disāya udakassa āyamukhaṁ, na uttarāya disāya udakassa āyamukhaṁ, na dakkhiṇāya disāya udakassa āyamukhaṁ, devo ca na kālena kālaṁ sammā dhāraṁ anuppaveccheyya;"
+    },
+    {
+      "id": "mn77:26.4",
+      "pali": "atha kho tamhāva udakarahadā sītā vāridhārā ubbhijjitvā tameva udakarahadaṁ sītena vārinā abhisandeyya parisandeyya paripūreyya paripphareyya, nāssa kiñci sabbāvato udakarahadassa sītena vārinā apphuṭaṁ assa."
+    },
+    {
+      "id": "mn77:26.5",
+      "pali": "Evameva kho, udāyi, bhikkhu imameva kāyaṁ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn77:27.1",
+      "pali": "Puna caparaṁ, udāyi, bhikkhu pītiyā ca virāgā …pe… tatiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn77:27.2",
+      "pali": "So imameva kāyaṁ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn77:27.3",
+      "pali": "Seyyathāpi, udāyi, uppaliniyaṁ vā paduminiyaṁ vā puṇḍarīkiniyaṁ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni anto nimuggaposīni, tāni yāva caggā yāva ca mūlā sītena vārinā abhisannāni parisannāni paripūrāni paripphuṭāni, nāssa kiñci sabbāvataṁ, uppalānaṁ vā padumānaṁ vā puṇḍarīkānaṁ vā sītena vārinā apphuṭaṁ assa;"
+    },
+    {
+      "id": "mn77:27.4",
+      "pali": "evameva kho, udāyi, bhikkhu imameva kāyaṁ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn77:28.1",
+      "pali": "Puna caparaṁ, udāyi, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn77:28.2",
+      "pali": "So imameva kāyaṁ parisuddhena cetasā pariyodātena pharitvā nisinno hoti, nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn77:28.3",
+      "pali": "Seyyathāpi, udāyi, puriso odātena vatthena sasīsaṁ pārupitvā nisinno assa, nāssa kiñci sabbāvato kāyassa odātena vatthena apphuṭaṁ assa;"
+    },
+    {
+      "id": "mn77:28.4",
+      "pali": "evameva kho, udāyi, bhikkhu imameva kāyaṁ parisuddhena cetasā pariyodātena pharitvā nisinno hoti, nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn77:28.5",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:29.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā evaṁ pajānanti:"
+    },
+    {
+      "id": "mn77:29.2",
+      "pali": "‘ayaṁ kho me kāyo rūpī cātumahābhūtiko mātāpettikasambhavo odanakummāsūpacayo aniccucchādanaparimaddanabhedanaviddhaṁsanadhammo;"
+    },
+    {
+      "id": "mn77:29.3",
+      "pali": "idañca pana me viññāṇaṁ ettha sitaṁ ettha paṭibaddhaṁ’."
+    },
+    {
+      "id": "mn77:29.4",
+      "pali": "Seyyathāpi, udāyi, maṇi veḷuriyo subho jātimā aṭṭhaṁso suparikammakato accho vippasanno sabbākārasampanno;"
+    },
+    {
+      "id": "mn77:29.5",
+      "pali": "tatridaṁ suttaṁ āvutaṁ nīlaṁ vā pītaṁ vā lohitaṁ vā odātaṁ vā paṇḍusuttaṁ vā."
+    },
+    {
+      "id": "mn77:29.6",
+      "pali": "Tamenaṁ cakkhumā puriso hatthe karitvā paccavekkheyya:"
+    },
+    {
+      "id": "mn77:29.7",
+      "pali": "‘ayaṁ kho maṇi veḷuriyo subho jātimā aṭṭhaṁso suparikammakato accho vippasanno sabbākārasampanno;"
+    },
+    {
+      "id": "mn77:29.8",
+      "pali": "tatridaṁ suttaṁ āvutaṁ nīlaṁ vā pītaṁ vā lohitaṁ vā odātaṁ vā paṇḍusuttaṁ vā’ti."
+    },
+    {
+      "id": "mn77:29.9",
+      "pali": "Evameva kho, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā evaṁ pajānanti:"
+    },
+    {
+      "id": "mn77:29.10",
+      "pali": "‘ayaṁ kho me kāyo rūpī cātumahābhūtiko mātāpettikasambhavo odanakummāsūpacayo aniccucchādanaparimaddanabhedanaviddhaṁsanadhammo;"
+    },
+    {
+      "id": "mn77:29.11",
+      "pali": "idañca pana me viññāṇaṁ ettha sitaṁ ettha paṭibaddhan’ti."
+    },
+    {
+      "id": "mn77:29.12",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:30.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā imamhā kāyā aññaṁ kāyaṁ abhinimminanti rūpiṁ manomayaṁ sabbaṅgapaccaṅgiṁ ahīnindriyaṁ."
+    },
+    {
+      "id": "mn77:30.2",
+      "pali": "Seyyathāpi, udāyi, puriso muñjamhā īsikaṁ pabbāheyya;"
+    },
+    {
+      "id": "mn77:30.3",
+      "pali": "tassa evamassa:"
+    },
+    {
+      "id": "mn77:30.4",
+      "pali": "‘ayaṁ muñjo, ayaṁ īsikā; añño muñjo, aññā īsikā; muñjamhā tveva īsikā pabbāḷhā’ti."
+    },
+    {
+      "id": "mn77:30.5",
+      "pali": "Seyyathā vā panudāyi, puriso asiṁ kosiyā pabbāheyya;"
+    },
+    {
+      "id": "mn77:30.6",
+      "pali": "tassa evamassa:"
+    },
+    {
+      "id": "mn77:30.7",
+      "pali": "‘ayaṁ asi, ayaṁ kosi; añño asi aññā kosi; kosiyā tveva asi pabbāḷho’ti."
+    },
+    {
+      "id": "mn77:30.8",
+      "pali": "Seyyathā vā, panudāyi, puriso ahiṁ karaṇḍā uddhareyya;"
+    },
+    {
+      "id": "mn77:30.9",
+      "pali": "tassa evamassa:"
+    },
+    {
+      "id": "mn77:30.10",
+      "pali": "‘ayaṁ ahi, ayaṁ karaṇḍo; añño ahi, añño karaṇḍo; karaṇḍā tveva ahi ubbhato’ti."
+    },
+    {
+      "id": "mn77:30.11",
+      "pali": "Evameva kho, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā imamhā kāyā aññaṁ kāyaṁ abhinimminanti rūpiṁ manomayaṁ sabbaṅgapaccaṅgiṁ ahīnindriyaṁ."
+    },
+    {
+      "id": "mn77:30.12",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:31.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā anekavihitaṁ iddhividhaṁ paccanubhonti—ekopi hutvā bahudhā honti, bahudhāpi hutvā eko hoti; āvibhāvaṁ, tirobhāvaṁ; tirokuṭṭaṁ tiropākāraṁ tiropabbataṁ asajjamānā gacchanti, seyyathāpi ākāse; pathaviyāpi ummujjanimujjaṁ karonti, seyyathāpi udake; udakepi abhijjamāne gacchanti, seyyathāpi pathaviyaṁ; ākāsepi pallaṅkena kamanti, seyyathāpi pakkhī sakuṇo; imepi candimasūriye evaṁmahiddhike evaṁmahānubhāve pāṇinā parimasanti parimajjanti, yāva brahmalokāpi kāyena vasaṁ vattenti."
+    },
+    {
+      "id": "mn77:31.2",
+      "pali": "Seyyathāpi, udāyi, dakkho kumbhakāro vā kumbhakārantevāsī vā suparikammakatāya mattikāya yaṁ yadeva bhājanavikatiṁ ākaṅkheyya taṁ tadeva kareyya abhinipphādeyya;"
+    },
+    {
+      "id": "mn77:31.3",
+      "pali": "seyyathā vā panudāyi, dakkho dantakāro vā dantakārantevāsī vā suparikammakatasmiṁ dantasmiṁ yaṁ yadeva dantavikatiṁ ākaṅkheyya taṁ tadeva kareyya abhinipphādeyya;"
+    },
+    {
+      "id": "mn77:31.4",
+      "pali": "seyyathā vā panudāyi, dakkho suvaṇṇakāro vā suvaṇṇakārantevāsī vā suparikammakatasmiṁ suvaṇṇasmiṁ yaṁ yadeva suvaṇṇavikatiṁ ākaṅkheyya taṁ tadeva kareyya abhinipphādeyya."
+    },
+    {
+      "id": "mn77:31.5",
+      "pali": "Evameva kho, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā anekavihitaṁ iddhividhaṁ paccanubhonti—ekopi hutvā bahudhā honti, bahudhāpi hutvā eko hoti; āvibhāvaṁ, tirobhāvaṁ; tirokuṭṭaṁ tiropākāraṁ tiropabbataṁ asajjamānā gacchanti, seyyathāpi ākāse; pathaviyāpi ummujjanimujjaṁ karonti, seyyathāpi udake; udakepi abhijjamāne gacchanti, seyyathāpi pathaviyaṁ; ākāsepi pallaṅkena kamanti, seyyathāpi pakkhī sakuṇo; imepi candimasūriye evaṁmahiddhike evaṁmahānubhāve pāṇinā parimasanti parimajjanti, yāva brahmalokāpi kāyena vasaṁ vattenti."
+    },
+    {
+      "id": "mn77:31.6",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:32.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇanti—dibbe ca mānuse ca, ye dūre santike ca."
+    },
+    {
+      "id": "mn77:32.2",
+      "pali": "Seyyathāpi, udāyi, balavā saṅkhadhamo appakasireneva cātuddisā viññāpeyya;"
+    },
+    {
+      "id": "mn77:32.3",
+      "pali": "evameva kho, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇanti—dibbe ca mānuse ca, ye dūre santike ca."
+    },
+    {
+      "id": "mn77:32.4",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:33.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānanti—"
+    },
+    {
+      "id": "mn77:33.2",
+      "pali": "sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānanti,"
+    },
+    {
+      "id": "mn77:33.3",
+      "pali": "vītarāgaṁ vā cittaṁ ‘vītarāgaṁ cittan’ti pajānanti;"
+    },
+    {
+      "id": "mn77:33.4",
+      "pali": "sadosaṁ vā cittaṁ ‘sadosaṁ cittan’ti pajānanti,"
+    },
+    {
+      "id": "mn77:33.5",
+      "pali": "vītadosaṁ vā cittaṁ ‘vītadosaṁ cittan’ti pajānanti;"
+    },
+    {
+      "id": "mn77:33.6",
+      "pali": "samohaṁ vā cittaṁ ‘samohaṁ cittan’ti pajānanti,"
+    },
+    {
+      "id": "mn77:33.7",
+      "pali": "vītamohaṁ vā cittaṁ ‘vītamohaṁ cittan’ti pajānanti;"
+    },
+    {
+      "id": "mn77:33.8",
+      "pali": "saṅkhittaṁ vā cittaṁ ‘saṅkhittaṁ cittan’ti pajānanti,"
+    },
+    {
+      "id": "mn77:33.9",
+      "pali": "vikkhittaṁ vā cittaṁ ‘vikkhittaṁ cittan’ti pajānanti;"
+    },
+    {
+      "id": "mn77:33.10",
+      "pali": "mahaggataṁ vā cittaṁ ‘mahaggataṁ cittan’ti pajānanti,"
+    },
+    {
+      "id": "mn77:33.11",
+      "pali": "amahaggataṁ vā cittaṁ ‘amahaggataṁ cittan’ti pajānanti;"
+    },
+    {
+      "id": "mn77:33.12",
+      "pali": "sauttaraṁ vā cittaṁ ‘sauttaraṁ cittan’ti pajānanti,"
+    },
+    {
+      "id": "mn77:33.13",
+      "pali": "anuttaraṁ vā cittaṁ ‘anuttaraṁ cittan’ti pajānanti;"
+    },
+    {
+      "id": "mn77:33.14",
+      "pali": "samāhitaṁ vā cittaṁ ‘samāhitaṁ cittan’ti pajānanti,"
+    },
+    {
+      "id": "mn77:33.15",
+      "pali": "asamāhitaṁ vā cittaṁ ‘asamāhitaṁ cittan’ti pajānanti;"
+    },
+    {
+      "id": "mn77:33.16",
+      "pali": "vimuttaṁ vā cittaṁ ‘vimuttaṁ cittan’ti pajānanti,"
+    },
+    {
+      "id": "mn77:33.17",
+      "pali": "avimuttaṁ vā cittaṁ ‘avimuttaṁ cittan’ti pajānanti."
+    },
+    {
+      "id": "mn77:33.18",
+      "pali": "Seyyathāpi, udāyi, itthī vā puriso vā daharo yuvā maṇḍanakajātiko ādāse vā parisuddhe pariyodāte acche vā udakapatte sakaṁ mukhanimittaṁ paccavekkhamāno sakaṇikaṁ vā ‘sakaṇikan’ti jāneyya, akaṇikaṁ vā ‘akaṇikan’ti jāneyya;"
+    },
+    {
+      "id": "mn77:33.19",
+      "pali": "evameva kho, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānanti—"
+    },
+    {
+      "id": "mn77:33.20",
+      "pali": "sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānanti,"
+    },
+    {
+      "id": "mn77:33.21",
+      "pali": "vītarāgaṁ vā cittaṁ …pe…"
+    },
+    {
+      "id": "mn77:33.22",
+      "pali": "sadosaṁ vā cittaṁ …"
+    },
+    {
+      "id": "mn77:33.23",
+      "pali": "vītadosaṁ vā cittaṁ …"
+    },
+    {
+      "id": "mn77:33.24",
+      "pali": "samohaṁ vā cittaṁ …"
+    },
+    {
+      "id": "mn77:33.25",
+      "pali": "vītamohaṁ vā cittaṁ …"
+    },
+    {
+      "id": "mn77:33.26",
+      "pali": "saṅkhittaṁ vā cittaṁ …"
+    },
+    {
+      "id": "mn77:33.27",
+      "pali": "vikkhittaṁ vā cittaṁ …"
+    },
+    {
+      "id": "mn77:33.28",
+      "pali": "mahaggataṁ vā cittaṁ …"
+    },
+    {
+      "id": "mn77:33.29",
+      "pali": "amahaggataṁ vā cittaṁ …"
+    },
+    {
+      "id": "mn77:33.30",
+      "pali": "sauttaraṁ vā cittaṁ …"
+    },
+    {
+      "id": "mn77:33.31",
+      "pali": "anuttaraṁ vā cittaṁ …"
+    },
+    {
+      "id": "mn77:33.32",
+      "pali": "samāhitaṁ vā cittaṁ …"
+    },
+    {
+      "id": "mn77:33.33",
+      "pali": "asamāhitaṁ vā cittaṁ …"
+    },
+    {
+      "id": "mn77:33.34",
+      "pali": "vimuttaṁ vā cittaṁ …"
+    },
+    {
+      "id": "mn77:33.35",
+      "pali": "avimuttaṁ vā cittaṁ ‘avimuttaṁ cittan’ti pajānanti."
+    },
+    {
+      "id": "mn77:33.36",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:34.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā anekavihitaṁ pubbenivāsaṁ anussaranti, seyyathidaṁ—ekampi jātiṁ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṁsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi, anekepi saṁvaṭṭakappe anekepi vivaṭṭakappe anekepi saṁvaṭṭavivaṭṭakappe: ‘amutrāsiṁ evaṁnāmo evaṅgotto evaṁvaṇṇo evamāhāro evaṁsukhadukkhappaṭisaṁvedī evamāyupariyanto, so tato cuto amutra udapādiṁ; tatrāpāsiṁ evaṁnāmo evaṅgotto evaṁvaṇṇo evamāhāro evaṁsukhadukkhappaṭisaṁvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. Iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati."
+    },
+    {
+      "id": "mn77:34.2",
+      "pali": "Seyyathāpi, udāyi, puriso sakamhā gāmā aññaṁ gāmaṁ gaccheyya, tamhāpi gāmā aññaṁ gāmaṁ gaccheyya; so tamhā gāmā sakaṁyeva gāmaṁ paccāgaccheyya; tassa evamassa: ‘ahaṁ kho sakamhā gāmā aññaṁ gāmaṁ agacchiṁ, tatra evaṁ aṭṭhāsiṁ evaṁ nisīdiṁ evaṁ abhāsiṁ evaṁ tuṇhī ahosiṁ; tamhāpi gāmā amuṁ gāmaṁ agacchiṁ, tatrāpi evaṁ aṭṭhāsiṁ evaṁ nisīdiṁ evaṁ abhāsiṁ evaṁ tuṇhī ahosiṁ, somhi tamhā gāmā sakaṁyeva gāmaṁ paccāgato’ti."
+    },
+    {
+      "id": "mn77:34.3",
+      "pali": "Evameva kho, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā anekavihitaṁ pubbenivāsaṁ anussaranti, seyyathidaṁ—ekampi jātiṁ …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussaranti."
+    },
+    {
+      "id": "mn77:34.4",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:35.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā dibbena cakkhunā visuddhena atikkantamānusakena satte passanti cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānanti: ‘ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṁ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā, te kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapannā; ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṁ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā, te kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapannā’ti. Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passanti cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānanti."
+    },
+    {
+      "id": "mn77:35.2",
+      "pali": "Seyyathāpi, udāyi, dve agārā sadvārā. Tatra cakkhumā puriso majjhe ṭhito passeyya manusse gehaṁ pavisantepi nikkhamantepi anucaṅkamantepi anuvicarantepi;"
+    },
+    {
+      "id": "mn77:35.3",
+      "pali": "evameva kho, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā dibbena cakkhunā visuddhena atikkantamānusakena satte passanti cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānanti …pe…"
+    },
+    {
+      "id": "mn77:35.4",
+      "pali": "tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:36.1",
+      "pali": "Puna caparaṁ, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharanti."
+    },
+    {
+      "id": "mn77:36.2",
+      "pali": "Seyyathāpi, udāyi, pabbatasaṅkhepe udakarahado accho vippasanno anāvilo, tattha cakkhumā puriso tīre ṭhito passeyya sippisambukampi sakkharakaṭhalampi macchagumbampi carantampi tiṭṭhantampi. Tassa evamassa: ‘ayaṁ kho udakarahado accho vippasanno anāvilo, tatrime sippisambukāpi sakkharakaṭhalāpi macchagumbāpi carantipi tiṭṭhantipī’ti."
+    },
+    {
+      "id": "mn77:36.3",
+      "pali": "Evameva kho, udāyi, akkhātā mayā sāvakānaṁ paṭipadā, yathāpaṭipannā me sāvakā āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharanti."
+    },
+    {
+      "id": "mn77:36.4",
+      "pali": "Tatra ca pana me sāvakā bahū abhiññāvosānapāramippattā viharanti."
+    },
+    {
+      "id": "mn77:37.1",
+      "pali": "Ayaṁ kho, udāyi, pañcamo dhammo yena mama sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharanti."
+    },
+    {
+      "id": "mn77:38.1",
+      "pali": "Ime kho, udāyi, pañca dhammā yehi mamaṁ sāvakā sakkaronti garuṁ karonti mānenti pūjenti, sakkatvā garuṁ katvā upanissāya viharantī”ti."
+    },
+    {
+      "id": "mn77:38.2",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn77:38.3",
+      "pali": "Attamano sakuludāyī paribbājako bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn77:38.4",
+      "pali": "Mahāsakuludāyisuttaṁ niṭṭhitaṁ sattamaṁ."
+    }
+  ]
+}

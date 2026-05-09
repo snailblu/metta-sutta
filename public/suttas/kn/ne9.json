@@ -1,0 +1,663 @@
+{
+  "uid": "ne9",
+  "title": "Vibhaṅga 6",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "ne9:1.1",
+      "pali": "Tattha katamo catubyūho hāro?"
+    },
+    {
+      "id": "ne9:1.2",
+      "pali": "“Neruttamadhippāyo”ti ayaṁ."
+    },
+    {
+      "id": "ne9:1.3",
+      "pali": "Byañjanena suttassa neruttañca adhippāyo ca nidānañca pubbāparasandhi ca gavesitabbo."
+    },
+    {
+      "id": "ne9:1.4",
+      "pali": "Tattha katamaṁ neruttaṁ, yā niruttipadasaṁhitā, yaṁ dhammānaṁ nāmaso ñāṇaṁ."
+    },
+    {
+      "id": "ne9:1.5",
+      "pali": "Yadā hi bhikkhu atthassa ca nāmaṁ jānāti, dhammassa ca nāmaṁ jānāti, tathā tathā naṁ abhiniropeti."
+    },
+    {
+      "id": "ne9:1.6",
+      "pali": "Ayañca vuccati atthakusalo dhammakusalo byañjanakusalo niruttikusalo pubbāparakusalo desanākusalo atītādhivacanakusalo anāgatādhivacanakusalo paccuppannādhivacanakusalo itthādhivacanakusalo purisādhivacanakusalo napuṁsakādhivacanakusalo ekādhivacanakusalo anekādhivacanakusalo, evaṁ sabbāni kātabbāni janapadaniruttāni sabbā ca janapadaniruttiyo."
+    },
+    {
+      "id": "ne9:1.7",
+      "pali": "Ayaṁ niruttipadasaṁhitā."
+    },
+    {
+      "id": "ne9:2.1",
+      "pali": "Tattha katamo adhippāyo?"
+    },
+    {
+      "id": "ne9:3.1",
+      "pali": "“Dhammo have rakkhati dhammacāriṁ,"
+    },
+    {
+      "id": "ne9:3.2",
+      "pali": "Chattaṁ mahantaṁ yatha vassakāle;"
+    },
+    {
+      "id": "ne9:3.3",
+      "pali": "Esānisaṁso dhamme suciṇṇe,"
+    },
+    {
+      "id": "ne9:3.4",
+      "pali": "Na duggatiṁ gacchati dhammacārī”ti."
+    },
+    {
+      "id": "ne9:4.1",
+      "pali": "Idha bhagavato ko adhippāyo?"
+    },
+    {
+      "id": "ne9:4.2",
+      "pali": "Ye apāyehi parimuccitukāmā bhavissanti, te dhammacārino bhavissantīti ayaṁ ettha bhagavato adhippāyo."
+    },
+    {
+      "id": "ne9:5.1",
+      "pali": "“Coro yathā sandhimukhe gahīto,"
+    },
+    {
+      "id": "ne9:5.2",
+      "pali": "Sakammunā haññati bajjhate ca;"
+    },
+    {
+      "id": "ne9:5.3",
+      "pali": "Evaṁ ayaṁ pecca pajā parattha,"
+    },
+    {
+      "id": "ne9:5.4",
+      "pali": "Sakammunā haññati bajjhate cā”ti."
+    },
+    {
+      "id": "ne9:6.1",
+      "pali": "Idha bhagavato ko adhippāyo?"
+    },
+    {
+      "id": "ne9:6.2",
+      "pali": "Sañcetanikānaṁ katānaṁ kammānaṁ upacitānaṁ dukkhavedanīyānaṁ aniṭṭhaṁ asātaṁ vipākaṁ paccanubhavissatīti ayaṁ ettha bhagavato adhippāyo."
+    },
+    {
+      "id": "ne9:7.1",
+      "pali": "“Sukhakāmāni bhūtāni,"
+    },
+    {
+      "id": "ne9:7.2",
+      "pali": "Yo daṇḍena vihiṁsati;"
+    },
+    {
+      "id": "ne9:7.3",
+      "pali": "Attano sukhamesāno,"
+    },
+    {
+      "id": "ne9:7.4",
+      "pali": "Pecca so na labhate sukhan”ti."
+    },
+    {
+      "id": "ne9:8.1",
+      "pali": "Idha bhagavato ko adhippāyo?"
+    },
+    {
+      "id": "ne9:8.2",
+      "pali": "Ye sukhena atthikā bhavissanti, te pāpakammaṁ na karissantīti ayaṁ ettha bhagavato adhippāyo."
+    },
+    {
+      "id": "ne9:9.1",
+      "pali": "“Middhī yadā hoti mahagghaso ca,"
+    },
+    {
+      "id": "ne9:9.2",
+      "pali": "Niddāyitā samparivattasāyī;"
+    },
+    {
+      "id": "ne9:9.3",
+      "pali": "Mahāvarāhova nivāpapuṭṭho,"
+    },
+    {
+      "id": "ne9:9.4",
+      "pali": "Punappunaṁ gabbhamupeti mando”ti."
+    },
+    {
+      "id": "ne9:10.1",
+      "pali": "Idha bhagavato ko adhippāyo?"
+    },
+    {
+      "id": "ne9:10.2",
+      "pali": "Ye jarāmaraṇena aṭṭiyitukāmā bhavissanti, te bhavissanti bhojane mattaññuno indriyesu guttadvārā pubbarattāpararattaṁ jāgariyānuyogamanuyuttā vipassakā kusalesu dhammesu sagāravā ca sabrahmacārīsu theresu navesu majjhimesūti ayaṁ ettha bhagavato adhippāyo."
+    },
+    {
+      "id": "ne9:11.1",
+      "pali": "“Appamādo amatapadaṁ,"
+    },
+    {
+      "id": "ne9:11.2",
+      "pali": "Pamādo maccuno padaṁ;"
+    },
+    {
+      "id": "ne9:11.3",
+      "pali": "Appamattā na mīyanti,"
+    },
+    {
+      "id": "ne9:11.4",
+      "pali": "Ye pamattā yathā matā”ti."
+    },
+    {
+      "id": "ne9:12.1",
+      "pali": "Idha bhagavato ko adhippāyo?"
+    },
+    {
+      "id": "ne9:12.2",
+      "pali": "Ye amatapariyesanaṁ pariyesitukāmā bhavissanti, te appamattā viharissantīti ayaṁ ettha bhagavato adhippāyo."
+    },
+    {
+      "id": "ne9:12.3",
+      "pali": "Ayaṁ adhippāyo."
+    },
+    {
+      "id": "ne9:13.1",
+      "pali": "Tattha katamaṁ nidānaṁ?"
+    },
+    {
+      "id": "ne9:13.2",
+      "pali": "Yathā so dhaniyo gopālako bhagavantaṁ āha—"
+    },
+    {
+      "id": "ne9:14.1",
+      "pali": "“Nandati puttehi puttimā,"
+    },
+    {
+      "id": "ne9:14.2",
+      "pali": "Gomā gohi tatheva nandati;"
+    },
+    {
+      "id": "ne9:14.3",
+      "pali": "Upadhī hi narassa nandanā,"
+    },
+    {
+      "id": "ne9:14.4",
+      "pali": "Na hi so nandati yo nirūpadhī”ti."
+    },
+    {
+      "id": "ne9:15.1",
+      "pali": "Bhagavā āha—"
+    },
+    {
+      "id": "ne9:16.1",
+      "pali": "“Socati puttehi puttimā,"
+    },
+    {
+      "id": "ne9:16.2",
+      "pali": "Gopiko gohi tatheva socati;"
+    },
+    {
+      "id": "ne9:16.3",
+      "pali": "Upadhī hi narassa socanā,"
+    },
+    {
+      "id": "ne9:16.4",
+      "pali": "Na hi so socati yo nirūpadhī”ti."
+    },
+    {
+      "id": "ne9:17.1",
+      "pali": "Iminā vatthunā iminā nidānena evaṁ ñāyati “idha bhagavā bāhiraṁ pariggahaṁ upadhiṁ āhā”ti."
+    },
+    {
+      "id": "ne9:17.2",
+      "pali": "Yathā ca māro pāpimā gijjhakūṭā pabbatā puthusilaṁ pātesi, bhagavā āha—"
+    },
+    {
+      "id": "ne9:18.1",
+      "pali": "“Sacepi kevalaṁ sabbaṁ,"
+    },
+    {
+      "id": "ne9:18.2",
+      "pali": "gijjhakūṭaṁ calessasi;"
+    },
+    {
+      "id": "ne9:18.3",
+      "pali": "Neva sammāvimuttānaṁ,"
+    },
+    {
+      "id": "ne9:18.4",
+      "pali": "buddhānaṁ atthi iñjitaṁ."
+    },
+    {
+      "id": "ne9:19.1",
+      "pali": "Nabhaṁ phaleyyappathavī caleyya,"
+    },
+    {
+      "id": "ne9:19.2",
+      "pali": "Sabbeva pāṇā uda santaseyyuṁ;"
+    },
+    {
+      "id": "ne9:19.3",
+      "pali": "Sallampi ce urasi pakappayeyyuṁ,"
+    },
+    {
+      "id": "ne9:19.4",
+      "pali": "Upadhīsu tāṇaṁ na karonti buddhā”ti."
+    },
+    {
+      "id": "ne9:20.1",
+      "pali": "Iminā vatthunā iminā nidānena evaṁ ñāyati “idha bhagavā kāyaṁ upadhiṁ āhā”ti."
+    },
+    {
+      "id": "ne9:20.2",
+      "pali": "Yathā cāha—"
+    },
+    {
+      "id": "ne9:21.1",
+      "pali": "“Na taṁ daḷhaṁ bandhanamāhu dhīrā,"
+    },
+    {
+      "id": "ne9:21.2",
+      "pali": "Yadāyasaṁ dārujapabbajañca;"
+    },
+    {
+      "id": "ne9:21.3",
+      "pali": "Sārattarattā maṇikuṇḍalesu,"
+    },
+    {
+      "id": "ne9:21.4",
+      "pali": "Puttesu dāresu ca yā apekkhā”ti."
+    },
+    {
+      "id": "ne9:22.1",
+      "pali": "Iminā vatthunā iminā nidānena evaṁ ñāyati “idha bhagavā bāhiresu vatthūsu taṇhaṁ āhā”ti."
+    },
+    {
+      "id": "ne9:22.2",
+      "pali": "Yathā cāha—"
+    },
+    {
+      "id": "ne9:23.1",
+      "pali": "“Etaṁ daḷhaṁ bandhanamāhu dhīrā,"
+    },
+    {
+      "id": "ne9:23.2",
+      "pali": "Ohārinaṁ sithilaṁ duppamuñcaṁ;"
+    },
+    {
+      "id": "ne9:23.3",
+      "pali": "Etampi chetvāna paribbajanti,"
+    },
+    {
+      "id": "ne9:23.4",
+      "pali": "Anapekkhino kāmasukhaṁ pahāyā”ti."
+    },
+    {
+      "id": "ne9:24.1",
+      "pali": "Iminā vatthunā iminā nidānena evaṁ ñāyati “idha bhagavā bāhiravatthukāya taṇhāya pahānaṁ āhā”ti."
+    },
+    {
+      "id": "ne9:24.2",
+      "pali": "Yathā cāha—"
+    },
+    {
+      "id": "ne9:25.1",
+      "pali": "“Āturaṁ asuciṁ pūtiṁ,"
+    },
+    {
+      "id": "ne9:25.2",
+      "pali": "duggandhaṁ dehanissitaṁ;"
+    },
+    {
+      "id": "ne9:25.3",
+      "pali": "Paggharantaṁ divā rattiṁ,"
+    },
+    {
+      "id": "ne9:25.4",
+      "pali": "bālānaṁ abhinanditan”ti."
+    },
+    {
+      "id": "ne9:26.1",
+      "pali": "Iminā vatthunā iminā nidānena evaṁ ñāyati “idha bhagavā ajjhattikavatthukāya taṇhāya pahānaṁ āhā”ti."
+    },
+    {
+      "id": "ne9:26.2",
+      "pali": "Yathā cāha—"
+    },
+    {
+      "id": "ne9:27.1",
+      "pali": "“Ucchinda sinehamattano,"
+    },
+    {
+      "id": "ne9:27.2",
+      "pali": "Kumudaṁ sāradikaṁva pāṇinā;"
+    },
+    {
+      "id": "ne9:27.3",
+      "pali": "Santimaggameva brūhaya,"
+    },
+    {
+      "id": "ne9:27.4",
+      "pali": "Nibbānaṁ sugatena desitan”ti."
+    },
+    {
+      "id": "ne9:28.1",
+      "pali": "Iminā vatthunā iminā nidānena evaṁ ñāyati “idha bhagavā ajjhattikavatthukāya taṇhāya pahānaṁ āhā”ti."
+    },
+    {
+      "id": "ne9:28.2",
+      "pali": "Idaṁ nidānaṁ."
+    },
+    {
+      "id": "ne9:29.1",
+      "pali": "Tattha katamo pubbāparasandhi."
+    },
+    {
+      "id": "ne9:29.2",
+      "pali": "Yathāha—"
+    },
+    {
+      "id": "ne9:30.1",
+      "pali": "“Kāmandhā jālasañchannā,"
+    },
+    {
+      "id": "ne9:30.2",
+      "pali": "Taṇhāchadanachāditā;"
+    },
+    {
+      "id": "ne9:30.3",
+      "pali": "Pamattabandhanā baddhā,"
+    },
+    {
+      "id": "ne9:30.4",
+      "pali": "Macchāva kumināmukhe;"
+    },
+    {
+      "id": "ne9:30.5",
+      "pali": "Jarāmaraṇamanventi,"
+    },
+    {
+      "id": "ne9:30.6",
+      "pali": "Vaccho khīrapakova mātaran”ti."
+    },
+    {
+      "id": "ne9:31.1",
+      "pali": "Ayaṁ kāmataṇhā vuttā."
+    },
+    {
+      "id": "ne9:31.2",
+      "pali": "Sā katamena pubbāparena yujjati?"
+    },
+    {
+      "id": "ne9:31.3",
+      "pali": "Yathāha—"
+    },
+    {
+      "id": "ne9:32.1",
+      "pali": "“Ratto atthaṁ na jānāti,"
+    },
+    {
+      "id": "ne9:32.2",
+      "pali": "ratto dhammaṁ na passati;"
+    },
+    {
+      "id": "ne9:32.3",
+      "pali": "Andhantamaṁ tadā hoti,"
+    },
+    {
+      "id": "ne9:32.4",
+      "pali": "yaṁ rāgo sahate naran”ti."
+    },
+    {
+      "id": "ne9:33.1",
+      "pali": "Iti andhatāya ca sañchannatāya ca sāyeva taṇhā abhilapitā."
+    },
+    {
+      "id": "ne9:33.2",
+      "pali": "Yañcāha kāmandhā jālasañchannā, taṇhāchadanachāditāti."
+    },
+    {
+      "id": "ne9:33.3",
+      "pali": "Yañcāha ratto atthaṁ na jānāti, ratto dhammaṁ na passatīti, imehi padehi pariyuṭṭhānehi sāyeva taṇhā abhilapitā."
+    },
+    {
+      "id": "ne9:33.4",
+      "pali": "Yaṁ andhakāraṁ, ayaṁ dukkhasamudayo, yā ca taṇhā ponobhavikā, yañcāha kāmāti ime kilesakāmā."
+    },
+    {
+      "id": "ne9:33.5",
+      "pali": "Yañcāha jālasañchannāti tesaṁyeva kāmānaṁ payogena pariyuṭṭhānaṁ dasseti, tasmā kilesavasena ca pariyuṭṭhānavasena ca taṇhābandhanaṁ vuttaṁ."
+    },
+    {
+      "id": "ne9:33.6",
+      "pali": "Ye edisikā, te jarāmaraṇaṁ anventi, ayaṁ bhagavatā yathānikkhittagāthābalena dassitā jarāmaraṇamanventīti."
+    },
+    {
+      "id": "ne9:34.1",
+      "pali": "“Yassa papañcā ṭhitī ca natthi,"
+    },
+    {
+      "id": "ne9:34.2",
+      "pali": "Sandānaṁ palighañca vītivatto;"
+    },
+    {
+      "id": "ne9:34.3",
+      "pali": "Taṁ nittaṇhaṁ muniṁ carantaṁ,"
+    },
+    {
+      "id": "ne9:34.4",
+      "pali": "Na vijānāti sadevakopi loko”ti."
+    },
+    {
+      "id": "ne9:35.1",
+      "pali": "Papañcā nāma taṇhādiṭṭhimānā, tadabhisaṅkhatā ca saṅkhārā."
+    },
+    {
+      "id": "ne9:35.2",
+      "pali": "Ṭhiti nāma anusayā."
+    },
+    {
+      "id": "ne9:35.3",
+      "pali": "Sandānaṁ nāma taṇhāya pariyuṭṭhānaṁ, yāni chattiṁsataṇhāya jāliniyā vicaritāni."
+    },
+    {
+      "id": "ne9:35.4",
+      "pali": "Paligho nāma moho."
+    },
+    {
+      "id": "ne9:35.5",
+      "pali": "Ye ca papañcā saṅkhārā yā ca ṭhiti yaṁ sandānañca yaṁ palighañca yo etaṁ sabbaṁ samatikkanto, ayaṁ vuccati nittaṇho iti."
+    },
+    {
+      "id": "ne9:36.1",
+      "pali": "Tattha pariyuṭṭhānasaṅkhārā diṭṭhadhammavedanīyā vā upapajjavedanīyā vā aparāpariyavedanīyā vā, evaṁ taṇhā tividhaṁ phalaṁ deti diṭṭhe vā dhamme upapajje vā apare vā pariyāye."
+    },
+    {
+      "id": "ne9:36.2",
+      "pali": "Evaṁ bhagavā āha—"
+    },
+    {
+      "id": "ne9:36.3",
+      "pali": "“yaṁ lobhapakataṁ kammaṁ karoti kāyena vā vācāya vā manasā vā, tassa vipākaṁ anubhoti diṭṭhe vā dhamme upapajje vā apare vā pariyāye”ti."
+    },
+    {
+      "id": "ne9:36.4",
+      "pali": "Idaṁ bhagavato pubbāparena yujjati."
+    },
+    {
+      "id": "ne9:36.5",
+      "pali": "Tattha pariyuṭṭhānaṁ diṭṭhadhammavedanīyaṁ vā kammaṁ upapajjavedanīyaṁ vā kammaṁ aparāpariyāyavedanīyaṁ vā kammaṁ, evaṁ kammaṁ tidhā vipaccati diṭṭhe vā dhamme upapajje vā apare vā pariyāye."
+    },
+    {
+      "id": "ne9:36.6",
+      "pali": "Yathāha—"
+    },
+    {
+      "id": "ne9:37.1",
+      "pali": "“Yañce bālo idha pāṇātipātī hoti …pe…"
+    },
+    {
+      "id": "ne9:37.2",
+      "pali": "micchādiṭṭhi hoti, tassa diṭṭhe vā dhamme vipākaṁ paṭisaṁvedeti upapajje vā apare vā pariyāye”ti."
+    },
+    {
+      "id": "ne9:37.3",
+      "pali": "Idaṁ bhagavato pubbāparena yujjati."
+    },
+    {
+      "id": "ne9:37.4",
+      "pali": "Tattha pariyuṭṭhānaṁ paṭisaṅkhānabalena pahātabbaṁ, saṅkhārā dassanabalena, chattiṁsa taṇhāvicaritāni bhāvanābalena pahātabbānīti evaṁ taṇhāpi tidhā pahīyati."
+    },
+    {
+      "id": "ne9:37.5",
+      "pali": "Yā nittaṇhātā ayaṁ saupādisesā nibbānadhātu."
+    },
+    {
+      "id": "ne9:37.6",
+      "pali": "Bhedā kāyassa ayaṁ anupādisesā nibbānadhātu."
+    },
+    {
+      "id": "ne9:38.1",
+      "pali": "Papañco nāma vuccati anubandho."
+    },
+    {
+      "id": "ne9:38.2",
+      "pali": "Yañcāha bhagavā “papañceti atītānāgatapaccuppannaṁ cakkhuviññeyyaṁ rūpaṁ ārabbhā”ti."
+    },
+    {
+      "id": "ne9:38.3",
+      "pali": "Yañcāha bhagavā—"
+    },
+    {
+      "id": "ne9:38.4",
+      "pali": "“atīte, rādha, rūpe anapekkho hohi, anāgataṁ rūpaṁ mā abhinandi, paccuppannassa rūpassa nibbidāya virāgāya nirodhāya paṭinissaggāya paṭipajjā”ti."
+    },
+    {
+      "id": "ne9:38.5",
+      "pali": "Idaṁ bhagavato pubbāparena yujjati."
+    },
+    {
+      "id": "ne9:38.6",
+      "pali": "Yo cāpi papañco ye ca saṅkhārā yā ca atītānāgatapaccuppannassa abhinandanā, idaṁ ekatthaṁ."
+    },
+    {
+      "id": "ne9:38.7",
+      "pali": "Api ca aññamaññehi padehi aññamaññehi akkharehi aññamaññehi byañjanehi aparimāṇā dhammadesanā vuttā bhagavatā."
+    },
+    {
+      "id": "ne9:38.8",
+      "pali": "Evaṁ suttena suttaṁ saṁsandayitvā pubbāparena saddhiṁ yojayitvā suttaṁ niddiṭṭhaṁ bhavati."
+    },
+    {
+      "id": "ne9:39.1",
+      "pali": "So cāyaṁ pubbāparo sandhi catubbidho atthasandhi byañjanasandhi desanāsandhi niddesasandhīti."
+    },
+    {
+      "id": "ne9:40.1",
+      "pali": "Tattha atthasandhi chappadāni saṅkāsanā pakāsanā vivaraṇā vibhajanā uttānīkammatā paññattīti."
+    },
+    {
+      "id": "ne9:41.1",
+      "pali": "Byañjanasandhi chappadāni akkharaṁ padaṁ byañjanaṁ ākāro nirutti niddesoti."
+    },
+    {
+      "id": "ne9:42.1",
+      "pali": "Desanāsandhi na ca pathaviṁ nissāya jhāyati jhāyī jhāyati ca."
+    },
+    {
+      "id": "ne9:42.2",
+      "pali": "Na ca āpaṁ nissāya jhāyati jhāyī jhāyati ca, na ca tejaṁ nissāya jhāyati jhāyī jhāyati ca, na ca vāyuṁ nissāya jhāyati jhāyī jhāyati ca …pe… na ca ākāsānañcāyatanaṁ nissāya … na ca viññāṇañcāyatanaṁ nissāya … na ca ākiñcaññāyatanaṁ nissāya … na ca nevasaññānāsaññāyatanaṁ nissāya … na ca imaṁ lokaṁ nissāya … na ca paralokaṁ nissāya jhāyati jhāyī jhāyati ca."
+    },
+    {
+      "id": "ne9:42.3",
+      "pali": "Yamidaṁ ubhayamantarena diṭṭhaṁ sutaṁ mutaṁ viññātaṁ pattaṁ pariyesitaṁ vitakkitaṁ vicāritaṁ manasānucintitaṁ, tampi nissāya na jhāyati jhāyī jhāyati ca."
+    },
+    {
+      "id": "ne9:42.4",
+      "pali": "Ayaṁ sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anissitena cittena na ñāyati jhāyanto."
+    },
+    {
+      "id": "ne9:43.1",
+      "pali": "Yathā māro pāpimā godhikassa kulaputtassa viññāṇaṁ samanvesanto na jānāti na passati."
+    },
+    {
+      "id": "ne9:43.2",
+      "pali": "So hi papañcātīto taṇhāpahānena diṭṭhinissayopissa natthi."
+    },
+    {
+      "id": "ne9:43.3",
+      "pali": "Yathā ca godhikassa, evaṁ vakkalissa sadevakena lokena samārakena sabrahmakena sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anissitacittā na ñāyanti jhāyamānā."
+    },
+    {
+      "id": "ne9:43.4",
+      "pali": "Ayaṁ desanāsandhi."
+    },
+    {
+      "id": "ne9:44.1",
+      "pali": "Tattha katamā niddesasandhi?"
+    },
+    {
+      "id": "ne9:44.2",
+      "pali": "Nissitacittā akusalapakkhena niddisitabbā, anissitacittā kusalapakkhena niddisitabbā."
+    },
+    {
+      "id": "ne9:44.3",
+      "pali": "Nissitacittā kilesena niddisitabbā, anissitacittā vodānena niddisitabbā."
+    },
+    {
+      "id": "ne9:44.4",
+      "pali": "Nissitacittā saṁsārappavattiyā niddisitabbā, anissitacittā saṁsāranivattiyā niddisitabbā."
+    },
+    {
+      "id": "ne9:44.5",
+      "pali": "Nissitacittā taṇhāya ca avijjāya ca niddisitabbā, anissitacittā samathena ca vipassanāya ca niddisitabbā."
+    },
+    {
+      "id": "ne9:44.6",
+      "pali": "Nissitacittā ahirikena ca anottappena ca niddisitabbā, anissitacittā hiriyā ca ottappena ca niddisitabbā."
+    },
+    {
+      "id": "ne9:44.7",
+      "pali": "Nissitacittā asatiyā ca asampajaññena ca niddisitabbā, anissitacittā satiyā ca sampajaññena ca niddisitabbā."
+    },
+    {
+      "id": "ne9:44.8",
+      "pali": "Nissitacittā ayoniyā ca ayonisomanasikārena ca niddisitabbā, anissitacittā yoniyā ca yonisomanasikārena ca niddisitabbā."
+    },
+    {
+      "id": "ne9:44.9",
+      "pali": "Nissitacittā kosajjena ca dovacassena ca niddisitabbā, anissitacittā vīriyārambhena ca sovacassena ca niddisitabbā."
+    },
+    {
+      "id": "ne9:44.10",
+      "pali": "Nissitacittā assaddhiyena ca pamādena ca niddisitabbā, anissitacittā saddhāya ca appamādena ca niddisitabbā."
+    },
+    {
+      "id": "ne9:44.11",
+      "pali": "Nissitacittā asaddhammassavanena ca asaṁvaraṇena ca niddisitabbā, anissitacittā saddhammassavanena ca saṁvarena ca niddisitabbā."
+    },
+    {
+      "id": "ne9:44.12",
+      "pali": "Nissitacittā abhijjhāya ca byāpādena ca niddisitabbā, anissitacittā anabhijjhāya ca abyāpādena ca niddisitabbā."
+    },
+    {
+      "id": "ne9:44.13",
+      "pali": "Nissitacittā nīvaraṇehi ca saṁyojaniyehi ca niddisitabbā, anissitacittā rāgavirāgāya ca cetovimuttiyā avijjāvirāgāya ca paññāvimuttiyā niddisitabbā."
+    },
+    {
+      "id": "ne9:44.14",
+      "pali": "Nissitacittā ucchedadiṭṭhiyā ca sassatadiṭṭhiyā ca niddisitabbā, anissitacittā saupādisesāya ca anupādisesāya ca nibbānadhātuyā niddisitabbā."
+    },
+    {
+      "id": "ne9:44.15",
+      "pali": "Ayaṁ niddesasandhi."
+    },
+    {
+      "id": "ne9:44.16",
+      "pali": "Tenāha āyasmā mahākaccāyano “neruttamadhippāyo”ti."
+    },
+    {
+      "id": "ne9:44.17",
+      "pali": "Niyutto catubyūho hāro."
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "uid": "snp3.5",
+  "title": "Māghasutta",
+  "nikaya": "sn",
+  "segments": [
+    {
+      "id": "snp3.5:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "snp3.5:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate."
+    },
+    {
+      "id": "snp3.5:1.3",
+      "pali": "Atha kho māgho māṇavo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "snp3.5:1.4",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "snp3.5:1.5",
+      "pali": "Ekamantaṁ nisinno kho māgho māṇavo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "snp3.5:2.1",
+      "pali": "“Ahañhi, bho gotama, dāyako dānapati vadaññū yācayogo;"
+    },
+    {
+      "id": "snp3.5:2.2",
+      "pali": "dhammena bhoge pariyesāmi;"
+    },
+    {
+      "id": "snp3.5:2.3",
+      "pali": "dhammena bhoge pariyesitvā dhammaladdhehi bhogehi dhammādhigatehi ekassapi dadāmi dvinnampi tiṇṇampi catunnampi pañcannampi channampi sattannampi aṭṭhannampi navannampi dasannampi dadāmi, vīsāyapi tiṁsāyapi cattālīsāyapi paññāsāyapi dadāmi, satassapi dadāmi, bhiyyopi dadāmi."
+    },
+    {
+      "id": "snp3.5:2.4",
+      "pali": "Kaccāhaṁ, bho gotama, evaṁ dadanto evaṁ yajanto bahuṁ puññaṁ pasavāmī”ti?"
+    },
+    {
+      "id": "snp3.5:3.1",
+      "pali": "“Taggha tvaṁ, māṇava, evaṁ dadanto evaṁ yajanto bahuṁ puññaṁ pasavasi."
+    },
+    {
+      "id": "snp3.5:3.2",
+      "pali": "Yo kho, māṇava, dāyako dānapati vadaññū yācayogo;"
+    },
+    {
+      "id": "snp3.5:3.3",
+      "pali": "dhammena bhoge pariyesati;"
+    },
+    {
+      "id": "snp3.5:3.4",
+      "pali": "dhammena bhoge pariyesitvā dhammaladdhehi bhogehi dhammādhigatehi ekassapi dadāti …pe… satassapi dadāti, bhiyyopi dadāti, bahuṁ so puññaṁ pasavatī”ti."
+    },
+    {
+      "id": "snp3.5:3.5",
+      "pali": "Atha kho māgho māṇavo bhagavantaṁ gāthāya ajjhabhāsi—"
+    },
+    {
+      "id": "snp3.5:4.1",
+      "pali": "“Pucchāmahaṁ gotamaṁ vadaññuṁ,"
+    },
+    {
+      "id": "snp3.5:4.2",
+      "pali": "(iti māgho māṇavo)"
+    },
+    {
+      "id": "snp3.5:4.3",
+      "pali": "Kāsāyavāsiṁ agahaṁ carantaṁ;"
+    },
+    {
+      "id": "snp3.5:4.4",
+      "pali": "Yo yācayogo dānapati gahaṭṭho,"
+    },
+    {
+      "id": "snp3.5:4.5",
+      "pali": "Puññatthiko yajati puññapekkho;"
+    },
+    {
+      "id": "snp3.5:4.6",
+      "pali": "Dadaṁ paresaṁ idha annapānaṁ,"
+    },
+    {
+      "id": "snp3.5:4.7",
+      "pali": "Kathaṁ hutaṁ yajamānassa sujjhe”."
+    },
+    {
+      "id": "snp3.5:5.1",
+      "pali": "“Yo yācayogo dānapati gahaṭṭho,"
+    },
+    {
+      "id": "snp3.5:5.2",
+      "pali": "(māghāti bhagavā)"
+    },
+    {
+      "id": "snp3.5:5.3",
+      "pali": "Puññatthiko yajati puññapekkho;"
+    },
+    {
+      "id": "snp3.5:5.4",
+      "pali": "Dadaṁ paresaṁ idha annapānaṁ,"
+    },
+    {
+      "id": "snp3.5:5.5",
+      "pali": "Ārādhaye dakkhiṇeyyebhi tādi”."
+    },
+    {
+      "id": "snp3.5:6.1",
+      "pali": "“Yo yācayogo dānapati gahaṭṭho,"
+    },
+    {
+      "id": "snp3.5:6.2",
+      "pali": "(iti māgho māṇavo)"
+    },
+    {
+      "id": "snp3.5:6.3",
+      "pali": "Puññatthiko yajati puññapekkho;"
+    },
+    {
+      "id": "snp3.5:6.4",
+      "pali": "Dadaṁ paresaṁ idha annapānaṁ,"
+    },
+    {
+      "id": "snp3.5:6.5",
+      "pali": "Akkhāhi me bhagavā dakkhiṇeyye”."
+    },
+    {
+      "id": "snp3.5:7.1",
+      "pali": "“Ye ve asattā vicaranti loke,"
+    },
+    {
+      "id": "snp3.5:7.2",
+      "pali": "Akiñcanā kevalino yatattā;"
+    },
+    {
+      "id": "snp3.5:7.3",
+      "pali": "Kālena tesu habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:7.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha."
+    },
+    {
+      "id": "snp3.5:8.1",
+      "pali": "Ye sabbasaṁyojanabandhanacchidā,"
+    },
+    {
+      "id": "snp3.5:8.2",
+      "pali": "Dantā vimuttā anīghā nirāsā;"
+    },
+    {
+      "id": "snp3.5:8.3",
+      "pali": "Kālena tesu habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:8.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha."
+    },
+    {
+      "id": "snp3.5:9.1",
+      "pali": "Ye sabbasaṁyojanavippamuttā,"
+    },
+    {
+      "id": "snp3.5:9.2",
+      "pali": "Dantā vimuttā anīghā nirāsā;"
+    },
+    {
+      "id": "snp3.5:9.3",
+      "pali": "Kālena tesu habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:9.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha."
+    },
+    {
+      "id": "snp3.5:10.1",
+      "pali": "Rāgañca dosañca pahāya mohaṁ,"
+    },
+    {
+      "id": "snp3.5:10.2",
+      "pali": "Khīṇāsavā vūsitabrahmacariyā;"
+    },
+    {
+      "id": "snp3.5:10.3",
+      "pali": "Kālena tesu habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:10.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha."
+    },
+    {
+      "id": "snp3.5:11.1",
+      "pali": "Yesu na māyā vasati na māno,"
+    },
+    {
+      "id": "snp3.5:11.2",
+      "pali": "Khīṇāsavā vūsitabrahmacariyā;"
+    },
+    {
+      "id": "snp3.5:11.3",
+      "pali": "Kālena tesu habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:11.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha."
+    },
+    {
+      "id": "snp3.5:12.1",
+      "pali": "Ye vītalobhā amamā nirāsā,"
+    },
+    {
+      "id": "snp3.5:12.2",
+      "pali": "Khīṇāsavā vūsitabrahmacariyā;"
+    },
+    {
+      "id": "snp3.5:12.3",
+      "pali": "Kālena tesu habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:12.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha."
+    },
+    {
+      "id": "snp3.5:13.1",
+      "pali": "Ye ve na taṇhāsu upātipannā,"
+    },
+    {
+      "id": "snp3.5:13.2",
+      "pali": "Vitareyya oghaṁ amamā caranti;"
+    },
+    {
+      "id": "snp3.5:13.3",
+      "pali": "Kālena tesu habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:13.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha."
+    },
+    {
+      "id": "snp3.5:14.1",
+      "pali": "Yesaṁ taṇhā natthi kuhiñci loke,"
+    },
+    {
+      "id": "snp3.5:14.2",
+      "pali": "Bhavābhavāya idha vā huraṁ vā;"
+    },
+    {
+      "id": "snp3.5:14.3",
+      "pali": "Kālena tesu habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:14.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha."
+    },
+    {
+      "id": "snp3.5:15.1",
+      "pali": "Ye kāme hitvā agahā caranti,"
+    },
+    {
+      "id": "snp3.5:15.2",
+      "pali": "Susaññatattā tasaraṁva ujjuṁ;"
+    },
+    {
+      "id": "snp3.5:15.3",
+      "pali": "Kālena tesu habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:15.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha."
+    },
+    {
+      "id": "snp3.5:16.1",
+      "pali": "Ye vītarāgā susamāhitindriyā,"
+    },
+    {
+      "id": "snp3.5:16.2",
+      "pali": "Candova rāhuggahaṇā pamuttā;"
+    },
+    {
+      "id": "snp3.5:16.3",
+      "pali": "Kālena tesu habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:16.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha."
+    },
+    {
+      "id": "snp3.5:17.1",
+      "pali": "Samitāvino vītarāgā akopā,"
+    },
+    {
+      "id": "snp3.5:17.2",
+      "pali": "Yesaṁ gatī natthidha vippahāya;"
+    },
+    {
+      "id": "snp3.5:17.3",
+      "pali": "Kālena tesu habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:17.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha."
+    },
+    {
+      "id": "snp3.5:18.1",
+      "pali": "Jahitvā jātimaraṇaṁ asesaṁ,"
+    },
+    {
+      "id": "snp3.5:18.2",
+      "pali": "Kathaṅkathiṁ sabbamupātivattā;"
+    },
+    {
+      "id": "snp3.5:18.3",
+      "pali": "Kālena tesu habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:18.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha."
+    },
+    {
+      "id": "snp3.5:19.1",
+      "pali": "Ye attadīpā vicaranti loke,"
+    },
+    {
+      "id": "snp3.5:19.2",
+      "pali": "Akiñcanā sabbadhi vippamuttā;"
+    },
+    {
+      "id": "snp3.5:19.3",
+      "pali": "Kālena tesu habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:19.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha."
+    },
+    {
+      "id": "snp3.5:20.1",
+      "pali": "Ye hettha jānanti yathā tathā idaṁ,"
+    },
+    {
+      "id": "snp3.5:20.2",
+      "pali": "Ayamantimā natthi punabbhavoti;"
+    },
+    {
+      "id": "snp3.5:20.3",
+      "pali": "Kālena tesu habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:20.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha."
+    },
+    {
+      "id": "snp3.5:21.1",
+      "pali": "Yo vedagū jhānarato satīmā,"
+    },
+    {
+      "id": "snp3.5:21.2",
+      "pali": "Sambodhipatto saraṇaṁ bahūnaṁ;"
+    },
+    {
+      "id": "snp3.5:21.3",
+      "pali": "Kālena tamhi habyaṁ pavecche,"
+    },
+    {
+      "id": "snp3.5:21.4",
+      "pali": "Yo brāhmaṇo puññapekkho yajetha”."
+    },
+    {
+      "id": "snp3.5:22.1",
+      "pali": "“Addhā amoghā mama pucchanā ahu,"
+    },
+    {
+      "id": "snp3.5:22.2",
+      "pali": "(iti māgho māṇavo)"
+    },
+    {
+      "id": "snp3.5:22.3",
+      "pali": "Akkhāsi me bhagavā dakkhiṇeyye;"
+    },
+    {
+      "id": "snp3.5:22.4",
+      "pali": "Tvañhettha jānāsi yathā tathā idaṁ,"
+    },
+    {
+      "id": "snp3.5:22.5",
+      "pali": "Tathā hi te vidito esa dhammo."
+    },
+    {
+      "id": "snp3.5:23.1",
+      "pali": "Yo yācayogo dānapati gahaṭṭho,"
+    },
+    {
+      "id": "snp3.5:23.2",
+      "pali": "Puññatthiko yajati puññapekkho;"
+    },
+    {
+      "id": "snp3.5:23.3",
+      "pali": "Dadaṁ paresaṁ idha annapānaṁ,"
+    },
+    {
+      "id": "snp3.5:23.4",
+      "pali": "Akkhāhi me bhagavā yaññasampadaṁ”."
+    },
+    {
+      "id": "snp3.5:24.1",
+      "pali": "“Yajassu yajamāno,"
+    },
+    {
+      "id": "snp3.5:24.2",
+      "pali": "(māghāti bhagavā)"
+    },
+    {
+      "id": "snp3.5:24.3",
+      "pali": "Sabbattha ca vippasādehi cittaṁ;"
+    },
+    {
+      "id": "snp3.5:24.4",
+      "pali": "Ārammaṇaṁ yajamānassa yañño,"
+    },
+    {
+      "id": "snp3.5:24.5",
+      "pali": "Ettha patiṭṭhāya jahāti dosaṁ."
+    },
+    {
+      "id": "snp3.5:25.1",
+      "pali": "So vītarāgo pavineyya dosaṁ,"
+    },
+    {
+      "id": "snp3.5:25.2",
+      "pali": "Mettaṁ cittaṁ bhāvayamappamāṇaṁ;"
+    },
+    {
+      "id": "snp3.5:25.3",
+      "pali": "Rattindivaṁ satatamappamatto,"
+    },
+    {
+      "id": "snp3.5:25.4",
+      "pali": "Sabbā disā pharati appamaññaṁ”."
+    },
+    {
+      "id": "snp3.5:26.1",
+      "pali": "“Ko sujjhati muccati bajjhatī ca,"
+    },
+    {
+      "id": "snp3.5:26.2",
+      "pali": "Kenattanā gacchati brahmalokaṁ;"
+    },
+    {
+      "id": "snp3.5:26.3",
+      "pali": "Ajānato me muni brūhi puṭṭho,"
+    },
+    {
+      "id": "snp3.5:26.4",
+      "pali": "Bhagavā hi me sakkhi brahmajjadiṭṭho;"
+    },
+    {
+      "id": "snp3.5:26.5",
+      "pali": "Tuvañhi no brahmasamosi saccaṁ,"
+    },
+    {
+      "id": "snp3.5:26.6",
+      "pali": "Kathaṁ upapajjati brahmalokaṁ jutima”."
+    },
+    {
+      "id": "snp3.5:27.1",
+      "pali": "“Yo yajati tividhaṁ yaññasampadaṁ,"
+    },
+    {
+      "id": "snp3.5:27.2",
+      "pali": "(māghāti bhagavā)"
+    },
+    {
+      "id": "snp3.5:27.3",
+      "pali": "Ārādhaye dakkhiṇeyyebhi tādi;"
+    },
+    {
+      "id": "snp3.5:27.4",
+      "pali": "Evaṁ yajitvā sammā yācayogo,"
+    },
+    {
+      "id": "snp3.5:27.5",
+      "pali": "Upapajjati brahmalokanti brūmī”ti."
+    },
+    {
+      "id": "snp3.5:28.1",
+      "pali": "Evaṁ vutte, māgho māṇavo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "snp3.5:28.2",
+      "pali": "“abhikkantaṁ, bho gotama …pe…"
+    },
+    {
+      "id": "snp3.5:28.3",
+      "pali": "ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti."
+    },
+    {
+      "id": "snp3.5:28.4",
+      "pali": "Māghasuttaṁ pañcamaṁ."
+    }
+  ]
+}

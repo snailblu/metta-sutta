@@ -1,0 +1,2211 @@
+{
+  "uid": "mn85",
+  "title": "Bodhirājakumārasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn85:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn85:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā bhaggesu viharati susumāragire bhesakaḷāvane migadāye."
+    },
+    {
+      "id": "mn85:2.1",
+      "pali": "Tena kho pana samayena bodhissa rājakumārassa kokanado nāma pāsādo acirakārito hoti anajjhāvuṭṭho samaṇena vā brāhmaṇena vā kenaci vā manussabhūtena."
+    },
+    {
+      "id": "mn85:3.1",
+      "pali": "Atha kho bodhi rājakumāro sañjikāputtaṁ māṇavaṁ āmantesi:"
+    },
+    {
+      "id": "mn85:3.2",
+      "pali": "“ehi tvaṁ, samma sañjikāputta, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vanda, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha:"
+    },
+    {
+      "id": "mn85:3.3",
+      "pali": "‘bodhi, bhante, rājakumāro bhagavato pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’ti."
+    },
+    {
+      "id": "mn85:3.4",
+      "pali": "Evañca vadehi:"
+    },
+    {
+      "id": "mn85:3.5",
+      "pali": "‘adhivāsetu kira, bhante, bhagavā bodhissa rājakumārassa svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā’”ti."
+    },
+    {
+      "id": "mn85:4.1",
+      "pali": "“Evaṁ, bho”ti kho sañjikāputto māṇavo bodhissa rājakumārassa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn85:4.2",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho sañjikāputto māṇavo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn85:4.3",
+      "pali": "“bodhi kho rājakumāro bhoto gotamassa pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati."
+    },
+    {
+      "id": "mn85:4.4",
+      "pali": "Evañca vadeti:"
+    },
+    {
+      "id": "mn85:4.5",
+      "pali": "‘adhivāsetu kira bhavaṁ gotamo bodhissa rājakumārassa svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā’”ti."
+    },
+    {
+      "id": "mn85:4.6",
+      "pali": "Adhivāsesi bhagavā tuṇhībhāvena."
+    },
+    {
+      "id": "mn85:4.7",
+      "pali": "Atha kho sañjikāputto māṇavo bhagavato adhivāsanaṁ viditvā uṭṭhāyāsanā yena bodhi rājakumāro tenupasaṅkami; upasaṅkamitvā bodhiṁ rājakumāraṁ etadavoca:"
+    },
+    {
+      "id": "mn85:4.8",
+      "pali": "“avocumha bhoto vacanena taṁ bhavantaṁ gotamaṁ:"
+    },
+    {
+      "id": "mn85:4.9",
+      "pali": "‘bodhi kho rājakumāro bhoto gotamassa pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati."
+    },
+    {
+      "id": "mn85:4.10",
+      "pali": "Evañca vadeti—"
+    },
+    {
+      "id": "mn85:4.11",
+      "pali": "adhivāsetu kira bhavaṁ gotamo bodhissa rājakumārassa svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā’ti."
+    },
+    {
+      "id": "mn85:4.12",
+      "pali": "Adhivuṭṭhañca pana samaṇena gotamenā”ti."
+    },
+    {
+      "id": "mn85:5.1",
+      "pali": "Atha kho bodhi rājakumāro tassā rattiyā accayena sake nivesane paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā, kokanadañca pāsādaṁ odātehi dussehi santharāpetvā yāva pacchimasopānakaḷevarā, sañjikāputtaṁ māṇavaṁ āmantesi:"
+    },
+    {
+      "id": "mn85:5.2",
+      "pali": "“ehi tvaṁ, samma sañjikāputta, yena bhagavā tenupasaṅkama; upasaṅkamitvā bhagavato kālaṁ ārocehi:"
+    },
+    {
+      "id": "mn85:5.3",
+      "pali": "‘kālo, bhante, niṭṭhitaṁ bhattan’”ti."
+    },
+    {
+      "id": "mn85:5.4",
+      "pali": "“Evaṁ, bho”ti kho sañjikāputto māṇavo bodhissa rājakumārassa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato kālaṁ ārocesi:"
+    },
+    {
+      "id": "mn85:5.5",
+      "pali": "“kālo, bho gotama, niṭṭhitaṁ bhattan”ti."
+    },
+    {
+      "id": "mn85:6.1",
+      "pali": "Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena bodhissa rājakumārassa nivesanaṁ tenupasaṅkami."
+    },
+    {
+      "id": "mn85:7.1",
+      "pali": "Tena kho pana samayena bodhi rājakumāro bahidvārakoṭṭhake ṭhito hoti bhagavantaṁ āgamayamāno."
+    },
+    {
+      "id": "mn85:7.2",
+      "pali": "Addasā kho bodhi rājakumāro bhagavantaṁ dūratova āgacchantaṁ."
+    },
+    {
+      "id": "mn85:7.3",
+      "pali": "Disvāna paccuggantvā bhagavantaṁ abhivādetvā purakkhatvā yena kokanado pāsādo tenupasaṅkami."
+    },
+    {
+      "id": "mn85:7.4",
+      "pali": "Atha kho bhagavā pacchimaṁ sopānakaḷevaraṁ nissāya aṭṭhāsi."
+    },
+    {
+      "id": "mn85:7.5",
+      "pali": "Atha kho bodhi rājakumāro bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn85:7.6",
+      "pali": "“abhiruhatu, bhante, bhagavā dussāni, abhiruhatu sugato dussāni;"
+    },
+    {
+      "id": "mn85:7.7",
+      "pali": "yaṁ mama assa dīgharattaṁ hitāya sukhāyā”ti."
+    },
+    {
+      "id": "mn85:7.8",
+      "pali": "Evaṁ vutte, bhagavā tuṇhī ahosi."
+    },
+    {
+      "id": "mn85:7.9",
+      "pali": "Dutiyampi kho …pe…"
+    },
+    {
+      "id": "mn85:7.10",
+      "pali": "tatiyampi kho bodhi rājakumāro bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn85:7.11",
+      "pali": "“abhiruhatu, bhante, bhagavā dussāni, abhiruhatu sugato dussāni;"
+    },
+    {
+      "id": "mn85:7.12",
+      "pali": "yaṁ mama assa dīgharattaṁ hitāya sukhāyā”ti."
+    },
+    {
+      "id": "mn85:7.13",
+      "pali": "Atha kho bhagavā āyasmantaṁ ānandaṁ apalokesi."
+    },
+    {
+      "id": "mn85:7.14",
+      "pali": "Atha kho āyasmā ānando bodhiṁ rājakumāraṁ etadavoca:"
+    },
+    {
+      "id": "mn85:7.15",
+      "pali": "“saṁharatu, rājakumāra, dussāni;"
+    },
+    {
+      "id": "mn85:7.16",
+      "pali": "na bhagavā celapaṭikaṁ akkamissati."
+    },
+    {
+      "id": "mn85:7.17",
+      "pali": "Pacchimaṁ janataṁ tathāgato anukampatī”ti."
+    },
+    {
+      "id": "mn85:8.1",
+      "pali": "Atha kho bodhi rājakumāro dussāni saṁharāpetvā uparikokanadapāsāde āsanāni paññapesi."
+    },
+    {
+      "id": "mn85:8.2",
+      "pali": "Atha kho bhagavā kokanadaṁ pāsādaṁ abhiruhitvā paññatte āsane nisīdi saddhiṁ bhikkhusaṅghena."
+    },
+    {
+      "id": "mn85:9.1",
+      "pali": "Atha kho bodhi rājakumāro buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi."
+    },
+    {
+      "id": "mn85:9.2",
+      "pali": "Atha kho bodhi rājakumāro bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "mn85:9.3",
+      "pali": "Ekamantaṁ nisinno kho bodhi rājakumāro bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn85:9.4",
+      "pali": "“mayhaṁ kho, bhante, evaṁ hoti:"
+    },
+    {
+      "id": "mn85:9.5",
+      "pali": "‘na kho sukhena sukhaṁ adhigantabbaṁ, dukkhena kho sukhaṁ adhigantabban’”ti."
+    },
+    {
+      "id": "mn85:10.1",
+      "pali": "“Mayhampi kho, rājakumāra, pubbeva sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi:"
+    },
+    {
+      "id": "mn85:10.2",
+      "pali": "‘na kho sukhena sukhaṁ adhigantabbaṁ, dukkhena kho sukhaṁ adhigantabban’ti."
+    },
+    {
+      "id": "mn85:11.1",
+      "pali": "So kho ahaṁ, rājakumāra, aparena samayena daharova samāno susukāḷakeso bhadrena yobbanena samannāgato paṭhamena vayasā akāmakānaṁ mātāpitūnaṁ assumukhānaṁ rudantānaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajiṁ."
+    },
+    {
+      "id": "mn85:11.2",
+      "pali": "So evaṁ pabbajito samāno kiṅkusalagavesī anuttaraṁ santivarapadaṁ pariyesamāno yena āḷāro kālāmo tenupasaṅkamiṁ; upasaṅkamitvā āḷāraṁ kālāmaṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn85:11.3",
+      "pali": "‘icchāmahaṁ, āvuso kālāma, imasmiṁ dhammavinaye brahmacariyaṁ caritun’ti."
+    },
+    {
+      "id": "mn85:11.4",
+      "pali": "Evaṁ vutte, rājakumāra, āḷāro kālāmo maṁ etadavoca:"
+    },
+    {
+      "id": "mn85:11.5",
+      "pali": "‘viharatāyasmā,"
+    },
+    {
+      "id": "mn85:11.6",
+      "pali": "tādiso ayaṁ dhammo yattha viññū puriso nacirasseva sakaṁ ācariyakaṁ sayaṁ abhiññā sacchikatvā upasampajja vihareyyā’ti."
+    },
+    {
+      "id": "mn85:11.7",
+      "pali": "So kho ahaṁ, rājakumāra, nacirasseva khippameva taṁ dhammaṁ pariyāpuṇiṁ."
+    },
+    {
+      "id": "mn85:11.8",
+      "pali": "So kho ahaṁ, rājakumāra, tāvatakeneva oṭṭhapahatamattena lapitalāpanamattena ñāṇavādañca vadāmi, theravādañca jānāmi passāmīti ca paṭijānāmi, ahañceva aññe ca."
+    },
+    {
+      "id": "mn85:11.9",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:11.10",
+      "pali": "‘na kho āḷāro kālāmo imaṁ dhammaṁ kevalaṁ saddhāmattakena sayaṁ abhiññā sacchikatvā upasampajja viharāmīti pavedeti;"
+    },
+    {
+      "id": "mn85:11.11",
+      "pali": "addhā āḷāro kālāmo imaṁ dhammaṁ jānaṁ passaṁ viharatī’ti."
+    },
+    {
+      "id": "mn85:12.1",
+      "pali": "Atha khvāhaṁ, rājakumāra, yena āḷāro kālāmo tenupasaṅkamiṁ; upasaṅkamitvā āḷāraṁ kālāmaṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn85:12.2",
+      "pali": "‘kittāvatā no, āvuso kālāma, imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharāmīti pavedesī’ti?"
+    },
+    {
+      "id": "mn85:12.3",
+      "pali": "Evaṁ vutte, rājakumāra, āḷāro kālāmo ākiñcaññāyatanaṁ pavedesi."
+    },
+    {
+      "id": "mn85:12.4",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:12.5",
+      "pali": "‘na kho āḷārasseva kālāmassa atthi saddhā, mayhampatthi saddhā;"
+    },
+    {
+      "id": "mn85:12.6",
+      "pali": "na kho āḷārasseva kālāmassa atthi vīriyaṁ …pe…"
+    },
+    {
+      "id": "mn85:12.7",
+      "pali": "sati …"
+    },
+    {
+      "id": "mn85:12.8",
+      "pali": "samādhi …"
+    },
+    {
+      "id": "mn85:12.9",
+      "pali": "paññā, mayhampatthi paññā."
+    },
+    {
+      "id": "mn85:12.10",
+      "pali": "Yannūnāhaṁ yaṁ dhammaṁ āḷāro kālāmo sayaṁ abhiññā sacchikatvā upasampajja viharāmīti pavedeti tassa dhammassa sacchikiriyāya padaheyyan’ti."
+    },
+    {
+      "id": "mn85:12.11",
+      "pali": "So kho ahaṁ, rājakumāra, nacirasseva khippameva taṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja vihāsiṁ."
+    },
+    {
+      "id": "mn85:12.12",
+      "pali": "Atha khvāhaṁ, rājakumāra, yena āḷāro kālāmo tenupasaṅkamiṁ; upasaṅkamitvā āḷāraṁ kālāmaṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn85:12.13",
+      "pali": "‘ettāvatā no, āvuso kālāma, imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja pavedesī’ti?"
+    },
+    {
+      "id": "mn85:12.14",
+      "pali": "‘Ettāvatā kho ahaṁ, āvuso, imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja pavedemī’ti."
+    },
+    {
+      "id": "mn85:12.15",
+      "pali": "‘Ahampi kho, āvuso, ettāvatā imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharāmī’ti."
+    },
+    {
+      "id": "mn85:12.16",
+      "pali": "‘Lābhā no, āvuso, suladdhaṁ no, āvuso,"
+    },
+    {
+      "id": "mn85:12.17",
+      "pali": "ye mayaṁ āyasmantaṁ tādisaṁ sabrahmacāriṁ passāma."
+    },
+    {
+      "id": "mn85:12.18",
+      "pali": "Iti yāhaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja pavedemi, taṁ tvaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharasi."
+    },
+    {
+      "id": "mn85:12.19",
+      "pali": "Yaṁ tvaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharasi, tamahaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja pavedemi."
+    },
+    {
+      "id": "mn85:12.20",
+      "pali": "Iti yāhaṁ dhammaṁ jānāmi taṁ tvaṁ dhammaṁ jānāsi; yaṁ tvaṁ dhammaṁ jānāsi tamahaṁ dhammaṁ jānāmi."
+    },
+    {
+      "id": "mn85:12.21",
+      "pali": "Iti yādiso ahaṁ, tādiso tuvaṁ; yādiso tuvaṁ tādiso ahaṁ."
+    },
+    {
+      "id": "mn85:12.22",
+      "pali": "Ehi dāni, āvuso, ubhova santā imaṁ gaṇaṁ pariharāmā’ti."
+    },
+    {
+      "id": "mn85:12.23",
+      "pali": "Iti kho, rājakumāra, āḷāro kālāmo ācariyo me samāno attano antevāsiṁ maṁ samānaṁ attanā samasamaṁ ṭhapesi, uḷārāya ca maṁ pūjāya pūjesi."
+    },
+    {
+      "id": "mn85:12.24",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:12.25",
+      "pali": "‘nāyaṁ dhammo nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati, yāvadeva ākiñcaññāyatanūpapattiyā’ti."
+    },
+    {
+      "id": "mn85:12.26",
+      "pali": "So kho ahaṁ, rājakumāra, taṁ dhammaṁ analaṅkaritvā tasmā dhammā nibbijja apakkamiṁ."
+    },
+    {
+      "id": "mn85:12.27",
+      "pali": "So kho ahaṁ, rājakumāra, kiṅkusalagavesī anuttaraṁ santivarapadaṁ pariyesamāno yena udako rāmaputto tenupasaṅkamiṁ; upasaṅkamitvā udakaṁ rāmaputtaṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn85:12.28",
+      "pali": "‘icchāmahaṁ, āvuso, imasmiṁ dhammavinaye brahmacariyaṁ caritun’ti."
+    },
+    {
+      "id": "mn85:12.29",
+      "pali": "Evaṁ vutte, rājakumāra, udako rāmaputto maṁ etadavoca:"
+    },
+    {
+      "id": "mn85:12.30",
+      "pali": "‘viharatāyasmā,"
+    },
+    {
+      "id": "mn85:12.31",
+      "pali": "tādiso ayaṁ dhammo yattha viññū puriso nacirasseva sakaṁ ācariyakaṁ sayaṁ abhiññā sacchikatvā upasampajja vihareyyā’ti."
+    },
+    {
+      "id": "mn85:12.32",
+      "pali": "So kho ahaṁ, rājakumāra, nacirasseva khippameva taṁ dhammaṁ pariyāpuṇiṁ."
+    },
+    {
+      "id": "mn85:12.33",
+      "pali": "So kho ahaṁ, rājakumāra, tāvatakeneva oṭṭhapahatamattena lapitalāpanamattena ñāṇavādañca vadāmi, theravādañca jānāmi passāmīti ca paṭijānāmi, ahañceva aññe ca."
+    },
+    {
+      "id": "mn85:12.34",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:12.35",
+      "pali": "‘na kho rāmo imaṁ dhammaṁ kevalaṁ saddhāmattakena sayaṁ abhiññā sacchikatvā upasampajja viharāmīti pavedesi;"
+    },
+    {
+      "id": "mn85:12.36",
+      "pali": "addhā rāmo imaṁ dhammaṁ jānaṁ passaṁ vihāsī’ti."
+    },
+    {
+      "id": "mn85:13.1",
+      "pali": "Atha khvāhaṁ, rājakumāra, yena udako rāmaputto tenupasaṅkamiṁ; upasaṅkamitvā udakaṁ rāmaputtaṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn85:13.2",
+      "pali": "‘kittāvatā no, āvuso, rāmo imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharāmīti pavedesī’ti?"
+    },
+    {
+      "id": "mn85:13.3",
+      "pali": "Evaṁ vutte, rājakumāra, udako rāmaputto nevasaññānāsaññāyatanaṁ pavedesi."
+    },
+    {
+      "id": "mn85:13.4",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:13.5",
+      "pali": "‘na kho rāmasseva ahosi saddhā, mayhampatthi saddhā;"
+    },
+    {
+      "id": "mn85:13.6",
+      "pali": "na kho rāmasseva ahosi vīriyaṁ …pe…"
+    },
+    {
+      "id": "mn85:13.7",
+      "pali": "sati …"
+    },
+    {
+      "id": "mn85:13.8",
+      "pali": "samādhi …"
+    },
+    {
+      "id": "mn85:13.9",
+      "pali": "paññā, mayhampatthi paññā."
+    },
+    {
+      "id": "mn85:13.10",
+      "pali": "Yannūnāhaṁ yaṁ dhammaṁ rāmo sayaṁ abhiññā sacchikatvā upasampajja viharāmīti pavedeti tassa dhammassa sacchikiriyāya padaheyyan’ti."
+    },
+    {
+      "id": "mn85:13.11",
+      "pali": "So kho ahaṁ, rājakumāra, nacirasseva khippameva taṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja vihāsiṁ."
+    },
+    {
+      "id": "mn85:13.12",
+      "pali": "Atha khvāhaṁ, rājakumāra, yena udako rāmaputto tenupasaṅkamiṁ; upasaṅkamitvā udakaṁ rāmaputtaṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn85:13.13",
+      "pali": "‘ettāvatā no, āvuso, rāmo imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja pavedesī’ti?"
+    },
+    {
+      "id": "mn85:13.14",
+      "pali": "‘Ettāvatā kho, āvuso, rāmo imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja pavedesī’ti."
+    },
+    {
+      "id": "mn85:13.15",
+      "pali": "‘Ahampi kho, āvuso, ettāvatā imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharāmī’ti."
+    },
+    {
+      "id": "mn85:13.16",
+      "pali": "‘Lābhā no, āvuso, suladdhaṁ no, āvuso,"
+    },
+    {
+      "id": "mn85:13.17",
+      "pali": "ye mayaṁ āyasmantaṁ tādisaṁ sabrahmacāriṁ passāma."
+    },
+    {
+      "id": "mn85:13.18",
+      "pali": "Iti yaṁ dhammaṁ rāmo sayaṁ abhiññā sacchikatvā upasampajja pavedesi taṁ tvaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharasi."
+    },
+    {
+      "id": "mn85:13.19",
+      "pali": "Yaṁ tvaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharasi taṁ dhammaṁ rāmo sayaṁ abhiññā sacchikatvā upasampajja pavedesi."
+    },
+    {
+      "id": "mn85:13.20",
+      "pali": "Iti yaṁ dhammaṁ rāmo abhiññāsi taṁ tvaṁ dhammaṁ jānāsi; yaṁ tvaṁ dhammaṁ jānāsi taṁ dhammaṁ rāmo abhiññāsi."
+    },
+    {
+      "id": "mn85:13.21",
+      "pali": "Iti yādiso rāmo ahosi tādiso tuvaṁ, yādiso tuvaṁ tādiso rāmo ahosi."
+    },
+    {
+      "id": "mn85:13.22",
+      "pali": "Ehi dāni, āvuso, tuvaṁ imaṁ gaṇaṁ pariharā’ti."
+    },
+    {
+      "id": "mn85:13.23",
+      "pali": "Iti kho, rājakumāra, udako rāmaputto sabrahmacārī me samāno ācariyaṭṭhāne maṁ ṭhapesi, uḷārāya ca maṁ pūjāya pūjesi."
+    },
+    {
+      "id": "mn85:13.24",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:13.25",
+      "pali": "‘nāyaṁ dhammo nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati, yāvadeva nevasaññānāsaññāyatanūpapattiyā’ti."
+    },
+    {
+      "id": "mn85:13.26",
+      "pali": "So kho ahaṁ, rājakumāra, taṁ dhammaṁ analaṅkaritvā tasmā dhammā nibbijja apakkamiṁ."
+    },
+    {
+      "id": "mn85:14.1",
+      "pali": "So kho ahaṁ, rājakumāra, kiṅkusalagavesī anuttaraṁ santivarapadaṁ pariyesamāno, magadhesu anupubbena cārikaṁ caramāno, yena uruvelā senānigamo tadavasariṁ."
+    },
+    {
+      "id": "mn85:14.2",
+      "pali": "Tatthaddasaṁ ramaṇīyaṁ bhūmibhāgaṁ, pāsādikañca vanasaṇḍaṁ, nadiñca sandantiṁ setakaṁ supatitthaṁ, ramaṇīyaṁ samantā ca gocaragāmaṁ."
+    },
+    {
+      "id": "mn85:14.3",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:14.4",
+      "pali": "‘ramaṇīyo vata bho bhūmibhāgo, pāsādiko ca vanasaṇḍo, nadī ca sandati setakā supatitthā, ramaṇīyā samantā ca gocaragāmo."
+    },
+    {
+      "id": "mn85:14.5",
+      "pali": "Alaṁ vatidaṁ kulaputtassa padhānatthikassa padhānāyā’ti."
+    },
+    {
+      "id": "mn85:14.6",
+      "pali": "So kho ahaṁ, rājakumāra, tattheva nisīdiṁ:"
+    },
+    {
+      "id": "mn85:14.7",
+      "pali": "‘alamidaṁ padhānāyā’ti."
+    },
+    {
+      "id": "mn85:15.1",
+      "pali": "Apissu maṁ, rājakumāra, tisso upamā paṭibhaṁsu anacchariyā pubbe assutapubbā."
+    },
+    {
+      "id": "mn85:16.1",
+      "pali": "Seyyathāpi, rājakumāra, allaṁ kaṭṭhaṁ sasnehaṁ udake nikkhittaṁ."
+    },
+    {
+      "id": "mn85:16.2",
+      "pali": "Atha puriso āgaccheyya uttarāraṇiṁ ādāya:"
+    },
+    {
+      "id": "mn85:16.3",
+      "pali": "‘aggiṁ abhinibbattessāmi, tejo pātukarissāmī’ti."
+    },
+    {
+      "id": "mn85:16.4",
+      "pali": "Taṁ kiṁ maññasi, rājakumāra,"
+    },
+    {
+      "id": "mn85:16.5",
+      "pali": "api nu so puriso amuṁ allaṁ kaṭṭhaṁ sasnehaṁ udake nikkhittaṁ uttarāraṇiṁ ādāya abhimanthento aggiṁ abhinibbatteyya, tejo pātukareyyā”ti?"
+    },
+    {
+      "id": "mn85:16.6",
+      "pali": "“No hidaṁ, bhante."
+    },
+    {
+      "id": "mn85:16.7",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn85:16.8",
+      "pali": "Aduñhi, bhante, allaṁ kaṭṭhaṁ sasnehaṁ tañca pana udake nikkhittaṁ,"
+    },
+    {
+      "id": "mn85:16.9",
+      "pali": "yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti."
+    },
+    {
+      "id": "mn85:17.1",
+      "pali": "“Evameva kho, rājakumāra, ye hi keci samaṇā vā brāhmaṇā vā kāyena ceva cittena ca kāmehi avūpakaṭṭhā viharanti, yo ca nesaṁ kāmesu kāmacchando kāmasneho kāmamucchā kāmapipāsā kāmapariḷāho so ca ajjhattaṁ na suppahīno hoti, na suppaṭippassaddho."
+    },
+    {
+      "id": "mn85:17.2",
+      "pali": "Opakkamikā cepi te bhonto samaṇabrāhmaṇā dukkhā tibbā kharā kaṭukā vedanā vedayanti, abhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya."
+    },
+    {
+      "id": "mn85:17.3",
+      "pali": "No cepi te bhonto samaṇabrāhmaṇā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayanti, abhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya."
+    },
+    {
+      "id": "mn85:17.4",
+      "pali": "Ayaṁ kho maṁ, rājakumāra, paṭhamā upamā paṭibhāsi anacchariyā pubbe assutapubbā."
+    },
+    {
+      "id": "mn85:18.1",
+      "pali": "Aparāpi kho maṁ, rājakumāra, dutiyā upamā paṭibhāsi anacchariyā pubbe assutapubbā."
+    },
+    {
+      "id": "mn85:18.2",
+      "pali": "Seyyathāpi, rājakumāra, allaṁ kaṭṭhaṁ sasnehaṁ ārakā udakā thale nikkhittaṁ."
+    },
+    {
+      "id": "mn85:18.3",
+      "pali": "Atha puriso āgaccheyya uttarāraṇiṁ ādāya:"
+    },
+    {
+      "id": "mn85:18.4",
+      "pali": "‘aggiṁ abhinibbattessāmi, tejo pātukarissāmī’ti."
+    },
+    {
+      "id": "mn85:18.5",
+      "pali": "Taṁ kiṁ maññasi, rājakumāra,"
+    },
+    {
+      "id": "mn85:18.6",
+      "pali": "api nu so puriso amuṁ allaṁ kaṭṭhaṁ sasnehaṁ ārakā udakā thale nikkhittaṁ uttarāraṇiṁ ādāya abhimanthento aggiṁ abhinibbatteyya, tejo pātukareyyā”ti?"
+    },
+    {
+      "id": "mn85:18.7",
+      "pali": "“No hidaṁ, bhante."
+    },
+    {
+      "id": "mn85:18.8",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn85:18.9",
+      "pali": "Aduñhi, bhante, allaṁ kaṭṭhaṁ sasnehaṁ kiñcāpi ārakā udakā thale nikkhittaṁ,"
+    },
+    {
+      "id": "mn85:18.10",
+      "pali": "yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti."
+    },
+    {
+      "id": "mn85:18.11",
+      "pali": "“Evameva kho, rājakumāra, ye hi keci samaṇā vā brāhmaṇā vā kāyena ceva cittena ca kāmehi vūpakaṭṭhā viharanti, yo ca nesaṁ kāmesu kāmacchando kāmasneho kāmamucchā kāmapipāsā kāmapariḷāho so ca ajjhattaṁ na suppahīno hoti, na suppaṭippassaddho."
+    },
+    {
+      "id": "mn85:18.12",
+      "pali": "Opakkamikā cepi te bhonto samaṇabrāhmaṇā dukkhā tibbā kharā kaṭukā vedanā vedayanti, abhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya."
+    },
+    {
+      "id": "mn85:18.13",
+      "pali": "No cepi te bhonto samaṇabrāhmaṇā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayanti, abhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya."
+    },
+    {
+      "id": "mn85:18.14",
+      "pali": "Ayaṁ kho maṁ, rājakumāra, dutiyā upamā paṭibhāsi anacchariyā pubbe assutapubbā."
+    },
+    {
+      "id": "mn85:19.1",
+      "pali": "Aparāpi kho maṁ, rājakumāra, tatiyā upamā paṭibhāsi anacchariyā pubbe assutapubbā."
+    },
+    {
+      "id": "mn85:19.2",
+      "pali": "Seyyathāpi, rājakumāra, sukkhaṁ kaṭṭhaṁ koḷāpaṁ ārakā udakā thale nikkhittaṁ."
+    },
+    {
+      "id": "mn85:19.3",
+      "pali": "Atha puriso āgaccheyya uttarāraṇiṁ ādāya:"
+    },
+    {
+      "id": "mn85:19.4",
+      "pali": "‘aggiṁ abhinibbattessāmi, tejo pātukarissāmī’ti."
+    },
+    {
+      "id": "mn85:19.5",
+      "pali": "Taṁ kiṁ maññasi, rājakumāra,"
+    },
+    {
+      "id": "mn85:19.6",
+      "pali": "api nu so puriso amuṁ sukkhaṁ kaṭṭhaṁ koḷāpaṁ ārakā udakā thale nikkhittaṁ uttarāraṇiṁ ādāya abhimanthento aggiṁ abhinibbatteyya, tejo pātukareyyā”ti?"
+    },
+    {
+      "id": "mn85:19.7",
+      "pali": "“Evaṁ, bhante."
+    },
+    {
+      "id": "mn85:19.8",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn85:19.9",
+      "pali": "Aduñhi, bhante, sukkhaṁ kaṭṭhaṁ koḷāpaṁ, tañca pana ārakā udakā thale nikkhittan”ti."
+    },
+    {
+      "id": "mn85:19.10",
+      "pali": "“Evameva kho, rājakumāra, ye hi keci samaṇā vā brāhmaṇā vā kāyena ceva cittena ca kāmehi vūpakaṭṭhā viharanti, yo ca nesaṁ kāmesu kāmacchando kāmasneho kāmamucchā kāmapipāsā kāmapariḷāho so ca ajjhattaṁ suppahīno hoti suppaṭippassaddho."
+    },
+    {
+      "id": "mn85:19.11",
+      "pali": "Opakkamikā cepi te bhonto samaṇabrāhmaṇā dukkhā tibbā kharā kaṭukā vedanā vedayanti, bhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya."
+    },
+    {
+      "id": "mn85:19.12",
+      "pali": "No cepi te bhonto samaṇabrāhmaṇā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayanti, bhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya."
+    },
+    {
+      "id": "mn85:19.13",
+      "pali": "Ayaṁ kho maṁ, rājakumāra, tatiyā upamā paṭibhāsi anacchariyā pubbe assutapubbā."
+    },
+    {
+      "id": "mn85:19.14",
+      "pali": "Imā kho maṁ, rājakumāra, tisso upamā paṭibhaṁsu anacchariyā pubbe assutapubbā."
+    },
+    {
+      "id": "mn85:20.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:20.2",
+      "pali": "‘yannūnāhaṁ dantebhidantamādhāya, jivhāya tāluṁ āhacca, cetasā cittaṁ abhiniggaṇheyyaṁ abhinippīḷeyyaṁ abhisantāpeyyan’ti."
+    },
+    {
+      "id": "mn85:20.3",
+      "pali": "So kho ahaṁ, rājakumāra, dantebhidantamādhāya, jivhāya tāluṁ āhacca, cetasā cittaṁ abhiniggaṇhāmi abhinippīḷemi abhisantāpemi."
+    },
+    {
+      "id": "mn85:20.4",
+      "pali": "Tassa mayhaṁ, rājakumāra, dantebhidantamādhāya, jivhāya tāluṁ āhacca, cetasā cittaṁ abhiniggaṇhato abhinippīḷayato abhisantāpayato kacchehi sedā muccanti."
+    },
+    {
+      "id": "mn85:20.5",
+      "pali": "Seyyathāpi, rājakumāra, balavā puriso dubbalataraṁ purisaṁ sīse vā gahetvā khandhe vā gahetvā abhiniggaṇheyya abhinippīḷeyya abhisantāpeyya;"
+    },
+    {
+      "id": "mn85:20.6",
+      "pali": "evameva kho me, rājakumāra, dantebhidantamādhāya, jivhāya tāluṁ āhacca, cetasā cittaṁ abhiniggaṇhato abhinippīḷayato abhisantāpayato kacchehi sedā muccanti."
+    },
+    {
+      "id": "mn85:20.7",
+      "pali": "Āraddhaṁ kho pana me, rājakumāra, vīriyaṁ hoti asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato."
+    },
+    {
+      "id": "mn85:21.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:21.2",
+      "pali": "‘yannūnāhaṁ appāṇakaṁyeva jhānaṁ jhāyeyyan’ti."
+    },
+    {
+      "id": "mn85:21.3",
+      "pali": "So kho ahaṁ, rājakumāra, mukhato ca nāsato ca assāsapassāse uparundhiṁ."
+    },
+    {
+      "id": "mn85:21.4",
+      "pali": "Tassa mayhaṁ, rājakumāra, mukhato ca nāsato ca assāsapassāsesu uparuddhesu kaṇṇasotehi vātānaṁ nikkhamantānaṁ adhimatto saddo hoti."
+    },
+    {
+      "id": "mn85:21.5",
+      "pali": "Seyyathāpi nāma kammāragaggariyā dhamamānāya adhimatto saddo hoti;"
+    },
+    {
+      "id": "mn85:21.6",
+      "pali": "evameva kho me, rājakumāra, mukhato ca nāsato ca assāsapassāsesu uparuddhesu kaṇṇasotehi vātānaṁ nikkhamantānaṁ adhimatto saddo hoti."
+    },
+    {
+      "id": "mn85:21.7",
+      "pali": "Āraddhaṁ kho pana me, rājakumāra, vīriyaṁ hoti asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato."
+    },
+    {
+      "id": "mn85:22.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:22.2",
+      "pali": "‘yannūnāhaṁ appāṇakaṁyeva jhānaṁ jhāyeyyan’ti."
+    },
+    {
+      "id": "mn85:22.3",
+      "pali": "So kho ahaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāse uparundhiṁ."
+    },
+    {
+      "id": "mn85:22.4",
+      "pali": "Tassa mayhaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā vātā muddhani ūhananti."
+    },
+    {
+      "id": "mn85:22.5",
+      "pali": "Seyyathāpi, rājakumāra, balavā puriso tiṇhena sikharena muddhani abhimattheyya;"
+    },
+    {
+      "id": "mn85:22.6",
+      "pali": "evameva kho me, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā vātā muddhani ūhananti."
+    },
+    {
+      "id": "mn85:22.7",
+      "pali": "Āraddhaṁ kho pana me, rājakumāra, vīriyaṁ hoti asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato."
+    },
+    {
+      "id": "mn85:23.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:23.2",
+      "pali": "‘yannūnāhaṁ appāṇakaṁyeva jhānaṁ jhāyeyyan’ti."
+    },
+    {
+      "id": "mn85:23.3",
+      "pali": "So kho ahaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāse uparundhiṁ."
+    },
+    {
+      "id": "mn85:23.4",
+      "pali": "Tassa mayhaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā sīse sīsavedanā honti."
+    },
+    {
+      "id": "mn85:23.5",
+      "pali": "Seyyathāpi, rājakumāra, balavā puriso daḷhena varattakkhaṇḍena sīse sīsaveṭhaṁ dadeyya;"
+    },
+    {
+      "id": "mn85:23.6",
+      "pali": "evameva kho me, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā sīse sīsavedanā honti."
+    },
+    {
+      "id": "mn85:23.7",
+      "pali": "Āraddhaṁ kho pana me, rājakumāra, vīriyaṁ hoti asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato."
+    },
+    {
+      "id": "mn85:24.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:24.2",
+      "pali": "‘yannūnāhaṁ appāṇakaṁyeva jhānaṁ jhāyeyyan’ti."
+    },
+    {
+      "id": "mn85:24.3",
+      "pali": "So kho ahaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāse uparundhiṁ."
+    },
+    {
+      "id": "mn85:24.4",
+      "pali": "Tassa mayhaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā vātā kucchiṁ parikantanti."
+    },
+    {
+      "id": "mn85:24.5",
+      "pali": "Seyyathāpi, rājakumāra, dakkho goghātako vā goghātakantevāsī vā tiṇhena govikantanena kucchiṁ parikanteyya;"
+    },
+    {
+      "id": "mn85:24.6",
+      "pali": "evameva kho me, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā, vātā kucchiṁ parikantanti."
+    },
+    {
+      "id": "mn85:24.7",
+      "pali": "Āraddhaṁ kho pana me, rājakumāra, vīriyaṁ hoti asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato."
+    },
+    {
+      "id": "mn85:25.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:25.2",
+      "pali": "‘yannūnāhaṁ appāṇakaṁyeva jhānaṁ jhāyeyyan’ti."
+    },
+    {
+      "id": "mn85:25.3",
+      "pali": "So kho ahaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāse uparundhiṁ."
+    },
+    {
+      "id": "mn85:25.4",
+      "pali": "Tassa mayhaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimatto kāyasmiṁ ḍāho hoti."
+    },
+    {
+      "id": "mn85:25.5",
+      "pali": "Seyyathāpi, rājakumāra, dve balavanto purisā dubbalataraṁ purisaṁ nānābāhāsu gahetvā aṅgārakāsuyā santāpeyyuṁ samparitāpeyyuṁ;"
+    },
+    {
+      "id": "mn85:25.6",
+      "pali": "evameva kho me, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimatto kāyasmiṁ ḍāho hoti."
+    },
+    {
+      "id": "mn85:25.7",
+      "pali": "Āraddhaṁ kho pana me, rājakumāra, vīriyaṁ hoti asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato."
+    },
+    {
+      "id": "mn85:26.1",
+      "pali": "Apissu maṁ, rājakumāra, devatā disvā evamāhaṁsu:"
+    },
+    {
+      "id": "mn85:26.2",
+      "pali": "‘kālaṅkato samaṇo gotamo’ti."
+    },
+    {
+      "id": "mn85:26.3",
+      "pali": "Ekaccā devatā evamāhaṁsu:"
+    },
+    {
+      "id": "mn85:26.4",
+      "pali": "‘na kālaṅkato samaṇo gotamo, api ca kālaṁ karotī’ti."
+    },
+    {
+      "id": "mn85:26.5",
+      "pali": "Ekaccā devatā evamāhaṁsu:"
+    },
+    {
+      "id": "mn85:26.6",
+      "pali": "‘na kālaṅkato samaṇo gotamo, nāpi kālaṁ karoti. Arahaṁ samaṇo gotamo. Vihāro tveva so arahato evarūpo hotī’ti."
+    },
+    {
+      "id": "mn85:27.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:27.2",
+      "pali": "‘yannūnāhaṁ sabbaso āhārupacchedāya paṭipajjeyyan’ti."
+    },
+    {
+      "id": "mn85:27.3",
+      "pali": "Atha kho maṁ, rājakumāra, devatā upasaṅkamitvā etadavocuṁ:"
+    },
+    {
+      "id": "mn85:27.4",
+      "pali": "‘mā kho tvaṁ, mārisa, sabbaso āhārupacchedāya paṭipajji."
+    },
+    {
+      "id": "mn85:27.5",
+      "pali": "Sace kho tvaṁ, mārisa, sabbaso āhārupacchedāya paṭipajjissasi, tassa te mayaṁ dibbaṁ ojaṁ lomakūpehi ajjhohāressāma, tāya tvaṁ yāpessasī’ti."
+    },
+    {
+      "id": "mn85:27.6",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:27.7",
+      "pali": "‘ahañceva kho pana sabbaso ajajjitaṁ paṭijāneyyaṁ. Imā ca me devatā dibbaṁ ojaṁ lomakūpehi ajjhohāreyyuṁ, tāya cāhaṁ yāpeyyaṁ, taṁ mamassa musā’ti."
+    },
+    {
+      "id": "mn85:27.8",
+      "pali": "So kho ahaṁ, rājakumāra, tā devatā paccācikkhāmi. ‘Halan’ti vadāmi."
+    },
+    {
+      "id": "mn85:28.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:28.2",
+      "pali": "‘yannūnāhaṁ thokaṁ thokaṁ āhāraṁ āhāreyyaṁ pasataṁ pasataṁ, yadi vā muggayūsaṁ yadi vā kulatthayūsaṁ yadi vā kaḷāyayūsaṁ yadi vā hareṇukayūsan’ti."
+    },
+    {
+      "id": "mn85:28.3",
+      "pali": "So kho ahaṁ, rājakumāra, thokaṁ thokaṁ āhāraṁ āhāresiṁ pasataṁ pasataṁ, yadi vā muggayūsaṁ yadi vā kulatthayūsaṁ yadi vā kaḷāyayūsaṁ yadi vā hareṇukayūsaṁ."
+    },
+    {
+      "id": "mn85:28.4",
+      "pali": "Tassa mayhaṁ, rājakumāra, thokaṁ thokaṁ āhāraṁ āhārayato pasataṁ pasataṁ, yadi vā muggayūsaṁ yadi vā kulatthayūsaṁ yadi vā kaḷāyayūsaṁ yadi vā hareṇukayūsaṁ, adhimattakasimānaṁ patto kāyo hoti."
+    },
+    {
+      "id": "mn85:28.5",
+      "pali": "Seyyathāpi nāma āsītikapabbāni vā kāḷapabbāni vā; evamevassu me aṅgapaccaṅgāni bhavanti tāyevappāhāratāya."
+    },
+    {
+      "id": "mn85:28.6",
+      "pali": "Seyyathāpi nāma oṭṭhapadaṁ; evamevassu me ānisadaṁ hoti tāyevappāhāratāya."
+    },
+    {
+      "id": "mn85:28.7",
+      "pali": "Seyyathāpi nāma vaṭṭanāvaḷī; evamevassu me piṭṭhikaṇṭako uṇṇatāvanato hoti tāyevappāhāratāya."
+    },
+    {
+      "id": "mn85:28.8",
+      "pali": "Seyyathāpi nāma jarasālāya gopānasiyo oluggaviluggā bhavanti; evamevassu me phāsuḷiyo oluggaviluggā bhavanti tāyevappāhāratāya."
+    },
+    {
+      "id": "mn85:28.9",
+      "pali": "Seyyathāpi nāma gambhīre udapāne udakatārakā gambhīragatā okkhāyikā dissanti; evamevassu me akkhikūpesu akkhitārakā gambhīragatā okkhāyikā dissanti tāyevappāhāratāya."
+    },
+    {
+      "id": "mn85:28.10",
+      "pali": "Seyyathāpi nāma tittakālābu āmakacchinno vātātapena samphuṭito hoti sammilāto; evamevassu me sīsacchavi samphuṭitā hoti sammilātā tāyevappāhāratāya."
+    },
+    {
+      "id": "mn85:28.11",
+      "pali": "So kho ahaṁ, rājakumāra, ‘udaracchaviṁ parimasissāmī’ti piṭṭhikaṇṭakaṁyeva pariggaṇhāmi, ‘piṭṭhikaṇṭakaṁ parimasissāmī’ti udaracchaviṁyeva pariggaṇhāmi. Yāvassu me, rājakumāra, udaracchavi piṭṭhikaṇṭakaṁ allīnā hoti tāyevappāhāratāya."
+    },
+    {
+      "id": "mn85:28.12",
+      "pali": "So kho ahaṁ, rājakumāra, ‘vaccaṁ vā muttaṁ vā karissāmī’ti tattheva avakujjo papatāmi tāyevappāhāratāya."
+    },
+    {
+      "id": "mn85:28.13",
+      "pali": "So kho ahaṁ, rājakumāra, imameva kāyaṁ assāsento pāṇinā gattāni anumajjāmi. Tassa mayhaṁ, rājakumāra, pāṇinā gattāni anumajjato pūtimūlāni lomāni kāyasmā papatanti tāyevappāhāratāya."
+    },
+    {
+      "id": "mn85:29.1",
+      "pali": "Apissu maṁ, rājakumāra, manussā disvā evamāhaṁsu: ‘kāḷo samaṇo gotamo’ti,"
+    },
+    {
+      "id": "mn85:29.2",
+      "pali": "ekacce manussā evamāhaṁsu: ‘na kāḷo samaṇo gotamo, sāmo samaṇo gotamo’ti."
+    },
+    {
+      "id": "mn85:29.3",
+      "pali": "Ekacce manussā evamāhaṁsu: ‘na kāḷo samaṇo gotamo, napi sāmo, maṅguracchavi samaṇo gotamo’ti."
+    },
+    {
+      "id": "mn85:29.4",
+      "pali": "Yāvassu me, rājakumāra, tāva parisuddho chavivaṇṇo pariyodāto upahato hoti tāyevappāhāratāya."
+    },
+    {
+      "id": "mn85:30.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:30.2",
+      "pali": "‘ye kho keci atītamaddhānaṁ samaṇā vā brāhmaṇā vā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayiṁsu, etāvaparamaṁ nayito bhiyyo."
+    },
+    {
+      "id": "mn85:30.3",
+      "pali": "Yepi hi keci anāgatamaddhānaṁ samaṇā vā brāhmaṇā vā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayissanti, etāvaparamaṁ nayito bhiyyo."
+    },
+    {
+      "id": "mn85:30.4",
+      "pali": "Yepi hi keci etarahi samaṇā vā brāhmaṇā vā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayanti, etāvaparamaṁ nayito bhiyyo."
+    },
+    {
+      "id": "mn85:30.5",
+      "pali": "Na kho panāhaṁ imāya kaṭukāya dukkarakārikāya adhigacchāmi uttari manussadhammā alamariyañāṇadassanavisesaṁ;"
+    },
+    {
+      "id": "mn85:30.6",
+      "pali": "siyā nu kho añño maggo bodhāyā’ti."
+    },
+    {
+      "id": "mn85:31.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:31.2",
+      "pali": "‘abhijānāmi kho panāhaṁ pitu sakkassa kammante sītāya jambucchāyāya nisinno vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharitā;"
+    },
+    {
+      "id": "mn85:31.3",
+      "pali": "siyā nu kho eso maggo bodhāyā’ti."
+    },
+    {
+      "id": "mn85:31.4",
+      "pali": "Tassa mayhaṁ, rājakumāra, satānusāri viññāṇaṁ ahosi:"
+    },
+    {
+      "id": "mn85:31.5",
+      "pali": "‘eseva maggo bodhāyā’ti."
+    },
+    {
+      "id": "mn85:32.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:32.2",
+      "pali": "‘kiṁ nu kho ahaṁ tassa sukhassa bhāyāmi yaṁ taṁ sukhaṁ aññatreva kāmehi aññatra akusalehi dhammehī’ti?"
+    },
+    {
+      "id": "mn85:32.3",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:32.4",
+      "pali": "‘na kho ahaṁ tassa sukhassa bhāyāmi yaṁ taṁ sukhaṁ aññatreva kāmehi aññatra akusalehi dhammehī’ti."
+    },
+    {
+      "id": "mn85:33.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:33.2",
+      "pali": "‘na kho taṁ sukaraṁ sukhaṁ adhigantuṁ evaṁ adhimattakasimānaṁ pattakāyena. Yannūnāhaṁ oḷārikaṁ āhāraṁ āhāreyyaṁ odanakummāsan’ti."
+    },
+    {
+      "id": "mn85:33.3",
+      "pali": "So kho ahaṁ, rājakumāra, oḷārikaṁ āhāraṁ āhāresiṁ odanakummāsaṁ."
+    },
+    {
+      "id": "mn85:33.4",
+      "pali": "Tena kho pana maṁ, rājakumāra, samayena pañcavaggiyā bhikkhū paccupaṭṭhitā honti:"
+    },
+    {
+      "id": "mn85:33.5",
+      "pali": "‘yaṁ kho samaṇo gotamo dhammaṁ adhigamissati taṁ no ārocessatī’ti."
+    },
+    {
+      "id": "mn85:33.6",
+      "pali": "Yato kho ahaṁ, rājakumāra, oḷārikaṁ āhāraṁ āhāresiṁ odanakummāsaṁ, atha me te pañcavaggiyā bhikkhū nibbijja pakkamiṁsu:"
+    },
+    {
+      "id": "mn85:33.7",
+      "pali": "‘bāhulliko samaṇo gotamo padhānavibbhanto, āvatto bāhullāyā’ti."
+    },
+    {
+      "id": "mn85:34-37.1",
+      "pali": "So kho ahaṁ, rājakumāra, oḷārikaṁ āhāraṁ āhāretvā balaṁ gahetvā vivicceva kāmehi …pe… paṭhamaṁ jhānaṁ upasampajja vihāsiṁ."
+    },
+    {
+      "id": "mn85:34-37.2",
+      "pali": "Vitakkavicārānaṁ vūpasamā … dutiyaṁ jhānaṁ …"
+    },
+    {
+      "id": "mn85:34-37.3",
+      "pali": "tatiyaṁ jhānaṁ …"
+    },
+    {
+      "id": "mn85:34-37.4",
+      "pali": "catutthaṁ jhānaṁ upasampajja vihāsiṁ."
+    },
+    {
+      "id": "mn85:34-37.5",
+      "pali": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṁ abhininnāmesiṁ."
+    },
+    {
+      "id": "mn85:34-37.6",
+      "pali": "So anekavihitaṁ pubbenivāsaṁ anussarāmi, seyyathidaṁ—ekampi jātiṁ dvepi jātiyo …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarāmi."
+    },
+    {
+      "id": "mn85:34-37.7",
+      "pali": "Ayaṁ kho me, rājakumāra, rattiyā paṭhame yāme paṭhamā"
+    },
+    {
+      "id": "mn85:34-37.8",
+      "pali": "vijjā adhigatā, avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno—yathā taṁ appamattassa ātāpino pahitattassa viharato."
+    },
+    {
+      "id": "mn85:38.1",
+      "pali": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṁ cutūpapātañāṇāya cittaṁ abhininnāmesiṁ."
+    },
+    {
+      "id": "mn85:38.2",
+      "pali": "So dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāmi …pe…"
+    },
+    {
+      "id": "mn85:39.1",
+      "pali": "ayaṁ kho me, rājakumāra, rattiyā majjhime yāme dutiyā vijjā adhigatā, avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno—yathā taṁ appamattassa ātāpino pahitattassa viharato."
+    },
+    {
+      "id": "mn85:40.1",
+      "pali": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṁ khayañāṇāya cittaṁ abhininnāmesiṁ."
+    },
+    {
+      "id": "mn85:40.2",
+      "pali": "So ‘idaṁ dukkhan’ti yathābhūtaṁ abbhaññāsiṁ …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ abbhaññāsiṁ;"
+    },
+    {
+      "id": "mn85:40.3",
+      "pali": "‘ime āsavā’ti yathābhūtaṁ abbhaññāsiṁ …pe… ‘ayaṁ āsavanirodhagāminī paṭipadā’ti yathābhūtaṁ abbhaññāsiṁ."
+    },
+    {
+      "id": "mn85:41.1",
+      "pali": "Tassa me evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccittha, bhavāsavāpi cittaṁ vimuccittha, avijjāsavāpi cittaṁ vimuccittha."
+    },
+    {
+      "id": "mn85:41.2",
+      "pali": "Vimuttasmiṁ vimuttamiti ñāṇaṁ ahosi."
+    },
+    {
+      "id": "mn85:41.3",
+      "pali": "‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti abbhaññāsiṁ."
+    },
+    {
+      "id": "mn85:42.1",
+      "pali": "Ayaṁ kho me, rājakumāra, rattiyā pacchime yāme tatiyā"
+    },
+    {
+      "id": "mn85:42.2",
+      "pali": "vijjā adhigatā, avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno—yathā taṁ appamattassa ātāpino pahitattassa viharato."
+    },
+    {
+      "id": "mn85:43.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:43.2",
+      "pali": "‘adhigato kho myāyaṁ dhammo gambhīro duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo."
+    },
+    {
+      "id": "mn85:43.3",
+      "pali": "Ālayarāmā kho panāyaṁ pajā ālayaratā ālayasammuditā."
+    },
+    {
+      "id": "mn85:43.4",
+      "pali": "Ālayarāmāya kho pana pajāya ālayaratāya ālayasammuditāya duddasaṁ idaṁ ṭhānaṁ yadidaṁ—idappaccayatāpaṭiccasamuppādo."
+    },
+    {
+      "id": "mn85:43.5",
+      "pali": "Idampi kho ṭhānaṁ duddasaṁ—yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ."
+    },
+    {
+      "id": "mn85:43.6",
+      "pali": "Ahañceva kho pana dhammaṁ deseyyaṁ, pare ca me na ājāneyyuṁ, so mamassa kilamatho, sā mamassa vihesā’ti."
+    },
+    {
+      "id": "mn85:43.7",
+      "pali": "Apissu maṁ, rājakumāra, imā anacchariyā gāthāyo paṭibhaṁsu pubbe assutapubbā:"
+    },
+    {
+      "id": "mn85:43.8",
+      "pali": "‘Kicchena me adhigataṁ,"
+    },
+    {
+      "id": "mn85:43.9",
+      "pali": "halaṁ dāni pakāsituṁ;"
+    },
+    {
+      "id": "mn85:43.10",
+      "pali": "Rāgadosaparetehi,"
+    },
+    {
+      "id": "mn85:43.11",
+      "pali": "nāyaṁ dhammo susambudho."
+    },
+    {
+      "id": "mn85:43.12",
+      "pali": "Paṭisotagāmiṁ nipuṇaṁ,"
+    },
+    {
+      "id": "mn85:43.13",
+      "pali": "gambhīraṁ duddasaṁ aṇuṁ;"
+    },
+    {
+      "id": "mn85:43.14",
+      "pali": "Rāgarattā na dakkhanti,"
+    },
+    {
+      "id": "mn85:43.15",
+      "pali": "tamokhandhena āvuṭā’ti."
+    },
+    {
+      "id": "mn85:43.16",
+      "pali": "Itiha me, rājakumāra, paṭisañcikkhato appossukkatāya cittaṁ namati no dhammadesanāya."
+    },
+    {
+      "id": "mn85:44.1",
+      "pali": "Atha kho, rājakumāra, brahmuno sahampatissa mama cetasā cetoparivitakkamaññāya etadahosi:"
+    },
+    {
+      "id": "mn85:44.2",
+      "pali": "‘nassati vata bho loko; vinassati vata bho loko. Yatra hi nāma tathāgatassa arahato sammāsambuddhassa appossukkatāya cittaṁ namati no dhammadesanāyā’ti."
+    },
+    {
+      "id": "mn85:44.3",
+      "pali": "Atha kho, rājakumāra, brahmā sahampati—seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya pasāritaṁ vā bāhaṁ samiñjeyya; evameva—brahmaloke antarahito mama purato pāturahosi."
+    },
+    {
+      "id": "mn85:44.4",
+      "pali": "Atha kho, rājakumāra, brahmā sahampati ekaṁsaṁ uttarāsaṅgaṁ karitvā yenāhaṁ tenañjaliṁ paṇāmetvā maṁ etadavoca:"
+    },
+    {
+      "id": "mn85:44.5",
+      "pali": "‘desetu, bhante, bhagavā dhammaṁ, desetu sugato dhammaṁ."
+    },
+    {
+      "id": "mn85:44.6",
+      "pali": "Santi sattā apparajakkhajātikā assavanatāya dhammassa parihāyanti;"
+    },
+    {
+      "id": "mn85:44.7",
+      "pali": "bhavissanti dhammassa aññātāro’ti."
+    },
+    {
+      "id": "mn85:44.8",
+      "pali": "Idamavoca, rājakumāra, brahmā sahampati;"
+    },
+    {
+      "id": "mn85:44.9",
+      "pali": "idaṁ vatvā athāparaṁ etadavoca:"
+    },
+    {
+      "id": "mn85:44.10",
+      "pali": "‘Pāturahosi magadhesu pubbe,"
+    },
+    {
+      "id": "mn85:44.11",
+      "pali": "Dhammo asuddho samalehi cintito;"
+    },
+    {
+      "id": "mn85:44.12",
+      "pali": "Apāpuretaṁ amatassa dvāraṁ,"
+    },
+    {
+      "id": "mn85:44.13",
+      "pali": "Suṇantu dhammaṁ vimalenānubuddhaṁ."
+    },
+    {
+      "id": "mn85:44.14",
+      "pali": "Sele yathā pabbatamuddhaniṭṭhito,"
+    },
+    {
+      "id": "mn85:44.15",
+      "pali": "Yathāpi passe janataṁ samantato;"
+    },
+    {
+      "id": "mn85:44.16",
+      "pali": "Tathūpamaṁ dhammamayaṁ sumedha,"
+    },
+    {
+      "id": "mn85:44.17",
+      "pali": "Pāsādamāruyha samantacakkhu."
+    },
+    {
+      "id": "mn85:44.18",
+      "pali": "Sokāvatiṇṇaṁ janatamapetasoko,"
+    },
+    {
+      "id": "mn85:44.19",
+      "pali": "Avekkhassu jātijarābhibhūtaṁ;"
+    },
+    {
+      "id": "mn85:44.20",
+      "pali": "Uṭṭhehi vīra vijitasaṅgāma,"
+    },
+    {
+      "id": "mn85:44.21",
+      "pali": "Satthavāha aṇaṇa vicara loke;"
+    },
+    {
+      "id": "mn85:44.22",
+      "pali": "Desassu bhagavā dhammaṁ,"
+    },
+    {
+      "id": "mn85:44.23",
+      "pali": "Aññātāro bhavissantī’ti."
+    },
+    {
+      "id": "mn85:45.1",
+      "pali": "Atha khvāhaṁ, rājakumāra, brahmuno ca ajjhesanaṁ viditvā sattesu ca kāruññataṁ paṭicca buddhacakkhunā lokaṁ volokesiṁ."
+    },
+    {
+      "id": "mn85:45.2",
+      "pali": "Addasaṁ kho ahaṁ, rājakumāra, buddhacakkhunā lokaṁ volokento satte apparajakkhe mahārajakkhe tikkhindriye mudindriye svākāre dvākāre suviññāpaye duviññāpaye appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante."
+    },
+    {
+      "id": "mn85:45.3",
+      "pali": "Seyyathāpi nāma uppaliniyaṁ vā paduminiyaṁ vā puṇḍarīkiniyaṁ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni antonimuggaposīni, appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni samodakaṁ ṭhitāni, appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakā accuggamma ṭhitāni anupalittāni udakena;"
+    },
+    {
+      "id": "mn85:45.4",
+      "pali": "evameva kho ahaṁ, rājakumāra; buddhacakkhunā lokaṁ volokento addasaṁ satte apparajakkhe mahārajakkhe tikkhindriye mudindriye svākāre dvākāre suviññāpaye duviññāpaye, appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante."
+    },
+    {
+      "id": "mn85:45.5",
+      "pali": "Atha khvāhaṁ, rājakumāra, brahmānaṁ sahampatiṁ gāthāya paccabhāsiṁ:"
+    },
+    {
+      "id": "mn85:45.6",
+      "pali": "‘Apārutā tesaṁ amatassa dvārā,"
+    },
+    {
+      "id": "mn85:45.7",
+      "pali": "Ye sotavanto pamuñcantu saddhaṁ;"
+    },
+    {
+      "id": "mn85:45.8",
+      "pali": "Vihiṁsasaññī paguṇaṁ na bhāsiṁ,"
+    },
+    {
+      "id": "mn85:45.9",
+      "pali": "Dhammaṁ paṇītaṁ manujesu brahme’ti."
+    },
+    {
+      "id": "mn85:45.10",
+      "pali": "Atha kho, rājakumāra, brahmā sahampati ‘katāvakāso khomhi bhagavatā dhammadesanāyā’ti maṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyi."
+    },
+    {
+      "id": "mn85:46.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:46.2",
+      "pali": "‘kassa nu kho ahaṁ paṭhamaṁ dhammaṁ deseyyaṁ?"
+    },
+    {
+      "id": "mn85:46.3",
+      "pali": "Ko imaṁ dhammaṁ khippameva ājānissatī’ti?"
+    },
+    {
+      "id": "mn85:46.4",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:46.5",
+      "pali": "‘ayaṁ kho āḷāro kālāmo paṇḍito viyatto medhāvī dīgharattaṁ apparajakkhajātiko."
+    },
+    {
+      "id": "mn85:46.6",
+      "pali": "Yannūnāhaṁ āḷārassa kālāmassa paṭhamaṁ dhammaṁ deseyyaṁ;"
+    },
+    {
+      "id": "mn85:46.7",
+      "pali": "so imaṁ dhammaṁ khippameva ājānissatī’ti."
+    },
+    {
+      "id": "mn85:46.8",
+      "pali": "Atha kho maṁ, rājakumāra, devatā upasaṅkamitvā etadavoca:"
+    },
+    {
+      "id": "mn85:46.9",
+      "pali": "‘sattāhakālaṅkato, bhante, āḷāro kālāmo’ti."
+    },
+    {
+      "id": "mn85:46.10",
+      "pali": "Ñāṇañca pana me dassanaṁ udapādi:"
+    },
+    {
+      "id": "mn85:46.11",
+      "pali": "‘sattāhakālaṅkato āḷāro kālāmo’ti."
+    },
+    {
+      "id": "mn85:46.12",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:46.13",
+      "pali": "‘mahājāniyo kho āḷāro kālāmo."
+    },
+    {
+      "id": "mn85:46.14",
+      "pali": "Sace hi so imaṁ dhammaṁ suṇeyya, khippameva ājāneyyā’ti."
+    },
+    {
+      "id": "mn85:47.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:47.2",
+      "pali": "‘kassa nu kho ahaṁ paṭhamaṁ dhammaṁ deseyyaṁ?"
+    },
+    {
+      "id": "mn85:47.3",
+      "pali": "Ko imaṁ dhammaṁ khippameva ājānissatī’ti?"
+    },
+    {
+      "id": "mn85:47.4",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:47.5",
+      "pali": "‘ayaṁ kho udako rāmaputto paṇḍito viyatto medhāvī dīgharattaṁ apparajakkhajātiko."
+    },
+    {
+      "id": "mn85:47.6",
+      "pali": "Yannūnāhaṁ udakassa rāmaputtassa paṭhamaṁ dhammaṁ deseyyaṁ;"
+    },
+    {
+      "id": "mn85:47.7",
+      "pali": "so imaṁ dhammaṁ khippameva ājānissatī’ti."
+    },
+    {
+      "id": "mn85:47.8",
+      "pali": "Atha kho maṁ, rājakumāra, devatā upasaṅkamitvā etadavoca:"
+    },
+    {
+      "id": "mn85:47.9",
+      "pali": "‘abhidosakālaṅkato, bhante, udako rāmaputto’ti."
+    },
+    {
+      "id": "mn85:47.10",
+      "pali": "Ñāṇañca pana me dassanaṁ udapādi:"
+    },
+    {
+      "id": "mn85:47.11",
+      "pali": "‘abhidosakālaṅkato udako rāmaputto’ti."
+    },
+    {
+      "id": "mn85:47.12",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:47.13",
+      "pali": "‘mahājāniyo kho udako rāmaputto."
+    },
+    {
+      "id": "mn85:47.14",
+      "pali": "Sace hi so imaṁ dhammaṁ suṇeyya, khippameva ājāneyyā’ti."
+    },
+    {
+      "id": "mn85:48.1",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:48.2",
+      "pali": "‘kassa nu kho ahaṁ paṭhamaṁ dhammaṁ deseyyaṁ?"
+    },
+    {
+      "id": "mn85:48.3",
+      "pali": "Ko imaṁ dhammaṁ khippameva ājānissatī’ti?"
+    },
+    {
+      "id": "mn85:48.4",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:48.5",
+      "pali": "‘bahukārā kho me pañcavaggiyā bhikkhū ye maṁ padhānapahitattaṁ upaṭṭhahiṁsu."
+    },
+    {
+      "id": "mn85:48.6",
+      "pali": "Yannūnāhaṁ pañcavaggiyānaṁ bhikkhūnaṁ paṭhamaṁ dhammaṁ deseyyan’ti."
+    },
+    {
+      "id": "mn85:48.7",
+      "pali": "Tassa mayhaṁ, rājakumāra, etadahosi:"
+    },
+    {
+      "id": "mn85:48.8",
+      "pali": "‘kahaṁ nu kho etarahi pañcavaggiyā bhikkhū viharantī’ti."
+    },
+    {
+      "id": "mn85:48.9",
+      "pali": "Addasaṁ khvāhaṁ, rājakumāra, dibbena cakkhunā visuddhena atikkantamānusakena pañcavaggiye bhikkhū bārāṇasiyaṁ viharante isipatane migadāye."
+    },
+    {
+      "id": "mn85:49.1",
+      "pali": "Atha khvāhaṁ, rājakumāra, uruvelāyaṁ yathābhirantaṁ viharitvā yena bārāṇasī tena cārikaṁ pakkamiṁ."
+    },
+    {
+      "id": "mn85:49.2",
+      "pali": "Addasā kho maṁ, rājakumāra, upako ājīvako antarā ca gayaṁ antarā ca bodhiṁ addhānamaggappaṭipannaṁ."
+    },
+    {
+      "id": "mn85:49.3",
+      "pali": "Disvāna maṁ etadavoca:"
+    },
+    {
+      "id": "mn85:49.4",
+      "pali": "‘vippasannāni kho te, āvuso, indriyāni, parisuddho chavivaṇṇo pariyodāto."
+    },
+    {
+      "id": "mn85:49.5",
+      "pali": "Kaṁsi tvaṁ, āvuso, uddissa pabbajito? Ko vā te satthā? Kassa vā tvaṁ dhammaṁ rocesī’ti?"
+    },
+    {
+      "id": "mn85:49.6",
+      "pali": "Evaṁ vutte, ahaṁ, rājakumāra, upakaṁ ājīvakaṁ gāthāhi ajjhabhāsiṁ:"
+    },
+    {
+      "id": "mn85:49.7",
+      "pali": "‘Sabbābhibhū sabbavidūhamasmi,"
+    },
+    {
+      "id": "mn85:49.8",
+      "pali": "Sabbesu dhammesu anūpalitto;"
+    },
+    {
+      "id": "mn85:49.9",
+      "pali": "Sabbañjaho taṇhākkhaye vimutto,"
+    },
+    {
+      "id": "mn85:49.10",
+      "pali": "Sayaṁ abhiññāya kamuddiseyyaṁ."
+    },
+    {
+      "id": "mn85:49.11",
+      "pali": "Na me ācariyo atthi,"
+    },
+    {
+      "id": "mn85:49.12",
+      "pali": "sadiso me na vijjati;"
+    },
+    {
+      "id": "mn85:49.13",
+      "pali": "Sadevakasmiṁ lokasmiṁ,"
+    },
+    {
+      "id": "mn85:49.14",
+      "pali": "natthi me paṭipuggalo."
+    },
+    {
+      "id": "mn85:49.15",
+      "pali": "Ahañhi arahā loke,"
+    },
+    {
+      "id": "mn85:49.16",
+      "pali": "ahaṁ satthā anuttaro;"
+    },
+    {
+      "id": "mn85:49.17",
+      "pali": "Ekomhi sammāsambuddho,"
+    },
+    {
+      "id": "mn85:49.18",
+      "pali": "sītibhūtosmi nibbuto."
+    },
+    {
+      "id": "mn85:49.19",
+      "pali": "Dhammacakkaṁ pavattetuṁ,"
+    },
+    {
+      "id": "mn85:49.20",
+      "pali": "Gacchāmi kāsinaṁ puraṁ;"
+    },
+    {
+      "id": "mn85:49.21",
+      "pali": "Andhībhūtasmiṁ lokasmiṁ,"
+    },
+    {
+      "id": "mn85:49.22",
+      "pali": "Āhañchaṁ amatadundubhin’ti."
+    },
+    {
+      "id": "mn85:49.23",
+      "pali": "‘Yathā kho tvaṁ, āvuso, paṭijānāsi arahasi anantajino’ti."
+    },
+    {
+      "id": "mn85:49.24",
+      "pali": "‘Mādisā ve jinā honti,"
+    },
+    {
+      "id": "mn85:49.25",
+      "pali": "ye pattā āsavakkhayaṁ;"
+    },
+    {
+      "id": "mn85:49.26",
+      "pali": "Jitā me pāpakā dhammā,"
+    },
+    {
+      "id": "mn85:49.27",
+      "pali": "tasmāhamupaka jino’ti."
+    },
+    {
+      "id": "mn85:49.28",
+      "pali": "Evaṁ vutte, rājakumāra, upako ājīvako ‘hupeyyapāvuso’ti vatvā sīsaṁ okampetvā ummaggaṁ gahetvā pakkāmi."
+    },
+    {
+      "id": "mn85:50.1",
+      "pali": "Atha khvāhaṁ, rājakumāra, anupubbena cārikaṁ caramāno yena bārāṇasī isipatanaṁ migadāyo yena pañcavaggiyā bhikkhū tenupasaṅkamiṁ."
+    },
+    {
+      "id": "mn85:50.2",
+      "pali": "Addasaṁsu kho maṁ, rājakumāra, pañcavaggiyā bhikkhū dūratova āgacchantaṁ."
+    },
+    {
+      "id": "mn85:50.3",
+      "pali": "Disvāna aññamaññaṁ saṇṭhapesuṁ:"
+    },
+    {
+      "id": "mn85:50.4",
+      "pali": "‘ayaṁ kho, āvuso, samaṇo gotamo āgacchati bāhulliko padhānavibbhanto āvatto bāhullāya."
+    },
+    {
+      "id": "mn85:50.5",
+      "pali": "So neva abhivādetabbo, na paccuṭṭhātabbo, nāssa pattacīvaraṁ paṭiggahetabbaṁ;"
+    },
+    {
+      "id": "mn85:50.6",
+      "pali": "api ca kho āsanaṁ ṭhapetabbaṁ—sace so ākaṅkhissati nisīdissatī’ti."
+    },
+    {
+      "id": "mn85:50.7",
+      "pali": "Yathā yathā kho ahaṁ, rājakumāra, pañcavaggiye bhikkhū upasaṅkamiṁ tathā tathā pañcavaggiyā bhikkhū nāsakkhiṁsu sakāya katikāya saṇṭhātuṁ."
+    },
+    {
+      "id": "mn85:50.8",
+      "pali": "Appekacce maṁ paccuggantvā pattacīvaraṁ paṭiggahesuṁ. Appekacce āsanaṁ paññapesuṁ. Appekacce pādodakaṁ upaṭṭhapesuṁ."
+    },
+    {
+      "id": "mn85:50.9",
+      "pali": "Api ca kho maṁ nāmena ca āvusovādena ca samudācaranti."
+    },
+    {
+      "id": "mn85:51.1",
+      "pali": "Evaṁ vutte, ahaṁ, rājakumāra, pañcavaggiye bhikkhū etadavocaṁ:"
+    },
+    {
+      "id": "mn85:51.2",
+      "pali": "‘mā, bhikkhave, tathāgataṁ nāmena ca āvusovādena ca samudācaratha;"
+    },
+    {
+      "id": "mn85:51.3",
+      "pali": "arahaṁ, bhikkhave, tathāgato sammāsambuddho."
+    },
+    {
+      "id": "mn85:51.4",
+      "pali": "Odahatha, bhikkhave, sotaṁ. Amatamadhigataṁ ahamanusāsāmi, ahaṁ dhammaṁ desemi."
+    },
+    {
+      "id": "mn85:51.5",
+      "pali": "Yathānusiṭṭhaṁ tathā paṭipajjamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti."
+    },
+    {
+      "id": "mn85:51.6",
+      "pali": "Evaṁ vutte, rājakumāra, pañcavaggiyā bhikkhū maṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn85:51.7",
+      "pali": "‘tāyapi kho tvaṁ, āvuso gotama, iriyāya tāya paṭipadāya tāya dukkarakārikāya nājjhagamā uttari manussadhammā alamariyañāṇadassanavisesaṁ; kiṁ pana tvaṁ etarahi bāhulliko padhānavibbhanto āvatto bāhullāya adhigamissasi uttari manussadhammā alamariyañāṇadassanavisesan’ti?"
+    },
+    {
+      "id": "mn85:51.8",
+      "pali": "Evaṁ vutte, ahaṁ, rājakumāra, pañcavaggiye bhikkhū etadavocaṁ:"
+    },
+    {
+      "id": "mn85:51.9",
+      "pali": "‘na, bhikkhave, tathāgato bāhulliko na padhānavibbhanto na āvatto bāhullāya."
+    },
+    {
+      "id": "mn85:51.10",
+      "pali": "Arahaṁ, bhikkhave, tathāgato sammāsambuddho."
+    },
+    {
+      "id": "mn85:51.11",
+      "pali": "Odahatha, bhikkhave, sotaṁ. Amatamadhigataṁ ahamanusāsāmi, ahaṁ dhammaṁ desemi."
+    },
+    {
+      "id": "mn85:51.12",
+      "pali": "Yathānusiṭṭhaṁ tathā paṭipajjamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti."
+    },
+    {
+      "id": "mn85:51.13",
+      "pali": "Dutiyampi kho, rājakumāra, pañcavaggiyā bhikkhū maṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn85:51.14",
+      "pali": "‘tāyapi kho tvaṁ, āvuso gotama, iriyāya tāya paṭipadāya tāya dukkarakārikāya nājjhagamā uttari manussadhammā alamariyañāṇadassanavisesaṁ; kiṁ pana tvaṁ etarahi bāhulliko padhānavibbhanto āvatto bāhullāya adhigamissasi uttari manussadhammā alamariyañāṇadassanavisesan’ti?"
+    },
+    {
+      "id": "mn85:51.15",
+      "pali": "Dutiyampi kho ahaṁ, rājakumāra, pañcavaggiye bhikkhū etadavocaṁ:"
+    },
+    {
+      "id": "mn85:51.16",
+      "pali": "‘na, bhikkhave, tathāgato bāhulliko na padhānavibbhanto na āvatto bāhullāya."
+    },
+    {
+      "id": "mn85:51.17",
+      "pali": "Arahaṁ, bhikkhave, tathāgato sammāsambuddho."
+    },
+    {
+      "id": "mn85:51.18",
+      "pali": "Odahatha, bhikkhave, sotaṁ. Amatamadhigataṁ ahamanusāsāmi, ahaṁ dhammaṁ desemi."
+    },
+    {
+      "id": "mn85:51.19",
+      "pali": "Yathānusiṭṭhaṁ tathā paṭipajjamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti."
+    },
+    {
+      "id": "mn85:51.20",
+      "pali": "Tatiyampi kho, rājakumāra, pañcavaggiyā bhikkhū maṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn85:51.21",
+      "pali": "‘tāyapi kho tvaṁ, āvuso gotama, iriyāya tāya paṭipadāya tāya dukkarakārikāya nājjhagamā uttari manussadhammā alamariyañāṇadassanavisesaṁ; kiṁ pana tvaṁ etarahi bāhulliko padhānavibbhanto āvatto bāhullāya adhigamissasi uttari manussadhammā alamariyañāṇadassanavisesan’ti?"
+    },
+    {
+      "id": "mn85:52.1",
+      "pali": "Evaṁ vutte, ahaṁ, rājakumāra, pañcavaggiye bhikkhū etadavocaṁ:"
+    },
+    {
+      "id": "mn85:52.2",
+      "pali": "‘abhijānātha me no tumhe, bhikkhave, ito pubbe evarūpaṁ pabhāvitametan’ti?"
+    },
+    {
+      "id": "mn85:52.3",
+      "pali": "‘No hetaṁ, bhante’."
+    },
+    {
+      "id": "mn85:52.4",
+      "pali": "‘Arahaṁ, bhikkhave, tathāgato sammāsambuddho."
+    },
+    {
+      "id": "mn85:52.5",
+      "pali": "Odahatha, bhikkhave, sotaṁ. Amatamadhigataṁ ahamanusāsāmi, ahaṁ dhammaṁ desemi."
+    },
+    {
+      "id": "mn85:52.6",
+      "pali": "Yathānusiṭṭhaṁ tathā paṭipajjamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti."
+    },
+    {
+      "id": "mn85:53.1",
+      "pali": "Asakkhiṁ kho ahaṁ, rājakumāra, pañcavaggiye bhikkhū saññāpetuṁ."
+    },
+    {
+      "id": "mn85:53.2",
+      "pali": "Dvepi sudaṁ, rājakumāra, bhikkhū ovadāmi. Tayo bhikkhū piṇḍāya caranti."
+    },
+    {
+      "id": "mn85:53.3",
+      "pali": "Yaṁ tayo bhikkhū piṇḍāya caritvā āharanti, tena chabbaggiyā yāpema."
+    },
+    {
+      "id": "mn85:53.4",
+      "pali": "Tayopi sudaṁ, rājakumāra, bhikkhū ovadāmi, dve bhikkhū piṇḍāya caranti."
+    },
+    {
+      "id": "mn85:53.5",
+      "pali": "Yaṁ dve bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema."
+    },
+    {
+      "id": "mn85:54.1",
+      "pali": "Atha kho, rājakumāra, pañcavaggiyā bhikkhū mayā evaṁ ovadiyamānā evaṁ anusāsiyamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihariṁsū”ti."
+    },
+    {
+      "id": "mn85:55.1",
+      "pali": "Evaṁ vutte, bodhi rājakumāro bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn85:55.2",
+      "pali": "“kīva cirena nu kho, bhante, bhikkhu tathāgataṁ vināyakaṁ labhamāno—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyyā”ti?"
+    },
+    {
+      "id": "mn85:55.3",
+      "pali": "“Tena hi, rājakumāra, taṁyevettha paṭipucchissāmi. Yathā te khameyya, tathā naṁ byākareyyāsi."
+    },
+    {
+      "id": "mn85:55.4",
+      "pali": "Taṁ kiṁ maññasi, rājakumāra,"
+    },
+    {
+      "id": "mn85:55.5",
+      "pali": "kusalo tvaṁ hatthārūḷhe aṅkusagayhe sippe”ti?"
+    },
+    {
+      "id": "mn85:55.6",
+      "pali": "“Evaṁ, bhante, kusalo ahaṁ hatthārūḷhe aṅkusagayhe sippe”ti."
+    },
+    {
+      "id": "mn85:56.1",
+      "pali": "“Taṁ kiṁ maññasi, rājakumāra,"
+    },
+    {
+      "id": "mn85:56.2",
+      "pali": "idha puriso āgaccheyya:"
+    },
+    {
+      "id": "mn85:56.3",
+      "pali": "‘bodhi rājakumāro hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ jānāti;"
+    },
+    {
+      "id": "mn85:56.4",
+      "pali": "tassāhaṁ santike hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ sikkhissāmī’ti."
+    },
+    {
+      "id": "mn85:56.5",
+      "pali": "So cassa assaddho;"
+    },
+    {
+      "id": "mn85:56.6",
+      "pali": "yāvatakaṁ saddhena pattabbaṁ taṁ na sampāpuṇeyya."
+    },
+    {
+      "id": "mn85:56.7",
+      "pali": "So cassa bahvābādho;"
+    },
+    {
+      "id": "mn85:56.8",
+      "pali": "yāvatakaṁ appābādhena pattabbaṁ taṁ na sampāpuṇeyya."
+    },
+    {
+      "id": "mn85:56.9",
+      "pali": "So cassa saṭho māyāvī;"
+    },
+    {
+      "id": "mn85:56.10",
+      "pali": "yāvatakaṁ asaṭhena amāyāvinā pattabbaṁ taṁ na sampāpuṇeyya."
+    },
+    {
+      "id": "mn85:56.11",
+      "pali": "So cassa kusīto;"
+    },
+    {
+      "id": "mn85:56.12",
+      "pali": "yāvatakaṁ āraddhavīriyena pattabbaṁ taṁ na sampāpuṇeyya."
+    },
+    {
+      "id": "mn85:56.13",
+      "pali": "So cassa duppañño;"
+    },
+    {
+      "id": "mn85:56.14",
+      "pali": "yāvatakaṁ paññavatā pattabbaṁ taṁ na sampāpuṇeyya."
+    },
+    {
+      "id": "mn85:56.15",
+      "pali": "Taṁ kiṁ maññasi, rājakumāra,"
+    },
+    {
+      "id": "mn85:56.16",
+      "pali": "api nu so puriso tava santike hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ sikkheyyā”ti?"
+    },
+    {
+      "id": "mn85:56.17",
+      "pali": "“Ekamekenāpi, bhante, aṅgena samannāgato so puriso na mama santike hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ sikkheyya, ko pana vādo pañcahaṅgehī”ti."
+    },
+    {
+      "id": "mn85:57.1",
+      "pali": "“Taṁ kiṁ maññasi, rājakumāra,"
+    },
+    {
+      "id": "mn85:57.2",
+      "pali": "idha puriso āgaccheyya:"
+    },
+    {
+      "id": "mn85:57.3",
+      "pali": "‘bodhi rājakumāro hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ jānāti;"
+    },
+    {
+      "id": "mn85:57.4",
+      "pali": "tassāhaṁ santike hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ sikkhissāmī’ti."
+    },
+    {
+      "id": "mn85:57.5",
+      "pali": "So cassa saddho;"
+    },
+    {
+      "id": "mn85:57.6",
+      "pali": "yāvatakaṁ saddhena pattabbaṁ taṁ sampāpuṇeyya."
+    },
+    {
+      "id": "mn85:57.7",
+      "pali": "So cassa appābādho;"
+    },
+    {
+      "id": "mn85:57.8",
+      "pali": "yāvatakaṁ appābādhena pattabbaṁ taṁ sampāpuṇeyya."
+    },
+    {
+      "id": "mn85:57.9",
+      "pali": "So cassa asaṭho amāyāvī;"
+    },
+    {
+      "id": "mn85:57.10",
+      "pali": "yāvatakaṁ asaṭhena amāyāvinā pattabbaṁ taṁ sampāpuṇeyya."
+    },
+    {
+      "id": "mn85:57.11",
+      "pali": "So cassa āraddhavīriyo;"
+    },
+    {
+      "id": "mn85:57.12",
+      "pali": "yāvatakaṁ āraddhavīriyena pattabbaṁ taṁ sampāpuṇeyya."
+    },
+    {
+      "id": "mn85:57.13",
+      "pali": "So cassa paññavā;"
+    },
+    {
+      "id": "mn85:57.14",
+      "pali": "yāvatakaṁ paññavatā pattabbaṁ taṁ sampāpuṇeyya."
+    },
+    {
+      "id": "mn85:57.15",
+      "pali": "Taṁ kiṁ maññasi, rājakumāra,"
+    },
+    {
+      "id": "mn85:57.16",
+      "pali": "api nu so puriso tava santike hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ sikkheyyā”ti?"
+    },
+    {
+      "id": "mn85:57.17",
+      "pali": "“Ekamekenāpi, bhante, aṅgena samannāgato so puriso mama santike hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ sikkheyya, ko pana vādo pañcahaṅgehī”ti."
+    },
+    {
+      "id": "mn85:58.1",
+      "pali": "“Evameva kho, rājakumāra, pañcimāni padhāniyaṅgāni."
+    },
+    {
+      "id": "mn85:58.2",
+      "pali": "Katamāni pañca?"
+    },
+    {
+      "id": "mn85:58.3",
+      "pali": "Idha, rājakumāra, bhikkhu saddho hoti; saddahati tathāgatassa bodhiṁ:"
+    },
+    {
+      "id": "mn85:58.4",
+      "pali": "‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti;"
+    },
+    {
+      "id": "mn85:58.5",
+      "pali": "appābādho hoti appātaṅko samavepākiniyā gahaṇiyā samannāgato nātisītāya nāccuṇhāya majjhimāya padhānakkhamāya;"
+    },
+    {
+      "id": "mn85:58.6",
+      "pali": "asaṭho hoti amāyāvī yathābhūtaṁ attānaṁ āvikattā satthari vā viññūsu vā sabrahmacārīsu;"
+    },
+    {
+      "id": "mn85:58.7",
+      "pali": "āraddhavīriyo viharati akusalānaṁ dhammānaṁ pahānāya kusalānaṁ dhammānaṁ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu;"
+    },
+    {
+      "id": "mn85:58.8",
+      "pali": "paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammādukkhakkhayagāminiyā."
+    },
+    {
+      "id": "mn85:58.9",
+      "pali": "Imāni kho, rājakumāra, pañca padhāniyaṅgāni."
+    },
+    {
+      "id": "mn85:59.1",
+      "pali": "Imehi, rājakumāra, pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṁ vināyakaṁ labhamāno—"
+    },
+    {
+      "id": "mn85:59.2",
+      "pali": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyya satta vassāni."
+    },
+    {
+      "id": "mn85:59.3",
+      "pali": "Tiṭṭhantu, rājakumāra, satta vassāni."
+    },
+    {
+      "id": "mn85:59.4",
+      "pali": "Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṁ vināyakaṁ labhamāno—"
+    },
+    {
+      "id": "mn85:59.5",
+      "pali": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyya chabbassāni …"
+    },
+    {
+      "id": "mn85:59.6",
+      "pali": "pañca vassāni …"
+    },
+    {
+      "id": "mn85:59.7",
+      "pali": "cattāri vassāni …"
+    },
+    {
+      "id": "mn85:59.8",
+      "pali": "tīṇi vassāni …"
+    },
+    {
+      "id": "mn85:59.9",
+      "pali": "dve vassāni …"
+    },
+    {
+      "id": "mn85:59.10",
+      "pali": "ekaṁ vassaṁ."
+    },
+    {
+      "id": "mn85:59.11",
+      "pali": "Tiṭṭhatu, rājakumāra, ekaṁ vassaṁ."
+    },
+    {
+      "id": "mn85:59.12",
+      "pali": "Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṁ vināyakaṁ labhamāno—"
+    },
+    {
+      "id": "mn85:59.13",
+      "pali": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyya satta māsāni."
+    },
+    {
+      "id": "mn85:59.14",
+      "pali": "Tiṭṭhantu, rājakumāra, satta māsāni."
+    },
+    {
+      "id": "mn85:59.15",
+      "pali": "Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṁ vināyakaṁ labhamāno—"
+    },
+    {
+      "id": "mn85:59.16",
+      "pali": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—"
+    },
+    {
+      "id": "mn85:59.17",
+      "pali": "brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyya cha māsāni …"
+    },
+    {
+      "id": "mn85:59.18",
+      "pali": "pañca māsāni …"
+    },
+    {
+      "id": "mn85:59.19",
+      "pali": "cattāri māsāni …"
+    },
+    {
+      "id": "mn85:59.20",
+      "pali": "tīṇi māsāni …"
+    },
+    {
+      "id": "mn85:59.21",
+      "pali": "dve māsāni …"
+    },
+    {
+      "id": "mn85:59.22",
+      "pali": "ekaṁ māsaṁ …"
+    },
+    {
+      "id": "mn85:59.23",
+      "pali": "aḍḍhamāsaṁ."
+    },
+    {
+      "id": "mn85:59.24",
+      "pali": "Tiṭṭhatu, rājakumāra, aḍḍhamāso."
+    },
+    {
+      "id": "mn85:59.25",
+      "pali": "Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṁ vināyakaṁ labhamāno—"
+    },
+    {
+      "id": "mn85:59.26",
+      "pali": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—"
+    },
+    {
+      "id": "mn85:59.27",
+      "pali": "brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyya satta rattindivāni."
+    },
+    {
+      "id": "mn85:59.28",
+      "pali": "Tiṭṭhantu, rājakumāra, satta rattindivāni."
+    },
+    {
+      "id": "mn85:59.29",
+      "pali": "Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṁ vināyakaṁ labhamāno—"
+    },
+    {
+      "id": "mn85:59.30",
+      "pali": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—"
+    },
+    {
+      "id": "mn85:59.31",
+      "pali": "brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyya cha rattindivāni …"
+    },
+    {
+      "id": "mn85:59.32",
+      "pali": "pañca rattindivāni …"
+    },
+    {
+      "id": "mn85:59.33",
+      "pali": "cattāri rattindivāni …"
+    },
+    {
+      "id": "mn85:59.34",
+      "pali": "tīṇi rattindivāni …"
+    },
+    {
+      "id": "mn85:59.35",
+      "pali": "dve rattindivāni …"
+    },
+    {
+      "id": "mn85:59.36",
+      "pali": "ekaṁ rattindivaṁ."
+    },
+    {
+      "id": "mn85:59.37",
+      "pali": "Tiṭṭhatu, rājakumāra, eko rattindivo."
+    },
+    {
+      "id": "mn85:59.38",
+      "pali": "Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṁ vināyakaṁ labhamāno sāyamanusiṭṭho pāto visesaṁ adhigamissati, pātamanusiṭṭho sāyaṁ visesaṁ adhigamissatī”ti."
+    },
+    {
+      "id": "mn85:60.1",
+      "pali": "Evaṁ vutte, bodhi rājakumāro bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn85:60.2",
+      "pali": "“aho buddho, aho dhammo, aho dhammassa svākkhātatā."
+    },
+    {
+      "id": "mn85:60.3",
+      "pali": "Yatra hi nāma sāyamanusiṭṭho pāto visesaṁ adhigamissati, pātamanusiṭṭho sāyaṁ visesaṁ adhigamissatī”ti."
+    },
+    {
+      "id": "mn85:61.1",
+      "pali": "Evaṁ vutte, sañjikāputto māṇavo bodhiṁ rājakumāraṁ etadavoca:"
+    },
+    {
+      "id": "mn85:61.2",
+      "pali": "“evameva panāyaṁ bhavaṁ bodhi:"
+    },
+    {
+      "id": "mn85:61.3",
+      "pali": "‘aho buddho, aho dhammo, aho dhammassa svākkhātatā’ti ca vadeti;"
+    },
+    {
+      "id": "mn85:61.4",
+      "pali": "atha ca pana na taṁ bhavantaṁ gotamaṁ saraṇaṁ gacchati dhammañca bhikkhusaṅghañcā”ti."
+    },
+    {
+      "id": "mn85:61.5",
+      "pali": "“Mā hevaṁ, samma sañjikāputta, avaca; mā hevaṁ, samma sañjikāputta, avaca."
+    },
+    {
+      "id": "mn85:61.6",
+      "pali": "Sammukhā metaṁ, samma sañjikāputta, ayyāya sutaṁ, sammukhā paṭiggahitaṁ”."
+    },
+    {
+      "id": "mn85:61.7",
+      "pali": "“Ekamidaṁ, samma sañjikāputta, samayaṁ bhagavā kosambiyaṁ viharati ghositārāme."
+    },
+    {
+      "id": "mn85:61.8",
+      "pali": "Atha kho me ayyā kucchimatī yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnā kho me ayyā bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn85:61.9",
+      "pali": "‘yo me ayaṁ, bhante, kucchigato kumārako vā kumārikā vā so bhagavantaṁ saraṇaṁ gacchati dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "mn85:61.10",
+      "pali": "Upāsakaṁ taṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan’ti."
+    },
+    {
+      "id": "mn85:61.11",
+      "pali": "Ekamidaṁ, samma sañjikāputta, samayaṁ bhagavā idheva bhaggesu viharati susumāragire bhesakaḷāvane migadāye."
+    },
+    {
+      "id": "mn85:61.12",
+      "pali": "Atha kho maṁ dhāti aṅkena haritvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho maṁ dhāti bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn85:61.13",
+      "pali": "‘ayaṁ, bhante, bodhi rājakumāro bhagavantaṁ saraṇaṁ gacchati dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "mn85:61.14",
+      "pali": "Upāsakaṁ taṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan’ti."
+    },
+    {
+      "id": "mn85:61.15",
+      "pali": "Esāhaṁ, samma sañjikāputta, tatiyakampi bhagavantaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "mn85:61.16",
+      "pali": "Upāsakaṁ maṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti."
+    },
+    {
+      "id": "mn85:61.17",
+      "pali": "Bodhirājakumārasuttaṁ niṭṭhitaṁ pañcamaṁ."
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "uid": "mn109",
+  "title": "Mahāpuṇṇamasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn109:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn109:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde."
+    },
+    {
+      "id": "mn109:2.1",
+      "pali": "Tena kho pana samayena bhagavā tadahuposathe pannarase puṇṇāya puṇṇamāya rattiyā bhikkhusaṅghaparivuto abbhokāse nisinno hoti."
+    },
+    {
+      "id": "mn109:3.1",
+      "pali": "Atha kho aññataro bhikkhu uṭṭhāyāsanā ekaṁsaṁ cīvaraṁ katvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn109:3.2",
+      "pali": "“Puccheyyāhaṁ, bhante, bhagavantaṁ kiñcideva desaṁ, sace me bhagavā okāsaṁ karoti pañhassa veyyākaraṇāyā”ti."
+    },
+    {
+      "id": "mn109:3.3",
+      "pali": "“Tena hi tvaṁ, bhikkhu, sake āsane nisīditvā puccha yadākaṅkhasī”ti."
+    },
+    {
+      "id": "mn109:3.4",
+      "pali": "Atha kho so bhikkhu sake āsane nisīditvā bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn109:4.1",
+      "pali": "“ime nu kho, bhante, pañcupādānakkhandhā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn109:4.2",
+      "pali": "rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho”ti?"
+    },
+    {
+      "id": "mn109:4.3",
+      "pali": "“Ime kho, bhikkhu, pañcupādānakkhandhā, seyyathidaṁ—"
+    },
+    {
+      "id": "mn109:4.4",
+      "pali": "rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho”ti."
+    },
+    {
+      "id": "mn109:4.5",
+      "pali": "“Sādhu, bhante”ti kho so bhikkhu bhagavato bhāsitaṁ abhinanditvā anumoditvā bhagavantaṁ uttariṁ pañhaṁ pucchi:"
+    },
+    {
+      "id": "mn109:5.1",
+      "pali": "“ime pana, bhante, pañcupādānakkhandhā kiṁmūlakā”ti?"
+    },
+    {
+      "id": "mn109:5.2",
+      "pali": "“Ime kho, bhikkhu, pañcupādānakkhandhā chandamūlakā”ti."
+    },
+    {
+      "id": "mn109:6.1",
+      "pali": "“Taṁyeva nu kho, bhante, upādānaṁ te pañcupādānakkhandhā, udāhu aññatra pañcahupādānakkhandhehi upādānan”ti?"
+    },
+    {
+      "id": "mn109:6.2",
+      "pali": "“Na kho, bhikkhu, taṁyeva upādānaṁ te pañcupādānakkhandhā, nāpi aññatra pañcahupādānakkhandhehi upādānaṁ."
+    },
+    {
+      "id": "mn109:6.3",
+      "pali": "Yo kho, bhikkhu, pañcasu upādānakkhandhesu chandarāgo taṁ tattha upādānan”ti."
+    },
+    {
+      "id": "mn109:7.1",
+      "pali": "“Siyā pana, bhante, pañcasu upādānakkhandhesu chandarāgavemattatā”ti?"
+    },
+    {
+      "id": "mn109:7.2",
+      "pali": "“Siyā, bhikkhū”ti bhagavā avoca"
+    },
+    {
+      "id": "mn109:7.3",
+      "pali": "“idha, bhikkhu, ekaccassa evaṁ hoti:"
+    },
+    {
+      "id": "mn109:7.4",
+      "pali": "‘evaṁrūpo siyaṁ anāgatamaddhānaṁ, evaṁvedano siyaṁ anāgatamaddhānaṁ, evaṁsañño siyaṁ anāgatamaddhānaṁ, evaṁsaṅkhāro siyaṁ anāgatamaddhānaṁ, evaṁviññāṇo siyaṁ anāgatamaddhānan’ti."
+    },
+    {
+      "id": "mn109:7.5",
+      "pali": "Evaṁ kho, bhikkhu, siyā pañcasu upādānakkhandhesu chandarāgavemattatā”ti."
+    },
+    {
+      "id": "mn109:8.1",
+      "pali": "“Kittāvatā pana, bhante, khandhānaṁ khandhādhivacanaṁ hotī”ti?"
+    },
+    {
+      "id": "mn109:8.2",
+      "pali": "“Yaṁ kiñci, bhikkhu, rūpaṁ—atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā, oḷārikaṁ vā sukhumaṁ vā, hīnaṁ vā paṇītaṁ vā, yaṁ dūre santike vā—ayaṁ rūpakkhandho."
+    },
+    {
+      "id": "mn109:8.3",
+      "pali": "Yā kāci vedanā—atītānāgatapaccuppannā ajjhattaṁ vā bahiddhā vā, oḷārikā vā sukhumā vā, hīnā vā paṇītā vā, yā dūre santike vā—ayaṁ vedanākkhandho."
+    },
+    {
+      "id": "mn109:8.4",
+      "pali": "Yā kāci saññā—atītānāgatapaccuppannā …pe… yā dūre santike vā—ayaṁ saññākkhandho."
+    },
+    {
+      "id": "mn109:8.5",
+      "pali": "Ye keci saṅkhārā—atītānāgatapaccuppannā ajjhattaṁ vā bahiddhā vā, oḷārikā vā sukhumā vā, hīnā vā paṇītā vā, ye dūre santike vā—ayaṁ saṅkhārakkhandho."
+    },
+    {
+      "id": "mn109:8.6",
+      "pali": "Yaṁ kiñci viññāṇaṁ—atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā, oḷārikaṁ vā sukhumaṁ vā, hīnaṁ vā paṇītaṁ vā, yaṁ dūre santike vā—ayaṁ viññāṇakkhandho."
+    },
+    {
+      "id": "mn109:8.7",
+      "pali": "Ettāvatā kho, bhikkhu, khandhānaṁ khandhādhivacanaṁ hotī”ti."
+    },
+    {
+      "id": "mn109:9.1",
+      "pali": "“Ko nu kho, bhante, hetu ko paccayo rūpakkhandhassa paññāpanāya?"
+    },
+    {
+      "id": "mn109:9.2",
+      "pali": "Ko hetu ko paccayo vedanākkhandhassa paññāpanāya?"
+    },
+    {
+      "id": "mn109:9.3",
+      "pali": "Ko hetu ko paccayo saññākkhandhassa paññāpanāya?"
+    },
+    {
+      "id": "mn109:9.4",
+      "pali": "Ko hetu ko paccayo saṅkhārakkhandhassa paññāpanāya?"
+    },
+    {
+      "id": "mn109:9.5",
+      "pali": "Ko hetu ko paccayo viññāṇakkhandhassa paññāpanāyā”ti?"
+    },
+    {
+      "id": "mn109:9.6",
+      "pali": "“Cattāro kho, bhikkhu, mahābhūtā hetu, cattāro mahābhūtā paccayo rūpakkhandhassa paññāpanāya."
+    },
+    {
+      "id": "mn109:9.7",
+      "pali": "Phasso hetu, phasso paccayo vedanākkhandhassa paññāpanāya."
+    },
+    {
+      "id": "mn109:9.8",
+      "pali": "Phasso hetu, phasso paccayo saññākkhandhassa paññāpanāya."
+    },
+    {
+      "id": "mn109:9.9",
+      "pali": "Phasso hetu, phasso paccayo saṅkhārakkhandhassa paññāpanāya."
+    },
+    {
+      "id": "mn109:9.10",
+      "pali": "Nāmarūpaṁ kho, bhikkhu, hetu, nāmarūpaṁ paccayo viññāṇakkhandhassa paññāpanāyā”ti."
+    },
+    {
+      "id": "mn109:10.1",
+      "pali": "“Kathaṁ pana, bhante, sakkāyadiṭṭhi hotī”ti?"
+    },
+    {
+      "id": "mn109:10.2",
+      "pali": "“Idha, bhikkhu, assutavā puthujjano ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto"
+    },
+    {
+      "id": "mn109:10.3",
+      "pali": "rūpaṁ attato samanupassati rūpavantaṁ vā attānaṁ attani vā rūpaṁ rūpasmiṁ vā attānaṁ;"
+    },
+    {
+      "id": "mn109:10.4",
+      "pali": "vedanaṁ attato samanupassati vedanāvantaṁ vā attānaṁ attani vā vedanaṁ vedanāya vā attānaṁ;"
+    },
+    {
+      "id": "mn109:10.5",
+      "pali": "saññaṁ attato samanupassati saññāvantaṁ vā attānaṁ attani vā saññaṁ saññāya vā attānaṁ;"
+    },
+    {
+      "id": "mn109:10.6",
+      "pali": "saṅkhāre attato samanupassati saṅkhāravantaṁ vā attānaṁ attani vā saṅkhāre saṅkhāresu vā attānaṁ;"
+    },
+    {
+      "id": "mn109:10.7",
+      "pali": "viññāṇaṁ attato samanupassati viññāṇavantaṁ vā attānaṁ attani vā viññāṇaṁ viññāṇasmiṁ vā attānaṁ."
+    },
+    {
+      "id": "mn109:10.8",
+      "pali": "Evaṁ kho, bhikkhu, sakkāyadiṭṭhi hotī”ti."
+    },
+    {
+      "id": "mn109:11.1",
+      "pali": "“Kathaṁ pana, bhante, sakkāyadiṭṭhi na hotī”ti?"
+    },
+    {
+      "id": "mn109:11.2",
+      "pali": "“Idha, bhikkhu, sutavā ariyasāvako ariyānaṁ dassāvī ariyadhammassa kovido ariyadhamme suvinīto sappurisānaṁ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto"
+    },
+    {
+      "id": "mn109:11.3",
+      "pali": "na rūpaṁ attato samanupassati na rūpavantaṁ vā attānaṁ na attani vā rūpaṁ na rūpasmiṁ vā attānaṁ;"
+    },
+    {
+      "id": "mn109:11.4",
+      "pali": "na vedanaṁ attato samanupassati na vedanāvantaṁ vā attānaṁ na attani vā vedanaṁ na vedanāya vā attānaṁ;"
+    },
+    {
+      "id": "mn109:11.5",
+      "pali": "na saññaṁ attato samanupassati na saññāvantaṁ vā attānaṁ na attani vā saññaṁ na saññāya vā attānaṁ;"
+    },
+    {
+      "id": "mn109:11.6",
+      "pali": "na saṅkhāre attato samanupassati na saṅkhāravantaṁ vā attānaṁ na attani vā saṅkhāre na saṅkhāresu vā attānaṁ;"
+    },
+    {
+      "id": "mn109:11.7",
+      "pali": "na viññāṇaṁ attato samanupassati na viññāṇavantaṁ vā attānaṁ na attani vā viññāṇaṁ na viññāṇasmiṁ vā attānaṁ."
+    },
+    {
+      "id": "mn109:11.8",
+      "pali": "Evaṁ kho, bhikkhu, sakkāyadiṭṭhi na hotī”ti."
+    },
+    {
+      "id": "mn109:12.1",
+      "pali": "“Ko nu kho, bhante, rūpe assādo, ko ādīnavo, kiṁ nissaraṇaṁ?"
+    },
+    {
+      "id": "mn109:12.2",
+      "pali": "Ko vedanāya assādo, ko ādīnavo, kiṁ nissaraṇaṁ?"
+    },
+    {
+      "id": "mn109:12.3",
+      "pali": "Ko saññāya assādo, ko ādīnavo, kiṁ nissaraṇaṁ?"
+    },
+    {
+      "id": "mn109:12.4",
+      "pali": "Ko saṅkhāresu assādo, ko ādīnavo, kiṁ nissaraṇaṁ?"
+    },
+    {
+      "id": "mn109:12.5",
+      "pali": "Ko viññāṇe assādo, ko ādīnavo, kiṁ nissaraṇan”ti?"
+    },
+    {
+      "id": "mn109:12.6",
+      "pali": "“Yaṁ kho, bhikkhu, rūpaṁ paṭicca uppajjati sukhaṁ somanassaṁ, ayaṁ rūpe assādo."
+    },
+    {
+      "id": "mn109:12.7",
+      "pali": "Yaṁ rūpaṁ aniccaṁ dukkhaṁ vipariṇāmadhammaṁ, ayaṁ rūpe ādīnavo."
+    },
+    {
+      "id": "mn109:12.8",
+      "pali": "Yo rūpe chandarāgavinayo chandarāgappahānaṁ, idaṁ rūpe nissaraṇaṁ."
+    },
+    {
+      "id": "mn109:12.9",
+      "pali": "Yaṁ kho, bhikkhu, vedanaṁ paṭicca …"
+    },
+    {
+      "id": "mn109:12.10",
+      "pali": "saññaṁ paṭicca …"
+    },
+    {
+      "id": "mn109:12.11",
+      "pali": "saṅkhāre paṭicca …"
+    },
+    {
+      "id": "mn109:12.12",
+      "pali": "viññāṇaṁ paṭicca uppajjati sukhaṁ somanassaṁ, ayaṁ viññāṇe assādo."
+    },
+    {
+      "id": "mn109:12.13",
+      "pali": "Yaṁ viññāṇaṁ aniccaṁ dukkhaṁ vipariṇāmadhammaṁ, ayaṁ viññāṇe ādīnavo."
+    },
+    {
+      "id": "mn109:12.14",
+      "pali": "Yo viññāṇe chandarāgavinayo chandarāgappahānaṁ, idaṁ viññāṇe nissaraṇan”ti."
+    },
+    {
+      "id": "mn109:13.1",
+      "pali": "“Kathaṁ pana, bhante, jānato kathaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na hontī”ti?"
+    },
+    {
+      "id": "mn109:13.2",
+      "pali": "“Yaṁ kiñci, bhikkhu, rūpaṁ—atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā—sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti—evametaṁ yathābhūtaṁ sammappaññāya passati."
+    },
+    {
+      "id": "mn109:13.3",
+      "pali": "Yā kāci vedanā …"
+    },
+    {
+      "id": "mn109:13.4",
+      "pali": "yā kāci saññā …"
+    },
+    {
+      "id": "mn109:13.5",
+      "pali": "ye keci saṅkhārā …"
+    },
+    {
+      "id": "mn109:13.6",
+      "pali": "yaṁ kiñci viññāṇaṁ—atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā—sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti—evametaṁ yathābhūtaṁ sammappaññāya passati."
+    },
+    {
+      "id": "mn109:13.7",
+      "pali": "Evaṁ kho, bhikkhu, jānato evaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na hontī”ti."
+    },
+    {
+      "id": "mn109:14.1",
+      "pali": "Atha kho aññatarassa bhikkhuno evaṁ cetaso parivitakko udapādi:"
+    },
+    {
+      "id": "mn109:14.2",
+      "pali": "“iti kira, bho, rūpaṁ anattā, vedanā anattā, saññā anattā, saṅkhārā anattā, viññāṇaṁ anattā;"
+    },
+    {
+      "id": "mn109:14.3",
+      "pali": "anattakatāni kammāni kamattānaṁ phusissantī”ti?"
+    },
+    {
+      "id": "mn109:14.4",
+      "pali": "Atha kho bhagavā tassa bhikkhuno cetasā cetoparivitakkamaññāya bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn109:14.5",
+      "pali": "“ṭhānaṁ kho panetaṁ, bhikkhave, vijjati yaṁ idhekacco moghapuriso avidvā avijjāgato taṇhādhipateyyena cetasā satthu sāsanaṁ atidhāvitabbaṁ maññeyya:"
+    },
+    {
+      "id": "mn109:14.6",
+      "pali": "‘iti kira, bho, rūpaṁ anattā, vedanā anattā, saññā anattā, saṅkhārā anattā, viññāṇaṁ anattā;"
+    },
+    {
+      "id": "mn109:14.7",
+      "pali": "anattakatāni kammāni kamattānaṁ phusissantī’ti."
+    },
+    {
+      "id": "mn109:14.8",
+      "pali": "Paṭivinītā kho me tumhe, bhikkhave, tatra tatra dhammesu."
+    },
+    {
+      "id": "mn109:15.1",
+      "pali": "Taṁ kiṁ maññatha, bhikkhave,"
+    },
+    {
+      "id": "mn109:15.2",
+      "pali": "rūpaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn109:15.3",
+      "pali": "“Aniccaṁ, bhante”."
+    },
+    {
+      "id": "mn109:15.4",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn109:15.5",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn109:15.6",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn109:15.7",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn109:15.8",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn109:16.1",
+      "pali": "“Taṁ kiṁ maññatha, bhikkhave,"
+    },
+    {
+      "id": "mn109:16.2",
+      "pali": "vedanā …"
+    },
+    {
+      "id": "mn109:16.3",
+      "pali": "saññā …"
+    },
+    {
+      "id": "mn109:16.4",
+      "pali": "saṅkhārā …"
+    },
+    {
+      "id": "mn109:16.5",
+      "pali": "viññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn109:16.6",
+      "pali": "“Aniccaṁ, bhante”."
+    },
+    {
+      "id": "mn109:16.7",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn109:16.8",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn109:16.9",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn109:16.10",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn109:16.11",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn109:16.12",
+      "pali": "“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ."
+    },
+    {
+      "id": "mn109:17.1",
+      "pali": "Yā kāci vedanā …"
+    },
+    {
+      "id": "mn109:17.2",
+      "pali": "yā kāci saññā …"
+    },
+    {
+      "id": "mn109:17.3",
+      "pali": "ye keci saṅkhārā …"
+    },
+    {
+      "id": "mn109:17.4",
+      "pali": "yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ viññāṇaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ."
+    },
+    {
+      "id": "mn109:17.5",
+      "pali": "Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati;"
+    },
+    {
+      "id": "mn109:18.1",
+      "pali": "nibbindaṁ virajjati, virāgā vimuccati. Vimuttasmiṁ vimuttamiti ñāṇaṁ hoti."
+    },
+    {
+      "id": "mn109:18.2",
+      "pali": "‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti."
+    },
+    {
+      "id": "mn109:18.3",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn109:18.4",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn109:18.5",
+      "pali": "Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne saṭṭhimattānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsūti."
+    },
+    {
+      "id": "mn109:18.6",
+      "pali": "Mahāpuṇṇamasuttaṁ niṭṭhitaṁ navamaṁ."
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "uid": "bv10",
+  "title": "10. Padumabuddhavaṁsa",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "bv10:1.1",
+      "pali": "“Anomadassissa aparena,"
+    },
+    {
+      "id": "bv10:1.2",
+      "pali": "Sambuddho dvipaduttamo;"
+    },
+    {
+      "id": "bv10:1.3",
+      "pali": "Padumo nāma nāmena,"
+    },
+    {
+      "id": "bv10:1.4",
+      "pali": "Asamo appaṭipuggalo."
+    },
+    {
+      "id": "bv10:2.1",
+      "pali": "Tassāpi asamaṁ sīlaṁ,"
+    },
+    {
+      "id": "bv10:2.2",
+      "pali": "samādhipi anantako;"
+    },
+    {
+      "id": "bv10:2.3",
+      "pali": "Asaṅkheyyaṁ ñāṇavaraṁ,"
+    },
+    {
+      "id": "bv10:2.4",
+      "pali": "vimuttipi anūpamā."
+    },
+    {
+      "id": "bv10:3.1",
+      "pali": "Tassāpi atulatejassa,"
+    },
+    {
+      "id": "bv10:3.2",
+      "pali": "dhammacakkappavattane;"
+    },
+    {
+      "id": "bv10:3.3",
+      "pali": "Abhisamayā tayo āsuṁ,"
+    },
+    {
+      "id": "bv10:3.4",
+      "pali": "mahātamapavāhanā."
+    },
+    {
+      "id": "bv10:4.1",
+      "pali": "Paṭhamābhisamaye buddho,"
+    },
+    {
+      "id": "bv10:4.2",
+      "pali": "koṭisatamabodhayi;"
+    },
+    {
+      "id": "bv10:4.3",
+      "pali": "Dutiyābhisamaye dhīro,"
+    },
+    {
+      "id": "bv10:4.4",
+      "pali": "navutikoṭimabodhayi."
+    },
+    {
+      "id": "bv10:5.1",
+      "pali": "Yadā ca padumo buddho,"
+    },
+    {
+      "id": "bv10:5.2",
+      "pali": "ovadī sakamatrajaṁ;"
+    },
+    {
+      "id": "bv10:5.3",
+      "pali": "Tadā asītikoṭīnaṁ,"
+    },
+    {
+      "id": "bv10:5.4",
+      "pali": "tatiyābhisamayo ahu."
+    },
+    {
+      "id": "bv10:6.1",
+      "pali": "Sannipātā tayo āsuṁ,"
+    },
+    {
+      "id": "bv10:6.2",
+      "pali": "padumassa mahesino;"
+    },
+    {
+      "id": "bv10:6.3",
+      "pali": "Koṭisatasahassānaṁ,"
+    },
+    {
+      "id": "bv10:6.4",
+      "pali": "paṭhamo āsi samāgamo."
+    },
+    {
+      "id": "bv10:7.1",
+      "pali": "Kathinatthārasamaye,"
+    },
+    {
+      "id": "bv10:7.2",
+      "pali": "uppanne kathinacīvare;"
+    },
+    {
+      "id": "bv10:7.3",
+      "pali": "Dhammasenāpatitthāya,"
+    },
+    {
+      "id": "bv10:7.4",
+      "pali": "bhikkhū sibbiṁsu cīvaraṁ."
+    },
+    {
+      "id": "bv10:8.1",
+      "pali": "Tadā te vimalā bhikkhū,"
+    },
+    {
+      "id": "bv10:8.2",
+      "pali": "chaḷabhiññā mahiddhikā;"
+    },
+    {
+      "id": "bv10:8.3",
+      "pali": "Tīṇi satasahassāni,"
+    },
+    {
+      "id": "bv10:8.4",
+      "pali": "samiṁsu aparājitā."
+    },
+    {
+      "id": "bv10:9.1",
+      "pali": "Punāparaṁ so narāsabho,"
+    },
+    {
+      "id": "bv10:9.2",
+      "pali": "pavane vāsaṁ upāgami;"
+    },
+    {
+      "id": "bv10:9.3",
+      "pali": "Tadā samāgamo āsi,"
+    },
+    {
+      "id": "bv10:9.4",
+      "pali": "dvinnaṁ satasahassinaṁ."
+    },
+    {
+      "id": "bv10:10.1",
+      "pali": "Ahaṁ tena samayena,"
+    },
+    {
+      "id": "bv10:10.2",
+      "pali": "sīho āsiṁ migādhibhū;"
+    },
+    {
+      "id": "bv10:10.3",
+      "pali": "Vivekamanubrūhantaṁ,"
+    },
+    {
+      "id": "bv10:10.4",
+      "pali": "pavane addasaṁ jinaṁ."
+    },
+    {
+      "id": "bv10:11.1",
+      "pali": "Vanditvā sirasā pāde,"
+    },
+    {
+      "id": "bv10:11.2",
+      "pali": "katvāna taṁ padakkhiṇaṁ;"
+    },
+    {
+      "id": "bv10:11.3",
+      "pali": "Tikkhattuṁ abhināditvā,"
+    },
+    {
+      "id": "bv10:11.4",
+      "pali": "sattāhaṁ jinamupaṭṭhahaṁ."
+    },
+    {
+      "id": "bv10:12.1",
+      "pali": "Sattāhaṁ varasamāpattiyā,"
+    },
+    {
+      "id": "bv10:12.2",
+      "pali": "Vuṭṭhahitvā tathāgato;"
+    },
+    {
+      "id": "bv10:12.3",
+      "pali": "Manasā cintayitvāna,"
+    },
+    {
+      "id": "bv10:12.4",
+      "pali": "Koṭibhikkhū samānayi."
+    },
+    {
+      "id": "bv10:13.1",
+      "pali": "Tadāpi so mahāvīro,"
+    },
+    {
+      "id": "bv10:13.2",
+      "pali": "tesaṁ majjhe viyākari;"
+    },
+    {
+      "id": "bv10:13.3",
+      "pali": "‘Aparimeyyito kappe,"
+    },
+    {
+      "id": "bv10:13.4",
+      "pali": "ayaṁ buddho bhavissati."
+    },
+    {
+      "id": "bv10:14.1",
+      "pali": "Padhānaṁ padahitvāna,"
+    },
+    {
+      "id": "bv10:14.2",
+      "pali": "…pe…"
+    },
+    {
+      "id": "bv10:14.3",
+      "pali": "hessāma sammukhā imaṁ’."
+    },
+    {
+      "id": "bv10:15.1",
+      "pali": "Tassāpi vacanaṁ sutvā,"
+    },
+    {
+      "id": "bv10:15.2",
+      "pali": "bhiyyo cittaṁ pasādayiṁ;"
+    },
+    {
+      "id": "bv10:15.3",
+      "pali": "Uttariṁ vatamadhiṭṭhāsiṁ,"
+    },
+    {
+      "id": "bv10:15.4",
+      "pali": "dasapāramipūriyā."
+    },
+    {
+      "id": "bv10:16.1",
+      "pali": "Campakaṁ nāma nagaraṁ,"
+    },
+    {
+      "id": "bv10:16.2",
+      "pali": "asamo nāma khattiyo;"
+    },
+    {
+      "id": "bv10:16.3",
+      "pali": "Asamā nāma janikā,"
+    },
+    {
+      "id": "bv10:16.4",
+      "pali": "padumassa mahesino."
+    },
+    {
+      "id": "bv10:17.1",
+      "pali": "Dasavassasahassāni,"
+    },
+    {
+      "id": "bv10:17.2",
+      "pali": "agāraṁ ajjha so vasi;"
+    },
+    {
+      "id": "bv10:17.3",
+      "pali": "Nandā-vasu-yasuttarā,"
+    },
+    {
+      "id": "bv10:17.4",
+      "pali": "tayo pāsādamuttamā."
+    },
+    {
+      "id": "bv10:18.1",
+      "pali": "Tettiṁsa ca sahassāni,"
+    },
+    {
+      "id": "bv10:18.2",
+      "pali": "nāriyo samalaṅkatā;"
+    },
+    {
+      "id": "bv10:18.3",
+      "pali": "Uttarā nāma sā nārī,"
+    },
+    {
+      "id": "bv10:18.4",
+      "pali": "rammo nāmāsi atrajo."
+    },
+    {
+      "id": "bv10:19.1",
+      "pali": "Nimitte caturo disvā,"
+    },
+    {
+      "id": "bv10:19.2",
+      "pali": "rathayānena nikkhami;"
+    },
+    {
+      "id": "bv10:19.3",
+      "pali": "Anūnaaṭṭhamāsāni,"
+    },
+    {
+      "id": "bv10:19.4",
+      "pali": "padhānaṁ padahī jino."
+    },
+    {
+      "id": "bv10:20.1",
+      "pali": "Brahmunā yācito santo,"
+    },
+    {
+      "id": "bv10:20.2",
+      "pali": "padumo lokanāyako;"
+    },
+    {
+      "id": "bv10:20.3",
+      "pali": "Vatti cakkaṁ mahāvīro,"
+    },
+    {
+      "id": "bv10:20.4",
+      "pali": "dhanañcuyyānamuttame."
+    },
+    {
+      "id": "bv10:21.1",
+      "pali": "Sālo ca upasālo ca,"
+    },
+    {
+      "id": "bv10:21.2",
+      "pali": "ahesuṁ aggasāvakā;"
+    },
+    {
+      "id": "bv10:21.3",
+      "pali": "Varuṇo nāmupaṭṭhāko,"
+    },
+    {
+      "id": "bv10:21.4",
+      "pali": "padumassa mahesino."
+    },
+    {
+      "id": "bv10:22.1",
+      "pali": "Rādhā ceva surādhā ca,"
+    },
+    {
+      "id": "bv10:22.2",
+      "pali": "ahesuṁ aggasāvikā;"
+    },
+    {
+      "id": "bv10:22.3",
+      "pali": "Bodhi tassa bhagavato,"
+    },
+    {
+      "id": "bv10:22.4",
+      "pali": "mahāsoṇoti vuccati."
+    },
+    {
+      "id": "bv10:23.1",
+      "pali": "Bhiyyo ceva asamo ca,"
+    },
+    {
+      "id": "bv10:23.2",
+      "pali": "ahesuṁ aggupaṭṭhakā;"
+    },
+    {
+      "id": "bv10:23.3",
+      "pali": "Rucī ca nandarāmā ca,"
+    },
+    {
+      "id": "bv10:23.4",
+      "pali": "ahesuṁ aggupaṭṭhikā."
+    },
+    {
+      "id": "bv10:24.1",
+      "pali": "Aṭṭhapaṇṇāsaratanaṁ,"
+    },
+    {
+      "id": "bv10:24.2",
+      "pali": "accuggato mahāmuni;"
+    },
+    {
+      "id": "bv10:24.3",
+      "pali": "Pabhā niddhāvatī tassa,"
+    },
+    {
+      "id": "bv10:24.4",
+      "pali": "asamā sabbaso disā."
+    },
+    {
+      "id": "bv10:25.1",
+      "pali": "Candappabhā sūriyappabhā,"
+    },
+    {
+      "id": "bv10:25.2",
+      "pali": "ratanaggimaṇippabhā;"
+    },
+    {
+      "id": "bv10:25.3",
+      "pali": "Sabbāpi tā hatā honti,"
+    },
+    {
+      "id": "bv10:25.4",
+      "pali": "patvā jinapabhuttamaṁ."
+    },
+    {
+      "id": "bv10:26.1",
+      "pali": "Vassasatasahassāni,"
+    },
+    {
+      "id": "bv10:26.2",
+      "pali": "āyu vijjati tāvade;"
+    },
+    {
+      "id": "bv10:26.3",
+      "pali": "Tāvatā tiṭṭhamāno so,"
+    },
+    {
+      "id": "bv10:26.4",
+      "pali": "tāresi janataṁ bahuṁ."
+    },
+    {
+      "id": "bv10:27.1",
+      "pali": "Paripakkamānase satte,"
+    },
+    {
+      "id": "bv10:27.2",
+      "pali": "bodhayitvā asesato;"
+    },
+    {
+      "id": "bv10:27.3",
+      "pali": "Sesake anusāsitvā,"
+    },
+    {
+      "id": "bv10:27.4",
+      "pali": "nibbuto so sasāvako."
+    },
+    {
+      "id": "bv10:28.1",
+      "pali": "Uragova tacaṁ jiṇṇaṁ,"
+    },
+    {
+      "id": "bv10:28.2",
+      "pali": "vaddhapattaṁva pādapo;"
+    },
+    {
+      "id": "bv10:28.3",
+      "pali": "Jahitvā sabbasaṅkhāre,"
+    },
+    {
+      "id": "bv10:28.4",
+      "pali": "nibbuto so yathā sikhī."
+    },
+    {
+      "id": "bv10:29.1",
+      "pali": "Padumo jinavaro satthā,"
+    },
+    {
+      "id": "bv10:29.2",
+      "pali": "Dhammārāmamhi nibbuto;"
+    },
+    {
+      "id": "bv10:29.3",
+      "pali": "Dhātuvitthārikaṁ āsi,"
+    },
+    {
+      "id": "bv10:29.4",
+      "pali": "Tesu tesu padesato”ti."
+    },
+    {
+      "id": "bv10:30.1",
+      "pali": "Padumassa bhagavato vaṁso aṭṭhamo."
+    }
+  ]
+}

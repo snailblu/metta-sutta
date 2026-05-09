@@ -1,0 +1,595 @@
+{
+  "uid": "ja517",
+  "title": "Kiṁchandavagga",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "ja517:1.1",
+      "pali": "“Sace vo vuyhamānānaṁ,"
+    },
+    {
+      "id": "ja517:1.2",
+      "pali": "sattannaṁ udakaṇṇave;"
+    },
+    {
+      "id": "ja517:1.3",
+      "pali": "Manussabalimesāno,"
+    },
+    {
+      "id": "ja517:1.4",
+      "pali": "nāvaṁ gaṇheyya rakkhaso;"
+    },
+    {
+      "id": "ja517:1.5",
+      "pali": "Anupubbaṁ kathaṁ datvā,"
+    },
+    {
+      "id": "ja517:1.6",
+      "pali": "muñcesi dakarakkhasā”."
+    },
+    {
+      "id": "ja517:2.1",
+      "pali": "“Mātaraṁ paṭhamaṁ dajjaṁ,"
+    },
+    {
+      "id": "ja517:2.2",
+      "pali": "Bhariyaṁ datvāna bhātaraṁ;"
+    },
+    {
+      "id": "ja517:2.3",
+      "pali": "Tato sahāyaṁ datvāna,"
+    },
+    {
+      "id": "ja517:2.4",
+      "pali": "Pañcamaṁ dajjaṁ brāhmaṇaṁ;"
+    },
+    {
+      "id": "ja517:2.5",
+      "pali": "Chaṭṭhāhaṁ dajjamattānaṁ,"
+    },
+    {
+      "id": "ja517:2.6",
+      "pali": "Neva dajjaṁ mahosadhaṁ”."
+    },
+    {
+      "id": "ja517:3.1",
+      "pali": "“Posetā te janettī ca,"
+    },
+    {
+      "id": "ja517:3.2",
+      "pali": "dīgharattānukampikā;"
+    },
+    {
+      "id": "ja517:3.3",
+      "pali": "Chabbhī tayi padussati,"
+    },
+    {
+      "id": "ja517:3.4",
+      "pali": "paṇḍitā atthadassinī;"
+    },
+    {
+      "id": "ja517:3.5",
+      "pali": "Aññaṁ upanisaṁ katvā,"
+    },
+    {
+      "id": "ja517:3.6",
+      "pali": "vadhā taṁ parimocayi."
+    },
+    {
+      "id": "ja517:4.1",
+      "pali": "Taṁ tādisiṁ pāṇadadiṁ,"
+    },
+    {
+      "id": "ja517:4.2",
+      "pali": "orasaṁ gabbhadhāriniṁ;"
+    },
+    {
+      "id": "ja517:4.3",
+      "pali": "Mātaraṁ kena dosena,"
+    },
+    {
+      "id": "ja517:4.4",
+      "pali": "dajjāsi dakarakkhino”."
+    },
+    {
+      "id": "ja517:5.1",
+      "pali": "“Daharā viyalaṅkāraṁ,"
+    },
+    {
+      "id": "ja517:5.2",
+      "pali": "dhāreti apiḷandhanaṁ;"
+    },
+    {
+      "id": "ja517:5.3",
+      "pali": "Dovārike anīkaṭṭhe,"
+    },
+    {
+      "id": "ja517:5.4",
+      "pali": "ativelaṁ pajagghati."
+    },
+    {
+      "id": "ja517:6.1",
+      "pali": "Athopi paṭirājūnaṁ,"
+    },
+    {
+      "id": "ja517:6.2",
+      "pali": "sayaṁ dūtāni sāsati;"
+    },
+    {
+      "id": "ja517:6.3",
+      "pali": "Mātaraṁ tena dosena,"
+    },
+    {
+      "id": "ja517:6.4",
+      "pali": "dajjāhaṁ dakarakkhino”."
+    },
+    {
+      "id": "ja517:7.1",
+      "pali": "“Itthigumbassa pavarā,"
+    },
+    {
+      "id": "ja517:7.2",
+      "pali": "accantaṁ piyabhāṇinī;"
+    },
+    {
+      "id": "ja517:7.3",
+      "pali": "Anuggatā sīlavatī,"
+    },
+    {
+      "id": "ja517:7.4",
+      "pali": "chāyāva anapāyinī."
+    },
+    {
+      "id": "ja517:8.1",
+      "pali": "Akkodhanā puññavatī,"
+    },
+    {
+      "id": "ja517:8.2",
+      "pali": "paṇḍitā atthadassinī;"
+    },
+    {
+      "id": "ja517:8.3",
+      "pali": "Ubbariṁ kena dosena,"
+    },
+    {
+      "id": "ja517:8.4",
+      "pali": "dajjāsi dakarakkhino”."
+    },
+    {
+      "id": "ja517:9.1",
+      "pali": "“Khiḍḍāratisamāpannaṁ,"
+    },
+    {
+      "id": "ja517:9.2",
+      "pali": "anatthavasamāgataṁ;"
+    },
+    {
+      "id": "ja517:9.3",
+      "pali": "Sā maṁ sakāna puttānaṁ,"
+    },
+    {
+      "id": "ja517:9.4",
+      "pali": "ayācaṁ yācate dhanaṁ."
+    },
+    {
+      "id": "ja517:10.1",
+      "pali": "Sohaṁ dadāmi sāratto,"
+    },
+    {
+      "id": "ja517:10.2",
+      "pali": "bahuṁ uccāvacaṁ dhanaṁ;"
+    },
+    {
+      "id": "ja517:10.3",
+      "pali": "Suduccajaṁ cajitvāna,"
+    },
+    {
+      "id": "ja517:10.4",
+      "pali": "pacchā socāmi dummano;"
+    },
+    {
+      "id": "ja517:10.5",
+      "pali": "Ubbariṁ tena dosena,"
+    },
+    {
+      "id": "ja517:10.6",
+      "pali": "dajjāhaṁ dakarakkhino”."
+    },
+    {
+      "id": "ja517:11.1",
+      "pali": "“Yenocitā janapadā,"
+    },
+    {
+      "id": "ja517:11.2",
+      "pali": "ānītā ca paṭiggahaṁ;"
+    },
+    {
+      "id": "ja517:11.3",
+      "pali": "Ābhataṁ pararajjebhi,"
+    },
+    {
+      "id": "ja517:11.4",
+      "pali": "abhiṭṭhāya bahuṁ dhanaṁ."
+    },
+    {
+      "id": "ja517:12.1",
+      "pali": "Dhanuggahānaṁ pavaraṁ,"
+    },
+    {
+      "id": "ja517:12.2",
+      "pali": "sūraṁ tikhiṇamantinaṁ;"
+    },
+    {
+      "id": "ja517:12.3",
+      "pali": "Bhātaraṁ kena dosena,"
+    },
+    {
+      "id": "ja517:12.4",
+      "pali": "dajjāsi dakarakkhino”."
+    },
+    {
+      "id": "ja517:13.1",
+      "pali": "“Yenocitā janapadā,"
+    },
+    {
+      "id": "ja517:13.2",
+      "pali": "ānītā ca paṭiggahaṁ;"
+    },
+    {
+      "id": "ja517:13.3",
+      "pali": "Ābhataṁ pararajjebhi,"
+    },
+    {
+      "id": "ja517:13.4",
+      "pali": "abhiṭṭhāya bahuṁ dhanaṁ."
+    },
+    {
+      "id": "ja517:14.1",
+      "pali": "Dhanuggahānaṁ pavaro,"
+    },
+    {
+      "id": "ja517:14.2",
+      "pali": "sūro tikhiṇamanti ca;"
+    },
+    {
+      "id": "ja517:14.3",
+      "pali": "Mayāyaṁ sukhito rājā,"
+    },
+    {
+      "id": "ja517:14.4",
+      "pali": "atimaññati dārako."
+    },
+    {
+      "id": "ja517:15.1",
+      "pali": "Upaṭṭhānampi me ayye,"
+    },
+    {
+      "id": "ja517:15.2",
+      "pali": "na so eti yathā pure;"
+    },
+    {
+      "id": "ja517:15.3",
+      "pali": "Bhātaraṁ tena dosena,"
+    },
+    {
+      "id": "ja517:15.4",
+      "pali": "dajjāhaṁ dakarakkhino”."
+    },
+    {
+      "id": "ja517:16.1",
+      "pali": "“Ekarattena ubhayo,"
+    },
+    {
+      "id": "ja517:16.2",
+      "pali": "tvañceva dhanusekha ca;"
+    },
+    {
+      "id": "ja517:16.3",
+      "pali": "Ubho jātettha pañcālā,"
+    },
+    {
+      "id": "ja517:16.4",
+      "pali": "sahāyā susamāvayā."
+    },
+    {
+      "id": "ja517:17.1",
+      "pali": "Cariyā taṁ anubandhittho,"
+    },
+    {
+      "id": "ja517:17.2",
+      "pali": "ekadukkhasukho tava;"
+    },
+    {
+      "id": "ja517:17.3",
+      "pali": "Ussukko te divārattiṁ,"
+    },
+    {
+      "id": "ja517:17.4",
+      "pali": "sabbakiccesu byāvaṭo;"
+    },
+    {
+      "id": "ja517:17.5",
+      "pali": "Sahāyaṁ kena dosena,"
+    },
+    {
+      "id": "ja517:17.6",
+      "pali": "dajjāsi dakarakkhino”."
+    },
+    {
+      "id": "ja517:18.1",
+      "pali": "“Cariyā maṁ ayaṁ ayye,"
+    },
+    {
+      "id": "ja517:18.2",
+      "pali": "pajagghittho mayā saha;"
+    },
+    {
+      "id": "ja517:18.3",
+      "pali": "Ajjāpi tena vaṇṇena,"
+    },
+    {
+      "id": "ja517:18.4",
+      "pali": "ativelaṁ pajagghati."
+    },
+    {
+      "id": "ja517:19.1",
+      "pali": "Ubbariyāpihaṁ ayye,"
+    },
+    {
+      "id": "ja517:19.2",
+      "pali": "mantayāmi rahogato;"
+    },
+    {
+      "id": "ja517:19.3",
+      "pali": "Anāmanto pavisati,"
+    },
+    {
+      "id": "ja517:19.4",
+      "pali": "pubbe appaṭivedito."
+    },
+    {
+      "id": "ja517:20.1",
+      "pali": "Laddhadvāro katokāso,"
+    },
+    {
+      "id": "ja517:20.2",
+      "pali": "ahirikaṁ anādaraṁ;"
+    },
+    {
+      "id": "ja517:20.3",
+      "pali": "Sahāyaṁ tena dosena,"
+    },
+    {
+      "id": "ja517:20.4",
+      "pali": "dajjāhaṁ dakarakkhino”."
+    },
+    {
+      "id": "ja517:21.1",
+      "pali": "“Kusalo sabbanimittānaṁ,"
+    },
+    {
+      "id": "ja517:21.2",
+      "pali": "rutaññū āgatāgamo;"
+    },
+    {
+      "id": "ja517:21.3",
+      "pali": "Uppāte supine yutto,"
+    },
+    {
+      "id": "ja517:21.4",
+      "pali": "niyyāne ca pavesane."
+    },
+    {
+      "id": "ja517:22.1",
+      "pali": "Paṭṭho bhūmantalikkhasmiṁ,"
+    },
+    {
+      "id": "ja517:22.2",
+      "pali": "Nakkhattapadakovido;"
+    },
+    {
+      "id": "ja517:22.3",
+      "pali": "Brāhmaṇaṁ kena dosena,"
+    },
+    {
+      "id": "ja517:22.4",
+      "pali": "Dajjāsi dakarakkhino”."
+    },
+    {
+      "id": "ja517:23.1",
+      "pali": "“Parisāyampi me ayye,"
+    },
+    {
+      "id": "ja517:23.2",
+      "pali": "ummīlitvā udikkhati;"
+    },
+    {
+      "id": "ja517:23.3",
+      "pali": "Tasmā accabhamuṁ luddaṁ,"
+    },
+    {
+      "id": "ja517:23.4",
+      "pali": "dajjāhaṁ dakarakkhino”."
+    },
+    {
+      "id": "ja517:24.1",
+      "pali": "“Sasamuddapariyāyaṁ,"
+    },
+    {
+      "id": "ja517:24.2",
+      "pali": "mahiṁ sāgarakuṇḍalaṁ;"
+    },
+    {
+      "id": "ja517:24.3",
+      "pali": "Vasundharaṁ āvasasi,"
+    },
+    {
+      "id": "ja517:24.4",
+      "pali": "amaccaparivārito."
+    },
+    {
+      "id": "ja517:25.1",
+      "pali": "Cāturanto mahāraṭṭho,"
+    },
+    {
+      "id": "ja517:25.2",
+      "pali": "vijitāvī mahabbalo;"
+    },
+    {
+      "id": "ja517:25.3",
+      "pali": "Pathabyā ekarājāsi,"
+    },
+    {
+      "id": "ja517:25.4",
+      "pali": "yaso te vipulaṁ gato."
+    },
+    {
+      "id": "ja517:26.1",
+      "pali": "Soḷasitthisahassāni,"
+    },
+    {
+      "id": "ja517:26.2",
+      "pali": "āmuttamaṇikuṇḍalā;"
+    },
+    {
+      "id": "ja517:26.3",
+      "pali": "Nānājanapadā nārī,"
+    },
+    {
+      "id": "ja517:26.4",
+      "pali": "devakaññūpamā subhā."
+    },
+    {
+      "id": "ja517:27.1",
+      "pali": "Evaṁ sabbaṅgasampannaṁ,"
+    },
+    {
+      "id": "ja517:27.2",
+      "pali": "sabbakāmasamiddhinaṁ;"
+    },
+    {
+      "id": "ja517:27.3",
+      "pali": "Sukhitānaṁ piyaṁ dīghaṁ,"
+    },
+    {
+      "id": "ja517:27.4",
+      "pali": "jīvitaṁ āhu khattiya."
+    },
+    {
+      "id": "ja517:28.1",
+      "pali": "Atha tvaṁ kena vaṇṇena,"
+    },
+    {
+      "id": "ja517:28.2",
+      "pali": "kena vā pana hetunā;"
+    },
+    {
+      "id": "ja517:28.3",
+      "pali": "Paṇḍitaṁ anurakkhanto,"
+    },
+    {
+      "id": "ja517:28.4",
+      "pali": "pāṇaṁ cajasi duccajaṁ”."
+    },
+    {
+      "id": "ja517:29.1",
+      "pali": "“Yatopi āgato ayye,"
+    },
+    {
+      "id": "ja517:29.2",
+      "pali": "mama hatthaṁ mahosadho;"
+    },
+    {
+      "id": "ja517:29.3",
+      "pali": "Nābhijānāmi dhīrassa,"
+    },
+    {
+      "id": "ja517:29.4",
+      "pali": "anumattampi dukkaṭaṁ."
+    },
+    {
+      "id": "ja517:30.1",
+      "pali": "Sace ca kismici kāle,"
+    },
+    {
+      "id": "ja517:30.2",
+      "pali": "maraṇaṁ me pure siyā;"
+    },
+    {
+      "id": "ja517:30.3",
+      "pali": "So me putte paputte ca,"
+    },
+    {
+      "id": "ja517:30.4",
+      "pali": "sukhāpeyya mahosadho."
+    },
+    {
+      "id": "ja517:31.1",
+      "pali": "Anāgataṁ paccuppannaṁ,"
+    },
+    {
+      "id": "ja517:31.2",
+      "pali": "sabbamatthampi passati;"
+    },
+    {
+      "id": "ja517:31.3",
+      "pali": "Anāparādhakammantaṁ,"
+    },
+    {
+      "id": "ja517:31.4",
+      "pali": "na dajjaṁ dakarakkhino”."
+    },
+    {
+      "id": "ja517:32.1",
+      "pali": "“Idaṁ suṇātha pañcālā,"
+    },
+    {
+      "id": "ja517:32.2",
+      "pali": "cūḷaneyyassa bhāsitaṁ;"
+    },
+    {
+      "id": "ja517:32.3",
+      "pali": "Paṇḍitaṁ anurakkhanto,"
+    },
+    {
+      "id": "ja517:32.4",
+      "pali": "pāṇaṁ cajati duccajaṁ."
+    },
+    {
+      "id": "ja517:33.1",
+      "pali": "Mātu bhariyāya bhātucca,"
+    },
+    {
+      "id": "ja517:33.2",
+      "pali": "sakhino brāhmaṇassa ca;"
+    },
+    {
+      "id": "ja517:33.3",
+      "pali": "Attano cāpi pañcālo,"
+    },
+    {
+      "id": "ja517:33.4",
+      "pali": "channaṁ cajati jīvitaṁ."
+    },
+    {
+      "id": "ja517:34.1",
+      "pali": "Evaṁ mahatthikā paññā,"
+    },
+    {
+      "id": "ja517:34.2",
+      "pali": "nipuṇā sādhucintinī;"
+    },
+    {
+      "id": "ja517:34.3",
+      "pali": "Diṭṭhadhammahitatthāya,"
+    },
+    {
+      "id": "ja517:34.4",
+      "pali": "samparāyasukhāya cā”ti."
+    },
+    {
+      "id": "ja517:35.1",
+      "pali": "Dakarakkhasajātakaṁ sattamaṁ."
+    }
+  ]
+}

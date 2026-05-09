@@ -1,0 +1,859 @@
+{
+  "uid": "bv26",
+  "title": "26. Kassapabuddhavaṁsa",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "bv26:1.1",
+      "pali": "“Koṇāgamanassa aparena,"
+    },
+    {
+      "id": "bv26:1.2",
+      "pali": "Sambuddho dvipaduttamo;"
+    },
+    {
+      "id": "bv26:1.3",
+      "pali": "Kassapo nāma gottena,"
+    },
+    {
+      "id": "bv26:1.4",
+      "pali": "Dhammarājā pabhaṅkaro."
+    },
+    {
+      "id": "bv26:2.1",
+      "pali": "Sañchaḍḍitaṁ kulamūlaṁ,"
+    },
+    {
+      "id": "bv26:2.2",
+      "pali": "bahvannapānabhojanaṁ;"
+    },
+    {
+      "id": "bv26:2.3",
+      "pali": "Datvāna yācake dānaṁ,"
+    },
+    {
+      "id": "bv26:2.4",
+      "pali": "pūrayitvāna mānasaṁ;"
+    },
+    {
+      "id": "bv26:2.5",
+      "pali": "Usabhova āḷakaṁ bhetvā,"
+    },
+    {
+      "id": "bv26:2.6",
+      "pali": "patto sambodhimuttamaṁ."
+    },
+    {
+      "id": "bv26:3.1",
+      "pali": "Dhammacakkaṁ pavattente,"
+    },
+    {
+      "id": "bv26:3.2",
+      "pali": "kassape lokanāyake;"
+    },
+    {
+      "id": "bv26:3.3",
+      "pali": "Vīsakoṭisahassānaṁ,"
+    },
+    {
+      "id": "bv26:3.4",
+      "pali": "paṭhamābhisamayo ahu."
+    },
+    {
+      "id": "bv26:4.1",
+      "pali": "Catumāsaṁ yadā buddho,"
+    },
+    {
+      "id": "bv26:4.2",
+      "pali": "loke carati cārikaṁ;"
+    },
+    {
+      "id": "bv26:4.3",
+      "pali": "Dasakoṭisahassānaṁ,"
+    },
+    {
+      "id": "bv26:4.4",
+      "pali": "dutiyābhisamayo ahu."
+    },
+    {
+      "id": "bv26:5.1",
+      "pali": "Yamakaṁ vikubbanaṁ katvā,"
+    },
+    {
+      "id": "bv26:5.2",
+      "pali": "ñāṇadhātuṁ pakittayi;"
+    },
+    {
+      "id": "bv26:5.3",
+      "pali": "Pañcakoṭisahassānaṁ,"
+    },
+    {
+      "id": "bv26:5.4",
+      "pali": "tatiyābhisamayo ahu."
+    },
+    {
+      "id": "bv26:6.1",
+      "pali": "Sudhammā devapure ramme,"
+    },
+    {
+      "id": "bv26:6.2",
+      "pali": "tattha dhammaṁ pakittayi;"
+    },
+    {
+      "id": "bv26:6.3",
+      "pali": "Tīṇikoṭisahassānaṁ,"
+    },
+    {
+      "id": "bv26:6.4",
+      "pali": "devānaṁ bodhayī jino."
+    },
+    {
+      "id": "bv26:7.1",
+      "pali": "Naradevassa yakkhassa,"
+    },
+    {
+      "id": "bv26:7.2",
+      "pali": "apare dhammadesane;"
+    },
+    {
+      "id": "bv26:7.3",
+      "pali": "Etesānaṁ abhisamayā,"
+    },
+    {
+      "id": "bv26:7.4",
+      "pali": "gaṇanāto asaṅkhiyā."
+    },
+    {
+      "id": "bv26:8.1",
+      "pali": "Tassāpi devadevassa,"
+    },
+    {
+      "id": "bv26:8.2",
+      "pali": "eko āsi samāgamo;"
+    },
+    {
+      "id": "bv26:8.3",
+      "pali": "Khīṇāsavānaṁ vimalānaṁ,"
+    },
+    {
+      "id": "bv26:8.4",
+      "pali": "santacittāna tādinaṁ."
+    },
+    {
+      "id": "bv26:9.1",
+      "pali": "Vīsabhikkhusahassānaṁ,"
+    },
+    {
+      "id": "bv26:9.2",
+      "pali": "tadā āsi samāgamo;"
+    },
+    {
+      "id": "bv26:9.3",
+      "pali": "Atikkantabhavantānaṁ,"
+    },
+    {
+      "id": "bv26:9.4",
+      "pali": "hirisīlena tādinaṁ."
+    },
+    {
+      "id": "bv26:10.1",
+      "pali": "Ahaṁ tadā māṇavako,"
+    },
+    {
+      "id": "bv26:10.2",
+      "pali": "jotipāloti vissuto;"
+    },
+    {
+      "id": "bv26:10.3",
+      "pali": "Ajjhāyako mantadharo,"
+    },
+    {
+      "id": "bv26:10.4",
+      "pali": "tiṇṇaṁ vedāna pāragū."
+    },
+    {
+      "id": "bv26:11.1",
+      "pali": "Lakkhaṇe itihāse ca,"
+    },
+    {
+      "id": "bv26:11.2",
+      "pali": "sadhamme pāramiṁ gato;"
+    },
+    {
+      "id": "bv26:11.3",
+      "pali": "Bhūmantalikkhakusalo,"
+    },
+    {
+      "id": "bv26:11.4",
+      "pali": "katavijjo anāvayo."
+    },
+    {
+      "id": "bv26:12.1",
+      "pali": "Kassapassa bhagavato,"
+    },
+    {
+      "id": "bv26:12.2",
+      "pali": "ghaṭīkāro nāmupaṭṭhāko;"
+    },
+    {
+      "id": "bv26:12.3",
+      "pali": "Sagāravo sappatisso,"
+    },
+    {
+      "id": "bv26:12.4",
+      "pali": "nibbuto tatiye phale."
+    },
+    {
+      "id": "bv26:13.1",
+      "pali": "Ādāya maṁ ghaṭīkāro,"
+    },
+    {
+      "id": "bv26:13.2",
+      "pali": "upagañchi kassapaṁ jinaṁ;"
+    },
+    {
+      "id": "bv26:13.3",
+      "pali": "Tassa dhammaṁ suṇitvāna,"
+    },
+    {
+      "id": "bv26:13.4",
+      "pali": "pabbajiṁ tassa santike."
+    },
+    {
+      "id": "bv26:14.1",
+      "pali": "Āraddhavīriyo hutvā,"
+    },
+    {
+      "id": "bv26:14.2",
+      "pali": "vattāvattesu kovido;"
+    },
+    {
+      "id": "bv26:14.3",
+      "pali": "Na kvaci parihāyāmi,"
+    },
+    {
+      "id": "bv26:14.4",
+      "pali": "pūresiṁ jinasāsanaṁ."
+    },
+    {
+      "id": "bv26:15.1",
+      "pali": "Yāvatā buddhabhaṇitaṁ,"
+    },
+    {
+      "id": "bv26:15.2",
+      "pali": "navaṅgaṁ jinasāsanaṁ;"
+    },
+    {
+      "id": "bv26:15.3",
+      "pali": "Sabbaṁ pariyāpuṇitvāna,"
+    },
+    {
+      "id": "bv26:15.4",
+      "pali": "sobhayiṁ jinasāsanaṁ."
+    },
+    {
+      "id": "bv26:16.1",
+      "pali": "Mama acchariyaṁ disvā,"
+    },
+    {
+      "id": "bv26:16.2",
+      "pali": "sopi buddho viyākari;"
+    },
+    {
+      "id": "bv26:16.3",
+      "pali": "‘Imamhi bhaddake kappe,"
+    },
+    {
+      "id": "bv26:16.4",
+      "pali": "ayaṁ buddho bhavissati."
+    },
+    {
+      "id": "bv26:17.1",
+      "pali": "Ahu kapilavhayā rammā,"
+    },
+    {
+      "id": "bv26:17.2",
+      "pali": "nikkhamitvā tathāgato;"
+    },
+    {
+      "id": "bv26:17.3",
+      "pali": "Padhānaṁ padahitvāna,"
+    },
+    {
+      "id": "bv26:17.4",
+      "pali": "katvā dukkarakārikaṁ."
+    },
+    {
+      "id": "bv26:18.1",
+      "pali": "Ajapālarukkhamūle,"
+    },
+    {
+      "id": "bv26:18.2",
+      "pali": "nisīditvā tathāgato;"
+    },
+    {
+      "id": "bv26:18.3",
+      "pali": "Tattha pāyāsaṁ paggayha,"
+    },
+    {
+      "id": "bv26:18.4",
+      "pali": "nerañjaramupehiti."
+    },
+    {
+      "id": "bv26:19.1",
+      "pali": "Nerañjarāya tīramhi,"
+    },
+    {
+      "id": "bv26:19.2",
+      "pali": "pāyāsaṁ paribhuñjiya;"
+    },
+    {
+      "id": "bv26:19.3",
+      "pali": "Paṭiyattavaramaggena,"
+    },
+    {
+      "id": "bv26:19.4",
+      "pali": "bodhimūlamupehiti."
+    },
+    {
+      "id": "bv26:20.1",
+      "pali": "Tato padakkhiṇaṁ katvā,"
+    },
+    {
+      "id": "bv26:20.2",
+      "pali": "bodhimaṇḍaṁ anuttaro;"
+    },
+    {
+      "id": "bv26:20.3",
+      "pali": "Aparājitaṭṭhānamhi,"
+    },
+    {
+      "id": "bv26:20.4",
+      "pali": "bodhipallaṅkamuttame;"
+    },
+    {
+      "id": "bv26:20.5",
+      "pali": "Pallaṅkena nisīditvā,"
+    },
+    {
+      "id": "bv26:20.6",
+      "pali": "bujjhissati mahāyaso."
+    },
+    {
+      "id": "bv26:21.1",
+      "pali": "Imassa janikā mātā,"
+    },
+    {
+      "id": "bv26:21.2",
+      "pali": "māyā nāma bhavissati;"
+    },
+    {
+      "id": "bv26:21.3",
+      "pali": "Pitā suddhodano nāma,"
+    },
+    {
+      "id": "bv26:21.4",
+      "pali": "ayaṁ hessati gotamo."
+    },
+    {
+      "id": "bv26:22.1",
+      "pali": "Anāsavā vītarāgā,"
+    },
+    {
+      "id": "bv26:22.2",
+      "pali": "santacittā samāhitā;"
+    },
+    {
+      "id": "bv26:22.3",
+      "pali": "Kolito upatisso ca,"
+    },
+    {
+      "id": "bv26:22.4",
+      "pali": "aggā hessanti sāvakā;"
+    },
+    {
+      "id": "bv26:22.5",
+      "pali": "Ānando nāmupaṭṭhāko,"
+    },
+    {
+      "id": "bv26:22.6",
+      "pali": "upaṭṭhissatimaṁ jinaṁ."
+    },
+    {
+      "id": "bv26:23.1",
+      "pali": "Khemā uppalavaṇṇā ca,"
+    },
+    {
+      "id": "bv26:23.2",
+      "pali": "aggā hessanti sāvikā;"
+    },
+    {
+      "id": "bv26:23.3",
+      "pali": "Anāsavā santacittā,"
+    },
+    {
+      "id": "bv26:23.4",
+      "pali": "vītarāgā samāhitā;"
+    },
+    {
+      "id": "bv26:23.5",
+      "pali": "Bodhi tassa bhagavato,"
+    },
+    {
+      "id": "bv26:23.6",
+      "pali": "assatthoti pavuccati."
+    },
+    {
+      "id": "bv26:24.1",
+      "pali": "Citto hatthāḷavako ca,"
+    },
+    {
+      "id": "bv26:24.2",
+      "pali": "aggā hessantupaṭṭhakā;"
+    },
+    {
+      "id": "bv26:24.3",
+      "pali": "Nandamātā ca uttarā,"
+    },
+    {
+      "id": "bv26:24.4",
+      "pali": "aggā hessantupaṭṭhikā’."
+    },
+    {
+      "id": "bv26:25.1",
+      "pali": "Idaṁ sutvāna vacanaṁ,"
+    },
+    {
+      "id": "bv26:25.2",
+      "pali": "assamassa mahesino;"
+    },
+    {
+      "id": "bv26:25.3",
+      "pali": "Āmoditā naramarū,"
+    },
+    {
+      "id": "bv26:25.4",
+      "pali": "buddhabījaṁ kira ayaṁ."
+    },
+    {
+      "id": "bv26:26.1",
+      "pali": "Ukkuṭṭhisaddā pavattanti,"
+    },
+    {
+      "id": "bv26:26.2",
+      "pali": "apphoṭenti hasanti ca;"
+    },
+    {
+      "id": "bv26:26.3",
+      "pali": "Katañjalī namassanti,"
+    },
+    {
+      "id": "bv26:26.4",
+      "pali": "dasasahassī sadevakā."
+    },
+    {
+      "id": "bv26:27.1",
+      "pali": "‘Yadimassa lokanāthassa,"
+    },
+    {
+      "id": "bv26:27.2",
+      "pali": "virajjhissāma sāsanaṁ;"
+    },
+    {
+      "id": "bv26:27.3",
+      "pali": "Anāgatamhi addhāne,"
+    },
+    {
+      "id": "bv26:27.4",
+      "pali": "hessāma sammukhā imaṁ."
+    },
+    {
+      "id": "bv26:28.1",
+      "pali": "Yathā manussā nadiṁ tarantā,"
+    },
+    {
+      "id": "bv26:28.2",
+      "pali": "Paṭititthaṁ virajjhiya;"
+    },
+    {
+      "id": "bv26:28.3",
+      "pali": "Heṭṭhā titthe gahetvāna,"
+    },
+    {
+      "id": "bv26:28.4",
+      "pali": "Uttaranti mahānadiṁ."
+    },
+    {
+      "id": "bv26:29.1",
+      "pali": "Evamevaṁ mayaṁ sabbe,"
+    },
+    {
+      "id": "bv26:29.2",
+      "pali": "yadi muñcāmimaṁ jinaṁ;"
+    },
+    {
+      "id": "bv26:29.3",
+      "pali": "Anāgatamhi addhāne,"
+    },
+    {
+      "id": "bv26:29.4",
+      "pali": "hessāma sammukhā imaṁ’."
+    },
+    {
+      "id": "bv26:30.1",
+      "pali": "Tassāpi vacanaṁ sutvā,"
+    },
+    {
+      "id": "bv26:30.2",
+      "pali": "bhiyyo cittaṁ pasādayiṁ;"
+    },
+    {
+      "id": "bv26:30.3",
+      "pali": "Uttariṁ vatamadhiṭṭhāsiṁ,"
+    },
+    {
+      "id": "bv26:30.4",
+      "pali": "dasapāramipūriyā."
+    },
+    {
+      "id": "bv26:31.1",
+      "pali": "Evamahaṁ saṁsaritvā,"
+    },
+    {
+      "id": "bv26:31.2",
+      "pali": "parivajjento anācaraṁ;"
+    },
+    {
+      "id": "bv26:31.3",
+      "pali": "Dukkarañca kataṁ mayhaṁ,"
+    },
+    {
+      "id": "bv26:31.4",
+      "pali": "bodhiyāyeva kāraṇā."
+    },
+    {
+      "id": "bv26:32.1",
+      "pali": "Nagaraṁ bārāṇasī nāma,"
+    },
+    {
+      "id": "bv26:32.2",
+      "pali": "kikī nāmāsi khattiyo;"
+    },
+    {
+      "id": "bv26:32.3",
+      "pali": "Vasate tattha nagare,"
+    },
+    {
+      "id": "bv26:32.4",
+      "pali": "sambuddhassa mahākulaṁ."
+    },
+    {
+      "id": "bv26:33.1",
+      "pali": "Brāhmaṇo brahmadattova,"
+    },
+    {
+      "id": "bv26:33.2",
+      "pali": "āsi buddhassa so pitā;"
+    },
+    {
+      "id": "bv26:33.3",
+      "pali": "Dhanavatī nāma janikā,"
+    },
+    {
+      "id": "bv26:33.4",
+      "pali": "kassapassa mahesino."
+    },
+    {
+      "id": "bv26:34.1",
+      "pali": "Duve vassasahassāni,"
+    },
+    {
+      "id": "bv26:34.2",
+      "pali": "agāraṁ ajjha so vasi;"
+    },
+    {
+      "id": "bv26:34.3",
+      "pali": "Haṁso yaso sirinando,"
+    },
+    {
+      "id": "bv26:34.4",
+      "pali": "tayo pāsādamuttamā."
+    },
+    {
+      "id": "bv26:35.1",
+      "pali": "Tisoḷasasahassāni,"
+    },
+    {
+      "id": "bv26:35.2",
+      "pali": "Nāriyo samalaṅkatā;"
+    },
+    {
+      "id": "bv26:35.3",
+      "pali": "Sunandā nāma sā nārī,"
+    },
+    {
+      "id": "bv26:35.4",
+      "pali": "Vijitaseno nāma atrajo."
+    },
+    {
+      "id": "bv26:36.1",
+      "pali": "Nimitte caturo disvā,"
+    },
+    {
+      "id": "bv26:36.2",
+      "pali": "pāsādenābhinikkhami;"
+    },
+    {
+      "id": "bv26:36.3",
+      "pali": "Sattāhaṁ padhānacāraṁ,"
+    },
+    {
+      "id": "bv26:36.4",
+      "pali": "acarī purisuttamo."
+    },
+    {
+      "id": "bv26:37.1",
+      "pali": "Brahmunā yācito santo,"
+    },
+    {
+      "id": "bv26:37.2",
+      "pali": "kassapo lokanāyako;"
+    },
+    {
+      "id": "bv26:37.3",
+      "pali": "Vatti cakkaṁ mahāvīro,"
+    },
+    {
+      "id": "bv26:37.4",
+      "pali": "migadāye naruttamo."
+    },
+    {
+      "id": "bv26:38.1",
+      "pali": "Tisso ca bhāradvājo ca,"
+    },
+    {
+      "id": "bv26:38.2",
+      "pali": "ahesuṁ aggasāvakā;"
+    },
+    {
+      "id": "bv26:38.3",
+      "pali": "Sabbamitto nāmupaṭṭhāko,"
+    },
+    {
+      "id": "bv26:38.4",
+      "pali": "kassapassa mahesino."
+    },
+    {
+      "id": "bv26:39.1",
+      "pali": "Anuḷā uruvelā ca,"
+    },
+    {
+      "id": "bv26:39.2",
+      "pali": "ahesuṁ aggasāvikā;"
+    },
+    {
+      "id": "bv26:39.3",
+      "pali": "Bodhi tassa bhagavato,"
+    },
+    {
+      "id": "bv26:39.4",
+      "pali": "nigrodhoti pavuccati."
+    },
+    {
+      "id": "bv26:40.1",
+      "pali": "Sumaṅgalo ghaṭikāro ca,"
+    },
+    {
+      "id": "bv26:40.2",
+      "pali": "ahesuṁ aggupaṭṭhakā;"
+    },
+    {
+      "id": "bv26:40.3",
+      "pali": "Vicitasenā bhaddā ca,"
+    },
+    {
+      "id": "bv26:40.4",
+      "pali": "ahesuṁ aggupaṭṭhikā."
+    },
+    {
+      "id": "bv26:41.1",
+      "pali": "Uccattanena so buddho,"
+    },
+    {
+      "id": "bv26:41.2",
+      "pali": "vīsatiratanuggato;"
+    },
+    {
+      "id": "bv26:41.3",
+      "pali": "Vijjulaṭṭhīva ākāse,"
+    },
+    {
+      "id": "bv26:41.4",
+      "pali": "candova gahapūrito."
+    },
+    {
+      "id": "bv26:42.1",
+      "pali": "Vīsativassasahassāni,"
+    },
+    {
+      "id": "bv26:42.2",
+      "pali": "āyu tassa mahesino;"
+    },
+    {
+      "id": "bv26:42.3",
+      "pali": "Tāvatā tiṭṭhamāno so,"
+    },
+    {
+      "id": "bv26:42.4",
+      "pali": "tāresi janataṁ bahuṁ."
+    },
+    {
+      "id": "bv26:43.1",
+      "pali": "Dhammataḷākaṁ māpayitvā,"
+    },
+    {
+      "id": "bv26:43.2",
+      "pali": "sīlaṁ datvā vilepanaṁ;"
+    },
+    {
+      "id": "bv26:43.3",
+      "pali": "Dhammadussaṁ nivāsetvā,"
+    },
+    {
+      "id": "bv26:43.4",
+      "pali": "dhammamālaṁ vibhajjiya."
+    },
+    {
+      "id": "bv26:44.1",
+      "pali": "Dhammavimalamādāsaṁ,"
+    },
+    {
+      "id": "bv26:44.2",
+      "pali": "ṭhapayitvā mahājane;"
+    },
+    {
+      "id": "bv26:44.3",
+      "pali": "Keci nibbānaṁ patthentā,"
+    },
+    {
+      "id": "bv26:44.4",
+      "pali": "passantu me alaṅkaraṁ."
+    },
+    {
+      "id": "bv26:45.1",
+      "pali": "Sīlakañcukaṁ datvāna,"
+    },
+    {
+      "id": "bv26:45.2",
+      "pali": "jhānakavacavammitaṁ;"
+    },
+    {
+      "id": "bv26:45.3",
+      "pali": "Dhammacammaṁ pārupitvā,"
+    },
+    {
+      "id": "bv26:45.4",
+      "pali": "datvā sannāhamuttamaṁ."
+    },
+    {
+      "id": "bv26:46.1",
+      "pali": "Satiphalakaṁ datvāna,"
+    },
+    {
+      "id": "bv26:46.2",
+      "pali": "tikhiṇañāṇakuntimaṁ;"
+    },
+    {
+      "id": "bv26:46.3",
+      "pali": "Dhammakhaggavaraṁ datvā,"
+    },
+    {
+      "id": "bv26:46.4",
+      "pali": "sīlasaṁsaggamaddanaṁ."
+    },
+    {
+      "id": "bv26:47.1",
+      "pali": "Tevijjābhūsanaṁ datvāna,"
+    },
+    {
+      "id": "bv26:47.2",
+      "pali": "āveḷaṁ caturo phale;"
+    },
+    {
+      "id": "bv26:47.3",
+      "pali": "Chaḷabhiññābharaṇaṁ datvā,"
+    },
+    {
+      "id": "bv26:47.4",
+      "pali": "dhammapupphapiḷandhanaṁ."
+    },
+    {
+      "id": "bv26:48.1",
+      "pali": "Saddhammapaṇḍaracchattaṁ,"
+    },
+    {
+      "id": "bv26:48.2",
+      "pali": "datvā pāpanivāraṇaṁ;"
+    },
+    {
+      "id": "bv26:48.3",
+      "pali": "Māpayitvābhayaṁ pupphaṁ,"
+    },
+    {
+      "id": "bv26:48.4",
+      "pali": "nibbuto so sasāvako."
+    },
+    {
+      "id": "bv26:49.1",
+      "pali": "Eso hi sammāsambuddho,"
+    },
+    {
+      "id": "bv26:49.2",
+      "pali": "appameyyo durāsado;"
+    },
+    {
+      "id": "bv26:49.3",
+      "pali": "Eso hi dhammaratano,"
+    },
+    {
+      "id": "bv26:49.4",
+      "pali": "svākkhāto ehipassiko."
+    },
+    {
+      "id": "bv26:50.1",
+      "pali": "Eso hi saṅgharatano,"
+    },
+    {
+      "id": "bv26:50.2",
+      "pali": "suppaṭipanno anuttaro;"
+    },
+    {
+      "id": "bv26:50.3",
+      "pali": "Sabbaṁ tamantarahitaṁ,"
+    },
+    {
+      "id": "bv26:50.4",
+      "pali": "nanu rittā sabbasaṅkhārā."
+    },
+    {
+      "id": "bv26:51.1",
+      "pali": "Mahākassapo jino satthā,"
+    },
+    {
+      "id": "bv26:51.2",
+      "pali": "Setabyārāmamhi nibbuto;"
+    },
+    {
+      "id": "bv26:51.3",
+      "pali": "Tatthevassa jinathūpo,"
+    },
+    {
+      "id": "bv26:51.4",
+      "pali": "Yojanubbedhamuggato”ti."
+    },
+    {
+      "id": "bv26:52.1",
+      "pali": "Kassapassa bhagavato vaṁso catuvīsatimo."
+    }
+  ]
+}

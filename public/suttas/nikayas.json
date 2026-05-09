@@ -1,0 +1,32 @@
+[
+  {
+    "id": "dn",
+    "name": "Dīgha Nikāya",
+    "nameKo": "장아함",
+    "count": 34
+  },
+  {
+    "id": "mn",
+    "name": "Majjhima Nikāya",
+    "nameKo": "중아함",
+    "count": 152
+  },
+  {
+    "id": "sn",
+    "name": "Saṁyutta Nikāya",
+    "nameKo": "상응부",
+    "count": 1819
+  },
+  {
+    "id": "an",
+    "name": "Aṅguttara Nikāya",
+    "nameKo": "증지부",
+    "count": 1408
+  },
+  {
+    "id": "kn",
+    "name": "Khuddaka Nikāya",
+    "nameKo": "소부",
+    "count": 2351
+  }
+]

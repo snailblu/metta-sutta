@@ -1,0 +1,3399 @@
+{
+  "uid": "dn14",
+  "title": "Mahāpadānasutta",
+  "nikaya": "dn",
+  "segments": [
+    {
+      "id": "dn14:1.1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "dn14:1.1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme karerikuṭikāyaṁ."
+    },
+    {
+      "id": "dn14:1.1.3",
+      "pali": "Atha kho sambahulānaṁ bhikkhūnaṁ pacchābhattaṁ piṇḍapātapaṭikkantānaṁ karerimaṇḍalamāḷe sannisinnānaṁ sannipatitānaṁ pubbenivāsapaṭisaṁyuttā dhammī kathā udapādi:"
+    },
+    {
+      "id": "dn14:1.1.4",
+      "pali": "“itipi pubbenivāso, itipi pubbenivāso”ti."
+    },
+    {
+      "id": "dn14:1.2.1",
+      "pali": "Assosi kho bhagavā dibbāya sotadhātuyā visuddhāya atikkantamānusikāya tesaṁ bhikkhūnaṁ imaṁ kathāsallāpaṁ."
+    },
+    {
+      "id": "dn14:1.2.2",
+      "pali": "Atha kho bhagavā uṭṭhāyāsanā yena karerimaṇḍalamāḷo tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi, nisajja kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "dn14:1.2.3",
+      "pali": "“kāya nuttha, bhikkhave, etarahi kathāya sannisinnā; kā ca pana vo antarākathā vippakatā”ti?"
+    },
+    {
+      "id": "dn14:1.2.4",
+      "pali": "Evaṁ vutte, te bhikkhū bhagavantaṁ etadavocuṁ:"
+    },
+    {
+      "id": "dn14:1.2.5",
+      "pali": "“idha, bhante, amhākaṁ pacchābhattaṁ piṇḍapātapaṭikkantānaṁ karerimaṇḍalamāḷe sannisinnānaṁ sannipatitānaṁ pubbenivāsapaṭisaṁyuttā dhammī kathā udapādi:"
+    },
+    {
+      "id": "dn14:1.2.6",
+      "pali": "‘itipi pubbenivāso itipi pubbenivāso’ti."
+    },
+    {
+      "id": "dn14:1.2.7",
+      "pali": "Ayaṁ kho no, bhante, antarākathā vippakatā. Atha bhagavā anuppatto”ti."
+    },
+    {
+      "id": "dn14:1.3.1",
+      "pali": "“Iccheyyātha no tumhe, bhikkhave, pubbenivāsapaṭisaṁyuttaṁ dhammiṁ kathaṁ sotun”ti?"
+    },
+    {
+      "id": "dn14:1.3.2",
+      "pali": "“Etassa, bhagavā, kālo; etassa, sugata, kālo;"
+    },
+    {
+      "id": "dn14:1.3.3",
+      "pali": "yaṁ bhagavā pubbenivāsapaṭisaṁyuttaṁ dhammiṁ kathaṁ kareyya, bhagavato sutvā bhikkhū dhāressantī”ti."
+    },
+    {
+      "id": "dn14:1.3.4",
+      "pali": "“Tena hi, bhikkhave, suṇātha sādhukaṁ manasi karotha bhāsissāmī”ti."
+    },
+    {
+      "id": "dn14:1.3.5",
+      "pali": "“Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "dn14:1.3.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "dn14:1.4.1",
+      "pali": "“Ito so, bhikkhave, ekanavutikappe yaṁ vipassī bhagavā arahaṁ sammāsambuddho loke udapādi."
+    },
+    {
+      "id": "dn14:1.4.2",
+      "pali": "Ito so, bhikkhave, ekatiṁse kappe yaṁ sikhī bhagavā arahaṁ sammāsambuddho loke udapādi."
+    },
+    {
+      "id": "dn14:1.4.3",
+      "pali": "Tasmiññeva kho, bhikkhave, ekatiṁse kappe vessabhū bhagavā arahaṁ sammāsambuddho loke udapādi."
+    },
+    {
+      "id": "dn14:1.4.4",
+      "pali": "Imasmiññeva kho, bhikkhave, bhaddakappe kakusandho bhagavā arahaṁ sammāsambuddho loke udapādi."
+    },
+    {
+      "id": "dn14:1.4.5",
+      "pali": "Imasmiññeva kho, bhikkhave, bhaddakappe koṇāgamano bhagavā arahaṁ sammāsambuddho loke udapādi."
+    },
+    {
+      "id": "dn14:1.4.6",
+      "pali": "Imasmiññeva kho, bhikkhave, bhaddakappe kassapo bhagavā arahaṁ sammāsambuddho loke udapādi."
+    },
+    {
+      "id": "dn14:1.4.7",
+      "pali": "Imasmiññeva kho, bhikkhave, bhaddakappe ahaṁ etarahi arahaṁ sammāsambuddho loke uppanno."
+    },
+    {
+      "id": "dn14:1.5.1",
+      "pali": "Vipassī, bhikkhave, bhagavā arahaṁ sammāsambuddho khattiyo jātiyā ahosi, khattiyakule udapādi."
+    },
+    {
+      "id": "dn14:1.5.2",
+      "pali": "Sikhī, bhikkhave, bhagavā arahaṁ sammāsambuddho khattiyo jātiyā ahosi, khattiyakule udapādi."
+    },
+    {
+      "id": "dn14:1.5.3",
+      "pali": "Vessabhū, bhikkhave, bhagavā arahaṁ sammāsambuddho khattiyo jātiyā ahosi, khattiyakule udapādi."
+    },
+    {
+      "id": "dn14:1.5.4",
+      "pali": "Kakusandho, bhikkhave, bhagavā arahaṁ sammāsambuddho brāhmaṇo jātiyā ahosi, brāhmaṇakule udapādi."
+    },
+    {
+      "id": "dn14:1.5.5",
+      "pali": "Koṇāgamano, bhikkhave, bhagavā arahaṁ sammāsambuddho brāhmaṇo jātiyā ahosi, brāhmaṇakule udapādi."
+    },
+    {
+      "id": "dn14:1.5.6",
+      "pali": "Kassapo, bhikkhave, bhagavā arahaṁ sammāsambuddho brāhmaṇo jātiyā ahosi, brāhmaṇakule udapādi."
+    },
+    {
+      "id": "dn14:1.5.7",
+      "pali": "Ahaṁ, bhikkhave, etarahi arahaṁ sammāsambuddho khattiyo jātiyā ahosiṁ, khattiyakule uppanno."
+    },
+    {
+      "id": "dn14:1.6.1",
+      "pali": "Vipassī, bhikkhave, bhagavā arahaṁ sammāsambuddho koṇḍañño gottena ahosi."
+    },
+    {
+      "id": "dn14:1.6.2",
+      "pali": "Sikhī, bhikkhave, bhagavā arahaṁ sammāsambuddho koṇḍañño gottena ahosi."
+    },
+    {
+      "id": "dn14:1.6.3",
+      "pali": "Vessabhū, bhikkhave, bhagavā arahaṁ sammāsambuddho koṇḍañño gottena ahosi."
+    },
+    {
+      "id": "dn14:1.6.4",
+      "pali": "Kakusandho, bhikkhave, bhagavā arahaṁ sammāsambuddho kassapo gottena ahosi."
+    },
+    {
+      "id": "dn14:1.6.5",
+      "pali": "Koṇāgamano, bhikkhave, bhagavā arahaṁ sammāsambuddho kassapo gottena ahosi."
+    },
+    {
+      "id": "dn14:1.6.6",
+      "pali": "Kassapo, bhikkhave, bhagavā arahaṁ sammāsambuddho kassapo gottena ahosi."
+    },
+    {
+      "id": "dn14:1.6.7",
+      "pali": "Ahaṁ, bhikkhave, etarahi arahaṁ sammāsambuddho gotamo gottena ahosiṁ."
+    },
+    {
+      "id": "dn14:1.7.1",
+      "pali": "Vipassissa, bhikkhave, bhagavato arahato sammāsambuddhassa asītivassasahassāni āyuppamāṇaṁ ahosi."
+    },
+    {
+      "id": "dn14:1.7.2",
+      "pali": "Sikhissa, bhikkhave, bhagavato arahato sammāsambuddhassa sattativassasahassāni āyuppamāṇaṁ ahosi."
+    },
+    {
+      "id": "dn14:1.7.3",
+      "pali": "Vessabhussa, bhikkhave, bhagavato arahato sammāsambuddhassa saṭṭhivassasahassāni āyuppamāṇaṁ ahosi."
+    },
+    {
+      "id": "dn14:1.7.4",
+      "pali": "Kakusandhassa, bhikkhave, bhagavato arahato sammāsambuddhassa cattālīsavassasahassāni āyuppamāṇaṁ ahosi."
+    },
+    {
+      "id": "dn14:1.7.5",
+      "pali": "Koṇāgamanassa, bhikkhave, bhagavato arahato sammāsambuddhassa tiṁsavassasahassāni āyuppamāṇaṁ ahosi."
+    },
+    {
+      "id": "dn14:1.7.6",
+      "pali": "Kassapassa, bhikkhave, bhagavato arahato sammāsambuddhassa vīsativassasahassāni āyuppamāṇaṁ ahosi."
+    },
+    {
+      "id": "dn14:1.7.7",
+      "pali": "Mayhaṁ, bhikkhave, etarahi appakaṁ āyuppamāṇaṁ parittaṁ lahukaṁ; yo ciraṁ jīvati, so vassasataṁ appaṁ vā bhiyyo."
+    },
+    {
+      "id": "dn14:1.8.1",
+      "pali": "Vipassī, bhikkhave, bhagavā arahaṁ sammāsambuddho pāṭaliyā mūle abhisambuddho."
+    },
+    {
+      "id": "dn14:1.8.2",
+      "pali": "Sikhī, bhikkhave, bhagavā arahaṁ sammāsambuddho puṇḍarīkassa mūle abhisambuddho."
+    },
+    {
+      "id": "dn14:1.8.3",
+      "pali": "Vessabhū, bhikkhave, bhagavā arahaṁ sammāsambuddho sālassa mūle abhisambuddho."
+    },
+    {
+      "id": "dn14:1.8.4",
+      "pali": "Kakusandho, bhikkhave, bhagavā arahaṁ sammāsambuddho sirīsassa mūle abhisambuddho."
+    },
+    {
+      "id": "dn14:1.8.5",
+      "pali": "Koṇāgamano, bhikkhave, bhagavā arahaṁ sammāsambuddho udumbarassa mūle abhisambuddho."
+    },
+    {
+      "id": "dn14:1.8.6",
+      "pali": "Kassapo, bhikkhave, bhagavā arahaṁ sammāsambuddho nigrodhassa mūle abhisambuddho."
+    },
+    {
+      "id": "dn14:1.8.7",
+      "pali": "Ahaṁ, bhikkhave, etarahi arahaṁ sammāsambuddho assatthassa mūle abhisambuddho."
+    },
+    {
+      "id": "dn14:1.9.1",
+      "pali": "Vipassissa, bhikkhave, bhagavato arahato sammāsambuddhassa khaṇḍatissaṁ nāma sāvakayugaṁ ahosi aggaṁ bhaddayugaṁ."
+    },
+    {
+      "id": "dn14:1.9.2",
+      "pali": "Sikhissa, bhikkhave, bhagavato arahato sammāsambuddhassa abhibhūsambhavaṁ nāma sāvakayugaṁ ahosi aggaṁ bhaddayugaṁ."
+    },
+    {
+      "id": "dn14:1.9.3",
+      "pali": "Vessabhussa, bhikkhave, bhagavato arahato sammāsambuddhassa soṇuttaraṁ nāma sāvakayugaṁ ahosi aggaṁ bhaddayugaṁ."
+    },
+    {
+      "id": "dn14:1.9.4",
+      "pali": "Kakusandhassa, bhikkhave, bhagavato arahato sammāsambuddhassa vidhurasañjīvaṁ nāma sāvakayugaṁ ahosi aggaṁ bhaddayugaṁ."
+    },
+    {
+      "id": "dn14:1.9.5",
+      "pali": "Koṇāgamanassa, bhikkhave, bhagavato arahato sammāsambuddhassa bhiyyosuttaraṁ nāma sāvakayugaṁ ahosi aggaṁ bhaddayugaṁ."
+    },
+    {
+      "id": "dn14:1.9.6",
+      "pali": "Kassapassa, bhikkhave, bhagavato arahato sammāsambuddhassa tissabhāradvājaṁ nāma sāvakayugaṁ ahosi aggaṁ bhaddayugaṁ."
+    },
+    {
+      "id": "dn14:1.9.7",
+      "pali": "Mayhaṁ, bhikkhave, etarahi sāriputtamoggallānaṁ nāma sāvakayugaṁ ahosi aggaṁ bhaddayugaṁ."
+    },
+    {
+      "id": "dn14:1.10.1",
+      "pali": "Vipassissa, bhikkhave, bhagavato arahato sammāsambuddhassa tayo sāvakānaṁ sannipātā ahesuṁ. Eko sāvakānaṁ sannipāto ahosi aṭṭhasaṭṭhibhikkhusatasahassaṁ, eko sāvakānaṁ sannipāto ahosi bhikkhusatasahassaṁ, eko sāvakānaṁ sannipāto ahosi asītibhikkhusahassāni. Vipassissa, bhikkhave, bhagavato arahato sammāsambuddhassa ime tayo sāvakānaṁ sannipātā ahesuṁ sabbesaṁyeva khīṇāsavānaṁ."
+    },
+    {
+      "id": "dn14:1.10.2",
+      "pali": "Sikhissa, bhikkhave, bhagavato arahato sammāsambuddhassa tayo sāvakānaṁ sannipātā ahesuṁ. Eko sāvakānaṁ sannipāto ahosi bhikkhusatasahassaṁ, eko sāvakānaṁ sannipāto ahosi asītibhikkhusahassāni, eko sāvakānaṁ sannipāto ahosi sattatibhikkhusahassāni. Sikhissa, bhikkhave, bhagavato arahato sammāsambuddhassa ime tayo sāvakānaṁ sannipātā ahesuṁ sabbesaṁyeva khīṇāsavānaṁ."
+    },
+    {
+      "id": "dn14:1.10.3",
+      "pali": "Vessabhussa, bhikkhave, bhagavato arahato sammāsambuddhassa tayo sāvakānaṁ sannipātā ahesuṁ. Eko sāvakānaṁ sannipāto ahosi asītibhikkhusahassāni, eko sāvakānaṁ sannipāto ahosi sattatibhikkhusahassāni, eko sāvakānaṁ sannipāto ahosi saṭṭhibhikkhusahassāni. Vessabhussa, bhikkhave, bhagavato arahato sammāsambuddhassa ime tayo sāvakānaṁ sannipātā ahesuṁ sabbesaṁyeva khīṇāsavānaṁ."
+    },
+    {
+      "id": "dn14:1.10.4",
+      "pali": "Kakusandhassa, bhikkhave, bhagavato arahato sammāsambuddhassa eko sāvakānaṁ sannipāto ahosi cattālīsabhikkhusahassāni. Kakusandhassa, bhikkhave, bhagavato arahato sammāsambuddhassa ayaṁ eko sāvakānaṁ sannipāto ahosi sabbesaṁyeva khīṇāsavānaṁ."
+    },
+    {
+      "id": "dn14:1.10.5",
+      "pali": "Koṇāgamanassa, bhikkhave, bhagavato arahato sammāsambuddhassa eko sāvakānaṁ sannipāto ahosi tiṁsabhikkhusahassāni. Koṇāgamanassa, bhikkhave, bhagavato arahato sammāsambuddhassa ayaṁ eko sāvakānaṁ sannipāto ahosi sabbesaṁyeva khīṇāsavānaṁ."
+    },
+    {
+      "id": "dn14:1.10.6",
+      "pali": "Kassapassa, bhikkhave, bhagavato arahato sammāsambuddhassa eko sāvakānaṁ sannipāto ahosi vīsatibhikkhusahassāni. Kassapassa, bhikkhave, bhagavato arahato sammāsambuddhassa ayaṁ eko sāvakānaṁ sannipāto ahosi sabbesaṁyeva khīṇāsavānaṁ."
+    },
+    {
+      "id": "dn14:1.10.7",
+      "pali": "Mayhaṁ, bhikkhave, etarahi eko sāvakānaṁ sannipāto ahosi aḍḍhateḷasāni bhikkhusatāni. Mayhaṁ, bhikkhave, ayaṁ eko sāvakānaṁ sannipāto ahosi sabbesaṁyeva khīṇāsavānaṁ."
+    },
+    {
+      "id": "dn14:1.11.1",
+      "pali": "Vipassissa, bhikkhave, bhagavato arahato sammāsambuddhassa asoko nāma bhikkhu upaṭṭhāko ahosi aggupaṭṭhāko."
+    },
+    {
+      "id": "dn14:1.11.2",
+      "pali": "Sikhissa, bhikkhave, bhagavato arahato sammāsambuddhassa khemaṅkaro nāma bhikkhu upaṭṭhāko ahosi aggupaṭṭhāko."
+    },
+    {
+      "id": "dn14:1.11.3",
+      "pali": "Vessabhussa, bhikkhave, bhagavato arahato sammāsambuddhassa upasanto nāma bhikkhu upaṭṭhāko ahosi aggupaṭṭhāko."
+    },
+    {
+      "id": "dn14:1.11.4",
+      "pali": "Kakusandhassa, bhikkhave, bhagavato arahato sammāsambuddhassa buddhijo nāma bhikkhu upaṭṭhāko ahosi aggupaṭṭhāko."
+    },
+    {
+      "id": "dn14:1.11.5",
+      "pali": "Koṇāgamanassa, bhikkhave, bhagavato arahato sammāsambuddhassa sotthijo nāma bhikkhu upaṭṭhāko ahosi aggupaṭṭhāko."
+    },
+    {
+      "id": "dn14:1.11.6",
+      "pali": "Kassapassa, bhikkhave, bhagavato arahato sammāsambuddhassa sabbamitto nāma bhikkhu upaṭṭhāko ahosi aggupaṭṭhāko."
+    },
+    {
+      "id": "dn14:1.11.7",
+      "pali": "Mayhaṁ, bhikkhave, etarahi ānando nāma bhikkhu upaṭṭhāko ahosi aggupaṭṭhāko."
+    },
+    {
+      "id": "dn14:1.12.1",
+      "pali": "Vipassissa, bhikkhave, bhagavato arahato sammāsambuddhassa bandhumā nāma rājā pitā ahosi."
+    },
+    {
+      "id": "dn14:1.12.2",
+      "pali": "Bandhumatī nāma devī mātā ahosi janetti."
+    },
+    {
+      "id": "dn14:1.12.3",
+      "pali": "Bandhumassa rañño bandhumatī nāma nagaraṁ rājadhānī ahosi."
+    },
+    {
+      "id": "dn14:1.12.4",
+      "pali": "Sikhissa, bhikkhave, bhagavato arahato sammāsambuddhassa aruṇo nāma rājā pitā ahosi."
+    },
+    {
+      "id": "dn14:1.12.5",
+      "pali": "Pabhāvatī nāma devī mātā ahosi janetti."
+    },
+    {
+      "id": "dn14:1.12.6",
+      "pali": "Aruṇassa rañño aruṇavatī nāma nagaraṁ rājadhānī ahosi."
+    },
+    {
+      "id": "dn14:1.12.7",
+      "pali": "Vessabhussa, bhikkhave, bhagavato arahato sammāsambuddhassa suppatito nāma rājā pitā ahosi."
+    },
+    {
+      "id": "dn14:1.12.8",
+      "pali": "Vassavatī nāma devī mātā ahosi janetti."
+    },
+    {
+      "id": "dn14:1.12.9",
+      "pali": "Suppatitassa rañño anomaṁ nāma nagaraṁ rājadhānī ahosi."
+    },
+    {
+      "id": "dn14:1.12.10",
+      "pali": "Kakusandhassa, bhikkhave, bhagavato arahato sammāsambuddhassa aggidatto nāma brāhmaṇo pitā ahosi."
+    },
+    {
+      "id": "dn14:1.12.11",
+      "pali": "Visākhā nāma brāhmaṇī mātā ahosi janetti."
+    },
+    {
+      "id": "dn14:1.12.12",
+      "pali": "Tena kho pana, bhikkhave, samayena khemo nāma rājā ahosi."
+    },
+    {
+      "id": "dn14:1.12.13",
+      "pali": "Khemassa rañño khemavatī nāma nagaraṁ rājadhānī ahosi."
+    },
+    {
+      "id": "dn14:1.12.14",
+      "pali": "Koṇāgamanassa, bhikkhave, bhagavato arahato sammāsambuddhassa yaññadatto nāma brāhmaṇo pitā ahosi."
+    },
+    {
+      "id": "dn14:1.12.15",
+      "pali": "Uttarā nāma brāhmaṇī mātā ahosi janetti."
+    },
+    {
+      "id": "dn14:1.12.16",
+      "pali": "Tena kho pana, bhikkhave, samayena sobho nāma rājā ahosi."
+    },
+    {
+      "id": "dn14:1.12.17",
+      "pali": "Sobhassa rañño sobhavatī nāma nagaraṁ rājadhānī ahosi."
+    },
+    {
+      "id": "dn14:1.12.18",
+      "pali": "Kassapassa, bhikkhave, bhagavato arahato sammāsambuddhassa brahmadatto nāma brāhmaṇo pitā ahosi."
+    },
+    {
+      "id": "dn14:1.12.19",
+      "pali": "Dhanavatī nāma brāhmaṇī mātā ahosi janetti."
+    },
+    {
+      "id": "dn14:1.12.20",
+      "pali": "Tena kho pana, bhikkhave, samayena kikī nāma rājā ahosi."
+    },
+    {
+      "id": "dn14:1.12.21",
+      "pali": "Kikissa rañño bārāṇasī nāma nagaraṁ rājadhānī ahosi."
+    },
+    {
+      "id": "dn14:1.12.22",
+      "pali": "Mayhaṁ, bhikkhave, etarahi suddhodano nāma rājā pitā ahosi."
+    },
+    {
+      "id": "dn14:1.12.23",
+      "pali": "Māyā nāma devī mātā ahosi janetti."
+    },
+    {
+      "id": "dn14:1.12.24",
+      "pali": "Kapilavatthu nāma nagaraṁ rājadhānī ahosī”ti."
+    },
+    {
+      "id": "dn14:1.12.25",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "dn14:1.12.26",
+      "pali": "Idaṁ vatvāna sugato uṭṭhāyāsanā vihāraṁ pāvisi."
+    },
+    {
+      "id": "dn14:1.13.1",
+      "pali": "Atha kho tesaṁ bhikkhūnaṁ acirapakkantassa bhagavato ayamantarākathā udapādi:"
+    },
+    {
+      "id": "dn14:1.13.2",
+      "pali": "“acchariyaṁ, āvuso, abbhutaṁ, āvuso, tathāgatassa mahiddhikatā mahānubhāvatā."
+    },
+    {
+      "id": "dn14:1.13.3",
+      "pali": "Yatra hi nāma tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jātitopi anussarissati, nāmatopi anussarissati, gottatopi anussarissati, āyuppamāṇatopi anussarissati, sāvakayugatopi anussarissati, sāvakasannipātatopi anussarissati:"
+    },
+    {
+      "id": "dn14:1.13.4",
+      "pali": "‘evaṁjaccā te bhagavanto ahesuṁ itipi, evaṁnāmā evaṅgottā evaṁsīlā evaṁdhammā evaṁpaññā evaṁvihārī evaṁvimuttā te bhagavanto ahesuṁ itipī’”ti."
+    },
+    {
+      "id": "dn14:1.13.5",
+      "pali": "“Kiṁ nu kho, āvuso, tathāgatasseva nu kho esā dhammadhātu suppaṭividdhā, yassā dhammadhātuyā suppaṭividdhattā tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jātitopi anussarati, nāmatopi anussarati, gottatopi anussarati, āyuppamāṇatopi anussarati, sāvakayugatopi anussarati, sāvakasannipātatopi anussarati: ‘evaṁjaccā te bhagavanto ahesuṁ itipi, evaṁnāmā evaṅgottā evaṁsīlā evaṁdhammā evaṁpaññā evaṁvihārī evaṁvimuttā te bhagavanto ahesuṁ itipī’ti,"
+    },
+    {
+      "id": "dn14:1.13.6",
+      "pali": "udāhu devatā tathāgatassa etamatthaṁ ārocesuṁ, yena tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jātitopi anussarati, nāmatopi anussarati, gottatopi anussarati, āyuppamāṇatopi anussarati, sāvakayugatopi anussarati, sāvakasannipātatopi anussarati: ‘evaṁjaccā te bhagavanto ahesuṁ itipi, evaṁnāmā evaṅgottā evaṁsīlā evaṁdhammā evaṁpaññā evaṁvihārī evaṁvimuttā te bhagavanto ahesuṁ itipī’”ti."
+    },
+    {
+      "id": "dn14:1.13.7",
+      "pali": "Ayañca hidaṁ tesaṁ bhikkhūnaṁ antarākathā vippakatā hoti."
+    },
+    {
+      "id": "dn14:1.14.1",
+      "pali": "Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito yena karerimaṇḍalamāḷo tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi."
+    },
+    {
+      "id": "dn14:1.14.2",
+      "pali": "Nisajja kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "dn14:1.14.3",
+      "pali": "“kāya nuttha, bhikkhave, etarahi kathāya sannisinnā; kā ca pana vo antarākathā vippakatā”ti?"
+    },
+    {
+      "id": "dn14:1.14.4",
+      "pali": "Evaṁ vutte, te bhikkhū bhagavantaṁ etadavocuṁ:"
+    },
+    {
+      "id": "dn14:1.14.5",
+      "pali": "“idha, bhante, amhākaṁ acirapakkantassa bhagavato ayaṁ antarākathā udapādi:"
+    },
+    {
+      "id": "dn14:1.14.6",
+      "pali": "‘acchariyaṁ, āvuso, abbhutaṁ, āvuso, tathāgatassa mahiddhikatā mahānubhāvatā."
+    },
+    {
+      "id": "dn14:1.14.7",
+      "pali": "Yatra hi nāma tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jātitopi anussarissati, nāmatopi anussarissati, gottatopi anussarissati, āyuppamāṇatopi anussarissati, sāvakayugatopi anussarissati, sāvakasannipātatopi anussarissati:"
+    },
+    {
+      "id": "dn14:1.14.8",
+      "pali": "“evaṁjaccā te bhagavanto ahesuṁ itipi, evaṁnāmā evaṅgottā evaṁsīlā evaṁdhammā evaṁpaññā evaṁvihārī evaṁvimuttā te bhagavanto ahesuṁ itipī”ti."
+    },
+    {
+      "id": "dn14:1.14.9",
+      "pali": "Kiṁ nu kho, āvuso, tathāgatasseva nu kho esā dhammadhātu suppaṭividdhā, yassā dhammadhātuyā suppaṭividdhattā tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jātitopi anussarati, nāmatopi anussarati, gottatopi anussarati, āyuppamāṇatopi anussarati, sāvakayugatopi anussarati, sāvakasannipātatopi anussarati:"
+    },
+    {
+      "id": "dn14:1.14.10",
+      "pali": "“evaṁjaccā te bhagavanto ahesuṁ itipi, evaṁnāmā evaṅgottā evaṁsīlā evaṁdhammā evaṁpaññā evaṁvihārī evaṁvimuttā te bhagavanto ahesuṁ itipī”ti."
+    },
+    {
+      "id": "dn14:1.14.11",
+      "pali": "Udāhu devatā tathāgatassa etamatthaṁ ārocesuṁ, yena tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jātitopi anussarati, nāmatopi anussarati, gottatopi anussarati, āyuppamāṇatopi anussarati, sāvakayugatopi anussarati, sāvakasannipātatopi anussarati:"
+    },
+    {
+      "id": "dn14:1.14.12",
+      "pali": "“evaṁjaccā te bhagavanto ahesuṁ itipi, evaṁnāmā evaṅgottā evaṁsīlā evaṁdhammā evaṁpaññā evaṁvihārī evaṁvimuttā te bhagavanto ahesuṁ itipī”’ti?"
+    },
+    {
+      "id": "dn14:1.14.13",
+      "pali": "Ayaṁ kho no, bhante, antarākathā vippakatā, atha bhagavā anuppatto”ti."
+    },
+    {
+      "id": "dn14:1.15.1",
+      "pali": "“Tathāgatassevesā, bhikkhave, dhammadhātu suppaṭividdhā, yassā dhammadhātuyā suppaṭividdhattā tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jātitopi anussarati, nāmatopi anussarati, gottatopi anussarati, āyuppamāṇatopi anussarati, sāvakayugatopi anussarati, sāvakasannipātatopi anussarati:"
+    },
+    {
+      "id": "dn14:1.15.2",
+      "pali": "‘evaṁjaccā te bhagavanto ahesuṁ itipi, evaṁnāmā evaṅgottā evaṁsīlā evaṁdhammā evaṁpaññā evaṁvihārī evaṁvimuttā te bhagavanto ahesuṁ itipī’ti."
+    },
+    {
+      "id": "dn14:1.15.3",
+      "pali": "Devatāpi tathāgatassa etamatthaṁ ārocesuṁ, yena tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jātitopi anussarati, nāmatopi anussarati, gottatopi anussarati, āyuppamāṇatopi anussarati, sāvakayugatopi anussarati, sāvakasannipātatopi anussarati:"
+    },
+    {
+      "id": "dn14:1.15.4",
+      "pali": "‘evaṁjaccā te bhagavanto ahesuṁ itipi, evaṁnāmā evaṅgottā evaṁsīlā evaṁdhammā evaṁpaññā evaṁvihārī evaṁvimuttā te bhagavanto ahesuṁ itipī’ti."
+    },
+    {
+      "id": "dn14:1.15.5",
+      "pali": "Iccheyyātha no tumhe, bhikkhave, bhiyyoso mattāya pubbenivāsapaṭisaṁyuttaṁ dhammiṁ kathaṁ sotun”ti?"
+    },
+    {
+      "id": "dn14:1.15.6",
+      "pali": "“Etassa, bhagavā, kālo; etassa, sugata, kālo;"
+    },
+    {
+      "id": "dn14:1.15.7",
+      "pali": "yaṁ bhagavā bhiyyoso mattāya pubbenivāsapaṭisaṁyuttaṁ dhammiṁ kathaṁ kareyya, bhagavato sutvā bhikkhū dhāressantī”ti."
+    },
+    {
+      "id": "dn14:1.15.8",
+      "pali": "“Tena hi, bhikkhave, suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti."
+    },
+    {
+      "id": "dn14:1.15.9",
+      "pali": "“Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "dn14:1.15.10",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "dn14:1.16.1",
+      "pali": "“Ito so, bhikkhave, ekanavutikappe yaṁ vipassī bhagavā arahaṁ sammāsambuddho loke udapādi."
+    },
+    {
+      "id": "dn14:1.16.2",
+      "pali": "Vipassī, bhikkhave, bhagavā arahaṁ sammāsambuddho khattiyo jātiyā ahosi, khattiyakule udapādi."
+    },
+    {
+      "id": "dn14:1.16.3",
+      "pali": "Vipassī, bhikkhave, bhagavā arahaṁ sammāsambuddho koṇḍañño gottena ahosi."
+    },
+    {
+      "id": "dn14:1.16.4",
+      "pali": "Vipassissa, bhikkhave, bhagavato arahato sammāsambuddhassa asītivassasahassāni āyuppamāṇaṁ ahosi."
+    },
+    {
+      "id": "dn14:1.16.5",
+      "pali": "Vipassī, bhikkhave, bhagavā arahaṁ sammāsambuddho pāṭaliyā mūle abhisambuddho."
+    },
+    {
+      "id": "dn14:1.16.6",
+      "pali": "Vipassissa, bhikkhave, bhagavato arahato sammāsambuddhassa khaṇḍatissaṁ nāma sāvakayugaṁ ahosi aggaṁ bhaddayugaṁ."
+    },
+    {
+      "id": "dn14:1.16.7",
+      "pali": "Vipassissa, bhikkhave, bhagavato arahato sammāsambuddhassa tayo sāvakānaṁ sannipātā ahesuṁ."
+    },
+    {
+      "id": "dn14:1.16.8",
+      "pali": "Eko sāvakānaṁ sannipāto ahosi aṭṭhasaṭṭhibhikkhusatasahassaṁ, eko sāvakānaṁ sannipāto ahosi bhikkhusatasahassaṁ, eko sāvakānaṁ sannipāto ahosi asītibhikkhusahassāni."
+    },
+    {
+      "id": "dn14:1.16.9",
+      "pali": "Vipassissa, bhikkhave, bhagavato arahato sammāsambuddhassa ime tayo sāvakānaṁ sannipātā ahesuṁ sabbesaṁyeva khīṇāsavānaṁ."
+    },
+    {
+      "id": "dn14:1.16.10",
+      "pali": "Vipassissa, bhikkhave, bhagavato arahato sammāsambuddhassa asoko nāma bhikkhu upaṭṭhāko ahosi aggupaṭṭhāko."
+    },
+    {
+      "id": "dn14:1.16.11",
+      "pali": "Vipassissa, bhikkhave, bhagavato arahato sammāsambuddhassa bandhumā nāma rājā pitā ahosi."
+    },
+    {
+      "id": "dn14:1.16.12",
+      "pali": "Bandhumatī nāma devī mātā ahosi janetti."
+    },
+    {
+      "id": "dn14:1.16.13",
+      "pali": "Bandhumassa rañño bandhumatī nāma nagaraṁ rājadhānī ahosi."
+    },
+    {
+      "id": "dn14:1.17.0",
+      "pali": "2. Bodhisattadhammatā"
+    },
+    {
+      "id": "dn14:1.17.1",
+      "pali": "Atha kho, bhikkhave, vipassī bodhisatto tusitā kāyā cavitvā sato sampajāno mātukucchiṁ okkami."
+    },
+    {
+      "id": "dn14:1.17.2",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.17.3",
+      "pali": "Dhammatā esā, bhikkhave, yadā bodhisatto tusitā kāyā cavitvā mātukucchiṁ okkamati."
+    },
+    {
+      "id": "dn14:1.17.4",
+      "pali": "Atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṁ devānubhāvaṁ."
+    },
+    {
+      "id": "dn14:1.17.5",
+      "pali": "Yāpi tā lokantarikā aghā asaṁvutā andhakārā andhakāratimisā, yatthapime candimasūriyā evaṁmahiddhikā evaṁmahānubhāvā ābhāya nānubhonti, tatthapi appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṁ devānubhāvaṁ."
+    },
+    {
+      "id": "dn14:1.17.6",
+      "pali": "Yepi tattha sattā upapannā, tepi tenobhāsena aññamaññaṁ sañjānanti: ‘aññepi kira, bho, santi sattā idhūpapannā’ti."
+    },
+    {
+      "id": "dn14:1.17.7",
+      "pali": "Ayañca dasasahassī lokadhātu saṅkampati sampakampati sampavedhati. Appamāṇo ca uḷāro obhāso loke pātubhavati atikkammeva devānaṁ devānubhāvaṁ."
+    },
+    {
+      "id": "dn14:1.17.8",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.17.9",
+      "pali": "Dhammatā esā, bhikkhave, yadā bodhisatto mātukucchiṁ okkanto hoti, cattāro naṁ devaputtā catuddisaṁ rakkhāya upagacchanti: ‘mā naṁ bodhisattaṁ vā bodhisattamātaraṁ vā manusso vā amanusso vā koci vā viheṭhesī’ti."
+    },
+    {
+      "id": "dn14:1.17.10",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.18.1",
+      "pali": "Dhammatā esā, bhikkhave, yadā bodhisatto mātukucchiṁ okkanto hoti, pakatiyā sīlavatī bodhisattamātā hoti, viratā pāṇātipātā, viratā adinnādānā, viratā kāmesumicchācārā, viratā musāvādā, viratā surāmerayamajjappamādaṭṭhānā."
+    },
+    {
+      "id": "dn14:1.18.2",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.19.1",
+      "pali": "Dhammatā esā, bhikkhave, yadā bodhisatto mātukucchiṁ okkanto hoti, na bodhisattamātu purisesu mānasaṁ uppajjati kāmaguṇūpasaṁhitaṁ, anatikkamanīyā ca bodhisattamātā hoti kenaci purisena rattacittena."
+    },
+    {
+      "id": "dn14:1.19.2",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.20.1",
+      "pali": "Dhammatā esā, bhikkhave, yadā bodhisatto mātukucchiṁ okkanto hoti, lābhinī bodhisattamātā hoti pañcannaṁ kāmaguṇānaṁ. Sā pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricāreti."
+    },
+    {
+      "id": "dn14:1.20.2",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.21.1",
+      "pali": "Dhammatā esā, bhikkhave, yadā bodhisatto mātukucchiṁ okkanto hoti, na bodhisattamātu kocideva ābādho uppajjati. Sukhinī bodhisattamātā hoti akilantakāyā, bodhisattañca bodhisattamātā tirokucchigataṁ passati sabbaṅgapaccaṅgiṁ ahīnindriyaṁ."
+    },
+    {
+      "id": "dn14:1.21.2",
+      "pali": "Seyyathāpi, bhikkhave, maṇi veḷuriyo subho jātimā aṭṭhaṁso suparikammakato accho vippasanno anāvilo sabbākārasampanno. Tatrāssa suttaṁ āvutaṁ nīlaṁ vā pītaṁ vā lohitaṁ vā odātaṁ vā paṇḍusuttaṁ vā."
+    },
+    {
+      "id": "dn14:1.21.3",
+      "pali": "Tamenaṁ cakkhumā puriso hatthe karitvā paccavekkheyya: ‘ayaṁ kho maṇi veḷuriyo subho jātimā aṭṭhaṁso suparikammakato accho vippasanno anāvilo sabbākārasampanno. Tatridaṁ suttaṁ āvutaṁ nīlaṁ vā pītaṁ vā lohitaṁ vā odātaṁ vā paṇḍusuttaṁ vā’ti."
+    },
+    {
+      "id": "dn14:1.21.4",
+      "pali": "Evameva kho, bhikkhave, yadā bodhisatto mātukucchiṁ okkanto hoti, na bodhisattamātu kocideva ābādho uppajjati, sukhinī bodhisattamātā hoti akilantakāyā, bodhisattañca bodhisattamātā tirokucchigataṁ passati sabbaṅgapaccaṅgiṁ ahīnindriyaṁ."
+    },
+    {
+      "id": "dn14:1.21.5",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.22.1",
+      "pali": "Dhammatā esā, bhikkhave, sattāhajāte bodhisatte bodhisattamātā kālaṁ karoti tusitaṁ kāyaṁ upapajjati."
+    },
+    {
+      "id": "dn14:1.22.2",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.23.1",
+      "pali": "Dhammatā esā, bhikkhave, yathā aññā itthikā nava vā dasa vā māse gabbhaṁ kucchinā pariharitvā vijāyanti, na hevaṁ bodhisattaṁ bodhisattamātā vijāyati. Daseva māsāni bodhisattaṁ bodhisattamātā kucchinā pariharitvā vijāyati."
+    },
+    {
+      "id": "dn14:1.23.2",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.24.1",
+      "pali": "Dhammatā esā, bhikkhave, yathā aññā itthikā nisinnā vā nipannā vā vijāyanti, na hevaṁ bodhisattaṁ bodhisattamātā vijāyati. Ṭhitāva bodhisattaṁ bodhisattamātā vijāyati."
+    },
+    {
+      "id": "dn14:1.24.2",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.25.1",
+      "pali": "Dhammatā esā, bhikkhave, yadā bodhisatto mātukucchimhā nikkhamati, devā paṭhamaṁ paṭiggaṇhanti, pacchā manussā."
+    },
+    {
+      "id": "dn14:1.25.2",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.26.1",
+      "pali": "Dhammatā esā, bhikkhave, yadā bodhisatto mātukucchimhā nikkhamati, appattova bodhisatto pathaviṁ hoti, cattāro naṁ devaputtā paṭiggahetvā mātu purato ṭhapenti: ‘attamanā, devi, hohi; mahesakkho te putto uppanno’ti."
+    },
+    {
+      "id": "dn14:1.26.2",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.27.1",
+      "pali": "Dhammatā esā, bhikkhave, yadā bodhisatto mātukucchimhā nikkhamati, visadova nikkhamati amakkhito udena amakkhito semhena amakkhito ruhirena amakkhito kenaci asucinā suddho visado."
+    },
+    {
+      "id": "dn14:1.27.2",
+      "pali": "Seyyathāpi, bhikkhave, maṇiratanaṁ kāsike vatthe nikkhittaṁ neva maṇiratanaṁ kāsikaṁ vatthaṁ makkheti, nāpi kāsikaṁ vatthaṁ maṇiratanaṁ makkheti."
+    },
+    {
+      "id": "dn14:1.27.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn14:1.27.4",
+      "pali": "Ubhinnaṁ suddhattā."
+    },
+    {
+      "id": "dn14:1.27.5",
+      "pali": "Evameva kho, bhikkhave, yadā bodhisatto mātukucchimhā nikkhamati, visadova nikkhamati amakkhito, udena amakkhito semhena amakkhito ruhirena amakkhito kenaci asucinā suddho visado."
+    },
+    {
+      "id": "dn14:1.27.6",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.28.1",
+      "pali": "Dhammatā esā, bhikkhave, yadā bodhisatto mātukucchimhā nikkhamati, dve udakassa dhārā antalikkhā pātubhavanti—ekā sītassa ekā uṇhassa yena bodhisattassa udakakiccaṁ karonti mātu ca."
+    },
+    {
+      "id": "dn14:1.28.2",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.29.1",
+      "pali": "Dhammatā esā, bhikkhave, sampatijāto bodhisatto samehi pādehi patiṭṭhahitvā uttarābhimukho sattapadavītihārena gacchati setamhi chatte anudhāriyamāne, sabbā ca disā anuviloketi, āsabhiṁ vācaṁ bhāsati ‘aggohamasmi lokassa, jeṭṭhohamasmi lokassa, seṭṭhohamasmi lokassa, ayamantimā jāti, natthi dāni punabbhavo’ti."
+    },
+    {
+      "id": "dn14:1.29.2",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.30.1",
+      "pali": "Dhammatā esā, bhikkhave, yadā bodhisatto mātukucchimhā nikkhamati, atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso pātubhavati, atikkammeva devānaṁ devānubhāvaṁ."
+    },
+    {
+      "id": "dn14:1.30.2",
+      "pali": "Yāpi tā lokantarikā aghā asaṁvutā andhakārā andhakāratimisā, yatthapime candimasūriyā evaṁmahiddhikā evaṁmahānubhāvā ābhāya nānubhonti, tatthapi appamāṇo uḷāro obhāso pātubhavati atikkammeva devānaṁ devānubhāvaṁ."
+    },
+    {
+      "id": "dn14:1.30.3",
+      "pali": "Yepi tattha sattā upapannā, tepi tenobhāsena aññamaññaṁ sañjānanti: ‘aññepi kira, bho, santi sattā idhūpapannā’ti."
+    },
+    {
+      "id": "dn14:1.30.4",
+      "pali": "Ayañca dasasahassī lokadhātu saṅkampati sampakampati sampavedhati appamāṇo ca uḷāro obhāso loke pātubhavati atikkammeva devānaṁ devānubhāvaṁ."
+    },
+    {
+      "id": "dn14:1.30.5",
+      "pali": "Ayamettha dhammatā."
+    },
+    {
+      "id": "dn14:1.31.0",
+      "pali": "3. Dvattiṁsamahāpurisalakkhaṇā"
+    },
+    {
+      "id": "dn14:1.31.1",
+      "pali": "Jāte kho pana, bhikkhave, vipassimhi kumāre bandhumato rañño paṭivedesuṁ:"
+    },
+    {
+      "id": "dn14:1.31.2",
+      "pali": "‘putto te, deva, jāto, taṁ devo passatū’ti."
+    },
+    {
+      "id": "dn14:1.31.3",
+      "pali": "Addasā kho, bhikkhave, bandhumā rājā vipassiṁ kumāraṁ, disvā nemitte brāhmaṇe āmantāpetvā etadavoca:"
+    },
+    {
+      "id": "dn14:1.31.4",
+      "pali": "‘passantu bhonto nemittā brāhmaṇā kumāran’ti."
+    },
+    {
+      "id": "dn14:1.31.5",
+      "pali": "Addasaṁsu kho, bhikkhave, nemittā brāhmaṇā vipassiṁ kumāraṁ, disvā bandhumantaṁ rājānaṁ etadavocuṁ:"
+    },
+    {
+      "id": "dn14:1.31.6",
+      "pali": "‘attamano, deva, hohi, mahesakkho te putto uppanno, lābhā te, mahārāja, suladdhaṁ te, mahārāja, yassa te kule evarūpo putto uppanno."
+    },
+    {
+      "id": "dn14:1.31.7",
+      "pali": "Ayañhi, deva, kumāro dvattiṁsamahāpurisalakkhaṇehi samannāgato, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā."
+    },
+    {
+      "id": "dn14:1.31.8",
+      "pali": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato."
+    },
+    {
+      "id": "dn14:1.31.9",
+      "pali": "Tassimāni sattaratanāni bhavanti."
+    },
+    {
+      "id": "dn14:1.31.10",
+      "pali": "Seyyathidaṁ—cakkaratanaṁ hatthiratanaṁ assaratanaṁ maṇiratanaṁ itthiratanaṁ gahapatiratanaṁ pariṇāyakaratanameva sattamaṁ."
+    },
+    {
+      "id": "dn14:1.31.11",
+      "pali": "Parosahassaṁ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā."
+    },
+    {
+      "id": "dn14:1.31.12",
+      "pali": "So imaṁ pathaviṁ sāgarapariyantaṁ adaṇḍena asatthena dhammena abhivijiya ajjhāvasati."
+    },
+    {
+      "id": "dn14:1.31.13",
+      "pali": "Sace kho pana agārasmā anagāriyaṁ pabbajati, arahaṁ hoti sammāsambuddho loke vivaṭacchado."
+    },
+    {
+      "id": "dn14:1.32.1",
+      "pali": "Katamehi cāyaṁ, deva, kumāro dvattiṁsamahāpurisalakkhaṇehi samannāgato, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā."
+    },
+    {
+      "id": "dn14:1.32.2",
+      "pali": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato."
+    },
+    {
+      "id": "dn14:1.32.3",
+      "pali": "Tassimāni sattaratanāni bhavanti."
+    },
+    {
+      "id": "dn14:1.32.4",
+      "pali": "Seyyathidaṁ—cakkaratanaṁ hatthiratanaṁ assaratanaṁ maṇiratanaṁ itthiratanaṁ gahapatiratanaṁ pariṇāyakaratanameva sattamaṁ."
+    },
+    {
+      "id": "dn14:1.32.5",
+      "pali": "Parosahassaṁ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā."
+    },
+    {
+      "id": "dn14:1.32.6",
+      "pali": "So imaṁ pathaviṁ sāgarapariyantaṁ adaṇḍena asatthena dhammena abhivijiya ajjhāvasati."
+    },
+    {
+      "id": "dn14:1.32.7",
+      "pali": "Sace kho pana agārasmā anagāriyaṁ pabbajati, arahaṁ hoti sammāsambuddho loke vivaṭacchado. Ayañhi, deva, kumāro suppatiṭṭhitapādo. Yaṁ pāyaṁ, deva, kumāro suppatiṭṭhitapādo. Idampissa mahāpurisassa mahāpurisalakkhaṇaṁ bhavati."
+    },
+    {
+      "id": "dn14:1.32.8",
+      "pali": "Imassa, deva, kumārassa heṭṭhā pādatalesu cakkāni jātāni sahassārāni sanemikāni sanābhikāni sabbākāraparipūrāni. Yampi imassa, deva, kumārassa heṭṭhā pādatalesu cakkāni jātāni sahassārāni sanemikāni sanābhikāni sabbākāraparipūrāni, idampissa mahāpurisassa mahāpurisalakkhaṇaṁ bhavati."
+    },
+    {
+      "id": "dn14:1.32.9",
+      "pali": "Ayañhi, deva, kumāro āyatapaṇhī …pe…"
+    },
+    {
+      "id": "dn14:1.32.10",
+      "pali": "Ayañhi, deva, kumāro dīghaṅgulī …pe…"
+    },
+    {
+      "id": "dn14:1.32.11",
+      "pali": "Ayañhi, deva, kumāro mudutalunahatthapādo …pe…"
+    },
+    {
+      "id": "dn14:1.32.12",
+      "pali": "Ayañhi, deva kumāro jālahatthapādo …pe…"
+    },
+    {
+      "id": "dn14:1.32.13",
+      "pali": "Ayañhi, deva, kumāro ussaṅkhapādo …pe…"
+    },
+    {
+      "id": "dn14:1.32.14",
+      "pali": "Ayañhi, deva, kumāro eṇijaṅgho …pe…"
+    },
+    {
+      "id": "dn14:1.32.15",
+      "pali": "Ayañhi, deva, kumāro ṭhitakova anonamanto ubhohi pāṇitalehi jaṇṇukāni parimasati parimajjati …pe…"
+    },
+    {
+      "id": "dn14:1.32.16",
+      "pali": "Ayañhi, deva, kumāro kosohitavatthaguyho …pe…"
+    },
+    {
+      "id": "dn14:1.32.17",
+      "pali": "Ayañhi, deva, kumāro suvaṇṇavaṇṇo kañcanasannibhattaco …pe…"
+    },
+    {
+      "id": "dn14:1.32.18",
+      "pali": "Ayañhi, deva, kumāro sukhumacchavī; sukhumattā chaviyā rajojallaṁ kāye na upalimpati …pe…"
+    },
+    {
+      "id": "dn14:1.32.19",
+      "pali": "Ayañhi, deva, kumāro ekekalomo; ekekāni lomāni lomakūpesu jātāni …pe…"
+    },
+    {
+      "id": "dn14:1.32.20",
+      "pali": "Ayañhi, deva, kumāro uddhaggalomo; uddhaggāni lomāni jātāni nīlāni añjanavaṇṇāni kuṇḍalāvaṭṭāni dakkhiṇāvaṭṭakajātāni …pe…"
+    },
+    {
+      "id": "dn14:1.32.21",
+      "pali": "Ayañhi, deva, kumāro brahmujugatto …pe…"
+    },
+    {
+      "id": "dn14:1.32.22",
+      "pali": "Ayañhi, deva, kumāro sattussado …pe…"
+    },
+    {
+      "id": "dn14:1.32.23",
+      "pali": "Ayañhi, deva, kumāro sīhapubbaddhakāyo …pe…"
+    },
+    {
+      "id": "dn14:1.32.24",
+      "pali": "Ayañhi, deva, kumāro citantaraṁso …pe…"
+    },
+    {
+      "id": "dn14:1.32.25",
+      "pali": "Ayañhi, deva, kumāro nigrodhaparimaṇḍalo yāvatakvassa kāyo tāvatakvassa byāmo, yāvatakvassa byāmo, tāvatakvassa kāyo …pe…"
+    },
+    {
+      "id": "dn14:1.32.26",
+      "pali": "Ayañhi, deva, kumāro samavaṭṭakkhandho …pe…"
+    },
+    {
+      "id": "dn14:1.32.27",
+      "pali": "Ayañhi, deva, kumāro rasaggasaggī …pe…"
+    },
+    {
+      "id": "dn14:1.32.28",
+      "pali": "Ayañhi, deva, kumāro sīhahanu …pe…"
+    },
+    {
+      "id": "dn14:1.32.29",
+      "pali": "Ayañhi, deva, kumāro cattālīsadanto …pe…"
+    },
+    {
+      "id": "dn14:1.32.30",
+      "pali": "Ayañhi, deva, kumāro samadanto …pe…"
+    },
+    {
+      "id": "dn14:1.32.31",
+      "pali": "Ayañhi, deva, kumāro aviraḷadanto …pe…"
+    },
+    {
+      "id": "dn14:1.32.32",
+      "pali": "Ayañhi, deva, kumāro susukkadāṭho …pe…"
+    },
+    {
+      "id": "dn14:1.32.33",
+      "pali": "Ayañhi, deva, kumāro pahūtajivho …pe…"
+    },
+    {
+      "id": "dn14:1.32.34",
+      "pali": "Ayañhi, deva, kumāro brahmassaro karavīkabhāṇī …pe…"
+    },
+    {
+      "id": "dn14:1.32.35",
+      "pali": "Ayañhi, deva, kumāro abhinīlanetto …pe…"
+    },
+    {
+      "id": "dn14:1.32.36",
+      "pali": "Ayañhi, deva, kumāro gopakhumo …pe…"
+    },
+    {
+      "id": "dn14:1.32.37",
+      "pali": "Imassa, deva, kumārassa uṇṇā bhamukantare jātā odātā mudutūlasannibhā. Yampi imassa, deva, kumārassa uṇṇā bhamukantare jātā odātā mudutūlasannibhā, idampimassa mahāpurisassa mahāpurisalakkhaṇaṁ bhavati."
+    },
+    {
+      "id": "dn14:1.32.38",
+      "pali": "Ayañhi, deva, kumāro uṇhīsasīso. Yaṁ pāyaṁ, deva, kumāro uṇhīsasīso, idampissa mahāpurisassa mahāpurisalakkhaṇaṁ bhavati."
+    },
+    {
+      "id": "dn14:1.33.1",
+      "pali": "Imehi kho ayaṁ, deva, kumāro dvattiṁsamahāpurisalakkhaṇehi samannāgato, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā."
+    },
+    {
+      "id": "dn14:1.33.2",
+      "pali": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato."
+    },
+    {
+      "id": "dn14:1.33.3",
+      "pali": "Tassimāni sattaratanāni bhavanti."
+    },
+    {
+      "id": "dn14:1.33.4",
+      "pali": "Seyyathidaṁ—cakkaratanaṁ hatthiratanaṁ assaratanaṁ maṇiratanaṁ itthiratanaṁ gahapatiratanaṁ pariṇāyakaratanameva sattamaṁ."
+    },
+    {
+      "id": "dn14:1.33.5",
+      "pali": "Parosahassaṁ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā."
+    },
+    {
+      "id": "dn14:1.33.6",
+      "pali": "So imaṁ pathaviṁ sāgarapariyantaṁ adaṇḍena asatthena dhammena abhivijiya ajjhāvasati."
+    },
+    {
+      "id": "dn14:1.33.7",
+      "pali": "Sace kho pana agārasmā anagāriyaṁ pabbajati, arahaṁ hoti sammāsambuddho loke vivaṭacchado’ti."
+    },
+    {
+      "id": "dn14:1.33.8.0",
+      "pali": "4. Vipassīsamaññā"
+    },
+    {
+      "id": "dn14:1.33.9",
+      "pali": "Atha kho, bhikkhave, bandhumā rājā nemitte brāhmaṇe ahatehi vatthehi acchādāpetvā sabbakāmehi santappesi."
+    },
+    {
+      "id": "dn14:1.34.1",
+      "pali": "Atha kho, bhikkhave, bandhumā rājā vipassissa kumārassa dhātiyo upaṭṭhāpesi."
+    },
+    {
+      "id": "dn14:1.34.2",
+      "pali": "Aññā khīraṁ pāyenti, aññā nhāpenti, aññā dhārenti, aññā aṅkena pariharanti."
+    },
+    {
+      "id": "dn14:1.34.3",
+      "pali": "Jātassa kho pana, bhikkhave, vipassissa kumārassa setacchattaṁ dhārayittha divā ceva rattiñca:"
+    },
+    {
+      "id": "dn14:1.34.4",
+      "pali": "‘mā naṁ sītaṁ vā uṇhaṁ vā tiṇaṁ vā rajo vā ussāvo vā bādhayitthā’ti."
+    },
+    {
+      "id": "dn14:1.34.5",
+      "pali": "Jāto kho pana, bhikkhave, vipassī kumāro bahuno janassa piyo ahosi manāpo."
+    },
+    {
+      "id": "dn14:1.34.6",
+      "pali": "Seyyathāpi, bhikkhave, uppalaṁ vā padumaṁ vā puṇḍarīkaṁ vā bahuno janassa piyaṁ manāpaṁ;"
+    },
+    {
+      "id": "dn14:1.34.7",
+      "pali": "evameva kho, bhikkhave, vipassī kumāro bahuno janassa piyo ahosi manāpo."
+    },
+    {
+      "id": "dn14:1.34.8",
+      "pali": "Svāssudaṁ aṅkeneva aṅkaṁ parihariyati."
+    },
+    {
+      "id": "dn14:1.35.1",
+      "pali": "Jāto kho pana, bhikkhave, vipassī kumāro mañjussaro ca ahosi vaggussaro ca madhurassaro ca pemaniyassaro ca."
+    },
+    {
+      "id": "dn14:1.35.2",
+      "pali": "Seyyathāpi, bhikkhave, himavante pabbate karavīkā nāma sakuṇajāti mañjussarā ca vaggussarā ca madhurassarā ca pemaniyassarā ca;"
+    },
+    {
+      "id": "dn14:1.35.3",
+      "pali": "evameva kho, bhikkhave, vipassī kumāro mañjussaro ca ahosi vaggussaro ca madhurassaro ca pemaniyassaro ca."
+    },
+    {
+      "id": "dn14:1.36.1",
+      "pali": "Jātassa kho pana, bhikkhave, vipassissa kumārassa kammavipākajaṁ dibbacakkhu pāturahosi yena sudaṁ samantā yojanaṁ passati divā ceva rattiñca."
+    },
+    {
+      "id": "dn14:1.37.1",
+      "pali": "Jāto kho pana, bhikkhave, vipassī kumāro animisanto pekkhati seyyathāpi devā tāvatiṁsā."
+    },
+    {
+      "id": "dn14:1.37.2",
+      "pali": "‘Animisanto kumāro pekkhatī’ti kho, bhikkhave, vipassissa kumārassa ‘vipassī vipassī’ tveva samaññā udapādi."
+    },
+    {
+      "id": "dn14:1.37.3",
+      "pali": "Atha kho, bhikkhave, bandhumā rājā atthakaraṇe nisinno vipassiṁ kumāraṁ aṅke nisīdāpetvā atthe anusāsati."
+    },
+    {
+      "id": "dn14:1.37.4",
+      "pali": "Tatra sudaṁ, bhikkhave, vipassī kumāro pituaṅke nisinno viceyya viceyya atthe panāyati ñāyena."
+    },
+    {
+      "id": "dn14:1.37.5",
+      "pali": "Viceyya viceyya kumāro atthe panāyati ñāyenāti kho, bhikkhave, vipassissa kumārassa bhiyyoso mattāya ‘vipassī vipassī’ tveva samaññā udapādi."
+    },
+    {
+      "id": "dn14:1.38.1",
+      "pali": "Atha kho, bhikkhave, bandhumā rājā vipassissa kumārassa tayo pāsāde kārāpesi, ekaṁ vassikaṁ ekaṁ hemantikaṁ ekaṁ gimhikaṁ;"
+    },
+    {
+      "id": "dn14:1.38.2",
+      "pali": "pañca kāmaguṇāni upaṭṭhāpesi."
+    },
+    {
+      "id": "dn14:1.38.3",
+      "pali": "Tatra sudaṁ, bhikkhave, vipassī kumāro vassike pāsāde cattāro māse nippurisehi tūriyehi paricārayamāno na heṭṭhāpāsādaṁ orohatīti."
+    },
+    {
+      "id": "dn14:1.38.4",
+      "pali": "Paṭhamabhāṇavāro."
+    },
+    {
+      "id": "dn14:2.1.0",
+      "pali": "5. Jiṇṇapurisa"
+    },
+    {
+      "id": "dn14:2.1.1",
+      "pali": "Atha kho, bhikkhave, vipassī kumāro bahūnaṁ vassānaṁ bahūnaṁ vassasatānaṁ bahūnaṁ vassasahassānaṁ accayena sārathiṁ āmantesi:"
+    },
+    {
+      "id": "dn14:2.1.2",
+      "pali": "‘yojehi, samma sārathi, bhaddāni bhaddāni yānāni uyyānabhūmiṁ gacchāma subhūmidassanāyā’ti."
+    },
+    {
+      "id": "dn14:2.1.3",
+      "pali": "‘Evaṁ, devā’ti kho, bhikkhave, sārathi vipassissa kumārassa paṭissutvā bhaddāni bhaddāni yānāni yojetvā vipassissa kumārassa paṭivedesi:"
+    },
+    {
+      "id": "dn14:2.1.4",
+      "pali": "‘yuttāni kho te, deva, bhaddāni bhaddāni yānāni,"
+    },
+    {
+      "id": "dn14:2.1.5",
+      "pali": "yassadāni kālaṁ maññasī’ti."
+    },
+    {
+      "id": "dn14:2.1.6",
+      "pali": "Atha kho, bhikkhave, vipassī kumāro bhaddaṁ bhaddaṁ yānaṁ abhiruhitvā bhaddehi bhaddehi yānehi uyyānabhūmiṁ niyyāsi."
+    },
+    {
+      "id": "dn14:2.2.1",
+      "pali": "Addasā kho, bhikkhave, vipassī kumāro uyyānabhūmiṁ niyyanto purisaṁ jiṇṇaṁ gopānasivaṅkaṁ bhoggaṁ daṇḍaparāyanaṁ pavedhamānaṁ gacchantaṁ āturaṁ gatayobbanaṁ."
+    },
+    {
+      "id": "dn14:2.2.2",
+      "pali": "Disvā sārathiṁ āmantesi:"
+    },
+    {
+      "id": "dn14:2.2.3",
+      "pali": "‘ayaṁ pana, samma sārathi, puriso kiṅkato?"
+    },
+    {
+      "id": "dn14:2.2.4",
+      "pali": "Kesāpissa na yathā aññesaṁ, kāyopissa na yathā aññesan’ti."
+    },
+    {
+      "id": "dn14:2.2.5",
+      "pali": "‘Eso kho, deva, jiṇṇo nāmā’ti."
+    },
+    {
+      "id": "dn14:2.2.6",
+      "pali": "‘Kiṁ paneso, samma sārathi, jiṇṇo nāmā’ti?"
+    },
+    {
+      "id": "dn14:2.2.7",
+      "pali": "‘Eso kho, deva, jiṇṇo nāma. Na dāni tena ciraṁ jīvitabbaṁ bhavissatī’ti."
+    },
+    {
+      "id": "dn14:2.2.8",
+      "pali": "‘Kiṁ pana, samma sārathi, ahampi jarādhammo, jaraṁ anatīto’ti?"
+    },
+    {
+      "id": "dn14:2.2.9",
+      "pali": "‘Tvañca, deva, mayañcamha sabbe jarādhammā, jaraṁ anatītā’ti."
+    },
+    {
+      "id": "dn14:2.2.10",
+      "pali": "‘Tena hi, samma sārathi, alaṁ dānajja uyyānabhūmiyā. Itova antepuraṁ paccaniyyāhī’ti."
+    },
+    {
+      "id": "dn14:2.2.11",
+      "pali": "‘Evaṁ, devā’ti kho, bhikkhave, sārathi vipassissa kumārassa paṭissutvā tatova antepuraṁ paccaniyyāsi."
+    },
+    {
+      "id": "dn14:2.2.12",
+      "pali": "Tatra sudaṁ, bhikkhave, vipassī kumāro antepuraṁ gato dukkhī dummano pajjhāyati:"
+    },
+    {
+      "id": "dn14:2.2.13",
+      "pali": "‘dhiratthu kira, bho, jāti nāma, yatra hi nāma jātassa jarā paññāyissatī’ti."
+    },
+    {
+      "id": "dn14:2.3.1",
+      "pali": "Atha kho, bhikkhave, bandhumā rājā sārathiṁ āmantāpetvā etadavoca:"
+    },
+    {
+      "id": "dn14:2.3.2",
+      "pali": "‘kacci, samma sārathi, kumāro uyyānabhūmiyā abhiramittha? Kacci, samma sārathi, kumāro uyyānabhūmiyā attamano ahosī’ti?"
+    },
+    {
+      "id": "dn14:2.3.3",
+      "pali": "‘Na kho, deva, kumāro uyyānabhūmiyā abhiramittha, na kho, deva, kumāro uyyānabhūmiyā attamano ahosī’ti."
+    },
+    {
+      "id": "dn14:2.3.4",
+      "pali": "‘Kiṁ pana, samma sārathi, addasa kumāro uyyānabhūmiṁ niyyanto’ti?"
+    },
+    {
+      "id": "dn14:2.3.5",
+      "pali": "‘Addasā kho, deva, kumāro uyyānabhūmiṁ niyyanto purisaṁ jiṇṇaṁ gopānasivaṅkaṁ bhoggaṁ daṇḍaparāyanaṁ pavedhamānaṁ gacchantaṁ āturaṁ gatayobbanaṁ."
+    },
+    {
+      "id": "dn14:2.3.6",
+      "pali": "Disvā maṁ etadavoca:"
+    },
+    {
+      "id": "dn14:2.3.7",
+      "pali": "“ayaṁ pana, samma sārathi, puriso kiṅkato, kesāpissa na yathā aññesaṁ, kāyopissa na yathā aññesan”ti?"
+    },
+    {
+      "id": "dn14:2.3.8",
+      "pali": "“Eso kho, deva, jiṇṇo nāmā”ti."
+    },
+    {
+      "id": "dn14:2.3.9",
+      "pali": "“Kiṁ paneso, samma sārathi, jiṇṇo nāmā”ti?"
+    },
+    {
+      "id": "dn14:2.3.10",
+      "pali": "“Eso kho, deva, jiṇṇo nāma na dāni tena ciraṁ jīvitabbaṁ bhavissatī”ti."
+    },
+    {
+      "id": "dn14:2.3.11",
+      "pali": "“Kiṁ pana, samma sārathi, ahampi jarādhammo, jaraṁ anatīto”ti?"
+    },
+    {
+      "id": "dn14:2.3.12",
+      "pali": "“Tvañca, deva, mayañcamha sabbe jarādhammā, jaraṁ anatītā”ti."
+    },
+    {
+      "id": "dn14:2.3.13",
+      "pali": "“Tena hi, samma sārathi, alaṁ dānajja uyyānabhūmiyā, itova antepuraṁ paccaniyyāhī”ti."
+    },
+    {
+      "id": "dn14:2.3.14",
+      "pali": "“Evaṁ, devā”ti kho ahaṁ, deva, vipassissa kumārassa paṭissutvā tatova antepuraṁ paccaniyyāsiṁ."
+    },
+    {
+      "id": "dn14:2.3.15",
+      "pali": "So kho, deva, kumāro antepuraṁ gato dukkhī dummano pajjhāyati:"
+    },
+    {
+      "id": "dn14:2.3.16",
+      "pali": "“dhiratthu kira, bho, jāti nāma, yatra hi nāma jātassa jarā paññāyissatī”’ti."
+    },
+    {
+      "id": "dn14:2.4.0",
+      "pali": "6. Byādhitapurisa"
+    },
+    {
+      "id": "dn14:2.4.1",
+      "pali": "Atha kho, bhikkhave, bandhumassa rañño etadahosi:"
+    },
+    {
+      "id": "dn14:2.4.2",
+      "pali": "‘Mā heva kho vipassī kumāro na rajjaṁ kāresi, mā heva vipassī kumāro agārasmā anagāriyaṁ pabbaji, mā heva nemittānaṁ brāhmaṇānaṁ saccaṁ assa vacanan’ti."
+    },
+    {
+      "id": "dn14:2.4.3",
+      "pali": "Atha kho, bhikkhave, bandhumā rājā vipassissa kumārassa bhiyyoso mattāya pañca kāmaguṇāni upaṭṭhāpesi:"
+    },
+    {
+      "id": "dn14:2.4.4",
+      "pali": "‘yathā vipassī kumāro rajjaṁ kareyya, yathā vipassī kumāro na agārasmā anagāriyaṁ pabbajeyya, yathā nemittānaṁ brāhmaṇānaṁ micchā assa vacanan’ti."
+    },
+    {
+      "id": "dn14:2.4.5",
+      "pali": "Tatra sudaṁ, bhikkhave, vipassī kumāro pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti."
+    },
+    {
+      "id": "dn14:2.5.1",
+      "pali": "Atha kho, bhikkhave, vipassī kumāro bahūnaṁ vassānaṁ …pe…"
+    },
+    {
+      "id": "dn14:2.6.1",
+      "pali": "Addasā kho, bhikkhave, vipassī kumāro uyyānabhūmiṁ niyyanto purisaṁ ābādhikaṁ dukkhitaṁ bāḷhagilānaṁ sake muttakarīse palipannaṁ semānaṁ aññehi vuṭṭhāpiyamānaṁ aññehi saṁvesiyamānaṁ."
+    },
+    {
+      "id": "dn14:2.6.2",
+      "pali": "Disvā sārathiṁ āmantesi:"
+    },
+    {
+      "id": "dn14:2.6.3",
+      "pali": "‘ayaṁ pana, samma sārathi, puriso kiṅkato?"
+    },
+    {
+      "id": "dn14:2.6.4",
+      "pali": "Akkhīnipissa na yathā aññesaṁ, saropissa na yathā aññesan’ti?"
+    },
+    {
+      "id": "dn14:2.6.5",
+      "pali": "‘Eso kho, deva, byādhito nāmā’ti."
+    },
+    {
+      "id": "dn14:2.6.6",
+      "pali": "‘Kiṁ paneso, samma sārathi, byādhito nāmā’ti?"
+    },
+    {
+      "id": "dn14:2.6.7",
+      "pali": "‘Eso kho, deva, byādhito nāma appeva nāma tamhā ābādhā vuṭṭhaheyyā’ti."
+    },
+    {
+      "id": "dn14:2.6.8",
+      "pali": "‘Kiṁ pana, samma sārathi, ahampi byādhidhammo, byādhiṁ anatīto’ti?"
+    },
+    {
+      "id": "dn14:2.6.9",
+      "pali": "‘Tvañca, deva, mayañcamha sabbe byādhidhammā, byādhiṁ anatītā’ti."
+    },
+    {
+      "id": "dn14:2.6.10",
+      "pali": "‘Tena hi, samma sārathi, alaṁ dānajja uyyānabhūmiyā, itova antepuraṁ paccaniyyāhī’ti."
+    },
+    {
+      "id": "dn14:2.6.11",
+      "pali": "‘Evaṁ, devā’ti kho, bhikkhave, sārathi vipassissa kumārassa paṭissutvā tatova antepuraṁ paccaniyyāsi."
+    },
+    {
+      "id": "dn14:2.6.12",
+      "pali": "Tatra sudaṁ, bhikkhave, vipassī kumāro antepuraṁ gato dukkhī dummano pajjhāyati:"
+    },
+    {
+      "id": "dn14:2.6.13",
+      "pali": "‘dhiratthu kira, bho, jāti nāma, yatra hi nāma jātassa jarā paññāyissati, byādhi paññāyissatī’ti."
+    },
+    {
+      "id": "dn14:2.7.1",
+      "pali": "Atha kho, bhikkhave, bandhumā rājā sārathiṁ āmantāpetvā etadavoca:"
+    },
+    {
+      "id": "dn14:2.7.2",
+      "pali": "‘kacci, samma sārathi, kumāro uyyānabhūmiyā abhiramittha, kacci, samma sārathi, kumāro uyyānabhūmiyā attamano ahosī’ti?"
+    },
+    {
+      "id": "dn14:2.7.3",
+      "pali": "‘Na kho, deva, kumāro uyyānabhūmiyā abhiramittha, na kho, deva, kumāro uyyānabhūmiyā attamano ahosī’ti."
+    },
+    {
+      "id": "dn14:2.7.4",
+      "pali": "‘Kiṁ pana, samma sārathi, addasa kumāro uyyānabhūmiṁ niyyanto’ti?"
+    },
+    {
+      "id": "dn14:2.7.5",
+      "pali": "‘Addasā kho, deva, kumāro uyyānabhūmiṁ niyyanto purisaṁ ābādhikaṁ dukkhitaṁ bāḷhagilānaṁ sake muttakarīse palipannaṁ semānaṁ aññehi vuṭṭhāpiyamānaṁ aññehi saṁvesiyamānaṁ."
+    },
+    {
+      "id": "dn14:2.7.6",
+      "pali": "Disvā maṁ etadavoca:"
+    },
+    {
+      "id": "dn14:2.7.7",
+      "pali": "“ayaṁ pana, samma sārathi, puriso kiṅkato, akkhīnipissa na yathā aññesaṁ, saropissa na yathā aññesan”ti?"
+    },
+    {
+      "id": "dn14:2.7.8",
+      "pali": "“Eso kho, deva, byādhito nāmā”ti."
+    },
+    {
+      "id": "dn14:2.7.9",
+      "pali": "“Kiṁ paneso, samma sārathi, byādhito nāmā”ti?"
+    },
+    {
+      "id": "dn14:2.7.10",
+      "pali": "“Eso kho, deva, byādhito nāma appeva nāma tamhā ābādhā vuṭṭhaheyyā”ti."
+    },
+    {
+      "id": "dn14:2.7.11",
+      "pali": "“Kiṁ pana, samma sārathi, ahampi byādhidhammo, byādhiṁ anatīto”ti?"
+    },
+    {
+      "id": "dn14:2.7.12",
+      "pali": "“Tvañca, deva, mayañcamha sabbe byādhidhammā, byādhiṁ anatītā”ti."
+    },
+    {
+      "id": "dn14:2.7.13",
+      "pali": "“Tena hi, samma sārathi, alaṁ dānajja uyyānabhūmiyā, itova antepuraṁ paccaniyyāhī”ti."
+    },
+    {
+      "id": "dn14:2.7.14",
+      "pali": "“Evaṁ, devā”ti kho ahaṁ, deva, vipassissa kumārassa paṭissutvā tatova antepuraṁ paccaniyyāsiṁ."
+    },
+    {
+      "id": "dn14:2.7.15",
+      "pali": "So kho, deva, kumāro antepuraṁ gato dukkhī dummano pajjhāyati:"
+    },
+    {
+      "id": "dn14:2.7.16",
+      "pali": "“dhiratthu kira, bho, jāti nāma, yatra hi nāma jātassa jarā paññāyissati, byādhi paññāyissatī”’ti."
+    },
+    {
+      "id": "dn14:2.8.0",
+      "pali": "7. Kālaṅkatapurisa"
+    },
+    {
+      "id": "dn14:2.8.1",
+      "pali": "Atha kho, bhikkhave, bandhumassa rañño etadahosi:"
+    },
+    {
+      "id": "dn14:2.8.2",
+      "pali": "‘mā heva kho vipassī kumāro na rajjaṁ kāresi, mā heva vipassī kumāro agārasmā anagāriyaṁ pabbaji, mā heva nemittānaṁ brāhmaṇānaṁ saccaṁ assa vacanan’ti."
+    },
+    {
+      "id": "dn14:2.8.3",
+      "pali": "Atha kho, bhikkhave, bandhumā rājā vipassissa kumārassa bhiyyoso mattāya pañca kāmaguṇāni upaṭṭhāpesi:"
+    },
+    {
+      "id": "dn14:2.8.4",
+      "pali": "‘yathā vipassī kumāro rajjaṁ kareyya, yathā vipassī kumāro na agārasmā anagāriyaṁ pabbajeyya, yathā nemittānaṁ brāhmaṇānaṁ micchā assa vacanan’ti."
+    },
+    {
+      "id": "dn14:2.9.1",
+      "pali": "Tatra sudaṁ, bhikkhave, vipassī kumāro pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti."
+    },
+    {
+      "id": "dn14:2.9.2",
+      "pali": "Atha kho, bhikkhave, vipassī kumāro bahūnaṁ vassānaṁ …pe…"
+    },
+    {
+      "id": "dn14:2.10.1",
+      "pali": "Addasā kho, bhikkhave, vipassī kumāro uyyānabhūmiṁ niyyanto mahājanakāyaṁ sannipatitaṁ nānārattānañca dussānaṁ vilātaṁ kayiramānaṁ."
+    },
+    {
+      "id": "dn14:2.10.2",
+      "pali": "Disvā sārathiṁ āmantesi:"
+    },
+    {
+      "id": "dn14:2.10.3",
+      "pali": "‘kiṁ nu kho so, samma sārathi, mahājanakāyo sannipatito nānārattānañca dussānaṁ vilātaṁ kayiratī’ti?"
+    },
+    {
+      "id": "dn14:2.10.4",
+      "pali": "‘Eso kho, deva, kālaṅkato nāmā’ti."
+    },
+    {
+      "id": "dn14:2.10.5",
+      "pali": "‘Tena hi, samma sārathi, yena so kālaṅkato tena rathaṁ pesehī’ti."
+    },
+    {
+      "id": "dn14:2.10.6",
+      "pali": "‘Evaṁ, devā’ti kho, bhikkhave, sārathi vipassissa kumārassa paṭissutvā yena so kālaṅkato tena rathaṁ pesesi."
+    },
+    {
+      "id": "dn14:2.10.7",
+      "pali": "Addasā kho, bhikkhave, vipassī kumāro petaṁ kālaṅkataṁ, disvā sārathiṁ āmantesi:"
+    },
+    {
+      "id": "dn14:2.10.8",
+      "pali": "‘kiṁ panāyaṁ, samma sārathi, kālaṅkato nāmā’ti?"
+    },
+    {
+      "id": "dn14:2.10.9",
+      "pali": "‘Eso kho, deva, kālaṅkato nāma. Na dāni taṁ dakkhanti mātā vā pitā vā aññe vā ñātisālohitā, sopi na dakkhissati mātaraṁ vā pitaraṁ vā aññe vā ñātisālohite’ti."
+    },
+    {
+      "id": "dn14:2.10.10",
+      "pali": "‘Kiṁ pana, samma sārathi, ahampi maraṇadhammo maraṇaṁ anatīto;"
+    },
+    {
+      "id": "dn14:2.10.11",
+      "pali": "mampi na dakkhanti devo vā devī vā aññe vā ñātisālohitā;"
+    },
+    {
+      "id": "dn14:2.10.12",
+      "pali": "ahampi na dakkhissāmi devaṁ vā deviṁ vā aññe vā ñātisālohite’ti?"
+    },
+    {
+      "id": "dn14:2.10.13",
+      "pali": "‘Tvañca, deva, mayañcamha sabbe maraṇadhammā maraṇaṁ anatītā;"
+    },
+    {
+      "id": "dn14:2.10.14",
+      "pali": "tampi na dakkhanti devo vā devī vā aññe vā ñātisālohitā;"
+    },
+    {
+      "id": "dn14:2.10.15",
+      "pali": "tvampi na dakkhissasi devaṁ vā deviṁ vā aññe vā ñātisālohite’ti."
+    },
+    {
+      "id": "dn14:2.10.16",
+      "pali": "‘Tena hi, samma sārathi, alaṁ dānajja uyyānabhūmiyā, itova antepuraṁ paccaniyyāhī’ti."
+    },
+    {
+      "id": "dn14:2.10.17",
+      "pali": "‘Evaṁ, devā’ti kho, bhikkhave, sārathi vipassissa kumārassa paṭissutvā tatova antepuraṁ paccaniyyāsi."
+    },
+    {
+      "id": "dn14:2.10.18",
+      "pali": "Tatra sudaṁ, bhikkhave, vipassī kumāro antepuraṁ gato dukkhī dummano pajjhāyati:"
+    },
+    {
+      "id": "dn14:2.10.19",
+      "pali": "‘dhiratthu kira, bho, jāti nāma, yatra hi nāma jātassa jarā paññāyissati, byādhi paññāyissati, maraṇaṁ paññāyissatī’ti."
+    },
+    {
+      "id": "dn14:2.11.1",
+      "pali": "Atha kho, bhikkhave, bandhumā rājā sārathiṁ āmantāpetvā etadavoca:"
+    },
+    {
+      "id": "dn14:2.11.2",
+      "pali": "‘kacci, samma sārathi, kumāro uyyānabhūmiyā abhiramittha, kacci, samma sārathi, kumāro uyyānabhūmiyā attamano ahosī’ti?"
+    },
+    {
+      "id": "dn14:2.11.3",
+      "pali": "‘Na kho, deva, kumāro uyyānabhūmiyā abhiramittha, na kho, deva, kumāro uyyānabhūmiyā attamano ahosī’ti."
+    },
+    {
+      "id": "dn14:2.11.4",
+      "pali": "‘Kiṁ pana, samma sārathi, addasa kumāro uyyānabhūmiṁ niyyanto’ti?"
+    },
+    {
+      "id": "dn14:2.11.5",
+      "pali": "‘Addasā kho, deva, kumāro uyyānabhūmiṁ niyyanto mahājanakāyaṁ sannipatitaṁ nānārattānañca dussānaṁ vilātaṁ kayiramānaṁ."
+    },
+    {
+      "id": "dn14:2.11.6",
+      "pali": "Disvā maṁ etadavoca:"
+    },
+    {
+      "id": "dn14:2.11.7",
+      "pali": "“kiṁ nu kho so, samma sārathi, mahājanakāyo sannipatito nānārattānañca dussānaṁ vilātaṁ kayiratī”ti?"
+    },
+    {
+      "id": "dn14:2.11.8",
+      "pali": "“Eso kho, deva, kālaṅkato nāmā”ti."
+    },
+    {
+      "id": "dn14:2.11.9",
+      "pali": "“Tena hi, samma sārathi, yena so kālaṅkato tena rathaṁ pesehī”ti."
+    },
+    {
+      "id": "dn14:2.11.10",
+      "pali": "“Evaṁ, devā”ti kho ahaṁ, deva, vipassissa kumārassa paṭissutvā yena so kālaṅkato tena rathaṁ pesesiṁ."
+    },
+    {
+      "id": "dn14:2.11.11",
+      "pali": "Addasā kho, deva, kumāro petaṁ kālaṅkataṁ, disvā maṁ etadavoca:"
+    },
+    {
+      "id": "dn14:2.11.12",
+      "pali": "“kiṁ panāyaṁ, samma sārathi, kālaṅkato nāmā”ti?"
+    },
+    {
+      "id": "dn14:2.11.13",
+      "pali": "“Eso kho, deva, kālaṅkato nāma."
+    },
+    {
+      "id": "dn14:2.11.14",
+      "pali": "Na dāni taṁ dakkhanti mātā vā pitā vā aññe vā ñātisālohitā, sopi na dakkhissati mātaraṁ vā pitaraṁ vā aññe vā ñātisālohite”ti."
+    },
+    {
+      "id": "dn14:2.11.15",
+      "pali": "“Kiṁ pana, samma sārathi, ahampi maraṇadhammo maraṇaṁ anatīto;"
+    },
+    {
+      "id": "dn14:2.11.16",
+      "pali": "mampi na dakkhanti devo vā devī vā aññe vā ñātisālohitā;"
+    },
+    {
+      "id": "dn14:2.11.17",
+      "pali": "ahampi na dakkhissāmi devaṁ vā deviṁ vā aññe vā ñātisālohite”ti?"
+    },
+    {
+      "id": "dn14:2.11.18",
+      "pali": "“Tvañca, deva, mayañcamha sabbe maraṇadhammā maraṇaṁ anatītā;"
+    },
+    {
+      "id": "dn14:2.11.19",
+      "pali": "tampi na dakkhanti devo vā devī vā aññe vā ñātisālohitā, tvampi na dakkhissasi devaṁ vā deviṁ vā aññe vā ñātisālohite”ti."
+    },
+    {
+      "id": "dn14:2.11.20",
+      "pali": "“Tena hi, samma sārathi, alaṁ dānajja uyyānabhūmiyā, itova antepuraṁ paccaniyyāhī”ti."
+    },
+    {
+      "id": "dn14:2.11.21",
+      "pali": "“Evaṁ, devā”ti kho ahaṁ, deva, vipassissa kumārassa paṭissutvā tatova antepuraṁ paccaniyyāsiṁ."
+    },
+    {
+      "id": "dn14:2.11.22",
+      "pali": "So kho, deva, kumāro antepuraṁ gato dukkhī dummano pajjhāyati:"
+    },
+    {
+      "id": "dn14:2.11.23",
+      "pali": "“dhiratthu kira, bho, jāti nāma, yatra hi nāma jātassa jarā paññāyissati, byādhi paññāyissati, maraṇaṁ paññāyissatī”’ti."
+    },
+    {
+      "id": "dn14:2.12.0",
+      "pali": "8. Pabbajita"
+    },
+    {
+      "id": "dn14:2.12.1",
+      "pali": "Atha kho, bhikkhave, bandhumassa rañño etadahosi:"
+    },
+    {
+      "id": "dn14:2.12.2",
+      "pali": "‘mā heva kho vipassī kumāro na rajjaṁ kāresi, mā heva vipassī kumāro agārasmā anagāriyaṁ pabbaji, mā heva nemittānaṁ brāhmaṇānaṁ saccaṁ assa vacanan’ti."
+    },
+    {
+      "id": "dn14:2.12.3",
+      "pali": "Atha kho, bhikkhave, bandhumā rājā vipassissa kumārassa bhiyyoso mattāya pañca kāmaguṇāni upaṭṭhāpesi:"
+    },
+    {
+      "id": "dn14:2.12.4",
+      "pali": "‘yathā vipassī kumāro rajjaṁ kareyya, yathā vipassī kumāro na agārasmā anagāriyaṁ pabbajeyya, yathā nemittānaṁ brāhmaṇānaṁ micchā assa vacanan’ti."
+    },
+    {
+      "id": "dn14:2.13.1",
+      "pali": "Tatra sudaṁ, bhikkhave, vipassī kumāro pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti."
+    },
+    {
+      "id": "dn14:2.13.2",
+      "pali": "Atha kho, bhikkhave, vipassī kumāro bahūnaṁ vassānaṁ bahūnaṁ vassasatānaṁ bahūnaṁ vassasahassānaṁ accayena sārathiṁ āmantesi:"
+    },
+    {
+      "id": "dn14:2.13.3",
+      "pali": "‘yojehi, samma sārathi, bhaddāni bhaddāni yānāni, uyyānabhūmiṁ gacchāma subhūmidassanāyā’ti."
+    },
+    {
+      "id": "dn14:2.13.4",
+      "pali": "‘Evaṁ, devā’ti kho, bhikkhave, sārathi vipassissa kumārassa paṭissutvā bhaddāni bhaddāni yānāni yojetvā vipassissa kumārassa paṭivedesi:"
+    },
+    {
+      "id": "dn14:2.13.5",
+      "pali": "‘yuttāni kho te, deva, bhaddāni bhaddāni yānāni,"
+    },
+    {
+      "id": "dn14:2.13.6",
+      "pali": "yassadāni kālaṁ maññasī’ti."
+    },
+    {
+      "id": "dn14:2.13.7",
+      "pali": "Atha kho, bhikkhave, vipassī kumāro bhaddaṁ bhaddaṁ yānaṁ abhiruhitvā bhaddehi bhaddehi yānehi uyyānabhūmiṁ niyyāsi."
+    },
+    {
+      "id": "dn14:2.14.1",
+      "pali": "Addasā kho, bhikkhave, vipassī kumāro uyyānabhūmiṁ niyyanto purisaṁ bhaṇḍuṁ pabbajitaṁ kāsāyavasanaṁ."
+    },
+    {
+      "id": "dn14:2.14.2",
+      "pali": "Disvā sārathiṁ āmantesi:"
+    },
+    {
+      "id": "dn14:2.14.3",
+      "pali": "‘ayaṁ pana, samma sārathi, puriso kiṅkato?"
+    },
+    {
+      "id": "dn14:2.14.4",
+      "pali": "Sīsampissa na yathā aññesaṁ, vatthānipissa na yathā aññesan’ti?"
+    },
+    {
+      "id": "dn14:2.14.5",
+      "pali": "‘Eso kho, deva, pabbajito nāmā’ti."
+    },
+    {
+      "id": "dn14:2.14.6",
+      "pali": "‘Kiṁ paneso, samma sārathi, pabbajito nāmā’ti?"
+    },
+    {
+      "id": "dn14:2.14.7",
+      "pali": "‘Eso kho, deva, pabbajito nāma sādhu dhammacariyā sādhu samacariyā sādhu kusalakiriyā sādhu puññakiriyā sādhu avihiṁsā sādhu bhūtānukampā’ti."
+    },
+    {
+      "id": "dn14:2.14.8",
+      "pali": "‘Sādhu kho so, samma sārathi, pabbajito nāma, sādhu dhammacariyā sādhu samacariyā sādhu kusalakiriyā sādhu puññakiriyā sādhu avihiṁsā sādhu bhūtānukampā."
+    },
+    {
+      "id": "dn14:2.14.9",
+      "pali": "Tena hi, samma sārathi, yena so pabbajito tena rathaṁ pesehī’ti."
+    },
+    {
+      "id": "dn14:2.14.10",
+      "pali": "‘Evaṁ, devā’ti kho, bhikkhave, sārathi vipassissa kumārassa paṭissutvā yena so pabbajito tena rathaṁ pesesi."
+    },
+    {
+      "id": "dn14:2.14.11",
+      "pali": "Atha kho, bhikkhave, vipassī kumāro taṁ pabbajitaṁ etadavoca:"
+    },
+    {
+      "id": "dn14:2.14.12",
+      "pali": "‘tvaṁ pana, samma, kiṅkato,"
+    },
+    {
+      "id": "dn14:2.14.13",
+      "pali": "sīsampi te na yathā aññesaṁ, vatthānipi te na yathā aññesan’ti?"
+    },
+    {
+      "id": "dn14:2.14.14",
+      "pali": "‘Ahaṁ kho, deva, pabbajito nāmā’ti."
+    },
+    {
+      "id": "dn14:2.14.15",
+      "pali": "‘Kiṁ pana tvaṁ, samma, pabbajito nāmā’ti?"
+    },
+    {
+      "id": "dn14:2.14.16",
+      "pali": "‘Ahaṁ kho, deva, pabbajito nāma, sādhu dhammacariyā sādhu samacariyā sādhu kusalakiriyā sādhu puññakiriyā sādhu avihiṁsā sādhu bhūtānukampā’ti."
+    },
+    {
+      "id": "dn14:2.14.17",
+      "pali": "‘Sādhu kho tvaṁ, samma, pabbajito nāma sādhu dhammacariyā sādhu samacariyā sādhu kusalakiriyā sādhu puññakiriyā sādhu avihiṁsā sādhu bhūtānukampā’ti."
+    },
+    {
+      "id": "dn14:2.15.0",
+      "pali": "9. Bodhisattapabbajjā"
+    },
+    {
+      "id": "dn14:2.15.1",
+      "pali": "Atha kho, bhikkhave, vipassī kumāro sārathiṁ āmantesi:"
+    },
+    {
+      "id": "dn14:2.15.2",
+      "pali": "‘tena hi, samma sārathi, rathaṁ ādāya itova antepuraṁ paccaniyyāhi."
+    },
+    {
+      "id": "dn14:2.15.3",
+      "pali": "Ahaṁ pana idheva kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajissāmī’ti."
+    },
+    {
+      "id": "dn14:2.15.4",
+      "pali": "‘Evaṁ, devā’ti kho, bhikkhave, sārathi vipassissa kumārassa paṭissutvā rathaṁ ādāya tatova antepuraṁ paccaniyyāsi."
+    },
+    {
+      "id": "dn14:2.15.5",
+      "pali": "Vipassī pana kumāro tattheva kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbaji."
+    },
+    {
+      "id": "dn14:2.16.0",
+      "pali": "10. Mahājanakāyaanupabbajjā"
+    },
+    {
+      "id": "dn14:2.16.1",
+      "pali": "Assosi kho, bhikkhave, bandhumatiyā rājadhāniyā mahājanakāyo caturāsītipāṇasahassāni:"
+    },
+    {
+      "id": "dn14:2.16.2",
+      "pali": "‘vipassī kira kumāro kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajito’ti."
+    },
+    {
+      "id": "dn14:2.16.3",
+      "pali": "Sutvāna tesaṁ etadahosi:"
+    },
+    {
+      "id": "dn14:2.16.4",
+      "pali": "‘na hi nūna so orako dhammavinayo, na sā orakā pabbajjā, yattha vipassī kumāro kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajito."
+    },
+    {
+      "id": "dn14:2.16.5",
+      "pali": "Vipassīpi nāma kumāro kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajissati, kimaṅgaṁ pana mayan’ti."
+    },
+    {
+      "id": "dn14:2.16.6",
+      "pali": "Atha kho, so bhikkhave, mahājanakāyo caturāsītipāṇasahassāni kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā vipassiṁ bodhisattaṁ agārasmā anagāriyaṁ pabbajitaṁ anupabbajiṁsu."
+    },
+    {
+      "id": "dn14:2.16.7",
+      "pali": "Tāya sudaṁ, bhikkhave, parisāya parivuto vipassī bodhisatto gāmanigamajanapadarājadhānīsu cārikaṁ carati."
+    },
+    {
+      "id": "dn14:2.17.1",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi:"
+    },
+    {
+      "id": "dn14:2.17.2",
+      "pali": "‘na kho metaṁ patirūpaṁ yohaṁ ākiṇṇo viharāmi, yannūnāhaṁ eko gaṇamhā vūpakaṭṭho vihareyyan’ti."
+    },
+    {
+      "id": "dn14:2.17.3",
+      "pali": "Atha kho, bhikkhave, vipassī bodhisatto aparena samayena eko gaṇamhā vūpakaṭṭho vihāsi, aññeneva tāni caturāsītipabbajitasahassāni agamaṁsu, aññena maggena vipassī bodhisatto."
+    },
+    {
+      "id": "dn14:2.18.0",
+      "pali": "11. Bodhisattaabhinivesa"
+    },
+    {
+      "id": "dn14:2.18.1",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa vāsūpagatassa rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi:"
+    },
+    {
+      "id": "dn14:2.18.2",
+      "pali": "‘kicchaṁ vatāyaṁ loko āpanno, jāyati ca jīyati ca mīyati ca cavati ca upapajjati ca, atha ca panimassa dukkhassa nissaraṇaṁ nappajānāti jarāmaraṇassa,"
+    },
+    {
+      "id": "dn14:2.18.3",
+      "pali": "kudāssu nāma imassa dukkhassa nissaraṇaṁ paññāyissati jarāmaraṇassā’ti?"
+    },
+    {
+      "id": "dn14:2.18.4",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.18.5",
+      "pali": "‘kimhi nu kho sati jarāmaraṇaṁ hoti, kiṁpaccayā jarāmaraṇan’ti?"
+    },
+    {
+      "id": "dn14:2.18.6",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.18.7",
+      "pali": "‘jātiyā kho sati jarāmaraṇaṁ hoti, jātipaccayā jarāmaraṇan’ti."
+    },
+    {
+      "id": "dn14:2.18.8",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.18.9",
+      "pali": "‘kimhi nu kho sati jāti hoti, kiṁpaccayā jātī’ti?"
+    },
+    {
+      "id": "dn14:2.18.10",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.18.11",
+      "pali": "‘bhave kho sati jāti hoti, bhavapaccayā jātī’ti."
+    },
+    {
+      "id": "dn14:2.18.12",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.18.13",
+      "pali": "‘kimhi nu kho sati bhavo hoti, kiṁpaccayā bhavo’ti?"
+    },
+    {
+      "id": "dn14:2.18.14",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.18.15",
+      "pali": "‘upādāne kho sati bhavo hoti, upādānapaccayā bhavo’ti."
+    },
+    {
+      "id": "dn14:2.18.16",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.18.17",
+      "pali": "‘kimhi nu kho sati upādānaṁ hoti, kiṁpaccayā upādānan’ti?"
+    },
+    {
+      "id": "dn14:2.18.18",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.18.19",
+      "pali": "‘taṇhāya kho sati upādānaṁ hoti, taṇhāpaccayā upādānan’ti."
+    },
+    {
+      "id": "dn14:2.18.20",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.18.21",
+      "pali": "‘kimhi nu kho sati taṇhā hoti, kiṁpaccayā taṇhā’ti?"
+    },
+    {
+      "id": "dn14:2.18.22",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.18.23",
+      "pali": "‘vedanāya kho sati taṇhā hoti, vedanāpaccayā taṇhā’ti."
+    },
+    {
+      "id": "dn14:2.18.24",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.18.25",
+      "pali": "‘kimhi nu kho sati vedanā hoti, kiṁpaccayā vedanā’ti?"
+    },
+    {
+      "id": "dn14:2.18.26",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.18.27",
+      "pali": "‘phasse kho sati vedanā hoti, phassapaccayā vedanā’ti."
+    },
+    {
+      "id": "dn14:2.18.28",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.18.29",
+      "pali": "‘kimhi nu kho sati phasso hoti, kiṁpaccayā phasso’ti?"
+    },
+    {
+      "id": "dn14:2.18.30",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.18.31",
+      "pali": "‘saḷāyatane kho sati phasso hoti, saḷāyatanapaccayā phasso’ti."
+    },
+    {
+      "id": "dn14:2.18.32",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.18.33",
+      "pali": "‘kimhi nu kho sati saḷāyatanaṁ hoti, kiṁpaccayā saḷāyatanan’ti?"
+    },
+    {
+      "id": "dn14:2.18.34",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.18.35",
+      "pali": "‘nāmarūpe kho sati saḷāyatanaṁ hoti, nāmarūpapaccayā saḷāyatanan’ti."
+    },
+    {
+      "id": "dn14:2.18.36",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.18.37",
+      "pali": "‘kimhi nu kho sati nāmarūpaṁ hoti, kiṁpaccayā nāmarūpan’ti?"
+    },
+    {
+      "id": "dn14:2.18.38",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.18.39",
+      "pali": "‘viññāṇe kho sati nāmarūpaṁ hoti, viññāṇapaccayā nāmarūpan’ti."
+    },
+    {
+      "id": "dn14:2.18.40",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.18.41",
+      "pali": "‘kimhi nu kho sati viññāṇaṁ hoti, kiṁpaccayā viññāṇan’ti?"
+    },
+    {
+      "id": "dn14:2.18.42",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.18.43",
+      "pali": "‘nāmarūpe kho sati viññāṇaṁ hoti, nāmarūpapaccayā viññāṇan’ti."
+    },
+    {
+      "id": "dn14:2.19.1",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.19.2",
+      "pali": "‘paccudāvattati kho idaṁ viññāṇaṁ nāmarūpamhā, nāparaṁ gacchati."
+    },
+    {
+      "id": "dn14:2.19.3",
+      "pali": "Ettāvatā jāyetha vā jiyyetha vā miyyetha vā cavetha vā upapajjetha vā, yadidaṁ"
+    },
+    {
+      "id": "dn14:2.19.4",
+      "pali": "nāmarūpapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā saḷāyatanaṁ, saḷāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti."
+    },
+    {
+      "id": "dn14:2.19.5",
+      "pali": "Evametassa kevalassa dukkhakkhandhassa samudayo hoti’."
+    },
+    {
+      "id": "dn14:2.19.6",
+      "pali": "‘Samudayo samudayo’ti kho, bhikkhave, vipassissa bodhisattassa pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+    },
+    {
+      "id": "dn14:2.20.1",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.20.2",
+      "pali": "‘kimhi nu kho asati jarāmaraṇaṁ na hoti, kissa nirodhā jarāmaraṇanirodho’ti?"
+    },
+    {
+      "id": "dn14:2.20.3",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.20.4",
+      "pali": "‘jātiyā kho asati jarāmaraṇaṁ na hoti, jātinirodhā jarāmaraṇanirodho’ti."
+    },
+    {
+      "id": "dn14:2.20.5",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.20.6",
+      "pali": "‘kimhi nu kho asati jāti na hoti, kissa nirodhā jātinirodho’ti?"
+    },
+    {
+      "id": "dn14:2.20.7",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.20.8",
+      "pali": "‘bhave kho asati jāti na hoti, bhavanirodhā jātinirodho’ti."
+    },
+    {
+      "id": "dn14:2.20.9",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.20.10",
+      "pali": "‘kimhi nu kho asati bhavo na hoti, kissa nirodhā bhavanirodho’ti?"
+    },
+    {
+      "id": "dn14:2.20.11",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.20.12",
+      "pali": "‘upādāne kho asati bhavo na hoti, upādānanirodhā bhavanirodho’ti."
+    },
+    {
+      "id": "dn14:2.20.13",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.20.14",
+      "pali": "‘kimhi nu kho asati upādānaṁ na hoti, kissa nirodhā upādānanirodho’ti?"
+    },
+    {
+      "id": "dn14:2.20.15",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.20.16",
+      "pali": "‘taṇhāya kho asati upādānaṁ na hoti, taṇhānirodhā upādānanirodho’ti."
+    },
+    {
+      "id": "dn14:2.20.17",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.20.18",
+      "pali": "‘kimhi nu kho asati taṇhā na hoti, kissa nirodhā taṇhānirodho’ti?"
+    },
+    {
+      "id": "dn14:2.20.19",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.20.20",
+      "pali": "‘vedanāya kho asati taṇhā na hoti, vedanānirodhā taṇhānirodho’ti."
+    },
+    {
+      "id": "dn14:2.20.21",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.20.22",
+      "pali": "‘kimhi nu kho asati vedanā na hoti, kissa nirodhā vedanānirodho’ti?"
+    },
+    {
+      "id": "dn14:2.20.23",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.20.24",
+      "pali": "‘phasse kho asati vedanā na hoti, phassanirodhā vedanānirodho’ti."
+    },
+    {
+      "id": "dn14:2.20.25",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.20.26",
+      "pali": "‘kimhi nu kho asati phasso na hoti, kissa nirodhā phassanirodho’ti?"
+    },
+    {
+      "id": "dn14:2.20.27",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.20.28",
+      "pali": "‘saḷāyatane kho asati phasso na hoti, saḷāyatananirodhā phassanirodho’ti."
+    },
+    {
+      "id": "dn14:2.20.29",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.20.30",
+      "pali": "‘kimhi nu kho asati saḷāyatanaṁ na hoti, kissa nirodhā saḷāyatananirodho’ti?"
+    },
+    {
+      "id": "dn14:2.20.31",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.20.32",
+      "pali": "‘nāmarūpe kho asati saḷāyatanaṁ na hoti, nāmarūpanirodhā saḷāyatananirodho’ti."
+    },
+    {
+      "id": "dn14:2.20.33",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.20.34",
+      "pali": "‘kimhi nu kho asati nāmarūpaṁ na hoti, kissa nirodhā nāmarūpanirodho’ti?"
+    },
+    {
+      "id": "dn14:2.20.35",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.20.36",
+      "pali": "‘viññāṇe kho asati nāmarūpaṁ na hoti, viññāṇanirodhā nāmarūpanirodho’ti."
+    },
+    {
+      "id": "dn14:2.20.37",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.20.38",
+      "pali": "‘kimhi nu kho asati viññāṇaṁ na hoti, kissa nirodhā viññāṇanirodho’ti?"
+    },
+    {
+      "id": "dn14:2.20.39",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo:"
+    },
+    {
+      "id": "dn14:2.20.40",
+      "pali": "‘nāmarūpe kho asati viññāṇaṁ na hoti, nāmarūpanirodhā viññāṇanirodho’ti."
+    },
+    {
+      "id": "dn14:2.21.1",
+      "pali": "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
+    },
+    {
+      "id": "dn14:2.21.2",
+      "pali": "‘adhigato kho myāyaṁ maggo sambodhāya yadidaṁ—"
+    },
+    {
+      "id": "dn14:2.21.3",
+      "pali": "nāmarūpanirodhā viññāṇanirodho, viññāṇanirodhā nāmarūpanirodho, nāmarūpanirodhā saḷāyatananirodho, saḷāyatananirodhā phassanirodho, phassanirodhā vedanānirodho, vedanānirodhā taṇhānirodho, taṇhānirodhā upādānanirodho, upādānanirodhā bhavanirodho, bhavanirodhā jātinirodho, jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti."
+    },
+    {
+      "id": "dn14:2.21.4",
+      "pali": "Evametassa kevalassa dukkhakkhandhassa nirodho hoti’."
+    },
+    {
+      "id": "dn14:2.21.5",
+      "pali": "‘Nirodho nirodho’ti kho, bhikkhave, vipassissa bodhisattassa pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+    },
+    {
+      "id": "dn14:2.22.1",
+      "pali": "Atha kho, bhikkhave, vipassī bodhisatto aparena samayena pañcasu upādānakkhandhesu udayabbayānupassī vihāsi:"
+    },
+    {
+      "id": "dn14:2.22.2",
+      "pali": "‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo;"
+    },
+    {
+      "id": "dn14:2.22.3",
+      "pali": "iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo;"
+    },
+    {
+      "id": "dn14:2.22.4",
+      "pali": "iti saññā, iti saññāya samudayo, iti saññāya atthaṅgamo;"
+    },
+    {
+      "id": "dn14:2.22.5",
+      "pali": "iti saṅkhārā, iti saṅkhārānaṁ samudayo, iti saṅkhārānaṁ atthaṅgamo;"
+    },
+    {
+      "id": "dn14:2.22.6",
+      "pali": "iti viññāṇaṁ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti,"
+    },
+    {
+      "id": "dn14:2.22.7",
+      "pali": "tassa pañcasu upādānakkhandhesu udayabbayānupassino viharato na cirasseva anupādāya āsavehi cittaṁ vimuccīti."
+    },
+    {
+      "id": "dn14:2.22.8",
+      "pali": "Dutiyabhāṇavāro."
+    },
+    {
+      "id": "dn14:3.1.0",
+      "pali": "12. Brahmayācanakathā"
+    },
+    {
+      "id": "dn14:3.1.1",
+      "pali": "Atha kho, bhikkhave, vipassissa bhagavato arahato sammāsambuddhassa etadahosi:"
+    },
+    {
+      "id": "dn14:3.1.2",
+      "pali": "‘yannūnāhaṁ dhammaṁ deseyyan’ti."
+    },
+    {
+      "id": "dn14:3.1.3",
+      "pali": "Atha kho, bhikkhave, vipassissa bhagavato arahato sammāsambuddhassa etadahosi:"
+    },
+    {
+      "id": "dn14:3.1.4",
+      "pali": "‘adhigato kho myāyaṁ dhammo gambhīro duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo."
+    },
+    {
+      "id": "dn14:3.1.5",
+      "pali": "Ālayarāmā kho panāyaṁ pajā ālayaratā ālayasammuditā."
+    },
+    {
+      "id": "dn14:3.1.6",
+      "pali": "Ālayarāmāya kho pana pajāya ālayaratāya ālayasammuditāya duddasaṁ idaṁ ṭhānaṁ yadidaṁ idappaccayatāpaṭiccasamuppādo."
+    },
+    {
+      "id": "dn14:3.1.7",
+      "pali": "Idampi kho ṭhānaṁ duddasaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ."
+    },
+    {
+      "id": "dn14:3.1.8",
+      "pali": "Ahañceva kho pana dhammaṁ deseyyaṁ, pare ca me na ājāneyyuṁ; so mamassa kilamatho, sā mamassa vihesā’ti."
+    },
+    {
+      "id": "dn14:3.2.1",
+      "pali": "Apissu, bhikkhave, vipassiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ imā anacchariyā gāthāyo paṭibhaṁsu pubbe assutapubbā:"
+    },
+    {
+      "id": "dn14:3.2.2",
+      "pali": "‘Kicchena me adhigataṁ,"
+    },
+    {
+      "id": "dn14:3.2.3",
+      "pali": "halaṁ dāni pakāsituṁ;"
+    },
+    {
+      "id": "dn14:3.2.4",
+      "pali": "Rāgadosaparetehi,"
+    },
+    {
+      "id": "dn14:3.2.5",
+      "pali": "nāyaṁ dhammo susambudho."
+    },
+    {
+      "id": "dn14:3.2.6",
+      "pali": "Paṭisotagāmiṁ nipuṇaṁ,"
+    },
+    {
+      "id": "dn14:3.2.7",
+      "pali": "gambhīraṁ duddasaṁ aṇuṁ;"
+    },
+    {
+      "id": "dn14:3.2.8",
+      "pali": "Rāgarattā na dakkhanti,"
+    },
+    {
+      "id": "dn14:3.2.9",
+      "pali": "tamokhandhena āvuṭā’ti."
+    },
+    {
+      "id": "dn14:3.2.10",
+      "pali": "Itiha, bhikkhave, vipassissa bhagavato arahato sammāsambuddhassa paṭisañcikkhato appossukkatāya cittaṁ nami, no dhammadesanāya."
+    },
+    {
+      "id": "dn14:3.2.11",
+      "pali": "Atha kho, bhikkhave, aññatarassa mahābrahmuno vipassissa bhagavato arahato sammāsambuddhassa cetasā cetoparivitakkamaññāya etadahosi:"
+    },
+    {
+      "id": "dn14:3.2.12",
+      "pali": "‘nassati vata bho loko, vinassati vata bho loko, yatra hi nāma vipassissa bhagavato arahato sammāsambuddhassa appossukkatāya cittaṁ namati, no dhammadesanāyā’ti."
+    },
+    {
+      "id": "dn14:3.2.13",
+      "pali": "Atha kho so, bhikkhave, mahābrahmā seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva—brahmaloke antarahito vipassissa bhagavato arahato sammāsambuddhassa purato pāturahosi."
+    },
+    {
+      "id": "dn14:3.3.1",
+      "pali": "Atha kho so, bhikkhave, mahābrahmā ekaṁsaṁ uttarāsaṅgaṁ karitvā dakkhiṇaṁ jāṇumaṇḍalaṁ pathaviyaṁ nihantvā yena vipassī bhagavā arahaṁ sammāsambuddho tenañjaliṁ paṇāmetvā vipassiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ etadavoca:"
+    },
+    {
+      "id": "dn14:3.3.2",
+      "pali": "‘desetu, bhante, bhagavā dhammaṁ, desetu sugato dhammaṁ,"
+    },
+    {
+      "id": "dn14:3.3.3",
+      "pali": "santi sattā apparajakkhajātikā; assavanatā dhammassa parihāyanti,"
+    },
+    {
+      "id": "dn14:3.3.4",
+      "pali": "bhavissanti dhammassa aññātāro’ti."
+    },
+    {
+      "id": "dn14:3.4.1",
+      "pali": "Evaṁ vutte, bhikkhave, vipassī bhagavā arahaṁ sammāsambuddho taṁ mahābrahmānaṁ etadavoca:"
+    },
+    {
+      "id": "dn14:3.4.2",
+      "pali": "‘mayhampi kho, brahme, etadahosi:"
+    },
+    {
+      "id": "dn14:3.4.3",
+      "pali": "“yannūnāhaṁ dhammaṁ deseyyan”ti."
+    },
+    {
+      "id": "dn14:3.4.4",
+      "pali": "Tassa mayhaṁ, brahme, etadahosi:"
+    },
+    {
+      "id": "dn14:3.4.5",
+      "pali": "“adhigato kho myāyaṁ dhammo gambhīro duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo."
+    },
+    {
+      "id": "dn14:3.4.6",
+      "pali": "Ālayarāmā kho panāyaṁ pajā ālayaratā ālayasammuditā."
+    },
+    {
+      "id": "dn14:3.4.7",
+      "pali": "Ālayarāmāya kho pana pajāya ālayaratāya ālayasammuditāya duddasaṁ idaṁ ṭhānaṁ yadidaṁ idappaccayatāpaṭiccasamuppādo."
+    },
+    {
+      "id": "dn14:3.4.8",
+      "pali": "Idampi kho ṭhānaṁ duddasaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ."
+    },
+    {
+      "id": "dn14:3.4.9",
+      "pali": "Ahañceva kho pana dhammaṁ deseyyaṁ, pare ca me na ājāneyyuṁ; so mamassa kilamatho, sā mamassa vihesā”ti."
+    },
+    {
+      "id": "dn14:3.4.10",
+      "pali": "Apissu maṁ, brahme, imā anacchariyā gāthāyo paṭibhaṁsu pubbe assutapubbā:"
+    },
+    {
+      "id": "dn14:3.4.11",
+      "pali": "“Kicchena me adhigataṁ,"
+    },
+    {
+      "id": "dn14:3.4.12",
+      "pali": "halaṁ dāni pakāsituṁ;"
+    },
+    {
+      "id": "dn14:3.4.13",
+      "pali": "Rāgadosaparetehi,"
+    },
+    {
+      "id": "dn14:3.4.14",
+      "pali": "nāyaṁ dhammo susambudho."
+    },
+    {
+      "id": "dn14:3.4.15",
+      "pali": "Paṭisotagāmiṁ nipuṇaṁ,"
+    },
+    {
+      "id": "dn14:3.4.16",
+      "pali": "gambhīraṁ duddasaṁ aṇuṁ;"
+    },
+    {
+      "id": "dn14:3.4.17",
+      "pali": "Rāgarattā na dakkhanti,"
+    },
+    {
+      "id": "dn14:3.4.18",
+      "pali": "tamokhandhena āvuṭā”ti."
+    },
+    {
+      "id": "dn14:3.4.19",
+      "pali": "Itiha me, brahme, paṭisañcikkhato appossukkatāya cittaṁ nami, no dhammadesanāyā’ti."
+    },
+    {
+      "id": "dn14:3.5.1",
+      "pali": "Dutiyampi kho, bhikkhave, so mahābrahmā …pe…"
+    },
+    {
+      "id": "dn14:3.5.2",
+      "pali": "tatiyampi kho, bhikkhave, so mahābrahmā vipassiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ etadavoca:"
+    },
+    {
+      "id": "dn14:3.5.3",
+      "pali": "‘desetu, bhante, bhagavā dhammaṁ, desetu sugato dhammaṁ, santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti, bhavissanti dhammassa aññātāro’ti."
+    },
+    {
+      "id": "dn14:3.6.1",
+      "pali": "Atha kho, bhikkhave, vipassī bhagavā arahaṁ sammāsambuddho brahmuno ca ajjhesanaṁ viditvā sattesu ca kāruññataṁ paṭicca buddhacakkhunā lokaṁ volokesi."
+    },
+    {
+      "id": "dn14:3.6.2",
+      "pali": "Addasā kho, bhikkhave, vipassī bhagavā arahaṁ sammāsambuddho buddhacakkhunā lokaṁ volokento satte apparajakkhe mahārajakkhe tikkhindriye mudindriye svākāre dvākāre suviññāpaye duviññāpaye appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante."
+    },
+    {
+      "id": "dn14:3.6.3",
+      "pali": "Seyyathāpi nāma uppaliniyaṁ vā paduminiyaṁ vā puṇḍarīkiniyaṁ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni anto nimuggaposīni. Appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni samodakaṁ ṭhitāni. Appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakā accuggamma ṭhitāni anupalittāni udakena."
+    },
+    {
+      "id": "dn14:3.6.4",
+      "pali": "Evameva kho, bhikkhave, vipassī bhagavā arahaṁ sammāsambuddho buddhacakkhunā lokaṁ volokento addasa satte apparajakkhe mahārajakkhe tikkhindriye mudindriye svākāre dvākāre suviññāpaye duviññāpaye appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante."
+    },
+    {
+      "id": "dn14:3.7.1",
+      "pali": "Atha kho so, bhikkhave, mahābrahmā vipassissa bhagavato arahato sammāsambuddhassa cetasā cetoparivitakkamaññāya vipassiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ gāthāhi ajjhabhāsi:"
+    },
+    {
+      "id": "dn14:3.7.2",
+      "pali": "‘Sele yathā pabbatamuddhaniṭṭhito,"
+    },
+    {
+      "id": "dn14:3.7.3",
+      "pali": "Yathāpi passe janataṁ samantato;"
+    },
+    {
+      "id": "dn14:3.7.4",
+      "pali": "Tathūpamaṁ dhammamayaṁ sumedha,"
+    },
+    {
+      "id": "dn14:3.7.5",
+      "pali": "Pāsādamāruyha samantacakkhu;"
+    },
+    {
+      "id": "dn14:3.7.6",
+      "pali": "Sokāvatiṇṇaṁ janatamapetasoko,"
+    },
+    {
+      "id": "dn14:3.7.7",
+      "pali": "Avekkhassu jātijarābhibhūtaṁ."
+    },
+    {
+      "id": "dn14:3.7.8",
+      "pali": "Uṭṭhehi vīra vijitasaṅgāma,"
+    },
+    {
+      "id": "dn14:3.7.9",
+      "pali": "Satthavāha aṇaṇa vicara loke;"
+    },
+    {
+      "id": "dn14:3.7.10",
+      "pali": "Desassu bhagavā dhammaṁ,"
+    },
+    {
+      "id": "dn14:3.7.11",
+      "pali": "Aññātāro bhavissantī’ti."
+    },
+    {
+      "id": "dn14:3.7.12",
+      "pali": "Atha kho, bhikkhave, vipassī bhagavā arahaṁ sammāsambuddho taṁ mahābrahmānaṁ gāthāya ajjhabhāsi:"
+    },
+    {
+      "id": "dn14:3.7.13",
+      "pali": "‘Apārutā tesaṁ amatassa dvārā,"
+    },
+    {
+      "id": "dn14:3.7.14",
+      "pali": "Ye sotavanto pamuñcantu saddhaṁ;"
+    },
+    {
+      "id": "dn14:3.7.15",
+      "pali": "Vihiṁsasaññī paguṇaṁ na bhāsiṁ,"
+    },
+    {
+      "id": "dn14:3.7.16",
+      "pali": "Dhammaṁ paṇītaṁ manujesu brahme’ti."
+    },
+    {
+      "id": "dn14:3.7.17",
+      "pali": "Atha kho so, bhikkhave, mahābrahmā: ‘katāvakāso khomhi vipassinā bhagavatā arahatā sammāsambuddhena dhammadesanāyā’ti vipassiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ abhivādetvā padakkhiṇaṁ katvā tattheva antaradhāyi."
+    },
+    {
+      "id": "dn14:3.8.0",
+      "pali": "13. Aggasāvakayuga"
+    },
+    {
+      "id": "dn14:3.8.1",
+      "pali": "Atha kho, bhikkhave, vipassissa bhagavato arahato sammāsambuddhassa etadahosi:"
+    },
+    {
+      "id": "dn14:3.8.2",
+      "pali": "‘kassa nu kho ahaṁ paṭhamaṁ dhammaṁ deseyyaṁ,"
+    },
+    {
+      "id": "dn14:3.8.3",
+      "pali": "ko imaṁ dhammaṁ khippameva ājānissatī’ti?"
+    },
+    {
+      "id": "dn14:3.8.4",
+      "pali": "Atha kho, bhikkhave, vipassissa bhagavato arahato sammāsambuddhassa etadahosi:"
+    },
+    {
+      "id": "dn14:3.8.5",
+      "pali": "‘ayaṁ kho khaṇḍo ca rājaputto tisso ca purohitaputto bandhumatiyā rājadhāniyā paṭivasanti paṇḍitā viyattā medhāvino dīgharattaṁ apparajakkhajātikā."
+    },
+    {
+      "id": "dn14:3.8.6",
+      "pali": "Yannūnāhaṁ khaṇḍassa ca rājaputtassa, tissassa ca purohitaputtassa paṭhamaṁ dhammaṁ deseyyaṁ, te imaṁ dhammaṁ khippameva ājānissantī’ti."
+    },
+    {
+      "id": "dn14:3.9.1",
+      "pali": "Atha kho, bhikkhave, vipassī bhagavā arahaṁ sammāsambuddho seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva—bodhirukkhamūle antarahito bandhumatiyā rājadhāniyā kheme migadāye pāturahosi."
+    },
+    {
+      "id": "dn14:3.9.2",
+      "pali": "Atha kho, bhikkhave, vipassī bhagavā arahaṁ sammāsambuddho dāyapālaṁ āmantesi:"
+    },
+    {
+      "id": "dn14:3.9.3",
+      "pali": "‘ehi tvaṁ, samma dāyapāla, bandhumatiṁ rājadhāniṁ pavisitvā khaṇḍañca rājaputtaṁ tissañca purohitaputtaṁ evaṁ vadehi—"
+    },
+    {
+      "id": "dn14:3.9.4",
+      "pali": "vipassī, bhante, bhagavā arahaṁ sammāsambuddho bandhumatiṁ rājadhāniṁ anuppatto kheme migadāye viharati, so tumhākaṁ dassanakāmo’ti."
+    },
+    {
+      "id": "dn14:3.9.5",
+      "pali": "‘Evaṁ, bhante’ti kho, bhikkhave, dāyapālo vipassissa bhagavato arahato sammāsambuddhassa paṭissutvā bandhumatiṁ rājadhāniṁ pavisitvā khaṇḍañca rājaputtaṁ tissañca purohitaputtaṁ etadavoca:"
+    },
+    {
+      "id": "dn14:3.9.6",
+      "pali": "‘vipassī, bhante, bhagavā arahaṁ sammāsambuddho bandhumatiṁ rājadhāniṁ anuppatto kheme migadāye viharati; so tumhākaṁ dassanakāmo’ti."
+    },
+    {
+      "id": "dn14:3.10.1",
+      "pali": "Atha kho, bhikkhave, khaṇḍo ca rājaputto tisso ca purohitaputto bhaddāni bhaddāni yānāni yojāpetvā bhaddaṁ bhaddaṁ yānaṁ abhiruhitvā bhaddehi bhaddehi yānehi bandhumatiyā rājadhāniyā niyyiṁsu. Yena khemo migadāyo tena pāyiṁsu."
+    },
+    {
+      "id": "dn14:3.10.2",
+      "pali": "Yāvatikā yānassa bhūmi, yānena gantvā yānā paccorohitvā pattikāva yena vipassī bhagavā arahaṁ sammāsambuddho tenupasaṅkamiṁsu. upasaṅkamitvā vipassiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ abhivādetvā ekamantaṁ nisīdiṁsu."
+    },
+    {
+      "id": "dn14:3.11.1",
+      "pali": "Tesaṁ vipassī bhagavā arahaṁ sammāsambuddho anupubbiṁ kathaṁ kathesi, seyyathidaṁ—"
+    },
+    {
+      "id": "dn14:3.11.2",
+      "pali": "dānakathaṁ sīlakathaṁ saggakathaṁ kāmānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ nekkhamme ānisaṁsaṁ pakāsesi."
+    },
+    {
+      "id": "dn14:3.11.3",
+      "pali": "Yadā te bhagavā aññāsi kallacitte muducitte vinīvaraṇacitte udaggacitte pasannacitte, atha yā buddhānaṁ sāmukkaṁsikā dhammadesanā, taṁ pakāsesi—"
+    },
+    {
+      "id": "dn14:3.11.4",
+      "pali": "dukkhaṁ samudayaṁ nirodhaṁ maggaṁ."
+    },
+    {
+      "id": "dn14:3.11.5",
+      "pali": "Seyyathāpi nāma suddhaṁ vatthaṁ apagatakāḷakaṁ sammadeva rajanaṁ paṭiggaṇheyya;"
+    },
+    {
+      "id": "dn14:3.11.6",
+      "pali": "evameva khaṇḍassa ca rājaputtassa tissassa ca purohitaputtassa tasmiṁyeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:"
+    },
+    {
+      "id": "dn14:3.11.7",
+      "pali": "‘yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman’ti."
+    },
+    {
+      "id": "dn14:3.12.1",
+      "pali": "Te diṭṭhadhammā pattadhammā viditadhammā pariyogāḷhadhammā tiṇṇavicikicchā vigatakathaṅkathā vesārajjappattā aparappaccayā satthusāsane vipassiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ etadavocuṁ:"
+    },
+    {
+      "id": "dn14:3.12.2",
+      "pali": "‘abhikkantaṁ, bhante, abhikkantaṁ, bhante."
+    },
+    {
+      "id": "dn14:3.12.3",
+      "pali": "Seyyathāpi, bhante, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: “cakkhumanto rūpāni dakkhantī”ti; evamevaṁ bhagavatā anekapariyāyena dhammo pakāsito."
+    },
+    {
+      "id": "dn14:3.12.4",
+      "pali": "Ete mayaṁ, bhante, bhagavantaṁ saraṇaṁ gacchāma dhammañca."
+    },
+    {
+      "id": "dn14:3.12.5",
+      "pali": "Labheyyāma mayaṁ, bhante, bhagavato santike pabbajjaṁ, labheyyāma upasampadan’ti."
+    },
+    {
+      "id": "dn14:3.13.1",
+      "pali": "Alatthuṁ kho, bhikkhave, khaṇḍo ca rājaputto, tisso ca purohitaputto vipassissa bhagavato arahato sammāsambuddhassa santike pabbajjaṁ alatthuṁ upasampadaṁ."
+    },
+    {
+      "id": "dn14:3.13.2",
+      "pali": "Te vipassī bhagavā arahaṁ sammāsambuddho dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi;"
+    },
+    {
+      "id": "dn14:3.13.3",
+      "pali": "saṅkhārānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ nibbāne ānisaṁsaṁ pakāsesi."
+    },
+    {
+      "id": "dn14:3.13.4",
+      "pali": "Tesaṁ vipassinā bhagavatā arahatā sammāsambuddhena dhammiyā kathāya sandassiyamānānaṁ samādapiyamānānaṁ samuttejiyamānānaṁ sampahaṁsiyamānānaṁ nacirasseva anupādāya āsavehi cittāni vimucciṁsu."
+    },
+    {
+      "id": "dn14:3.14.0",
+      "pali": "14. Mahājanakāyapabbajjā"
+    },
+    {
+      "id": "dn14:3.14.1",
+      "pali": "Assosi kho, bhikkhave, bandhumatiyā rājadhāniyā mahājanakāyo caturāsītipāṇasahassāni:"
+    },
+    {
+      "id": "dn14:3.14.2",
+      "pali": "‘vipassī kira bhagavā arahaṁ sammāsambuddho bandhumatiṁ rājadhāniṁ anuppatto kheme migadāye viharati."
+    },
+    {
+      "id": "dn14:3.14.3",
+      "pali": "Khaṇḍo ca kira rājaputto tisso ca purohitaputto vipassissa bhagavato arahato sammāsambuddhassa santike kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajitā’ti."
+    },
+    {
+      "id": "dn14:3.14.4",
+      "pali": "Sutvāna nesaṁ etadahosi:"
+    },
+    {
+      "id": "dn14:3.14.5",
+      "pali": "‘na hi nūna so orako dhammavinayo, na sā orakā pabbajjā, yattha khaṇḍo ca rājaputto tisso ca purohitaputto kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajitā."
+    },
+    {
+      "id": "dn14:3.14.6",
+      "pali": "Khaṇḍo ca rājaputto tisso ca purohitaputto kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajissanti, kimaṅgaṁ pana mayan’ti."
+    },
+    {
+      "id": "dn14:3.14.7",
+      "pali": "Atha kho so, bhikkhave, mahājanakāyo caturāsītipāṇasahassāni bandhumatiyā rājadhāniyā nikkhamitvā yena khemo migadāyo yena vipassī bhagavā arahaṁ sammāsambuddho tenupasaṅkamiṁsu; upasaṅkamitvā vipassiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ abhivādetvā ekamantaṁ nisīdiṁsu."
+    },
+    {
+      "id": "dn14:3.15.1",
+      "pali": "Tesaṁ vipassī bhagavā arahaṁ sammāsambuddho anupubbiṁ kathaṁ kathesi."
+    },
+    {
+      "id": "dn14:3.15.2",
+      "pali": "Seyyathidaṁ—dānakathaṁ sīlakathaṁ saggakathaṁ kāmānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ nekkhamme ānisaṁsaṁ pakāsesi."
+    },
+    {
+      "id": "dn14:3.15.3",
+      "pali": "Yadā te bhagavā aññāsi kallacitte muducitte vinīvaraṇacitte udaggacitte pasannacitte, atha yā buddhānaṁ sāmukkaṁsikā dhammadesanā, taṁ pakāsesi—"
+    },
+    {
+      "id": "dn14:3.15.4",
+      "pali": "dukkhaṁ samudayaṁ nirodhaṁ maggaṁ."
+    },
+    {
+      "id": "dn14:3.15.5",
+      "pali": "Seyyathāpi nāma suddhaṁ vatthaṁ apagatakāḷakaṁ sammadeva rajanaṁ paṭiggaṇheyya;"
+    },
+    {
+      "id": "dn14:3.15.6",
+      "pali": "evameva tesaṁ caturāsītipāṇasahassānaṁ tasmiṁyeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:"
+    },
+    {
+      "id": "dn14:3.15.7",
+      "pali": "‘yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman’ti."
+    },
+    {
+      "id": "dn14:3.16.1",
+      "pali": "Te diṭṭhadhammā pattadhammā viditadhammā pariyogāḷhadhammā tiṇṇavicikicchā vigatakathaṅkathā vesārajjappattā aparappaccayā satthusāsane vipassiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ etadavocuṁ:"
+    },
+    {
+      "id": "dn14:3.16.2",
+      "pali": "‘abhikkantaṁ, bhante, abhikkantaṁ, bhante."
+    },
+    {
+      "id": "dn14:3.16.3",
+      "pali": "Seyyathāpi, bhante, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: “cakkhumanto rūpāni dakkhantī”ti; evamevaṁ bhagavatā anekapariyāyena dhammo pakāsito."
+    },
+    {
+      "id": "dn14:3.16.4",
+      "pali": "Ete mayaṁ, bhante, bhagavantaṁ saraṇaṁ gacchāma dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "dn14:3.16.5",
+      "pali": "Labheyyāma mayaṁ, bhante, bhagavato santike pabbajjaṁ labheyyāma upasampadan’ti."
+    },
+    {
+      "id": "dn14:3.17.1",
+      "pali": "Alatthuṁ kho, bhikkhave, tāni caturāsītipāṇasahassāni vipassissa bhagavato arahato sammāsambuddhassa santike pabbajjaṁ, alatthuṁ upasampadaṁ."
+    },
+    {
+      "id": "dn14:3.17.2",
+      "pali": "Te vipassī bhagavā arahaṁ sammāsambuddho dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi;"
+    },
+    {
+      "id": "dn14:3.17.3",
+      "pali": "saṅkhārānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ nibbāne ānisaṁsaṁ pakāsesi."
+    },
+    {
+      "id": "dn14:3.17.4",
+      "pali": "Tesaṁ vipassinā bhagavatā arahatā sammāsambuddhena dhammiyā kathāya sandassiyamānānaṁ samādapiyamānānaṁ samuttejiyamānānaṁ sampahaṁsiyamānānaṁ nacirasseva anupādāya āsavehi cittāni vimucciṁsu."
+    },
+    {
+      "id": "dn14:3.18.0",
+      "pali": "15. Purimapabbajitānaṁ dhammābhisamaya"
+    },
+    {
+      "id": "dn14:3.18.1",
+      "pali": "Assosuṁ kho, bhikkhave, tāni purimāni caturāsītipabbajitasahassāni:"
+    },
+    {
+      "id": "dn14:3.18.2",
+      "pali": "‘vipassī kira bhagavā arahaṁ sammāsambuddho bandhumatiṁ rājadhāniṁ anuppatto kheme migadāye viharati, dhammañca kira desetī’ti."
+    },
+    {
+      "id": "dn14:3.18.3",
+      "pali": "Atha kho, bhikkhave, tāni caturāsītipabbajitasahassāni yena bandhumatī rājadhānī yena khemo migadāyo yena vipassī bhagavā arahaṁ sammāsambuddho tenupasaṅkamiṁsu; upasaṅkamitvā vipassiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ abhivādetvā ekamantaṁ nisīdiṁsu."
+    },
+    {
+      "id": "dn14:3.19.1",
+      "pali": "Tesaṁ vipassī bhagavā arahaṁ sammāsambuddho anupubbiṁ kathaṁ kathesi."
+    },
+    {
+      "id": "dn14:3.19.2",
+      "pali": "Seyyathidaṁ—dānakathaṁ sīlakathaṁ saggakathaṁ kāmānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ nekkhamme ānisaṁsaṁ pakāsesi."
+    },
+    {
+      "id": "dn14:3.19.3",
+      "pali": "Yadā te bhagavā aññāsi kallacitte muducitte vinīvaraṇacitte udaggacitte pasannacitte, atha yā buddhānaṁ sāmukkaṁsikā dhammadesanā, taṁ pakāsesi—"
+    },
+    {
+      "id": "dn14:3.19.4",
+      "pali": "dukkhaṁ samudayaṁ nirodhaṁ maggaṁ."
+    },
+    {
+      "id": "dn14:3.19.5",
+      "pali": "Seyyathāpi nāma suddhaṁ vatthaṁ apagatakāḷakaṁ sammadeva rajanaṁ paṭiggaṇheyya;"
+    },
+    {
+      "id": "dn14:3.19.6",
+      "pali": "evameva tesaṁ caturāsītipabbajitasahassānaṁ tasmiṁyeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:"
+    },
+    {
+      "id": "dn14:3.19.7",
+      "pali": "‘yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman’ti."
+    },
+    {
+      "id": "dn14:3.20.1",
+      "pali": "Te diṭṭhadhammā pattadhammā viditadhammā pariyogāḷhadhammā tiṇṇavicikicchā vigatakathaṅkathā vesārajjappattā aparappaccayā satthusāsane vipassiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ etadavocuṁ:"
+    },
+    {
+      "id": "dn14:3.20.2",
+      "pali": "‘abhikkantaṁ, bhante, abhikkantaṁ, bhante."
+    },
+    {
+      "id": "dn14:3.20.3",
+      "pali": "Seyyathāpi, bhante, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: “cakkhumanto rūpāni dakkhantī”ti; evamevaṁ bhagavatā anekapariyāyena dhammo pakāsito."
+    },
+    {
+      "id": "dn14:3.20.4",
+      "pali": "Ete mayaṁ, bhante, bhagavantaṁ saraṇaṁ gacchāma dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "dn14:3.20.5",
+      "pali": "Labheyyāma mayaṁ, bhante, bhagavato santike pabbajjaṁ labheyyāma upasampadan’ti."
+    },
+    {
+      "id": "dn14:3.21.1",
+      "pali": "Alatthuṁ kho, bhikkhave, tāni caturāsītipabbajitasahassāni vipassissa bhagavato arahato sammāsambuddhassa santike pabbajjaṁ alatthuṁ upasampadaṁ."
+    },
+    {
+      "id": "dn14:3.21.2",
+      "pali": "Te vipassī bhagavā arahaṁ sammāsambuddho dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi;"
+    },
+    {
+      "id": "dn14:3.21.3",
+      "pali": "saṅkhārānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ nibbāne ānisaṁsaṁ pakāsesi."
+    },
+    {
+      "id": "dn14:3.21.4",
+      "pali": "Tesaṁ vipassinā bhagavatā arahatā sammāsambuddhena dhammiyā kathāya sandassiyamānānaṁ samādapiyamānānaṁ samuttejiyamānānaṁ sampahaṁsiyamānānaṁ nacirasseva anupādāya āsavehi cittāni vimucciṁsu."
+    },
+    {
+      "id": "dn14:3.22.0",
+      "pali": "16. Cārikāanujānana"
+    },
+    {
+      "id": "dn14:3.22.1",
+      "pali": "Tena kho pana, bhikkhave, samayena bandhumatiyā rājadhāniyā mahābhikkhusaṅgho paṭivasati aṭṭhasaṭṭhibhikkhusatasahassaṁ."
+    },
+    {
+      "id": "dn14:3.22.2",
+      "pali": "Atha kho, bhikkhave, vipassissa bhagavato arahato sammāsambuddhassa rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi:"
+    },
+    {
+      "id": "dn14:3.22.3",
+      "pali": "‘mahā kho etarahi bhikkhusaṅgho bandhumatiyā rājadhāniyā paṭivasati aṭṭhasaṭṭhibhikkhusatasahassaṁ, yannūnāhaṁ bhikkhū anujāneyyaṁ:"
+    },
+    {
+      "id": "dn14:3.22.4",
+      "pali": "“caratha, bhikkhave, cārikaṁ bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṁ;"
+    },
+    {
+      "id": "dn14:3.22.5",
+      "pali": "mā ekena dve agamittha;"
+    },
+    {
+      "id": "dn14:3.22.6",
+      "pali": "desetha, bhikkhave, dhammaṁ ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāsetha."
+    },
+    {
+      "id": "dn14:3.22.7",
+      "pali": "Santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti,"
+    },
+    {
+      "id": "dn14:3.22.8",
+      "pali": "bhavissanti dhammassa aññātāro."
+    },
+    {
+      "id": "dn14:3.22.9",
+      "pali": "Api ca channaṁ channaṁ vassānaṁ accayena bandhumatī rājadhānī upasaṅkamitabbā pātimokkhuddesāyā”’ti."
+    },
+    {
+      "id": "dn14:3.23.1",
+      "pali": "Atha kho, bhikkhave, aññataro mahābrahmā vipassissa bhagavato arahato sammāsambuddhassa cetasā cetoparivitakkamaññāya seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva—brahmaloke antarahito vipassissa bhagavato arahato sammāsambuddhassa purato pāturahosi."
+    },
+    {
+      "id": "dn14:3.23.2",
+      "pali": "Atha kho so, bhikkhave, mahābrahmā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena vipassī bhagavā arahaṁ sammāsambuddho tenañjaliṁ paṇāmetvā vipassiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ etadavoca:"
+    },
+    {
+      "id": "dn14:3.23.3",
+      "pali": "‘evametaṁ, bhagavā, evametaṁ, sugata."
+    },
+    {
+      "id": "dn14:3.23.4",
+      "pali": "Mahā kho, bhante, etarahi bhikkhusaṅgho bandhumatiyā rājadhāniyā paṭivasati aṭṭhasaṭṭhibhikkhusatasahassaṁ, anujānātu, bhante, bhagavā bhikkhū:"
+    },
+    {
+      "id": "dn14:3.23.5",
+      "pali": "“caratha, bhikkhave, cārikaṁ bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṁ;"
+    },
+    {
+      "id": "dn14:3.23.6",
+      "pali": "mā ekena dve agamittha;"
+    },
+    {
+      "id": "dn14:3.23.7",
+      "pali": "desetha, bhikkhave, dhammaṁ ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāsetha."
+    },
+    {
+      "id": "dn14:3.23.8",
+      "pali": "Santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti, bhavissanti dhammassa aññātāro”ti."
+    },
+    {
+      "id": "dn14:3.23.9",
+      "pali": "Api ca, bhante, mayaṁ tathā karissāma yathā bhikkhū channaṁ channaṁ vassānaṁ accayena bandhumatiṁ rājadhāniṁ upasaṅkamissanti pātimokkhuddesāyā’ti."
+    },
+    {
+      "id": "dn14:3.23.10",
+      "pali": "Idamavoca, bhikkhave, so mahābrahmā."
+    },
+    {
+      "id": "dn14:3.23.11",
+      "pali": "Idaṁ vatvā vipassiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ abhivādetvā padakkhiṇaṁ katvā tattheva antaradhāyi."
+    },
+    {
+      "id": "dn14:3.24.1",
+      "pali": "Atha kho, bhikkhave, vipassī bhagavā arahaṁ sammāsambuddho sāyanhasamayaṁ paṭisallānā vuṭṭhito bhikkhū āmantesi:"
+    },
+    {
+      "id": "dn14:3.24.2",
+      "pali": "‘idha mayhaṁ, bhikkhave, rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi:"
+    },
+    {
+      "id": "dn14:3.24.3",
+      "pali": "“mahā kho etarahi bhikkhusaṅgho bandhumatiyā rājadhāniyā paṭivasati aṭṭhasaṭṭhibhikkhusatasahassaṁ."
+    },
+    {
+      "id": "dn14:3.24.4",
+      "pali": "Yannūnāhaṁ bhikkhū anujāneyyaṁ—"
+    },
+    {
+      "id": "dn14:3.24.5",
+      "pali": "caratha, bhikkhave, cārikaṁ bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṁ;"
+    },
+    {
+      "id": "dn14:3.24.6",
+      "pali": "mā ekena dve agamittha;"
+    },
+    {
+      "id": "dn14:3.24.7",
+      "pali": "desetha, bhikkhave, dhammaṁ ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāsetha."
+    },
+    {
+      "id": "dn14:3.24.8",
+      "pali": "Santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti, bhavissanti dhammassa aññātāro."
+    },
+    {
+      "id": "dn14:3.24.9",
+      "pali": "Api ca channaṁ channaṁ vassānaṁ accayena bandhumatī rājadhānī upasaṅkamitabbā pātimokkhuddesāyā”’ti."
+    },
+    {
+      "id": "dn14:3.25.1",
+      "pali": "Atha kho, bhikkhave, aññataro mahābrahmā mama cetasā cetoparivitakkamaññāya seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva—brahmaloke antarahito mama purato pāturahosi."
+    },
+    {
+      "id": "dn14:3.25.2",
+      "pali": "Atha kho so, bhikkhave, mahābrahmā ekaṁsaṁ uttarāsaṅgaṁ karitvā yenāhaṁ tenañjaliṁ paṇāmetvā maṁ etadavoca:"
+    },
+    {
+      "id": "dn14:3.25.3",
+      "pali": "‘evametaṁ, bhagavā, evametaṁ, sugata."
+    },
+    {
+      "id": "dn14:3.25.4",
+      "pali": "Mahā kho, bhante, etarahi bhikkhusaṅgho bandhumatiyā rājadhāniyā paṭivasati aṭṭhasaṭṭhibhikkhusatasahassaṁ."
+    },
+    {
+      "id": "dn14:3.25.5",
+      "pali": "Anujānātu, bhante, bhagavā bhikkhū—"
+    },
+    {
+      "id": "dn14:3.25.6",
+      "pali": "caratha, bhikkhave, cārikaṁ bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṁ;"
+    },
+    {
+      "id": "dn14:3.25.7",
+      "pali": "mā ekena dve agamittha;"
+    },
+    {
+      "id": "dn14:3.25.8",
+      "pali": "desetha, bhikkhave, dhammaṁ …pe…"
+    },
+    {
+      "id": "dn14:3.25.9",
+      "pali": "santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti, bhavissanti dhammassa aññātāroti."
+    },
+    {
+      "id": "dn14:3.25.10",
+      "pali": "Api ca, bhante, mayaṁ tathā karissāma, yathā bhikkhū channaṁ channaṁ vassānaṁ accayena bandhumatiṁ rājadhāniṁ upasaṅkamissanti pātimokkhuddesāyā’ti."
+    },
+    {
+      "id": "dn14:3.25.11",
+      "pali": "Idamavoca, bhikkhave, so mahābrahmā."
+    },
+    {
+      "id": "dn14:3.25.12",
+      "pali": "Idaṁ vatvā maṁ abhivādetvā padakkhiṇaṁ katvā tattheva antaradhāyi."
+    },
+    {
+      "id": "dn14:3.26.1",
+      "pali": "‘Anujānāmi, bhikkhave, caratha cārikaṁ bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṁ;"
+    },
+    {
+      "id": "dn14:3.26.2",
+      "pali": "mā ekena dve agamittha;"
+    },
+    {
+      "id": "dn14:3.26.3",
+      "pali": "desetha, bhikkhave, dhammaṁ ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāsetha."
+    },
+    {
+      "id": "dn14:3.26.4",
+      "pali": "Santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti,"
+    },
+    {
+      "id": "dn14:3.26.5",
+      "pali": "bhavissanti dhammassa aññātāro."
+    },
+    {
+      "id": "dn14:3.26.6",
+      "pali": "Api ca, bhikkhave, channaṁ channaṁ vassānaṁ accayena bandhumatī rājadhānī upasaṅkamitabbā pātimokkhuddesāyā’ti."
+    },
+    {
+      "id": "dn14:3.26.7",
+      "pali": "Atha kho, bhikkhave, bhikkhū yebhuyyena ekāheneva janapadacārikaṁ pakkamiṁsu."
+    },
+    {
+      "id": "dn14:3.27.1",
+      "pali": "Tena kho pana samayena jambudīpe caturāsīti āvāsasahassāni honti."
+    },
+    {
+      "id": "dn14:3.27.2",
+      "pali": "Ekamhi hi vasse nikkhante devatā saddamanussāvesuṁ:"
+    },
+    {
+      "id": "dn14:3.27.3",
+      "pali": "‘nikkhantaṁ kho, mārisā, ekaṁ vassaṁ;"
+    },
+    {
+      "id": "dn14:3.27.4",
+      "pali": "pañca dāni vassāni sesāni;"
+    },
+    {
+      "id": "dn14:3.27.5",
+      "pali": "pañcannaṁ vassānaṁ accayena bandhumatī rājadhānī upasaṅkamitabbā pātimokkhuddesāyā’ti."
+    },
+    {
+      "id": "dn14:3.27.6",
+      "pali": "Dvīsu vassesu nikkhantesu …"
+    },
+    {
+      "id": "dn14:3.27.7",
+      "pali": "tīsu vassesu nikkhantesu …"
+    },
+    {
+      "id": "dn14:3.27.8",
+      "pali": "catūsu vassesu nikkhantesu …"
+    },
+    {
+      "id": "dn14:3.27.9",
+      "pali": "pañcasu vassesu nikkhantesu devatā saddamanussāvesuṁ:"
+    },
+    {
+      "id": "dn14:3.27.10",
+      "pali": "‘nikkhantāni kho, mārisā, pañcavassāni;"
+    },
+    {
+      "id": "dn14:3.27.11",
+      "pali": "ekaṁ dāni vassaṁ sesaṁ;"
+    },
+    {
+      "id": "dn14:3.27.12",
+      "pali": "ekassa vassassa accayena bandhumatī rājadhānī upasaṅkamitabbā pātimokkhuddesāyā’ti."
+    },
+    {
+      "id": "dn14:3.27.13",
+      "pali": "Chasu vassesu nikkhantesu devatā saddamanussāvesuṁ:"
+    },
+    {
+      "id": "dn14:3.27.14",
+      "pali": "‘nikkhantāni kho, mārisā, chabbassāni,"
+    },
+    {
+      "id": "dn14:3.27.15",
+      "pali": "samayo dāni bandhumatiṁ rājadhāniṁ upasaṅkamituṁ pātimokkhuddesāyā’ti."
+    },
+    {
+      "id": "dn14:3.27.16",
+      "pali": "Atha kho te, bhikkhave, bhikkhū appekacce sakena iddhānubhāvena appekacce devatānaṁ iddhānubhāvena ekāheneva bandhumatiṁ rājadhāniṁ upasaṅkamiṁsu pātimokkhuddesāyāti."
+    },
+    {
+      "id": "dn14:3.28.1",
+      "pali": "Tatra sudaṁ, bhikkhave, vipassī bhagavā arahaṁ sammāsambuddho bhikkhusaṅghe evaṁ pātimokkhaṁ uddisati:"
+    },
+    {
+      "id": "dn14:3.28.2",
+      "pali": "‘Khantī paramaṁ tapo titikkhā,"
+    },
+    {
+      "id": "dn14:3.28.3",
+      "pali": "Nibbānaṁ paramaṁ vadanti buddhā;"
+    },
+    {
+      "id": "dn14:3.28.4",
+      "pali": "Na hi pabbajito parūpaghātī,"
+    },
+    {
+      "id": "dn14:3.28.5",
+      "pali": "Na samaṇo hoti paraṁ viheṭhayanto."
+    },
+    {
+      "id": "dn14:3.28.6",
+      "pali": "Sabbapāpassa akaraṇaṁ,"
+    },
+    {
+      "id": "dn14:3.28.7",
+      "pali": "kusalassa upasampadā;"
+    },
+    {
+      "id": "dn14:3.28.8",
+      "pali": "Sacittapariyodapanaṁ,"
+    },
+    {
+      "id": "dn14:3.28.9",
+      "pali": "etaṁ buddhānasāsanaṁ."
+    },
+    {
+      "id": "dn14:3.28.10",
+      "pali": "Anūpavādo anūpaghāto,"
+    },
+    {
+      "id": "dn14:3.28.11",
+      "pali": "Pātimokkhe ca saṁvaro;"
+    },
+    {
+      "id": "dn14:3.28.12",
+      "pali": "Mattaññutā ca bhattasmiṁ,"
+    },
+    {
+      "id": "dn14:3.28.13",
+      "pali": "Pantañca sayanāsanaṁ;"
+    },
+    {
+      "id": "dn14:3.28.14",
+      "pali": "Adhicitte ca āyogo,"
+    },
+    {
+      "id": "dn14:3.28.15",
+      "pali": "Etaṁ buddhānasāsanan’ti."
+    },
+    {
+      "id": "dn14:3.29.0",
+      "pali": "17. Devatārocana"
+    },
+    {
+      "id": "dn14:3.29.1",
+      "pali": "Ekamidāhaṁ, bhikkhave, samayaṁ ukkaṭṭhāyaṁ viharāmi subhagavane sālarājamūle."
+    },
+    {
+      "id": "dn14:3.29.2",
+      "pali": "Tassa mayhaṁ, bhikkhave, rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi:"
+    },
+    {
+      "id": "dn14:3.29.3",
+      "pali": "‘na kho so sattāvāso sulabharūpo, yo mayā anāvutthapubbo iminā dīghena addhunā aññatra suddhāvāsehi devehi."
+    },
+    {
+      "id": "dn14:3.29.4",
+      "pali": "Yannūnāhaṁ yena suddhāvāsā devā tenupasaṅkameyyan’ti."
+    },
+    {
+      "id": "dn14:3.29.5",
+      "pali": "Atha khvāhaṁ, bhikkhave, seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva—ukkaṭṭhāyaṁ subhagavane sālarājamūle antarahito avihesu devesu pāturahosiṁ."
+    },
+    {
+      "id": "dn14:3.29.6",
+      "pali": "Tasmiṁ, bhikkhave, devanikāye anekāni devatāsahassāni anekāni devatāsatasahassāni yenāhaṁ tenupasaṅkamiṁsu; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho, bhikkhave, tā devatā maṁ etadavocuṁ:"
+    },
+    {
+      "id": "dn14:3.29.7",
+      "pali": "‘ito so, mārisā, ekanavutikappe yaṁ vipassī bhagavā arahaṁ sammāsambuddho loke udapādi."
+    },
+    {
+      "id": "dn14:3.29.8",
+      "pali": "Vipassī, mārisā, bhagavā arahaṁ sammāsambuddho khattiyo jātiyā ahosi, khattiyakule udapādi."
+    },
+    {
+      "id": "dn14:3.29.9",
+      "pali": "Vipassī, mārisā, bhagavā arahaṁ sammāsambuddho koṇḍañño gottena ahosi."
+    },
+    {
+      "id": "dn14:3.29.10",
+      "pali": "Vipassissa, mārisā, bhagavato arahato sammāsambuddhassa asītivassasahassāni āyuppamāṇaṁ ahosi."
+    },
+    {
+      "id": "dn14:3.29.11",
+      "pali": "Vipassī, mārisā, bhagavā arahaṁ sammāsambuddho pāṭaliyā mūle abhisambuddho."
+    },
+    {
+      "id": "dn14:3.29.12",
+      "pali": "Vipassissa, mārisā, bhagavato arahato sammāsambuddhassa khaṇḍatissaṁ nāma sāvakayugaṁ ahosi aggaṁ bhaddayugaṁ."
+    },
+    {
+      "id": "dn14:3.29.13",
+      "pali": "Vipassissa, mārisā, bhagavato arahato sammāsambuddhassa tayo sāvakānaṁ sannipātā ahesuṁ. Eko sāvakānaṁ sannipāto ahosi aṭṭhasaṭṭhibhikkhusatasahassaṁ. Eko sāvakānaṁ sannipāto ahosi bhikkhusatasahassaṁ. Eko sāvakānaṁ sannipāto ahosi asītibhikkhusahassāni. Vipassissa, mārisā, bhagavato arahato sammāsambuddhassa ime tayo sāvakānaṁ sannipātā ahesuṁ sabbesaṁyeva khīṇāsavānaṁ."
+    },
+    {
+      "id": "dn14:3.29.14",
+      "pali": "Vipassissa, mārisā, bhagavato arahato sammāsambuddhassa asoko nāma bhikkhu upaṭṭhāko ahosi aggupaṭṭhāko."
+    },
+    {
+      "id": "dn14:3.29.15",
+      "pali": "Vipassissa, mārisā, bhagavato arahato sammāsambuddhassa bandhumā nāma rājā pitā ahosi."
+    },
+    {
+      "id": "dn14:3.29.16",
+      "pali": "Bandhumatī nāma devī mātā ahosi janetti."
+    },
+    {
+      "id": "dn14:3.29.17",
+      "pali": "Bandhumassa rañño bandhumatī nāma nagaraṁ rājadhānī ahosi."
+    },
+    {
+      "id": "dn14:3.29.18",
+      "pali": "Vipassissa, mārisā, bhagavato arahato sammāsambuddhassa evaṁ abhinikkhamanaṁ ahosi evaṁ pabbajjā evaṁ padhānaṁ evaṁ abhisambodhi evaṁ dhammacakkappavattanaṁ."
+    },
+    {
+      "id": "dn14:3.29.19",
+      "pali": "Te mayaṁ, mārisā, vipassimhi bhagavati brahmacariyaṁ caritvā kāmesu kāmacchandaṁ virājetvā idhūpapannā’ti …"
+    },
+    {
+      "id": "dn14:3.29.20",
+      "pali": "pe…"
+    },
+    {
+      "id": "dn14:3.30.1",
+      "pali": "Tasmiṁyeva kho, bhikkhave, devanikāye anekāni devatāsahassāni anekāni devatāsatasahassāni yenāhaṁ tenupasaṅkamiṁsu; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho, bhikkhave, tā devatā maṁ etadavocuṁ:"
+    },
+    {
+      "id": "dn14:3.30.2",
+      "pali": "‘imasmiṁyeva kho, mārisā, bhaddakappe bhagavā etarahi arahaṁ sammāsambuddho loke uppanno."
+    },
+    {
+      "id": "dn14:3.30.3",
+      "pali": "Bhagavā, mārisā, khattiyo jātiyā khattiyakule uppanno."
+    },
+    {
+      "id": "dn14:3.30.4",
+      "pali": "Bhagavā, mārisā, gotamo gottena."
+    },
+    {
+      "id": "dn14:3.30.5",
+      "pali": "Bhagavato, mārisā, appakaṁ āyuppamāṇaṁ parittaṁ lahukaṁ yo ciraṁ jīvati, so vassasataṁ appaṁ vā bhiyyo."
+    },
+    {
+      "id": "dn14:3.30.6",
+      "pali": "Bhagavā, mārisā, assatthassa mūle abhisambuddho."
+    },
+    {
+      "id": "dn14:3.30.7",
+      "pali": "Bhagavato, mārisā, sāriputtamoggallānaṁ nāma sāvakayugaṁ ahosi aggaṁ bhaddayugaṁ."
+    },
+    {
+      "id": "dn14:3.30.8",
+      "pali": "Bhagavato, mārisā, eko sāvakānaṁ sannipāto ahosi aḍḍhateḷasāni bhikkhusatāni. Bhagavato, mārisā, ayaṁ eko sāvakānaṁ sannipāto ahosi sabbesaṁyeva khīṇāsavānaṁ."
+    },
+    {
+      "id": "dn14:3.30.9",
+      "pali": "Bhagavato, mārisā, ānando nāma bhikkhu upaṭṭhāko ahosi aggupaṭṭhāko."
+    },
+    {
+      "id": "dn14:3.30.10",
+      "pali": "Bhagavato, mārisā, suddhodano nāma rājā pitā ahosi."
+    },
+    {
+      "id": "dn14:3.30.11",
+      "pali": "Māyā nāma devī mātā ahosi janetti."
+    },
+    {
+      "id": "dn14:3.30.12",
+      "pali": "Kapilavatthu nāma nagaraṁ rājadhānī ahosi."
+    },
+    {
+      "id": "dn14:3.30.13",
+      "pali": "Bhagavato, mārisā, evaṁ abhinikkhamanaṁ ahosi evaṁ pabbajjā evaṁ padhānaṁ evaṁ abhisambodhi evaṁ dhammacakkappavattanaṁ."
+    },
+    {
+      "id": "dn14:3.30.14",
+      "pali": "Te mayaṁ, mārisā, bhagavati brahmacariyaṁ caritvā kāmesu kāmacchandaṁ virājetvā idhūpapannā’ti."
+    },
+    {
+      "id": "dn14:3.31.1",
+      "pali": "Atha khvāhaṁ, bhikkhave, avihehi devehi saddhiṁ yena atappā devā tenupasaṅkamiṁ …pe…"
+    },
+    {
+      "id": "dn14:3.31.2",
+      "pali": "atha khvāhaṁ, bhikkhave, avihehi ca devehi atappehi ca devehi saddhiṁ yena sudassā devā tenupasaṅkamiṁ."
+    },
+    {
+      "id": "dn14:3.31.3",
+      "pali": "Atha khvāhaṁ, bhikkhave, avihehi ca devehi atappehi ca devehi sudassehi ca devehi saddhiṁ yena sudassī devā tenupasaṅkamiṁ. Atha khvāhaṁ, bhikkhave, avihehi ca devehi atappehi ca devehi sudassehi ca devehi sudassīhi ca devehi saddhiṁ yena akaniṭṭhā devā tenupasaṅkamiṁ. Tasmiṁ, bhikkhave, devanikāye anekāni devatāsahassāni anekāni devatāsatasahassāni yenāhaṁ tenupasaṅkamiṁsu, upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho, bhikkhave, tā devatā maṁ etadavocuṁ:"
+    },
+    {
+      "id": "dn14:3.31.4",
+      "pali": "‘ito so, mārisā, ekanavutikappe yaṁ vipassī bhagavā arahaṁ sammāsambuddho loke udapādi."
+    },
+    {
+      "id": "dn14:3.31.5",
+      "pali": "Vipassī, mārisā, bhagavā arahaṁ sammāsambuddho khattiyo jātiyā ahosi."
+    },
+    {
+      "id": "dn14:3.31.6",
+      "pali": "Khattiyakule udapādi."
+    },
+    {
+      "id": "dn14:3.31.7",
+      "pali": "Vipassī, mārisā, bhagavā arahaṁ sammāsambuddho koṇḍañño gottena ahosi."
+    },
+    {
+      "id": "dn14:3.31.8",
+      "pali": "Vipassissa, mārisā, bhagavato arahato sammāsambuddhassa asītivassasahassāni āyuppamāṇaṁ ahosi."
+    },
+    {
+      "id": "dn14:3.31.9",
+      "pali": "Vipassī, mārisā, bhagavā arahaṁ sammāsambuddho pāṭaliyā mūle abhisambuddho."
+    },
+    {
+      "id": "dn14:3.31.10",
+      "pali": "Vipassissa, mārisā, bhagavato arahato sammāsambuddhassa khaṇḍatissaṁ nāma sāvakayugaṁ ahosi aggaṁ bhaddayugaṁ."
+    },
+    {
+      "id": "dn14:3.31.11",
+      "pali": "Vipassissa, mārisā, bhagavato arahato sammāsambuddhassa tayo sāvakānaṁ sannipātā ahesuṁ."
+    },
+    {
+      "id": "dn14:3.31.12",
+      "pali": "Eko sāvakānaṁ sannipāto ahosi aṭṭhasaṭṭhibhikkhusatasahassaṁ."
+    },
+    {
+      "id": "dn14:3.31.13",
+      "pali": "Eko sāvakānaṁ sannipāto ahosi bhikkhusatasahassaṁ."
+    },
+    {
+      "id": "dn14:3.31.14",
+      "pali": "Eko sāvakānaṁ sannipāto ahosi asītibhikkhusahassāni."
+    },
+    {
+      "id": "dn14:3.31.15",
+      "pali": "Vipassissa, mārisā, bhagavato arahato sammāsambuddhassa ime tayo sāvakānaṁ sannipātā ahesuṁ sabbesaṁyeva khīṇāsavānaṁ."
+    },
+    {
+      "id": "dn14:3.31.16",
+      "pali": "Vipassissa, mārisā, bhagavato arahato sammāsambuddhassa asoko nāma bhikkhu upaṭṭhāko ahosi aggupaṭṭhāko."
+    },
+    {
+      "id": "dn14:3.31.17",
+      "pali": "Vipassissa, mārisā, bhagavato arahato sammāsambuddhassa bandhumā nāma rājā pitā ahosi bandhumatī nāma devī mātā ahosi janetti."
+    },
+    {
+      "id": "dn14:3.31.18",
+      "pali": "Bandhumassa rañño bandhumatī nāma nagaraṁ rājadhānī ahosi."
+    },
+    {
+      "id": "dn14:3.31.19",
+      "pali": "Vipassissa, mārisā, bhagavato arahato sammāsambuddhassa evaṁ abhinikkhamanaṁ ahosi evaṁ pabbajjā evaṁ padhānaṁ evaṁ abhisambodhi, evaṁ dhammacakkappavattanaṁ."
+    },
+    {
+      "id": "dn14:3.31.20",
+      "pali": "Te mayaṁ, mārisā, vipassimhi bhagavati brahmacariyaṁ caritvā kāmesu kāmacchandaṁ virājetvā idhūpapannā’ti."
+    },
+    {
+      "id": "dn14:3.31.21",
+      "pali": "Tasmiṁyeva kho, bhikkhave, devanikāye anekāni devatāsahassāni anekāni devatāsatasahassāni yenāhaṁ tenupasaṅkamiṁsu; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho, bhikkhave, tā devatā maṁ etadavocuṁ:"
+    },
+    {
+      "id": "dn14:3.31.22",
+      "pali": "‘ito so, mārisā, ekatiṁse kappe yaṁ sikhī bhagavā …pe…"
+    },
+    {
+      "id": "dn14:3.31.23",
+      "pali": "te mayaṁ, mārisā, sikhimhi bhagavati tasmiññeva kho, mārisā, ekatiṁse kappe yaṁ vessabhū bhagavā …pe…"
+    },
+    {
+      "id": "dn14:3.31.24",
+      "pali": "te mayaṁ, mārisā, vessabhumhi bhagavati …pe…"
+    },
+    {
+      "id": "dn14:3.31.25",
+      "pali": "imasmiṁyeva kho, mārisā, bhaddakappe kakusandho koṇāgamano kassapo bhagavā …pe…"
+    },
+    {
+      "id": "dn14:3.31.26",
+      "pali": "te mayaṁ, mārisā, kakusandhamhi koṇāgamanamhi kassapamhi bhagavati brahmacariyaṁ caritvā kāmesu kāmacchandaṁ virājetvā idhūpapannā’ti."
+    },
+    {
+      "id": "dn14:3.32.1",
+      "pali": "Tasmiṁyeva kho, bhikkhave, devanikāye anekāni devatāsahassāni anekāni devatāsatasahassāni yenāhaṁ tenupasaṅkamiṁsu; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho, bhikkhave, tā devatā maṁ etadavocuṁ:"
+    },
+    {
+      "id": "dn14:3.32.2",
+      "pali": "‘imasmiṁyeva kho, mārisā, bhaddakappe bhagavā etarahi arahaṁ sammāsambuddho loke uppanno."
+    },
+    {
+      "id": "dn14:3.32.3",
+      "pali": "Bhagavā, mārisā, khattiyo jātiyā, khattiyakule uppanno."
+    },
+    {
+      "id": "dn14:3.32.4",
+      "pali": "Bhagavā, mārisā, gotamo gottena."
+    },
+    {
+      "id": "dn14:3.32.5",
+      "pali": "Bhagavato, mārisā, appakaṁ āyuppamāṇaṁ parittaṁ lahukaṁ yo ciraṁ jīvati, so vassasataṁ appaṁ vā bhiyyo."
+    },
+    {
+      "id": "dn14:3.32.6",
+      "pali": "Bhagavā, mārisā, assatthassa mūle abhisambuddho."
+    },
+    {
+      "id": "dn14:3.32.7",
+      "pali": "Bhagavato, mārisā, sāriputtamoggallānaṁ nāma sāvakayugaṁ ahosi aggaṁ bhaddayugaṁ."
+    },
+    {
+      "id": "dn14:3.32.8",
+      "pali": "Bhagavato, mārisā, eko sāvakānaṁ sannipāto ahosi aḍḍhateḷasāni bhikkhusatāni."
+    },
+    {
+      "id": "dn14:3.32.9",
+      "pali": "Bhagavato, mārisā, ayaṁ eko sāvakānaṁ sannipāto ahosi sabbesaṁyeva khīṇāsavānaṁ."
+    },
+    {
+      "id": "dn14:3.32.10",
+      "pali": "Bhagavato, mārisā, ānando nāma bhikkhu upaṭṭhāko aggupaṭṭhāko ahosi."
+    },
+    {
+      "id": "dn14:3.32.11",
+      "pali": "Bhagavato, mārisā, suddhodano nāma rājā pitā ahosi."
+    },
+    {
+      "id": "dn14:3.32.12",
+      "pali": "Māyā nāma devī mātā ahosi janetti."
+    },
+    {
+      "id": "dn14:3.32.13",
+      "pali": "Kapilavatthu nāma nagaraṁ rājadhānī ahosi."
+    },
+    {
+      "id": "dn14:3.32.14",
+      "pali": "Bhagavato, mārisā, evaṁ abhinikkhamanaṁ ahosi, evaṁ pabbajjā, evaṁ padhānaṁ, evaṁ abhisambodhi, evaṁ dhammacakkappavattanaṁ."
+    },
+    {
+      "id": "dn14:3.32.15",
+      "pali": "Te mayaṁ, mārisā, bhagavati brahmacariyaṁ caritvā kāmesu kāmacchandaṁ virājetvā idhūpapannā’ti."
+    },
+    {
+      "id": "dn14:3.33.1",
+      "pali": "Iti kho, bhikkhave, tathāgatassevesā dhammadhātu suppaṭividdhā, yassā dhammadhātuyā suppaṭividdhattā tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jātitopi anussarati, nāmatopi anussarati, gottatopi anussarati, āyuppamāṇatopi anussarati, sāvakayugatopi anussarati, sāvakasannipātatopi anussarati ‘evaṁjaccā te bhagavanto ahesuṁ’ itipi."
+    },
+    {
+      "id": "dn14:3.33.2",
+      "pali": "‘Evaṁnāmā evaṅgottā evaṁsīlā evaṁdhammā evaṁpaññā evaṁvihārī evaṁvimuttā te bhagavanto ahesuṁ’ itipīti."
+    },
+    {
+      "id": "dn14:3.33.3",
+      "pali": "Devatāpi tathāgatassa etamatthaṁ ārocesuṁ, yena tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jātitopi anussarati, nāmatopi anussarati, gottatopi anussarati, āyuppamāṇatopi anussarati, sāvakayugatopi anussarati, sāvakasannipātatopi anussarati ‘evaṁjaccā te bhagavanto ahesuṁ’ itipi."
+    },
+    {
+      "id": "dn14:3.33.4",
+      "pali": "‘Evaṁnāmā evaṅgottā evaṁsīlā evaṁdhammā evaṁpaññā evaṁvihārī evaṁvimuttā te bhagavanto ahesuṁ’ itipī”ti."
+    },
+    {
+      "id": "dn14:3.33.5",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "dn14:3.33.6",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "dn14:3.33.7",
+      "pali": "Mahāpadānasuttaṁ niṭṭhitaṁ paṭhamaṁ."
+    }
+  ]
+}

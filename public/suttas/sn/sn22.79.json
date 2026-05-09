@@ -1,0 +1,607 @@
+{
+  "uid": "sn22.79",
+  "title": "Khajjanīyasutta",
+  "nikaya": "sn",
+  "segments": [
+    {
+      "id": "sn22.79:1.1",
+      "pali": "Sāvatthinidānaṁ."
+    },
+    {
+      "id": "sn22.79:1.2",
+      "pali": "“Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā anekavihitaṁ pubbenivāsaṁ anussaramānā anussaranti sabbete pañcupādānakkhandhe anussaranti etesaṁ vā aññataraṁ."
+    },
+    {
+      "id": "sn22.79:1.3",
+      "pali": "Katame pañca?"
+    },
+    {
+      "id": "sn22.79:1.4",
+      "pali": "‘Evaṁrūpo ahosiṁ atītamaddhānan’ti—"
+    },
+    {
+      "id": "sn22.79:1.5",
+      "pali": "iti vā hi, bhikkhave, anussaramāno rūpaṁyeva anussarati."
+    },
+    {
+      "id": "sn22.79:1.6",
+      "pali": "‘Evaṁvedano ahosiṁ atītamaddhānan’ti—"
+    },
+    {
+      "id": "sn22.79:1.7",
+      "pali": "iti vā hi, bhikkhave, anussaramāno vedanaṁyeva anussarati."
+    },
+    {
+      "id": "sn22.79:1.8",
+      "pali": "‘Evaṁsañño ahosiṁ atītamaddhānan’ti …"
+    },
+    {
+      "id": "sn22.79:1.9",
+      "pali": "‘evaṁsaṅkhāro ahosiṁ atītamaddhānan’ti …"
+    },
+    {
+      "id": "sn22.79:1.10",
+      "pali": "‘evaṁviññāṇo ahosiṁ atītamaddhānan’ti—"
+    },
+    {
+      "id": "sn22.79:1.11",
+      "pali": "iti vā hi, bhikkhave, anussaramāno viññāṇameva anussarati."
+    },
+    {
+      "id": "sn22.79:2.1",
+      "pali": "Kiñca, bhikkhave, rūpaṁ vadetha?"
+    },
+    {
+      "id": "sn22.79:2.2",
+      "pali": "Ruppatīti kho, bhikkhave, tasmā ‘rūpan’ti vuccati."
+    },
+    {
+      "id": "sn22.79:2.3",
+      "pali": "Kena ruppati?"
+    },
+    {
+      "id": "sn22.79:2.4",
+      "pali": "Sītenapi ruppati, uṇhenapi ruppati, jighacchāyapi ruppati, pipāsāyapi ruppati, ḍaṁsamakasavātātapasarīsapasamphassenapi ruppati."
+    },
+    {
+      "id": "sn22.79:2.5",
+      "pali": "Ruppatīti kho, bhikkhave, tasmā ‘rūpan’ti vuccati."
+    },
+    {
+      "id": "sn22.79:3.1",
+      "pali": "Kiñca, bhikkhave, vedanaṁ vadetha?"
+    },
+    {
+      "id": "sn22.79:3.2",
+      "pali": "Vedayatīti kho, bhikkhave, tasmā ‘vedanā’ti vuccati."
+    },
+    {
+      "id": "sn22.79:3.3",
+      "pali": "Kiñca vedayati?"
+    },
+    {
+      "id": "sn22.79:3.4",
+      "pali": "Sukhampi vedayati, dukkhampi vedayati, adukkhamasukhampi vedayati."
+    },
+    {
+      "id": "sn22.79:3.5",
+      "pali": "Vedayatīti kho, bhikkhave, tasmā ‘vedanā’ti vuccati."
+    },
+    {
+      "id": "sn22.79:4.1",
+      "pali": "Kiñca, bhikkhave, saññaṁ vadetha?"
+    },
+    {
+      "id": "sn22.79:4.2",
+      "pali": "Sañjānātīti kho, bhikkhave, tasmā ‘saññā’ti vuccati."
+    },
+    {
+      "id": "sn22.79:4.3",
+      "pali": "Kiñca sañjānāti?"
+    },
+    {
+      "id": "sn22.79:4.4",
+      "pali": "Nīlampi sañjānāti, pītakampi sañjānāti, lohitakampi sañjānāti, odātampi sañjānāti."
+    },
+    {
+      "id": "sn22.79:4.5",
+      "pali": "Sañjānātīti kho, bhikkhave, tasmā ‘saññā’ti vuccati."
+    },
+    {
+      "id": "sn22.79:5.1",
+      "pali": "Kiñca, bhikkhave, saṅkhāre vadetha?"
+    },
+    {
+      "id": "sn22.79:5.2",
+      "pali": "Saṅkhatamabhisaṅkharontīti kho, bhikkhave, tasmā ‘saṅkhārā’ti vuccati."
+    },
+    {
+      "id": "sn22.79:5.3",
+      "pali": "Kiñca saṅkhatamabhisaṅkharonti?"
+    },
+    {
+      "id": "sn22.79:5.4",
+      "pali": "Rūpaṁ rūpattāya saṅkhatamabhisaṅkharonti, vedanaṁ vedanattāya saṅkhatamabhisaṅkharonti, saññaṁ saññattāya saṅkhatamabhisaṅkharonti, saṅkhāre saṅkhārattāya saṅkhatamabhisaṅkharonti, viññāṇaṁ viññāṇattāya saṅkhatamabhisaṅkharonti."
+    },
+    {
+      "id": "sn22.79:5.5",
+      "pali": "Saṅkhatamabhisaṅkharontīti kho, bhikkhave, tasmā ‘saṅkhārā’ti vuccati."
+    },
+    {
+      "id": "sn22.79:6.1",
+      "pali": "Kiñca, bhikkhave, viññāṇaṁ vadetha?"
+    },
+    {
+      "id": "sn22.79:6.2",
+      "pali": "Vijānātīti kho, bhikkhave, tasmā ‘viññāṇan’ti vuccati."
+    },
+    {
+      "id": "sn22.79:6.3",
+      "pali": "Kiñca vijānāti?"
+    },
+    {
+      "id": "sn22.79:6.4",
+      "pali": "Ambilampi vijānāti, tittakampi vijānāti, kaṭukampi vijānāti, madhurampi vijānāti, khārikampi vijānāti, akhārikampi vijānāti, loṇikampi vijānāti, aloṇikampi vijānāti."
+    },
+    {
+      "id": "sn22.79:6.5",
+      "pali": "Vijānātīti kho, bhikkhave, tasmā ‘viññāṇan’ti vuccati."
+    },
+    {
+      "id": "sn22.79:7.1",
+      "pali": "Tatra, bhikkhave, sutavā ariyasāvako iti paṭisañcikkhati:"
+    },
+    {
+      "id": "sn22.79:7.2",
+      "pali": "‘ahaṁ kho etarahi rūpena khajjāmi."
+    },
+    {
+      "id": "sn22.79:7.3",
+      "pali": "Atītampāhaṁ addhānaṁ evameva rūpena khajjiṁ, seyyathāpi etarahi paccuppannena rūpena khajjāmi."
+    },
+    {
+      "id": "sn22.79:7.4",
+      "pali": "Ahañceva kho pana anāgataṁ rūpaṁ abhinandeyyaṁ, anāgatampāhaṁ addhānaṁ evameva rūpena khajjeyyaṁ, seyyathāpi etarahi paccuppannena rūpena khajjāmī’ti."
+    },
+    {
+      "id": "sn22.79:7.5",
+      "pali": "So iti paṭisaṅkhāya atītasmiṁ rūpasmiṁ anapekkho hoti;"
+    },
+    {
+      "id": "sn22.79:7.6",
+      "pali": "anāgataṁ rūpaṁ nābhinandati;"
+    },
+    {
+      "id": "sn22.79:7.7",
+      "pali": "paccuppannassa rūpassa nibbidāya virāgāya nirodhāya paṭipanno hoti."
+    },
+    {
+      "id": "sn22.79:8.1",
+      "pali": "‘Ahaṁ kho etarahi vedanāya khajjāmi."
+    },
+    {
+      "id": "sn22.79:8.2",
+      "pali": "Atītampāhaṁ addhānaṁ evameva vedanāya khajjiṁ, seyyathāpi etarahi paccuppannāya vedanāya khajjāmi."
+    },
+    {
+      "id": "sn22.79:8.3",
+      "pali": "Ahañceva kho pana anāgataṁ vedanaṁ abhinandeyyaṁ;"
+    },
+    {
+      "id": "sn22.79:8.4",
+      "pali": "anāgatampāhaṁ addhānaṁ evameva vedanāya khajjeyyaṁ, seyyathāpi etarahi paccuppannāya vedanāya khajjāmī’ti."
+    },
+    {
+      "id": "sn22.79:8.5",
+      "pali": "So iti paṭisaṅkhāya atītāya vedanāya anapekkho hoti;"
+    },
+    {
+      "id": "sn22.79:8.6",
+      "pali": "anāgataṁ vedanaṁ nābhinandati;"
+    },
+    {
+      "id": "sn22.79:8.7",
+      "pali": "paccuppannāya vedanāya nibbidāya virāgāya nirodhāya paṭipanno hoti."
+    },
+    {
+      "id": "sn22.79:9.1",
+      "pali": "‘Ahaṁ kho etarahi saññāya khajjāmi …pe…"
+    },
+    {
+      "id": "sn22.79:9.2",
+      "pali": "ahaṁ kho etarahi saṅkhārehi khajjāmi."
+    },
+    {
+      "id": "sn22.79:9.3",
+      "pali": "Atītampāhaṁ addhānaṁ evameva saṅkhārehi khajjiṁ, seyyathāpi etarahi paccuppannehi saṅkhārehi khajjāmīti."
+    },
+    {
+      "id": "sn22.79:9.4",
+      "pali": "Ahañceva kho pana anāgate saṅkhāre abhinandeyyaṁ;"
+    },
+    {
+      "id": "sn22.79:9.5",
+      "pali": "anāgatampāhaṁ addhānaṁ evameva saṅkhārehi khajjeyyaṁ, seyyathāpi etarahi paccuppannehi saṅkhārehi khajjāmī’ti."
+    },
+    {
+      "id": "sn22.79:9.6",
+      "pali": "So iti paṭisaṅkhāya atītesu saṅkhāresu anapekkho hoti;"
+    },
+    {
+      "id": "sn22.79:9.7",
+      "pali": "anāgate saṅkhāre nābhinandati;"
+    },
+    {
+      "id": "sn22.79:9.8",
+      "pali": "paccuppannānaṁ saṅkhārānaṁ nibbidāya virāgāya nirodhāya paṭipanno hoti."
+    },
+    {
+      "id": "sn22.79:10.1",
+      "pali": "‘Ahaṁ kho etarahi viññāṇena khajjāmi."
+    },
+    {
+      "id": "sn22.79:10.2",
+      "pali": "Atītampi addhānaṁ evameva viññāṇena khajjiṁ, seyyathāpi etarahi paccuppannena viññāṇena khajjāmi."
+    },
+    {
+      "id": "sn22.79:10.3",
+      "pali": "Ahañceva kho pana anāgataṁ viññāṇaṁ abhinandeyyaṁ;"
+    },
+    {
+      "id": "sn22.79:10.4",
+      "pali": "anāgatampāhaṁ addhānaṁ evameva viññāṇena khajjeyyaṁ, seyyathāpi etarahi paccuppannena viññāṇena khajjāmī’ti."
+    },
+    {
+      "id": "sn22.79:10.5",
+      "pali": "So iti paṭisaṅkhāya atītasmiṁ viññāṇasmiṁ anapekkho hoti;"
+    },
+    {
+      "id": "sn22.79:10.6",
+      "pali": "anāgataṁ viññāṇaṁ nābhinandati;"
+    },
+    {
+      "id": "sn22.79:10.7",
+      "pali": "paccuppannassa viññāṇassa nibbidāya virāgāya nirodhāya paṭipanno hoti."
+    },
+    {
+      "id": "sn22.79:11.1",
+      "pali": "Taṁ kiṁ maññatha, bhikkhave,"
+    },
+    {
+      "id": "sn22.79:11.2",
+      "pali": "rūpaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "sn22.79:11.3",
+      "pali": "“Aniccaṁ, bhante”."
+    },
+    {
+      "id": "sn22.79:11.4",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "sn22.79:11.5",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "sn22.79:11.6",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "sn22.79:11.7",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "sn22.79:11.8",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "sn22.79:11.9",
+      "pali": "“Vedanā …"
+    },
+    {
+      "id": "sn22.79:11.10",
+      "pali": "saññā …"
+    },
+    {
+      "id": "sn22.79:11.11",
+      "pali": "saṅkhārā …"
+    },
+    {
+      "id": "sn22.79:11.12",
+      "pali": "viññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "sn22.79:11.13",
+      "pali": "“Aniccaṁ, bhante”."
+    },
+    {
+      "id": "sn22.79:11.14",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "sn22.79:11.15",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "sn22.79:11.16",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "sn22.79:11.17",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "sn22.79:11.18",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "sn22.79:11.19",
+      "pali": "“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ."
+    },
+    {
+      "id": "sn22.79:11.20",
+      "pali": "Yā kāci vedanā …"
+    },
+    {
+      "id": "sn22.79:11.21",
+      "pali": "yā kāci saññā …"
+    },
+    {
+      "id": "sn22.79:11.22",
+      "pali": "ye keci saṅkhārā …"
+    },
+    {
+      "id": "sn22.79:11.23",
+      "pali": "yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ …pe… yaṁ dūre santike vā, sabbaṁ viññāṇaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ."
+    },
+    {
+      "id": "sn22.79:12.1",
+      "pali": "Ayaṁ vuccati, bhikkhave, ariyasāvako apacināti, no ācināti;"
+    },
+    {
+      "id": "sn22.79:12.2",
+      "pali": "pajahati, na upādiyati;"
+    },
+    {
+      "id": "sn22.79:12.3",
+      "pali": "visineti, na ussineti;"
+    },
+    {
+      "id": "sn22.79:12.4",
+      "pali": "vidhūpeti, na sandhūpeti."
+    },
+    {
+      "id": "sn22.79:12.5",
+      "pali": "Kiñca apacināti, no ācināti?"
+    },
+    {
+      "id": "sn22.79:12.6",
+      "pali": "Rūpaṁ apacināti, no ācināti;"
+    },
+    {
+      "id": "sn22.79:12.7",
+      "pali": "vedanaṁ …"
+    },
+    {
+      "id": "sn22.79:12.8",
+      "pali": "saññaṁ …"
+    },
+    {
+      "id": "sn22.79:12.9",
+      "pali": "saṅkhāre …"
+    },
+    {
+      "id": "sn22.79:12.10",
+      "pali": "viññāṇaṁ apacināti, no ācināti."
+    },
+    {
+      "id": "sn22.79:12.11",
+      "pali": "Kiñca pajahati, na upādiyati?"
+    },
+    {
+      "id": "sn22.79:12.12",
+      "pali": "Rūpaṁ pajahati, na upādiyati;"
+    },
+    {
+      "id": "sn22.79:12.13",
+      "pali": "vedanaṁ …"
+    },
+    {
+      "id": "sn22.79:12.14",
+      "pali": "saññaṁ …"
+    },
+    {
+      "id": "sn22.79:12.15",
+      "pali": "saṅkhāre …"
+    },
+    {
+      "id": "sn22.79:12.16",
+      "pali": "viññāṇaṁ pajahati, na upādiyati."
+    },
+    {
+      "id": "sn22.79:12.17",
+      "pali": "Kiñca visineti, na ussineti?"
+    },
+    {
+      "id": "sn22.79:12.18",
+      "pali": "Rūpaṁ visineti, na ussineti;"
+    },
+    {
+      "id": "sn22.79:12.19",
+      "pali": "vedanaṁ …"
+    },
+    {
+      "id": "sn22.79:12.20",
+      "pali": "saññaṁ …"
+    },
+    {
+      "id": "sn22.79:12.21",
+      "pali": "saṅkhāre …"
+    },
+    {
+      "id": "sn22.79:12.22",
+      "pali": "viññāṇaṁ visineti, na ussineti."
+    },
+    {
+      "id": "sn22.79:12.23",
+      "pali": "Kiñca vidhūpeti, na sandhūpeti?"
+    },
+    {
+      "id": "sn22.79:12.24",
+      "pali": "Rūpaṁ vidhūpeti, na sandhūpeti;"
+    },
+    {
+      "id": "sn22.79:12.25",
+      "pali": "vedanaṁ …"
+    },
+    {
+      "id": "sn22.79:12.26",
+      "pali": "saññaṁ …"
+    },
+    {
+      "id": "sn22.79:12.27",
+      "pali": "saṅkhāre …"
+    },
+    {
+      "id": "sn22.79:12.28",
+      "pali": "viññāṇaṁ vidhūpeti, na sandhūpeti."
+    },
+    {
+      "id": "sn22.79:13.1",
+      "pali": "Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi … saññāyapi … saṅkhāresupi … viññāṇasmimpi nibbindati."
+    },
+    {
+      "id": "sn22.79:13.2",
+      "pali": "Nibbindaṁ virajjati; virāgā vimuccati. Vimuttasmiṁ vimuttamiti ñāṇaṁ hoti."
+    },
+    {
+      "id": "sn22.79:13.3",
+      "pali": "‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānāti."
+    },
+    {
+      "id": "sn22.79:14.1",
+      "pali": "Ayaṁ vuccati, bhikkhave, bhikkhu nevācināti na apacināti, apacinitvā ṭhito; neva pajahati na upādiyati, pajahitvā ṭhito; neva visineti na ussineti, visinetvā ṭhito; neva vidhūpeti na sandhūpeti vidhūpetvā ṭhito"
+    },
+    {
+      "id": "sn22.79:14.2",
+      "pali": "Kiñca nevācināti na apacināti, apacinitvā ṭhito?"
+    },
+    {
+      "id": "sn22.79:14.3",
+      "pali": "Rūpaṁ nevācināti na apacināti, apacinitvā ṭhito;"
+    },
+    {
+      "id": "sn22.79:14.4",
+      "pali": "vedanaṁ …"
+    },
+    {
+      "id": "sn22.79:14.5",
+      "pali": "saññaṁ …"
+    },
+    {
+      "id": "sn22.79:14.6",
+      "pali": "saṅkhāre …"
+    },
+    {
+      "id": "sn22.79:14.7",
+      "pali": "viññāṇaṁ nevācināti na apacināti, apacinitvā ṭhito."
+    },
+    {
+      "id": "sn22.79:14.8",
+      "pali": "Kiñca neva pajahati na upādiyati, pajahitvā ṭhito?"
+    },
+    {
+      "id": "sn22.79:14.9",
+      "pali": "Rūpaṁ neva pajahati na upādiyati, pajahitvā ṭhito;"
+    },
+    {
+      "id": "sn22.79:14.10",
+      "pali": "vedanaṁ …"
+    },
+    {
+      "id": "sn22.79:14.11",
+      "pali": "saññaṁ …"
+    },
+    {
+      "id": "sn22.79:14.12",
+      "pali": "saṅkhāre …"
+    },
+    {
+      "id": "sn22.79:14.13",
+      "pali": "viññāṇaṁ neva pajahati na upādiyati, pajahitvā ṭhito."
+    },
+    {
+      "id": "sn22.79:14.14",
+      "pali": "Kiñca neva visineti na ussineti, visinetvā ṭhito?"
+    },
+    {
+      "id": "sn22.79:14.15",
+      "pali": "Rūpaṁ neva visineti na ussineti, visinetvā ṭhito;"
+    },
+    {
+      "id": "sn22.79:14.16",
+      "pali": "vedanaṁ …"
+    },
+    {
+      "id": "sn22.79:14.17",
+      "pali": "saññaṁ …"
+    },
+    {
+      "id": "sn22.79:14.18",
+      "pali": "saṅkhāre …"
+    },
+    {
+      "id": "sn22.79:14.19",
+      "pali": "viññāṇaṁ neva visineti na ussineti, visinetvā ṭhito."
+    },
+    {
+      "id": "sn22.79:14.20",
+      "pali": "Kiñca neva vidhūpeti na sandhūpeti, vidhūpetvā ṭhito?"
+    },
+    {
+      "id": "sn22.79:14.21",
+      "pali": "Rūpaṁ neva vidhūpeti na sandhūpeti, vidhūpetvā ṭhito;"
+    },
+    {
+      "id": "sn22.79:14.22",
+      "pali": "vedanaṁ …"
+    },
+    {
+      "id": "sn22.79:14.23",
+      "pali": "saññaṁ …"
+    },
+    {
+      "id": "sn22.79:14.24",
+      "pali": "saṅkhāre …"
+    },
+    {
+      "id": "sn22.79:14.25",
+      "pali": "viññāṇaṁ neva vidhūpeti na sandhūpeti, vidhūpetvā ṭhito."
+    },
+    {
+      "id": "sn22.79:14.26",
+      "pali": "Evaṁvimuttacittaṁ kho, bhikkhave, bhikkhuṁ saindā devā sabrahmakā sapajāpatikā ārakāva namassanti:"
+    },
+    {
+      "id": "sn22.79:15.1",
+      "pali": "‘Namo te purisājañña,"
+    },
+    {
+      "id": "sn22.79:15.2",
+      "pali": "namo te purisuttama;"
+    },
+    {
+      "id": "sn22.79:15.3",
+      "pali": "Yassa te nābhijānāma,"
+    },
+    {
+      "id": "sn22.79:15.4",
+      "pali": "yampi nissāya jhāyasī’”ti."
+    },
+    {
+      "id": "sn22.79:15.5",
+      "pali": "Sattamaṁ."
+    }
+  ]
+}

@@ -1,0 +1,939 @@
+{
+  "uid": "mn35",
+  "title": "Cūḷasaccakasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn35:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn35:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ."
+    },
+    {
+      "id": "mn35:2.1",
+      "pali": "Tena kho pana samayena saccako nigaṇṭhaputto vesāliyaṁ paṭivasati bhassappavādako paṇḍitavādo sādhusammato bahujanassa."
+    },
+    {
+      "id": "mn35:2.2",
+      "pali": "So vesāliyaṁ parisati evaṁ vācaṁ bhāsati:"
+    },
+    {
+      "id": "mn35:2.3",
+      "pali": "“nāhaṁ taṁ passāmi samaṇaṁ vā brāhmaṇaṁ vā, saṅghiṁ gaṇiṁ gaṇācariyaṁ, api arahantaṁ sammāsambuddhaṁ paṭijānamānaṁ, yo mayā vādena vādaṁ samāraddho na saṅkampeyya na sampakampeyya na sampavedheyya, yassa na kacchehi sedā mucceyyuṁ."
+    },
+    {
+      "id": "mn35:2.4",
+      "pali": "Thūṇaṁ cepāhaṁ acetanaṁ vādena vādaṁ samārabheyyaṁ, sāpi mayā vādena vādaṁ samāraddhā saṅkampeyya sampakampeyya sampavedheyya."
+    },
+    {
+      "id": "mn35:2.5",
+      "pali": "Ko pana vādo manussabhūtassā”ti?"
+    },
+    {
+      "id": "mn35:3.1",
+      "pali": "Atha kho āyasmā assaji pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya vesāliṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "mn35:3.2",
+      "pali": "Addasā kho saccako nigaṇṭhaputto vesāliyaṁ jaṅghāvihāraṁ anucaṅkamamāno anuvicaramāno āyasmantaṁ assajiṁ dūratova āgacchantaṁ."
+    },
+    {
+      "id": "mn35:3.3",
+      "pali": "Disvāna yenāyasmā assaji tenupasaṅkami; upasaṅkamitvā āyasmatā assajinā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn35:3.4",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho saccako nigaṇṭhaputto āyasmantaṁ assajiṁ etadavoca:"
+    },
+    {
+      "id": "mn35:4.1",
+      "pali": "“kathaṁ pana, bho assaji, samaṇo gotamo sāvake vineti, kathaṁbhāgā ca pana samaṇassa gotamassa sāvakesu anusāsanī bahulā pavattatī”ti?"
+    },
+    {
+      "id": "mn35:4.2",
+      "pali": "“Evaṁ kho, aggivessana, bhagavā sāvake vineti, evaṁbhāgā ca pana bhagavato sāvakesu anusāsanī bahulā pavattati:"
+    },
+    {
+      "id": "mn35:4.3",
+      "pali": "‘rūpaṁ, bhikkhave, aniccaṁ, vedanā aniccā, saññā aniccā, saṅkhārā aniccā, viññāṇaṁ aniccaṁ."
+    },
+    {
+      "id": "mn35:4.4",
+      "pali": "Rūpaṁ, bhikkhave, anattā, vedanā anattā, saññā anattā, saṅkhārā anattā, viññāṇaṁ anattā."
+    },
+    {
+      "id": "mn35:4.5",
+      "pali": "Sabbe saṅkhārā aniccā, sabbe dhammā anattā’ti."
+    },
+    {
+      "id": "mn35:4.6",
+      "pali": "Evaṁ kho, aggivessana, bhagavā sāvake vineti, evaṁbhāgā ca pana bhagavato sāvakesu anusāsanī bahulā pavattatī”ti."
+    },
+    {
+      "id": "mn35:4.7",
+      "pali": "“Dussutaṁ vata, bho assaji, assumha ye mayaṁ evaṁvādiṁ samaṇaṁ gotamaṁ assumha."
+    },
+    {
+      "id": "mn35:4.8",
+      "pali": "Appeva nāma mayaṁ kadāci karahaci tena bhotā gotamena saddhiṁ samāgaccheyyāma, appeva nāma siyā kocideva kathāsallāpo, appeva nāma tasmā pāpakā diṭṭhigatā viveceyyāmā”ti."
+    },
+    {
+      "id": "mn35:5.1",
+      "pali": "Tena kho pana samayena pañcamattāni licchavisatāni santhāgāre sannipatitāni honti kenacideva karaṇīyena."
+    },
+    {
+      "id": "mn35:5.2",
+      "pali": "Atha kho saccako nigaṇṭhaputto yena te licchavī tenupasaṅkami; upasaṅkamitvā te licchavī etadavoca:"
+    },
+    {
+      "id": "mn35:5.3",
+      "pali": "“abhikkamantu bhonto licchavī, abhikkamantu bhonto licchavī, ajja me samaṇena gotamena saddhiṁ kathāsallāpo bhavissati."
+    },
+    {
+      "id": "mn35:5.4",
+      "pali": "Sace me samaṇo gotamo tathā patiṭṭhissati yathā ca me ñātaññatarena sāvakena assajinā nāma bhikkhunā patiṭṭhitaṁ, seyyathāpi nāma balavā puriso dīghalomikaṁ eḷakaṁ lomesu gahetvā ākaḍḍheyya parikaḍḍheyya samparikaḍḍheyya;"
+    },
+    {
+      "id": "mn35:5.5",
+      "pali": "evamevāhaṁ samaṇaṁ gotamaṁ vādena vādaṁ ākaḍḍhissāmi parikaḍḍhissāmi samparikaḍḍhissāmi."
+    },
+    {
+      "id": "mn35:5.6",
+      "pali": "Seyyathāpi nāma balavā soṇḍikākammakāro mahantaṁ soṇḍikākiḷañjaṁ gambhīre udakarahade pakkhipitvā kaṇṇe gahetvā ākaḍḍheyya parikaḍḍheyya samparikaḍḍheyya;"
+    },
+    {
+      "id": "mn35:5.7",
+      "pali": "evamevāhaṁ samaṇaṁ gotamaṁ vādena vādaṁ ākaḍḍhissāmi parikaḍḍhissāmi samparikaḍḍhissāmi."
+    },
+    {
+      "id": "mn35:5.8",
+      "pali": "Seyyathāpi nāma balavā soṇḍikādhutto vālaṁ kaṇṇe gahetvā odhuneyya niddhuneyya nipphoṭeyya;"
+    },
+    {
+      "id": "mn35:5.9",
+      "pali": "evamevāhaṁ samaṇaṁ gotamaṁ vādena vādaṁ odhunissāmi niddhunissāmi nipphoṭessāmi."
+    },
+    {
+      "id": "mn35:5.10",
+      "pali": "Seyyathāpi nāma kuñjaro saṭṭhihāyano gambhīraṁ pokkharaṇiṁ ogāhetvā sāṇadhovikaṁ nāma kīḷitajātaṁ kīḷati;"
+    },
+    {
+      "id": "mn35:5.11",
+      "pali": "evamevāhaṁ samaṇaṁ gotamaṁ sāṇadhovikaṁ maññe kīḷitajātaṁ kīḷissāmi."
+    },
+    {
+      "id": "mn35:5.12",
+      "pali": "Abhikkamantu bhonto licchavī, abhikkamantu bhonto licchavī, ajja me samaṇena gotamena saddhiṁ kathāsallāpo bhavissatī”ti."
+    },
+    {
+      "id": "mn35:6.1",
+      "pali": "Tatrekacce licchavī evamāhaṁsu:"
+    },
+    {
+      "id": "mn35:6.2",
+      "pali": "“kiṁ samaṇo gotamo saccakassa nigaṇṭhaputtassa vādaṁ āropessati, atha kho saccako nigaṇṭhaputto samaṇassa gotamassa vādaṁ āropessatī”ti?"
+    },
+    {
+      "id": "mn35:6.3",
+      "pali": "Ekacce licchavī evamāhaṁsu:"
+    },
+    {
+      "id": "mn35:6.4",
+      "pali": "“kiṁ so bhavamāno saccako nigaṇṭhaputto yo bhagavato vādaṁ āropessati, atha kho bhagavā saccakassa nigaṇṭhaputtassa vādaṁ āropessatī”ti?"
+    },
+    {
+      "id": "mn35:6.5",
+      "pali": "Atha kho saccako nigaṇṭhaputto pañcamattehi licchavisatehi parivuto yena mahāvanaṁ kūṭāgārasālā tenupasaṅkami."
+    },
+    {
+      "id": "mn35:7.1",
+      "pali": "Tena kho pana samayena sambahulā bhikkhū abbhokāse caṅkamanti."
+    },
+    {
+      "id": "mn35:7.2",
+      "pali": "Atha kho saccako nigaṇṭhaputto yena te bhikkhū tenupasaṅkami; upasaṅkamitvā te bhikkhū etadavoca:"
+    },
+    {
+      "id": "mn35:7.3",
+      "pali": "“kahaṁ nu kho, bho, etarahi so bhavaṁ gotamo viharati?"
+    },
+    {
+      "id": "mn35:7.4",
+      "pali": "Dassanakāmā hi mayaṁ taṁ bhavantaṁ gotaman”ti."
+    },
+    {
+      "id": "mn35:7.5",
+      "pali": "“Esa, aggivessana, bhagavā mahāvanaṁ ajjhogāhetvā aññatarasmiṁ rukkhamūle divāvihāraṁ nisinno”ti."
+    },
+    {
+      "id": "mn35:8.1",
+      "pali": "Atha kho saccako nigaṇṭhaputto mahatiyā licchaviparisāya saddhiṁ mahāvanaṁ ajjhogāhetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn35:8.2",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "mn35:8.3",
+      "pali": "Tepi kho licchavī appekacce bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu, appekacce bhagavatā saddhiṁ sammodiṁsu, sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Appekacce yena bhagavā tenañjaliṁ paṇāmetvā ekamantaṁ nisīdiṁsu, appekacce bhagavato santike nāmagottaṁ sāvetvā ekamantaṁ nisīdiṁsu, appekacce tuṇhībhūtā ekamantaṁ nisīdiṁsu."
+    },
+    {
+      "id": "mn35:9.1",
+      "pali": "Ekamantaṁ nisinno kho saccako nigaṇṭhaputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn35:9.2",
+      "pali": "“puccheyyāhaṁ bhavantaṁ gotamaṁ kiñcideva desaṁ, sace me bhavaṁ gotamo okāsaṁ karoti pañhassa veyyākaraṇāyā”ti."
+    },
+    {
+      "id": "mn35:9.3",
+      "pali": "“Puccha, aggivessana, yadākaṅkhasī”ti."
+    },
+    {
+      "id": "mn35:9.4",
+      "pali": "“Kathaṁ pana bhavaṁ gotamo sāvake vineti, kathaṁbhāgā ca pana bhoto gotamassa sāvakesu anusāsanī bahulā pavattatī”ti?"
+    },
+    {
+      "id": "mn35:9.5",
+      "pali": "“Evaṁ kho ahaṁ, aggivessana, sāvake vinemi, evaṁbhāgā ca pana me sāvakesu anusāsanī bahulā pavattati:"
+    },
+    {
+      "id": "mn35:9.6",
+      "pali": "‘rūpaṁ, bhikkhave, aniccaṁ, vedanā aniccā, saññā aniccā, saṅkhārā aniccā, viññāṇaṁ aniccaṁ."
+    },
+    {
+      "id": "mn35:9.7",
+      "pali": "Rūpaṁ, bhikkhave, anattā, vedanā anattā, saññā anattā, saṅkhārā anattā, viññāṇaṁ anattā."
+    },
+    {
+      "id": "mn35:9.8",
+      "pali": "Sabbe saṅkhārā aniccā, sabbe dhammā anattā’ti."
+    },
+    {
+      "id": "mn35:9.9",
+      "pali": "Evaṁ kho ahaṁ, aggivessana, sāvake vinemi, evaṁbhāgā ca pana me sāvakesu anusāsanī bahulā pavattatī”ti."
+    },
+    {
+      "id": "mn35:10.1",
+      "pali": "“Upamā maṁ, bho gotama, paṭibhātī”ti."
+    },
+    {
+      "id": "mn35:10.2",
+      "pali": "“Paṭibhātu taṁ, aggivessanā”ti bhagavā avoca."
+    },
+    {
+      "id": "mn35:10.3",
+      "pali": "“Seyyathāpi, bho gotama, ye kecime bījagāmabhūtagāmā vuddhiṁ virūḷhiṁ vepullaṁ āpajjanti, sabbe te pathaviṁ nissāya pathaviyaṁ patiṭṭhāya."
+    },
+    {
+      "id": "mn35:10.4",
+      "pali": "Evamete bījagāmabhūtagāmā vuddhiṁ virūḷhiṁ vepullaṁ āpajjanti."
+    },
+    {
+      "id": "mn35:10.5",
+      "pali": "Seyyathāpi vā pana, bho gotama, ye kecime balakaraṇīyā kammantā karīyanti, sabbe te pathaviṁ nissāya pathaviyaṁ patiṭṭhāya."
+    },
+    {
+      "id": "mn35:10.6",
+      "pali": "Evamete balakaraṇīyā kammantā karīyanti."
+    },
+    {
+      "id": "mn35:10.7",
+      "pali": "Evameva kho, bho gotama, rūpattāyaṁ purisapuggalo rūpe patiṭṭhāya puññaṁ vā apuññaṁ vā pasavati, vedanattāyaṁ purisapuggalo vedanāyaṁ patiṭṭhāya puññaṁ vā apuññaṁ vā pasavati, saññattāyaṁ purisapuggalo saññāyaṁ patiṭṭhāya puññaṁ vā apuññaṁ vā pasavati, saṅkhārattāyaṁ purisapuggalo saṅkhāresu patiṭṭhāya puññaṁ vā apuññaṁ vā pasavati, viññāṇattāyaṁ purisapuggalo viññāṇe patiṭṭhāya puññaṁ vā apuññaṁ vā pasavatī”ti."
+    },
+    {
+      "id": "mn35:11.1",
+      "pali": "“Nanu tvaṁ, aggivessana, evaṁ vadesi:"
+    },
+    {
+      "id": "mn35:11.2",
+      "pali": "‘rūpaṁ me attā, vedanā me attā, saññā me attā, saṅkhārā me attā, viññāṇaṁ me attā’”ti?"
+    },
+    {
+      "id": "mn35:11.3",
+      "pali": "“Ahañhi, bho gotama, evaṁ vadāmi:"
+    },
+    {
+      "id": "mn35:11.4",
+      "pali": "‘rūpaṁ me attā, vedanā me attā, saññā me attā, saṅkhārā me attā, viññāṇaṁ me attā’ti, ayañca mahatī janatā”ti."
+    },
+    {
+      "id": "mn35:11.5",
+      "pali": "“Kiñhi te, aggivessana, mahatī janatā karissati?"
+    },
+    {
+      "id": "mn35:11.6",
+      "pali": "Iṅgha tvaṁ, aggivessana, sakaññeva vādaṁ nibbeṭhehī”ti."
+    },
+    {
+      "id": "mn35:11.7",
+      "pali": "“Ahañhi, bho gotama, evaṁ vadāmi:"
+    },
+    {
+      "id": "mn35:11.8",
+      "pali": "‘rūpaṁ me attā, vedanā me attā, saññā me attā, saṅkhārā me attā, viññāṇaṁ me attā’”ti."
+    },
+    {
+      "id": "mn35:12.1",
+      "pali": "“Tena hi, aggivessana, taññevettha paṭipucchissāmi, yathā te khameyya tathā naṁ byākareyyāsi."
+    },
+    {
+      "id": "mn35:12.2",
+      "pali": "Taṁ kiṁ maññasi, aggivessana,"
+    },
+    {
+      "id": "mn35:12.3",
+      "pali": "vatteyya rañño khattiyassa muddhāvasittassa sakasmiṁ vijite vaso—"
+    },
+    {
+      "id": "mn35:12.4",
+      "pali": "ghātetāyaṁ vā ghātetuṁ, jāpetāyaṁ vā jāpetuṁ, pabbājetāyaṁ vā pabbājetuṁ, seyyathāpi rañño pasenadissa kosalassa, seyyathāpi vā pana rañño māgadhassa ajātasattussa vedehiputtassā”ti?"
+    },
+    {
+      "id": "mn35:12.5",
+      "pali": "“Vatteyya, bho gotama, rañño khattiyassa muddhāvasittassa sakasmiṁ vijite vaso—"
+    },
+    {
+      "id": "mn35:12.6",
+      "pali": "ghātetāyaṁ vā ghātetuṁ, jāpetāyaṁ vā jāpetuṁ, pabbājetāyaṁ vā pabbājetuṁ, seyyathāpi rañño pasenadissa kosalassa, seyyathāpi vā pana rañño māgadhassa ajātasattussa vedehiputtassa."
+    },
+    {
+      "id": "mn35:12.7",
+      "pali": "Imesampi hi, bho gotama, saṅghānaṁ gaṇānaṁ—"
+    },
+    {
+      "id": "mn35:12.8",
+      "pali": "Seyyathidaṁ—vajjīnaṁ mallānaṁ—"
+    },
+    {
+      "id": "mn35:12.9",
+      "pali": "vattati sakasmiṁ vijite vaso—"
+    },
+    {
+      "id": "mn35:12.10",
+      "pali": "ghātetāyaṁ vā ghātetuṁ, jāpetāyaṁ vā jāpetuṁ, pabbājetāyaṁ vā pabbājetuṁ."
+    },
+    {
+      "id": "mn35:12.11",
+      "pali": "Kiṁ pana rañño khattiyassa muddhāvasittassa, seyyathāpi rañño pasenadissa kosalassa, seyyathāpi vā pana rañño māgadhassa ajātasattussa vedehiputtassa?"
+    },
+    {
+      "id": "mn35:12.12",
+      "pali": "Vatteyya, bho gotama, vattituñca marahatī”ti."
+    },
+    {
+      "id": "mn35:13.1",
+      "pali": "“Taṁ kiṁ maññasi, aggivessana,"
+    },
+    {
+      "id": "mn35:13.2",
+      "pali": "yaṁ tvaṁ evaṁ vadesi:"
+    },
+    {
+      "id": "mn35:13.3",
+      "pali": "‘rūpaṁ me attā’ti, vattati te tasmiṁ rūpe vaso—"
+    },
+    {
+      "id": "mn35:13.4",
+      "pali": "evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī”ti?"
+    },
+    {
+      "id": "mn35:13.5",
+      "pali": "Evaṁ vutte, saccako nigaṇṭhaputto tuṇhī ahosi."
+    },
+    {
+      "id": "mn35:13.6",
+      "pali": "Dutiyampi kho bhagavā saccakaṁ nigaṇṭhaputtaṁ etadavoca:"
+    },
+    {
+      "id": "mn35:13.7",
+      "pali": "“taṁ kiṁ maññasi, aggivessana, yaṁ tvaṁ evaṁ vadesi:"
+    },
+    {
+      "id": "mn35:13.8",
+      "pali": "‘rūpaṁ me attā’ti, vattati te tasmiṁ rūpe vaso—"
+    },
+    {
+      "id": "mn35:13.9",
+      "pali": "evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī”ti?"
+    },
+    {
+      "id": "mn35:13.10",
+      "pali": "Dutiyampi kho saccako nigaṇṭhaputto tuṇhī ahosi."
+    },
+    {
+      "id": "mn35:13.11",
+      "pali": "Atha kho bhagavā saccakaṁ nigaṇṭhaputtaṁ etadavoca:"
+    },
+    {
+      "id": "mn35:13.12",
+      "pali": "“byākarohi dāni, aggivessana, na dāni te tuṇhībhāvassa kālo."
+    },
+    {
+      "id": "mn35:13.13",
+      "pali": "Yo koci, aggivessana tathāgatena yāvatatiyaṁ sahadhammikaṁ pañhaṁ puṭṭho na byākaroti, etthevassa sattadhā muddhā phalatī”ti."
+    },
+    {
+      "id": "mn35:14.1",
+      "pali": "Tena kho pana samayena vajirapāṇi yakkho āyasaṁ vajiraṁ ādāya ādittaṁ sampajjalitaṁ sajotibhūtaṁ saccakassa nigaṇṭhaputtassa uparivehāsaṁ ṭhito hoti:"
+    },
+    {
+      "id": "mn35:14.2",
+      "pali": "“sacāyaṁ saccako nigaṇṭhaputto bhagavatā yāvatatiyaṁ sahadhammikaṁ pañhaṁ puṭṭho na byākarissati etthevassa sattadhā muddhaṁ phālessāmī”ti."
+    },
+    {
+      "id": "mn35:14.3",
+      "pali": "Taṁ kho pana vajirapāṇiṁ yakkhaṁ bhagavā ceva passati saccako ca nigaṇṭhaputto."
+    },
+    {
+      "id": "mn35:14.4",
+      "pali": "Atha kho saccako nigaṇṭhaputto bhīto saṁviggo lomahaṭṭhajāto bhagavantaṁyeva tāṇaṁ gavesī bhagavantaṁyeva leṇaṁ gavesī bhagavantaṁyeva saraṇaṁ gavesī bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn35:14.5",
+      "pali": "“pucchatu maṁ bhavaṁ gotamo, byākarissāmī”ti."
+    },
+    {
+      "id": "mn35:15.1",
+      "pali": "“Taṁ kiṁ maññasi, aggivessana,"
+    },
+    {
+      "id": "mn35:15.2",
+      "pali": "yaṁ tvaṁ evaṁ vadesi:"
+    },
+    {
+      "id": "mn35:15.3",
+      "pali": "‘rūpaṁ me attā’ti, vattati te tasmiṁ rūpe vaso—"
+    },
+    {
+      "id": "mn35:15.4",
+      "pali": "evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī”ti?"
+    },
+    {
+      "id": "mn35:15.5",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "mn35:16.1",
+      "pali": "“Manasi karohi, aggivessana;"
+    },
+    {
+      "id": "mn35:16.2",
+      "pali": "manasi karitvā kho, aggivessana, byākarohi."
+    },
+    {
+      "id": "mn35:16.3",
+      "pali": "Na kho te sandhiyati purimena vā pacchimaṁ pacchimena vā purimaṁ."
+    },
+    {
+      "id": "mn35:16.4",
+      "pali": "Taṁ kiṁ maññasi, aggivessana,"
+    },
+    {
+      "id": "mn35:16.5",
+      "pali": "yaṁ tvaṁ evaṁ vadesi:"
+    },
+    {
+      "id": "mn35:16.6",
+      "pali": "‘vedanā me attā’ti, vattati te tissaṁ vedanāyaṁ vaso—"
+    },
+    {
+      "id": "mn35:16.7",
+      "pali": "evaṁ me vedanā hotu, evaṁ me vedanā mā ahosī”ti?"
+    },
+    {
+      "id": "mn35:16.8",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "mn35:17.1",
+      "pali": "“Manasi karohi, aggivessana;"
+    },
+    {
+      "id": "mn35:17.2",
+      "pali": "manasi karitvā kho, aggivessana, byākarohi."
+    },
+    {
+      "id": "mn35:17.3",
+      "pali": "Na kho te sandhiyati purimena vā pacchimaṁ, pacchimena vā purimaṁ."
+    },
+    {
+      "id": "mn35:17.4",
+      "pali": "Taṁ kiṁ maññasi, aggivessana,"
+    },
+    {
+      "id": "mn35:17.5",
+      "pali": "yaṁ tvaṁ evaṁ vadesi:"
+    },
+    {
+      "id": "mn35:17.6",
+      "pali": "‘saññā me attā’ti, vattati te tissaṁ saññāyaṁ vaso—"
+    },
+    {
+      "id": "mn35:17.7",
+      "pali": "evaṁ me saññā hotu, evaṁ me saññā mā ahosī”ti?"
+    },
+    {
+      "id": "mn35:17.8",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "mn35:18.1",
+      "pali": "“Manasi karohi, aggivessana;"
+    },
+    {
+      "id": "mn35:18.2",
+      "pali": "manasi karitvā kho, aggivessana, byākarohi."
+    },
+    {
+      "id": "mn35:18.3",
+      "pali": "Na kho te sandhiyati purimena vā pacchimaṁ, pacchimena vā purimaṁ."
+    },
+    {
+      "id": "mn35:18.4",
+      "pali": "Taṁ kiṁ maññasi, aggivessana,"
+    },
+    {
+      "id": "mn35:18.5",
+      "pali": "yaṁ tvaṁ evaṁ vadesi:"
+    },
+    {
+      "id": "mn35:18.6",
+      "pali": "‘saṅkhārā me attā’ti, vattati te tesu saṅkhāresu vaso—"
+    },
+    {
+      "id": "mn35:18.7",
+      "pali": "evaṁ me saṅkhārā hontu, evaṁ me saṅkhārā mā ahesun”ti?"
+    },
+    {
+      "id": "mn35:18.8",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "mn35:19.1",
+      "pali": "“Manasi karohi, aggivessana;"
+    },
+    {
+      "id": "mn35:19.2",
+      "pali": "manasi karitvā kho, aggivessana, byākarohi."
+    },
+    {
+      "id": "mn35:19.3",
+      "pali": "Na kho te sandhiyati purimena vā pacchimaṁ, pacchimena vā purimaṁ."
+    },
+    {
+      "id": "mn35:19.4",
+      "pali": "Taṁ kiṁ maññasi, aggivessana,"
+    },
+    {
+      "id": "mn35:19.5",
+      "pali": "yaṁ tvaṁ evaṁ vadesi:"
+    },
+    {
+      "id": "mn35:19.6",
+      "pali": "‘viññāṇaṁ me attā’ti, vattati te tasmiṁ viññāṇe vaso—"
+    },
+    {
+      "id": "mn35:19.7",
+      "pali": "evaṁ me viññāṇaṁ hotu, evaṁ me viññāṇaṁ mā ahosī”ti?"
+    },
+    {
+      "id": "mn35:19.8",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "mn35:20.1",
+      "pali": "“Manasi karohi, aggivessana;"
+    },
+    {
+      "id": "mn35:20.2",
+      "pali": "manasi karitvā kho, aggivessana, byākarohi."
+    },
+    {
+      "id": "mn35:20.3",
+      "pali": "Na kho te sandhiyati purimena vā pacchimaṁ, pacchimena vā purimaṁ."
+    },
+    {
+      "id": "mn35:20.4",
+      "pali": "Taṁ kiṁ maññasi, aggivessana,"
+    },
+    {
+      "id": "mn35:20.5",
+      "pali": "rūpaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn35:20.6",
+      "pali": "“Aniccaṁ, bho gotama”."
+    },
+    {
+      "id": "mn35:20.7",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn35:20.8",
+      "pali": "“Dukkhaṁ, bho gotama”."
+    },
+    {
+      "id": "mn35:20.9",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn35:20.10",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn35:20.11",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "mn35:20.12",
+      "pali": "“Taṁ kiṁ maññasi, aggivessana,"
+    },
+    {
+      "id": "mn35:20.13",
+      "pali": "vedanā …pe…"
+    },
+    {
+      "id": "mn35:20.14",
+      "pali": "saññā …pe…"
+    },
+    {
+      "id": "mn35:20.15",
+      "pali": "saṅkhārā …pe…"
+    },
+    {
+      "id": "mn35:20.16",
+      "pali": "taṁ kiṁ maññasi, aggivessana, viññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn35:20.17",
+      "pali": "“Aniccaṁ, bho gotama”."
+    },
+    {
+      "id": "mn35:20.18",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn35:20.19",
+      "pali": "“Dukkhaṁ, bho gotama”."
+    },
+    {
+      "id": "mn35:20.20",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:"
+    },
+    {
+      "id": "mn35:20.21",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’”ti?"
+    },
+    {
+      "id": "mn35:20.22",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "mn35:21.1",
+      "pali": "“Taṁ kiṁ maññasi, aggivessana,"
+    },
+    {
+      "id": "mn35:21.2",
+      "pali": "yo nu kho dukkhaṁ allīno dukkhaṁ upagato dukkhaṁ ajjhosito, dukkhaṁ ‘etaṁ mama, esohamasmi, eso me attā’ti samanupassati, api nu kho so sāmaṁ vā dukkhaṁ parijāneyya, dukkhaṁ vā parikkhepetvā vihareyyā”ti?"
+    },
+    {
+      "id": "mn35:21.3",
+      "pali": "“Kiñhi siyā, bho gotama?"
+    },
+    {
+      "id": "mn35:21.4",
+      "pali": "No hidaṁ, bho gotamā”ti."
+    },
+    {
+      "id": "mn35:21.5",
+      "pali": "“Taṁ kiṁ maññasi, aggivessana,"
+    },
+    {
+      "id": "mn35:21.6",
+      "pali": "nanu tvaṁ evaṁ sante dukkhaṁ allīno dukkhaṁ upagato dukkhaṁ ajjhosito, dukkhaṁ:"
+    },
+    {
+      "id": "mn35:21.7",
+      "pali": "‘etaṁ mama, esohamasmi, eso me attā’ti samanupassasī”ti?"
+    },
+    {
+      "id": "mn35:21.8",
+      "pali": "“Kiñhi no siyā, bho gotama?"
+    },
+    {
+      "id": "mn35:21.9",
+      "pali": "Evametaṁ, bho gotamā”ti."
+    },
+    {
+      "id": "mn35:22.1",
+      "pali": "“Seyyathāpi, aggivessana, puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno tiṇhaṁ kuṭhāriṁ ādāya vanaṁ paviseyya."
+    },
+    {
+      "id": "mn35:22.2",
+      "pali": "So tattha passeyya mahantaṁ kadalikkhandhaṁ ujuṁ navaṁ akukkukajātaṁ."
+    },
+    {
+      "id": "mn35:22.3",
+      "pali": "Tamenaṁ mūle chindeyya, mūle chetvā agge chindeyya, agge chetvā pattavaṭṭiṁ vinibbhujeyya."
+    },
+    {
+      "id": "mn35:22.4",
+      "pali": "So tattha pattavaṭṭiṁ vinibbhujanto pheggumpi nādhigaccheyya, kuto sāraṁ?"
+    },
+    {
+      "id": "mn35:22.5",
+      "pali": "Evameva kho tvaṁ, aggivessana, mayā sakasmiṁ vāde samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno ritto tuccho aparaddho."
+    },
+    {
+      "id": "mn35:22.6",
+      "pali": "Bhāsitā kho pana te esā, aggivessana, vesāliyaṁ parisati vācā:"
+    },
+    {
+      "id": "mn35:22.7",
+      "pali": "‘nāhaṁ taṁ passāmi samaṇaṁ vā brāhmaṇaṁ vā, saṅghiṁ gaṇiṁ gaṇācariyaṁ, api arahantaṁ sammāsambuddhaṁ paṭijānamānaṁ, yo mayā vādena vādaṁ samāraddho na saṅkampeyya na sampakampeyya na sampavedheyya, yassa na kacchehi sedā mucceyyuṁ."
+    },
+    {
+      "id": "mn35:22.8",
+      "pali": "Thūṇaṁ cepāhaṁ acetanaṁ vādena vādaṁ samārabheyyaṁ sāpi mayā vādena vādaṁ samāraddhā saṅkampeyya sampakampeyya sampavedheyya."
+    },
+    {
+      "id": "mn35:22.9",
+      "pali": "Ko pana vādo manussabhūtassā’ti?"
+    },
+    {
+      "id": "mn35:22.10",
+      "pali": "Tuyhaṁ kho pana, aggivessana, appekaccāni sedaphusitāni nalāṭā muttāni, uttarāsaṅgaṁ vinibhinditvā bhūmiyaṁ patiṭṭhitāni."
+    },
+    {
+      "id": "mn35:22.11",
+      "pali": "Mayhaṁ kho pana, aggivessana, natthi etarahi kāyasmiṁ sedo”ti."
+    },
+    {
+      "id": "mn35:22.12",
+      "pali": "Iti bhagavā tasmiṁ parisati suvaṇṇavaṇṇaṁ kāyaṁ vivari."
+    },
+    {
+      "id": "mn35:22.13",
+      "pali": "Evaṁ vutte, saccako nigaṇṭhaputto tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi."
+    },
+    {
+      "id": "mn35:23.1",
+      "pali": "Atha kho dummukho licchaviputto saccakaṁ nigaṇṭhaputtaṁ tuṇhībhūtaṁ maṅkubhūtaṁ pattakkhandhaṁ adhomukhaṁ pajjhāyantaṁ appaṭibhānaṁ viditvā bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn35:23.2",
+      "pali": "“upamā maṁ, bhagavā, paṭibhātī”ti."
+    },
+    {
+      "id": "mn35:23.3",
+      "pali": "“Paṭibhātu taṁ, dummukhā”ti bhagavā avoca."
+    },
+    {
+      "id": "mn35:23.4",
+      "pali": "“Seyyathāpi, bhante, gāmassa vā nigamassa vā avidūre pokkharaṇī."
+    },
+    {
+      "id": "mn35:23.5",
+      "pali": "Tatrāssa kakkaṭako."
+    },
+    {
+      "id": "mn35:23.6",
+      "pali": "Atha kho, bhante, sambahulā kumārakā vā kumārikā vā tamhā gāmā vā nigamā vā nikkhamitvā yena sā pokkharaṇī tenupasaṅkameyyuṁ; upasaṅkamitvā taṁ pokkharaṇiṁ ogāhetvā taṁ kakkaṭakaṁ udakā uddharitvā thale patiṭṭhāpeyyuṁ."
+    },
+    {
+      "id": "mn35:23.7",
+      "pali": "Yaññadeva hi so, bhante, kakkaṭako aḷaṁ abhininnāmeyya taṁ tadeva te kumārakā vā kumārikā vā kaṭṭhena vā kathalena vā sañchindeyyuṁ sambhañjeyyuṁ sampalibhañjeyyuṁ."
+    },
+    {
+      "id": "mn35:23.8",
+      "pali": "Evañhi so, bhante, kakkaṭako sabbehi aḷehi sañchinnehi sambhaggehi sampalibhaggehi abhabbo taṁ pokkharaṇiṁ puna otarituṁ, seyyathāpi pubbe."
+    },
+    {
+      "id": "mn35:23.9",
+      "pali": "Evameva kho, bhante, yāni saccakassa nigaṇṭhaputtassa visūkāyitāni visevitāni vipphanditāni tānipi sabbāni bhagavatā sañchinnāni sambhaggāni sampalibhaggāni;"
+    },
+    {
+      "id": "mn35:23.10",
+      "pali": "abhabbo ca dāni, bhante, saccako nigaṇṭhaputto puna bhagavantaṁ upasaṅkamituṁ yadidaṁ vādādhippāyo”ti."
+    },
+    {
+      "id": "mn35:24.1",
+      "pali": "Evaṁ vutte, saccako nigaṇṭhaputto dummukhaṁ licchaviputtaṁ etadavoca:"
+    },
+    {
+      "id": "mn35:24.2",
+      "pali": "“āgamehi tvaṁ, dummukha, āgamehi tvaṁ, dummukha, (…) na mayaṁ tayā saddhiṁ mantema, idha mayaṁ bhotā gotamena saddhiṁ mantema."
+    },
+    {
+      "id": "mn35:24.3",
+      "pali": "Tiṭṭhatesā, bho gotama, amhākañceva aññesañca puthusamaṇabrāhmaṇānaṁ vācā."
+    },
+    {
+      "id": "mn35:24.4",
+      "pali": "Vilāpaṁ vilapitaṁ maññe."
+    },
+    {
+      "id": "mn35:24.5",
+      "pali": "Kittāvatā ca nu kho bhoto gotamassa sāvako sāsanakaro hoti ovādapatikaro tiṇṇavicikiccho vigatakathaṅkatho vesārajjappatto aparappaccayo satthusāsane viharatī”ti?"
+    },
+    {
+      "id": "mn35:24.6",
+      "pali": "“Idha, aggivessana, mama sāvako yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati;"
+    },
+    {
+      "id": "mn35:24.7",
+      "pali": "yā kāci vedanā …pe…"
+    },
+    {
+      "id": "mn35:24.8",
+      "pali": "yā kāci saññā …pe…"
+    },
+    {
+      "id": "mn35:24.9",
+      "pali": "ye keci saṅkhārā …pe…"
+    },
+    {
+      "id": "mn35:24.10",
+      "pali": "yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā, yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati."
+    },
+    {
+      "id": "mn35:24.11",
+      "pali": "Ettāvatā kho, aggivessana, mama sāvako sāsanakaro hoti ovādapatikaro tiṇṇavicikiccho vigatakathaṅkatho vesārajjappatto aparappaccayo satthusāsane viharatī”ti."
+    },
+    {
+      "id": "mn35:25.1",
+      "pali": "“Kittāvatā pana, bho gotama, bhikkhu arahaṁ hoti khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto”ti?"
+    },
+    {
+      "id": "mn35:25.2",
+      "pali": "“Idha, aggivessana, bhikkhu yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādā vimutto hoti;"
+    },
+    {
+      "id": "mn35:25.3",
+      "pali": "yā kāci vedanā …pe…"
+    },
+    {
+      "id": "mn35:25.4",
+      "pali": "yā kāci saññā …pe…"
+    },
+    {
+      "id": "mn35:25.5",
+      "pali": "ye keci saṅkhārā …pe…"
+    },
+    {
+      "id": "mn35:25.6",
+      "pali": "yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādā vimutto hoti."
+    },
+    {
+      "id": "mn35:25.7",
+      "pali": "Ettāvatā kho, aggivessana, bhikkhu arahaṁ hoti khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto."
+    },
+    {
+      "id": "mn35:26.1",
+      "pali": "Evaṁ vimuttacitto kho, aggivessana, bhikkhu tīhi anuttariyehi samannāgato hoti—"
+    },
+    {
+      "id": "mn35:26.2",
+      "pali": "dassanānuttariyena, paṭipadānuttariyena, vimuttānuttariyena."
+    },
+    {
+      "id": "mn35:26.3",
+      "pali": "Evaṁ vimuttacitto kho, aggivessana, bhikkhu tathāgataññeva sakkaroti garuṁ karoti māneti pūjeti—"
+    },
+    {
+      "id": "mn35:26.4",
+      "pali": "buddho so bhagavā bodhāya dhammaṁ deseti, danto so bhagavā damathāya dhammaṁ deseti, santo so bhagavā samathāya dhammaṁ deseti, tiṇṇo so bhagavā taraṇāya dhammaṁ deseti, parinibbuto so bhagavā parinibbānāya dhammaṁ desetī”ti."
+    },
+    {
+      "id": "mn35:27.1",
+      "pali": "Evaṁ vutte, saccako nigaṇṭhaputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn35:27.2",
+      "pali": "“mayameva, bho gotama, dhaṁsī, mayaṁ pagabbā, ye mayaṁ bhavantaṁ gotamaṁ vādena vādaṁ āsādetabbaṁ amaññimha."
+    },
+    {
+      "id": "mn35:27.3",
+      "pali": "Siyā hi, bho gotama, hatthiṁ pabhinnaṁ āsajja purisassa sotthibhāvo, na tveva bhavantaṁ gotamaṁ āsajja siyā purisassa sotthibhāvo."
+    },
+    {
+      "id": "mn35:27.4",
+      "pali": "Siyā hi, bho gotama, pajjalitaṁ aggikkhandhaṁ āsajja purisassa sotthibhāvo, na tveva bhavantaṁ gotamaṁ āsajja siyā purisassa sotthibhāvo."
+    },
+    {
+      "id": "mn35:27.5",
+      "pali": "Siyā hi, bho gotama, āsīvisaṁ ghoravisaṁ āsajja purisassa sotthibhāvo, na tveva bhavantaṁ gotamaṁ āsajja siyā purisassa sotthibhāvo."
+    },
+    {
+      "id": "mn35:27.6",
+      "pali": "Mayameva, bho gotama, dhaṁsī, mayaṁ pagabbā, ye mayaṁ bhavantaṁ gotamaṁ vādena vādaṁ āsādetabbaṁ amaññimha."
+    },
+    {
+      "id": "mn35:27.7",
+      "pali": "Adhivāsetu me bhavaṁ gotamo svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti."
+    },
+    {
+      "id": "mn35:27.8",
+      "pali": "Adhivāsesi bhagavā tuṇhībhāvena."
+    },
+    {
+      "id": "mn35:28.1",
+      "pali": "Atha kho saccako nigaṇṭhaputto bhagavato adhivāsanaṁ viditvā te licchavī āmantesi:"
+    },
+    {
+      "id": "mn35:28.2",
+      "pali": "“suṇantu me bhonto licchavī, samaṇo me gotamo nimantito svātanāya saddhiṁ bhikkhusaṅghena."
+    },
+    {
+      "id": "mn35:28.3",
+      "pali": "Tena me abhihareyyātha yamassa patirūpaṁ maññeyyāthā”ti."
+    },
+    {
+      "id": "mn35:29.1",
+      "pali": "Atha kho te licchavī tassā rattiyā accayena saccakassa nigaṇṭhaputtassa pañcamattāni thālipākasatāni bhattābhihāraṁ abhihariṁsu."
+    },
+    {
+      "id": "mn35:29.2",
+      "pali": "Atha kho nigaṇṭhaputto sake ārāme paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā bhagavato kālaṁ ārocāpesi:"
+    },
+    {
+      "id": "mn35:29.3",
+      "pali": "“kālo, bho gotama, niṭṭhitaṁ bhattan”ti."
+    },
+    {
+      "id": "mn35:30.1",
+      "pali": "Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena saccakassa nigaṇṭhaputtassa ārāmo tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṁ bhikkhusaṅghena."
+    },
+    {
+      "id": "mn35:30.2",
+      "pali": "Atha kho saccako nigaṇṭhaputto buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi."
+    },
+    {
+      "id": "mn35:30.3",
+      "pali": "Atha kho saccako nigaṇṭhaputto bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "mn35:30.4",
+      "pali": "Ekamantaṁ nisinno kho saccako nigaṇṭhaputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn35:30.5",
+      "pali": "“yamidaṁ, bho gotama, dāne puññañca puññamahī ca taṁ dāyakānaṁ sukhāya hotū”ti."
+    },
+    {
+      "id": "mn35:30.6",
+      "pali": "“Yaṁ kho, aggivessana, tādisaṁ dakkhiṇeyyaṁ āgamma avītarāgaṁ avītadosaṁ avītamohaṁ, taṁ dāyakānaṁ bhavissati."
+    },
+    {
+      "id": "mn35:30.7",
+      "pali": "Yaṁ kho, aggivessana, mādisaṁ dakkhiṇeyyaṁ āgamma vītarāgaṁ vītadosaṁ vītamohaṁ, taṁ tuyhaṁ bhavissatī”ti."
+    },
+    {
+      "id": "mn35:30.8",
+      "pali": "Cūḷasaccakasuttaṁ niṭṭhitaṁ pañcamaṁ."
+    }
+  ]
+}

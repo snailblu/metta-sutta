@@ -1,0 +1,467 @@
+{
+  "uid": "an8.30",
+  "title": "Anuruddhamahāvitakkasutta",
+  "nikaya": "an",
+  "segments": [
+    {
+      "id": "an8.30:1.1",
+      "pali": "Ekaṁ samayaṁ bhagavā bhaggesu viharati suṁsumāragire bhesakaḷāvane migadāye."
+    },
+    {
+      "id": "an8.30:1.2",
+      "pali": "Tena kho pana samayena āyasmā anuruddho cetīsu viharati pācīnavaṁsadāye."
+    },
+    {
+      "id": "an8.30:1.3",
+      "pali": "Atha kho āyasmato anuruddhassa rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi:"
+    },
+    {
+      "id": "an8.30:1.4",
+      "pali": "“appicchassāyaṁ dhammo, nāyaṁ dhammo mahicchassa;"
+    },
+    {
+      "id": "an8.30:1.5",
+      "pali": "santuṭṭhassāyaṁ dhammo, nāyaṁ dhammo asantuṭṭhassa;"
+    },
+    {
+      "id": "an8.30:1.6",
+      "pali": "pavivittassāyaṁ dhammo, nāyaṁ dhammo saṅgaṇikārāmassa;"
+    },
+    {
+      "id": "an8.30:1.7",
+      "pali": "āraddhavīriyassāyaṁ dhammo, nāyaṁ dhammo kusītassa;"
+    },
+    {
+      "id": "an8.30:1.8",
+      "pali": "upaṭṭhitassatissāyaṁ dhammo, nāyaṁ dhammo muṭṭhassatissa;"
+    },
+    {
+      "id": "an8.30:1.9",
+      "pali": "samāhitassāyaṁ dhammo, nāyaṁ dhammo asamāhitassa;"
+    },
+    {
+      "id": "an8.30:1.10",
+      "pali": "paññavato ayaṁ dhammo, nāyaṁ dhammo duppaññassā”ti."
+    },
+    {
+      "id": "an8.30:2.1",
+      "pali": "Atha kho bhagavā āyasmato anuruddhassa cetasā cetoparivitakkamaññāya—seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evamevaṁ—bhaggesu susumāragire bhesakaḷāvane migadāye antarahito cetīsu pācīnavaṁsadāye āyasmato anuruddhassa sammukhe pāturahosi."
+    },
+    {
+      "id": "an8.30:2.2",
+      "pali": "Nisīdi bhagavā paññatte āsane."
+    },
+    {
+      "id": "an8.30:2.3",
+      "pali": "Āyasmāpi kho anuruddho bhagavantaṁ abhivādetvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "an8.30:2.4",
+      "pali": "Ekamantaṁ nisinnaṁ kho āyasmantaṁ anuruddhaṁ bhagavā etadavoca:"
+    },
+    {
+      "id": "an8.30:3.1",
+      "pali": "“Sādhu sādhu, anuruddha."
+    },
+    {
+      "id": "an8.30:3.2",
+      "pali": "Sādhu kho tvaṁ, anuruddha, yaṁ taṁ mahāpurisavitakkaṁ vitakkesi:"
+    },
+    {
+      "id": "an8.30:3.3",
+      "pali": "‘appicchassāyaṁ dhammo, nāyaṁ dhammo mahicchassa;"
+    },
+    {
+      "id": "an8.30:3.4",
+      "pali": "santuṭṭhassāyaṁ dhammo, nāyaṁ dhammo asantuṭṭhassa;"
+    },
+    {
+      "id": "an8.30:3.5",
+      "pali": "pavivittassāyaṁ dhammo, nāyaṁ dhammo saṅgaṇikārāmassa;"
+    },
+    {
+      "id": "an8.30:3.6",
+      "pali": "āraddhavīriyassāyaṁ dhammo, nāyaṁ dhammo kusītassa;"
+    },
+    {
+      "id": "an8.30:3.7",
+      "pali": "upaṭṭhitassatissāyaṁ dhammo, nāyaṁ dhammo muṭṭhassatissa;"
+    },
+    {
+      "id": "an8.30:3.8",
+      "pali": "samāhitassāyaṁ dhammo, nāyaṁ dhammo asamāhitassa;"
+    },
+    {
+      "id": "an8.30:3.9",
+      "pali": "paññavato ayaṁ dhammo, nāyaṁ dhammo duppaññassā’ti."
+    },
+    {
+      "id": "an8.30:3.10",
+      "pali": "Tena hi tvaṁ, anuruddha, imampi aṭṭhamaṁ mahāpurisavitakkaṁ vitakkehi:"
+    },
+    {
+      "id": "an8.30:3.11",
+      "pali": "‘nippapañcārāmassāyaṁ dhammo nippapañcaratino, nāyaṁ dhammo papañcārāmassa papañcaratino’ti."
+    },
+    {
+      "id": "an8.30:4.1",
+      "pali": "Yato kho tvaṁ, anuruddha, ime aṭṭha mahāpurisavitakke vitakkessasi, tato tvaṁ, anuruddha, yāvadeva ākaṅkhissasi, vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharissasi."
+    },
+    {
+      "id": "an8.30:5.1",
+      "pali": "Yato kho tvaṁ, anuruddha, ime aṭṭha mahāpurisavitakke vitakkessasi, tato tvaṁ, anuruddha, yāvadeva ākaṅkhissasi, vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharissasi."
+    },
+    {
+      "id": "an8.30:6.1",
+      "pali": "Yato kho tvaṁ, anuruddha, ime aṭṭha mahāpurisavitakke vitakkessasi, tato tvaṁ, anuruddha, yāvadeva ākaṅkhissasi, pītiyā ca virāgā upekkhako ca viharissasi sato ca sampajāno sukhañca kāyena paṭisaṁvedissasi yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharissasi."
+    },
+    {
+      "id": "an8.30:7.1",
+      "pali": "Yato kho tvaṁ, anuruddha, ime aṭṭha mahāpurisavitakke vitakkessasi, tato tvaṁ, anuruddha, yāvadeva ākaṅkhissasi, sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharissasi."
+    },
+    {
+      "id": "an8.30:8.1",
+      "pali": "Yato kho tvaṁ, anuruddha, ime ca aṭṭha mahāpurisavitakke vitakkessasi, imesañca catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī bhavissasi akicchalābhī akasiralābhī, tato tuyhaṁ, anuruddha, seyyathāpi nāma gahapatissa vā gahapatiputtassa vā nānārattānaṁ dussānaṁ dussakaraṇḍako pūro;"
+    },
+    {
+      "id": "an8.30:8.2",
+      "pali": "evamevaṁ te paṁsukūlacīvaraṁ khāyissati santuṭṭhassa viharato ratiyā aparitassāya phāsuvihārāya okkamanāya nibbānassa."
+    },
+    {
+      "id": "an8.30:9.1",
+      "pali": "Yato kho tvaṁ, anuruddha, ime ca aṭṭha mahāpurisavitakke vitakkessasi, imesañca catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī bhavissasi akicchalābhī akasiralābhī, tato tuyhaṁ, anuruddha, seyyathāpi nāma gahapatissa vā gahapatiputtassa vā sālīnaṁ odano vicitakāḷako anekasūpo anekabyañjano;"
+    },
+    {
+      "id": "an8.30:9.2",
+      "pali": "evamevaṁ te piṇḍiyālopabhojanaṁ khāyissati santuṭṭhassa viharato ratiyā aparitassāya phāsuvihārāya okkamanāya nibbānassa."
+    },
+    {
+      "id": "an8.30:10.1",
+      "pali": "Yato kho tvaṁ, anuruddha, ime ca aṭṭha mahāpurisavitakke vitakkessasi, imesañca catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī bhavissasi akicchalābhī akasiralābhī, tato tuyhaṁ, anuruddha, seyyathāpi nāma gahapatissa vā gahapatiputtassa vā kūṭāgāraṁ ullittāvalittaṁ nivātaṁ phusitaggaḷaṁ pihitavātapānaṁ;"
+    },
+    {
+      "id": "an8.30:10.2",
+      "pali": "evamevaṁ te rukkhamūlasenāsanaṁ khāyissati santuṭṭhassa viharato ratiyā aparitassāya phāsuvihārāya okkamanāya nibbānassa."
+    },
+    {
+      "id": "an8.30:11.1",
+      "pali": "Yato kho tvaṁ, anuruddha, ime ca aṭṭha mahāpurisavitakke vitakkessasi, imesañca catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī bhavissasi akicchalābhī akasiralābhī, tato tuyhaṁ, anuruddha, seyyathāpi nāma gahapatissa vā gahapatiputtassa vā pallaṅko gonakatthato paṭikatthato paṭalikatthato kadalimigapavarapaccattharaṇo sauttaracchado ubhatolohitakūpadhāno;"
+    },
+    {
+      "id": "an8.30:11.2",
+      "pali": "evamevaṁ te tiṇasanthārakasayanāsanaṁ khāyissati santuṭṭhassa viharato ratiyā aparitassāya phāsuvihārāya okkamanāya nibbānassa."
+    },
+    {
+      "id": "an8.30:12.1",
+      "pali": "Yato kho tvaṁ, anuruddha, ime ca aṭṭha mahāpurisavitakke vitakkessasi, imesañca catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī bhavissasi akicchalābhī akasiralābhī, tato tuyhaṁ, anuruddha, seyyathāpi nāma gahapatissa vā gahapatiputtassa vā nānābhesajjāni, seyyathidaṁ—sappi navanītaṁ telaṁ madhu phāṇitaṁ;"
+    },
+    {
+      "id": "an8.30:12.2",
+      "pali": "evamevaṁ te pūtimuttabhesajjaṁ khāyissati santuṭṭhassa viharato ratiyā aparitassāya phāsuvihārāya okkamanāya nibbānassa."
+    },
+    {
+      "id": "an8.30:12.3",
+      "pali": "Tena hi tvaṁ, anuruddha, āyatikampi vassāvāsaṁ idheva cetīsu pācīnavaṁsadāye vihareyyāsī”ti."
+    },
+    {
+      "id": "an8.30:12.4",
+      "pali": "“Evaṁ, bhante”ti kho āyasmā anuruddho bhagavato paccassosi."
+    },
+    {
+      "id": "an8.30:13.1",
+      "pali": "Atha kho bhagavā āyasmantaṁ anuruddhaṁ iminā ovādena ovaditvā—seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evamevaṁ—cetīsu pācīnavaṁsadāye antarahito bhaggesu susumāragire bhesakaḷāvane migadāye pāturahosīti."
+    },
+    {
+      "id": "an8.30:13.2",
+      "pali": "Nisīdi bhagavā paññatte āsane."
+    },
+    {
+      "id": "an8.30:13.3",
+      "pali": "Nisajja kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "an8.30:13.4",
+      "pali": "“aṭṭha kho, bhikkhave, mahāpurisavitakke desessāmi, taṁ suṇātha …pe…"
+    },
+    {
+      "id": "an8.30:13.5",
+      "pali": "katame ca, bhikkhave, aṭṭha mahāpurisavitakkā?"
+    },
+    {
+      "id": "an8.30:13.6",
+      "pali": "Appicchassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo mahicchassa;"
+    },
+    {
+      "id": "an8.30:13.7",
+      "pali": "santuṭṭhassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo asantuṭṭhassa;"
+    },
+    {
+      "id": "an8.30:13.8",
+      "pali": "pavivittassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo saṅgaṇikārāmassa;"
+    },
+    {
+      "id": "an8.30:13.9",
+      "pali": "āraddhavīriyassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo kusītassa;"
+    },
+    {
+      "id": "an8.30:13.10",
+      "pali": "upaṭṭhitassatissāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo muṭṭhassatissa;"
+    },
+    {
+      "id": "an8.30:13.11",
+      "pali": "samāhitassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo asamāhitassa;"
+    },
+    {
+      "id": "an8.30:13.12",
+      "pali": "paññavato ayaṁ, bhikkhave, dhammo, nāyaṁ dhammo duppaññassa;"
+    },
+    {
+      "id": "an8.30:13.13",
+      "pali": "nippapañcārāmassāyaṁ, bhikkhave, dhammo nippapañcaratino, nāyaṁ dhammo papañcārāmassa papañcaratino."
+    },
+    {
+      "id": "an8.30:14.1",
+      "pali": "‘Appicchassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo mahicchassā’ti,"
+    },
+    {
+      "id": "an8.30:14.2",
+      "pali": "iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ?"
+    },
+    {
+      "id": "an8.30:14.3",
+      "pali": "Idha, bhikkhave, bhikkhu appiccho samāno ‘appicchoti maṁ jāneyyun’ti na icchati, santuṭṭho samāno ‘santuṭṭhoti maṁ jāneyyun’ti na icchati, pavivitto samāno ‘pavivittoti maṁ jāneyyun’ti na icchati, āraddhavīriyo samāno ‘āraddhavīriyoti maṁ jāneyyun’ti na icchati, upaṭṭhitassati samāno ‘upaṭṭhitassatīti maṁ jāneyyun’ti na icchati, samāhito samāno ‘samāhitoti maṁ jāneyyun’ti na icchati, paññavā samāno ‘paññavāti maṁ jāneyyun’ti na icchati, nippapañcārāmo samāno ‘nippapañcārāmoti maṁ jāneyyun’ti na icchati."
+    },
+    {
+      "id": "an8.30:14.4",
+      "pali": "‘Appicchassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo mahicchassā’ti,"
+    },
+    {
+      "id": "an8.30:14.5",
+      "pali": "iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ."
+    },
+    {
+      "id": "an8.30:15.1",
+      "pali": "‘Santuṭṭhassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo asantuṭṭhassā’ti, iti kho panetaṁ vuttaṁ, kiñcetaṁ paṭicca vuttaṁ?"
+    },
+    {
+      "id": "an8.30:15.2",
+      "pali": "Idha, bhikkhave, bhikkhu santuṭṭho hoti itarītaracīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārena."
+    },
+    {
+      "id": "an8.30:15.3",
+      "pali": "‘Santuṭṭhassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo asantuṭṭhassā’ti,"
+    },
+    {
+      "id": "an8.30:15.4",
+      "pali": "iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ."
+    },
+    {
+      "id": "an8.30:16.1",
+      "pali": "‘Pavivittassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo saṅgaṇikārāmassā’ti, iti kho panetaṁ vuttaṁ, kiñcetaṁ paṭicca vuttaṁ?"
+    },
+    {
+      "id": "an8.30:16.2",
+      "pali": "Idha, bhikkhave, bhikkhuno pavivittassa viharato bhavanti upasaṅkamitāro bhikkhū bhikkhuniyo upāsakā upāsikāyo rājāno rājamahāmattā titthiyā titthiyasāvakā."
+    },
+    {
+      "id": "an8.30:16.3",
+      "pali": "Tatra bhikkhu vivekaninnena cittena vivekapoṇena vivekapabbhārena vivekaṭṭhena nekkhammābhiratena aññadatthu uyyojanikapaṭisaṁyuttaṁyeva kathaṁ kattā hoti."
+    },
+    {
+      "id": "an8.30:16.4",
+      "pali": "‘Pavivittassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo saṅgaṇikārāmassā’ti,"
+    },
+    {
+      "id": "an8.30:16.5",
+      "pali": "iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ."
+    },
+    {
+      "id": "an8.30:17.1",
+      "pali": "‘Āraddhavīriyassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo kusītassā’ti, iti kho panetaṁ vuttaṁ, kiñcetaṁ paṭicca vuttaṁ?"
+    },
+    {
+      "id": "an8.30:17.2",
+      "pali": "Idha, bhikkhave, bhikkhu āraddhavīriyo viharati akusalānaṁ dhammānaṁ pahānāya kusalānaṁ dhammānaṁ upasampadāya thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu."
+    },
+    {
+      "id": "an8.30:17.3",
+      "pali": "‘Āraddhavīriyassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo kusītassā’ti,"
+    },
+    {
+      "id": "an8.30:17.4",
+      "pali": "iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ."
+    },
+    {
+      "id": "an8.30:18.1",
+      "pali": "‘Upaṭṭhitassatissāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo muṭṭhassatissā’ti,"
+    },
+    {
+      "id": "an8.30:18.2",
+      "pali": "iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ?"
+    },
+    {
+      "id": "an8.30:18.3",
+      "pali": "Idha, bhikkhave, bhikkhu satimā hoti paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā."
+    },
+    {
+      "id": "an8.30:18.4",
+      "pali": "‘Upaṭṭhitassatissāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo, muṭṭhassatissā’ti,"
+    },
+    {
+      "id": "an8.30:18.5",
+      "pali": "iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ."
+    },
+    {
+      "id": "an8.30:19.1",
+      "pali": "‘Samāhitassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo asamāhitassā’ti,"
+    },
+    {
+      "id": "an8.30:19.2",
+      "pali": "iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ?"
+    },
+    {
+      "id": "an8.30:19.3",
+      "pali": "Idha, bhikkhave, bhikkhu vivicceva kāmehi …pe… catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "an8.30:19.4",
+      "pali": "‘Samāhitassāyaṁ, bhikkhave, dhammo, nāyaṁ dhammo asamāhitassā’ti,"
+    },
+    {
+      "id": "an8.30:19.5",
+      "pali": "iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ."
+    },
+    {
+      "id": "an8.30:20.1",
+      "pali": "‘Paññavato ayaṁ, bhikkhave, dhammo, nāyaṁ dhammo duppaññassā’ti,"
+    },
+    {
+      "id": "an8.30:20.2",
+      "pali": "iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ?"
+    },
+    {
+      "id": "an8.30:20.3",
+      "pali": "Idha, bhikkhave, bhikkhu paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā."
+    },
+    {
+      "id": "an8.30:20.4",
+      "pali": "‘Paññavato ayaṁ, bhikkhave, dhammo, nāyaṁ dhammo duppaññassā’ti,"
+    },
+    {
+      "id": "an8.30:20.5",
+      "pali": "iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ."
+    },
+    {
+      "id": "an8.30:21.1",
+      "pali": "‘Nippapañcārāmassāyaṁ, bhikkhave, dhammo nippapañcaratino, nāyaṁ dhammo papañcārāmassa papañcaratino’ti,"
+    },
+    {
+      "id": "an8.30:21.2",
+      "pali": "iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ?"
+    },
+    {
+      "id": "an8.30:21.3",
+      "pali": "Idha, bhikkhave, bhikkhuno papañcanirodhe cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati."
+    },
+    {
+      "id": "an8.30:21.4",
+      "pali": "‘Nippapañcārāmassāyaṁ, bhikkhave, dhammo, nippapañcaratino, nāyaṁ dhammo papañcārāmassa papañcaratino’ti,"
+    },
+    {
+      "id": "an8.30:21.5",
+      "pali": "iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttan”ti."
+    },
+    {
+      "id": "an8.30:22.1",
+      "pali": "Atha kho āyasmā anuruddho āyatikampi vassāvāsaṁ tattheva cetīsu pācīnavaṁsadāye vihāsi."
+    },
+    {
+      "id": "an8.30:22.2",
+      "pali": "Atha kho āyasmā anuruddho eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi."
+    },
+    {
+      "id": "an8.30:22.3",
+      "pali": "“Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi."
+    },
+    {
+      "id": "an8.30:22.4",
+      "pali": "Aññataro ca panāyasmā anuruddho arahataṁ ahosīti."
+    },
+    {
+      "id": "an8.30:22.5",
+      "pali": "Atha kho āyasmā anuruddho arahattappatto tāyaṁ velāyaṁ imā gāthāyo abhāsi:"
+    },
+    {
+      "id": "an8.30:23.1",
+      "pali": "“Mama saṅkappamaññāya,"
+    },
+    {
+      "id": "an8.30:23.2",
+      "pali": "satthā loke anuttaro;"
+    },
+    {
+      "id": "an8.30:23.3",
+      "pali": "Manomayena kāyena,"
+    },
+    {
+      "id": "an8.30:23.4",
+      "pali": "iddhiyā upasaṅkami."
+    },
+    {
+      "id": "an8.30:24.1",
+      "pali": "Yathā me ahu saṅkappo,"
+    },
+    {
+      "id": "an8.30:24.2",
+      "pali": "tato uttari desayi;"
+    },
+    {
+      "id": "an8.30:24.3",
+      "pali": "Nippapañcarato buddho,"
+    },
+    {
+      "id": "an8.30:24.4",
+      "pali": "nippapañcaṁ adesayi."
+    },
+    {
+      "id": "an8.30:25.1",
+      "pali": "Tassāhaṁ dhammamaññāya,"
+    },
+    {
+      "id": "an8.30:25.2",
+      "pali": "vihāsiṁ sāsane rato;"
+    },
+    {
+      "id": "an8.30:25.3",
+      "pali": "Tisso vijjā anuppattā,"
+    },
+    {
+      "id": "an8.30:25.4",
+      "pali": "kataṁ buddhassa sāsanan”ti."
+    },
+    {
+      "id": "an8.30:25.5",
+      "pali": "Dasamaṁ."
+    },
+    {
+      "id": "an8.30:25.6",
+      "pali": "Gahapativaggo tatiyo."
+    },
+    {
+      "id": "an8.30:26.1",
+      "pali": "Dve uggā dve ca hatthakā,"
+    },
+    {
+      "id": "an8.30:26.2",
+      "pali": "mahānāmena jīvako;"
+    },
+    {
+      "id": "an8.30:26.3",
+      "pali": "Dve balā akkhaṇā vuttā,"
+    },
+    {
+      "id": "an8.30:26.4",
+      "pali": "anuruddhena te dasāti."
+    }
+  ]
+}

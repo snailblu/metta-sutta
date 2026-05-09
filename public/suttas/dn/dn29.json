@@ -1,0 +1,1795 @@
+{
+  "uid": "dn29",
+  "title": "Pāsādikasutta",
+  "nikaya": "dn",
+  "segments": [
+    {
+      "id": "dn29:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "dn29:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sakkesu viharati vedhaññā nāma sakyā, tesaṁ ambavane pāsāde."
+    },
+    {
+      "id": "dn29:1.3",
+      "pali": "Tena kho pana samayena nigaṇṭho nāṭaputto pāvāyaṁ adhunākālaṅkato hoti."
+    },
+    {
+      "id": "dn29:1.4",
+      "pali": "Tassa kālaṅkiriyāya bhinnā nigaṇṭhā dvedhikajātā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṁ mukhasattīhi vitudantā viharanti:"
+    },
+    {
+      "id": "dn29:1.5",
+      "pali": "“na tvaṁ imaṁ dhammavinayaṁ ājānāsi, ahaṁ imaṁ dhammavinayaṁ ājānāmi, kiṁ tvaṁ imaṁ dhammavinayaṁ ājānissasi? Micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno. Sahitaṁ me, asahitaṁ te. Purevacanīyaṁ pacchā avaca, pacchāvacanīyaṁ pure avaca. Adhiciṇṇaṁ te viparāvattaṁ, āropito te vādo, niggahito tvamasi, cara vādappamokkhāya, nibbeṭhehi vā sace pahosī”ti."
+    },
+    {
+      "id": "dn29:1.6",
+      "pali": "Vadhoyeva kho maññe nigaṇṭhesu nāṭaputtiyesu vattati."
+    },
+    {
+      "id": "dn29:1.7",
+      "pali": "Yepi nigaṇṭhassa nāṭaputtassa sāvakā gihī odātavasanā, tepi nigaṇṭhesu nāṭaputtiyesu nibbinnarūpā virattarūpā paṭivānarūpā, yathā taṁ durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṁvattanike asammāsambuddhappavedite bhinnathūpe appaṭisaraṇe."
+    },
+    {
+      "id": "dn29:2.1",
+      "pali": "Atha kho cundo samaṇuddeso pāvāyaṁ vassaṁvuṭṭho yena sāmagāmo, yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṁ ānandaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho cundo samaṇuddeso āyasmantaṁ ānandaṁ etadavoca:"
+    },
+    {
+      "id": "dn29:2.2",
+      "pali": "“nigaṇṭho, bhante, nāṭaputto pāvāyaṁ adhunākālaṅkato."
+    },
+    {
+      "id": "dn29:2.3",
+      "pali": "Tassa kālaṅkiriyāya bhinnā nigaṇṭhā dvedhikajātā …pe… bhinnathūpe appaṭisaraṇe”ti."
+    },
+    {
+      "id": "dn29:2.4",
+      "pali": "Evaṁ vutte, āyasmā ānando cundaṁ samaṇuddesaṁ etadavoca:"
+    },
+    {
+      "id": "dn29:2.5",
+      "pali": "“atthi kho idaṁ, āvuso cunda, kathāpābhataṁ bhagavantaṁ dassanāya."
+    },
+    {
+      "id": "dn29:2.6",
+      "pali": "Āyāmāvuso cunda, yena bhagavā tenupasaṅkamissāma; upasaṅkamitvā etamatthaṁ bhagavato ārocessāmā”ti."
+    },
+    {
+      "id": "dn29:2.7",
+      "pali": "“Evaṁ, bhante”ti kho cundo samaṇuddeso āyasmato ānandassa paccassosi."
+    },
+    {
+      "id": "dn29:3.1",
+      "pali": "Atha kho āyasmā ca ānando cundo ca samaṇuddeso yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn29:3.2",
+      "pali": "“ayaṁ, bhante, cundo samaṇuddeso evamāha, ‘nigaṇṭho, bhante, nāṭaputto pāvāyaṁ adhunākālaṅkato,"
+    },
+    {
+      "id": "dn29:3.3",
+      "pali": "tassa kālaṅkiriyāya bhinnā nigaṇṭhā …pe… bhinnathūpe appaṭisaraṇe’”ti."
+    },
+    {
+      "id": "dn29:4.1",
+      "pali": "“Evaṁ hetaṁ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṁvattanike asammāsambuddhappavedite."
+    },
+    {
+      "id": "dn29:4.2",
+      "pali": "Idha, cunda, satthā ca hoti asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṁvattaniko asammāsambuddhappavedito,"
+    },
+    {
+      "id": "dn29:4.3",
+      "pali": "sāvako ca tasmiṁ dhamme na dhammānudhammappaṭipanno viharati na sāmīcippaṭipanno na anudhammacārī, vokkamma ca tamhā dhammā vattati."
+    },
+    {
+      "id": "dn29:4.4",
+      "pali": "So evamassa vacanīyo:"
+    },
+    {
+      "id": "dn29:4.5",
+      "pali": "‘tassa te, āvuso, lābhā, tassa te suladdhaṁ,"
+    },
+    {
+      "id": "dn29:4.6",
+      "pali": "satthā ca te asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṁvattaniko asammāsambuddhappavedito."
+    },
+    {
+      "id": "dn29:4.7",
+      "pali": "Tvañca tasmiṁ dhamme na dhammānudhammappaṭipanno viharasi, na sāmīcippaṭipanno, na anudhammacārī, vokkamma ca tamhā dhammā vattasī’ti."
+    },
+    {
+      "id": "dn29:4.8",
+      "pali": "Iti kho, cunda, satthāpi tattha gārayho, dhammopi tattha gārayho, sāvako ca tattha evaṁ pāsaṁso."
+    },
+    {
+      "id": "dn29:4.9",
+      "pali": "Yo kho, cunda, evarūpaṁ sāvakaṁ evaṁ vadeyya:"
+    },
+    {
+      "id": "dn29:4.10",
+      "pali": "‘etāyasmā tathā paṭipajjatu, yathā te satthārā dhammo desito paññatto’ti."
+    },
+    {
+      "id": "dn29:4.11",
+      "pali": "Yo ca samādapeti, yañca samādapeti, yo ca samādapito tathattāya paṭipajjati. Sabbe te bahuṁ apuññaṁ pasavanti."
+    },
+    {
+      "id": "dn29:4.12",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn29:4.13",
+      "pali": "Evaṁ hetaṁ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṁvattanike asammāsambuddhappavedite."
+    },
+    {
+      "id": "dn29:5.1",
+      "pali": "Idha pana, cunda, satthā ca hoti asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṁvattaniko asammāsambuddhappavedito,"
+    },
+    {
+      "id": "dn29:5.2",
+      "pali": "sāvako ca tasmiṁ dhamme dhammānudhammappaṭipanno viharati sāmīcippaṭipanno anudhammacārī, samādāya taṁ dhammaṁ vattati."
+    },
+    {
+      "id": "dn29:5.3",
+      "pali": "So evamassa vacanīyo:"
+    },
+    {
+      "id": "dn29:5.4",
+      "pali": "‘tassa te, āvuso, alābhā, tassa te dulladdhaṁ, satthā ca te asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṁvattaniko asammāsambuddhappavedito."
+    },
+    {
+      "id": "dn29:5.5",
+      "pali": "Tvañca tasmiṁ dhamme dhammānudhammappaṭipanno viharasi sāmīcippaṭipanno anudhammacārī, samādāya taṁ dhammaṁ vattasī’ti."
+    },
+    {
+      "id": "dn29:5.6",
+      "pali": "Iti kho, cunda, satthāpi tattha gārayho, dhammopi tattha gārayho, sāvakopi tattha evaṁ gārayho."
+    },
+    {
+      "id": "dn29:5.7",
+      "pali": "Yo kho, cunda, evarūpaṁ sāvakaṁ evaṁ vadeyya:"
+    },
+    {
+      "id": "dn29:5.8",
+      "pali": "‘addhāyasmā ñāyappaṭipanno ñāyamārādhessatī’ti."
+    },
+    {
+      "id": "dn29:5.9",
+      "pali": "Yo ca pasaṁsati, yañca pasaṁsati, yo ca pasaṁsito bhiyyoso mattāya vīriyaṁ ārabhati. Sabbe te bahuṁ apuññaṁ pasavanti."
+    },
+    {
+      "id": "dn29:5.10",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn29:5.11",
+      "pali": "Evañhetaṁ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṁvattanike asammāsambuddhappavedite."
+    },
+    {
+      "id": "dn29:6.1",
+      "pali": "Idha pana, cunda, satthā ca hoti sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṁvattaniko sammāsambuddhappavedito,"
+    },
+    {
+      "id": "dn29:6.2",
+      "pali": "sāvako ca tasmiṁ dhamme na dhammānudhammappaṭipanno viharati, na sāmīcippaṭipanno, na anudhammacārī, vokkamma ca tamhā dhammā vattati."
+    },
+    {
+      "id": "dn29:6.3",
+      "pali": "So evamassa vacanīyo:"
+    },
+    {
+      "id": "dn29:6.4",
+      "pali": "‘tassa te, āvuso, alābhā, tassa te dulladdhaṁ, satthā ca te sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṁvattaniko sammāsambuddhappavedito."
+    },
+    {
+      "id": "dn29:6.5",
+      "pali": "Tvañca tasmiṁ dhamme na dhammānudhammappaṭipanno viharasi, na sāmīcippaṭipanno, na anudhammacārī, vokkamma ca tamhā dhammā vattasī’ti."
+    },
+    {
+      "id": "dn29:6.6",
+      "pali": "Iti kho, cunda, satthāpi tattha pāsaṁso, dhammopi tattha pāsaṁso, sāvako ca tattha evaṁ gārayho."
+    },
+    {
+      "id": "dn29:6.7",
+      "pali": "Yo kho, cunda, evarūpaṁ sāvakaṁ evaṁ vadeyya:"
+    },
+    {
+      "id": "dn29:6.8",
+      "pali": "‘etāyasmā tathā paṭipajjatu yathā te satthārā dhammo desito paññatto’ti."
+    },
+    {
+      "id": "dn29:6.9",
+      "pali": "Yo ca samādapeti, yañca samādapeti, yo ca samādapito tathattāya paṭipajjati. Sabbe te bahuṁ puññaṁ pasavanti."
+    },
+    {
+      "id": "dn29:6.10",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn29:6.11",
+      "pali": "Evañhetaṁ, cunda, hoti svākkhāte dhammavinaye suppavedite niyyānike upasamasaṁvattanike sammāsambuddhappavedite."
+    },
+    {
+      "id": "dn29:7.1",
+      "pali": "Idha pana, cunda, satthā ca hoti sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṁvattaniko sammāsambuddhappavedito,"
+    },
+    {
+      "id": "dn29:7.2",
+      "pali": "sāvako ca tasmiṁ dhamme dhammānudhammappaṭipanno viharati sāmīcippaṭipanno anudhammacārī, samādāya taṁ dhammaṁ vattati."
+    },
+    {
+      "id": "dn29:7.3",
+      "pali": "So evamassa vacanīyo:"
+    },
+    {
+      "id": "dn29:7.4",
+      "pali": "‘tassa te, āvuso, lābhā, tassa te suladdhaṁ,"
+    },
+    {
+      "id": "dn29:7.5",
+      "pali": "satthā ca te sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṁvattaniko sammāsambuddhappavedito."
+    },
+    {
+      "id": "dn29:7.6",
+      "pali": "Tvañca tasmiṁ dhamme dhammānudhammappaṭipanno viharasi sāmīcippaṭipanno anudhammacārī, samādāya taṁ dhammaṁ vattasī’ti."
+    },
+    {
+      "id": "dn29:7.7",
+      "pali": "Iti kho, cunda, satthāpi tattha pāsaṁso, dhammopi tattha pāsaṁso, sāvakopi tattha evaṁ pāsaṁso."
+    },
+    {
+      "id": "dn29:7.8",
+      "pali": "Yo kho, cunda, evarūpaṁ sāvakaṁ evaṁ vadeyya:"
+    },
+    {
+      "id": "dn29:7.9",
+      "pali": "‘addhāyasmā ñāyappaṭipanno ñāyamārādhessatī’ti."
+    },
+    {
+      "id": "dn29:7.10",
+      "pali": "Yo ca pasaṁsati, yañca pasaṁsati, yo ca pasaṁsito bhiyyoso mattāya vīriyaṁ ārabhati. Sabbe te bahuṁ puññaṁ pasavanti."
+    },
+    {
+      "id": "dn29:7.11",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn29:7.12",
+      "pali": "Evañhetaṁ, cunda, hoti svākkhāte dhammavinaye suppavedite niyyānike upasamasaṁvattanike sammāsambuddhappavedite."
+    },
+    {
+      "id": "dn29:8.1",
+      "pali": "Idha pana, cunda, satthā ca loke udapādi arahaṁ sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṁvattaniko sammāsambuddhappavedito,"
+    },
+    {
+      "id": "dn29:8.2",
+      "pali": "aviññāpitatthā cassa honti sāvakā saddhamme, na ca tesaṁ kevalaṁ paripūraṁ brahmacariyaṁ āvikataṁ hoti uttānīkataṁ sabbasaṅgāhapadakataṁ sappāṭihīrakataṁ yāva devamanussehi suppakāsitaṁ."
+    },
+    {
+      "id": "dn29:8.3",
+      "pali": "Atha nesaṁ satthuno antaradhānaṁ hoti."
+    },
+    {
+      "id": "dn29:8.4",
+      "pali": "Evarūpo kho, cunda, satthā sāvakānaṁ kālaṅkato anutappo hoti."
+    },
+    {
+      "id": "dn29:8.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn29:8.6",
+      "pali": "‘Satthā ca no loke udapādi arahaṁ sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṁvattaniko sammāsambuddhappavedito, aviññāpitatthā camha saddhamme, na ca no kevalaṁ paripūraṁ brahmacariyaṁ āvikataṁ hoti uttānīkataṁ sabbasaṅgāhapadakataṁ sappāṭihīrakataṁ yāva devamanussehi suppakāsitaṁ."
+    },
+    {
+      "id": "dn29:8.7",
+      "pali": "Atha no satthuno antaradhānaṁ hotī’ti."
+    },
+    {
+      "id": "dn29:8.8",
+      "pali": "Evarūpo kho, cunda, satthā sāvakānaṁ kālaṅkato anutappo hoti."
+    },
+    {
+      "id": "dn29:9.1",
+      "pali": "Idha pana, cunda, satthā ca loke udapādi arahaṁ sammāsambuddho. Dhammo ca svākkhāto suppavedito niyyāniko upasamasaṁvattaniko sammāsambuddhappavedito."
+    },
+    {
+      "id": "dn29:9.2",
+      "pali": "Viññāpitatthā cassa honti sāvakā saddhamme, kevalañca tesaṁ paripūraṁ brahmacariyaṁ āvikataṁ hoti uttānīkataṁ sabbasaṅgāhapadakataṁ sappāṭihīrakataṁ yāva devamanussehi suppakāsitaṁ."
+    },
+    {
+      "id": "dn29:9.3",
+      "pali": "Atha nesaṁ satthuno antaradhānaṁ hoti."
+    },
+    {
+      "id": "dn29:9.4",
+      "pali": "Evarūpo kho, cunda, satthā sāvakānaṁ kālaṅkato ananutappo hoti."
+    },
+    {
+      "id": "dn29:9.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn29:9.6",
+      "pali": "‘Satthā ca no loke udapādi arahaṁ sammāsambuddho."
+    },
+    {
+      "id": "dn29:9.7",
+      "pali": "Dhammo ca svākkhāto suppavedito niyyāniko upasamasaṁvattaniko sammāsambuddhappavedito."
+    },
+    {
+      "id": "dn29:9.8",
+      "pali": "Viññāpitatthā camha saddhamme, kevalañca no paripūraṁ brahmacariyaṁ āvikataṁ hoti uttānīkataṁ sabbasaṅgāhapadakataṁ sappāṭihīrakataṁ yāva devamanussehi suppakāsitaṁ."
+    },
+    {
+      "id": "dn29:9.9",
+      "pali": "Atha no satthuno antaradhānaṁ hotī’ti."
+    },
+    {
+      "id": "dn29:9.10",
+      "pali": "Evarūpo kho, cunda, satthā sāvakānaṁ kālaṅkato ananutappo hoti."
+    },
+    {
+      "id": "dn29:10.1",
+      "pali": "Etehi cepi, cunda, aṅgehi samannāgataṁ brahmacariyaṁ hoti, no ca kho satthā hoti thero rattaññū cirapabbajito addhagato vayoanuppatto."
+    },
+    {
+      "id": "dn29:10.2",
+      "pali": "Evaṁ taṁ brahmacariyaṁ aparipūraṁ hoti tenaṅgena."
+    },
+    {
+      "id": "dn29:10.3",
+      "pali": "Yato ca kho, cunda, etehi ceva aṅgehi samannāgataṁ brahmacariyaṁ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto."
+    },
+    {
+      "id": "dn29:10.4",
+      "pali": "Evaṁ taṁ brahmacariyaṁ paripūraṁ hoti tenaṅgena."
+    },
+    {
+      "id": "dn29:11.1",
+      "pali": "Etehi cepi, cunda, aṅgehi samannāgataṁ brahmacariyaṁ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, no ca khvassa therā bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā."
+    },
+    {
+      "id": "dn29:11.2",
+      "pali": "Alaṁ samakkhātuṁ saddhammassa, alaṁ uppannaṁ parappavādaṁ sahadhammehi suniggahitaṁ niggahetvā sappāṭihāriyaṁ dhammaṁ desetuṁ."
+    },
+    {
+      "id": "dn29:11.3",
+      "pali": "Evaṁ taṁ brahmacariyaṁ aparipūraṁ hoti tenaṅgena."
+    },
+    {
+      "id": "dn29:12.1",
+      "pali": "Yato ca kho, cunda, etehi ceva aṅgehi samannāgataṁ brahmacariyaṁ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, therā cassa bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā."
+    },
+    {
+      "id": "dn29:12.2",
+      "pali": "Alaṁ samakkhātuṁ saddhammassa, alaṁ uppannaṁ parappavādaṁ sahadhammehi suniggahitaṁ niggahetvā sappāṭihāriyaṁ dhammaṁ desetuṁ."
+    },
+    {
+      "id": "dn29:12.3",
+      "pali": "Evaṁ taṁ brahmacariyaṁ paripūraṁ hoti tenaṅgena."
+    },
+    {
+      "id": "dn29:12.4",
+      "pali": "Etehi cepi, cunda, aṅgehi samannāgataṁ brahmacariyaṁ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, therā cassa bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā."
+    },
+    {
+      "id": "dn29:12.5",
+      "pali": "Alaṁ samakkhātuṁ saddhammassa, alaṁ uppannaṁ parappavādaṁ sahadhammehi suniggahitaṁ niggahetvā sappāṭihāriyaṁ dhammaṁ desetuṁ."
+    },
+    {
+      "id": "dn29:12.6",
+      "pali": "No ca khvassa majjhimā bhikkhū sāvakā honti …pe…"
+    },
+    {
+      "id": "dn29:12.7",
+      "pali": "majjhimā cassa bhikkhū sāvakā honti, no ca khvassa navā bhikkhū sāvakā honti …pe…"
+    },
+    {
+      "id": "dn29:12.8",
+      "pali": "navā cassa bhikkhū sāvakā honti, no ca khvassa therā bhikkhuniyo sāvikā honti …pe…"
+    },
+    {
+      "id": "dn29:12.9",
+      "pali": "therā cassa bhikkhuniyo sāvikā honti, no ca khvassa majjhimā bhikkhuniyo sāvikā honti …pe…"
+    },
+    {
+      "id": "dn29:12.10",
+      "pali": "majjhimā cassa bhikkhuniyo sāvikā honti, no ca khvassa navā bhikkhuniyo sāvikā honti …pe…"
+    },
+    {
+      "id": "dn29:12.11",
+      "pali": "navā cassa bhikkhuniyo sāvikā honti, no ca khvassa upāsakā sāvakā honti gihī odātavasanā brahmacārino …pe…"
+    },
+    {
+      "id": "dn29:12.12",
+      "pali": "upāsakā cassa sāvakā honti gihī odātavasanā brahmacārino, no ca khvassa upāsakā sāvakā honti gihī odātavasanā kāmabhogino …pe…"
+    },
+    {
+      "id": "dn29:12.13",
+      "pali": "upāsakā cassa sāvakā honti gihī odātavasanā kāmabhogino, no ca khvassa upāsikā sāvikā honti gihiniyo odātavasanā brahmacāriniyo …pe…"
+    },
+    {
+      "id": "dn29:12.14",
+      "pali": "upāsikā cassa sāvikā honti gihiniyo odātavasanā brahmacāriniyo, no ca khvassa upāsikā sāvikā honti gihiniyo odātavasanā kāmabhoginiyo …pe…"
+    },
+    {
+      "id": "dn29:12.15",
+      "pali": "upāsikā cassa sāvikā honti gihiniyo odātavasanā kāmabhoginiyo, no ca khvassa brahmacariyaṁ hoti iddhañceva phītañca vitthārikaṁ bāhujaññaṁ puthubhūtaṁ yāva devamanussehi suppakāsitaṁ …pe…"
+    },
+    {
+      "id": "dn29:12.16",
+      "pali": "brahmacariyañcassa hoti iddhañceva phītañca vitthārikaṁ bāhujaññaṁ puthubhūtaṁ yāva devamanussehi suppakāsitaṁ, no ca kho lābhaggayasaggappattaṁ."
+    },
+    {
+      "id": "dn29:12.17",
+      "pali": "Evaṁ taṁ brahmacariyaṁ aparipūraṁ hoti tenaṅgena."
+    },
+    {
+      "id": "dn29:13.1",
+      "pali": "Yato ca kho, cunda, etehi ceva aṅgehi samannāgataṁ brahmacariyaṁ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, therā cassa bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā."
+    },
+    {
+      "id": "dn29:13.2",
+      "pali": "Alaṁ samakkhātuṁ saddhammassa, alaṁ uppannaṁ parappavādaṁ sahadhammehi suniggahitaṁ niggahetvā sappāṭihāriyaṁ dhammaṁ desetuṁ."
+    },
+    {
+      "id": "dn29:13.3",
+      "pali": "Majjhimā cassa bhikkhū sāvakā honti …"
+    },
+    {
+      "id": "dn29:13.4",
+      "pali": "navā cassa bhikkhū sāvakā honti …"
+    },
+    {
+      "id": "dn29:13.5",
+      "pali": "therā cassa bhikkhuniyo sāvikā honti …"
+    },
+    {
+      "id": "dn29:13.6",
+      "pali": "majjhimā cassa bhikkhuniyo sāvikā honti …"
+    },
+    {
+      "id": "dn29:13.7",
+      "pali": "navā cassa bhikkhuniyo sāvikā honti …"
+    },
+    {
+      "id": "dn29:13.8",
+      "pali": "upāsakā cassa sāvakā honti … gihī odātavasanā brahmacārino."
+    },
+    {
+      "id": "dn29:13.9",
+      "pali": "Upāsakā cassa sāvakā honti gihī odātavasanā kāmabhogino …"
+    },
+    {
+      "id": "dn29:13.10",
+      "pali": "upāsikā cassa sāvikā honti gihiniyo odātavasanā brahmacāriniyo …"
+    },
+    {
+      "id": "dn29:13.11",
+      "pali": "upāsikā cassa sāvikā honti gihiniyo odātavasanā kāmabhoginiyo …"
+    },
+    {
+      "id": "dn29:13.12",
+      "pali": "brahmacariyañcassa hoti iddhañceva phītañca vitthārikaṁ bāhujaññaṁ puthubhūtaṁ yāva devamanussehi suppakāsitaṁ, lābhaggappattañca yasaggappattañca."
+    },
+    {
+      "id": "dn29:13.13",
+      "pali": "Evaṁ taṁ brahmacariyaṁ paripūraṁ hoti tenaṅgena."
+    },
+    {
+      "id": "dn29:14.1",
+      "pali": "Ahaṁ kho pana, cunda, etarahi satthā loke uppanno arahaṁ sammāsambuddho."
+    },
+    {
+      "id": "dn29:14.2",
+      "pali": "Dhammo ca svākkhāto suppavedito niyyāniko upasamasaṁvattaniko sammāsambuddhappavedito."
+    },
+    {
+      "id": "dn29:14.3",
+      "pali": "Viññāpitatthā ca me sāvakā saddhamme, kevalañca tesaṁ paripūraṁ brahmacariyaṁ āvikataṁ uttānīkataṁ sabbasaṅgāhapadakataṁ sappāṭihīrakataṁ yāva devamanussehi suppakāsitaṁ."
+    },
+    {
+      "id": "dn29:14.4",
+      "pali": "Ahaṁ kho pana, cunda, etarahi satthā thero rattaññū cirapabbajito addhagato vayoanuppatto."
+    },
+    {
+      "id": "dn29:15.1",
+      "pali": "Santi kho pana me, cunda, etarahi therā bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā."
+    },
+    {
+      "id": "dn29:15.2",
+      "pali": "Alaṁ samakkhātuṁ saddhammassa, alaṁ uppannaṁ parappavādaṁ sahadhammehi suniggahitaṁ niggahetvā sappāṭihāriyaṁ dhammaṁ desetuṁ."
+    },
+    {
+      "id": "dn29:15.3",
+      "pali": "Santi kho pana me, cunda, etarahi majjhimā bhikkhū sāvakā …"
+    },
+    {
+      "id": "dn29:15.4",
+      "pali": "santi kho pana me, cunda, etarahi navā bhikkhū sāvakā …"
+    },
+    {
+      "id": "dn29:15.5",
+      "pali": "santi kho pana me, cunda, etarahi therā bhikkhuniyo sāvikā …"
+    },
+    {
+      "id": "dn29:15.6",
+      "pali": "santi kho pana me, cunda, etarahi majjhimā bhikkhuniyo sāvikā …"
+    },
+    {
+      "id": "dn29:15.7",
+      "pali": "santi kho pana me, cunda, etarahi navā bhikkhuniyo sāvikā …"
+    },
+    {
+      "id": "dn29:15.8",
+      "pali": "santi kho pana me, cunda, etarahi upāsakā sāvakā gihī odātavasanā brahmacārino …"
+    },
+    {
+      "id": "dn29:15.9",
+      "pali": "santi kho pana me, cunda, etarahi upāsakā sāvakā gihī odātavasanā kāmabhogino …"
+    },
+    {
+      "id": "dn29:15.10",
+      "pali": "santi kho pana me, cunda, etarahi upāsikā sāvikā gihiniyo odātavasanā brahmacāriniyo …"
+    },
+    {
+      "id": "dn29:15.11",
+      "pali": "santi kho pana me, cunda, etarahi upāsikā sāvikā gihiniyo odātavasanā kāmabhoginiyo …"
+    },
+    {
+      "id": "dn29:15.12",
+      "pali": "etarahi kho pana me, cunda, brahmacariyaṁ iddhañceva phītañca vitthārikaṁ bāhujaññaṁ puthubhūtaṁ yāva devamanussehi suppakāsitaṁ."
+    },
+    {
+      "id": "dn29:16.1",
+      "pali": "Yāvatā kho, cunda, etarahi satthāro loke uppannā, nāhaṁ, cunda, aññaṁ ekasatthārampi samanupassāmi evaṁlābhaggayasaggappattaṁ yatharivāhaṁ."
+    },
+    {
+      "id": "dn29:16.2",
+      "pali": "Yāvatā kho pana, cunda, etarahi saṅgho vā gaṇo vā loke uppanno;"
+    },
+    {
+      "id": "dn29:16.3",
+      "pali": "nāhaṁ, cunda, aññaṁ ekasaṅghampi samanupassāmi evaṁlābhaggayasaggappattaṁ yatharivāyaṁ, cunda, bhikkhusaṅgho."
+    },
+    {
+      "id": "dn29:16.4",
+      "pali": "Yaṁ kho taṁ, cunda, sammā vadamāno vadeyya:"
+    },
+    {
+      "id": "dn29:16.5",
+      "pali": "‘sabbākārasampannaṁ sabbākāraparipūraṁ anūnamanadhikaṁ svākkhātaṁ kevalaṁ paripūraṁ brahmacariyaṁ suppakāsitan’ti."
+    },
+    {
+      "id": "dn29:16.6",
+      "pali": "Idameva taṁ sammā vadamāno vadeyya:"
+    },
+    {
+      "id": "dn29:16.7",
+      "pali": "‘sabbākārasampannaṁ …pe… suppakāsitan’ti."
+    },
+    {
+      "id": "dn29:16.8",
+      "pali": "Udako sudaṁ, cunda, rāmaputto evaṁ vācaṁ bhāsati:"
+    },
+    {
+      "id": "dn29:16.9",
+      "pali": "‘passaṁ na passatī’ti."
+    },
+    {
+      "id": "dn29:16.10",
+      "pali": "Kiñca passaṁ na passatīti?"
+    },
+    {
+      "id": "dn29:16.11",
+      "pali": "Khurassa sādhunisitassa talamassa passati, dhārañca khvassa na passati."
+    },
+    {
+      "id": "dn29:16.12",
+      "pali": "Idaṁ vuccati:"
+    },
+    {
+      "id": "dn29:16.13",
+      "pali": "‘passaṁ na passatī’ti."
+    },
+    {
+      "id": "dn29:16.14",
+      "pali": "Yaṁ kho panetaṁ, cunda, udakena rāmaputtena bhāsitaṁ hīnaṁ gammaṁ pothujjanikaṁ anariyaṁ anatthasaṁhitaṁ khurameva sandhāya."
+    },
+    {
+      "id": "dn29:16.15",
+      "pali": "Yañca taṁ, cunda, sammā vadamāno vadeyya:"
+    },
+    {
+      "id": "dn29:16.16",
+      "pali": "‘passaṁ na passatī’ti, idameva taṁ sammā vadamāno vadeyya:"
+    },
+    {
+      "id": "dn29:16.17",
+      "pali": "‘passaṁ na passatī’ti."
+    },
+    {
+      "id": "dn29:16.18",
+      "pali": "Kiñca passaṁ na passatīti?"
+    },
+    {
+      "id": "dn29:16.19",
+      "pali": "Evaṁ sabbākārasampannaṁ sabbākāraparipūraṁ anūnamanadhikaṁ svākkhātaṁ kevalaṁ paripūraṁ brahmacariyaṁ suppakāsitanti, iti hetaṁ passati."
+    },
+    {
+      "id": "dn29:16.20",
+      "pali": "Idamettha apakaḍḍheyya, evaṁ taṁ parisuddhataraṁ assāti, iti hetaṁ na passati."
+    },
+    {
+      "id": "dn29:16.21",
+      "pali": "Idamettha upakaḍḍheyya, evaṁ taṁ paripūraṁ assāti, iti hetaṁ na passati."
+    },
+    {
+      "id": "dn29:16.22",
+      "pali": "Idaṁ vuccati, cunda:"
+    },
+    {
+      "id": "dn29:16.23",
+      "pali": "‘passaṁ na passatī’ti."
+    },
+    {
+      "id": "dn29:16.24",
+      "pali": "Yaṁ kho taṁ, cunda, sammā vadamāno vadeyya:"
+    },
+    {
+      "id": "dn29:16.25",
+      "pali": "‘sabbākārasampannaṁ …pe…"
+    },
+    {
+      "id": "dn29:16.26",
+      "pali": "brahmacariyaṁ suppakāsitan’ti."
+    },
+    {
+      "id": "dn29:16.27",
+      "pali": "Idameva taṁ sammā vadamāno vadeyya:"
+    },
+    {
+      "id": "dn29:16.28",
+      "pali": "‘sabbākārasampannaṁ sabbākāraparipūraṁ anūnamanadhikaṁ svākkhātaṁ kevalaṁ paripūraṁ brahmacariyaṁ suppakāsitan’ti."
+    },
+    {
+      "id": "dn29:17.1",
+      "pali": "Tasmātiha, cunda, ye vo mayā dhammā abhiññā desitā, tattha sabbeheva saṅgamma samāgamma atthena atthaṁ byañjanena byañjanaṁ saṅgāyitabbaṁ na vivaditabbaṁ, yathayidaṁ brahmacariyaṁ addhaniyaṁ assa ciraṭṭhitikaṁ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṁ."
+    },
+    {
+      "id": "dn29:17.2",
+      "pali": "Katame ca te, cunda, dhammā mayā abhiññā desitā, yattha sabbeheva saṅgamma samāgamma atthena atthaṁ byañjanena byañjanaṁ saṅgāyitabbaṁ na vivaditabbaṁ, yathayidaṁ brahmacariyaṁ addhaniyaṁ assa ciraṭṭhitikaṁ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṁ?"
+    },
+    {
+      "id": "dn29:17.3",
+      "pali": "Seyyathidaṁ—cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā, pañcindriyāni, pañca balāni, satta bojjhaṅgā, ariyo aṭṭhaṅgiko maggo."
+    },
+    {
+      "id": "dn29:17.4",
+      "pali": "Ime kho te, cunda, dhammā mayā abhiññā desitā."
+    },
+    {
+      "id": "dn29:17.5",
+      "pali": "Yattha sabbeheva saṅgamma samāgamma atthena atthaṁ byañjanena byañjanaṁ saṅgāyitabbaṁ na vivaditabbaṁ, yathayidaṁ brahmacariyaṁ addhaniyaṁ assa ciraṭṭhitikaṁ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṁ."
+    },
+    {
+      "id": "dn29:18.1",
+      "pali": "Tesañca vo, cunda, samaggānaṁ sammodamānānaṁ avivadamānānaṁ sikkhataṁ aññataro sabrahmacārī saṅghe dhammaṁ bhāseyya."
+    },
+    {
+      "id": "dn29:18.2",
+      "pali": "Tatra ce tumhākaṁ evamassa:"
+    },
+    {
+      "id": "dn29:18.3",
+      "pali": "‘ayaṁ kho āyasmā atthañceva micchā gaṇhāti, byañjanāni ca micchā ropetī’ti."
+    },
+    {
+      "id": "dn29:18.4",
+      "pali": "Tassa neva abhinanditabbaṁ na paṭikkositabbaṁ, anabhinanditvā appaṭikkositvā so evamassa vacanīyo:"
+    },
+    {
+      "id": "dn29:18.5",
+      "pali": "‘imassa nu kho, āvuso, atthassa imāni vā byañjanāni etāni vā byañjanāni katamāni opāyikatarāni, imesañca byañjanānaṁ ayaṁ vā attho eso vā attho katamo opāyikataro’ti?"
+    },
+    {
+      "id": "dn29:18.6",
+      "pali": "So ce evaṁ vadeyya:"
+    },
+    {
+      "id": "dn29:18.7",
+      "pali": "‘imassa kho, āvuso, atthassa imāneva byañjanāni opāyikatarāni, yā ceva etāni; imesañca byañjanānaṁ ayameva attho opāyikataro, yā ceva eso’ti."
+    },
+    {
+      "id": "dn29:18.8",
+      "pali": "So neva ussādetabbo na apasādetabbo, anussādetvā anapasādetvā sveva sādhukaṁ saññāpetabbo tassa ca atthassa tesañca byañjanānaṁ nisantiyā."
+    },
+    {
+      "id": "dn29:19.1",
+      "pali": "Aparopi ce, cunda, sabrahmacārī saṅghe dhammaṁ bhāseyya."
+    },
+    {
+      "id": "dn29:19.2",
+      "pali": "Tatra ce tumhākaṁ evamassa:"
+    },
+    {
+      "id": "dn29:19.3",
+      "pali": "‘ayaṁ kho āyasmā atthañhi kho micchā gaṇhāti byañjanāni sammā ropetī’ti."
+    },
+    {
+      "id": "dn29:19.4",
+      "pali": "Tassa neva abhinanditabbaṁ na paṭikkositabbaṁ, anabhinanditvā appaṭikkositvā so evamassa vacanīyo:"
+    },
+    {
+      "id": "dn29:19.5",
+      "pali": "‘imesaṁ nu kho, āvuso, byañjanānaṁ ayaṁ vā attho eso vā attho katamo opāyikataro’ti?"
+    },
+    {
+      "id": "dn29:19.6",
+      "pali": "So ce evaṁ vadeyya:"
+    },
+    {
+      "id": "dn29:19.7",
+      "pali": "‘imesaṁ kho, āvuso, byañjanānaṁ ayameva attho opāyikataro, yā ceva eso’ti."
+    },
+    {
+      "id": "dn29:19.8",
+      "pali": "So neva ussādetabbo na apasādetabbo, anussādetvā anapasādetvā sveva sādhukaṁ saññāpetabbo tasseva atthassa nisantiyā."
+    },
+    {
+      "id": "dn29:20.1",
+      "pali": "Aparopi ce, cunda, sabrahmacārī saṅghe dhammaṁ bhāseyya."
+    },
+    {
+      "id": "dn29:20.2",
+      "pali": "Tatra ce tumhākaṁ evamassa:"
+    },
+    {
+      "id": "dn29:20.3",
+      "pali": "‘ayaṁ kho āyasmā atthañhi kho sammā gaṇhāti byañjanāni micchā ropetī’ti."
+    },
+    {
+      "id": "dn29:20.4",
+      "pali": "Tassa neva abhinanditabbaṁ na paṭikkositabbaṁ; anabhinanditvā appaṭikkositvā so evamassa vacanīyo:"
+    },
+    {
+      "id": "dn29:20.5",
+      "pali": "‘imassa nu kho, āvuso, atthassa imāni vā byañjanāni etāni vā byañjanāni katamāni opāyikatarānī’ti?"
+    },
+    {
+      "id": "dn29:20.6",
+      "pali": "So ce evaṁ vadeyya:"
+    },
+    {
+      "id": "dn29:20.7",
+      "pali": "‘imassa kho, āvuso, atthassa imāneva byañjanāni opayikatarāni, yā ceva etānī’ti."
+    },
+    {
+      "id": "dn29:20.8",
+      "pali": "So neva ussādetabbo na apasādetabbo; anussādetvā anapasādetvā sveva sādhukaṁ saññāpetabbo tesaññeva byañjanānaṁ nisantiyā."
+    },
+    {
+      "id": "dn29:21.1",
+      "pali": "Aparopi ce, cunda, sabrahmacārī saṅghe dhammaṁ bhāseyya."
+    },
+    {
+      "id": "dn29:21.2",
+      "pali": "Tatra ce tumhākaṁ evamassa:"
+    },
+    {
+      "id": "dn29:21.3",
+      "pali": "‘ayaṁ kho āyasmā atthañceva sammā gaṇhāti byañjanāni ca sammā ropetī’ti."
+    },
+    {
+      "id": "dn29:21.4",
+      "pali": "Tassa ‘sādhū’ti bhāsitaṁ abhinanditabbaṁ anumoditabbaṁ;"
+    },
+    {
+      "id": "dn29:21.5",
+      "pali": "tassa ‘sādhū’ti bhāsitaṁ abhinanditvā anumoditvā so evamassa vacanīyo:"
+    },
+    {
+      "id": "dn29:21.6",
+      "pali": "‘lābhā no, āvuso, suladdhaṁ no, āvuso,"
+    },
+    {
+      "id": "dn29:21.7",
+      "pali": "ye mayaṁ āyasmantaṁ tādisaṁ sabrahmacāriṁ passāma evaṁ atthupetaṁ byañjanupetan’ti."
+    },
+    {
+      "id": "dn29:22.1",
+      "pali": "Na vo ahaṁ, cunda, diṭṭhadhammikānaṁyeva āsavānaṁ saṁvarāya dhammaṁ desemi."
+    },
+    {
+      "id": "dn29:22.2",
+      "pali": "Na panāhaṁ, cunda, samparāyikānaṁyeva āsavānaṁ paṭighātāya dhammaṁ desemi."
+    },
+    {
+      "id": "dn29:22.3",
+      "pali": "Diṭṭhadhammikānaṁ cevāhaṁ, cunda, āsavānaṁ saṁvarāya dhammaṁ desemi;"
+    },
+    {
+      "id": "dn29:22.4",
+      "pali": "samparāyikānañca āsavānaṁ paṭighātāya."
+    },
+    {
+      "id": "dn29:22.5",
+      "pali": "Tasmātiha, cunda, yaṁ vo mayā cīvaraṁ anuññātaṁ, alaṁ vo taṁ"
+    },
+    {
+      "id": "dn29:22.6",
+      "pali": "yāvadeva sītassa paṭighātāya, uṇhassa paṭighātāya, ḍaṁsamakasavātātapasarīsapasamphassānaṁ paṭighātāya, yāvadeva hirikopīnapaṭicchādanatthaṁ."
+    },
+    {
+      "id": "dn29:22.7",
+      "pali": "Yo vo mayā piṇḍapāto anuññāto, alaṁ vo so"
+    },
+    {
+      "id": "dn29:22.8",
+      "pali": "yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṁsūparatiyā brahmacariyānuggahāya, iti purāṇañca vedanaṁ paṭihaṅkhāmi, navañca vedanaṁ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro ca."
+    },
+    {
+      "id": "dn29:22.9",
+      "pali": "Yaṁ vo mayā senāsanaṁ anuññātaṁ, alaṁ vo taṁ"
+    },
+    {
+      "id": "dn29:22.10",
+      "pali": "yāvadeva sītassa paṭighātāya, uṇhassa paṭighātāya, ḍaṁsamakasavātātapasarīsapasamphassānaṁ paṭighātāya, yāvadeva utuparissayavinodanapaṭisallānārāmatthaṁ."
+    },
+    {
+      "id": "dn29:22.11",
+      "pali": "Yo vo mayā gilānapaccayabhesajjaparikkhāro anuññāto, alaṁ vo so"
+    },
+    {
+      "id": "dn29:22.12",
+      "pali": "yāvadeva uppannānaṁ veyyābādhikānaṁ vedanānaṁ paṭighātāya abyāpajjaparamatāya."
+    },
+    {
+      "id": "dn29:23.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn29:23.2",
+      "pali": "‘sukhallikānuyogamanuyuttā samaṇā sakyaputtiyā viharantī’ti."
+    },
+    {
+      "id": "dn29:23.3",
+      "pali": "Evaṁvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
+    },
+    {
+      "id": "dn29:23.4",
+      "pali": "‘katamo so, āvuso, sukhallikānuyogo?"
+    },
+    {
+      "id": "dn29:23.5",
+      "pali": "Sukhallikānuyogā hi bahū anekavihitā nānappakārakā’ti."
+    },
+    {
+      "id": "dn29:23.6",
+      "pali": "Cattārome, cunda, sukhallikānuyogā hīnā gammā pothujjanikā anariyā anatthasaṁhitā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattanti."
+    },
+    {
+      "id": "dn29:23.7",
+      "pali": "Katame cattāro?"
+    },
+    {
+      "id": "dn29:23.8",
+      "pali": "Idha, cunda, ekacco bālo pāṇe vadhitvā vadhitvā attānaṁ sukheti pīṇeti."
+    },
+    {
+      "id": "dn29:23.9",
+      "pali": "Ayaṁ paṭhamo sukhallikānuyogo."
+    },
+    {
+      "id": "dn29:23.10",
+      "pali": "Puna caparaṁ, cunda, idhekacco adinnaṁ ādiyitvā ādiyitvā attānaṁ sukheti pīṇeti."
+    },
+    {
+      "id": "dn29:23.11",
+      "pali": "Ayaṁ dutiyo sukhallikānuyogo."
+    },
+    {
+      "id": "dn29:23.12",
+      "pali": "Puna caparaṁ, cunda, idhekacco musā bhaṇitvā bhaṇitvā attānaṁ sukheti pīṇeti."
+    },
+    {
+      "id": "dn29:23.13",
+      "pali": "Ayaṁ tatiyo sukhallikānuyogo."
+    },
+    {
+      "id": "dn29:23.14",
+      "pali": "Puna caparaṁ, cunda, idhekacco pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti."
+    },
+    {
+      "id": "dn29:23.15",
+      "pali": "Ayaṁ catuttho sukhallikānuyogo."
+    },
+    {
+      "id": "dn29:23.16",
+      "pali": "Ime kho, cunda, cattāro sukhallikānuyogā hīnā gammā pothujjanikā anariyā anatthasaṁhitā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattanti."
+    },
+    {
+      "id": "dn29:24.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn29:24.2",
+      "pali": "‘ime cattāro sukhallikānuyoge anuyuttā samaṇā sakyaputtiyā viharantī’ti."
+    },
+    {
+      "id": "dn29:24.3",
+      "pali": "Te vo ‘mā hevaṁ’ tissu vacanīyā."
+    },
+    {
+      "id": "dn29:24.4",
+      "pali": "Na te vo sammā vadamānā vadeyyuṁ, abbhācikkheyyuṁ asatā abhūtena."
+    },
+    {
+      "id": "dn29:24.5",
+      "pali": "Cattārome, cunda, sukhallikānuyogā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattanti."
+    },
+    {
+      "id": "dn29:24.6",
+      "pali": "Katame cattāro?"
+    },
+    {
+      "id": "dn29:24.7",
+      "pali": "Idha, cunda, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn29:24.8",
+      "pali": "Ayaṁ paṭhamo sukhallikānuyogo."
+    },
+    {
+      "id": "dn29:24.9",
+      "pali": "Puna caparaṁ, cunda, bhikkhu vitakkavicārānaṁ vūpasamā …pe… dutiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn29:24.10",
+      "pali": "Ayaṁ dutiyo sukhallikānuyogo."
+    },
+    {
+      "id": "dn29:24.11",
+      "pali": "Puna caparaṁ, cunda, bhikkhu pītiyā ca virāgā …pe… tatiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn29:24.12",
+      "pali": "Ayaṁ tatiyo sukhallikānuyogo."
+    },
+    {
+      "id": "dn29:24.13",
+      "pali": "Puna caparaṁ, cunda, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā …pe… catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "dn29:24.14",
+      "pali": "Ayaṁ catuttho sukhallikānuyogo."
+    },
+    {
+      "id": "dn29:24.15",
+      "pali": "Ime kho, cunda, cattāro sukhallikānuyogā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattanti."
+    },
+    {
+      "id": "dn29:24.16",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn29:24.17",
+      "pali": "‘ime cattāro sukhallikānuyoge anuyuttā samaṇā sakyaputtiyā viharantī’ti."
+    },
+    {
+      "id": "dn29:24.18",
+      "pali": "Te vo ‘evaṁ’ tissu vacanīyā."
+    },
+    {
+      "id": "dn29:24.19",
+      "pali": "Sammā te vo vadamānā vadeyyuṁ, na te vo abbhācikkheyyuṁ asatā abhūtena."
+    },
+    {
+      "id": "dn29:25.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati, yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn29:25.2",
+      "pali": "‘ime panāvuso, cattāro sukhallikānuyoge anuyuttānaṁ viharataṁ kati phalāni katānisaṁsā pāṭikaṅkhā’ti?"
+    },
+    {
+      "id": "dn29:25.3",
+      "pali": "Evaṁvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
+    },
+    {
+      "id": "dn29:25.4",
+      "pali": "‘ime kho, āvuso, cattāro sukhallikānuyoge anuyuttānaṁ viharataṁ cattāri phalāni cattāro ānisaṁsā pāṭikaṅkhā."
+    },
+    {
+      "id": "dn29:25.5",
+      "pali": "Katame cattāro?"
+    },
+    {
+      "id": "dn29:25.6",
+      "pali": "Idhāvuso, bhikkhu tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo."
+    },
+    {
+      "id": "dn29:25.7",
+      "pali": "Idaṁ paṭhamaṁ phalaṁ, paṭhamo ānisaṁso."
+    },
+    {
+      "id": "dn29:25.8",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāmī hoti, sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karoti."
+    },
+    {
+      "id": "dn29:25.9",
+      "pali": "Idaṁ dutiyaṁ phalaṁ, dutiyo ānisaṁso."
+    },
+    {
+      "id": "dn29:25.10",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātiko hoti, tattha parinibbāyī anāvattidhammo tasmā lokā."
+    },
+    {
+      "id": "dn29:25.11",
+      "pali": "Idaṁ tatiyaṁ phalaṁ, tatiyo ānisaṁso."
+    },
+    {
+      "id": "dn29:25.12",
+      "pali": "Puna caparaṁ, āvuso, bhikkhu āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati."
+    },
+    {
+      "id": "dn29:25.13",
+      "pali": "Idaṁ catutthaṁ phalaṁ catuttho ānisaṁso."
+    },
+    {
+      "id": "dn29:25.14",
+      "pali": "Ime kho, āvuso, cattāro sukhallikānuyoge anuyuttānaṁ viharataṁ imāni cattāri phalāni, cattāro ānisaṁsā pāṭikaṅkhā’ti."
+    },
+    {
+      "id": "dn29:26.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn29:26.2",
+      "pali": "‘aṭṭhitadhammā samaṇā sakyaputtiyā viharantī’ti."
+    },
+    {
+      "id": "dn29:26.3",
+      "pali": "Evaṁvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
+    },
+    {
+      "id": "dn29:26.4",
+      "pali": "‘atthi kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sāvakānaṁ dhammā desitā paññattā yāvajīvaṁ anatikkamanīyā."
+    },
+    {
+      "id": "dn29:26.5",
+      "pali": "Seyyathāpi, āvuso, indakhīlo vā ayokhīlo vā gambhīranemo sunikhāto acalo asampavedhī;"
+    },
+    {
+      "id": "dn29:26.6",
+      "pali": "evameva kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sāvakānaṁ dhammā desitā paññattā yāvajīvaṁ anatikkamanīyā."
+    },
+    {
+      "id": "dn29:26.7",
+      "pali": "Yo so, āvuso, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto, abhabbo so nava ṭhānāni ajjhācarituṁ."
+    },
+    {
+      "id": "dn29:26.8",
+      "pali": "Abhabbo, āvuso, khīṇāsavo bhikkhu sañcicca pāṇaṁ jīvitā voropetuṁ; abhabbo khīṇāsavo bhikkhu adinnaṁ theyyasaṅkhātaṁ ādiyituṁ; abhabbo khīṇāsavo bhikkhu methunaṁ dhammaṁ paṭisevituṁ; abhabbo khīṇāsavo bhikkhu sampajānamusā bhāsituṁ; abhabbo khīṇāsavo bhikkhu sannidhikārakaṁ kāme paribhuñjituṁ, seyyathāpi pubbe āgārikabhūto; abhabbo khīṇāsavo bhikkhu chandāgatiṁ gantuṁ; abhabbo khīṇāsavo bhikkhu dosāgatiṁ gantuṁ; abhabbo khīṇāsavo bhikkhu mohāgatiṁ gantuṁ; abhabbo khīṇāsavo bhikkhu bhayāgatiṁ gantuṁ."
+    },
+    {
+      "id": "dn29:26.9",
+      "pali": "Yo so, āvuso, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto, abhabbo so imāni nava ṭhānāni ajjhācaritun’ti."
+    },
+    {
+      "id": "dn29:27.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati, yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn29:27.2",
+      "pali": "‘atītaṁ kho addhānaṁ ārabbha samaṇo gotamo atīrakaṁ ñāṇadassanaṁ paññapeti, no ca kho anāgataṁ addhānaṁ ārabbha atīrakaṁ ñāṇadassanaṁ paññapeti, tayidaṁ kiṁsu tayidaṁ kathaṁsū’ti?"
+    },
+    {
+      "id": "dn29:27.3",
+      "pali": "Te ca aññatitthiyā paribbājakā aññavihitakena ñāṇadassanena aññavihitakaṁ ñāṇadassanaṁ paññapetabbaṁ maññanti yathariva bālā abyattā."
+    },
+    {
+      "id": "dn29:27.4",
+      "pali": "Atītaṁ kho, cunda, addhānaṁ ārabbha tathāgatassa satānusāriñāṇaṁ hoti;"
+    },
+    {
+      "id": "dn29:27.5",
+      "pali": "so yāvatakaṁ ākaṅkhati tāvatakaṁ anussarati."
+    },
+    {
+      "id": "dn29:27.6",
+      "pali": "Anāgatañca kho addhānaṁ ārabbha tathāgatassa bodhijaṁ ñāṇaṁ uppajjati:"
+    },
+    {
+      "id": "dn29:27.7",
+      "pali": "‘ayamantimā jāti, natthi dāni punabbhavo’ti."
+    },
+    {
+      "id": "dn29:28.1",
+      "pali": "Atītañcepi, cunda, hoti abhūtaṁ atacchaṁ anatthasaṁhitaṁ, na taṁ tathāgato byākaroti."
+    },
+    {
+      "id": "dn29:28.2",
+      "pali": "Atītañcepi, cunda, hoti bhūtaṁ tacchaṁ anatthasaṁhitaṁ, tampi tathāgato na byākaroti."
+    },
+    {
+      "id": "dn29:28.3",
+      "pali": "Atītañcepi, cunda, hoti bhūtaṁ tacchaṁ atthasaṁhitaṁ, tatra kālaññū tathāgato hoti tassa pañhassa veyyākaraṇāya."
+    },
+    {
+      "id": "dn29:28.4",
+      "pali": "Anāgatañcepi, cunda, hoti abhūtaṁ atacchaṁ anatthasaṁhitaṁ, na taṁ tathāgato byākaroti …pe… tassa pañhassa veyyākaraṇāya."
+    },
+    {
+      "id": "dn29:28.5",
+      "pali": "Paccuppannañcepi, cunda, hoti abhūtaṁ atacchaṁ anatthasaṁhitaṁ, na taṁ tathāgato byākaroti."
+    },
+    {
+      "id": "dn29:28.6",
+      "pali": "Paccuppannañcepi, cunda, hoti bhūtaṁ tacchaṁ anatthasaṁhitaṁ, tampi tathāgato na byākaroti."
+    },
+    {
+      "id": "dn29:28.7",
+      "pali": "Paccuppannañcepi, cunda, hoti bhūtaṁ tacchaṁ atthasaṁhitaṁ, tatra kālaññū tathāgato hoti tassa pañhassa veyyākaraṇāya."
+    },
+    {
+      "id": "dn29:28.8",
+      "pali": "Iti kho, cunda, atītānāgatapaccuppannesu dhammesu tathāgato kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, tasmā ‘tathāgato’ti vuccati."
+    },
+    {
+      "id": "dn29:29.1",
+      "pali": "Yañca kho, cunda, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṁ sutaṁ mutaṁ viññātaṁ pattaṁ pariyesitaṁ anuvicaritaṁ manasā, sabbaṁ tathāgatena abhisambuddhaṁ,"
+    },
+    {
+      "id": "dn29:29.2",
+      "pali": "tasmā ‘tathāgato’ti vuccati."
+    },
+    {
+      "id": "dn29:29.3",
+      "pali": "Yañca, cunda, rattiṁ tathāgato anuttaraṁ sammāsambodhiṁ abhisambujjhati, yañca rattiṁ anupādisesāya nibbānadhātuyā parinibbāyati, yaṁ etasmiṁ antare bhāsati lapati niddisati. Sabbaṁ taṁ tatheva hoti no aññathā,"
+    },
+    {
+      "id": "dn29:29.4",
+      "pali": "tasmā ‘tathāgato’ti vuccati."
+    },
+    {
+      "id": "dn29:29.5",
+      "pali": "Yathāvādī, cunda, tathāgato tathākārī, yathākārī tathāvādī."
+    },
+    {
+      "id": "dn29:29.6",
+      "pali": "Iti yathāvādī tathākārī, yathākārī tathāvādī, tasmā ‘tathāgato’ti vuccati."
+    },
+    {
+      "id": "dn29:29.7",
+      "pali": "Sadevake loke, cunda, samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya tathāgato abhibhū anabhibhūto aññadatthudaso vasavattī, tasmā ‘tathāgato’ti vuccati."
+    },
+    {
+      "id": "dn29:30.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn29:30.2",
+      "pali": "‘kiṁ nu kho, āvuso, hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti?"
+    },
+    {
+      "id": "dn29:30.3",
+      "pali": "Evaṁvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
+    },
+    {
+      "id": "dn29:30.4",
+      "pali": "‘abyākataṁ kho etaṁ, āvuso, bhagavatā:"
+    },
+    {
+      "id": "dn29:30.5",
+      "pali": "“hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan”’ti."
+    },
+    {
+      "id": "dn29:30.6",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati, yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn29:30.7",
+      "pali": "‘kiṁ panāvuso, na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti?"
+    },
+    {
+      "id": "dn29:30.8",
+      "pali": "Evaṁvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
+    },
+    {
+      "id": "dn29:30.9",
+      "pali": "‘etampi kho, āvuso, bhagavatā abyākataṁ:"
+    },
+    {
+      "id": "dn29:30.10",
+      "pali": "“na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan”’ti."
+    },
+    {
+      "id": "dn29:30.11",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati, yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn29:30.12",
+      "pali": "‘kiṁ panāvuso, hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti?"
+    },
+    {
+      "id": "dn29:30.13",
+      "pali": "Evaṁvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
+    },
+    {
+      "id": "dn29:30.14",
+      "pali": "‘abyākataṁ kho etaṁ, āvuso, bhagavatā:"
+    },
+    {
+      "id": "dn29:30.15",
+      "pali": "“hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan”’ti."
+    },
+    {
+      "id": "dn29:30.16",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati, yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn29:30.17",
+      "pali": "‘kiṁ panāvuso, neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti?"
+    },
+    {
+      "id": "dn29:30.18",
+      "pali": "Evaṁvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
+    },
+    {
+      "id": "dn29:30.19",
+      "pali": "‘etampi kho, āvuso, bhagavatā abyākataṁ:"
+    },
+    {
+      "id": "dn29:30.20",
+      "pali": "“neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan”’ti."
+    },
+    {
+      "id": "dn29:31.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati, yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn29:31.2",
+      "pali": "‘kasmā panetaṁ, āvuso, samaṇena gotamena abyākatan’ti?"
+    },
+    {
+      "id": "dn29:31.3",
+      "pali": "Evaṁvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
+    },
+    {
+      "id": "dn29:31.4",
+      "pali": "‘na hetaṁ, āvuso, atthasaṁhitaṁ na dhammasaṁhitaṁ na ādibrahmacariyakaṁ na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati, tasmā taṁ bhagavatā abyākatan’ti."
+    },
+    {
+      "id": "dn29:32.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati, yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn29:32.2",
+      "pali": "‘kiṁ panāvuso, samaṇena gotamena byākatan’ti?"
+    },
+    {
+      "id": "dn29:32.3",
+      "pali": "Evaṁvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
+    },
+    {
+      "id": "dn29:32.4",
+      "pali": "‘idaṁ dukkhanti kho, āvuso, bhagavatā byākataṁ, ayaṁ dukkhasamudayoti kho, āvuso, bhagavatā byākataṁ, ayaṁ dukkhanirodhoti kho, āvuso, bhagavatā byākataṁ, ayaṁ dukkhanirodhagāminī paṭipadāti kho, āvuso, bhagavatā byākatan’ti."
+    },
+    {
+      "id": "dn29:33.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati, yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "dn29:33.2",
+      "pali": "‘kasmā panetaṁ, āvuso, samaṇena gotamena byākatan’ti?"
+    },
+    {
+      "id": "dn29:33.3",
+      "pali": "Evaṁvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:"
+    },
+    {
+      "id": "dn29:33.4",
+      "pali": "‘etañhi, āvuso, atthasaṁhitaṁ, etaṁ dhammasaṁhitaṁ, etaṁ ādibrahmacariyakaṁ ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. Tasmā taṁ bhagavatā byākatan’ti."
+    },
+    {
+      "id": "dn29:34.1",
+      "pali": "Yepi te, cunda, pubbantasahagatā diṭṭhinissayā, tepi vo mayā byākatā, yathā te byākātabbā."
+    },
+    {
+      "id": "dn29:34.2",
+      "pali": "Yathā ca te na byākātabbā, kiṁ vo ahaṁ te tathā byākarissāmi?"
+    },
+    {
+      "id": "dn29:34.3",
+      "pali": "Yepi te, cunda, aparantasahagatā diṭṭhinissayā, tepi vo mayā byākatā, yathā te byākātabbā."
+    },
+    {
+      "id": "dn29:34.4",
+      "pali": "Yathā ca te na byākātabbā, kiṁ vo ahaṁ te tathā byākarissāmi?"
+    },
+    {
+      "id": "dn29:34.5",
+      "pali": "Katame ca te, cunda, pubbantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā."
+    },
+    {
+      "id": "dn29:34.6",
+      "pali": "Yathā ca te na byākātabbā, kiṁ vo ahaṁ te tathā byākarissāmi?"
+    },
+    {
+      "id": "dn29:34.7",
+      "pali": "Santi kho, cunda, eke samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "dn29:34.8",
+      "pali": "‘sassato attā ca loko ca, idameva saccaṁ moghamaññan’ti."
+    },
+    {
+      "id": "dn29:34.9",
+      "pali": "Santi pana, cunda, eke samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "dn29:34.10",
+      "pali": "‘asassato attā ca loko ca …pe…"
+    },
+    {
+      "id": "dn29:34.11",
+      "pali": "sassato ca asassato ca attā ca loko ca …"
+    },
+    {
+      "id": "dn29:34.12",
+      "pali": "neva sassato nāsassato attā ca loko ca …"
+    },
+    {
+      "id": "dn29:34.13",
+      "pali": "sayaṅkato attā ca loko ca …"
+    },
+    {
+      "id": "dn29:34.14",
+      "pali": "paraṅkato attā ca loko ca …"
+    },
+    {
+      "id": "dn29:34.15",
+      "pali": "sayaṅkato ca paraṅkato ca attā ca loko ca …"
+    },
+    {
+      "id": "dn29:34.16",
+      "pali": "asayaṅkāro aparaṅkāro adhiccasamuppanno attā ca loko ca, idameva saccaṁ moghamaññan’ti."
+    },
+    {
+      "id": "dn29:34.17",
+      "pali": "‘Sassataṁ sukhadukkhaṁ …"
+    },
+    {
+      "id": "dn29:34.18",
+      "pali": "asassataṁ sukhadukkhaṁ …"
+    },
+    {
+      "id": "dn29:34.19",
+      "pali": "sassatañca asassatañca sukhadukkhaṁ …"
+    },
+    {
+      "id": "dn29:34.20",
+      "pali": "nevasassataṁ nāsassataṁ sukhadukkhaṁ …"
+    },
+    {
+      "id": "dn29:34.21",
+      "pali": "sayaṅkataṁ sukhadukkhaṁ …"
+    },
+    {
+      "id": "dn29:34.22",
+      "pali": "paraṅkataṁ sukhadukkhaṁ …"
+    },
+    {
+      "id": "dn29:34.23",
+      "pali": "sayaṅkatañca paraṅkatañca sukhadukkhaṁ …"
+    },
+    {
+      "id": "dn29:34.24",
+      "pali": "asayaṅkāraṁ aparaṅkāraṁ adhiccasamuppannaṁ sukhadukkhaṁ, idameva saccaṁ moghamaññan’ti."
+    },
+    {
+      "id": "dn29:35.1",
+      "pali": "Tatra, cunda, ye te samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "dn29:35.2",
+      "pali": "‘sassato attā ca loko ca, idameva saccaṁ moghamaññan’ti."
+    },
+    {
+      "id": "dn29:35.3",
+      "pali": "Tyāhaṁ upasaṅkamitvā evaṁ vadāmi:"
+    },
+    {
+      "id": "dn29:35.4",
+      "pali": "‘atthi nu kho idaṁ, āvuso, vuccati:"
+    },
+    {
+      "id": "dn29:35.5",
+      "pali": "“sassato attā ca loko cā”’ti?"
+    },
+    {
+      "id": "dn29:35.6",
+      "pali": "Yañca kho te evamāhaṁsu:"
+    },
+    {
+      "id": "dn29:35.7",
+      "pali": "‘idameva saccaṁ moghamaññan’ti."
+    },
+    {
+      "id": "dn29:35.8",
+      "pali": "Taṁ tesaṁ nānujānāmi."
+    },
+    {
+      "id": "dn29:35.9",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn29:35.10",
+      "pali": "Aññathāsaññinopi hettha, cunda, santeke sattā."
+    },
+    {
+      "id": "dn29:35.11",
+      "pali": "Imāyapi kho ahaṁ, cunda, paññattiyā neva attanā samasamaṁ samanupassāmi kuto bhiyyo."
+    },
+    {
+      "id": "dn29:35.12",
+      "pali": "Atha kho ahameva tattha bhiyyo yadidaṁ adhipaññatti."
+    },
+    {
+      "id": "dn29:36.1",
+      "pali": "Tatra, cunda, ye te samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "dn29:36.2",
+      "pali": "‘asassato attā ca loko ca …"
+    },
+    {
+      "id": "dn29:36.3",
+      "pali": "sassato ca asassato ca attā ca loko ca …"
+    },
+    {
+      "id": "dn29:36.4",
+      "pali": "nevasassato nāsassato attā ca loko ca …"
+    },
+    {
+      "id": "dn29:36.5",
+      "pali": "sayaṅkato attā ca loko ca …"
+    },
+    {
+      "id": "dn29:36.6",
+      "pali": "paraṅkato attā ca loko ca …"
+    },
+    {
+      "id": "dn29:36.7",
+      "pali": "sayaṅkato ca paraṅkato ca attā ca loko ca …"
+    },
+    {
+      "id": "dn29:36.8",
+      "pali": "asayaṅkāro aparaṅkāro adhiccasamuppanno attā ca loko ca …"
+    },
+    {
+      "id": "dn29:36.9",
+      "pali": "sassataṁ sukhadukkhaṁ …"
+    },
+    {
+      "id": "dn29:36.10",
+      "pali": "asassataṁ sukhadukkhaṁ …"
+    },
+    {
+      "id": "dn29:36.11",
+      "pali": "sassatañca asassatañca sukhadukkhaṁ …"
+    },
+    {
+      "id": "dn29:36.12",
+      "pali": "nevasassataṁ nāsassataṁ sukhadukkhaṁ …"
+    },
+    {
+      "id": "dn29:36.13",
+      "pali": "sayaṅkataṁ sukhadukkhaṁ …"
+    },
+    {
+      "id": "dn29:36.14",
+      "pali": "paraṅkataṁ sukhadukkhaṁ …"
+    },
+    {
+      "id": "dn29:36.15",
+      "pali": "sayaṅkatañca paraṅkatañca sukhadukkhaṁ …"
+    },
+    {
+      "id": "dn29:36.16",
+      "pali": "asayaṅkāraṁ aparaṅkāraṁ adhiccasamuppannaṁ sukhadukkhaṁ, idameva saccaṁ moghamaññan’ti."
+    },
+    {
+      "id": "dn29:36.17",
+      "pali": "Tyāhaṁ upasaṅkamitvā evaṁ vadāmi:"
+    },
+    {
+      "id": "dn29:36.18",
+      "pali": "‘atthi nu kho idaṁ, āvuso, vuccati:"
+    },
+    {
+      "id": "dn29:36.19",
+      "pali": "“asayaṅkāraṁ aparaṅkāraṁ adhiccasamuppannaṁ sukhadukkhan”’ti?"
+    },
+    {
+      "id": "dn29:36.20",
+      "pali": "Yañca kho te evamāhaṁsu:"
+    },
+    {
+      "id": "dn29:36.21",
+      "pali": "‘idameva saccaṁ moghamaññan’ti."
+    },
+    {
+      "id": "dn29:36.22",
+      "pali": "Taṁ tesaṁ nānujānāmi."
+    },
+    {
+      "id": "dn29:36.23",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn29:36.24",
+      "pali": "Aññathāsaññinopi hettha, cunda, santeke sattā."
+    },
+    {
+      "id": "dn29:36.25",
+      "pali": "Imāyapi kho ahaṁ, cunda, paññattiyā neva attanā samasamaṁ samanupassāmi kuto bhiyyo."
+    },
+    {
+      "id": "dn29:36.26",
+      "pali": "Atha kho ahameva tattha bhiyyo yadidaṁ adhipaññatti."
+    },
+    {
+      "id": "dn29:36.27",
+      "pali": "Ime kho te, cunda, pubbantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā."
+    },
+    {
+      "id": "dn29:36.28",
+      "pali": "Yathā ca te na byākātabbā, kiṁ vo ahaṁ te tathā byākarissāmi?"
+    },
+    {
+      "id": "dn29:37.1",
+      "pali": "Katame ca te, cunda, aparantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā."
+    },
+    {
+      "id": "dn29:37.2",
+      "pali": "Yathā ca te na byākātabbā, kiṁ vo ahaṁ te tathā byākarissāmi?"
+    },
+    {
+      "id": "dn29:37.3",
+      "pali": "Santi, cunda, eke samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "dn29:37.4",
+      "pali": "‘rūpī attā hoti arogo paraṁ maraṇā, idameva saccaṁ moghamaññan’ti."
+    },
+    {
+      "id": "dn29:37.5",
+      "pali": "Santi pana, cunda, eke samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "dn29:37.6",
+      "pali": "‘arūpī attā hoti …"
+    },
+    {
+      "id": "dn29:37.7",
+      "pali": "rūpī ca arūpī ca attā hoti …"
+    },
+    {
+      "id": "dn29:37.8",
+      "pali": "nevarūpī nārūpī attā hoti …"
+    },
+    {
+      "id": "dn29:37.9",
+      "pali": "saññī attā hoti …"
+    },
+    {
+      "id": "dn29:37.10",
+      "pali": "asaññī attā hoti …"
+    },
+    {
+      "id": "dn29:37.11",
+      "pali": "nevasaññīnāsaññī attā hoti …"
+    },
+    {
+      "id": "dn29:37.12",
+      "pali": "attā ucchijjati vinassati na hoti paraṁ maraṇā, idameva saccaṁ moghamaññan’ti."
+    },
+    {
+      "id": "dn29:38.1",
+      "pali": "Tatra, cunda, ye te samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "dn29:38.2",
+      "pali": "‘rūpī attā hoti arogo paraṁ maraṇā, idameva saccaṁ moghamaññan’ti."
+    },
+    {
+      "id": "dn29:38.3",
+      "pali": "Tyāhaṁ upasaṅkamitvā evaṁ vadāmi:"
+    },
+    {
+      "id": "dn29:38.4",
+      "pali": "‘atthi nu kho idaṁ, āvuso, vuccati:"
+    },
+    {
+      "id": "dn29:38.5",
+      "pali": "“rūpī attā hoti arogo paraṁ maraṇā”’ti?"
+    },
+    {
+      "id": "dn29:38.6",
+      "pali": "Yañca kho te evamāhaṁsu:"
+    },
+    {
+      "id": "dn29:38.7",
+      "pali": "‘idameva saccaṁ moghamaññan’ti."
+    },
+    {
+      "id": "dn29:38.8",
+      "pali": "Taṁ tesaṁ nānujānāmi."
+    },
+    {
+      "id": "dn29:38.9",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn29:38.10",
+      "pali": "Aññathāsaññinopi hettha, cunda, santeke sattā."
+    },
+    {
+      "id": "dn29:38.11",
+      "pali": "Imāyapi kho ahaṁ, cunda, paññattiyā neva attanā samasamaṁ samanupassāmi kuto bhiyyo."
+    },
+    {
+      "id": "dn29:38.12",
+      "pali": "Atha kho ahameva tattha bhiyyo yadidaṁ adhipaññatti."
+    },
+    {
+      "id": "dn29:39.1",
+      "pali": "Tatra, cunda, ye te samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino:"
+    },
+    {
+      "id": "dn29:39.2",
+      "pali": "‘arūpī attā hoti …"
+    },
+    {
+      "id": "dn29:39.3",
+      "pali": "rūpī ca arūpī ca attā hoti …"
+    },
+    {
+      "id": "dn29:39.4",
+      "pali": "nevarūpīnārūpī attā hoti …"
+    },
+    {
+      "id": "dn29:39.5",
+      "pali": "saññī attā hoti …"
+    },
+    {
+      "id": "dn29:39.6",
+      "pali": "asaññī attā hoti …"
+    },
+    {
+      "id": "dn29:39.7",
+      "pali": "nevasaññīnāsaññī attā hoti …"
+    },
+    {
+      "id": "dn29:39.8",
+      "pali": "attā ucchijjati vinassati na hoti paraṁ maraṇā, idameva saccaṁ moghamaññan’ti."
+    },
+    {
+      "id": "dn29:39.9",
+      "pali": "Tyāhaṁ upasaṅkamitvā evaṁ vadāmi:"
+    },
+    {
+      "id": "dn29:39.10",
+      "pali": "‘atthi nu kho idaṁ, āvuso, vuccati:"
+    },
+    {
+      "id": "dn29:39.11",
+      "pali": "“attā ucchijjati vinassati na hoti paraṁ maraṇā”’ti?"
+    },
+    {
+      "id": "dn29:39.12",
+      "pali": "Yañca kho te, cunda, evamāhaṁsu:"
+    },
+    {
+      "id": "dn29:39.13",
+      "pali": "‘idameva saccaṁ moghamaññan’ti."
+    },
+    {
+      "id": "dn29:39.14",
+      "pali": "Taṁ tesaṁ nānujānāmi."
+    },
+    {
+      "id": "dn29:39.15",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn29:39.16",
+      "pali": "Aññathāsaññinopi hettha, cunda, santeke sattā."
+    },
+    {
+      "id": "dn29:39.17",
+      "pali": "Imāyapi kho ahaṁ, cunda, paññattiyā neva attanā samasamaṁ samanupassāmi, kuto bhiyyo."
+    },
+    {
+      "id": "dn29:39.18",
+      "pali": "Atha kho ahameva tattha bhiyyo yadidaṁ adhipaññatti."
+    },
+    {
+      "id": "dn29:39.19",
+      "pali": "Ime kho te, cunda, aparantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā."
+    },
+    {
+      "id": "dn29:39.20",
+      "pali": "Yathā ca te na byākātabbā, kiṁ vo ahaṁ te tathā byākarissāmi?"
+    },
+    {
+      "id": "dn29:40.1",
+      "pali": "Imesañca, cunda, pubbantasahagatānaṁ diṭṭhinissayānaṁ imesañca aparantasahagatānaṁ diṭṭhinissayānaṁ pahānāya samatikkamāya evaṁ mayā cattāro satipaṭṭhānā desitā paññattā."
+    },
+    {
+      "id": "dn29:40.2",
+      "pali": "Katame cattāro?"
+    },
+    {
+      "id": "dn29:40.3",
+      "pali": "Idha, cunda, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "dn29:40.4",
+      "pali": "Vedanāsu vedanānupassī …pe…"
+    },
+    {
+      "id": "dn29:40.5",
+      "pali": "citte cittānupassī …pe…"
+    },
+    {
+      "id": "dn29:40.6",
+      "pali": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "dn29:40.7",
+      "pali": "Imesañca, cunda, pubbantasahagatānaṁ diṭṭhinissayānaṁ imesañca aparantasahagatānaṁ diṭṭhinissayānaṁ pahānāya samatikkamāya. Evaṁ mayā ime cattāro satipaṭṭhānā desitā paññattā”ti."
+    },
+    {
+      "id": "dn29:41.1",
+      "pali": "Tena kho pana samayena āyasmā upavāṇo bhagavato piṭṭhito ṭhito hoti bhagavantaṁ bījayamāno."
+    },
+    {
+      "id": "dn29:41.2",
+      "pali": "Atha kho āyasmā upavāṇo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn29:41.3",
+      "pali": "“acchariyaṁ, bhante, abbhutaṁ, bhante."
+    },
+    {
+      "id": "dn29:41.4",
+      "pali": "Pāsādiko vatāyaṁ, bhante, dhammapariyāyo;"
+    },
+    {
+      "id": "dn29:41.5",
+      "pali": "supāsādiko vatāyaṁ, bhante, dhammapariyāyo, ko nāmāyaṁ, bhante, dhammapariyāyo”ti?"
+    },
+    {
+      "id": "dn29:41.6",
+      "pali": "“Tasmātiha tvaṁ, upavāṇa, imaṁ dhammapariyāyaṁ ‘pāsādiko’ tveva naṁ dhārehī”ti."
+    },
+    {
+      "id": "dn29:41.7",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "dn29:41.8",
+      "pali": "Attamano āyasmā upavāṇo bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "dn29:41.9",
+      "pali": "Pāsādikasuttaṁ niṭṭhitaṁ chaṭṭhaṁ."
+    }
+  ]
+}

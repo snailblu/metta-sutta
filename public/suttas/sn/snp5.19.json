@@ -1,0 +1,695 @@
+{
+  "uid": "snp5.19",
+  "title": "Pārāyanānugītigāthā",
+  "nikaya": "sn",
+  "segments": [
+    {
+      "id": "snp5.19:1.1",
+      "pali": "“Pārāyanamanugāyissaṁ,"
+    },
+    {
+      "id": "snp5.19:1.2",
+      "pali": "(iccāyasmā piṅgiyo)"
+    },
+    {
+      "id": "snp5.19:1.3",
+      "pali": "Yathāddakkhi tathākkhāsi;"
+    },
+    {
+      "id": "snp5.19:1.4",
+      "pali": "Vimalo bhūrimedhaso,"
+    },
+    {
+      "id": "snp5.19:1.5",
+      "pali": "Nikkāmo nibbano nāgo;"
+    },
+    {
+      "id": "snp5.19:1.6",
+      "pali": "Kissa hetu musā bhaṇe."
+    },
+    {
+      "id": "snp5.19:2.1",
+      "pali": "Pahīnamalamohassa,"
+    },
+    {
+      "id": "snp5.19:2.2",
+      "pali": "mānamakkhappahāyino;"
+    },
+    {
+      "id": "snp5.19:2.3",
+      "pali": "Handāhaṁ kittayissāmi,"
+    },
+    {
+      "id": "snp5.19:2.4",
+      "pali": "giraṁ vaṇṇūpasañhitaṁ."
+    },
+    {
+      "id": "snp5.19:3.1",
+      "pali": "Tamonudo buddho samantacakkhu,"
+    },
+    {
+      "id": "snp5.19:3.2",
+      "pali": "Lokantagū sabbabhavātivatto;"
+    },
+    {
+      "id": "snp5.19:3.3",
+      "pali": "Anāsavo sabbadukkhappahīno,"
+    },
+    {
+      "id": "snp5.19:3.4",
+      "pali": "Saccavhayo brahme upāsito me."
+    },
+    {
+      "id": "snp5.19:4.1",
+      "pali": "Dijo yathā kubbanakaṁ pahāya,"
+    },
+    {
+      "id": "snp5.19:4.2",
+      "pali": "Bahupphalaṁ kānanamāvaseyya;"
+    },
+    {
+      "id": "snp5.19:4.3",
+      "pali": "Evampahaṁ appadasse pahāya,"
+    },
+    {
+      "id": "snp5.19:4.4",
+      "pali": "Mahodadhiṁ haṁsoriva ajjhapatto."
+    },
+    {
+      "id": "snp5.19:5.1",
+      "pali": "Ye me pubbe viyākaṁsu,"
+    },
+    {
+      "id": "snp5.19:5.2",
+      "pali": "Huraṁ gotamasāsanā;"
+    },
+    {
+      "id": "snp5.19:5.3",
+      "pali": "Iccāsi iti bhavissati,"
+    },
+    {
+      "id": "snp5.19:5.4",
+      "pali": "Sabbaṁ taṁ itihītihaṁ;"
+    },
+    {
+      "id": "snp5.19:5.5",
+      "pali": "Sabbaṁ taṁ takkavaḍḍhanaṁ."
+    },
+    {
+      "id": "snp5.19:6.1",
+      "pali": "Eko tamanudāsino,"
+    },
+    {
+      "id": "snp5.19:6.2",
+      "pali": "jutimā so pabhaṅkaro;"
+    },
+    {
+      "id": "snp5.19:6.3",
+      "pali": "Gotamo bhūripaññāṇo,"
+    },
+    {
+      "id": "snp5.19:6.4",
+      "pali": "gotamo bhūrimedhaso."
+    },
+    {
+      "id": "snp5.19:7.1",
+      "pali": "Yo me dhammamadesesi,"
+    },
+    {
+      "id": "snp5.19:7.2",
+      "pali": "Sandiṭṭhikamakālikaṁ;"
+    },
+    {
+      "id": "snp5.19:7.3",
+      "pali": "Taṇhakkhayamanītikaṁ,"
+    },
+    {
+      "id": "snp5.19:7.4",
+      "pali": "Yassa natthi upamā kvaci”."
+    },
+    {
+      "id": "snp5.19:8.1",
+      "pali": "“Kiṁ nu tamhā vippavasasi,"
+    },
+    {
+      "id": "snp5.19:8.2",
+      "pali": "muhuttamapi piṅgiya;"
+    },
+    {
+      "id": "snp5.19:8.3",
+      "pali": "Gotamā bhūripaññāṇā,"
+    },
+    {
+      "id": "snp5.19:8.4",
+      "pali": "gotamā bhūrimedhasā."
+    },
+    {
+      "id": "snp5.19:9.1",
+      "pali": "Yo te dhammamadesesi,"
+    },
+    {
+      "id": "snp5.19:9.2",
+      "pali": "Sandiṭṭhikamakālikaṁ;"
+    },
+    {
+      "id": "snp5.19:9.3",
+      "pali": "Taṇhakkhayamanītikaṁ,"
+    },
+    {
+      "id": "snp5.19:9.4",
+      "pali": "Yassa natthi upamā kvaci”."
+    },
+    {
+      "id": "snp5.19:10.1",
+      "pali": "“Nāhaṁ tamhā vippavasāmi,"
+    },
+    {
+      "id": "snp5.19:10.2",
+      "pali": "Muhuttamapi brāhmaṇa;"
+    },
+    {
+      "id": "snp5.19:10.3",
+      "pali": "Gotamā bhūripaññāṇā,"
+    },
+    {
+      "id": "snp5.19:10.4",
+      "pali": "Gotamā bhūrimedhasā."
+    },
+    {
+      "id": "snp5.19:11.1",
+      "pali": "Yo me dhammamadesesi,"
+    },
+    {
+      "id": "snp5.19:11.2",
+      "pali": "Sandiṭṭhikamakālikaṁ;"
+    },
+    {
+      "id": "snp5.19:11.3",
+      "pali": "Taṇhakkhayamanītikaṁ,"
+    },
+    {
+      "id": "snp5.19:11.4",
+      "pali": "Yassa natthi upamā kvaci."
+    },
+    {
+      "id": "snp5.19:12.1",
+      "pali": "Passāmi naṁ manasā cakkhunāva,"
+    },
+    {
+      "id": "snp5.19:12.2",
+      "pali": "Rattindivaṁ brāhmaṇa appamatto;"
+    },
+    {
+      "id": "snp5.19:12.3",
+      "pali": "Namassamāno vivasemi rattiṁ,"
+    },
+    {
+      "id": "snp5.19:12.4",
+      "pali": "Teneva maññāmi avippavāsaṁ."
+    },
+    {
+      "id": "snp5.19:13.1",
+      "pali": "Saddhā ca pīti ca mano sati ca,"
+    },
+    {
+      "id": "snp5.19:13.2",
+      "pali": "Nāpentime gotamasāsanamhā;"
+    },
+    {
+      "id": "snp5.19:13.3",
+      "pali": "Yaṁ yaṁ disaṁ vajati bhūripañño,"
+    },
+    {
+      "id": "snp5.19:13.4",
+      "pali": "Sa tena teneva natohamasmi."
+    },
+    {
+      "id": "snp5.19:14.1",
+      "pali": "Jiṇṇassa me dubbalathāmakassa,"
+    },
+    {
+      "id": "snp5.19:14.2",
+      "pali": "Teneva kāyo na paleti tattha;"
+    },
+    {
+      "id": "snp5.19:14.3",
+      "pali": "Saṅkappayantāya vajāmi niccaṁ,"
+    },
+    {
+      "id": "snp5.19:14.4",
+      "pali": "Mano hi me brāhmaṇa tena yutto."
+    },
+    {
+      "id": "snp5.19:15.1",
+      "pali": "Paṅke sayāno pariphandamāno,"
+    },
+    {
+      "id": "snp5.19:15.2",
+      "pali": "Dīpā dīpaṁ upaplaviṁ;"
+    },
+    {
+      "id": "snp5.19:15.3",
+      "pali": "Athaddasāsiṁ sambuddhaṁ,"
+    },
+    {
+      "id": "snp5.19:15.4",
+      "pali": "Oghatiṇṇamanāsavaṁ”."
+    },
+    {
+      "id": "snp5.19:16.1",
+      "pali": "“Yathā ahū vakkali muttasaddho,"
+    },
+    {
+      "id": "snp5.19:16.2",
+      "pali": "Bhadrāvudho āḷavigotamo ca;"
+    },
+    {
+      "id": "snp5.19:16.3",
+      "pali": "Evamevaṁ tvampi pamuñcassu saddhaṁ,"
+    },
+    {
+      "id": "snp5.19:16.4",
+      "pali": "Gamissasi tvaṁ piṅgiya maccudheyyassa pāraṁ”."
+    },
+    {
+      "id": "snp5.19:17.1",
+      "pali": "“Esa bhiyyo pasīdāmi,"
+    },
+    {
+      "id": "snp5.19:17.2",
+      "pali": "Sutvāna munino vaco;"
+    },
+    {
+      "id": "snp5.19:17.3",
+      "pali": "Vivaṭṭacchado sambuddho,"
+    },
+    {
+      "id": "snp5.19:17.4",
+      "pali": "Akhilo paṭibhānavā."
+    },
+    {
+      "id": "snp5.19:18.1",
+      "pali": "Adhideve abhiññāya,"
+    },
+    {
+      "id": "snp5.19:18.2",
+      "pali": "Sabbaṁ vedi varovaraṁ;"
+    },
+    {
+      "id": "snp5.19:18.3",
+      "pali": "Pañhānantakaro satthā,"
+    },
+    {
+      "id": "snp5.19:18.4",
+      "pali": "Kaṅkhīnaṁ paṭijānataṁ."
+    },
+    {
+      "id": "snp5.19:19.1",
+      "pali": "Asaṁhīraṁ asaṅkuppaṁ,"
+    },
+    {
+      "id": "snp5.19:19.2",
+      "pali": "Yassa natthi upamā kvaci;"
+    },
+    {
+      "id": "snp5.19:19.3",
+      "pali": "Addhā gamissāmi na mettha kaṅkhā,"
+    },
+    {
+      "id": "snp5.19:19.4",
+      "pali": "Evaṁ maṁ dhārehi adhimuttacittan”ti."
+    },
+    {
+      "id": "snp5.19:19.5",
+      "pali": "Pārāyanavaggo pañcamo."
+    },
+    {
+      "id": "snp5.19:19.6",
+      "pali": "Suttuddānaṁ"
+    },
+    {
+      "id": "snp5.19:20.1",
+      "pali": "Urago dhaniyopi ca,"
+    },
+    {
+      "id": "snp5.19:20.2",
+      "pali": "Khaggavisāṇo kasi ca;"
+    },
+    {
+      "id": "snp5.19:20.3",
+      "pali": "Cundo bhavo punadeva,"
+    },
+    {
+      "id": "snp5.19:20.4",
+      "pali": "Vasalo ca karaṇīyañca;"
+    },
+    {
+      "id": "snp5.19:20.5",
+      "pali": "Hemavato atha yakkho,"
+    },
+    {
+      "id": "snp5.19:20.6",
+      "pali": "Vijayasuttaṁ munisuttavaranti."
+    },
+    {
+      "id": "snp5.19:21.1",
+      "pali": "Paṭhamakaṭṭhavaro varavaggo,"
+    },
+    {
+      "id": "snp5.19:21.2",
+      "pali": "Dvādasasuttadharo suvibhatto;"
+    },
+    {
+      "id": "snp5.19:21.3",
+      "pali": "Desito cakkhumatā vimalena,"
+    },
+    {
+      "id": "snp5.19:21.4",
+      "pali": "Suyyati vaggavaro uragoti."
+    },
+    {
+      "id": "snp5.19:22.1",
+      "pali": "Ratanāmagandho hirimaṅgalanāmo,"
+    },
+    {
+      "id": "snp5.19:22.2",
+      "pali": "Sucilomakapilo ca brāhmaṇadhammo;"
+    },
+    {
+      "id": "snp5.19:22.3",
+      "pali": "Nāvā kiṁsīlauṭṭhahano ca,"
+    },
+    {
+      "id": "snp5.19:22.4",
+      "pali": "Rāhulo ca punapi vaṅgīso."
+    },
+    {
+      "id": "snp5.19:23.1",
+      "pali": "Sammāparibbājanīyopi cettha,"
+    },
+    {
+      "id": "snp5.19:23.2",
+      "pali": "Dhammikasuttavaro suvibhatto;"
+    },
+    {
+      "id": "snp5.19:23.3",
+      "pali": "Cuddasasuttadharo dutiyamhi,"
+    },
+    {
+      "id": "snp5.19:23.4",
+      "pali": "Cūḷakavaggavaroti tamāhu."
+    },
+    {
+      "id": "snp5.19:24.1",
+      "pali": "Pabbajjapadhānasubhāsitanāmo,"
+    },
+    {
+      "id": "snp5.19:24.2",
+      "pali": "Pūraḷāso punadeva māgho ca;"
+    },
+    {
+      "id": "snp5.19:24.3",
+      "pali": "Sabhiyaṁ keṇiyameva sallanāmo,"
+    },
+    {
+      "id": "snp5.19:24.4",
+      "pali": "Vāseṭṭhavaro kālikopi ca."
+    },
+    {
+      "id": "snp5.19:25.1",
+      "pali": "Nālakasuttavaro suvibhatto,"
+    },
+    {
+      "id": "snp5.19:25.2",
+      "pali": "Taṁ anupassī tathā punadeva;"
+    },
+    {
+      "id": "snp5.19:25.3",
+      "pali": "Dvādasasuttadharo tatiyamhi,"
+    },
+    {
+      "id": "snp5.19:25.4",
+      "pali": "Suyyati vaggavaro mahānāmo."
+    },
+    {
+      "id": "snp5.19:26.1",
+      "pali": "Kāmaguhaṭṭhakaduṭṭhakanāmā,"
+    },
+    {
+      "id": "snp5.19:26.2",
+      "pali": "Suddhavaro paramaṭṭhakanāmo;"
+    },
+    {
+      "id": "snp5.19:26.3",
+      "pali": "Jarā mettiyavaro suvibhatto,"
+    },
+    {
+      "id": "snp5.19:26.4",
+      "pali": "Pasūramāgaṇḍiyā purābhedo."
+    },
+    {
+      "id": "snp5.19:27.1",
+      "pali": "Kalahavivādo ubho viyuhā ca,"
+    },
+    {
+      "id": "snp5.19:27.2",
+      "pali": "Tuvaṭakaattadaṇḍasāriputtā;"
+    },
+    {
+      "id": "snp5.19:27.3",
+      "pali": "Soḷasasuttadharo catutthamhi,"
+    },
+    {
+      "id": "snp5.19:27.4",
+      "pali": "Aṭṭhakavaggavaroti tamāhu."
+    },
+    {
+      "id": "snp5.19:28.1",
+      "pali": "Magadhe janapade ramaṇīye,"
+    },
+    {
+      "id": "snp5.19:28.2",
+      "pali": "Desavare katapuññanivese;"
+    },
+    {
+      "id": "snp5.19:28.3",
+      "pali": "Pāsāṇakacetiyavare suvibhatte,"
+    },
+    {
+      "id": "snp5.19:28.4",
+      "pali": "Vasi bhagavā gaṇaseṭṭho."
+    },
+    {
+      "id": "snp5.19:29.1",
+      "pali": "Ubhayavāsamāgatiyamhi,"
+    },
+    {
+      "id": "snp5.19:29.2",
+      "pali": "Dvādasayojaniyā parisāya;"
+    },
+    {
+      "id": "snp5.19:29.3",
+      "pali": "Soḷasabrāhmaṇānaṁ kira puṭṭho,"
+    },
+    {
+      "id": "snp5.19:29.4",
+      "pali": "Pucchāya soḷasapañhakammiyā;"
+    },
+    {
+      "id": "snp5.19:29.5",
+      "pali": "Nippakāsayi dhammamadāsi."
+    },
+    {
+      "id": "snp5.19:30.1",
+      "pali": "Atthapakāsakabyañjanapuṇṇaṁ,"
+    },
+    {
+      "id": "snp5.19:30.2",
+      "pali": "Dhammamadesesi parakhemajaniyaṁ;"
+    },
+    {
+      "id": "snp5.19:30.3",
+      "pali": "Lokahitāya jino dvipadaggo,"
+    },
+    {
+      "id": "snp5.19:30.4",
+      "pali": "Suttavaraṁ bahudhammavicitraṁ;"
+    },
+    {
+      "id": "snp5.19:30.5",
+      "pali": "Sabbakilesapamocanahetuṁ,"
+    },
+    {
+      "id": "snp5.19:30.6",
+      "pali": "Desayi suttavaraṁ dvipadaggo."
+    },
+    {
+      "id": "snp5.19:31.1",
+      "pali": "Byañjanamatthapadaṁ samayuttaṁ,"
+    },
+    {
+      "id": "snp5.19:31.2",
+      "pali": "Akkharasaññitaopamagāḷhaṁ;"
+    },
+    {
+      "id": "snp5.19:31.3",
+      "pali": "Lokavicāraṇañāṇapabhaggaṁ,"
+    },
+    {
+      "id": "snp5.19:31.4",
+      "pali": "Desayi suttavaraṁ dvipadaggo."
+    },
+    {
+      "id": "snp5.19:32.1",
+      "pali": "Rāgamale amalaṁ vimalaggaṁ,"
+    },
+    {
+      "id": "snp5.19:32.2",
+      "pali": "Dosamale amalaṁ vimalaggaṁ;"
+    },
+    {
+      "id": "snp5.19:32.3",
+      "pali": "Mohamale amalaṁ vimalaggaṁ,"
+    },
+    {
+      "id": "snp5.19:32.4",
+      "pali": "Lokavicāraṇañāṇapabhaggaṁ;"
+    },
+    {
+      "id": "snp5.19:32.5",
+      "pali": "Desayi suttavaraṁ dvipadaggo."
+    },
+    {
+      "id": "snp5.19:33.1",
+      "pali": "Klesamale amalaṁ vimalaggaṁ,"
+    },
+    {
+      "id": "snp5.19:33.2",
+      "pali": "Duccaritamale amalaṁ vimalaggaṁ;"
+    },
+    {
+      "id": "snp5.19:33.3",
+      "pali": "Lokavicāraṇañāṇapabhaggaṁ,"
+    },
+    {
+      "id": "snp5.19:33.4",
+      "pali": "Desayi suttavaraṁ dvipadaggo."
+    },
+    {
+      "id": "snp5.19:34.1",
+      "pali": "Āsavabandhanayogākilesaṁ,"
+    },
+    {
+      "id": "snp5.19:34.2",
+      "pali": "Nīvaraṇāni ca tīṇi malāni;"
+    },
+    {
+      "id": "snp5.19:34.3",
+      "pali": "Tassa kilesapamocanahetuṁ,"
+    },
+    {
+      "id": "snp5.19:34.4",
+      "pali": "Desayi suttavaraṁ dvipadaggo."
+    },
+    {
+      "id": "snp5.19:35.1",
+      "pali": "Nimmalasabbakilesapanūdaṁ,"
+    },
+    {
+      "id": "snp5.19:35.2",
+      "pali": "Rāgavirāgamanejamasokaṁ;"
+    },
+    {
+      "id": "snp5.19:35.3",
+      "pali": "Santapaṇītasududdasadhammaṁ,"
+    },
+    {
+      "id": "snp5.19:35.4",
+      "pali": "Desayi suttavaraṁ dvipadaggo."
+    },
+    {
+      "id": "snp5.19:36.1",
+      "pali": "Rāgañca dosakamabhañjitasantaṁ,"
+    },
+    {
+      "id": "snp5.19:36.2",
+      "pali": "Yonicatuggatipañcaviññāṇaṁ;"
+    },
+    {
+      "id": "snp5.19:36.3",
+      "pali": "Taṇhāratacchadanatāṇalatāpamokkhaṁ,"
+    },
+    {
+      "id": "snp5.19:36.4",
+      "pali": "Desayi suttavaraṁ dvipadaggo."
+    },
+    {
+      "id": "snp5.19:37.1",
+      "pali": "Gambhīraduddasasaṇhanipuṇaṁ,"
+    },
+    {
+      "id": "snp5.19:37.2",
+      "pali": "Paṇḍitavedaniyaṁ nipuṇatthaṁ;"
+    },
+    {
+      "id": "snp5.19:37.3",
+      "pali": "Lokavicāraṇañāṇapabhaggaṁ,"
+    },
+    {
+      "id": "snp5.19:37.4",
+      "pali": "Desayi suttavaraṁ dvipadaggo."
+    },
+    {
+      "id": "snp5.19:38.1",
+      "pali": "Navaṅgakusumamālagīveyyaṁ,"
+    },
+    {
+      "id": "snp5.19:38.2",
+      "pali": "Indriyajhānavimokkhavibhattaṁ;"
+    },
+    {
+      "id": "snp5.19:38.3",
+      "pali": "Aṭṭhaṅgamaggadharaṁ varayānaṁ,"
+    },
+    {
+      "id": "snp5.19:38.4",
+      "pali": "Desayi suttavaraṁ dvipadaggo."
+    },
+    {
+      "id": "snp5.19:39.1",
+      "pali": "Somupamaṁ vimalaṁ parisuddhaṁ,"
+    },
+    {
+      "id": "snp5.19:39.2",
+      "pali": "Aṇṇavamūpamaratanasucittaṁ;"
+    },
+    {
+      "id": "snp5.19:39.3",
+      "pali": "Pupphasamaṁ ravimūpamatejaṁ,"
+    },
+    {
+      "id": "snp5.19:39.4",
+      "pali": "Desayi suttavaraṁ dvipadaggo."
+    },
+    {
+      "id": "snp5.19:40.1",
+      "pali": "Khemasivaṁ sukhasītalasantaṁ,"
+    },
+    {
+      "id": "snp5.19:40.2",
+      "pali": "Maccutatāṇaparaṁ paramatthaṁ;"
+    },
+    {
+      "id": "snp5.19:40.3",
+      "pali": "Tassa sunibbutadassanahetuṁ,"
+    },
+    {
+      "id": "snp5.19:40.4",
+      "pali": "Desayi suttavaraṁ dvipadaggoti."
+    },
+    {
+      "id": "snp5.19:40.5",
+      "pali": "Suttanipātapāḷi samattā."
+    }
+  ]
+}

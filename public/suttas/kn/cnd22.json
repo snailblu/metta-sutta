@@ -1,0 +1,3559 @@
+{
+  "uid": "cnd22",
+  "title": "18. Pārāyanānugītigāthāniddesa",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "cnd22:1.1",
+      "pali": "<b>Pārāyanamanugāyissaṁ,</b>"
+    },
+    {
+      "id": "cnd22:1.2",
+      "pali": "(iccāyasmā piṅgiyo)"
+    },
+    {
+      "id": "cnd22:1.3",
+      "pali": "<b>Yathāddakkhi tathākkhāsi;</b>"
+    },
+    {
+      "id": "cnd22:1.4",
+      "pali": "<b>Vimalo bhūrimedhaso,</b>"
+    },
+    {
+      "id": "cnd22:1.5",
+      "pali": "<b>Nikkāmo nibbano nāgo;</b>"
+    },
+    {
+      "id": "cnd22:1.6",
+      "pali": "<b>Kissa hetu musā bhaṇe. </b>"
+    },
+    {
+      "id": "cnd22:2.1",
+      "pali": "<b>Pārāyanamanugāyissan</b>ti gītamanugāyissaṁ kathitamanukathayissaṁ bhaṇitamanubhaṇissaṁ lapitamanulapissaṁ bhāsitamanubhāsissanti—"
+    },
+    {
+      "id": "cnd22:2.2",
+      "pali": "pārāyanamanugāyissaṁ."
+    },
+    {
+      "id": "cnd22:2.3",
+      "pali": "<b>Iccāyasmā piṅgiyo</b>ti."
+    },
+    {
+      "id": "cnd22:2.4",
+      "pali": "<b>Iccā</b>ti padasandhi …pe… padānupubbatāpetaṁ—"
+    },
+    {
+      "id": "cnd22:2.5",
+      "pali": "iccāti."
+    },
+    {
+      "id": "cnd22:2.6",
+      "pali": "<b>Āyasmā</b>ti piyavacanaṁ garuvacanaṁ sagāravasappatissādhivacanametaṁ—"
+    },
+    {
+      "id": "cnd22:2.7",
+      "pali": "āyasmāti."
+    },
+    {
+      "id": "cnd22:2.8",
+      "pali": "<b>Piṅgiyo</b>ti tassa therassa nāmaṁ saṅkhā samaññā paññatti vohāro nāmaṁ nāmakammaṁ nāmadheyyaṁ nirutti byañjanaṁ abhilāpoti—"
+    },
+    {
+      "id": "cnd22:2.9",
+      "pali": "iccāyasmā piṅgiyo."
+    },
+    {
+      "id": "cnd22:3.1",
+      "pali": "<b>Yathāddakkhi tathākkhāsī</b>ti yathā addakkhi tathā akkhāsi ācikkhi desesi paññapesi paṭṭhapesi vivari vibhaji uttānīakāsi pakāsesi."
+    },
+    {
+      "id": "cnd22:3.2",
+      "pali": "“Sabbe saṅkhārā aniccā”ti yathā addakkhi tathā akkhāsi ācikkhi desesi paññapesi paṭṭhapesi vivari vibhaji uttānīakāsi pakāsesi."
+    },
+    {
+      "id": "cnd22:3.3",
+      "pali": "“Sabbe saṅkhārā dukkhā”ti …pe…"
+    },
+    {
+      "id": "cnd22:3.4",
+      "pali": "“sabbe dhammā anattā”ti …"
+    },
+    {
+      "id": "cnd22:3.5",
+      "pali": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti yathā addakkhi tathā akkhāsi ācikkhi desesi paññapesi paṭṭhapesi vivari vibhaji uttānīakāsi pakāsesīti—"
+    },
+    {
+      "id": "cnd22:3.6",
+      "pali": "yathāddakkhi tathākkhāsi."
+    },
+    {
+      "id": "cnd22:4.1",
+      "pali": "<b>Vimalo bhūrimedhaso</b>ti."
+    },
+    {
+      "id": "cnd22:4.2",
+      "pali": "<b>Vimalo</b>ti rāgo malaṁ, doso malaṁ, moho malaṁ, kodho …"
+    },
+    {
+      "id": "cnd22:4.3",
+      "pali": "upanāho …pe… sabbākusalābhisaṅkhārā malā."
+    },
+    {
+      "id": "cnd22:4.4",
+      "pali": "Te malā buddhassa bhagavato pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "cnd22:4.5",
+      "pali": "Amalo buddho vimalo nimmalo malāpagato malavippahīno malavimutto sabbamalavītivatto."
+    },
+    {
+      "id": "cnd22:4.6",
+      "pali": "<b>Bhūri</b> vuccati pathavī."
+    },
+    {
+      "id": "cnd22:4.7",
+      "pali": "Bhagavā tāya pathavisamāya paññāya vipulāya vitthatāya samannāgato."
+    },
+    {
+      "id": "cnd22:4.8",
+      "pali": "Medhā vuccati paññā."
+    },
+    {
+      "id": "cnd22:4.9",
+      "pali": "Yā paññā pajānanā …pe… amoho dhammavicayo sammādiṭṭhi."
+    },
+    {
+      "id": "cnd22:4.10",
+      "pali": "Bhagavā imāya medhāya paññāya upeto samupeto upāgato samupāgato upapanno samupapanno samannāgato, tasmā buddho sumedhasoti—"
+    },
+    {
+      "id": "cnd22:4.11",
+      "pali": "vimalo bhūrimedhaso."
+    },
+    {
+      "id": "cnd22:5.1",
+      "pali": "<b>Nikkāmo nibbano nāgo</b>ti."
+    },
+    {
+      "id": "cnd22:5.2",
+      "pali": "<b>Kāmā</b>ti uddānato dve kāmā—"
+    },
+    {
+      "id": "cnd22:5.3",
+      "pali": "vatthukāmā ca kilesakāmā ca …pe…"
+    },
+    {
+      "id": "cnd22:5.4",
+      "pali": "ime vuccanti vatthukāmā …pe…"
+    },
+    {
+      "id": "cnd22:5.5",
+      "pali": "ime vuccanti kilesakāmā."
+    },
+    {
+      "id": "cnd22:5.6",
+      "pali": "Buddhassa bhagavato vatthukāmā pariññātā kilesakāmā pahīnā vatthukāmānaṁ pariññātattā kilesakāmānaṁ pahīnattā."
+    },
+    {
+      "id": "cnd22:5.7",
+      "pali": "Bhagavā na kāme kāmeti na kāme icchati na kāme pattheti na kāme piheti na kāme abhijappati."
+    },
+    {
+      "id": "cnd22:5.8",
+      "pali": "Ye kāme kāmenti kāme icchanti kāme patthenti kāme pihenti kāme abhijappanti te kāmakāmino rāgarāgino saññasaññino."
+    },
+    {
+      "id": "cnd22:5.9",
+      "pali": "Bhagavā na kāme kāmeti na kāme icchati na kāme pattheti na kāme piheti na kāme abhijappati."
+    },
+    {
+      "id": "cnd22:5.10",
+      "pali": "Tasmā buddho akāmo nikkāmo cattakāmo vantakāmo muttakāmo pahīnakāmo paṭinissaṭṭhakāmo vītarāgo vigatarāgo cattarāgo vantarāgo muttarāgo pahīnarāgo paṭinissaṭṭharāgo nicchāto nibbuto sītibhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharatīti—"
+    },
+    {
+      "id": "cnd22:5.11",
+      "pali": "nikkāmo."
+    },
+    {
+      "id": "cnd22:6.1",
+      "pali": "<b>Nibbano</b>ti rāgo vanaṁ, doso vanaṁ, moho vanaṁ, kodho vanaṁ, upanāho vanaṁ …pe…"
+    },
+    {
+      "id": "cnd22:6.2",
+      "pali": "sabbākusalābhisaṅkhārā vanā."
+    },
+    {
+      "id": "cnd22:6.3",
+      "pali": "Te vanā buddhassa bhagavato pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "cnd22:6.4",
+      "pali": "Tasmā buddho avano vivano nibbano vanāpagato vanavippahīno vanavimutto sabbavanavītivattoti—"
+    },
+    {
+      "id": "cnd22:6.5",
+      "pali": "nibbano."
+    },
+    {
+      "id": "cnd22:6.6",
+      "pali": "<b>Nāgo</b>ti nāgo;"
+    },
+    {
+      "id": "cnd22:6.7",
+      "pali": "bhagavā āguṁ na karotīti nāgo, na gacchatīti nāgo, na āgacchatīti nāgo …pe… evaṁ bhagavā na āgacchatīti nāgoti—"
+    },
+    {
+      "id": "cnd22:6.8",
+      "pali": "nikkāmo nibbano nāgo."
+    },
+    {
+      "id": "cnd22:7.1",
+      "pali": "<b>Kissa hetu musā bhaṇe</b>ti."
+    },
+    {
+      "id": "cnd22:7.2",
+      "pali": "<b>Kissa hetū</b>ti kissa hetu kiṁhetu kiṅkāraṇā kiṁnidānā kiṁpaccayāti—"
+    },
+    {
+      "id": "cnd22:7.3",
+      "pali": "kissa hetu."
+    },
+    {
+      "id": "cnd22:7.4",
+      "pali": "<b>Musā bhaṇe</b>ti musā bhaṇeyya katheyya dīpeyya vohareyya;"
+    },
+    {
+      "id": "cnd22:7.5",
+      "pali": "<b>musā bhaṇe</b>ti mosavajjaṁ bhaṇeyya, musāvādaṁ bhaṇeyya, anariyavādaṁ bhaṇeyya."
+    },
+    {
+      "id": "cnd22:7.6",
+      "pali": "Idhekacco sabhaggato vā parisaggato vā ñātimajjhagato vā pūgamajjhagato vā rājakulamajjhagato vā abhinīto sakkhipuṭṭho—"
+    },
+    {
+      "id": "cnd22:7.7",
+      "pali": "“ehambho purisa, yaṁ jānāsi taṁ vadehī”ti,"
+    },
+    {
+      "id": "cnd22:7.8",
+      "pali": "so ajānaṁ vā āha—“jānāmī”ti,"
+    },
+    {
+      "id": "cnd22:7.9",
+      "pali": "jānaṁ vā āha—“na jānāmī”ti,"
+    },
+    {
+      "id": "cnd22:7.10",
+      "pali": "apassaṁ vā āha—“passāmī”ti,"
+    },
+    {
+      "id": "cnd22:7.11",
+      "pali": "passaṁ vā āha—“na passāmī”ti."
+    },
+    {
+      "id": "cnd22:7.12",
+      "pali": "Iti attahetu vā parahetu vā āmisakiñcikkhahetu vā sampajānamusā bhāsati, idaṁ vuccati mosavajjaṁ."
+    },
+    {
+      "id": "cnd22:8.1",
+      "pali": "Api ca tīhākārehi musāvādo hoti."
+    },
+    {
+      "id": "cnd22:8.2",
+      "pali": "Pubbevassa hoti—"
+    },
+    {
+      "id": "cnd22:8.3",
+      "pali": "“musā bhaṇissan”ti, bhaṇantassa hoti—"
+    },
+    {
+      "id": "cnd22:8.4",
+      "pali": "“musā bhaṇāmī”ti, bhaṇitassa hoti—"
+    },
+    {
+      "id": "cnd22:8.5",
+      "pali": "“musā mayā bhaṇitan”ti—"
+    },
+    {
+      "id": "cnd22:8.6",
+      "pali": "imehi tīhākārehi musāvādo hoti."
+    },
+    {
+      "id": "cnd22:8.7",
+      "pali": "Api ca catūhākārehi musāvādo hoti."
+    },
+    {
+      "id": "cnd22:8.8",
+      "pali": "Pubbevassa hoti—"
+    },
+    {
+      "id": "cnd22:8.9",
+      "pali": "“musā bhaṇissan”ti, bhaṇantassa hoti—"
+    },
+    {
+      "id": "cnd22:8.10",
+      "pali": "“musā bhaṇāmī”ti, bhaṇitassa hoti—"
+    },
+    {
+      "id": "cnd22:8.11",
+      "pali": "“musā mayā bhaṇitan”ti, vinidhāya diṭṭhiṁ—"
+    },
+    {
+      "id": "cnd22:8.12",
+      "pali": "imehi catūhākārehi musāvādo hoti."
+    },
+    {
+      "id": "cnd22:8.13",
+      "pali": "Api ca pañcahākārehi …pe…"
+    },
+    {
+      "id": "cnd22:8.14",
+      "pali": "chahākārehi …"
+    },
+    {
+      "id": "cnd22:8.15",
+      "pali": "sattahākārehi …"
+    },
+    {
+      "id": "cnd22:8.16",
+      "pali": "aṭṭhahākārehi musāvādo hoti."
+    },
+    {
+      "id": "cnd22:8.17",
+      "pali": "Pubbevassa hoti—"
+    },
+    {
+      "id": "cnd22:8.18",
+      "pali": "“musā bhaṇissan”ti, bhaṇantassa hoti—"
+    },
+    {
+      "id": "cnd22:8.19",
+      "pali": "“musā bhaṇāmī”ti, bhaṇitassa hoti—"
+    },
+    {
+      "id": "cnd22:8.20",
+      "pali": "“musā mayā bhaṇitan”ti, vinidhāya diṭṭhiṁ, vinidhāya khantiṁ, vinidhāya ruciṁ, vinidhāya saññaṁ, vinidhāya bhāvaṁ—"
+    },
+    {
+      "id": "cnd22:8.21",
+      "pali": "imehi aṭṭhahākārehi musāvādo hoti mosavajjaṁ."
+    },
+    {
+      "id": "cnd22:8.22",
+      "pali": "Kissa hetu musā bhaṇeyya katheyya dīpeyya vohareyyāti—"
+    },
+    {
+      "id": "cnd22:8.23",
+      "pali": "kissa hetu musā bhaṇe."
+    },
+    {
+      "id": "cnd22:8.24",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:9.1",
+      "pali": "“Pārāyanamanugāyissaṁ,"
+    },
+    {
+      "id": "cnd22:9.2",
+      "pali": "(iccāyasmā piṅgiyo)"
+    },
+    {
+      "id": "cnd22:9.3",
+      "pali": "Yathāddakkhi tathākkhāsi;"
+    },
+    {
+      "id": "cnd22:9.4",
+      "pali": "Vimalo bhūrimedhaso,"
+    },
+    {
+      "id": "cnd22:9.5",
+      "pali": "Nikkāmo nibbano nāgo;"
+    },
+    {
+      "id": "cnd22:9.6",
+      "pali": "Kissa hetu musā bhaṇe”ti."
+    },
+    {
+      "id": "cnd22:10.1",
+      "pali": "<b>Pahīnamalamohassa,</b>"
+    },
+    {
+      "id": "cnd22:10.2",
+      "pali": "<b>mānamakkhappahāyino;</b>"
+    },
+    {
+      "id": "cnd22:10.3",
+      "pali": "<b>Handāhaṁ kittayissāmi,</b>"
+    },
+    {
+      "id": "cnd22:10.4",
+      "pali": "<b>giraṁ vaṇṇūpasañhitaṁ. </b>"
+    },
+    {
+      "id": "cnd22:11.1",
+      "pali": "<b>Pahīnamalamohassā</b>ti."
+    },
+    {
+      "id": "cnd22:11.2",
+      "pali": "<b>Malan</b>ti rāgo malaṁ, doso malaṁ, moho malaṁ, māno malaṁ, diṭṭhi malaṁ, kileso malaṁ, sabbaduccaritaṁ malaṁ, sabbabhavagāmikammaṁ malaṁ."
+    },
+    {
+      "id": "cnd22:12.1",
+      "pali": "<b>Moho</b>ti yaṁ dukkhe aññāṇaṁ …pe… avijjālaṅgī moho akusalamūlaṁ."
+    },
+    {
+      "id": "cnd22:12.2",
+      "pali": "Ayaṁ vuccati moho."
+    },
+    {
+      "id": "cnd22:12.3",
+      "pali": "Malañca moho ca buddhassa bhagavato pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "cnd22:12.4",
+      "pali": "Tasmā buddho pahīnamalamohoti—"
+    },
+    {
+      "id": "cnd22:12.5",
+      "pali": "pahīnamalamohassa."
+    },
+    {
+      "id": "cnd22:13.1",
+      "pali": "<b>Mānamakkhappahāyino</b>ti."
+    },
+    {
+      "id": "cnd22:13.2",
+      "pali": "<b>Māno</b>ti ekavidhena māno—"
+    },
+    {
+      "id": "cnd22:13.3",
+      "pali": "yā cittassa unnati."
+    },
+    {
+      "id": "cnd22:13.4",
+      "pali": "Duvidhena māno—"
+    },
+    {
+      "id": "cnd22:13.5",
+      "pali": "attukkaṁsanamāno,"
+    },
+    {
+      "id": "cnd22:13.6",
+      "pali": "paravambhanamāno."
+    },
+    {
+      "id": "cnd22:13.7",
+      "pali": "Tividhena māno—"
+    },
+    {
+      "id": "cnd22:13.8",
+      "pali": "seyyohamasmīti māno,"
+    },
+    {
+      "id": "cnd22:13.9",
+      "pali": "sadisohamasmīti māno,"
+    },
+    {
+      "id": "cnd22:13.10",
+      "pali": "hīnohamasmīti māno."
+    },
+    {
+      "id": "cnd22:13.11",
+      "pali": "Catubbidhena māno—"
+    },
+    {
+      "id": "cnd22:13.12",
+      "pali": "lābhena mānaṁ janeti,"
+    },
+    {
+      "id": "cnd22:13.13",
+      "pali": "yasena mānaṁ janeti,"
+    },
+    {
+      "id": "cnd22:13.14",
+      "pali": "pasaṁsāya mānaṁ janeti,"
+    },
+    {
+      "id": "cnd22:13.15",
+      "pali": "sukhena mānaṁ janeti."
+    },
+    {
+      "id": "cnd22:13.16",
+      "pali": "Pañcavidhena māno—"
+    },
+    {
+      "id": "cnd22:13.17",
+      "pali": "lābhimhi manāpikānaṁ rūpānanti mānaṁ janeti,"
+    },
+    {
+      "id": "cnd22:13.18",
+      "pali": "lābhimhi manāpikānaṁ saddānaṁ …pe…"
+    },
+    {
+      "id": "cnd22:13.19",
+      "pali": "gandhānaṁ …"
+    },
+    {
+      "id": "cnd22:13.20",
+      "pali": "rasānaṁ …"
+    },
+    {
+      "id": "cnd22:13.21",
+      "pali": "phoṭṭhabbānanti mānaṁ janeti."
+    },
+    {
+      "id": "cnd22:13.22",
+      "pali": "Chabbidhena māno—"
+    },
+    {
+      "id": "cnd22:13.23",
+      "pali": "cakkhusampadāya mānaṁ janeti,"
+    },
+    {
+      "id": "cnd22:13.24",
+      "pali": "sotasampadāya …pe…"
+    },
+    {
+      "id": "cnd22:13.25",
+      "pali": "ghānasampadāya …"
+    },
+    {
+      "id": "cnd22:13.26",
+      "pali": "jivhāsampadāya …"
+    },
+    {
+      "id": "cnd22:13.27",
+      "pali": "kāyasampadāya …"
+    },
+    {
+      "id": "cnd22:13.28",
+      "pali": "manosampadāya mānaṁ janeti."
+    },
+    {
+      "id": "cnd22:13.29",
+      "pali": "Sattavidhena māno—"
+    },
+    {
+      "id": "cnd22:13.30",
+      "pali": "māno,"
+    },
+    {
+      "id": "cnd22:13.31",
+      "pali": "atimāno,"
+    },
+    {
+      "id": "cnd22:13.32",
+      "pali": "mānātimāno,"
+    },
+    {
+      "id": "cnd22:13.33",
+      "pali": "omāno,"
+    },
+    {
+      "id": "cnd22:13.34",
+      "pali": "avamāno,"
+    },
+    {
+      "id": "cnd22:13.35",
+      "pali": "asmimāno,"
+    },
+    {
+      "id": "cnd22:13.36",
+      "pali": "micchāmāno."
+    },
+    {
+      "id": "cnd22:13.37",
+      "pali": "Aṭṭhavidhena māno—"
+    },
+    {
+      "id": "cnd22:13.38",
+      "pali": "lābhena mānaṁ janeti,"
+    },
+    {
+      "id": "cnd22:13.39",
+      "pali": "alābhena omānaṁ janeti,"
+    },
+    {
+      "id": "cnd22:13.40",
+      "pali": "yasena mānaṁ janeti,"
+    },
+    {
+      "id": "cnd22:13.41",
+      "pali": "ayasena omānaṁ janeti,"
+    },
+    {
+      "id": "cnd22:13.42",
+      "pali": "pasaṁsāya mānaṁ janeti,"
+    },
+    {
+      "id": "cnd22:13.43",
+      "pali": "nindāya omānaṁ janeti,"
+    },
+    {
+      "id": "cnd22:13.44",
+      "pali": "sukhena mānaṁ janeti,"
+    },
+    {
+      "id": "cnd22:13.45",
+      "pali": "dukkhena omānaṁ janeti."
+    },
+    {
+      "id": "cnd22:13.46",
+      "pali": "Navavidhena māno—"
+    },
+    {
+      "id": "cnd22:13.47",
+      "pali": "seyyassa seyyohamasmīti māno,"
+    },
+    {
+      "id": "cnd22:13.48",
+      "pali": "seyyassa sadisohamasmīti māno,"
+    },
+    {
+      "id": "cnd22:13.49",
+      "pali": "seyyassa hīnohamasmīti māno,"
+    },
+    {
+      "id": "cnd22:13.50",
+      "pali": "sadisassa seyyohamasmīti māno,"
+    },
+    {
+      "id": "cnd22:13.51",
+      "pali": "sadisassa sadisohamasmīti māno,"
+    },
+    {
+      "id": "cnd22:13.52",
+      "pali": "sadisassa hīnohamasmīti māno,"
+    },
+    {
+      "id": "cnd22:13.53",
+      "pali": "hīnassa seyyohamasmīti māno,"
+    },
+    {
+      "id": "cnd22:13.54",
+      "pali": "hīnassa sadisohamasmīti māno,"
+    },
+    {
+      "id": "cnd22:13.55",
+      "pali": "hīnassa hīnohamasmīti māno."
+    },
+    {
+      "id": "cnd22:13.56",
+      "pali": "Dasavidhena māno—"
+    },
+    {
+      "id": "cnd22:13.57",
+      "pali": "idhekacco mānaṁ janeti jātiyā vā gottena vā kolaputtiyena vā vaṇṇapokkharatāya vā dhanena vā ajjhenena vā kammāyatanena vā sippāyatanena vā vijjāṭṭhānena vā sutena vā paṭibhānena vā aññataraññatarena vā vatthunā."
+    },
+    {
+      "id": "cnd22:13.58",
+      "pali": "Yo evarūpo māno maññanā maññitattaṁ unnati unnamo dhajo sampaggāho ketukamyatā cittassa—"
+    },
+    {
+      "id": "cnd22:13.59",
+      "pali": "ayaṁ vuccati māno."
+    },
+    {
+      "id": "cnd22:14.1",
+      "pali": "<b>Makkho</b>ti yo makkho makkhāyanā makkhāyitattaṁ niṭṭhuriyaṁ niṭṭhuriyakammaṁ—"
+    },
+    {
+      "id": "cnd22:14.2",
+      "pali": "ayaṁ vuccati makkho."
+    },
+    {
+      "id": "cnd22:14.3",
+      "pali": "Buddhassa bhagavato māno ca makkho ca pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "cnd22:14.4",
+      "pali": "Tasmā buddho mānamakkhappahāyīti—"
+    },
+    {
+      "id": "cnd22:14.5",
+      "pali": "mānamakkhappahāyino."
+    },
+    {
+      "id": "cnd22:15.1",
+      "pali": "<b>Handāhaṁ kittayissāmi giraṁ vaṇṇūpasañhitan</b>ti."
+    },
+    {
+      "id": "cnd22:15.2",
+      "pali": "<b>Handāhan</b>ti padasandhi padasaṁsaggo padapāripūrī akkharasamavāyo byañjanasiliṭṭhatā padānupubbatāpetaṁ—"
+    },
+    {
+      "id": "cnd22:15.3",
+      "pali": "handāhanti."
+    },
+    {
+      "id": "cnd22:15.4",
+      "pali": "<b>Kittayissāmi giraṁ vaṇṇūpasañhitan</b>ti vaṇṇena upetaṁ samupetaṁ upāgataṁ samupāgataṁ upapannaṁ samupapannaṁ samannāgataṁ vācaṁ giraṁ byappathaṁ udīraṇaṁ kittayissāmi desessāmi paññapessāmi paṭṭhapessāmi vivarissāmi vibhajissāmi uttānīkarissāmi pakāsessāmīti—"
+    },
+    {
+      "id": "cnd22:15.5",
+      "pali": "handāhaṁ kittayissāmi giraṁ vaṇṇūpasañhitaṁ."
+    },
+    {
+      "id": "cnd22:15.6",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:16.1",
+      "pali": "“Pahīnamalamohassa,"
+    },
+    {
+      "id": "cnd22:16.2",
+      "pali": "mānamakkhappahāyino;"
+    },
+    {
+      "id": "cnd22:16.3",
+      "pali": "Handāhaṁ kittayissāmi,"
+    },
+    {
+      "id": "cnd22:16.4",
+      "pali": "giraṁ vaṇṇūpasañhitan”ti."
+    },
+    {
+      "id": "cnd22:17.1",
+      "pali": "<b>Tamonudo buddho samantacakkhu,</b>"
+    },
+    {
+      "id": "cnd22:17.2",
+      "pali": "<b>Lokantagū sabbabhavātivatto;</b>"
+    },
+    {
+      "id": "cnd22:17.3",
+      "pali": "<b>Anāsavo sabbadukkhappahīno,</b>"
+    },
+    {
+      "id": "cnd22:17.4",
+      "pali": "<b>Saccavhayo brahme upāsito me. </b>"
+    },
+    {
+      "id": "cnd22:18.1",
+      "pali": "<b>Tamonudo buddho samantacakkhū</b>ti."
+    },
+    {
+      "id": "cnd22:18.2",
+      "pali": "<b>Tamonudo</b>ti rāgatamaṁ dosatamaṁ mohatamaṁ mānatamaṁ diṭṭhitamaṁ kilesatamaṁ duccaritatamaṁ andhakaraṇaṁ aññāṇakaraṇaṁ paññānirodhikaṁ vighātapakkhikaṁ anibbānasaṁvattanikaṁ nudi panudi pajahi vinodesi byantīakāsi anabhāvaṁ gamesi."
+    },
+    {
+      "id": "cnd22:18.3",
+      "pali": "<b>Buddho</b>ti yo so bhagavā …pe… sacchikā paññatti;"
+    },
+    {
+      "id": "cnd22:18.4",
+      "pali": "yadidaṁ buddhoti."
+    },
+    {
+      "id": "cnd22:18.5",
+      "pali": "<b>Samantacakkhu</b> vuccati sabbaññutañāṇaṁ …pe…"
+    },
+    {
+      "id": "cnd22:18.6",
+      "pali": "tathāgato tena samantacakkhūti—"
+    },
+    {
+      "id": "cnd22:18.7",
+      "pali": "tamonudo buddho samantacakkhu."
+    },
+    {
+      "id": "cnd22:19.1",
+      "pali": "<b>Lokantagū sabbabhavātivatto</b>ti."
+    },
+    {
+      "id": "cnd22:19.2",
+      "pali": "<b>Loko</b>ti eko loko—"
+    },
+    {
+      "id": "cnd22:19.3",
+      "pali": "bhavaloko."
+    },
+    {
+      "id": "cnd22:19.4",
+      "pali": "Dve lokā—"
+    },
+    {
+      "id": "cnd22:19.5",
+      "pali": "bhavaloko ca sambhavaloko ca;"
+    },
+    {
+      "id": "cnd22:19.6",
+      "pali": "sampattibhavaloko ca sampattisambhavaloko ca;"
+    },
+    {
+      "id": "cnd22:19.7",
+      "pali": "vipattibhavaloko ca vipattisambhavaloko ca."
+    },
+    {
+      "id": "cnd22:19.8",
+      "pali": "Tayo lokā—"
+    },
+    {
+      "id": "cnd22:19.9",
+      "pali": "tisso vedanā."
+    },
+    {
+      "id": "cnd22:19.10",
+      "pali": "Cattāro lokā—"
+    },
+    {
+      "id": "cnd22:19.11",
+      "pali": "cattāro āhārā."
+    },
+    {
+      "id": "cnd22:19.12",
+      "pali": "Pañca lokā—"
+    },
+    {
+      "id": "cnd22:19.13",
+      "pali": "pañcupādānakkhandhā."
+    },
+    {
+      "id": "cnd22:19.14",
+      "pali": "Cha lokā—"
+    },
+    {
+      "id": "cnd22:19.15",
+      "pali": "cha ajjhattikāni āyatanāni."
+    },
+    {
+      "id": "cnd22:19.16",
+      "pali": "Satta lokā—"
+    },
+    {
+      "id": "cnd22:19.17",
+      "pali": "sattaviññāṇaṭṭhitiyo."
+    },
+    {
+      "id": "cnd22:19.18",
+      "pali": "Aṭṭha lokā—"
+    },
+    {
+      "id": "cnd22:19.19",
+      "pali": "aṭṭha lokadhammā."
+    },
+    {
+      "id": "cnd22:19.20",
+      "pali": "Nava lokā—"
+    },
+    {
+      "id": "cnd22:19.21",
+      "pali": "nava sattāvāsā."
+    },
+    {
+      "id": "cnd22:19.22",
+      "pali": "Dasa lokā—"
+    },
+    {
+      "id": "cnd22:19.23",
+      "pali": "dasa āyatanāni."
+    },
+    {
+      "id": "cnd22:19.24",
+      "pali": "Dvādasa lokā—"
+    },
+    {
+      "id": "cnd22:19.25",
+      "pali": "dvādasāyatanāni."
+    },
+    {
+      "id": "cnd22:19.26",
+      "pali": "Aṭṭhārasa lokā—"
+    },
+    {
+      "id": "cnd22:19.27",
+      "pali": "aṭṭhārasa dhātuyo."
+    },
+    {
+      "id": "cnd22:19.28",
+      "pali": "<b>Lokantagū</b>ti bhagavā lokassa antagato antappatto koṭigato koṭippatto … nibbānagato nibbānappatto."
+    },
+    {
+      "id": "cnd22:19.29",
+      "pali": "So vutthavāso ciṇṇacaraṇo … jātimaraṇasaṁsāro natthi tassa punabbhavoti—"
+    },
+    {
+      "id": "cnd22:19.30",
+      "pali": "lokantagū."
+    },
+    {
+      "id": "cnd22:20.1",
+      "pali": "<b>Sabbabhavātivatto</b>ti."
+    },
+    {
+      "id": "cnd22:20.2",
+      "pali": "<b>Bhavā</b>ti dve bhavā—"
+    },
+    {
+      "id": "cnd22:20.3",
+      "pali": "kammabhavo ca paṭisandhiko ca punabbhavo."
+    },
+    {
+      "id": "cnd22:20.4",
+      "pali": "Katamo kammabhavo?"
+    },
+    {
+      "id": "cnd22:20.5",
+      "pali": "Puññābhisaṅkhāro apuññābhisaṅkhāro āneñjābhisaṅkhāro—"
+    },
+    {
+      "id": "cnd22:20.6",
+      "pali": "ayaṁ kammabhavo."
+    },
+    {
+      "id": "cnd22:20.7",
+      "pali": "Katamo paṭisandhiko punabbhavo?"
+    },
+    {
+      "id": "cnd22:20.8",
+      "pali": "Paṭisandhikā rūpā vedanā saññā saṅkhārā viññāṇaṁ—"
+    },
+    {
+      "id": "cnd22:20.9",
+      "pali": "ayaṁ paṭisandhiko punabbhavo."
+    },
+    {
+      "id": "cnd22:20.10",
+      "pali": "Bhagavā kammabhavañca paṭisandhikañca punabbhavaṁ ativatto atikkanto vītivattoti—"
+    },
+    {
+      "id": "cnd22:20.11",
+      "pali": "lokantagū sabbabhavātivatto."
+    },
+    {
+      "id": "cnd22:21.1",
+      "pali": "<b>Anāsavo sabbadukkhappahīno</b>ti."
+    },
+    {
+      "id": "cnd22:21.2",
+      "pali": "<b>Anāsavo</b>ti cattāro āsavā—"
+    },
+    {
+      "id": "cnd22:21.3",
+      "pali": "kāmāsavo, bhavāsavo, diṭṭhāsavo, avijjāsavo."
+    },
+    {
+      "id": "cnd22:21.4",
+      "pali": "Te āsavā buddhassa bhagavato pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "cnd22:21.5",
+      "pali": "Tasmā buddho anāsavo."
+    },
+    {
+      "id": "cnd22:21.6",
+      "pali": "<b>Sabbadukkhappahīno</b>ti sabbaṁ tassa paṭisandhikaṁ jātidukkhaṁ jarādukkhaṁ byādhidukkhaṁ maraṇadukkhaṁ sokaparidevadukkhadomanassupāyāsadukkhaṁ …pe…"
+    },
+    {
+      "id": "cnd22:21.7",
+      "pali": "diṭṭhibyasanadukkhaṁ pahīnaṁ samucchinnaṁ vūpasantaṁ paṭippassaddhaṁ abhabbuppattikaṁ ñāṇagginā daḍḍhaṁ."
+    },
+    {
+      "id": "cnd22:21.8",
+      "pali": "Tasmā buddho sabbadukkhappahīnoti—"
+    },
+    {
+      "id": "cnd22:21.9",
+      "pali": "anāsavo sabbadukkhappahīno."
+    },
+    {
+      "id": "cnd22:22.1",
+      "pali": "<b>Saccavhayo brahme upāsito me</b>ti."
+    },
+    {
+      "id": "cnd22:22.2",
+      "pali": "<b>Saccavhayo</b>ti saccavhayo sadisanāmo sadisavhayo saccasadisavhayo."
+    },
+    {
+      "id": "cnd22:22.3",
+      "pali": "Vipassī bhagavā, sikhī bhagavā, vessabhū bhagavā, kakusandho bhagavā, koṇāgamano bhagavā, kassapo bhagavā."
+    },
+    {
+      "id": "cnd22:22.4",
+      "pali": "Te buddhā bhagavanto sadisanāmā sadisavhayā."
+    },
+    {
+      "id": "cnd22:22.5",
+      "pali": "Bhagavāpi sakyamuni tesaṁ buddhānaṁ bhagavantānaṁ sadisanāmo sadisavhayoti—"
+    },
+    {
+      "id": "cnd22:22.6",
+      "pali": "tasmā buddho saccavhayo."
+    },
+    {
+      "id": "cnd22:23.1",
+      "pali": "<b>Brahme upāsito me</b>ti so mayā bhagavā āsito upāsito payirupāsito paripucchito paripañhitoti—"
+    },
+    {
+      "id": "cnd22:23.2",
+      "pali": "saccavhayo brahme upāsito me."
+    },
+    {
+      "id": "cnd22:23.3",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:24.1",
+      "pali": "“Tamonudo buddho samantacakkhu,"
+    },
+    {
+      "id": "cnd22:24.2",
+      "pali": "Lokantagū sabbabhavātivatto;"
+    },
+    {
+      "id": "cnd22:24.3",
+      "pali": "Anāsavo sabbadukkhappahīno,"
+    },
+    {
+      "id": "cnd22:24.4",
+      "pali": "Saccavhayo brahme upāsito me”ti."
+    },
+    {
+      "id": "cnd22:25.1",
+      "pali": "<b>Dijo yathā kubbanakaṁ pahāya,</b>"
+    },
+    {
+      "id": "cnd22:25.2",
+      "pali": "<b>Bahupphalaṁ kānanamāvaseyya;</b>"
+    },
+    {
+      "id": "cnd22:25.3",
+      "pali": "<b>Evamahaṁ appadasse pahāya,</b>"
+    },
+    {
+      "id": "cnd22:25.4",
+      "pali": "<b>Mahodadhiṁ haṁsoriva ajjhapatto. </b>"
+    },
+    {
+      "id": "cnd22:26.1",
+      "pali": "<b>Dijo yathā kubbanakaṁ pahāya, bahupphalaṁ kānanamāvaseyyā</b>ti."
+    },
+    {
+      "id": "cnd22:26.2",
+      "pali": "<b>Dijo</b> vuccati pakkhī."
+    },
+    {
+      "id": "cnd22:26.3",
+      "pali": "Kiṅkāraṇā dijo vuccati pakkhī?"
+    },
+    {
+      "id": "cnd22:26.4",
+      "pali": "Dvikkhattuṁ jāyatīti dijo, mātukucchimhā ca aṇḍakosamhā ca."
+    },
+    {
+      "id": "cnd22:26.5",
+      "pali": "Taṅkāraṇā dijo vuccati pakkhīti—"
+    },
+    {
+      "id": "cnd22:26.6",
+      "pali": "dijo."
+    },
+    {
+      "id": "cnd22:26.7",
+      "pali": "<b>Yathā kubbanakaṁ pahāyā</b>ti yathā dijo kubbanakaṁ parittavanakaṁ appaphalaṁ appabhakkhaṁ appodakaṁ pahāya jahitvā atikkamitvā samatikkamitvā vītivattetvā aññaṁ bahupphalaṁ bahubhakkhaṁ bahūdakaṁ mahantaṁ kānanaṁ vanasaṇḍaṁ adhigaccheyya vindeyya paṭilabheyya, tasmiñca vanasaṇḍe vāsaṁ kappeyyāti—"
+    },
+    {
+      "id": "cnd22:26.8",
+      "pali": "dijo yathā kubbanakaṁ pahāya bahupphalaṁ kānanaṁ āvaseyya."
+    },
+    {
+      "id": "cnd22:27.1",
+      "pali": "<b>Evamahaṁ appadasse pahāya, mahodadhiṁ haṁsoriva ajjhapatto</b>ti."
+    },
+    {
+      "id": "cnd22:27.2",
+      "pali": "<b>Evan</b>ti opammasampaṭipādanaṁ."
+    },
+    {
+      "id": "cnd22:27.3",
+      "pali": "<b>Appadasse pahāyā</b>ti yo ca bāvarī brāhmaṇo ye caññe tassa ācariyā buddhaṁ bhagavantaṁ upādāya appadassā parittadassā thokadassā omakadassā lāmakadassā chatukkadassā vā."
+    },
+    {
+      "id": "cnd22:27.4",
+      "pali": "Te appadasse parittadasse thokadasse omakadasse lāmakadasse chatukkadasse pahāya pajahitvā atikkamitvā samatikkamitvā vītivattetvā buddhaṁ bhagavantaṁ appamāṇadassaṁ aggadassaṁ seṭṭhadassaṁ viseṭṭhadassaṁ pāmokkhadassaṁ uttamadassaṁ pavaradassaṁ asamaṁ asamasamaṁ appaṭisamaṁ appaṭibhāgaṁ appaṭipuggalaṁ devātidevaṁ narāsabhaṁ purisasīhaṁ purisanāgaṁ purisājaññaṁ purisanisabhaṁ purisadhorayhaṁ dasabaladhāriṁ adhigacchiṁ vindiṁ paṭilabhiṁ."
+    },
+    {
+      "id": "cnd22:27.5",
+      "pali": "Yathā ca haṁso mahantaṁ mānasakaṁ vā saraṁ anotattaṁ vā dahaṁ mahāsamuddaṁ vā akkhobhaṁ amitodakaṁ jalarāsiṁ adhigaccheyya vindeyya paṭilabheyya, evameva buddhaṁ bhagavantaṁ akkhobhaṁ amitatejaṁ pabhinnañāṇaṁ vivaṭacakkhuṁ paññāpabhedakusalaṁ adhigatapaṭisambhidaṁ catuvesārajjappattaṁ suddhādhimuttaṁ setapaccattaṁ advayabhāṇiṁ tādiṁ tathāpaṭiññaṁ aparittaṁ mahantaṁ gambhīraṁ appameyyaṁ duppariyogāhaṁ pahūtaratanaṁ sāgarasamaṁ chaḷaṅgupekkhāya samannāgataṁ atulaṁ vipulaṁ appameyyaṁ, taṁ tādisaṁ pavadataṁ maggavādinaṁ merumiva nagānaṁ garuḷamiva dijānaṁ sīhamiva migānaṁ udadhimiva aṇṇavānaṁ adhigacchiṁ, taṁ satthāraṁ jinapavaraṁ mahesinti—"
+    },
+    {
+      "id": "cnd22:27.6",
+      "pali": "evamahaṁ appadasse pahāya mahodadhiṁ haṁsoriva ajjhapatto."
+    },
+    {
+      "id": "cnd22:27.7",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:28.1",
+      "pali": "“Dijo yathā kubbanakaṁ pahāya,"
+    },
+    {
+      "id": "cnd22:28.2",
+      "pali": "Bahupphalaṁ kānanamāvaseyya;"
+    },
+    {
+      "id": "cnd22:28.3",
+      "pali": "Evamahaṁ appadasse pahāya,"
+    },
+    {
+      "id": "cnd22:28.4",
+      "pali": "Mahodadhiṁ haṁsoriva ajjhapatto”ti."
+    },
+    {
+      "id": "cnd22:29.1",
+      "pali": "<b>Yeme pubbe viyākaṁsu,</b>"
+    },
+    {
+      "id": "cnd22:29.2",
+      "pali": "<b>Huraṁ gotamasāsanā;</b>"
+    },
+    {
+      "id": "cnd22:29.3",
+      "pali": "<b>Iccāsi iti bhavissati,</b>"
+    },
+    {
+      "id": "cnd22:29.4",
+      "pali": "<b>Sabbaṁ taṁ itihītihaṁ;</b>"
+    },
+    {
+      "id": "cnd22:29.5",
+      "pali": "<b>Sabbaṁ taṁ takkavaḍḍhanaṁ. </b>"
+    },
+    {
+      "id": "cnd22:30.1",
+      "pali": "<b>Ye me pubbe viyākaṁsū</b>ti."
+    },
+    {
+      "id": "cnd22:30.2",
+      "pali": "<b>Ye</b>ti yo ca bāvarī brāhmaṇo ye caññe tassa ācariyā, te sakaṁ diṭṭhiṁ sakaṁ khantiṁ sakaṁ ruciṁ sakaṁ laddhiṁ sakaṁ ajjhāsayaṁ sakaṁ adhippāyaṁ byākaṁsu ācikkhiṁsu desayiṁsu paññapiṁsu paṭṭhapiṁsu vivariṁsu vibhajiṁsu uttānīakaṁsu pakāsesunti—"
+    },
+    {
+      "id": "cnd22:30.3",
+      "pali": "ye me pubbe viyākaṁsu."
+    },
+    {
+      "id": "cnd22:31.1",
+      "pali": "<b>Huraṁ gotamasāsanā</b>ti huraṁ gotamasāsanā, paraṁ gotamasāsanā, pure gotamasāsanā, paṭhamataraṁ gotamasāsanā buddhasāsanā jinasāsanā tathāgatasāsanā arahantasāsanāti—"
+    },
+    {
+      "id": "cnd22:31.2",
+      "pali": "huraṁ gotamasāsanā."
+    },
+    {
+      "id": "cnd22:32.1",
+      "pali": "<b>Iccāsi iti bhavissatī</b>ti evaṁ kira āsi, evaṁ kira bhavissatīti—"
+    },
+    {
+      "id": "cnd22:32.2",
+      "pali": "iccāsi iti bhavissati."
+    },
+    {
+      "id": "cnd22:33.1",
+      "pali": "<b>Sabbaṁ taṁ itihītihan</b>ti sabbaṁ taṁ itihītihaṁ itikirāya paramparāya piṭakasampadāya takkahetu nayahetu ākāraparivitakkena diṭṭhinijjhānakkhantiyā na sāmaṁ sayamabhiññātaṁ na attapaccakkhaṁ dhammaṁ yaṁ kathayiṁsūti—"
+    },
+    {
+      "id": "cnd22:33.2",
+      "pali": "sabbaṁ taṁ itihītihaṁ."
+    },
+    {
+      "id": "cnd22:34.1",
+      "pali": "<b>Sabbaṁ taṁ takkavaḍḍhanan</b>ti sabbaṁ taṁ takkavaḍḍhanaṁ vitakkavaḍḍhanaṁ saṅkappavaḍḍhanaṁ kāmavitakkavaḍḍhanaṁ byāpādavitakkavaḍḍhanaṁ vihiṁsāvitakkavaḍḍhanaṁ ñātivitakkavaḍḍhanaṁ janapadavitakkavaḍḍhanaṁ amarāvitakkavaḍḍhanaṁ parānudayatāpaṭisaṁyuttavitakkavaḍḍhanaṁ lābhasakkārasilokapaṭisaṁyuttavitakkavaḍḍhanaṁ anavaññattipaṭisaṁyuttavitakkavaḍḍhananti—"
+    },
+    {
+      "id": "cnd22:34.2",
+      "pali": "sabbaṁ taṁ takkavaḍḍhanaṁ."
+    },
+    {
+      "id": "cnd22:34.3",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:35.1",
+      "pali": "“Yeme pubbe viyākaṁsu,"
+    },
+    {
+      "id": "cnd22:35.2",
+      "pali": "Huraṁ gotamasāsanā;"
+    },
+    {
+      "id": "cnd22:35.3",
+      "pali": "Iccāsi iti bhavissati,"
+    },
+    {
+      "id": "cnd22:35.4",
+      "pali": "Sabbaṁ taṁ itihītihaṁ;"
+    },
+    {
+      "id": "cnd22:35.5",
+      "pali": "Sabbaṁ taṁ takkavaḍḍhanan”ti."
+    },
+    {
+      "id": "cnd22:36.1",
+      "pali": "<b>Eko tamonudāsīno,</b>"
+    },
+    {
+      "id": "cnd22:36.2",
+      "pali": "<b>jutimā so pabhaṅkaro;</b>"
+    },
+    {
+      "id": "cnd22:36.3",
+      "pali": "<b>Gotamo bhūripaññāṇo,</b>"
+    },
+    {
+      "id": "cnd22:36.4",
+      "pali": "<b>gotamo bhūrimedhaso. </b>"
+    },
+    {
+      "id": "cnd22:37.1",
+      "pali": "<b>Eko tamonudāsīno</b>ti."
+    },
+    {
+      "id": "cnd22:37.2",
+      "pali": "<b>Eko</b>ti bhagavā pabbajjasaṅkhātena eko, adutiyaṭṭhena eko, taṇhāya pahānaṭṭhena eko, ekantavītarāgoti eko, ekantavītadosoti eko, ekantavītamohoti eko, ekantanikkilesoti eko, ekāyanamaggaṁ gatoti eko, eko anuttaraṁ sammāsambodhiṁ abhisambuddhoti eko."
+    },
+    {
+      "id": "cnd22:38.1",
+      "pali": "Kathaṁ bhagavā pabbajjasaṅkhātena eko?"
+    },
+    {
+      "id": "cnd22:38.2",
+      "pali": "Bhagavā daharova samāno susu kāḷakeso bhadrena yobbanena samannāgato paṭhamena vayasā akāmakānaṁ mātāpitūnaṁ assumukhānaṁ rodantānaṁ vilapantānaṁ ñātisaṅghaṁ sabbaṁ gharāvāsapalibodhaṁ chinditvā puttadārapalibodhaṁ chinditvā ñātipalibodhaṁ chinditvā mittāmaccapalibodhaṁ chinditvā sannidhipalibodhaṁ chinditvā kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajitvā akiñcanabhāvaṁ upagantvā eko carati viharati iriyati vatteti pāleti yapeti yāpeti."
+    },
+    {
+      "id": "cnd22:38.3",
+      "pali": "Evaṁ bhagavā pabbajjasaṅkhātena eko."
+    },
+    {
+      "id": "cnd22:39.1",
+      "pali": "Kathaṁ bhagavā adutiyaṭṭhena eko?"
+    },
+    {
+      "id": "cnd22:39.2",
+      "pali": "Evaṁ pabbajito samāno eko araññavanapatthāni pantāni senāsanāni paṭisevati appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni."
+    },
+    {
+      "id": "cnd22:39.3",
+      "pali": "So eko gacchati, eko tiṭṭhati, eko nisīdati, eko seyyaṁ kappeti, eko gāmaṁ piṇḍāya pavisati, eko abhikkamati, eko paṭikkamati, eko raho nisīdati, eko caṅkamaṁ adhiṭṭhāti, eko carati viharati iriyati vatteti pāleti yapeti yāpeti."
+    },
+    {
+      "id": "cnd22:39.4",
+      "pali": "Evaṁ bhagavā adutiyaṭṭhena eko."
+    },
+    {
+      "id": "cnd22:40.1",
+      "pali": "Kathaṁ bhagavā taṇhāya pahānaṭṭhena eko?"
+    },
+    {
+      "id": "cnd22:40.2",
+      "pali": "So evaṁ eko adutiyo appamatto ātāpī pahitatto viharanto najjā nerañjarāya tīre bodhirukkhamūle mahāpadhānaṁ padahanto māraṁ sasenaṁ kaṇhaṁ namuciṁ pamattabandhuṁ vidhamitvā taṇhājāliniṁ visaṭaṁ visattikaṁ pajahi vinodesi byantīakāsi anabhāvaṁ gamesi."
+    },
+    {
+      "id": "cnd22:41.1",
+      "pali": "“Taṇhādutiyo puriso,"
+    },
+    {
+      "id": "cnd22:41.2",
+      "pali": "dīghamaddhāna saṁsaraṁ;"
+    },
+    {
+      "id": "cnd22:41.3",
+      "pali": "Itthabhāvaññathābhāvaṁ,"
+    },
+    {
+      "id": "cnd22:41.4",
+      "pali": "saṁsāraṁ nātivattati."
+    },
+    {
+      "id": "cnd22:42.1",
+      "pali": "Etamādīnavaṁ ñatvā,"
+    },
+    {
+      "id": "cnd22:42.2",
+      "pali": "Taṇhaṁ dukkhassa sambhavaṁ;"
+    },
+    {
+      "id": "cnd22:42.3",
+      "pali": "Vītataṇho anādāno,"
+    },
+    {
+      "id": "cnd22:42.4",
+      "pali": "Sato bhikkhu paribbaje”ti."
+    },
+    {
+      "id": "cnd22:43.1",
+      "pali": "Evaṁ bhagavā taṇhāya pahānaṭṭhena eko."
+    },
+    {
+      "id": "cnd22:44.1",
+      "pali": "Kathaṁ bhagavā ekantavītarāgoti eko?"
+    },
+    {
+      "id": "cnd22:44.2",
+      "pali": "Rāgassa pahīnattā ekantavītarāgoti eko, dosassa pahīnattā ekantavītadosoti eko, mohassa pahīnattā ekantavītamohoti eko, kilesānaṁ pahīnattā ekantanikkilesoti eko."
+    },
+    {
+      "id": "cnd22:45.1",
+      "pali": "Kathaṁ bhagavā ekāyanamaggaṁ gatoti eko?"
+    },
+    {
+      "id": "cnd22:45.2",
+      "pali": "Ekāyanamaggo vuccati cattāro satipaṭṭhānā …pe…"
+    },
+    {
+      "id": "cnd22:45.3",
+      "pali": "ariyo aṭṭhaṅgiko maggo."
+    },
+    {
+      "id": "cnd22:46.1",
+      "pali": "“Ekāyanaṁ jātikhayantadassī,"
+    },
+    {
+      "id": "cnd22:46.2",
+      "pali": "Maggaṁ pajānāti hitānukampī;"
+    },
+    {
+      "id": "cnd22:46.3",
+      "pali": "Etena maggena tariṁsu pubbe,"
+    },
+    {
+      "id": "cnd22:46.4",
+      "pali": "Tarissanti ye ca taranti oghan”ti."
+    },
+    {
+      "id": "cnd22:47.1",
+      "pali": "Evaṁ bhagavā ekāyanamaggaṁ gatoti eko."
+    },
+    {
+      "id": "cnd22:48.1",
+      "pali": "Kathaṁ bhagavā eko anuttaraṁ sammāsambodhiṁ abhisambuddhoti eko."
+    },
+    {
+      "id": "cnd22:48.2",
+      "pali": "Bodhi vuccati catūsu maggesu ñāṇaṁ paññā paññindriyaṁ paññābalaṁ dhammavicayasambojjhaṅgo vīmaṁsā vipassanā sammādiṭṭhi."
+    },
+    {
+      "id": "cnd22:48.3",
+      "pali": "Bhagavā tena bodhiñāṇena “sabbe saṅkhārā aniccā”ti bujjhi,"
+    },
+    {
+      "id": "cnd22:48.4",
+      "pali": "“sabbe saṅkhārā dukkhā”ti bujjhi,"
+    },
+    {
+      "id": "cnd22:48.5",
+      "pali": "“sabbe dhammā anattā”ti bujjhi …pe…"
+    },
+    {
+      "id": "cnd22:48.6",
+      "pali": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti bujjhi."
+    },
+    {
+      "id": "cnd22:48.7",
+      "pali": "Atha vā yaṁ bujjhitabbaṁ anubujjhitabbaṁ paṭibujjhitabbaṁ sambujjhitabbaṁ adhigantabbaṁ phassitabbaṁ sacchikātabbaṁ sabbaṁ taṁ tena bodhiñāṇena bujjhi anubujjhi paṭibujjhi sambujjhi adhigacchi phassesi sacchākāsi."
+    },
+    {
+      "id": "cnd22:48.8",
+      "pali": "Evaṁ bhagavā eko anuttaraṁ sammāsambodhiṁ abhisambuddhoti eko."
+    },
+    {
+      "id": "cnd22:49.1",
+      "pali": "<b>Tamonudo</b>ti bhagavā rāgatamaṁ dosatamaṁ mohatamaṁ diṭṭhitamaṁ kilesatamaṁ duccaritatamaṁ andhakaraṇaṁ acakkhukaraṇaṁ aññāṇakaraṇaṁ paññānirodhikaṁ vighātapakkhikaṁ anibbānasaṁvattanikaṁ nudi panudi pajahi vinodesi byantīakāsi anabhāvaṁ gamesi."
+    },
+    {
+      "id": "cnd22:49.2",
+      "pali": "<b>Āsīno</b>ti nisinno bhagavā pāsāṇake cetiyeti—"
+    },
+    {
+      "id": "cnd22:49.3",
+      "pali": "āsīno."
+    },
+    {
+      "id": "cnd22:50.1",
+      "pali": "Nagassa passe āsīnaṁ,"
+    },
+    {
+      "id": "cnd22:50.2",
+      "pali": "muniṁ dukkhassa pāraguṁ;"
+    },
+    {
+      "id": "cnd22:50.3",
+      "pali": "Sāvakā payirupāsanti,"
+    },
+    {
+      "id": "cnd22:50.4",
+      "pali": "tevijjā maccuhāyinoti."
+    },
+    {
+      "id": "cnd22:51.1",
+      "pali": "Evampi bhagavā āsīno …pe…"
+    },
+    {
+      "id": "cnd22:51.2",
+      "pali": "atha vā bhagavā sabbossukkapaṭippassaddhattā āsīno so vutthavāso ciṇṇacaraṇo …pe… jātimaraṇasaṁsāro natthi tassa punabbhavoti, evampi bhagavā āsīnoti—"
+    },
+    {
+      "id": "cnd22:51.3",
+      "pali": "eko tamonudāsīno."
+    },
+    {
+      "id": "cnd22:52.1",
+      "pali": "<b>Jutimā so pabhaṅkaro</b>ti."
+    },
+    {
+      "id": "cnd22:52.2",
+      "pali": "<b>Jutimā</b>ti jutimā matimā paṇḍito paññavā buddhimā ñāṇī vibhāvī medhāvī."
+    },
+    {
+      "id": "cnd22:52.3",
+      "pali": "<b>Pabhaṅkaro</b>ti pabhaṅkaro ālokakaro obhāsakaro dīpaṅkaro padīpakaro ujjotakaro pajjotakaroti—"
+    },
+    {
+      "id": "cnd22:52.4",
+      "pali": "jutimā so pabhaṅkaro."
+    },
+    {
+      "id": "cnd22:53.1",
+      "pali": "<b>Gotamo bhūripaññāṇo</b>ti gotamo bhūripaññāṇo ñāṇapaññāṇo paññādhajo paññāketu paññādhipateyyo vicayabahulo pavicayabahulo okkhāyanabahulo samokkhāyanadhammo vibhūtavihārī taccarito tabbahulo taggaruko tanninno tappoṇo tappabbhāro tadadhimutto tadadhipateyyo."
+    },
+    {
+      "id": "cnd22:54.1",
+      "pali": "Dhajo rathassa paññāṇaṁ,"
+    },
+    {
+      "id": "cnd22:54.2",
+      "pali": "dhūmo paññāṇamaggino;"
+    },
+    {
+      "id": "cnd22:54.3",
+      "pali": "Rājā raṭṭhassa paññāṇaṁ,"
+    },
+    {
+      "id": "cnd22:54.4",
+      "pali": "bhattā paññāṇamitthiyāti."
+    },
+    {
+      "id": "cnd22:55.1",
+      "pali": "Evameva gotamo bhūripaññāṇo ñāṇapaññāṇo paññādhajo paññāketu paññādhipateyyo vicayabahulo pavicayabahulo okkhāyanabahulo samokkhāyanadhammo vibhūtavihārī taccarito tabbahulo taggaruko tanninno tappoṇo tappabbhāro tadadhimutto tadadhipateyyoti—"
+    },
+    {
+      "id": "cnd22:55.2",
+      "pali": "gotamo bhūripaññāṇo."
+    },
+    {
+      "id": "cnd22:56.1",
+      "pali": "<b>Gotamo bhūrimedhaso</b>ti bhūri vuccati pathavī."
+    },
+    {
+      "id": "cnd22:56.2",
+      "pali": "Bhagavā tāya pathavisamāya paññāya vipulāya vitthatāya samannāgato."
+    },
+    {
+      "id": "cnd22:56.3",
+      "pali": "Medhā vuccati paññā."
+    },
+    {
+      "id": "cnd22:56.4",
+      "pali": "Yā paññā pajānanā …pe… amoho dhammavicayo sammādiṭṭhi."
+    },
+    {
+      "id": "cnd22:56.5",
+      "pali": "Bhagavā imāya medhāya upeto samupeto upāgato samupāgato upapanno samupapanno samannāgato, tasmā buddho sumedhasoti—"
+    },
+    {
+      "id": "cnd22:56.6",
+      "pali": "gotamo bhūrimedhaso."
+    },
+    {
+      "id": "cnd22:56.7",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:57.1",
+      "pali": "“Eko tamonudāsīno,"
+    },
+    {
+      "id": "cnd22:57.2",
+      "pali": "jutimā so pabhaṅkaro;"
+    },
+    {
+      "id": "cnd22:57.3",
+      "pali": "Gotamo bhūripaññāṇo,"
+    },
+    {
+      "id": "cnd22:57.4",
+      "pali": "gotamo bhūrimedhaso”ti."
+    },
+    {
+      "id": "cnd22:58.1",
+      "pali": "<b>Yo me dhammamadesesi,</b>"
+    },
+    {
+      "id": "cnd22:58.2",
+      "pali": "<b>Sandiṭṭhikamakālikaṁ;</b>"
+    },
+    {
+      "id": "cnd22:58.3",
+      "pali": "<b>Taṇhakkhayamanītikaṁ,</b>"
+    },
+    {
+      "id": "cnd22:58.4",
+      "pali": "<b>Yassa natthi upamā kvaci. </b>"
+    },
+    {
+      "id": "cnd22:59.1",
+      "pali": "<b>Yo me dhammamadesesī</b>ti."
+    },
+    {
+      "id": "cnd22:59.2",
+      "pali": "<b>Yo</b>ti yo so bhagavā sayambhū anācariyako pubbe ananussutesu dhammesu sāmaṁ saccāni abhisambujjhi, tattha ca sabbaññutaṁ patto balesu ca vasībhāvaṁ."
+    },
+    {
+      "id": "cnd22:59.3",
+      "pali": "<b>Dhammamadesesī</b>ti."
+    },
+    {
+      "id": "cnd22:59.4",
+      "pali": "<b>Dhamman</b>ti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ, cattāro satipaṭṭhāne …pe… ariyaṁ aṭṭhaṅgikaṁ maggaṁ nibbānañca nibbānagāminiñca paṭipadaṁ ācikkhi desesi paññapesi paṭṭhapesi vivari vibhaji uttānīakāsi pakāsesīti—"
+    },
+    {
+      "id": "cnd22:59.5",
+      "pali": "yo me dhammamadesesi."
+    },
+    {
+      "id": "cnd22:60.1",
+      "pali": "<b>Sandiṭṭhikamakālikan</b>ti sandiṭṭhikaṁ akālikaṁ ehipassikaṁ opaneyyikaṁ paccattaṁ veditabbaṁ viññūhīti—"
+    },
+    {
+      "id": "cnd22:60.2",
+      "pali": "evaṁ sandiṭṭhikaṁ."
+    },
+    {
+      "id": "cnd22:60.3",
+      "pali": "Atha vā, yo diṭṭheva dhamme ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāveti, tassa maggassa anantarā samanantarā adhigacchateva phalaṁ vindati paṭilabhatīti, evampi sandiṭṭhikaṁ."
+    },
+    {
+      "id": "cnd22:60.4",
+      "pali": "<b>Akālikan</b>ti yathā manussā kālikaṁ dhanaṁ datvā anantarā na labhanti kālaṁ āgamenti, nevāyaṁ dhammo."
+    },
+    {
+      "id": "cnd22:60.5",
+      "pali": "Yo diṭṭheva dhamme ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāveti, tassa maggassa anantarā samanantarā adhigacchateva phalaṁ vindati paṭilabhati, na parattha na paraloke, evaṁ akālikanti—"
+    },
+    {
+      "id": "cnd22:60.6",
+      "pali": "sandiṭṭhikamakālikaṁ."
+    },
+    {
+      "id": "cnd22:61.1",
+      "pali": "<b>Taṇhakkhayamanītikan</b>ti."
+    },
+    {
+      "id": "cnd22:61.2",
+      "pali": "<b>Taṇhā</b>ti rūpataṇhā …pe… dhammataṇhā."
+    },
+    {
+      "id": "cnd22:61.3",
+      "pali": "<b>Taṇhakkhayan</b>ti taṇhakkhayaṁ rāgakkhayaṁ dosakkhayaṁ mohakkhayaṁ gatikkhayaṁ upapattikkhayaṁ paṭisandhikkhayaṁ bhavakkhayaṁ saṁsārakkhayaṁ vaṭṭakkhayaṁ."
+    },
+    {
+      "id": "cnd22:61.4",
+      "pali": "<b>Anītikan</b>ti <b>īti</b> vuccanti kilesā ca khandhā ca abhisaṅkhārā ca."
+    },
+    {
+      "id": "cnd22:61.5",
+      "pali": "Ītippahānaṁ ītivūpasamaṁ ītipaṭinissaggaṁ ītipaṭippassaddhiṁ amataṁ nibbānanti—"
+    },
+    {
+      "id": "cnd22:61.6",
+      "pali": "taṇhakkhayamanītikaṁ."
+    },
+    {
+      "id": "cnd22:62.1",
+      "pali": "<b>Yassa natthi upamā kvacī</b>ti."
+    },
+    {
+      "id": "cnd22:62.2",
+      "pali": "<b>Yassā</b>ti nibbānassa."
+    },
+    {
+      "id": "cnd22:62.3",
+      "pali": "<b>Natthi upamā</b>ti upamā natthi, upanidhā natthi, sadisaṁ natthi, paṭibhāgo natthi na atthi na saṁvijjati nupalabbhati."
+    },
+    {
+      "id": "cnd22:62.4",
+      "pali": "<b>Kvacī</b>ti kvaci kimhici katthaci ajjhattaṁ vā bahiddhā vā ajjhattabahiddhā vāti—"
+    },
+    {
+      "id": "cnd22:62.5",
+      "pali": "yassa natthi upamā kvaci."
+    },
+    {
+      "id": "cnd22:62.6",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:63.1",
+      "pali": "“Yo me dhammamadesesi,"
+    },
+    {
+      "id": "cnd22:63.2",
+      "pali": "Sandiṭṭhikamakālikaṁ;"
+    },
+    {
+      "id": "cnd22:63.3",
+      "pali": "Taṇhakkhayamanītikaṁ,"
+    },
+    {
+      "id": "cnd22:63.4",
+      "pali": "Yassa natthi upamā kvacī”ti."
+    },
+    {
+      "id": "cnd22:64.1",
+      "pali": "<b>Kiṁ nu tamhā vippavasasi,</b>"
+    },
+    {
+      "id": "cnd22:64.2",
+      "pali": "<b>muhuttamapi piṅgiya;</b>"
+    },
+    {
+      "id": "cnd22:64.3",
+      "pali": "<b>Gotamā bhūripaññāṇā,</b>"
+    },
+    {
+      "id": "cnd22:64.4",
+      "pali": "<b>gotamā bhūrimedhasā. </b>"
+    },
+    {
+      "id": "cnd22:65.1",
+      "pali": "<b>Kiṁ nu tamhā vippavasasī</b>ti kiṁ nu buddhamhā vippavasasi apesi apagacchasi vinā hosīti—"
+    },
+    {
+      "id": "cnd22:65.2",
+      "pali": "kiṁ nu tamhā vippavasasi."
+    },
+    {
+      "id": "cnd22:66.1",
+      "pali": "<b>Muhuttamapi piṅgiyā</b>ti muhuttampi khaṇampi layampi vayampi addhampīti—"
+    },
+    {
+      "id": "cnd22:66.2",
+      "pali": "muhuttamapi."
+    },
+    {
+      "id": "cnd22:66.3",
+      "pali": "<b>Piṅgiyā</b>ti bāvarī taṁ nattāraṁ nāmena ālapati."
+    },
+    {
+      "id": "cnd22:67.1",
+      "pali": "<b>Gotamā bhūripaññāṇā</b>ti gotamā bhūripaññāṇā ñāṇapaññāṇā paññādhajā paññāketumhā paññādhipateyyamhā vicayabahulā pavicayabahulā okkhāyanabahulā samokkhāyanadhammā vibhūtavihārimhā taccaritā tabbahulā taggarukā tanninnā tappoṇā tappabbhārā tadadhimuttā tadadhipateyyamhāti—"
+    },
+    {
+      "id": "cnd22:67.2",
+      "pali": "gotamā bhūripaññāṇā."
+    },
+    {
+      "id": "cnd22:68.1",
+      "pali": "<b>Gotamā bhūrimedhasā</b>ti bhūri vuccati pathavī."
+    },
+    {
+      "id": "cnd22:68.2",
+      "pali": "Bhagavā tāya pathavisamāya paññāya vipulāya vitthatāya samannāgato."
+    },
+    {
+      "id": "cnd22:68.3",
+      "pali": "Medhā vuccati paññā."
+    },
+    {
+      "id": "cnd22:68.4",
+      "pali": "Yā paññā pajānanā …pe… amoho dhammavicayo sammādiṭṭhi."
+    },
+    {
+      "id": "cnd22:68.5",
+      "pali": "Bhagavā imāya medhāya paññāya upeto samupeto upāgato samupāgato upapanno samupapanno samannāgato, tasmā buddho sumedhasoti—"
+    },
+    {
+      "id": "cnd22:68.6",
+      "pali": "gotamā bhūrimedhasā."
+    },
+    {
+      "id": "cnd22:68.7",
+      "pali": "Tenāha so brāhmaṇo—"
+    },
+    {
+      "id": "cnd22:69.1",
+      "pali": "“Kiṁ nu tamhā vippavasasi,"
+    },
+    {
+      "id": "cnd22:69.2",
+      "pali": "muhuttamapi piṅgiya;"
+    },
+    {
+      "id": "cnd22:69.3",
+      "pali": "Gotamā bhūripaññāṇā,"
+    },
+    {
+      "id": "cnd22:69.4",
+      "pali": "gotamā bhūrimedhasā”ti."
+    },
+    {
+      "id": "cnd22:70.1",
+      "pali": "<b>Yo te dhammamadesesi,</b>"
+    },
+    {
+      "id": "cnd22:70.2",
+      "pali": "<b>Sandiṭṭhikamakālikaṁ;</b>"
+    },
+    {
+      "id": "cnd22:70.3",
+      "pali": "<b>Taṇhakkhayamanītikaṁ,</b>"
+    },
+    {
+      "id": "cnd22:70.4",
+      "pali": "<b>Yassa natthi upamā kvaci. </b>"
+    },
+    {
+      "id": "cnd22:71.1",
+      "pali": "<b>Yo te dhammamadesesī</b>ti yo so bhagavā …pe…"
+    },
+    {
+      "id": "cnd22:71.2",
+      "pali": "tattha ca sabbaññutaṁ patto balesu ca vasībhāvaṁ."
+    },
+    {
+      "id": "cnd22:71.3",
+      "pali": "<b>Dhammamadesesī</b>ti <b>dhamman</b>ti ādikalyāṇaṁ majjhekalyāṇaṁ …pe… nibbānañca nibbānagāminiñca paṭipadaṁ ācikkhi desesi paññapesi paṭṭhapesi vivari vibhaji uttānīakāsi pakāsesīti—"
+    },
+    {
+      "id": "cnd22:71.4",
+      "pali": "yo te dhammamadesesi."
+    },
+    {
+      "id": "cnd22:72.1",
+      "pali": "<b>Sandiṭṭhikamakālikan</b>ti sandiṭṭhikaṁ akālikaṁ ehipassikaṁ opaneyyikaṁ paccattaṁ veditabbaṁ viññūhīti—"
+    },
+    {
+      "id": "cnd22:72.2",
+      "pali": "evaṁ sandiṭṭhikaṁ."
+    },
+    {
+      "id": "cnd22:72.3",
+      "pali": "Atha vā, yo diṭṭheva dhamme ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāveti, tassa maggassa anantarā samanantarā adhigacchateva phalaṁ vindati paṭilabhatīti—"
+    },
+    {
+      "id": "cnd22:72.4",
+      "pali": "evampi sandiṭṭhikaṁ."
+    },
+    {
+      "id": "cnd22:72.5",
+      "pali": "<b>Akālikan</b>ti yathā manussā kālikaṁ dhanaṁ datvā anantarā na labhanti, kālaṁ āgamenti, nevāyaṁ dhammo."
+    },
+    {
+      "id": "cnd22:72.6",
+      "pali": "Yo diṭṭheva dhamme ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāveti;"
+    },
+    {
+      "id": "cnd22:72.7",
+      "pali": "tassa maggassa anantarā samanantarā adhigacchateva phalaṁ vindati paṭilabhati, na parattha na paraloke, evaṁ akālikanti—"
+    },
+    {
+      "id": "cnd22:72.8",
+      "pali": "sandiṭṭhikamakālikaṁ."
+    },
+    {
+      "id": "cnd22:73.1",
+      "pali": "<b>Taṇhakkhayamanītikan</b>ti."
+    },
+    {
+      "id": "cnd22:73.2",
+      "pali": "<b>Taṇhā</b>ti rūpataṇhā …pe… dhammataṇhā."
+    },
+    {
+      "id": "cnd22:73.3",
+      "pali": "<b>Taṇhakkhayan</b>ti taṇhakkhayaṁ rāgakkhayaṁ dosakkhayaṁ mohakkhayaṁ gatikkhayaṁ upapattikkhayaṁ paṭisandhikkhayaṁ bhavakkhayaṁ saṁsārakkhayaṁ vaṭṭakkhayaṁ."
+    },
+    {
+      "id": "cnd22:73.4",
+      "pali": "<b>Anītikan</b>ti <b>īti</b> vuccanti kilesā ca khandhā ca abhisaṅkhārā ca."
+    },
+    {
+      "id": "cnd22:73.5",
+      "pali": "Ītippahānaṁ ītivūpasamaṁ ītipaṭinissaggaṁ ītipaṭippassaddhiṁ amataṁ nibbānanti—"
+    },
+    {
+      "id": "cnd22:73.6",
+      "pali": "taṇhakkhayamanītikaṁ."
+    },
+    {
+      "id": "cnd22:74.1",
+      "pali": "<b>Yassa natthi upamā kvacī</b>ti."
+    },
+    {
+      "id": "cnd22:74.2",
+      "pali": "<b>Yassā</b>ti nibbānassa."
+    },
+    {
+      "id": "cnd22:74.3",
+      "pali": "<b>Natthi upamā</b>ti upamā natthi, upanidhā natthi, sadisaṁ natthi, paṭibhāgo natthi na atthi na saṁvijjati nupalabbhati."
+    },
+    {
+      "id": "cnd22:74.4",
+      "pali": "<b>Kvacī</b>ti kvaci kimhici katthaci ajjhattaṁ vā bahiddhā vā ajjhattabahiddhā vāti—"
+    },
+    {
+      "id": "cnd22:74.5",
+      "pali": "yassa natthi upamā kvaci."
+    },
+    {
+      "id": "cnd22:74.6",
+      "pali": "Tenāha so brāhmaṇo—"
+    },
+    {
+      "id": "cnd22:75.1",
+      "pali": "“Yo te dhammamadesesi,"
+    },
+    {
+      "id": "cnd22:75.2",
+      "pali": "Sandiṭṭhikamakālikaṁ;"
+    },
+    {
+      "id": "cnd22:75.3",
+      "pali": "Taṇhakkhayamanītikaṁ,"
+    },
+    {
+      "id": "cnd22:75.4",
+      "pali": "Yassa natthi upamā kvacī”ti."
+    },
+    {
+      "id": "cnd22:76.1",
+      "pali": "<b>Nāhaṁ tamhā vippavasāmi,</b>"
+    },
+    {
+      "id": "cnd22:76.2",
+      "pali": "<b>Muhuttamapi brāhmaṇa;</b>"
+    },
+    {
+      "id": "cnd22:76.3",
+      "pali": "<b>Gotamā bhūripaññāṇā,</b>"
+    },
+    {
+      "id": "cnd22:76.4",
+      "pali": "<b>Gotamā bhūrimedhasā. </b>"
+    },
+    {
+      "id": "cnd22:77.1",
+      "pali": "<b>Nāhaṁ tamhā vippavasāmī</b>ti nāhaṁ buddhamhā vippavasāmi apemi apagacchāmi vinā homīti—"
+    },
+    {
+      "id": "cnd22:77.2",
+      "pali": "nāhaṁ tamhā vippavasāmi."
+    },
+    {
+      "id": "cnd22:78.1",
+      "pali": "<b>Muhuttamapi brāhmaṇā</b>ti muhuttampi khaṇampi layampi vayampi addhampīti muhuttamapi."
+    },
+    {
+      "id": "cnd22:78.2",
+      "pali": "<b>Brāhmaṇā</b>ti gāravena mātulaṁ ālapati."
+    },
+    {
+      "id": "cnd22:79.1",
+      "pali": "<b>Gotamā bhūripaññāṇā</b>ti gotamā bhūripaññāṇā ñāṇapaññāṇā paññādhajā paññāketumhā paññādhipateyyamhā vicayabahulā pavicayabahulā okkhāyanabahulā samokkhāyanadhammā vibhūtavihārimhā taccaritā tabbahulā taggarukā tanninnā tappoṇā tappabbhārā tadadhimuttā tadadhipateyyamhāti—"
+    },
+    {
+      "id": "cnd22:79.2",
+      "pali": "gotamā bhūripaññāṇā."
+    },
+    {
+      "id": "cnd22:80.1",
+      "pali": "<b>Gotamā bhūrimedhasā</b>ti bhūri vuccati pathavī."
+    },
+    {
+      "id": "cnd22:80.2",
+      "pali": "Bhagavā tāya pathavisamāya paññāya vipulāya vitthatāya samannāgato."
+    },
+    {
+      "id": "cnd22:80.3",
+      "pali": "Medhā vuccati paññā."
+    },
+    {
+      "id": "cnd22:80.4",
+      "pali": "Yā paññā pajānanā …pe… amoho dhammavicayo sammādiṭṭhi."
+    },
+    {
+      "id": "cnd22:80.5",
+      "pali": "Bhagavā imāya medhāya paññāya upeto samupeto upāgato samupāgato upapanno samupapanno samannāgato."
+    },
+    {
+      "id": "cnd22:80.6",
+      "pali": "Tasmā buddho sumedhasoti—"
+    },
+    {
+      "id": "cnd22:80.7",
+      "pali": "gotamā bhūrimedhasā."
+    },
+    {
+      "id": "cnd22:80.8",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:81.1",
+      "pali": "“Nāhaṁ tamhā vippavasāmi,"
+    },
+    {
+      "id": "cnd22:81.2",
+      "pali": "muhuttamapi brāhmaṇa;"
+    },
+    {
+      "id": "cnd22:81.3",
+      "pali": "Gotamā bhūripaññāṇā,"
+    },
+    {
+      "id": "cnd22:81.4",
+      "pali": "gotamā bhūrimedhasā”ti."
+    },
+    {
+      "id": "cnd22:82.1",
+      "pali": "<b>Yo me dhammamadesesi,</b>"
+    },
+    {
+      "id": "cnd22:82.2",
+      "pali": "<b>Sandiṭṭhikamakālikaṁ;</b>"
+    },
+    {
+      "id": "cnd22:82.3",
+      "pali": "<b>Taṇhakkhayamanītikaṁ,</b>"
+    },
+    {
+      "id": "cnd22:82.4",
+      "pali": "<b>Yassa natthi upamā kvaci. </b>"
+    },
+    {
+      "id": "cnd22:83.1",
+      "pali": "<b>Yo me dhammamadesesī</b>ti yo so bhagavā sayambhū anācariyako pubbe ananussutesu dhammesu sāmaṁ saccāni abhisambujjhi, tattha ca sabbaññutaṁ patto balesu ca vasībhāvaṁ."
+    },
+    {
+      "id": "cnd22:83.2",
+      "pali": "<b>Dhammamadesesī</b>ti."
+    },
+    {
+      "id": "cnd22:83.3",
+      "pali": "<b>Dhamman</b>ti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ, cattāro satipaṭṭhāne cattāro sammappadhāne cattāro iddhipāde pañcindriyāni pañca balāni satta bojjhaṅge ariyaṁ aṭṭhaṅgikaṁ maggaṁ nibbānañca nibbānagāminiñca paṭipadaṁ ācikkhi desesi paññapesi paṭṭhapesi vivari vibhaji uttānīakāsi pakāsesīti—"
+    },
+    {
+      "id": "cnd22:83.4",
+      "pali": "yo me dhammamadesesi."
+    },
+    {
+      "id": "cnd22:84.1",
+      "pali": "<b>Sandiṭṭhikamakālikan</b>ti sandiṭṭhikaṁ akālikaṁ ehipassikaṁ opaneyyikaṁ paccattaṁ veditabbaṁ viññūhīti, evaṁ sandiṭṭhikaṁ."
+    },
+    {
+      "id": "cnd22:84.2",
+      "pali": "Atha vā yo diṭṭheva dhamme ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāveti, tassa maggassa anantarā samanantarā adhigacchateva phalaṁ vindati paṭilabhatīti, evampi sandiṭṭhikaṁ."
+    },
+    {
+      "id": "cnd22:84.3",
+      "pali": "<b>Akālikan</b>ti yathā manussā kālikaṁ dhanaṁ datvā anantarā na labhanti, kālaṁ āgamenti, nevāyaṁ dhammo."
+    },
+    {
+      "id": "cnd22:84.4",
+      "pali": "Yo diṭṭheva dhamme ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāveti, tassa maggassa anantarā samanantarā adhigacchateva phalaṁ vindati paṭilabhati, na parattha na paraloke, evaṁ akālikanti—"
+    },
+    {
+      "id": "cnd22:84.5",
+      "pali": "sandiṭṭhikamakālikaṁ."
+    },
+    {
+      "id": "cnd22:85.1",
+      "pali": "<b>Taṇhakkhayamanītikan</b>ti."
+    },
+    {
+      "id": "cnd22:85.2",
+      "pali": "<b>Taṇhā</b>ti rūpataṇhā …pe… dhammataṇhā."
+    },
+    {
+      "id": "cnd22:85.3",
+      "pali": "<b>Taṇhakkhayan</b>ti taṇhakkhayaṁ rāgakkhayaṁ dosakkhayaṁ mohakkhayaṁ gatikkhayaṁ upapattikkhayaṁ paṭisandhikkhayaṁ bhavakkhayaṁ saṁsārakkhayaṁ vaṭṭakkhayaṁ."
+    },
+    {
+      "id": "cnd22:85.4",
+      "pali": "<b>Anītikan</b>ti <b>īti</b> vuccanti kilesā ca khandhā ca abhisaṅkhārā ca."
+    },
+    {
+      "id": "cnd22:85.5",
+      "pali": "Ītippahānaṁ ītivūpasamaṁ ītipaṭippassaddhiṁ amataṁ nibbānanti—"
+    },
+    {
+      "id": "cnd22:85.6",
+      "pali": "taṇhakkhayamanītikaṁ."
+    },
+    {
+      "id": "cnd22:86.1",
+      "pali": "<b>Yassa natthi upamā kvacī</b>ti."
+    },
+    {
+      "id": "cnd22:86.2",
+      "pali": "<b>Yassā</b>ti nibbānassa."
+    },
+    {
+      "id": "cnd22:86.3",
+      "pali": "<b>Natthi upamā</b>ti upamā natthi, upanidhā natthi, sadisaṁ natthi, paṭibhāgo natthi na atthi na saṁvijjati nupalabbhati."
+    },
+    {
+      "id": "cnd22:86.4",
+      "pali": "<b>Kvacī</b>ti kvaci kimhici katthaci ajjhattaṁ vā bahiddhā vā ajjhattabahiddhā vāti—"
+    },
+    {
+      "id": "cnd22:86.5",
+      "pali": "yassa natthi upamā kvaci."
+    },
+    {
+      "id": "cnd22:86.6",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:87.1",
+      "pali": "“Yo me dhammamadesesi,"
+    },
+    {
+      "id": "cnd22:87.2",
+      "pali": "Sandiṭṭhikamakālikaṁ;"
+    },
+    {
+      "id": "cnd22:87.3",
+      "pali": "Taṇhakkhayamanītikaṁ,"
+    },
+    {
+      "id": "cnd22:87.4",
+      "pali": "Yassa natthi upamā kvacī”ti."
+    },
+    {
+      "id": "cnd22:88.1",
+      "pali": "<b>Passāmi naṁ manasā cakkhunāva,</b>"
+    },
+    {
+      "id": "cnd22:88.2",
+      "pali": "<b>Rattindivaṁ brāhmaṇa appamatto;</b>"
+    },
+    {
+      "id": "cnd22:88.3",
+      "pali": "<b>Namassamāno vivasemi rattiṁ,</b>"
+    },
+    {
+      "id": "cnd22:88.4",
+      "pali": "<b>Teneva maññāmi avippavāsaṁ. </b>"
+    },
+    {
+      "id": "cnd22:89.1",
+      "pali": "<b>Passāmi naṁ manasā cakkhunāvā</b>ti yathā cakkhumā puriso āloke rūpagatāni passeyya dakkheyya olokeyya nijjhāyeyya upaparikkheyya, evamevāhaṁ buddhaṁ bhagavantaṁ manasā passāmi dakkhāmi olokemi nijjhāyāmi upaparikkhāmīti—"
+    },
+    {
+      "id": "cnd22:89.2",
+      "pali": "passāmi naṁ manasā cakkhunāva."
+    },
+    {
+      "id": "cnd22:90.1",
+      "pali": "<b>Rattindivaṁ brāhmaṇa appamatto</b>ti rattiñca divā ca buddhānussatiṁ manasā bhāvento appamattoti—"
+    },
+    {
+      "id": "cnd22:90.2",
+      "pali": "rattindivaṁ brāhmaṇa appamatto."
+    },
+    {
+      "id": "cnd22:91.1",
+      "pali": "<b>Namassamāno vivasemi rattin</b>ti."
+    },
+    {
+      "id": "cnd22:91.2",
+      "pali": "<b>Namassamāno</b>ti kāyena vā namassamāno, vācāya vā namassamāno, cittena vā namassamāno, anvatthapaṭipattiyā vā namassamāno, dhammānudhammapaṭipattiyā vā namassamāno sakkāramāno garukāramāno mānayamāno pūjayamāno rattindivaṁ vivasemi atināmemi atikkamemīti—"
+    },
+    {
+      "id": "cnd22:91.3",
+      "pali": "namassamāno vivasemi rattiṁ."
+    },
+    {
+      "id": "cnd22:92.1",
+      "pali": "<b>Teneva maññāmi avippavāsan</b>ti tāya buddhānussatiyā bhāvento avippavāsoti taṁ maññāmi, avippavuṭṭhoti taṁ maññāmi jānāmi."
+    },
+    {
+      "id": "cnd22:92.2",
+      "pali": "Evaṁ jānāmi evaṁ ājānāmi evaṁ vijānāmi evaṁ paṭivijānāmi evaṁ paṭivijjhāmīti—"
+    },
+    {
+      "id": "cnd22:92.3",
+      "pali": "teneva maññāmi avippavāsaṁ."
+    },
+    {
+      "id": "cnd22:92.4",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:93.1",
+      "pali": "“Passāmi naṁ manasā cakkhunāva,"
+    },
+    {
+      "id": "cnd22:93.2",
+      "pali": "Rattindivaṁ brāhmaṇa appamatto;"
+    },
+    {
+      "id": "cnd22:93.3",
+      "pali": "Namassamāno vivasemi rattiṁ,"
+    },
+    {
+      "id": "cnd22:93.4",
+      "pali": "Teneva maññāmi avippavāsan”ti."
+    },
+    {
+      "id": "cnd22:94.1",
+      "pali": "<b>Saddhā ca pīti ca mano sati ca,</b>"
+    },
+    {
+      "id": "cnd22:94.2",
+      "pali": "<b>Nāpentime gotamasāsanamhā;</b>"
+    },
+    {
+      "id": "cnd22:94.3",
+      "pali": "<b>Yaṁ yaṁ disaṁ vajati bhūripañño,</b>"
+    },
+    {
+      "id": "cnd22:94.4",
+      "pali": "<b>Sa tena teneva natohamasmi. </b>"
+    },
+    {
+      "id": "cnd22:95.1",
+      "pali": "<b>Saddhā ca pīti ca mano sati cā</b>ti."
+    },
+    {
+      "id": "cnd22:95.2",
+      "pali": "<b>Saddhā</b>ti yā ca bhagavantaṁ ārabbha saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṁ saddhābalaṁ."
+    },
+    {
+      "id": "cnd22:95.3",
+      "pali": "<b>Pītī</b>ti yā bhagavantaṁ ārabbha pīti pāmojjaṁ modanā āmodanā pamodanā hāso pahāso vitti tuṭṭhi odagyaṁ attamanatā cittassa."
+    },
+    {
+      "id": "cnd22:95.4",
+      "pali": "<b>Mano</b>ti yañca bhagavantaṁ ārabbha cittaṁ mano mānasaṁ hadayaṁ paṇḍaraṁ mano manāyatanaṁ manindriyaṁ viññāṇaṁ viññāṇakkhandho tajjā manoviññāṇadhātu."
+    },
+    {
+      "id": "cnd22:95.5",
+      "pali": "<b>Satī</b>ti yā bhagavantaṁ ārabbha sati anussati sammāsatīti—"
+    },
+    {
+      "id": "cnd22:95.6",
+      "pali": "saddhā ca pīti ca mano sati ca."
+    },
+    {
+      "id": "cnd22:96.1",
+      "pali": "<b>Nāpentime gotamasāsanamhā</b>ti ime cattāro dhammā gotamasāsanā buddhasāsanā jinasāsanā tathāgatasāsanā arahantasāsanā nāpenti na gacchanti na vijahanti na vināsentīti—"
+    },
+    {
+      "id": "cnd22:96.2",
+      "pali": "nāpentime gotamasāsanamhā."
+    },
+    {
+      "id": "cnd22:97.1",
+      "pali": "<b>Yaṁ yaṁ disaṁ vajati bhūripañño</b>ti."
+    },
+    {
+      "id": "cnd22:97.2",
+      "pali": "<b>Yaṁ yaṁ disan</b>ti puratthimaṁ vā disaṁ pacchimaṁ vā disaṁ dakkhiṇaṁ vā disaṁ uttaraṁ vā disaṁ vajati gacchati kamati abhikkamati."
+    },
+    {
+      "id": "cnd22:97.3",
+      "pali": "<b>Bhūripañño</b>ti bhūripañño mahāpañño tikkhapañño puthupañño hāsapañño javanapañño nibbedhikapañño."
+    },
+    {
+      "id": "cnd22:97.4",
+      "pali": "Bhūri vuccati pathavī."
+    },
+    {
+      "id": "cnd22:97.5",
+      "pali": "Bhagavā tāya pathavisamāya paññāya vipulāya vitthatāya samannāgatoti—"
+    },
+    {
+      "id": "cnd22:97.6",
+      "pali": "yaṁ yaṁ disaṁ vajati bhūripañño."
+    },
+    {
+      "id": "cnd22:98.1",
+      "pali": "<b>Sa tena teneva natohamasmī</b>ti so yena buddho tena teneva nato tanninno tappoṇo tappabbhāro tadadhimutto tadadhipateyyoti—"
+    },
+    {
+      "id": "cnd22:98.2",
+      "pali": "sa tena teneva natohamasmi."
+    },
+    {
+      "id": "cnd22:98.3",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:99.1",
+      "pali": "“Saddhā ca pīti ca mano sati ca,"
+    },
+    {
+      "id": "cnd22:99.2",
+      "pali": "Nāpentime gotamasāsanamhā;"
+    },
+    {
+      "id": "cnd22:99.3",
+      "pali": "Yaṁ yaṁ disaṁ vajati bhūripañño,"
+    },
+    {
+      "id": "cnd22:99.4",
+      "pali": "Sa tena teneva natohamasmī”ti."
+    },
+    {
+      "id": "cnd22:100.1",
+      "pali": "<b>Jiṇṇassa me dubbalathāmakassa,</b>"
+    },
+    {
+      "id": "cnd22:100.2",
+      "pali": "<b>Teneva kāyo na paleti tattha;</b>"
+    },
+    {
+      "id": "cnd22:100.3",
+      "pali": "<b>Saṅkappayantāya vajāmi niccaṁ,</b>"
+    },
+    {
+      "id": "cnd22:100.4",
+      "pali": "<b>Mano hi me brāhmaṇa tena yutto. </b>"
+    },
+    {
+      "id": "cnd22:101.1",
+      "pali": "<b>Jiṇṇassa me dubbalathāmakassā</b>ti jiṇṇassa vuḍḍhassa mahallakassa addhagatassa vayoanuppattassa."
+    },
+    {
+      "id": "cnd22:101.2",
+      "pali": "<b>Dubbalathāmakassā</b>ti dubbalathāmakassa appathāmakassa parittathāmakassāti—"
+    },
+    {
+      "id": "cnd22:101.3",
+      "pali": "jiṇṇassa me dubbalathāmakassa."
+    },
+    {
+      "id": "cnd22:102.1",
+      "pali": "<b>Teneva kāyo na paleti tatthā</b>ti kāyo yena buddho tena na paleti na vajati na gacchati nātikkamatīti—"
+    },
+    {
+      "id": "cnd22:102.2",
+      "pali": "teneva kāyo na paleti tattha."
+    },
+    {
+      "id": "cnd22:103.1",
+      "pali": "<b>Saṅkappayantāya vajāmi niccan</b>ti saṅkappagamanena vitakkagamanena ñāṇagamanena paññāgamanena buddhigamanena vajāmi gacchāmi atikkamāmīti—"
+    },
+    {
+      "id": "cnd22:103.2",
+      "pali": "saṅkappayantāya vajāmi niccaṁ."
+    },
+    {
+      "id": "cnd22:104.1",
+      "pali": "<b>Mano hi me brāhmaṇa tena yutto</b>ti."
+    },
+    {
+      "id": "cnd22:104.2",
+      "pali": "<b>Mano</b>ti yaṁ cittaṁ mano mānasaṁ …pe… tajjā manoviññāṇadhātu."
+    },
+    {
+      "id": "cnd22:104.3",
+      "pali": "<b>Mano hi me brāhmaṇa tena yutto</b>ti mano yena buddho tena yutto payutto saṁyuttoti—"
+    },
+    {
+      "id": "cnd22:104.4",
+      "pali": "mano hi me brāhmaṇa tena yutto."
+    },
+    {
+      "id": "cnd22:104.5",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:105.1",
+      "pali": "“Jiṇṇassa me dubbalathāmakassa,"
+    },
+    {
+      "id": "cnd22:105.2",
+      "pali": "Teneva kāyo na paleti tattha;"
+    },
+    {
+      "id": "cnd22:105.3",
+      "pali": "Saṅkappayantāya vajāmi niccaṁ,"
+    },
+    {
+      "id": "cnd22:105.4",
+      "pali": "Mano hi me brāhmaṇa tena yutto”ti."
+    },
+    {
+      "id": "cnd22:106.1",
+      "pali": "<b>Paṅke sayāno pariphandamāno,</b>"
+    },
+    {
+      "id": "cnd22:106.2",
+      "pali": "<b>Dīpā dīpaṁ upallaviṁ;</b>"
+    },
+    {
+      "id": "cnd22:106.3",
+      "pali": "<b>Athaddasāsiṁ sambuddhaṁ,</b>"
+    },
+    {
+      "id": "cnd22:106.4",
+      "pali": "<b>Oghatiṇṇamanāsavaṁ. </b>"
+    },
+    {
+      "id": "cnd22:107.1",
+      "pali": "<b>Paṅke sayāno pariphandamāno</b>ti."
+    },
+    {
+      "id": "cnd22:107.2",
+      "pali": "<b>Paṅke sayāno</b>ti kāmapaṅke kāmakaddame kāmakilese kāmabaḷise kāmapariḷāhe kāmapalibodhe semāno sayamāno vasamāno āvasamāno parivasamāno ti—"
+    },
+    {
+      "id": "cnd22:107.3",
+      "pali": "paṅke sayāno."
+    },
+    {
+      "id": "cnd22:107.4",
+      "pali": "<b>Pariphandamāno</b>ti taṇhāphandanāya phandamāno,"
+    },
+    {
+      "id": "cnd22:107.5",
+      "pali": "diṭṭhiphandanāya phandamāno,"
+    },
+    {
+      "id": "cnd22:107.6",
+      "pali": "kilesaphandanāya phandamāno,"
+    },
+    {
+      "id": "cnd22:107.7",
+      "pali": "payogaphandanāya phandamāno,"
+    },
+    {
+      "id": "cnd22:107.8",
+      "pali": "vipākaphandanāya phandamāno,"
+    },
+    {
+      "id": "cnd22:107.9",
+      "pali": "manoduccaritaphandanāya phandamāno,"
+    },
+    {
+      "id": "cnd22:107.10",
+      "pali": "ratto rāgena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.11",
+      "pali": "duṭṭho dosena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.12",
+      "pali": "mūḷho mohena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.13",
+      "pali": "vinibandho mānena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.14",
+      "pali": "parāmaṭṭho diṭṭhiyā phandamāno,"
+    },
+    {
+      "id": "cnd22:107.15",
+      "pali": "vikkhepagato uddhaccena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.16",
+      "pali": "aniṭṭhaṅgato vicikicchāya phandamāno,"
+    },
+    {
+      "id": "cnd22:107.17",
+      "pali": "thāmagato anusayehi phandamāno,"
+    },
+    {
+      "id": "cnd22:107.18",
+      "pali": "lābhena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.19",
+      "pali": "alābhena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.20",
+      "pali": "yasena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.21",
+      "pali": "ayasena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.22",
+      "pali": "pasaṁsāya phandamāno,"
+    },
+    {
+      "id": "cnd22:107.23",
+      "pali": "nindāya phandamāno,"
+    },
+    {
+      "id": "cnd22:107.24",
+      "pali": "sukhena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.25",
+      "pali": "dukkhena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.26",
+      "pali": "jātiyā phandamāno,"
+    },
+    {
+      "id": "cnd22:107.27",
+      "pali": "jarāya phandamāno,"
+    },
+    {
+      "id": "cnd22:107.28",
+      "pali": "byādhinā phandamāno,"
+    },
+    {
+      "id": "cnd22:107.29",
+      "pali": "maraṇena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.30",
+      "pali": "sokaparidevadukkhadomanassupāyāsehi phandamāno,"
+    },
+    {
+      "id": "cnd22:107.31",
+      "pali": "nerayikena dukkhena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.32",
+      "pali": "tiracchānayonikena dukkhena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.33",
+      "pali": "pettivisayikena dukkhena phandamāno,"
+    },
+    {
+      "id": "cnd22:107.34",
+      "pali": "mānusikena dukkhena …pe…"
+    },
+    {
+      "id": "cnd22:107.35",
+      "pali": "gabbhokkantimūlakena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.36",
+      "pali": "gabbhaṭṭhitimūlakena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.37",
+      "pali": "gabbhavuṭṭhānamūlakena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.38",
+      "pali": "jātassūpanibandhakena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.39",
+      "pali": "jātassa parādheyyakena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.40",
+      "pali": "attūpakkamena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.41",
+      "pali": "parūpakkamena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.42",
+      "pali": "saṅkhāradukkhena …"
+    },
+    {
+      "id": "cnd22:107.43",
+      "pali": "vipariṇāmadukkhena …"
+    },
+    {
+      "id": "cnd22:107.44",
+      "pali": "cakkhurogena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.45",
+      "pali": "sotarogena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.46",
+      "pali": "ghānarogena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.47",
+      "pali": "jivhārogena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.48",
+      "pali": "kāyarogena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.49",
+      "pali": "sīsarogena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.50",
+      "pali": "kaṇṇarogena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.51",
+      "pali": "mukharogena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.52",
+      "pali": "dantarogena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.53",
+      "pali": "oṭṭharogena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.54",
+      "pali": "kāsena …"
+    },
+    {
+      "id": "cnd22:107.55",
+      "pali": "sāsena …"
+    },
+    {
+      "id": "cnd22:107.56",
+      "pali": "pināsena …"
+    },
+    {
+      "id": "cnd22:107.57",
+      "pali": "ḍāhena …"
+    },
+    {
+      "id": "cnd22:107.58",
+      "pali": "jarena …"
+    },
+    {
+      "id": "cnd22:107.59",
+      "pali": "kucchirogena …"
+    },
+    {
+      "id": "cnd22:107.60",
+      "pali": "mucchāya …"
+    },
+    {
+      "id": "cnd22:107.61",
+      "pali": "pakkhandikāya …"
+    },
+    {
+      "id": "cnd22:107.62",
+      "pali": "sūlāya …"
+    },
+    {
+      "id": "cnd22:107.63",
+      "pali": "visūcikāya …"
+    },
+    {
+      "id": "cnd22:107.64",
+      "pali": "kuṭṭhena …"
+    },
+    {
+      "id": "cnd22:107.65",
+      "pali": "gaṇḍena …"
+    },
+    {
+      "id": "cnd22:107.66",
+      "pali": "kilāsena …"
+    },
+    {
+      "id": "cnd22:107.67",
+      "pali": "sosena …"
+    },
+    {
+      "id": "cnd22:107.68",
+      "pali": "apamārena …"
+    },
+    {
+      "id": "cnd22:107.69",
+      "pali": "dadduyā …"
+    },
+    {
+      "id": "cnd22:107.70",
+      "pali": "kaṇḍuyā …"
+    },
+    {
+      "id": "cnd22:107.71",
+      "pali": "kacchuyā …"
+    },
+    {
+      "id": "cnd22:107.72",
+      "pali": "rakhasāya …"
+    },
+    {
+      "id": "cnd22:107.73",
+      "pali": "vitacchikāya …"
+    },
+    {
+      "id": "cnd22:107.74",
+      "pali": "lohitapittena …"
+    },
+    {
+      "id": "cnd22:107.75",
+      "pali": "madhumehena …"
+    },
+    {
+      "id": "cnd22:107.76",
+      "pali": "aṁsāya …"
+    },
+    {
+      "id": "cnd22:107.77",
+      "pali": "piḷakāya …"
+    },
+    {
+      "id": "cnd22:107.78",
+      "pali": "bhagandalāya …"
+    },
+    {
+      "id": "cnd22:107.79",
+      "pali": "pittasamuṭṭhānena ābādhena …"
+    },
+    {
+      "id": "cnd22:107.80",
+      "pali": "semhasamuṭṭhānena ābādhena …"
+    },
+    {
+      "id": "cnd22:107.81",
+      "pali": "vātasamuṭṭhānena ābādhena …"
+    },
+    {
+      "id": "cnd22:107.82",
+      "pali": "sannipātikena ābādhena …"
+    },
+    {
+      "id": "cnd22:107.83",
+      "pali": "utupariṇāmajena ābādhena …"
+    },
+    {
+      "id": "cnd22:107.84",
+      "pali": "visamaparihārajena ābādhena …"
+    },
+    {
+      "id": "cnd22:107.85",
+      "pali": "opakkamikena ābādhena …"
+    },
+    {
+      "id": "cnd22:107.86",
+      "pali": "kammavipākajena ābādhena …"
+    },
+    {
+      "id": "cnd22:107.87",
+      "pali": "sītena …"
+    },
+    {
+      "id": "cnd22:107.88",
+      "pali": "uṇhena …"
+    },
+    {
+      "id": "cnd22:107.89",
+      "pali": "jighacchāya …"
+    },
+    {
+      "id": "cnd22:107.90",
+      "pali": "pipāsāya …"
+    },
+    {
+      "id": "cnd22:107.91",
+      "pali": "uccārena …"
+    },
+    {
+      "id": "cnd22:107.92",
+      "pali": "passāvena …"
+    },
+    {
+      "id": "cnd22:107.93",
+      "pali": "ḍaṁsamakasavātātapasarīsapasamphassena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.94",
+      "pali": "mātumaraṇena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.95",
+      "pali": "pitumaraṇena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.96",
+      "pali": "puttamaraṇena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.97",
+      "pali": "dhītumaraṇena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.98",
+      "pali": "ñātibyasanena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.99",
+      "pali": "bhogabyasanena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.100",
+      "pali": "rogabyasanena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.101",
+      "pali": "sīlabyasanena dukkhena …"
+    },
+    {
+      "id": "cnd22:107.102",
+      "pali": "diṭṭhibyasanena dukkhena phandamāno pariphandamāno pavedhamāno sampavedhamānoti—"
+    },
+    {
+      "id": "cnd22:107.103",
+      "pali": "paṅke sayāno pariphandamāno."
+    },
+    {
+      "id": "cnd22:108.1",
+      "pali": "<b>Dīpā dīpaṁ upallavin</b>ti satthārato satthāraṁ dhammakkhānato dhammakkhānaṁ gaṇato gaṇaṁ diṭṭhiyā diṭṭhiṁ paṭipadāya paṭipadaṁ maggato maggaṁ pallaviṁ upallaviṁ sampallavinti—"
+    },
+    {
+      "id": "cnd22:108.2",
+      "pali": "dīpā dīpaṁ upallaviṁ."
+    },
+    {
+      "id": "cnd22:109.1",
+      "pali": "<b>Athaddasāsiṁ sambuddhan</b>ti."
+    },
+    {
+      "id": "cnd22:109.2",
+      "pali": "<b>Athā</b>ti padasandhi padasaṁsaggo padapāripūrī akkharasamavāyo byañjanasiliṭṭhatā padānupubbatāpetaṁ—"
+    },
+    {
+      "id": "cnd22:109.3",
+      "pali": "athāti."
+    },
+    {
+      "id": "cnd22:109.4",
+      "pali": "<b>Addasāsin</b>ti addasaṁ addakkhiṁ apassiṁ paṭivijjhiṁ."
+    },
+    {
+      "id": "cnd22:109.5",
+      "pali": "<b>Buddho</b>ti yo so bhagavā sayambhū anācariyako …pe…"
+    },
+    {
+      "id": "cnd22:109.6",
+      "pali": "sacchikā paññatti, yadidaṁ buddhoti—"
+    },
+    {
+      "id": "cnd22:109.7",
+      "pali": "athaddasāsiṁ sambuddhaṁ."
+    },
+    {
+      "id": "cnd22:110.1",
+      "pali": "<b>Oghatiṇṇamanāsavan</b>ti."
+    },
+    {
+      "id": "cnd22:110.2",
+      "pali": "<b>Oghatiṇṇan</b>ti bhagavā kāmoghaṁ tiṇṇo,"
+    },
+    {
+      "id": "cnd22:110.3",
+      "pali": "bhavoghaṁ tiṇṇo,"
+    },
+    {
+      "id": "cnd22:110.4",
+      "pali": "diṭṭhoghaṁ tiṇṇo,"
+    },
+    {
+      "id": "cnd22:110.5",
+      "pali": "avijjoghaṁ tiṇṇo,"
+    },
+    {
+      "id": "cnd22:110.6",
+      "pali": "sabbasaṁsārapathaṁ tiṇṇo uttiṇṇo nitthiṇṇo atikkanto samatikkanto vītivatto,"
+    },
+    {
+      "id": "cnd22:110.7",
+      "pali": "so vutthavāso ciṇṇacaraṇo …pe… jātimaraṇasaṁsāro,"
+    },
+    {
+      "id": "cnd22:110.8",
+      "pali": "natthi tassa punabbhavoti—"
+    },
+    {
+      "id": "cnd22:110.9",
+      "pali": "oghatiṇṇaṁ."
+    },
+    {
+      "id": "cnd22:110.10",
+      "pali": "<b>Anāsavan</b>ti cattāro āsavā—"
+    },
+    {
+      "id": "cnd22:110.11",
+      "pali": "kāmāsavo, bhavāsavo, diṭṭhāsavo, avijjāsavo."
+    },
+    {
+      "id": "cnd22:110.12",
+      "pali": "Te āsavā buddhassa bhagavato pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "cnd22:110.13",
+      "pali": "Tasmā buddho anāsavoti—"
+    },
+    {
+      "id": "cnd22:110.14",
+      "pali": "oghatiṇṇamanāsavaṁ."
+    },
+    {
+      "id": "cnd22:110.15",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:111.1",
+      "pali": "“Paṅke sayāno pariphandamāno,"
+    },
+    {
+      "id": "cnd22:111.2",
+      "pali": "Dīpā dīpaṁ upallaviṁ;"
+    },
+    {
+      "id": "cnd22:111.3",
+      "pali": "Athaddasāsiṁ sambuddhaṁ,"
+    },
+    {
+      "id": "cnd22:111.4",
+      "pali": "Oghatiṇṇamanāsavan”ti."
+    },
+    {
+      "id": "cnd22:112.1",
+      "pali": "<b>Yathā ahū vakkali muttasaddho,</b>"
+    },
+    {
+      "id": "cnd22:112.2",
+      "pali": "<b>Bhadrāvudho āḷavigotamo ca;</b>"
+    },
+    {
+      "id": "cnd22:112.3",
+      "pali": "<b>Evameva tvampi pamuñcassu saddhaṁ,</b>"
+    },
+    {
+      "id": "cnd22:112.4",
+      "pali": "<b>Gamissasi tvaṁ piṅgiya maccudheyyassa pāraṁ. </b>"
+    },
+    {
+      "id": "cnd22:113.1",
+      "pali": "<b>Yathā ahū vakkali muttasaddho, bhadrāvudho āḷavigotamo cā</b>ti yathā vakkalitthero saddho saddhāgaruko saddhāpubbaṅgamo saddhādhimutto saddhādhipateyyo arahattappatto, yathā bhadrāvudho thero saddho saddhāgaruko saddhāpubbaṅgamo saddhādhimutto saddhādhipateyyo arahattappatto, yathā āḷavigotamo thero saddho saddhāgaruko saddhāpubbaṅgamo saddhādhimutto saddhādhipateyyo arahattappattoti—"
+    },
+    {
+      "id": "cnd22:113.2",
+      "pali": "yathā ahū vakkali muttasaddho bhadrāvudho āḷavigotamo ca."
+    },
+    {
+      "id": "cnd22:114.1",
+      "pali": "<b>Evameva tvampi pamuñcassu saddhan</b>ti evameva tvaṁ saddhaṁ muñcassu pamuñcassu sampamuñcassu adhimuñcassu okappehi."
+    },
+    {
+      "id": "cnd22:114.2",
+      "pali": "“Sabbe saṅkhārā aniccā”ti saddhaṁ muñcassu pamuñcassu sampamuñcassu adhimuñcassu okappehi."
+    },
+    {
+      "id": "cnd22:114.3",
+      "pali": "“Sabbe saṅkhārā dukkhā”ti …pe…"
+    },
+    {
+      "id": "cnd22:114.4",
+      "pali": "“sabbe dhammā anattā”ti saddhaṁ muñcassu pamuñcassu sampamuñcassu adhimuñcassu okappehi …pe…"
+    },
+    {
+      "id": "cnd22:114.5",
+      "pali": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti saddhaṁ muñcassu pamuñcassu, sampamuñcassu adhimuñcassu okappehīti—"
+    },
+    {
+      "id": "cnd22:114.6",
+      "pali": "evameva tvampi pamuñcassu saddhaṁ."
+    },
+    {
+      "id": "cnd22:115.1",
+      "pali": "<b>Gamissasi tvaṁ piṅgiya maccudheyyassa pāran</b>ti maccudheyyaṁ vuccanti kilesā ca khandhā ca abhisaṅkhārā ca."
+    },
+    {
+      "id": "cnd22:115.2",
+      "pali": "Maccudheyyassa pāraṁ vuccati amataṁ nibbānaṁ, yo so sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṁ."
+    },
+    {
+      "id": "cnd22:115.3",
+      "pali": "<b>Gamissasi tvaṁ piṅgiya maccudheyyassa pāran</b>ti tvaṁ pāraṁ gamissasi, pāraṁ adhigamissasi, pāraṁ phassissasi, pāraṁ sacchikarissasīti—"
+    },
+    {
+      "id": "cnd22:115.4",
+      "pali": "gamissasi tvaṁ piṅgiya maccudheyyassa pāraṁ."
+    },
+    {
+      "id": "cnd22:115.5",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "cnd22:116.1",
+      "pali": "“Yathā ahū vakkali muttasaddho,"
+    },
+    {
+      "id": "cnd22:116.2",
+      "pali": "Bhadrāvudho āḷavigotamo ca;"
+    },
+    {
+      "id": "cnd22:116.3",
+      "pali": "Evameva tvampi pamuñcassu saddhaṁ,"
+    },
+    {
+      "id": "cnd22:116.4",
+      "pali": "Gamissasi tvaṁ piṅgiya maccudheyyassa pāran”ti."
+    },
+    {
+      "id": "cnd22:117.1",
+      "pali": "<b>Esa bhiyyo pasīdāmi,</b>"
+    },
+    {
+      "id": "cnd22:117.2",
+      "pali": "<b>Sutvāna munino vaco;</b>"
+    },
+    {
+      "id": "cnd22:117.3",
+      "pali": "<b>Vivaṭṭacchado sambuddho,</b>"
+    },
+    {
+      "id": "cnd22:117.4",
+      "pali": "<b>Akhilo paṭibhānavā. </b>"
+    },
+    {
+      "id": "cnd22:118.1",
+      "pali": "<b>Esa bhiyyo pasīdāmī</b>ti esa bhiyyo pasīdāmi, bhiyyo bhiyyo saddahāmi, bhiyyo bhiyyo okappemi, bhiyyo bhiyyo adhimuccāmi;"
+    },
+    {
+      "id": "cnd22:118.2",
+      "pali": "“sabbe saṅkhārā aniccā”ti bhiyyo bhiyyo pasīdāmi, bhiyyo bhiyyo saddahāmi, bhiyyo bhiyyo okappemi, bhiyyo bhiyyo adhimuccāmi;"
+    },
+    {
+      "id": "cnd22:118.3",
+      "pali": "“sabbe saṅkhārā dukkhā”ti bhiyyo bhiyyo pasīdāmi …pe…"
+    },
+    {
+      "id": "cnd22:118.4",
+      "pali": "“sabbe dhammā anattā”ti bhiyyo bhiyyo pasīdāmi …pe…"
+    },
+    {
+      "id": "cnd22:118.5",
+      "pali": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti bhiyyo bhiyyo pasīdāmi, bhiyyo bhiyyo saddahāmi, bhiyyo bhiyyo okappemi, bhiyyo bhiyyo adhimuccāmīti—"
+    },
+    {
+      "id": "cnd22:118.6",
+      "pali": "esa bhiyyo pasīdāmi."
+    },
+    {
+      "id": "cnd22:119.1",
+      "pali": "<b>Sutvāna munino vaco</b>ti."
+    },
+    {
+      "id": "cnd22:119.2",
+      "pali": "<b>Munī</b>ti monaṁ vuccati ñāṇaṁ …pe… saṅgajālamaticca so muni."
+    },
+    {
+      "id": "cnd22:119.3",
+      "pali": "<b>Sutvāna munino vaco</b>ti tuyhaṁ vacanaṁ byappathaṁ desanaṁ anusāsanaṁ anusiṭṭhaṁ sutvāna uggahetvāna upadhārayitvāna upalakkhayitvānāti—"
+    },
+    {
+      "id": "cnd22:119.4",
+      "pali": "sutvāna munino vaco."
+    },
+    {
+      "id": "cnd22:120.1",
+      "pali": "<b>Vivaṭṭacchado sambuddho</b>ti."
+    },
+    {
+      "id": "cnd22:120.2",
+      "pali": "<b>Chadanan</b>ti pañca chadanāni—"
+    },
+    {
+      "id": "cnd22:120.3",
+      "pali": "taṇhāchadanaṁ, diṭṭhichadanaṁ, kilesachadanaṁ, duccaritachadanaṁ, avijjāchadanaṁ."
+    },
+    {
+      "id": "cnd22:120.4",
+      "pali": "Tāni chadanāni buddhassa bhagavato vivaṭāni viddhaṁsitāni samugghāṭitāni pahīnāni samucchinnāni vūpasantāni paṭippassaddhāni abhabbuppattikāni ñāṇagginā daḍḍhāni."
+    },
+    {
+      "id": "cnd22:120.5",
+      "pali": "Tasmā buddho vivaṭṭacchado."
+    },
+    {
+      "id": "cnd22:120.6",
+      "pali": "<b>Buddho</b>ti yo so bhagavā …pe… sacchikā paññatti, yadidaṁ buddhoti—"
+    },
+    {
+      "id": "cnd22:120.7",
+      "pali": "vivaṭṭacchado sambuddho."
+    },
+    {
+      "id": "cnd22:121.1",
+      "pali": "<b>Akhilo paṭibhānavā</b>ti."
+    },
+    {
+      "id": "cnd22:121.2",
+      "pali": "<b>Akhilo</b>ti rāgo khilo, doso khilo, moho khilo, kodho khilo, upanāho …pe… sabbākusalābhisaṅkhārā khilā."
+    },
+    {
+      "id": "cnd22:121.3",
+      "pali": "Te khilā buddhassa bhagavato pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "cnd22:121.4",
+      "pali": "Tasmā buddho akhilo."
+    },
+    {
+      "id": "cnd22:122.1",
+      "pali": "<b>Paṭibhānavā</b>ti tayo paṭibhānavanto—"
+    },
+    {
+      "id": "cnd22:122.2",
+      "pali": "pariyattipaṭibhānavā, paripucchāpaṭibhānavā, adhigamapaṭibhānavā."
+    },
+    {
+      "id": "cnd22:122.3",
+      "pali": "Katamo pariyattipaṭibhānavā?"
+    },
+    {
+      "id": "cnd22:122.4",
+      "pali": "Idhekaccassa buddhavacanaṁ pariyāputaṁ hoti suttaṁ geyyaṁ veyyākaraṇaṁ gāthā udānaṁ itivuttakaṁ jātakaṁ abbhutadhammaṁ vedallaṁ."
+    },
+    {
+      "id": "cnd22:122.5",
+      "pali": "Tassa pariyattiṁ nissāya paṭibhāti—"
+    },
+    {
+      "id": "cnd22:122.6",
+      "pali": "ayaṁ pariyattipaṭibhānavā."
+    },
+    {
+      "id": "cnd22:123.1",
+      "pali": "Katamo paripucchāpaṭibhānavā?"
+    },
+    {
+      "id": "cnd22:123.2",
+      "pali": "Idhekacco paripucchitā hoti atthe ca ñāye ca lakkhaṇe ca kāraṇe ca ṭhānāṭhāne ca."
+    },
+    {
+      "id": "cnd22:123.3",
+      "pali": "Tassa paripucchaṁ nissāya paṭibhāti—"
+    },
+    {
+      "id": "cnd22:123.4",
+      "pali": "ayaṁ paripucchāpaṭibhānavā."
+    },
+    {
+      "id": "cnd22:124.1",
+      "pali": "Katamo adhigamapaṭibhānavā?"
+    },
+    {
+      "id": "cnd22:124.2",
+      "pali": "Idhekaccassa adhigatā honti cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā, pañcindriyāni, pañca balāni, satta bojjhaṅgā, ariyo aṭṭhaṅgiko maggo, cattāro ariyamaggā, cattāri sāmaññaphalāni, catasso paṭisambhidāyo, cha abhiññāyo."
+    },
+    {
+      "id": "cnd22:124.3",
+      "pali": "Tassa attho ñāto, dhammo ñāto, nirutti ñātā."
+    },
+    {
+      "id": "cnd22:124.4",
+      "pali": "Atthe ñāte attho paṭibhāti, dhamme ñāte dhammo paṭibhāti, niruttiyā ñātāya nirutti paṭibhāti."
+    },
+    {
+      "id": "cnd22:124.5",
+      "pali": "Imesu tīsu ñāṇesu ñāṇaṁ paṭibhānapaṭisambhidā."
+    },
+    {
+      "id": "cnd22:124.6",
+      "pali": "Bhagavā imāya paṭibhānapaṭisambhidāya upeto samupeto upāgato samupāgato upapanno samupapanno samannāgato."
+    },
+    {
+      "id": "cnd22:124.7",
+      "pali": "Tasmā buddho paṭibhānavā."
+    },
+    {
+      "id": "cnd22:124.8",
+      "pali": "Yassa pariyatti natthi, paripucchā natthi, adhigamo natthi, kiṁ tassa paṭibhāyissatīti—"
+    },
+    {
+      "id": "cnd22:124.9",
+      "pali": "akhilo paṭibhānavā."
+    },
+    {
+      "id": "cnd22:124.10",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:125.1",
+      "pali": "“Esa bhiyyo pasīdāmi,"
+    },
+    {
+      "id": "cnd22:125.2",
+      "pali": "sutvāna munino vaco;"
+    },
+    {
+      "id": "cnd22:125.3",
+      "pali": "Vivaṭṭacchado sambuddho,"
+    },
+    {
+      "id": "cnd22:125.4",
+      "pali": "akhilo paṭibhānavā”ti."
+    },
+    {
+      "id": "cnd22:126.1",
+      "pali": "<b>Adhideve abhiññāya,</b>"
+    },
+    {
+      "id": "cnd22:126.2",
+      "pali": "<b>Sabbaṁ vedi paroparaṁ;</b>"
+    },
+    {
+      "id": "cnd22:126.3",
+      "pali": "<b>Pañhānantakaro satthā,</b>"
+    },
+    {
+      "id": "cnd22:126.4",
+      "pali": "<b>Kaṅkhīnaṁ paṭijānataṁ. </b>"
+    },
+    {
+      "id": "cnd22:127.1",
+      "pali": "<b>Adhideve abhiññāyā</b>ti."
+    },
+    {
+      "id": "cnd22:127.2",
+      "pali": "<b>Devā</b>ti tayo devā—"
+    },
+    {
+      "id": "cnd22:127.3",
+      "pali": "sammutidevā, upapattidevā, visuddhidevā."
+    },
+    {
+      "id": "cnd22:127.4",
+      "pali": "Katame sammutidevā?"
+    },
+    {
+      "id": "cnd22:127.5",
+      "pali": "Sammutidevā vuccanti rājāno ca rājakumāro ca deviyo ca."
+    },
+    {
+      "id": "cnd22:127.6",
+      "pali": "Ime vuccanti sammutidevā."
+    },
+    {
+      "id": "cnd22:127.7",
+      "pali": "Katame upapattidevā?"
+    },
+    {
+      "id": "cnd22:127.8",
+      "pali": "Upapattidevā vuccanti cātumahārājikā devā tāvatiṁsā devā …pe… brahmakāyikā devā, ye ca devā taduttari."
+    },
+    {
+      "id": "cnd22:127.9",
+      "pali": "Ime vuccanti upapattidevā."
+    },
+    {
+      "id": "cnd22:127.10",
+      "pali": "Katame visuddhidevā?"
+    },
+    {
+      "id": "cnd22:127.11",
+      "pali": "Visuddhidevā vuccanti tathāgatā tathāgatasāvakā arahanto khīṇāsavā, ye ca paccekasambuddhā."
+    },
+    {
+      "id": "cnd22:127.12",
+      "pali": "Ime vuccanti visuddhidevā."
+    },
+    {
+      "id": "cnd22:127.13",
+      "pali": "Bhagavā sammutideve adhidevāti abhiññāya upapattideve adhidevāti abhiññāya, visuddhideve adhidevāti abhiññāya jānitvā tulayitvā tīrayitvā vibhāvayitvā vibhūtaṁ katvāti—"
+    },
+    {
+      "id": "cnd22:127.14",
+      "pali": "adhideve abhiññāya."
+    },
+    {
+      "id": "cnd22:128.1",
+      "pali": "<b>Sabbaṁ vedi paroparan</b>ti bhagavā attano ca paresañca adhidevakare dhamme vedi aññāsi aphassi paṭivijjhi."
+    },
+    {
+      "id": "cnd22:128.2",
+      "pali": "Katame attano adhidevakarā dhammā?"
+    },
+    {
+      "id": "cnd22:128.3",
+      "pali": "Sammāpaṭipadā anulomapaṭipadā apaccanīkapaṭipadā anvatthapaṭipadā dhammānudhammapaṭipadā sīlesu paripūrakāritā indriyesu guttadvāratā bhojane mattaññutā jāgariyānuyogo satisampajaññaṁ cattāro satipaṭṭhānā …pe… ariyo aṭṭhaṅgiko maggo."
+    },
+    {
+      "id": "cnd22:128.4",
+      "pali": "Ime vuccanti attano adhidevakarā dhammā."
+    },
+    {
+      "id": "cnd22:129.1",
+      "pali": "Katame paresaṁ adhidevakarā dhammā?"
+    },
+    {
+      "id": "cnd22:129.2",
+      "pali": "Sammāpaṭipadā …pe… ariyo aṭṭhaṅgiko maggo."
+    },
+    {
+      "id": "cnd22:129.3",
+      "pali": "Ime vuccanti paresaṁ adhidevakarā dhammā."
+    },
+    {
+      "id": "cnd22:129.4",
+      "pali": "Evaṁ bhagavā attano ca paresañca adhidevakare dhamme vedi aññāsi aphassi paṭivijjhīti—"
+    },
+    {
+      "id": "cnd22:129.5",
+      "pali": "sabbaṁ vedi paroparaṁ."
+    },
+    {
+      "id": "cnd22:130.1",
+      "pali": "<b>Pañhānantakaro satthā</b>ti bhagavā pārāyanikapañhānaṁ antakaro pariyantakaro paricchedakaro parivaṭumakaro;"
+    },
+    {
+      "id": "cnd22:130.2",
+      "pali": "sabhiyapañhānaṁ antakaro pariyantakaro paricchedakaro parivaṭumakaro;"
+    },
+    {
+      "id": "cnd22:130.3",
+      "pali": "sakkapañhānaṁ …pe…"
+    },
+    {
+      "id": "cnd22:130.4",
+      "pali": "suyāmapañhānaṁ …"
+    },
+    {
+      "id": "cnd22:130.5",
+      "pali": "bhikkhupañhānaṁ …"
+    },
+    {
+      "id": "cnd22:130.6",
+      "pali": "bhikkhunīpañhānaṁ …"
+    },
+    {
+      "id": "cnd22:130.7",
+      "pali": "upāsakapañhānaṁ …"
+    },
+    {
+      "id": "cnd22:130.8",
+      "pali": "upāsikāpañhānaṁ …"
+    },
+    {
+      "id": "cnd22:130.9",
+      "pali": "rājapañhānaṁ …"
+    },
+    {
+      "id": "cnd22:130.10",
+      "pali": "khattiyapañhānaṁ …"
+    },
+    {
+      "id": "cnd22:130.11",
+      "pali": "brāhmaṇapañhānaṁ …"
+    },
+    {
+      "id": "cnd22:130.12",
+      "pali": "vessapañhānaṁ …"
+    },
+    {
+      "id": "cnd22:130.13",
+      "pali": "suddapañhānaṁ …"
+    },
+    {
+      "id": "cnd22:130.14",
+      "pali": "devapañhānaṁ …"
+    },
+    {
+      "id": "cnd22:130.15",
+      "pali": "brahmapañhānaṁ antakaro pariyantakaro paricchedakaro parivaṭumakaroti—"
+    },
+    {
+      "id": "cnd22:130.16",
+      "pali": "pañhānantakaro."
+    },
+    {
+      "id": "cnd22:130.17",
+      "pali": "<b>Satthā</b>ti bhagavā satthavāho."
+    },
+    {
+      "id": "cnd22:130.18",
+      "pali": "Yathā satthavāho satthe kantāraṁ tāreti, corakantāraṁ tāreti, vāḷakantāraṁ tāreti, dubbhikkhakantāraṁ tāreti, nirudakakantāraṁ tāreti uttāreti nittāreti patāreti, khemantabhūmiṁ sampāpeti;"
+    },
+    {
+      "id": "cnd22:130.19",
+      "pali": "evameva bhagavā satthavāho satte kantāraṁ tāreti,"
+    },
+    {
+      "id": "cnd22:130.20",
+      "pali": "jātikantāraṁ tāreti, jarākantāraṁ …pe…"
+    },
+    {
+      "id": "cnd22:130.21",
+      "pali": "byādhikantāraṁ …"
+    },
+    {
+      "id": "cnd22:130.22",
+      "pali": "maraṇakantāraṁ …"
+    },
+    {
+      "id": "cnd22:130.23",
+      "pali": "sokaparidevadukkhadomanassupāyāsakantāraṁ tāreti,"
+    },
+    {
+      "id": "cnd22:130.24",
+      "pali": "rāgakantāraṁ tāreti,"
+    },
+    {
+      "id": "cnd22:130.25",
+      "pali": "dosakantāraṁ …"
+    },
+    {
+      "id": "cnd22:130.26",
+      "pali": "mohakantāraṁ …"
+    },
+    {
+      "id": "cnd22:130.27",
+      "pali": "mānakantāraṁ …"
+    },
+    {
+      "id": "cnd22:130.28",
+      "pali": "diṭṭhikantāraṁ …"
+    },
+    {
+      "id": "cnd22:130.29",
+      "pali": "kilesakantāraṁ …"
+    },
+    {
+      "id": "cnd22:130.30",
+      "pali": "duccaritakantāraṁ tāreti,"
+    },
+    {
+      "id": "cnd22:130.31",
+      "pali": "rāgagahanaṁ tāreti,"
+    },
+    {
+      "id": "cnd22:130.32",
+      "pali": "dosagahanaṁ …"
+    },
+    {
+      "id": "cnd22:130.33",
+      "pali": "mohagahanaṁ …"
+    },
+    {
+      "id": "cnd22:130.34",
+      "pali": "diṭṭhigahanaṁ …"
+    },
+    {
+      "id": "cnd22:130.35",
+      "pali": "kilesagahanaṁ …"
+    },
+    {
+      "id": "cnd22:130.36",
+      "pali": "duccaritagahanaṁ tāreti uttāreti nittāreti patāreti;"
+    },
+    {
+      "id": "cnd22:130.37",
+      "pali": "khemantaṁ amataṁ nibbānaṁ sampāpetīti—"
+    },
+    {
+      "id": "cnd22:130.38",
+      "pali": "evampi bhagavā satthavāho."
+    },
+    {
+      "id": "cnd22:131.1",
+      "pali": "Atha vā bhagavā netā vinetā anunetā paññāpetā nijjhāpetā pekkhatā pasādetāti, evaṁ bhagavā satthavāho."
+    },
+    {
+      "id": "cnd22:131.2",
+      "pali": "Atha vā bhagavā anuppannassa maggassa uppādetā, asañjātassa maggassa sañjanetā, anakkhātassa maggassa akkhātā, maggaññū maggavidū maggakovido maggānugā ca pana etarahi sāvakā viharanti pacchā samannāgatāti, evampi bhagavā satthavāhoti—"
+    },
+    {
+      "id": "cnd22:131.3",
+      "pali": "pañhānantakaro satthā."
+    },
+    {
+      "id": "cnd22:132.1",
+      "pali": "<b>Kaṅkhīnaṁ paṭijānatan</b>ti sakaṅkhā āgantvā nikkaṅkhā sampajjanti, sallekhā āgantvā nillekhā sampajjanti, sadveḷhakā āgantvā nidveḷhakā sampajjanti, savicikicchā āgantvā nibbicikicchā sampajjanti, sarāgā āgantvā vītarāgā sampajjanti, sadosā āgantvā vītadosā sampajjanti, samohā āgantvā vītamohā sampajjanti, sakilesā āgantvā nikkilesā sampajjantīti—"
+    },
+    {
+      "id": "cnd22:132.2",
+      "pali": "kaṅkhīnaṁ paṭijānataṁ."
+    },
+    {
+      "id": "cnd22:132.3",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:133.1",
+      "pali": "“Adhideve abhiññāya,"
+    },
+    {
+      "id": "cnd22:133.2",
+      "pali": "sabbaṁ vedi paroparaṁ;"
+    },
+    {
+      "id": "cnd22:133.3",
+      "pali": "Pañhānantakaro satthā,"
+    },
+    {
+      "id": "cnd22:133.4",
+      "pali": "kaṅkhīnaṁ paṭijānatan”ti."
+    },
+    {
+      "id": "cnd22:134.1",
+      "pali": "<b>Asaṁhīraṁ asaṅkuppaṁ,</b>"
+    },
+    {
+      "id": "cnd22:134.2",
+      "pali": "<b>Yassa natthi upamā kvaci;</b>"
+    },
+    {
+      "id": "cnd22:134.3",
+      "pali": "<b>Addhā gamissāmi na mettha kaṅkhā,</b>"
+    },
+    {
+      "id": "cnd22:134.4",
+      "pali": "<b>Evaṁ maṁ dhārehi adhimuttacittaṁ. </b>"
+    },
+    {
+      "id": "cnd22:135.1",
+      "pali": "<b>Asaṁhīraṁ asaṅkuppan</b>ti asaṁhīraṁ vuccati amataṁ nibbānaṁ."
+    },
+    {
+      "id": "cnd22:135.2",
+      "pali": "Yo so sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṁ."
+    },
+    {
+      "id": "cnd22:135.3",
+      "pali": "<b>Asaṁhīran</b>ti rāgena dosena mohena kodhena upanāhena makkhena paḷāsena issāya macchariyena māyāya sāṭheyyena thambhena sārambhena mānena atimānena madena pamādena sabbakilesehi sabbaduccaritehi sabbapariḷāhehi sabbāsavehi sabbadarathehi sabbasantāpehi sabbākusalābhisaṅkhārehi asaṁhāriyaṁ nibbānaṁ niccaṁ dhuvaṁ sassataṁ avipariṇāmadhammanti—"
+    },
+    {
+      "id": "cnd22:135.4",
+      "pali": "asaṁhīraṁ."
+    },
+    {
+      "id": "cnd22:136.1",
+      "pali": "<b>Asaṅkuppan</b>ti asaṅkuppaṁ vuccati amataṁ nibbānaṁ."
+    },
+    {
+      "id": "cnd22:136.2",
+      "pali": "Yo so sabbasaṅkhārasamatho …pe… nirodho nibbānaṁ."
+    },
+    {
+      "id": "cnd22:136.3",
+      "pali": "Nibbānassa na uppādo paññāyati, vayo natthi, na tassa aññathattaṁ paññāyati."
+    },
+    {
+      "id": "cnd22:136.4",
+      "pali": "Nibbānaṁ niccaṁ dhuvaṁ sassataṁ avipariṇāmadhammanti—"
+    },
+    {
+      "id": "cnd22:136.5",
+      "pali": "asaṁhīraṁ asaṅkuppaṁ."
+    },
+    {
+      "id": "cnd22:137.1",
+      "pali": "<b>Yassa natthi upamā kvacī</b>ti."
+    },
+    {
+      "id": "cnd22:137.2",
+      "pali": "<b>Yassā</b>ti nibbānassa."
+    },
+    {
+      "id": "cnd22:137.3",
+      "pali": "<b>Natthi upamā</b>ti upamā natthi, upanidhā natthi, sadisaṁ natthi, paṭibhāgo natthi, na atthi na saṁvijjati nupalabbhati."
+    },
+    {
+      "id": "cnd22:137.4",
+      "pali": "<b>Kvacī</b>ti kvaci kimhici katthaci ajjhattaṁ vā bahiddhā vā ajjhattabahiddhā vāti—"
+    },
+    {
+      "id": "cnd22:137.5",
+      "pali": "yassa natthi upamā kvaci."
+    },
+    {
+      "id": "cnd22:138.1",
+      "pali": "<b>Addhā gamissāmi na mettha kaṅkhā</b>ti."
+    },
+    {
+      "id": "cnd22:138.2",
+      "pali": "<b>Addhā</b>ti ekaṁsavacanaṁ nissaṁsayavacanaṁ nikkaṅkhavacanaṁ advejjhavacanaṁ adveḷhakavacanaṁ niyogavacanaṁ apaṇṇakavacanaṁ aviraddhavacanaṁ avatthāpanavacanametaṁ—"
+    },
+    {
+      "id": "cnd22:138.3",
+      "pali": "addhāti."
+    },
+    {
+      "id": "cnd22:138.4",
+      "pali": "<b>Gamissāmī</b>ti gamissāmi adhigamissāmi phassissāmi sacchikarissāmīti—"
+    },
+    {
+      "id": "cnd22:138.5",
+      "pali": "addhā gamissāmi."
+    },
+    {
+      "id": "cnd22:138.6",
+      "pali": "<b>Na mettha kaṅkhā</b>ti."
+    },
+    {
+      "id": "cnd22:138.7",
+      "pali": "<b>Etthā</b>ti nibbāne kaṅkhā natthi, vicikicchā natthi, dveḷhakaṁ natthi, saṁsayo natthi, na atthi na saṁvijjati nupalabbhati, pahīno samucchinno vūpasanto paṭippassaddho abhabbuppattiko ñāṇagginā daḍḍhoti—"
+    },
+    {
+      "id": "cnd22:138.8",
+      "pali": "addhā gamissāmi na mettha kaṅkhā."
+    },
+    {
+      "id": "cnd22:139.1",
+      "pali": "<b>Evaṁ maṁ dhārehi adhimuttacittan</b>ti."
+    },
+    {
+      "id": "cnd22:139.2",
+      "pali": "<b>Evaṁ maṁ dhārehī</b>ti evaṁ maṁ upalakkhehi."
+    },
+    {
+      "id": "cnd22:139.3",
+      "pali": "<b>Adhimuttacittan</b>ti nibbānaninnaṁ nibbānapoṇaṁ nibbānapabbhāraṁ nibbānādhimuttanti—"
+    },
+    {
+      "id": "cnd22:139.4",
+      "pali": "evaṁ maṁ dhārehi adhimuttacittanti."
+    },
+    {
+      "id": "cnd22:139.5",
+      "pali": "Tenāha thero piṅgiyo—"
+    },
+    {
+      "id": "cnd22:140.1",
+      "pali": "“Asaṁhīraṁ asaṅkuppaṁ,"
+    },
+    {
+      "id": "cnd22:140.2",
+      "pali": "Yassa natthi upamā kvaci;"
+    },
+    {
+      "id": "cnd22:140.3",
+      "pali": "Addhā gamissāmi na mettha kaṅkhā,"
+    },
+    {
+      "id": "cnd22:140.4",
+      "pali": "Evaṁ maṁ dhārehi adhimuttacittan”ti."
+    },
+    {
+      "id": "cnd22:140.5",
+      "pali": "Pārāyanānugītigāthāniddeso aṭṭhārasamo."
+    },
+    {
+      "id": "cnd22:140.6",
+      "pali": "Pārāyanavaggo samatto."
+    }
+  ]
+}
