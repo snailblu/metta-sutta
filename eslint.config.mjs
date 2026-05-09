@@ -27,10 +27,12 @@ export default [
       ...nextPlugin.configs["core-web-vitals"].rules,
       ...tsPlugin.configs.recommended.rules,
       "react-hooks/rules-of-hooks": "error",
-      "react-hooks/exhaustive-deps": "warn",
-      "no-console": "warn",
-      "@typescript-eslint/no-unused-vars": ["warn", { "argsIgnorePattern": "^_" }],
-      "@typescript-eslint/no-explicit-any": "warn",
+      "react-hooks/exhaustive-deps": "error",
+      "no-console": ["error", { allow: ["warn", "error"] }],
+      "@typescript-eslint/no-unused-vars": ["error", { "argsIgnorePattern": "^_" }],
+      "@typescript-eslint/no-explicit-any": "error",
+      "@typescript-eslint/no-floating-promises": "error",
+      "@typescript-eslint/consistent-type-imports": ["error", { "prefer": "type-imports" }],
     },
     settings: {
       react: {

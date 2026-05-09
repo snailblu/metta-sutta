@@ -36,12 +36,24 @@ function writeServerLog(level: LogLevel, message: string, error?: unknown) {
 }
 
 function writeBrowserLog(level: LogLevel, message: string, error?: unknown) {
-  const loggerMethod = console[level] ?? console.error;
-
-  if (error === undefined) {
-    loggerMethod(message);
+  if (level === "error") {
+    if (error === undefined) {
+      console.error(message);
+    } else {
+      console.error(message, error);
+    }
+  } else if (level === "warn") {
+    if (error === undefined) {
+      console.warn(message);
+    } else {
+      console.warn(message, error);
+    }
   } else {
-    loggerMethod(message, error);
+    if (error === undefined) {
+      console.warn(message);
+    } else {
+      console.warn(message, error);
+    }
   }
 
   if (level === "error" && error instanceof Error && typeof globalThis.reportError === "function") {

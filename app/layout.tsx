@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "자비경 연구 - 메타 숫타",
-  description: "팔리어 경전을 한국어로 직접 연구하고 수행의 의미를 깊이 탐구하는 도구",
+  title: "빨리어 경전 분석기 - 도반(Dhammamitta)",
+  description: "빨리어 경전을 수행자의 관점에서 명쾌하게 풀어내는 AI 번역 해설 도구",
 };
 
 export const viewport: Viewport = {

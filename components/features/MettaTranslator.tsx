@@ -38,8 +38,8 @@ export default function MettaTranslator() {
     const parsedResult = analysisSchema.safeParse(object);
 
     if (parsedResult.success) {
-      saveTranslation(parsedResult.data);
-      loadHistory();
+      void saveTranslation(parsedResult.data);
+      void loadHistory();
     }
   }, [object, isLoading]);
 
@@ -97,7 +97,7 @@ export default function MettaTranslator() {
         <button
           onClick={() => {
             setShowHistory(!showHistory);
-            if (!showHistory) loadHistory();
+            if (!showHistory) void loadHistory();
           }}
           className="text-blue-600 hover:text-blue-700 font-medium mb-2 flex items-center gap-1"
         >
@@ -114,9 +114,9 @@ export default function MettaTranslator() {
                 onChange={e => {
                   setSearchQuery(e.target.value);
                   if (e.target.value) {
-                    searchHistory(e.target.value);
+                    void searchHistory(e.target.value);
                   } else {
-                    loadHistory();
+                    void loadHistory();
                   }
                 }}
                 className="w-full px-3 py-2 border border-neutral-300 dark:border-neutral-600 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none bg-white dark:bg-neutral-800 text-neutral-900 dark:text-neutral-100"

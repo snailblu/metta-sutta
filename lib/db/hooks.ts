@@ -28,7 +28,7 @@ export function useNotes(targetType: "phrase" | "word", targetId: string) {
       }
     };
 
-    loadNote();
+    void loadNote();
   }, [targetType, targetId]);
 
   const saveNote = async (content: string) => {
@@ -72,7 +72,7 @@ export function useAllNotes() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    loadNotes();
+    void loadNotes();
   }, []);
 
   const loadNotes = async () => {
@@ -108,7 +108,7 @@ export function useProgress(suttaId: string) {
       }
     };
 
-    loadProgress();
+    void loadProgress();
   }, [suttaId]);
 
   const saveProgress = async (verseNumber: number) => {
@@ -147,7 +147,7 @@ export function useBookmarks() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    loadBookmarks();
+    void loadBookmarks();
   }, []);
 
   const loadBookmarks = async () => {
