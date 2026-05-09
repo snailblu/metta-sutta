@@ -1,0 +1,4439 @@
+{
+  "uid": "ps1.5",
+  "title": "1.5. Vimokkhakathā",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "ps1.5:1.1",
+      "pali": "Purimanidānaṁ."
+    },
+    {
+      "id": "ps1.5:1.2",
+      "pali": "“Tayome, bhikkhave, vimokkhā."
+    },
+    {
+      "id": "ps1.5:1.3",
+      "pali": "Katame tayo?"
+    },
+    {
+      "id": "ps1.5:1.4",
+      "pali": "Suññato vimokkho, animitto vimokkho, appaṇihito vimokkho—"
+    },
+    {
+      "id": "ps1.5:1.5",
+      "pali": "ime kho, bhikkhave, tayo vimokkhā."
+    },
+    {
+      "id": "ps1.5:2.1",
+      "pali": "Api ca aṭṭhasaṭṭhi vimokkhā—"
+    },
+    {
+      "id": "ps1.5:2.2",
+      "pali": "suññato vimokkho, animitto vimokkho, appaṇihito vimokkho;"
+    },
+    {
+      "id": "ps1.5:2.3",
+      "pali": "ajjhattavuṭṭhāno vimokkho, bahiddhāvuṭṭhāno vimokkho, dubhato vuṭṭhāno vimokkho;"
+    },
+    {
+      "id": "ps1.5:2.4",
+      "pali": "ajjhattavuṭṭhānā cattāro vimokkhā, bahiddhāvuṭṭhānā cattāro vimokkhā, dubhato vuṭṭhānā cattāro vimokkhā;"
+    },
+    {
+      "id": "ps1.5:2.5",
+      "pali": "ajjhattavuṭṭhānānaṁ anulomā cattāro vimokkhā, bahiddhāvuṭṭhānānaṁ anulomā cattāro vimokkhā, dubhato vuṭṭhānānaṁ anulomā cattāro vimokkhā;"
+    },
+    {
+      "id": "ps1.5:2.6",
+      "pali": "ajjhattavuṭṭhānapaṭippassaddhī cattāro vimokkhā, bahiddhāvuṭṭhānapaṭippassaddhī cattāro vimokkhā, dubhato vuṭṭhānapaṭippassaddhī cattāro vimokkhā;"
+    },
+    {
+      "id": "ps1.5:2.7",
+      "pali": "rūpī rūpāni passatīti vimokkho, ajjhattaṁ arūpasaññī bahiddhā rūpāni passatīti vimokkho, subhaṁ teva adhimutto hotīti vimokkho;"
+    },
+    {
+      "id": "ps1.5:2.8",
+      "pali": "ākāsānañcāyatanasamāpatti vimokkho, viññāṇañcāyatanasamāpatti vimokkho, ākiñcaññāyatanasamāpatti vimokkho;"
+    },
+    {
+      "id": "ps1.5:2.9",
+      "pali": "nevasaññānāsaññāyatanasamāpatti vimokkho, saññāvedayitanirodhasamāpatti vimokkho;"
+    },
+    {
+      "id": "ps1.5:2.10",
+      "pali": "samayavimokkho, asamayavimokkho;"
+    },
+    {
+      "id": "ps1.5:2.11",
+      "pali": "sāmayiko vimokkho, asāmayiko vimokkho;"
+    },
+    {
+      "id": "ps1.5:2.12",
+      "pali": "kuppo vimokkho, akuppo vimokkho;"
+    },
+    {
+      "id": "ps1.5:2.13",
+      "pali": "lokiko vimokkho, lokuttaro vimokkho;"
+    },
+    {
+      "id": "ps1.5:2.14",
+      "pali": "sāsavo vimokkho, anāsavo vimokkho;"
+    },
+    {
+      "id": "ps1.5:2.15",
+      "pali": "sāmiso vimokkho, nirāmiso vimokkho;"
+    },
+    {
+      "id": "ps1.5:2.16",
+      "pali": "nirāmisānirāmisataro vimokkho, paṇihito vimokkho, appaṇihito vimokkho, paṇihitappaṭippassaddhi vimokkho;"
+    },
+    {
+      "id": "ps1.5:2.17",
+      "pali": "saññutto vimokkho, visaññutto vimokkho;"
+    },
+    {
+      "id": "ps1.5:2.18",
+      "pali": "ekattavimokkho, nānattavimokkho, saññāvimokkho, ñāṇavimokkho;"
+    },
+    {
+      "id": "ps1.5:2.19",
+      "pali": "sītisiyāvimokkho, jhānavimokkho, anupādācittassa vimokkho”. [75]"
+    },
+    {
+      "id": "ps1.5:3.1",
+      "pali": "Katamo <b>suññato vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:3.2",
+      "pali": "Idha bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati—"
+    },
+    {
+      "id": "ps1.5:3.3",
+      "pali": "“suññamidaṁ attena vā attaniyena vā”ti."
+    },
+    {
+      "id": "ps1.5:3.4",
+      "pali": "So tattha abhinivesaṁ na karotīti—"
+    },
+    {
+      "id": "ps1.5:3.5",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:3.6",
+      "pali": "Ayaṁ suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:4.1",
+      "pali": "Katamo <b>animitto vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:4.2",
+      "pali": "Idha bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati—"
+    },
+    {
+      "id": "ps1.5:4.3",
+      "pali": "“suññamidaṁ attena vā attaniyena vā”ti."
+    },
+    {
+      "id": "ps1.5:4.4",
+      "pali": "So tattha nimittaṁ na karotīti—"
+    },
+    {
+      "id": "ps1.5:4.5",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:4.6",
+      "pali": "Ayaṁ animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:5.1",
+      "pali": "Katamo <b>appaṇihito vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:5.2",
+      "pali": "Idha bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati—"
+    },
+    {
+      "id": "ps1.5:5.3",
+      "pali": "“suññamidaṁ attena vā attaniyena vā”ti."
+    },
+    {
+      "id": "ps1.5:5.4",
+      "pali": "So tattha paṇidhiṁ na karotīti—"
+    },
+    {
+      "id": "ps1.5:5.5",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:5.6",
+      "pali": "Ayaṁ appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:6.1",
+      "pali": "Katamo <b>ajjhattavuṭṭhāno vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:6.2",
+      "pali": "Cattāri jhānāni—"
+    },
+    {
+      "id": "ps1.5:6.3",
+      "pali": "ayaṁ ajjhattavuṭṭhāno vimokkho."
+    },
+    {
+      "id": "ps1.5:6.4",
+      "pali": "Katamo bahiddhāvuṭṭhāno vimokkho?"
+    },
+    {
+      "id": "ps1.5:6.5",
+      "pali": "Catasso arūpasamāpattiyo—"
+    },
+    {
+      "id": "ps1.5:6.6",
+      "pali": "ayaṁ bahiddhāvuṭṭhāno vimokkho."
+    },
+    {
+      "id": "ps1.5:6.7",
+      "pali": "Katamo dubhato vuṭṭhāno vimokkho?"
+    },
+    {
+      "id": "ps1.5:6.8",
+      "pali": "Cattāro ariyamaggā—"
+    },
+    {
+      "id": "ps1.5:6.9",
+      "pali": "ayaṁ dubhato vuṭṭhāno vimokkho."
+    },
+    {
+      "id": "ps1.5:7.1",
+      "pali": "Katame <b>ajjhattavuṭṭhānā cattāro vimokkhā?</b>"
+    },
+    {
+      "id": "ps1.5:7.2",
+      "pali": "Paṭhamaṁ jhānaṁ nīvaraṇehi vuṭṭhāti."
+    },
+    {
+      "id": "ps1.5:7.3",
+      "pali": "Dutiyaṁ jhānaṁ vitakkavicārehi vuṭṭhāti."
+    },
+    {
+      "id": "ps1.5:7.4",
+      "pali": "Tatiyaṁ jhānaṁ pītiyā vuṭṭhāti."
+    },
+    {
+      "id": "ps1.5:7.5",
+      "pali": "Catutthaṁ jhānaṁ sukhadukkhehi vuṭṭhāti."
+    },
+    {
+      "id": "ps1.5:7.6",
+      "pali": "Ime ajjhattavuṭṭhānā cattāro vimokkhā."
+    },
+    {
+      "id": "ps1.5:8.1",
+      "pali": "Katame <b>bahiddhāvuṭṭhānā cattāro vimokkhā?</b>"
+    },
+    {
+      "id": "ps1.5:8.2",
+      "pali": "Ākāsānañcāyatanasamāpatti rūpasaññāya paṭighasaññāya nānattasaññāya vuṭṭhāti."
+    },
+    {
+      "id": "ps1.5:8.3",
+      "pali": "Viññāṇañcāyatanasamāpatti ākāsānañcāyatanasaññāya vuṭṭhāti."
+    },
+    {
+      "id": "ps1.5:8.4",
+      "pali": "Ākiñcaññāyatanasamāpatti viññāṇañcāyatanasaññāya vuṭṭhāti."
+    },
+    {
+      "id": "ps1.5:8.5",
+      "pali": "Nevasaññānāsaññāyatanasamāpatti ākiñcaññāyatanasaññāya vuṭṭhāti."
+    },
+    {
+      "id": "ps1.5:8.6",
+      "pali": "Ime bahiddhāvuṭṭhānā cattāro vimokkhā."
+    },
+    {
+      "id": "ps1.5:9.1",
+      "pali": "Katame <b>dubhato vuṭṭhānā cattāro vimokkhā?</b>"
+    },
+    {
+      "id": "ps1.5:9.2",
+      "pali": "Sotāpattimaggo sakkāyadiṭṭhivicikicchāsīlabbataparāmāsā diṭṭhānusayā vicikicchānusayā vuṭṭhāti, tadanuvattakakilesehi ca khandhehi ca vuṭṭhāti, bahiddhā ca sabbanimittehi vuṭṭhāti."
+    },
+    {
+      "id": "ps1.5:9.3",
+      "pali": "Sakadāgāmimaggo oḷārikā kāmarāgasaññojanā paṭighasaññojanā oḷārikā kāmarāgānusayā paṭighānusayā vuṭṭhāti, tadanuvattakakilesehi ca khandhehi ca vuṭṭhāti, bahiddhā ca sabbanimittehi vuṭṭhāti."
+    },
+    {
+      "id": "ps1.5:9.4",
+      "pali": "Anāgāmimaggo anusahagatā kāmarāgasaññojanā paṭighasaññojanā anusahagatā kāmarāgānusayā paṭighānusayā vuṭṭhāti, tadanuvattakakilesehi ca khandhehi ca vuṭṭhāti, bahiddhā ca sabbanimittehi vuṭṭhāti."
+    },
+    {
+      "id": "ps1.5:9.5",
+      "pali": "Arahattamaggo rūparāgā arūparāgā mānā uddhaccā avijjāya mānānusayā bhavarāgānusayā avijjānusayā vuṭṭhāti, tadanuvattakakilesehi ca khandhehi ca vuṭṭhāti, bahiddhā ca sabbanimittehi vuṭṭhāti."
+    },
+    {
+      "id": "ps1.5:9.6",
+      "pali": "Ime dubhato vuṭṭhānā cattāro vimokkhā."
+    },
+    {
+      "id": "ps1.5:10.1",
+      "pali": "Katame <b>ajjhattavuṭṭhānānaṁ anulomā cattāro vimokkhā?</b>"
+    },
+    {
+      "id": "ps1.5:10.2",
+      "pali": "Paṭhamaṁ jhānaṁ paṭilābhatthāya vitakko ca vicāro ca pīti ca sukhañca cittekaggatā ca, dutiyaṁ jhānaṁ paṭilābhatthāya …pe…"
+    },
+    {
+      "id": "ps1.5:10.3",
+      "pali": "tatiyaṁ jhānaṁ paṭilābhatthāya …pe…"
+    },
+    {
+      "id": "ps1.5:10.4",
+      "pali": "catutthaṁ jhānaṁ paṭilābhatthāya vitakko ca vicāro ca pīti ca sukhañca cittekaggatā ca—"
+    },
+    {
+      "id": "ps1.5:10.5",
+      "pali": "ime ajjhattavuṭṭhānānaṁ anulomā cattāro vimokkhā."
+    },
+    {
+      "id": "ps1.5:11.1",
+      "pali": "Katame <b>bahiddhāvuṭṭhānānaṁ anulomā cattāro vimokkhā?</b>"
+    },
+    {
+      "id": "ps1.5:11.2",
+      "pali": "Ākāsānañcāyatanasamāpattiṁ paṭilābhatthāya vitakko ca vicāro ca pīti ca sukhañca cittekaggatā ca, viññāṇañcāyatanasamāpattiṁ …pe…"
+    },
+    {
+      "id": "ps1.5:11.3",
+      "pali": "ākiñcaññāyatanasamāpattiṁ …pe…"
+    },
+    {
+      "id": "ps1.5:11.4",
+      "pali": "nevasaññānāsaññāyatanasamāpattiṁ paṭilābhatthāya vitakko ca vicāro ca pīti ca sukhañca cittekaggatā ca—"
+    },
+    {
+      "id": "ps1.5:11.5",
+      "pali": "ime bahiddhāvuṭṭhānānaṁ anulomā cattāro vimokkhā."
+    },
+    {
+      "id": "ps1.5:12.1",
+      "pali": "Katame <b>dubhato vuṭṭhānānaṁ anulomā cattāro vimokkhā?</b>"
+    },
+    {
+      "id": "ps1.5:12.2",
+      "pali": "Sotāpattimaggaṁ paṭilābhatthāya <b>aniccānupassanā, dukkhānupassanā, anattānupassanā</b>."
+    },
+    {
+      "id": "ps1.5:12.3",
+      "pali": "Sakadāgāmimaggaṁ paṭilābhatthāya …pe…"
+    },
+    {
+      "id": "ps1.5:12.4",
+      "pali": "anāgāmimaggaṁ paṭilābhatthāya …pe…"
+    },
+    {
+      "id": "ps1.5:12.5",
+      "pali": "arahattamaggaṁ paṭilābhatthāya <b>aniccānupassanā, dukkhānupassanā, anattānupassanā</b>—"
+    },
+    {
+      "id": "ps1.5:12.6",
+      "pali": "ime dubhato vuṭṭhānānaṁ anulomā cattāro vimokkhā."
+    },
+    {
+      "id": "ps1.5:13.1",
+      "pali": "Katame <b>ajjhattavuṭṭhānapaṭippassaddhī cattāro vimokkhā?</b>"
+    },
+    {
+      "id": "ps1.5:13.2",
+      "pali": "Paṭhamassa jhānassa paṭilābho vā vipāko vā, dutiyassa jhānassa …pe…"
+    },
+    {
+      "id": "ps1.5:13.3",
+      "pali": "tatiyassa jhānassa …pe…"
+    },
+    {
+      "id": "ps1.5:13.4",
+      "pali": "catutthassa jhānassa paṭilābho vā vipāko vā—"
+    },
+    {
+      "id": "ps1.5:13.5",
+      "pali": "ime ajjhattavuṭṭhānapaṭippassaddhī cattāro vimokkhā."
+    },
+    {
+      "id": "ps1.5:14.1",
+      "pali": "Katame <b>bahiddhāvuṭṭhānapaṭippassaddhī cattāro vimokkhā?</b>"
+    },
+    {
+      "id": "ps1.5:14.2",
+      "pali": "Ākāsānañcāyatanasamāpattiyā paṭilābho vā vipāko vā, viññāṇañcāyatanasamāpattiyā …pe…"
+    },
+    {
+      "id": "ps1.5:14.3",
+      "pali": "ākiñcaññāyatanasamāpattiyā …pe…"
+    },
+    {
+      "id": "ps1.5:14.4",
+      "pali": "nevasaññānāsaññāyatanasamāpattiyā paṭilābho vā vipāko vā—"
+    },
+    {
+      "id": "ps1.5:14.5",
+      "pali": "ime bahiddhāvuṭṭhānapaṭippassaddhī cattāro vimokkhā."
+    },
+    {
+      "id": "ps1.5:15.1",
+      "pali": "Katame <b>dubhato vuṭṭhānapaṭippassaddhī cattāro vimokkhā?</b>"
+    },
+    {
+      "id": "ps1.5:15.2",
+      "pali": "Sotāpattimaggassa sotāpattiphalaṁ, sakadāgāmimaggassa sakadāgāmiphalaṁ, anāgāmimaggassa anāgāmiphalaṁ, arahattamaggassa arahattaphalaṁ—"
+    },
+    {
+      "id": "ps1.5:15.3",
+      "pali": "ime dubhato vuṭṭhānapaṭippassaddhī cattāro vimokkhā."
+    },
+    {
+      "id": "ps1.5:16.1",
+      "pali": "Kathaṁ <b>rūpī rūpāni passatīti—vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:16.2",
+      "pali": "Idhekacco ajjhattaṁ paccattaṁ nīlanimittaṁ manasikaroti, nīlasaññaṁ paṭilabhati."
+    },
+    {
+      "id": "ps1.5:16.3",
+      "pali": "So taṁ nimittaṁ suggahitaṁ karoti, sūpadhāritaṁ upadhāreti, svāvatthitaṁ avatthāpeti."
+    },
+    {
+      "id": "ps1.5:16.4",
+      "pali": "So taṁ nimittaṁ suggahitaṁ katvā sūpadhāritaṁ upadhāretvā svāvatthitaṁ avatthāpetvā bahiddhā nīlanimitte cittaṁ upasaṁharati, nīlasaññaṁ paṭilabhati."
+    },
+    {
+      "id": "ps1.5:16.5",
+      "pali": "So taṁ nimittaṁ suggahitaṁ karoti, sūpadhāritaṁ upadhāreti, svāvatthitaṁ avatthāpeti."
+    },
+    {
+      "id": "ps1.5:16.6",
+      "pali": "So taṁ nimittaṁ suggahitaṁ katvā upadhāretvā svāvatthitaṁ avatthāpetvā āsevati bhāveti bahulīkaroti."
+    },
+    {
+      "id": "ps1.5:16.7",
+      "pali": "Tassa evaṁ hoti—"
+    },
+    {
+      "id": "ps1.5:16.8",
+      "pali": "“ajjhattañca bahiddhā ca ubhayamidaṁ rūpan”ti, rūpasaññī hoti."
+    },
+    {
+      "id": "ps1.5:16.9",
+      "pali": "Idhekacco ajjhattaṁ paccattaṁ pītanimittaṁ …pe…"
+    },
+    {
+      "id": "ps1.5:16.10",
+      "pali": "lohitanimittaṁ …pe…"
+    },
+    {
+      "id": "ps1.5:16.11",
+      "pali": "odātanimittaṁ manasikaroti, odātasaññaṁ paṭilabhati."
+    },
+    {
+      "id": "ps1.5:16.12",
+      "pali": "So taṁ nimittaṁ suggahitaṁ karoti, sūpadhāritaṁ upadhāreti, svāvatthitaṁ avatthāpeti."
+    },
+    {
+      "id": "ps1.5:16.13",
+      "pali": "So taṁ nimittaṁ suggahitaṁ katvā sūpadhāritaṁ upadhāretvā svāvatthitaṁ avatthāpetvā bahiddhā odātanimitte cittaṁ upasaṁharati, odātasaññaṁ paṭilabhati."
+    },
+    {
+      "id": "ps1.5:16.14",
+      "pali": "So taṁ nimittaṁ suggahitaṁ karoti, sūpadhāritaṁ upadhāreti, svāvatthitaṁ avatthāpeti."
+    },
+    {
+      "id": "ps1.5:16.15",
+      "pali": "So taṁ nimittaṁ suggahitaṁ katvā sūpadhāritaṁ upadhāretvā svāvatthitaṁ avatthāpetvā āsevati bhāveti bahulīkaroti."
+    },
+    {
+      "id": "ps1.5:16.16",
+      "pali": "Tassa evaṁ hoti—"
+    },
+    {
+      "id": "ps1.5:16.17",
+      "pali": "“ajjhattañca bahiddhā ca ubhayamidaṁ rūpan”ti, rūpasaññī hoti."
+    },
+    {
+      "id": "ps1.5:16.18",
+      "pali": "Evaṁ rūpī rūpāni passatīti—"
+    },
+    {
+      "id": "ps1.5:16.19",
+      "pali": "vimokkho."
+    },
+    {
+      "id": "ps1.5:17.1",
+      "pali": "Kathaṁ <b>ajjhattaṁ arūpasaññī bahiddhā rūpāni passatīti—vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:17.2",
+      "pali": "Idhekacco ajjhattaṁ paccattaṁ nīlanimittaṁ na manasikaroti, nīlasaññaṁ na paṭilabhati;"
+    },
+    {
+      "id": "ps1.5:17.3",
+      "pali": "bahiddhā nīlanimitte cittaṁ upasaṁharati, nīlasaññaṁ paṭilabhati."
+    },
+    {
+      "id": "ps1.5:17.4",
+      "pali": "So taṁ nimittaṁ suggahitaṁ karoti, sūpadhāritaṁ upadhāreti, svāvatthitaṁ avatthāpeti."
+    },
+    {
+      "id": "ps1.5:17.5",
+      "pali": "So taṁ nimittaṁ suggahitaṁ katvā sūpadhāritaṁ upadhāretvā svāvatthitaṁ avatthāpetvā āsevati bhāveti bahulīkaroti."
+    },
+    {
+      "id": "ps1.5:17.6",
+      "pali": "Tassa evaṁ hoti—"
+    },
+    {
+      "id": "ps1.5:17.7",
+      "pali": "“ajjhattaṁ arūpaṁ, bahiddhā rūpamidan”ti, rūpasaññī hoti."
+    },
+    {
+      "id": "ps1.5:17.8",
+      "pali": "Idhekacco ajjhattaṁ paccattaṁ pītanimittaṁ …pe…"
+    },
+    {
+      "id": "ps1.5:17.9",
+      "pali": "lohitanimittaṁ …pe…"
+    },
+    {
+      "id": "ps1.5:17.10",
+      "pali": "odātanimittaṁ na manasikaroti, odātasaññaṁ na paṭilabhati;"
+    },
+    {
+      "id": "ps1.5:17.11",
+      "pali": "bahiddhā odātanimitte cittaṁ upasaṁharati, odātasaññaṁ paṭilabhati."
+    },
+    {
+      "id": "ps1.5:17.12",
+      "pali": "So taṁ nimittaṁ suggahitaṁ karoti, sūpadhāritaṁ upadhāreti, svāvatthitaṁ avatthāpeti."
+    },
+    {
+      "id": "ps1.5:17.13",
+      "pali": "So taṁ nimittaṁ suggahitaṁ katvā sūpadhāritaṁ upadhāretvā svāvatthitaṁ avatthāpetvā āsevati bhāveti bahulīkaroti."
+    },
+    {
+      "id": "ps1.5:17.14",
+      "pali": "Tassa evaṁ hoti—"
+    },
+    {
+      "id": "ps1.5:17.15",
+      "pali": "“ajjhattaṁ arūpaṁ bahiddhā rūpamidan”ti, rūpasaññī hoti."
+    },
+    {
+      "id": "ps1.5:17.16",
+      "pali": "Evaṁ ajjhattaṁ arūpasaññī bahiddhā rūpāni passatīti—"
+    },
+    {
+      "id": "ps1.5:17.17",
+      "pali": "vimokkho."
+    },
+    {
+      "id": "ps1.5:18.1",
+      "pali": "Kathaṁ <b>subhanteva adhimutto hotīti—vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:18.2",
+      "pali": "Idha bhikkhu mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati."
+    },
+    {
+      "id": "ps1.5:18.3",
+      "pali": "Mettāya bhāvitattā sattā appaṭikūlā honti."
+    },
+    {
+      "id": "ps1.5:18.4",
+      "pali": "Karuṇāsahagatena cetasā …pe…"
+    },
+    {
+      "id": "ps1.5:18.5",
+      "pali": "karuṇāya bhāvitattā sattā appaṭikūlā honti."
+    },
+    {
+      "id": "ps1.5:18.6",
+      "pali": "Muditāsahagatena cetasā …pe…"
+    },
+    {
+      "id": "ps1.5:18.7",
+      "pali": "muditāya bhāvitattā sattā appaṭikūlā honti."
+    },
+    {
+      "id": "ps1.5:18.8",
+      "pali": "Upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharati …pe…"
+    },
+    {
+      "id": "ps1.5:18.9",
+      "pali": "upekkhāya bhāvitattā sattā appaṭikūlā honti."
+    },
+    {
+      "id": "ps1.5:18.10",
+      "pali": "Evaṁ “subhaṁ” teva adhimutto hotīti—"
+    },
+    {
+      "id": "ps1.5:18.11",
+      "pali": "vimokkho."
+    },
+    {
+      "id": "ps1.5:19.1",
+      "pali": "Katamo <b>ākāsānañcāyatanasamāpatti vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:19.2",
+      "pali": "Idha bhikkhu sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā “ananto ākāso”ti ākāsānañcāyatanaṁ upasampajja viharati—"
+    },
+    {
+      "id": "ps1.5:19.3",
+      "pali": "ayaṁ ākāsānañcāyatanasamāpatti vimokkho."
+    },
+    {
+      "id": "ps1.5:20.1",
+      "pali": "Katamo <b>viññāṇañcāyatanasamāpatti vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:20.2",
+      "pali": "Idha bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma “anantaṁ viññāṇan”ti viññāṇañcāyatanaṁ upasampajja viharati—"
+    },
+    {
+      "id": "ps1.5:20.3",
+      "pali": "ayaṁ viññāṇañcāyatanasamāpatti vimokkho."
+    },
+    {
+      "id": "ps1.5:21.1",
+      "pali": "Katamo <b>ākiñcaññāyatanasamāpatti vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:21.2",
+      "pali": "Idha bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma “natthi kiñcī”ti ākiñcaññāyatanaṁ upasampajja viharati—"
+    },
+    {
+      "id": "ps1.5:21.3",
+      "pali": "ayaṁ ākiñcaññāyatanasamāpatti vimokkho."
+    },
+    {
+      "id": "ps1.5:22.1",
+      "pali": "Katamo <b>nevasaññānāsaññāyatanasamāpatti vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:22.2",
+      "pali": "Idha bhikkhu sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati—"
+    },
+    {
+      "id": "ps1.5:22.3",
+      "pali": "ayaṁ nevasaññānāsaññāyatanasamāpatti vimokkho."
+    },
+    {
+      "id": "ps1.5:23.1",
+      "pali": "Katamo <b>saññāvedayitanirodhasamāpatti vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:23.2",
+      "pali": "Idha bhikkhu sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharati—"
+    },
+    {
+      "id": "ps1.5:23.3",
+      "pali": "ayaṁ saññāvedayitanirodhasamāpatti vimokkho."
+    },
+    {
+      "id": "ps1.5:24.1",
+      "pali": "Katamo <b>samayavimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:24.2",
+      "pali": "Cattāri ca jhānāni catasso ca arūpasamāpattiyo—"
+    },
+    {
+      "id": "ps1.5:24.3",
+      "pali": "ayaṁ samayavimokkho."
+    },
+    {
+      "id": "ps1.5:25.1",
+      "pali": "Katamo <b>asamayavimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:25.2",
+      "pali": "Cattāro ca ariyamaggā, cattāri ca sāmaññaphalāni, nibbānañca—"
+    },
+    {
+      "id": "ps1.5:25.3",
+      "pali": "ayaṁ asamayavimokkho."
+    },
+    {
+      "id": "ps1.5:26.1",
+      "pali": "Katamo <b>sāmayiko vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:26.2",
+      "pali": "Cattāri ca jhānāni, catasso ca arūpasamāpattiyo—"
+    },
+    {
+      "id": "ps1.5:26.3",
+      "pali": "ayaṁ sāmayiko vimokkho."
+    },
+    {
+      "id": "ps1.5:27.1",
+      "pali": "Katamo <b>asāmayiko vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:27.2",
+      "pali": "Cattāro ca ariyamaggā, cattāri ca sāmaññaphalāni, nibbānañca—"
+    },
+    {
+      "id": "ps1.5:27.3",
+      "pali": "ayaṁ asāmayiko vimokkho."
+    },
+    {
+      "id": "ps1.5:28.1",
+      "pali": "Katamo <b>kuppo vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:28.2",
+      "pali": "Cattāri ca jhānāni, catasso ca arūpasamāpattiyo—"
+    },
+    {
+      "id": "ps1.5:28.3",
+      "pali": "ayaṁ kuppo vimokkho."
+    },
+    {
+      "id": "ps1.5:29.1",
+      "pali": "Katamo <b>akuppo vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:29.2",
+      "pali": "Cattāro ca ariyamaggā, cattāri ca sāmaññaphalāni, nibbānañca—"
+    },
+    {
+      "id": "ps1.5:29.3",
+      "pali": "ayaṁ akuppo vimokkho."
+    },
+    {
+      "id": "ps1.5:30.1",
+      "pali": "Katamo <b>lokiko vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:30.2",
+      "pali": "Cattāri ca jhānāni, catasso ca arūpasamāpattiyo—"
+    },
+    {
+      "id": "ps1.5:30.3",
+      "pali": "ayaṁ lokiko vimokkho."
+    },
+    {
+      "id": "ps1.5:31.1",
+      "pali": "Katamo <b>lokuttaro vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:31.2",
+      "pali": "Cattāro ca ariyamaggā, cattāri ca sāmaññaphalāni, nibbānañca—"
+    },
+    {
+      "id": "ps1.5:31.3",
+      "pali": "ayaṁ lokuttaro vimokkho."
+    },
+    {
+      "id": "ps1.5:32.1",
+      "pali": "Katamo <b>sāsavo vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:32.2",
+      "pali": "Cattāri ca jhānāni, catasso ca arūpasamāpattiyo—"
+    },
+    {
+      "id": "ps1.5:32.3",
+      "pali": "ayaṁ sāsavo vimokkho."
+    },
+    {
+      "id": "ps1.5:33.1",
+      "pali": "Katamo <b>anāsavo vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:33.2",
+      "pali": "Cattāro ca ariyamaggā, cattāri ca sāmaññaphalāni, nibbānañca—"
+    },
+    {
+      "id": "ps1.5:33.3",
+      "pali": "ayaṁ anāsavo vimokkho."
+    },
+    {
+      "id": "ps1.5:34.1",
+      "pali": "Katamo <b>sāmiso vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:34.2",
+      "pali": "Rūpappaṭisaññutto vimokkho—"
+    },
+    {
+      "id": "ps1.5:34.3",
+      "pali": "ayaṁ sāmiso vimokkho."
+    },
+    {
+      "id": "ps1.5:35.1",
+      "pali": "Katamo <b>nirāmiso vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:35.2",
+      "pali": "Arūpappaṭisaññutto vimokkho—"
+    },
+    {
+      "id": "ps1.5:35.3",
+      "pali": "ayaṁ nirāmiso vimokkho."
+    },
+    {
+      "id": "ps1.5:36.1",
+      "pali": "Katamo <b>nirāmisā nirāmisataro vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:36.2",
+      "pali": "Cattāro ca ariyamaggā, cattāri ca sāmaññaphalāni, nibbānañca—"
+    },
+    {
+      "id": "ps1.5:36.3",
+      "pali": "ayaṁ nirāmisānirāmisataro vimokkho."
+    },
+    {
+      "id": "ps1.5:37.1",
+      "pali": "Katamo <b>paṇihito vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:37.2",
+      "pali": "Cattāri ca jhānāni, catasso ca arūpasamāpattiyo—"
+    },
+    {
+      "id": "ps1.5:37.3",
+      "pali": "ayaṁ paṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:37.4",
+      "pali": "Katamo appaṇihito vimokkho?"
+    },
+    {
+      "id": "ps1.5:37.5",
+      "pali": "Cattāro ca ariyamaggā, cattāri ca sāmaññaphalāni, nibbānañca—"
+    },
+    {
+      "id": "ps1.5:37.6",
+      "pali": "ayaṁ appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:38.1",
+      "pali": "Katamo <b>paṇihitappaṭippassaddhi vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:38.2",
+      "pali": "Paṭhamassa jhānassa paṭilābho vā vipāko vā …pe…"
+    },
+    {
+      "id": "ps1.5:38.3",
+      "pali": "nevasaññānāsaññāyatanasamāpattiyā paṭilābho vā vipāko vā—"
+    },
+    {
+      "id": "ps1.5:38.4",
+      "pali": "ayaṁ paṇihitappaṭippassaddhi vimokkho."
+    },
+    {
+      "id": "ps1.5:39.1",
+      "pali": "Katamo <b>saññutto vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:39.2",
+      "pali": "Cattāri ca jhānāni, catasso ca arūpasamāpattiyo—"
+    },
+    {
+      "id": "ps1.5:39.3",
+      "pali": "ayaṁ saññutto vimokkho."
+    },
+    {
+      "id": "ps1.5:40.1",
+      "pali": "Katamo <b>visaññutto vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:40.2",
+      "pali": "Cattāro ca ariyamaggā, cattāri ca sāmaññaphalāni, nibbānañca—"
+    },
+    {
+      "id": "ps1.5:40.3",
+      "pali": "ayaṁ visaññutto vimokkho."
+    },
+    {
+      "id": "ps1.5:41.1",
+      "pali": "Katamo <b>ekattavimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:41.2",
+      "pali": "Cattāro ca ariyamaggā, cattāri ca sāmaññaphalāni, nibbānañca—"
+    },
+    {
+      "id": "ps1.5:41.3",
+      "pali": "ayaṁ ekattavimokkho."
+    },
+    {
+      "id": "ps1.5:42.1",
+      "pali": "Katamo <b>nānattavimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:42.2",
+      "pali": "Cattāri ca jhānāni, catasso ca arūpasamāpattiyo—"
+    },
+    {
+      "id": "ps1.5:42.3",
+      "pali": "ayaṁ nānattavimokkho."
+    },
+    {
+      "id": "ps1.5:43.1",
+      "pali": "Katamo <b>saññāvimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:43.2",
+      "pali": "Siyā eko saññāvimokkho dasa saññāvimokkhā honti, dasa saññāvimokkhā eko saññāvimokkho hoti, vatthuvasena pariyāyena."
+    },
+    {
+      "id": "ps1.5:44.1",
+      "pali": "<b>Siyā</b>ti kathañca siyā?"
+    },
+    {
+      "id": "ps1.5:44.2",
+      "pali": "Aniccānupassanañāṇaṁ niccato saññāya muccatīti—"
+    },
+    {
+      "id": "ps1.5:44.3",
+      "pali": "saññāvimokkho."
+    },
+    {
+      "id": "ps1.5:44.4",
+      "pali": "Dukkhānupassanañāṇaṁ sukhato saññāya muccatīti—"
+    },
+    {
+      "id": "ps1.5:44.5",
+      "pali": "saññāvimokkho."
+    },
+    {
+      "id": "ps1.5:44.6",
+      "pali": "Anattānupassanañāṇaṁ attato saññāya muccatīti—"
+    },
+    {
+      "id": "ps1.5:44.7",
+      "pali": "saññāvimokkho."
+    },
+    {
+      "id": "ps1.5:44.8",
+      "pali": "Nibbidānupassanañāṇaṁ nandiyā saññāya muccatīti—"
+    },
+    {
+      "id": "ps1.5:44.9",
+      "pali": "saññāvimokkho."
+    },
+    {
+      "id": "ps1.5:44.10",
+      "pali": "Virāgānupassanañāṇaṁ rāgato saññāya muccatīti—"
+    },
+    {
+      "id": "ps1.5:44.11",
+      "pali": "saññāvimokkho."
+    },
+    {
+      "id": "ps1.5:44.12",
+      "pali": "Nirodhānupassanañāṇaṁ samudayato saññāya muccatīti—"
+    },
+    {
+      "id": "ps1.5:44.13",
+      "pali": "saññāvimokkho."
+    },
+    {
+      "id": "ps1.5:44.14",
+      "pali": "Paṭinissaggānupassanañāṇaṁ ādānato saññāya muccatīti—"
+    },
+    {
+      "id": "ps1.5:44.15",
+      "pali": "saññāvimokkho."
+    },
+    {
+      "id": "ps1.5:44.16",
+      "pali": "Animittānupassanañāṇaṁ nimittato saññāya muccatīti—"
+    },
+    {
+      "id": "ps1.5:44.17",
+      "pali": "saññāvimokkho."
+    },
+    {
+      "id": "ps1.5:44.18",
+      "pali": "Appaṇihitānupassanañāṇaṁ paṇidhiyā saññāya muccatīti—"
+    },
+    {
+      "id": "ps1.5:44.19",
+      "pali": "saññāvimokkho."
+    },
+    {
+      "id": "ps1.5:44.20",
+      "pali": "Suññatānupassanañāṇaṁ abhinivesato saññāya muccatīti—"
+    },
+    {
+      "id": "ps1.5:44.21",
+      "pali": "saññāvimokkho."
+    },
+    {
+      "id": "ps1.5:44.22",
+      "pali": "Evaṁ siyā eko saññāvimokkho dasa saññāvimokkhā honti, dasa saññāvimokkhā eko saññāvimokkho hoti vatthuvasena pariyāyena."
+    },
+    {
+      "id": "ps1.5:45.1",
+      "pali": "Rūpe aniccānupassanañāṇaṁ niccato saññāya muccatīti—"
+    },
+    {
+      "id": "ps1.5:45.2",
+      "pali": "saññāvimokkho …pe…"
+    },
+    {
+      "id": "ps1.5:45.3",
+      "pali": "rūpe suññatānupassanañāṇaṁ abhinivesato saññāya muccatīti—"
+    },
+    {
+      "id": "ps1.5:45.4",
+      "pali": "saññāvimokkho."
+    },
+    {
+      "id": "ps1.5:45.5",
+      "pali": "Evaṁ siyā eko saññāvimokkho dasa saññāvimokkhā honti, dasa saññāvimokkhā eko saññāvimokkho hoti vatthuvasena pariyāyena."
+    },
+    {
+      "id": "ps1.5:46.1",
+      "pali": "Vedanāya …pe…"
+    },
+    {
+      "id": "ps1.5:46.2",
+      "pali": "saññāya …"
+    },
+    {
+      "id": "ps1.5:46.3",
+      "pali": "saṅkhāresu …"
+    },
+    {
+      "id": "ps1.5:46.4",
+      "pali": "viññāṇe …"
+    },
+    {
+      "id": "ps1.5:46.5",
+      "pali": "cakkhusmiṁ …pe…"
+    },
+    {
+      "id": "ps1.5:46.6",
+      "pali": "jarāmaraṇe aniccānupassanañāṇaṁ niccato saññāya muccatīti—"
+    },
+    {
+      "id": "ps1.5:46.7",
+      "pali": "saññāvimokkho …pe…"
+    },
+    {
+      "id": "ps1.5:46.8",
+      "pali": "jarāmaraṇe suññatānupassanañāṇaṁ abhinivesato saññāya muccatīti—"
+    },
+    {
+      "id": "ps1.5:46.9",
+      "pali": "saññāvimokkho."
+    },
+    {
+      "id": "ps1.5:46.10",
+      "pali": "Evaṁ siyā, eko saññāvimokkho dasa saññāvimokkhā honti, dasa saññāvimokkhā eko saññāvimokkho hoti vatthuvasena pariyāyena—"
+    },
+    {
+      "id": "ps1.5:46.11",
+      "pali": "ayaṁ saññāvimokkho."
+    },
+    {
+      "id": "ps1.5:47.1",
+      "pali": "Katamo <b>ñāṇavimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:47.2",
+      "pali": "Siyā eko ñāṇavimokkho dasa ñāṇavimokkhā honti, dasa ñāṇavimokkhā eko ñāṇavimokkho hoti vatthuvasena pariyāyena <b>siyā</b>ti."
+    },
+    {
+      "id": "ps1.5:47.3",
+      "pali": "Kathañca siyā?"
+    },
+    {
+      "id": "ps1.5:47.4",
+      "pali": "Aniccānupassanā yathābhūtaṁ ñāṇaṁ niccato sammohā aññāṇā muccatīti—"
+    },
+    {
+      "id": "ps1.5:47.5",
+      "pali": "ñāṇavimokkho."
+    },
+    {
+      "id": "ps1.5:47.6",
+      "pali": "Dukkhānupassanā yathābhūtaṁ ñāṇaṁ sukhato sammohā aññāṇā muccatīti—"
+    },
+    {
+      "id": "ps1.5:47.7",
+      "pali": "ñāṇavimokkho."
+    },
+    {
+      "id": "ps1.5:47.8",
+      "pali": "Anattānupassanā yathābhūtaṁ ñāṇaṁ attato sammohā aññāṇā muccatīti—"
+    },
+    {
+      "id": "ps1.5:47.9",
+      "pali": "ñāṇavimokkho."
+    },
+    {
+      "id": "ps1.5:47.10",
+      "pali": "Nibbidānupassanā yathābhūtaṁ ñāṇaṁ nandiyā sammohā aññāṇā muccatīti—"
+    },
+    {
+      "id": "ps1.5:47.11",
+      "pali": "ñāṇavimokkho."
+    },
+    {
+      "id": "ps1.5:47.12",
+      "pali": "Virāgānupassanā yathābhūtaṁ ñāṇaṁ rāgato sammohā aññāṇā muccatīti—"
+    },
+    {
+      "id": "ps1.5:47.13",
+      "pali": "ñāṇavimokkho."
+    },
+    {
+      "id": "ps1.5:47.14",
+      "pali": "Nirodhānupassanā yathābhūtaṁ ñāṇaṁ samudayato sammohā aññāṇā muccatīti—"
+    },
+    {
+      "id": "ps1.5:47.15",
+      "pali": "ñāṇavimokkho."
+    },
+    {
+      "id": "ps1.5:47.16",
+      "pali": "Paṭinissaggānupassanā yathābhūtaṁ ñāṇaṁ ādānato sammohā aññāṇā muccatīti—"
+    },
+    {
+      "id": "ps1.5:47.17",
+      "pali": "ñāṇavimokkho."
+    },
+    {
+      "id": "ps1.5:47.18",
+      "pali": "Animittānupassanā yathābhūtaṁ ñāṇaṁ nimittato sammohā aññāṇā muccatīti—"
+    },
+    {
+      "id": "ps1.5:47.19",
+      "pali": "ñāṇavimokkho."
+    },
+    {
+      "id": "ps1.5:47.20",
+      "pali": "Appaṇihitānupassanā yathābhūtaṁ ñāṇaṁ paṇidhiyā sammohā aññāṇā muccatīti—"
+    },
+    {
+      "id": "ps1.5:47.21",
+      "pali": "ñāṇavimokkho."
+    },
+    {
+      "id": "ps1.5:47.22",
+      "pali": "Suññatānupassanā yathābhūtaṁ ñāṇaṁ abhinivesato sammohā aññāṇā muccatīti—"
+    },
+    {
+      "id": "ps1.5:47.23",
+      "pali": "ñāṇavimokkho."
+    },
+    {
+      "id": "ps1.5:47.24",
+      "pali": "Evaṁ siyā eko ñāṇavimokkho dasa ñāṇavimokkhā honti, dasa ñāṇavimokkhā eko ñāṇavimokkho hoti vatthuvasena pariyāyena."
+    },
+    {
+      "id": "ps1.5:48.1",
+      "pali": "Rūpe aniccānupassanā yathābhūtaṁ ñāṇaṁ niccato sammohā aññāṇā muccatīti—"
+    },
+    {
+      "id": "ps1.5:48.2",
+      "pali": "ñāṇavimokkho …pe…"
+    },
+    {
+      "id": "ps1.5:48.3",
+      "pali": "rūpe suññatānupassanā yathābhūtaṁ ñāṇaṁ abhinivesato sammohā aññāṇā muccatīti—"
+    },
+    {
+      "id": "ps1.5:48.4",
+      "pali": "ñāṇavimokkho."
+    },
+    {
+      "id": "ps1.5:48.5",
+      "pali": "Evaṁ siyā eko ñāṇavimokkho dasa ñāṇavimokkhā honti, dasa ñāṇavimokkhā eko ñāṇavimokkho hoti vatthuvasena pariyāyena."
+    },
+    {
+      "id": "ps1.5:49.1",
+      "pali": "Vedanāya …pe…"
+    },
+    {
+      "id": "ps1.5:49.2",
+      "pali": "saññāya …"
+    },
+    {
+      "id": "ps1.5:49.3",
+      "pali": "saṅkhāresu …"
+    },
+    {
+      "id": "ps1.5:49.4",
+      "pali": "viññāṇe …"
+    },
+    {
+      "id": "ps1.5:49.5",
+      "pali": "cakkhusmiṁ …pe…"
+    },
+    {
+      "id": "ps1.5:49.6",
+      "pali": "jarāmaraṇe aniccānupassanā yathābhūtaṁ ñāṇaṁ niccato sammohā aññāṇā muccatīti—"
+    },
+    {
+      "id": "ps1.5:49.7",
+      "pali": "ñāṇavimokkho …pe…"
+    },
+    {
+      "id": "ps1.5:49.8",
+      "pali": "jarāmaraṇe suññatānupassanā yathābhūtaṁ ñāṇaṁ abhinivesato sammohā aññāṇā muccatīti—"
+    },
+    {
+      "id": "ps1.5:49.9",
+      "pali": "ñāṇavimokkho."
+    },
+    {
+      "id": "ps1.5:49.10",
+      "pali": "Evaṁ siyā eko ñāṇavimokkho dasa ñāṇavimokkhā honti, dasa ñāṇavimokkhā eko ñāṇavimokkho hoti vatthuvasena pariyāyena—"
+    },
+    {
+      "id": "ps1.5:49.11",
+      "pali": "ayaṁ ñāṇavimokkho."
+    },
+    {
+      "id": "ps1.5:50.1",
+      "pali": "Katamo <b>sītisiyāvimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:50.2",
+      "pali": "Siyā eko sītisiyāvimokkho dasa sītisiyāvimokkhā honti, dasa sītisiyāvimokkhā eko sītisiyāvimokkho hoti vatthuvasena pariyāyena <b>siyā</b>ti."
+    },
+    {
+      "id": "ps1.5:50.3",
+      "pali": "Kathañca siyā?"
+    },
+    {
+      "id": "ps1.5:50.4",
+      "pali": "Aniccānupassanā anuttaraṁ sītibhāvañāṇaṁ niccato santāpapariḷāhadarathā muccatīti—"
+    },
+    {
+      "id": "ps1.5:50.5",
+      "pali": "sītisiyāvimokkho."
+    },
+    {
+      "id": "ps1.5:50.6",
+      "pali": "Dukkhānupassanā anuttaraṁ sītibhāvañāṇaṁ sukhato santāpapariḷāhadarathā muccatīti—"
+    },
+    {
+      "id": "ps1.5:50.7",
+      "pali": "sītisiyāvimokkho."
+    },
+    {
+      "id": "ps1.5:50.8",
+      "pali": "Anattānupassanā anuttaraṁ sītibhāvañāṇaṁ attato santāpapariḷāhadarathā muccatīti—"
+    },
+    {
+      "id": "ps1.5:50.9",
+      "pali": "sītisiyāvimokkho."
+    },
+    {
+      "id": "ps1.5:50.10",
+      "pali": "Nibbidānupassanā anuttaraṁ sītibhāvañāṇaṁ nandiyā santāpapariḷāhadarathā muccatīti—"
+    },
+    {
+      "id": "ps1.5:50.11",
+      "pali": "sītisiyāvimokkho."
+    },
+    {
+      "id": "ps1.5:50.12",
+      "pali": "Virāgānupassanā anuttaraṁ sītibhāvañāṇaṁ rāgato santāpapariḷāhadarathā muccatīti—"
+    },
+    {
+      "id": "ps1.5:50.13",
+      "pali": "sītisiyāvimokkho."
+    },
+    {
+      "id": "ps1.5:50.14",
+      "pali": "Nirodhānupassanā anuttaraṁ sītibhāvañāṇaṁ samudayato santāpapariḷāhadarathā muccatīti—"
+    },
+    {
+      "id": "ps1.5:50.15",
+      "pali": "sītisiyāvimokkho."
+    },
+    {
+      "id": "ps1.5:50.16",
+      "pali": "Paṭinissaggānupassanā anuttaraṁ sītibhāvañāṇaṁ ādānato santāpapariḷāhadarathā muccatīti—"
+    },
+    {
+      "id": "ps1.5:50.17",
+      "pali": "sītisiyāvimokkho."
+    },
+    {
+      "id": "ps1.5:50.18",
+      "pali": "Animittānupassanā anuttaraṁ sītibhāvañāṇaṁ nimittato santāpapariḷāhadarathā muccatīti—"
+    },
+    {
+      "id": "ps1.5:50.19",
+      "pali": "sītisiyāvimokkho."
+    },
+    {
+      "id": "ps1.5:50.20",
+      "pali": "Appaṇihitānupassanā anuttaraṁ sītibhāvañāṇaṁ paṇidhiyā santāpapariḷāhadarathā muccatīti—"
+    },
+    {
+      "id": "ps1.5:50.21",
+      "pali": "sītisiyāvimokkho."
+    },
+    {
+      "id": "ps1.5:50.22",
+      "pali": "Suññatānupassanā anuttaraṁ sītibhāvañāṇaṁ abhinivesato santāpapariḷāhadarathā muccatīti—"
+    },
+    {
+      "id": "ps1.5:50.23",
+      "pali": "sītisiyāvimokkho."
+    },
+    {
+      "id": "ps1.5:50.24",
+      "pali": "Evaṁ siyā eko sītisiyāvimokkho dasa sītisiyāvimokkhā honti, dasa sītisiyāvimokkhā eko sītisiyāvimokkho hoti vatthuvasena pariyāyena."
+    },
+    {
+      "id": "ps1.5:51.1",
+      "pali": "Rūpe aniccānupassanā anuttaraṁ sītibhāvañāṇaṁ niccato santāpapariḷāhadarathā muccatīti—"
+    },
+    {
+      "id": "ps1.5:51.2",
+      "pali": "sītisiyāvimokkho …pe…"
+    },
+    {
+      "id": "ps1.5:51.3",
+      "pali": "rūpe suññatānupassanā anuttaraṁ sītibhāvañāṇaṁ abhinivesato santāpapariḷāhadarathā muccatīti—"
+    },
+    {
+      "id": "ps1.5:51.4",
+      "pali": "sītisiyāvimokkho."
+    },
+    {
+      "id": "ps1.5:51.5",
+      "pali": "Evaṁ siyā eko sītisiyāvimokkho dasa sītisiyāvimokkhā honti, dasa sītisiyāvimokkhā eko sītisiyāvimokkho hoti vatthuvasena pariyāyena."
+    },
+    {
+      "id": "ps1.5:52.1",
+      "pali": "Vedanāya …pe…"
+    },
+    {
+      "id": "ps1.5:52.2",
+      "pali": "saññāya …"
+    },
+    {
+      "id": "ps1.5:52.3",
+      "pali": "saṅkhāresu …"
+    },
+    {
+      "id": "ps1.5:52.4",
+      "pali": "viññāṇe …"
+    },
+    {
+      "id": "ps1.5:52.5",
+      "pali": "cakkhusmiṁ …pe…"
+    },
+    {
+      "id": "ps1.5:52.6",
+      "pali": "jarāmaraṇe aniccānupassanā anuttaraṁ sītibhāvañāṇaṁ niccato santāpapariḷāhadarathā muccatīti—"
+    },
+    {
+      "id": "ps1.5:52.7",
+      "pali": "sītisiyāvimokkho …pe…"
+    },
+    {
+      "id": "ps1.5:52.8",
+      "pali": "jarāmaraṇe suññatānupassanā anuttaraṁ sītibhāvañāṇaṁ abhinivesato santāpapariḷāhadarathā muccatīti—"
+    },
+    {
+      "id": "ps1.5:52.9",
+      "pali": "sītisiyāvimokkho."
+    },
+    {
+      "id": "ps1.5:52.10",
+      "pali": "Evaṁ siyā eko sītisiyāvimokkho dasa sītisiyāvimokkhā honti, dasa sītisiyāvimokkhā eko sītisiyāvimokkho hoti vatthuvasena pariyāyena—"
+    },
+    {
+      "id": "ps1.5:52.11",
+      "pali": "ayaṁ sītisiyāvimokkho."
+    },
+    {
+      "id": "ps1.5:53.1",
+      "pali": "Katamo <b>jhānavimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:53.2",
+      "pali": "Nekkhammaṁ jhāyatīti jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.3",
+      "pali": "Kāmacchandaṁ jhāpetīti—jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.4",
+      "pali": "Jhāyanto muccatīti—jhānavimokkho."
+    },
+    {
+      "id": "ps1.5:53.5",
+      "pali": "Jhāpento muccatīti—jhānavimokkho."
+    },
+    {
+      "id": "ps1.5:53.6",
+      "pali": "Jhāyantīti— dhammā."
+    },
+    {
+      "id": "ps1.5:53.7",
+      "pali": "Jhāpetīti—kilese."
+    },
+    {
+      "id": "ps1.5:53.8",
+      "pali": "Jhāte ca jhāpe ca jānātīti—jhānavimokkho."
+    },
+    {
+      "id": "ps1.5:53.9",
+      "pali": "Abyāpādo jhāyatīti—jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.10",
+      "pali": "Byāpādaṁ jhāpetīti—jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.11",
+      "pali": "Jhāyanto muccatīti— jhānavimokkho."
+    },
+    {
+      "id": "ps1.5:53.12",
+      "pali": "Jhāpento muccatīti—jhānavimokkho."
+    },
+    {
+      "id": "ps1.5:53.13",
+      "pali": "Jhāyantīti—dhammā."
+    },
+    {
+      "id": "ps1.5:53.14",
+      "pali": "Jhāpetīti—kilese."
+    },
+    {
+      "id": "ps1.5:53.15",
+      "pali": "Jhāte ca jhāpe ca jānātīti—jhānavimokkho."
+    },
+    {
+      "id": "ps1.5:53.16",
+      "pali": "Ālokasaññā jhāyatīti—jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.17",
+      "pali": "Thinamiddhaṁ jhāpetīti—jhānaṁ …pe…"
+    },
+    {
+      "id": "ps1.5:53.18",
+      "pali": "avikkhepo jhāyatīti— jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.19",
+      "pali": "Uddhaccaṁ jhāpetīti—jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.20",
+      "pali": "Dhammavavatthānaṁ jhāyatīti—jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.21",
+      "pali": "Vicikicchaṁ jhāpetīti—jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.22",
+      "pali": "Ñāṇaṁ jhāyatīti—jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.23",
+      "pali": "Avijjaṁ jhāpetīti— jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.24",
+      "pali": "Pāmojjaṁ jhāyatīti—jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.25",
+      "pali": "Aratiṁ jhāpetīti—jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.26",
+      "pali": "Paṭhamaṁ jhānaṁ jhāyatīti—jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.27",
+      "pali": "Nīvaraṇe jhāpetīti—jhānaṁ …pe…"
+    },
+    {
+      "id": "ps1.5:53.28",
+      "pali": "arahattamaggo jhāyatīti— jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.29",
+      "pali": "Sabbakilese jhāpetīti—jhānaṁ."
+    },
+    {
+      "id": "ps1.5:53.30",
+      "pali": "Jhāyanto muccatīti—jhānavimokkho."
+    },
+    {
+      "id": "ps1.5:53.31",
+      "pali": "Jhāpento muccatīti—jhānavimokkho."
+    },
+    {
+      "id": "ps1.5:53.32",
+      "pali": "Jhāyantīti—dhammā."
+    },
+    {
+      "id": "ps1.5:53.33",
+      "pali": "Jhāpetīti—kilese."
+    },
+    {
+      "id": "ps1.5:53.34",
+      "pali": "Jhāte ca jhāpe ca jānātīti—jhānavimokkho—ayaṁ jhānavimokkho."
+    },
+    {
+      "id": "ps1.5:54.1",
+      "pali": "Katamo <b>anupādā cittassa vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:54.2",
+      "pali": "Siyā eko anupādācittassa vimokkho dasa anupādācittassa vimokkhā honti, dasa anupādācittassa vimokkhā eko anupādācittassa vimokkho hoti vatthuvasena pariyāyena <b>siyā</b>ti."
+    },
+    {
+      "id": "ps1.5:54.3",
+      "pali": "Kathañca siyā?"
+    },
+    {
+      "id": "ps1.5:54.4",
+      "pali": "Aniccānupassanañāṇaṁ niccato upādānā muccatīti—"
+    },
+    {
+      "id": "ps1.5:54.5",
+      "pali": "anupādācittassa vimokkho."
+    },
+    {
+      "id": "ps1.5:54.6",
+      "pali": "Dukkhānupassanañāṇaṁ sukhato upādānā muccatīti—"
+    },
+    {
+      "id": "ps1.5:54.7",
+      "pali": "anupādācittassa vimokkho."
+    },
+    {
+      "id": "ps1.5:54.8",
+      "pali": "Anattānupassanañāṇaṁ attato upādānā muccatīti—"
+    },
+    {
+      "id": "ps1.5:54.9",
+      "pali": "anupādācittassa vimokkho."
+    },
+    {
+      "id": "ps1.5:54.10",
+      "pali": "Nibbidānupassanañāṇaṁ nandiyā upādānā muccatīti—"
+    },
+    {
+      "id": "ps1.5:54.11",
+      "pali": "anupādācittassa vimokkho."
+    },
+    {
+      "id": "ps1.5:54.12",
+      "pali": "Virāgānupassanañāṇaṁ rāgato upādānā muccatīti—"
+    },
+    {
+      "id": "ps1.5:54.13",
+      "pali": "anupādācittassa vimokkho."
+    },
+    {
+      "id": "ps1.5:54.14",
+      "pali": "Nirodhānupassanañāṇaṁ samudayato upādānā muccatīti—"
+    },
+    {
+      "id": "ps1.5:54.15",
+      "pali": "anupādācittassa vimokkho."
+    },
+    {
+      "id": "ps1.5:54.16",
+      "pali": "Paṭinissaggānupassanañāṇaṁ ādānato upādānā muccatīti—"
+    },
+    {
+      "id": "ps1.5:54.17",
+      "pali": "anupādācittassa vimokkho."
+    },
+    {
+      "id": "ps1.5:54.18",
+      "pali": "Animittānupassanañāṇaṁ nimittato upādānā muccatīti—"
+    },
+    {
+      "id": "ps1.5:54.19",
+      "pali": "anupādācittassa vimokkho."
+    },
+    {
+      "id": "ps1.5:54.20",
+      "pali": "Appaṇihitānupassanañāṇaṁ paṇidhiyā upādānā muccatīti—"
+    },
+    {
+      "id": "ps1.5:54.21",
+      "pali": "anupādācittassa vimokkho."
+    },
+    {
+      "id": "ps1.5:54.22",
+      "pali": "Suññatānupassanañāṇaṁ abhinivesato upādānā muccatīti—"
+    },
+    {
+      "id": "ps1.5:54.23",
+      "pali": "anupādācittassa vimokkho."
+    },
+    {
+      "id": "ps1.5:54.24",
+      "pali": "Evaṁ siyā eko anupādācittassa vimokkho dasa anupādācittassa vimokkhā honti, dasa anupādācittassa vimokkhā eko anupādācittassa vimokkho hoti vatthuvasena pariyāyena."
+    },
+    {
+      "id": "ps1.5:55.1",
+      "pali": "Rūpe aniccānupassanañāṇaṁ niccato upādānā muccatīti—"
+    },
+    {
+      "id": "ps1.5:55.2",
+      "pali": "anupādācittassa vimokkho …pe…"
+    },
+    {
+      "id": "ps1.5:55.3",
+      "pali": "rūpe suññatānupassanañāṇaṁ abhinivesato upādānā muccatīti—"
+    },
+    {
+      "id": "ps1.5:55.4",
+      "pali": "anupādācittassa vimokkho."
+    },
+    {
+      "id": "ps1.5:55.5",
+      "pali": "Evaṁ siyā eko anupādācittassa vimokkho dasa anupādācittassa vimokkhā honti, dasa anupādācittassa vimokkhā eko anupādācittassa vimokkho hoti vatthuvasena pariyāyena."
+    },
+    {
+      "id": "ps1.5:56.1",
+      "pali": "Vedanāya …pe…"
+    },
+    {
+      "id": "ps1.5:56.2",
+      "pali": "saññāya …"
+    },
+    {
+      "id": "ps1.5:56.3",
+      "pali": "saṅkhāresu …"
+    },
+    {
+      "id": "ps1.5:56.4",
+      "pali": "viññāṇe …"
+    },
+    {
+      "id": "ps1.5:56.5",
+      "pali": "cakkhusmiṁ …pe…"
+    },
+    {
+      "id": "ps1.5:56.6",
+      "pali": "jarāmaraṇe aniccānupassanañāṇaṁ niccato upādānā muccatīti—"
+    },
+    {
+      "id": "ps1.5:56.7",
+      "pali": "anupādācittassa vimokkho …pe…"
+    },
+    {
+      "id": "ps1.5:56.8",
+      "pali": "jarāmaraṇe suññatānupassanañāṇaṁ abhinivesato upādānā muccatīti—"
+    },
+    {
+      "id": "ps1.5:56.9",
+      "pali": "anupādācittassa vimokkho."
+    },
+    {
+      "id": "ps1.5:56.10",
+      "pali": "Evaṁ siyā eko anupādācittassa vimokkho dasa anupādācittassa vimokkhā honti, dasa anupādācittassa vimokkhā eko anupādācittassa vimokkho hoti vatthuvasena pariyāyena."
+    },
+    {
+      "id": "ps1.5:57.1",
+      "pali": "Aniccānupassanañāṇaṁ katihupādānehi muccati?"
+    },
+    {
+      "id": "ps1.5:57.2",
+      "pali": "Dukkhānupassanañāṇaṁ katihupādānehi muccati?"
+    },
+    {
+      "id": "ps1.5:57.3",
+      "pali": "Anattānupassanañāṇaṁ katihupādānehi muccati?"
+    },
+    {
+      "id": "ps1.5:57.4",
+      "pali": "Nibbidānupassanañāṇaṁ …pe…"
+    },
+    {
+      "id": "ps1.5:57.5",
+      "pali": "virāgānupassanañāṇaṁ …"
+    },
+    {
+      "id": "ps1.5:57.6",
+      "pali": "nirodhānupassanañāṇaṁ …"
+    },
+    {
+      "id": "ps1.5:57.7",
+      "pali": "paṭinissaggānupassanañāṇaṁ …"
+    },
+    {
+      "id": "ps1.5:57.8",
+      "pali": "animittānupassanañāṇaṁ …"
+    },
+    {
+      "id": "ps1.5:57.9",
+      "pali": "appaṇihitānupassanañāṇaṁ …"
+    },
+    {
+      "id": "ps1.5:57.10",
+      "pali": "suññatānupassanañāṇaṁ katihupādānehi muccatīti?"
+    },
+    {
+      "id": "ps1.5:58.1",
+      "pali": "Aniccānupassanañāṇaṁ tīhupādānehi muccati."
+    },
+    {
+      "id": "ps1.5:58.2",
+      "pali": "Dukkhānupassanañāṇaṁ ekupādānā muccati."
+    },
+    {
+      "id": "ps1.5:58.3",
+      "pali": "Anattānupassanañāṇaṁ tīhupādānehi muccati."
+    },
+    {
+      "id": "ps1.5:58.4",
+      "pali": "Nibbidānupassanañāṇaṁ ekupādānā muccati."
+    },
+    {
+      "id": "ps1.5:58.5",
+      "pali": "Virāgānupassanañāṇaṁ ekupādānā muccati."
+    },
+    {
+      "id": "ps1.5:58.6",
+      "pali": "Nirodhānupassanañāṇaṁ catūhupādānehi muccati."
+    },
+    {
+      "id": "ps1.5:58.7",
+      "pali": "Paṭinissaggānupassanañāṇaṁ catūhupādānehi muccati."
+    },
+    {
+      "id": "ps1.5:58.8",
+      "pali": "Animittānupassanañāṇaṁ tīhupādānehi muccati."
+    },
+    {
+      "id": "ps1.5:58.9",
+      "pali": "Appaṇihitānupassanañāṇaṁ ekupādānā muccati."
+    },
+    {
+      "id": "ps1.5:58.10",
+      "pali": "Suññatānupassanañāṇaṁ tīhupādānehi muccati."
+    },
+    {
+      "id": "ps1.5:59.1",
+      "pali": "Aniccānupassanañāṇaṁ katamehi tīhupādānehi muccati?"
+    },
+    {
+      "id": "ps1.5:59.2",
+      "pali": "Diṭṭhupādānā, sīlabbatupādānā, attavādupādānā—"
+    },
+    {
+      "id": "ps1.5:59.3",
+      "pali": "aniccānupassanañāṇaṁ imehi tīhupādānehi muccati."
+    },
+    {
+      "id": "ps1.5:59.4",
+      "pali": "Dukkhānupassanañāṇaṁ katamā ekupādānā muccati?"
+    },
+    {
+      "id": "ps1.5:59.5",
+      "pali": "Kāmupādānā—"
+    },
+    {
+      "id": "ps1.5:59.6",
+      "pali": "dukkhānupassanañāṇaṁ idaṁ ekupādānā muccati."
+    },
+    {
+      "id": "ps1.5:59.7",
+      "pali": "Anattānupassanañāṇaṁ katamehi tīhupādānehi muccati?"
+    },
+    {
+      "id": "ps1.5:59.8",
+      "pali": "Diṭṭhupādānā, sīlabbatupādānā, attavādupādānā—"
+    },
+    {
+      "id": "ps1.5:59.9",
+      "pali": "anattānupassanañāṇaṁ imehi tīhupādānehi muccati."
+    },
+    {
+      "id": "ps1.5:59.10",
+      "pali": "Nibbidānupassanañāṇaṁ katamā ekupādānā muccati?"
+    },
+    {
+      "id": "ps1.5:59.11",
+      "pali": "Kāmupādānā—"
+    },
+    {
+      "id": "ps1.5:59.12",
+      "pali": "nibbidānupassanañāṇaṁ idaṁ ekupādānā muccati."
+    },
+    {
+      "id": "ps1.5:59.13",
+      "pali": "Virāgānupassanañāṇaṁ katamā ekupādānā muccati?"
+    },
+    {
+      "id": "ps1.5:59.14",
+      "pali": "Kāmupādānā—"
+    },
+    {
+      "id": "ps1.5:59.15",
+      "pali": "virāgānupassanañāṇaṁ idaṁ ekupādānā muccati."
+    },
+    {
+      "id": "ps1.5:59.16",
+      "pali": "Nirodhānupassanañāṇaṁ katamehi catūhupādānehi muccati?"
+    },
+    {
+      "id": "ps1.5:59.17",
+      "pali": "Kāmupādānā, diṭṭhupādānā, sīlabbatupādānā, attavādupādānā—"
+    },
+    {
+      "id": "ps1.5:59.18",
+      "pali": "nirodhānupassanañāṇaṁ imehi catūhupādānehi muccati."
+    },
+    {
+      "id": "ps1.5:59.19",
+      "pali": "Paṭinissaggānupassanañāṇaṁ katamehi catūhupādānehi muccati?"
+    },
+    {
+      "id": "ps1.5:59.20",
+      "pali": "Kāmupādānā, diṭṭhupādānā, sīlabbatupādānā, attavādupādānā—"
+    },
+    {
+      "id": "ps1.5:59.21",
+      "pali": "paṭinissaggānupassanañāṇaṁ imehi catūhupādānehi muccati."
+    },
+    {
+      "id": "ps1.5:59.22",
+      "pali": "Animittānupassanañāṇaṁ katamehi tīhupādānehi muccati?"
+    },
+    {
+      "id": "ps1.5:59.23",
+      "pali": "Diṭṭhupādānā, sīlabbatupādānā, attavādupādānā—"
+    },
+    {
+      "id": "ps1.5:59.24",
+      "pali": "animittānupassanañāṇaṁ imehi tīhupādānehi muccati."
+    },
+    {
+      "id": "ps1.5:59.25",
+      "pali": "Appaṇihitānupassanañāṇaṁ katamā ekupādānā muccati?"
+    },
+    {
+      "id": "ps1.5:59.26",
+      "pali": "Kāmupādānā—"
+    },
+    {
+      "id": "ps1.5:59.27",
+      "pali": "appaṇihitānupassanañāṇaṁ idaṁ ekupādānā muccati."
+    },
+    {
+      "id": "ps1.5:59.28",
+      "pali": "Suññatānupassanañāṇaṁ katamehi tīhupādānehi muccati?"
+    },
+    {
+      "id": "ps1.5:59.29",
+      "pali": "Diṭṭhupādānā, sīlabbatupādānā, attavādupādānā—"
+    },
+    {
+      "id": "ps1.5:59.30",
+      "pali": "suññatānupassanañāṇaṁ imehi tīhupādānehi muccati."
+    },
+    {
+      "id": "ps1.5:60.1",
+      "pali": "Yañca aniccānupassanañāṇaṁ, yañca anattānupassanañāṇaṁ, yañca animittānupassanañāṇaṁ, yañca suññatānupassanañāṇaṁ—"
+    },
+    {
+      "id": "ps1.5:60.2",
+      "pali": "imāni cattāri ñāṇāni tīhupādānehi muccanti—"
+    },
+    {
+      "id": "ps1.5:60.3",
+      "pali": "diṭṭhupādānā, sīlabbatupādānā, attavādupādānā."
+    },
+    {
+      "id": "ps1.5:60.4",
+      "pali": "Yañca dukkhānupassanañāṇaṁ, yaṁ ca nibbidānupassanañāṇaṁ, yañca virāgānupassanañāṇaṁ, yañca appaṇihitānupassanañāṇaṁ—"
+    },
+    {
+      "id": "ps1.5:60.5",
+      "pali": "imāni cattāri ñāṇāni ekupādānā muccanti—"
+    },
+    {
+      "id": "ps1.5:60.6",
+      "pali": "kāmupādānā."
+    },
+    {
+      "id": "ps1.5:60.7",
+      "pali": "Yañca nirodhānupassanañāṇaṁ, yañca paṭinissaggānupassanañāṇaṁ—"
+    },
+    {
+      "id": "ps1.5:60.8",
+      "pali": "imāni dve ñāṇāni catūhupādānehi muccanti—"
+    },
+    {
+      "id": "ps1.5:60.9",
+      "pali": "kāmupādānā, diṭṭhupādānā, sīlabbatupādānā, attavādupādānā—"
+    },
+    {
+      "id": "ps1.5:60.10",
+      "pali": "ayaṁ anupādācittassa vimokkho."
+    },
+    {
+      "id": "ps1.5:60.11",
+      "pali": "Vimokkhakathāya paṭhamabhāṇavāro."
+    },
+    {
+      "id": "ps1.5:61.1",
+      "pali": "Tīṇi kho panimāni vimokkhamukhāni lokaniyyānāya saṁvattanti."
+    },
+    {
+      "id": "ps1.5:61.2",
+      "pali": "Sabbasaṅkhāre paricchedaparivaṭumato samanupassanatāya animittāya ca dhātuyā cittasampakkhandanatāya, sabbasaṅkhāresu manosamuttejanatāya appaṇihitāya ca dhātuyā cittasampakkhandanatāya, sabbadhamme parato samanupassanatāya suññatāya ca dhātuyā cittasampakkhandanatāya—"
+    },
+    {
+      "id": "ps1.5:61.3",
+      "pali": "imāni tīṇi vimokkhamukhāni lokaniyyānāya saṁvattanti."
+    },
+    {
+      "id": "ps1.5:62.1",
+      "pali": "Aniccato manasikaroto kathaṁ saṅkhārā upaṭṭhanti?"
+    },
+    {
+      "id": "ps1.5:62.2",
+      "pali": "Dukkhato manasikaroto kathaṁ saṅkhārā upaṭṭhanti?"
+    },
+    {
+      "id": "ps1.5:62.3",
+      "pali": "Anattato manasikaroto kathaṁ saṅkhārā upaṭṭhanti?"
+    },
+    {
+      "id": "ps1.5:62.4",
+      "pali": "Aniccato manasikaroto khayato saṅkhārā upaṭṭhanti, dukkhato manasikaroto bhayato saṅkhārā upaṭṭhanti, anattato manasikaroto suññato saṅkhārā upaṭṭhanti."
+    },
+    {
+      "id": "ps1.5:63.1",
+      "pali": "Aniccato manasikaroto kiṁ bahulaṁ cittaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:63.2",
+      "pali": "Dukkhato manasikaroto kiṁ bahulaṁ cittaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:63.3",
+      "pali": "Anattato manasikaroto kiṁ bahulaṁ cittaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:63.4",
+      "pali": "Aniccato manasikaroto adhimokkhabahulaṁ cittaṁ hoti."
+    },
+    {
+      "id": "ps1.5:63.5",
+      "pali": "Dukkhato manasikaroto passaddhibahulaṁ cittaṁ hoti."
+    },
+    {
+      "id": "ps1.5:63.6",
+      "pali": "Anattato manasikaroto vedabahulaṁ cittaṁ hoti."
+    },
+    {
+      "id": "ps1.5:64.1",
+      "pali": "Aniccato manasikaronto adhimokkhabahulo katamindriyaṁ paṭilabhati?"
+    },
+    {
+      "id": "ps1.5:64.2",
+      "pali": "Dukkhato manasikaronto passaddhibahulo katamindriyaṁ paṭilabhati?"
+    },
+    {
+      "id": "ps1.5:64.3",
+      "pali": "Anattato manasikaronto vedabahulo katamindriyaṁ paṭilabhati?"
+    },
+    {
+      "id": "ps1.5:64.4",
+      "pali": "Aniccato manasikaronto adhimokkhabahulo saddhindriyaṁ paṭilabhati."
+    },
+    {
+      "id": "ps1.5:64.5",
+      "pali": "Dukkhato manasikaronto passaddhibahulo samādhindriyaṁ paṭilabhati."
+    },
+    {
+      "id": "ps1.5:64.6",
+      "pali": "Anattato manasikaronto vedabahulo paññindriyaṁ paṭilabhati."
+    },
+    {
+      "id": "ps1.5:65.1",
+      "pali": "Aniccato manasikaroto adhimokkhabahulassa katamindriyaṁ ādhipateyyaṁ hoti, bhāvanāya katindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, kenaṭṭhena bhāvanā, ko bhāveti?"
+    },
+    {
+      "id": "ps1.5:65.2",
+      "pali": "Dukkhato manasikaroto passaddhibahulassa katamindriyaṁ ādhipateyyaṁ hoti, bhāvanāya katindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, kenaṭṭhena bhāvanā, ko bhāveti?"
+    },
+    {
+      "id": "ps1.5:65.3",
+      "pali": "Anattato manasikaroto vedabahulassa katamindriyaṁ ādhipateyyaṁ hoti, bhāvanāya katindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, kenaṭṭhena bhāvanā, ko bhāveti?"
+    },
+    {
+      "id": "ps1.5:65.4",
+      "pali": "Aniccato manasikaroto adhimokkhabahulassa saddhindriyaṁ ādhipateyyaṁ hoti."
+    },
+    {
+      "id": "ps1.5:65.5",
+      "pali": "Bhāvanāya cattārindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti."
+    },
+    {
+      "id": "ps1.5:65.6",
+      "pali": "Ekarasaṭṭhena bhāvanā."
+    },
+    {
+      "id": "ps1.5:65.7",
+      "pali": "Yo sammāpaṭipanno so bhāveti;"
+    },
+    {
+      "id": "ps1.5:65.8",
+      "pali": "natthi micchāpaṭipannassa indriyabhāvanā."
+    },
+    {
+      "id": "ps1.5:65.9",
+      "pali": "Dukkhato manasikaroto passaddhibahulassa samādhindriyaṁ ādhipateyyaṁ hoti."
+    },
+    {
+      "id": "ps1.5:65.10",
+      "pali": "Bhāvanāya cattārindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti."
+    },
+    {
+      "id": "ps1.5:65.11",
+      "pali": "Ekarasaṭṭhena bhāvanā."
+    },
+    {
+      "id": "ps1.5:65.12",
+      "pali": "Yo sammāpaṭipanno so bhāveti;"
+    },
+    {
+      "id": "ps1.5:65.13",
+      "pali": "natthi micchāpaṭipannassa indriyabhāvanā."
+    },
+    {
+      "id": "ps1.5:65.14",
+      "pali": "Anattato manasikaroto vedabahulassa paññindriyaṁ ādhipateyyaṁ hoti."
+    },
+    {
+      "id": "ps1.5:65.15",
+      "pali": "Bhāvanāya cattārindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti."
+    },
+    {
+      "id": "ps1.5:65.16",
+      "pali": "Ekarasaṭṭhena bhāvanā."
+    },
+    {
+      "id": "ps1.5:65.17",
+      "pali": "Yo sammāpaṭipanno so bhāveti;"
+    },
+    {
+      "id": "ps1.5:65.18",
+      "pali": "natthi micchāpaṭipannassa indriyabhāvanā."
+    },
+    {
+      "id": "ps1.5:66.1",
+      "pali": "Aniccato manasikaroto adhimokkhabahulassa katamindriyaṁ ādhipateyyaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:66.2",
+      "pali": "Bhāvanāya katindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti?"
+    },
+    {
+      "id": "ps1.5:66.3",
+      "pali": "Paṭivedhakāle katamindriyaṁ ādhipateyyaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:66.4",
+      "pali": "Paṭivedhāya katindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti?"
+    },
+    {
+      "id": "ps1.5:66.5",
+      "pali": "Kenaṭṭhena bhāvanā?"
+    },
+    {
+      "id": "ps1.5:66.6",
+      "pali": "Kenaṭṭhena paṭivedho?"
+    },
+    {
+      "id": "ps1.5:66.7",
+      "pali": "Dukkhato manasikaroto passaddhibahulassa katamindriyaṁ ādhipateyyaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:66.8",
+      "pali": "Bhāvanāya katindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti?"
+    },
+    {
+      "id": "ps1.5:66.9",
+      "pali": "Paṭivedhakāle katamindriyaṁ ādhipateyyaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:66.10",
+      "pali": "Paṭivedhāya katindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti?"
+    },
+    {
+      "id": "ps1.5:66.11",
+      "pali": "Kenaṭṭhena bhāvanā?"
+    },
+    {
+      "id": "ps1.5:66.12",
+      "pali": "Kenaṭṭhena paṭivedho?"
+    },
+    {
+      "id": "ps1.5:66.13",
+      "pali": "Anattato manasikaroto vedabahulassa katamindriyaṁ ādhipateyyaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:66.14",
+      "pali": "Bhāvanāya katindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti?"
+    },
+    {
+      "id": "ps1.5:66.15",
+      "pali": "Paṭivedhakāle katamindriyaṁ ādhipateyyaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:66.16",
+      "pali": "Paṭivedhāya katindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti?"
+    },
+    {
+      "id": "ps1.5:66.17",
+      "pali": "Kenaṭṭhena bhāvanā?"
+    },
+    {
+      "id": "ps1.5:66.18",
+      "pali": "Kenaṭṭhena paṭivedho?"
+    },
+    {
+      "id": "ps1.5:67.1",
+      "pali": "Aniccato manasikaroto adhimokkhabahulassa saddhindriyaṁ ādhipateyyaṁ hoti."
+    },
+    {
+      "id": "ps1.5:67.2",
+      "pali": "Bhāvanāya cattārindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti."
+    },
+    {
+      "id": "ps1.5:67.3",
+      "pali": "Paṭivedhakāle paññindriyaṁ ādhipateyyaṁ hoti."
+    },
+    {
+      "id": "ps1.5:67.4",
+      "pali": "Paṭivedhāya cattārindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti."
+    },
+    {
+      "id": "ps1.5:67.5",
+      "pali": "Ekarasaṭṭhena bhāvanā."
+    },
+    {
+      "id": "ps1.5:67.6",
+      "pali": "Dassanaṭṭhena paṭivedho."
+    },
+    {
+      "id": "ps1.5:67.7",
+      "pali": "Evaṁ paṭivijjhantopi bhāveti, bhāventopi paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:67.8",
+      "pali": "Dukkhato manasikaroto passaddhibahulassa samādhindriyaṁ ādhipateyyaṁ hoti."
+    },
+    {
+      "id": "ps1.5:67.9",
+      "pali": "Bhāvanāya cattārindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti."
+    },
+    {
+      "id": "ps1.5:67.10",
+      "pali": "Paṭivedhakāle paññindriyaṁ ādhipateyyaṁ hoti."
+    },
+    {
+      "id": "ps1.5:67.11",
+      "pali": "Paṭivedhāya cattārindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti."
+    },
+    {
+      "id": "ps1.5:67.12",
+      "pali": "Ekarasaṭṭhena bhāvanā."
+    },
+    {
+      "id": "ps1.5:67.13",
+      "pali": "Dassanaṭṭhena paṭivedho."
+    },
+    {
+      "id": "ps1.5:67.14",
+      "pali": "Evaṁ paṭivijjhantopi bhāveti, bhāventopi paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:67.15",
+      "pali": "Anattato manasikaroto vedabahulassa paññindriyaṁ ādhipateyyaṁ hoti."
+    },
+    {
+      "id": "ps1.5:67.16",
+      "pali": "Bhāvanāya cattārindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti."
+    },
+    {
+      "id": "ps1.5:67.17",
+      "pali": "Paṭivedhakālepi paññindriyaṁ ādhipateyyaṁ hoti."
+    },
+    {
+      "id": "ps1.5:67.18",
+      "pali": "Paṭivedhāya cattārindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti."
+    },
+    {
+      "id": "ps1.5:67.19",
+      "pali": "Ekarasaṭṭhena bhāvanā."
+    },
+    {
+      "id": "ps1.5:67.20",
+      "pali": "Dassanaṭṭhena paṭivedho."
+    },
+    {
+      "id": "ps1.5:67.21",
+      "pali": "Evaṁ paṭivijjhantopi bhāveti, bhāventopi paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:68.1",
+      "pali": "Aniccato manasikaroto katamindriyaṁ adhimattaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:68.2",
+      "pali": "Katamindriyassa adhimattattā saddhāvimutto hoti?"
+    },
+    {
+      "id": "ps1.5:68.3",
+      "pali": "Dukkhato manasikaroto katamindriyaṁ adhimattaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:68.4",
+      "pali": "Katamindriyassa adhimattattā kāyasakkhī hoti?"
+    },
+    {
+      "id": "ps1.5:68.5",
+      "pali": "Anattato manasikaroto katamindriyaṁ adhimattaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:68.6",
+      "pali": "Katamindriyassa adhimattattā diṭṭhippatto hoti?"
+    },
+    {
+      "id": "ps1.5:69.1",
+      "pali": "Aniccato manasikaroto saddhindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:69.2",
+      "pali": "Saddhindriyassa adhimattattā saddhāvimutto hoti."
+    },
+    {
+      "id": "ps1.5:69.3",
+      "pali": "Dukkhato manasikaroto samādhindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:69.4",
+      "pali": "Samādhindriyassa adhimattattā kāyasakkhī hoti."
+    },
+    {
+      "id": "ps1.5:69.5",
+      "pali": "Anattato manasikaroto paññindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:69.6",
+      "pali": "Paññindriyassa adhimattattā diṭṭhippatto hoti."
+    },
+    {
+      "id": "ps1.5:70.1",
+      "pali": "Saddahanto vimuttoti—"
+    },
+    {
+      "id": "ps1.5:70.2",
+      "pali": "saddhāvimutto."
+    },
+    {
+      "id": "ps1.5:70.3",
+      "pali": "Phuṭṭhattā sacchikatoti—"
+    },
+    {
+      "id": "ps1.5:70.4",
+      "pali": "kāyasakkhī."
+    },
+    {
+      "id": "ps1.5:70.5",
+      "pali": "Diṭṭhattā pattoti—"
+    },
+    {
+      "id": "ps1.5:70.6",
+      "pali": "diṭṭhippatto."
+    },
+    {
+      "id": "ps1.5:70.7",
+      "pali": "Saddahanto vimuccatīti—"
+    },
+    {
+      "id": "ps1.5:70.8",
+      "pali": "saddhāvimutto."
+    },
+    {
+      "id": "ps1.5:70.9",
+      "pali": "Jhānaphassaṁ paṭhamaṁ phusati, pacchā nirodhaṁ nibbānaṁ sacchikarotīti—"
+    },
+    {
+      "id": "ps1.5:70.10",
+      "pali": "kāyasakkhī."
+    },
+    {
+      "id": "ps1.5:70.11",
+      "pali": "“Dukkhā saṅkhārā, sukho nirodho”ti ñātaṁ hoti diṭṭhaṁ viditaṁ sacchikataṁ phassitaṁ paññāyāti—"
+    },
+    {
+      "id": "ps1.5:70.12",
+      "pali": "diṭṭhippatto."
+    },
+    {
+      "id": "ps1.5:70.13",
+      "pali": "Yo cāyaṁ puggalo saddhāvimutto, yo ca kāyasakkhī, yo ca diṭṭhippatto, siyā ime tayo puggalā saddhāvimuttāpi kāyasakkhīpi diṭṭhippattāpi vatthuvasena pariyāyena <b>siyā</b>ti."
+    },
+    {
+      "id": "ps1.5:70.14",
+      "pali": "Kathañca siyā?"
+    },
+    {
+      "id": "ps1.5:70.15",
+      "pali": "Aniccato manasikaroto saddhindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:70.16",
+      "pali": "Saddhindriyassa adhimattattā saddhāvimutto hoti."
+    },
+    {
+      "id": "ps1.5:70.17",
+      "pali": "Dukkhato manasikaroto saddhindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:70.18",
+      "pali": "Saddhindriyassa adhimattattā saddhāvimutto hoti."
+    },
+    {
+      "id": "ps1.5:70.19",
+      "pali": "Anattato manasikaroto saddhindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:70.20",
+      "pali": "Saddhindriyassa adhimattattā saddhāvimutto hoti."
+    },
+    {
+      "id": "ps1.5:70.21",
+      "pali": "Evaṁ ime tayo puggalā saddhindriyassa vasena saddhāvimuttā."
+    },
+    {
+      "id": "ps1.5:71.1",
+      "pali": "Dukkhato manasikaroto samādhindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:71.2",
+      "pali": "Samādhindriyassa adhimattattā kāyasakkhī hoti."
+    },
+    {
+      "id": "ps1.5:71.3",
+      "pali": "Anattato manasikaroto samādhindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:71.4",
+      "pali": "Samādhindriyassa adhimattattā kāyasakkhī hoti."
+    },
+    {
+      "id": "ps1.5:71.5",
+      "pali": "Aniccato manasikaroto samādhindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:71.6",
+      "pali": "Samādhindriyassa adhimattattā kāyasakkhī hoti."
+    },
+    {
+      "id": "ps1.5:71.7",
+      "pali": "Evaṁ ime tayo puggalā samādhindriyassa vasena kāyasakkhī."
+    },
+    {
+      "id": "ps1.5:72.1",
+      "pali": "Anattato manasikaroto paññindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:72.2",
+      "pali": "Paññindriyassa adhimattattā diṭṭhippatto hoti."
+    },
+    {
+      "id": "ps1.5:72.3",
+      "pali": "Aniccato manasikaroto paññindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:72.4",
+      "pali": "Paññindriyassa adhimattattā diṭṭhippatto hoti."
+    },
+    {
+      "id": "ps1.5:72.5",
+      "pali": "Dukkhato manasikaroto paññindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:72.6",
+      "pali": "Paññindriyassa adhimattattā diṭṭhippatto hoti."
+    },
+    {
+      "id": "ps1.5:72.7",
+      "pali": "Evaṁ ime tayo puggalā paññindriyassa vasena diṭṭhippattā."
+    },
+    {
+      "id": "ps1.5:73.1",
+      "pali": "Yo cāyaṁ puggalo saddhāvimutto, yo ca kāyasakkhī, yo ca diṭṭhippatto, evaṁ siyā ime tayo puggalā saddhāvimuttāpi kāyasakkhīpi diṭṭhippattāpi vatthuvasena pariyāyena."
+    },
+    {
+      "id": "ps1.5:73.2",
+      "pali": "Yo cāyaṁ puggalo saddhāvimutto, yo ca kāyasakkhī, yo ca diṭṭhippatto, siyā ime tayo puggalā …pe…"
+    },
+    {
+      "id": "ps1.5:73.3",
+      "pali": "aññoyeva saddhāvimutto, añño kāyasakkhī, añño diṭṭhippatto."
+    },
+    {
+      "id": "ps1.5:74.1",
+      "pali": "<b>Siyā</b>ti."
+    },
+    {
+      "id": "ps1.5:74.2",
+      "pali": "Kathañca siyā?"
+    },
+    {
+      "id": "ps1.5:74.3",
+      "pali": "Aniccato manasikaroto saddhindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:74.4",
+      "pali": "Saddhindriyassa adhimattattā saddhāvimutto hoti."
+    },
+    {
+      "id": "ps1.5:74.5",
+      "pali": "Dukkhato manasikaroto samādhindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:74.6",
+      "pali": "Samādhindriyassa adhimattattā kāyasakkhī hoti."
+    },
+    {
+      "id": "ps1.5:74.7",
+      "pali": "Anattato manasikaroto paññindriyaṁ adhimattaṁ hoti."
+    },
+    {
+      "id": "ps1.5:74.8",
+      "pali": "Paññindriyassa adhimattattā diṭṭhippatto hoti."
+    },
+    {
+      "id": "ps1.5:74.9",
+      "pali": "Yo cāyaṁ puggalo saddhāvimutto, yo ca kāyasakkhī, yo ca diṭṭhippatto, evaṁ siyā ime tayo puggalā saddhāvimuttāpi kāyasakkhīpi diṭṭhippattāpi vatthuvasena pariyāyena."
+    },
+    {
+      "id": "ps1.5:74.10",
+      "pali": "Aññoyeva saddhāvimutto, añño kāyasakkhī, añño diṭṭhippatto."
+    },
+    {
+      "id": "ps1.5:75.1",
+      "pali": "Aniccato manasikaroto saddhindriyaṁ adhimattaṁ hoti, saddhindriyassa adhimattattā sotāpattimaggaṁ paṭilabhati;"
+    },
+    {
+      "id": "ps1.5:75.2",
+      "pali": "tena vuccati—"
+    },
+    {
+      "id": "ps1.5:75.3",
+      "pali": "“saddhānusārī”."
+    },
+    {
+      "id": "ps1.5:75.4",
+      "pali": "Cattārindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti."
+    },
+    {
+      "id": "ps1.5:75.5",
+      "pali": "Saddhindriyassa vasena catunnaṁ indriyānaṁ bhāvanā hoti."
+    },
+    {
+      "id": "ps1.5:75.6",
+      "pali": "Ye hi keci saddhindriyassa vasena sotāpattimaggaṁ paṭilabhanti, sabbe te saddhānusārino."
+    },
+    {
+      "id": "ps1.5:76.1",
+      "pali": "Aniccato manasikaroto saddhindriyaṁ adhimattaṁ hoti, saddhindriyassa adhimattattā sotāpattiphalaṁ sacchikataṁ hoti;"
+    },
+    {
+      "id": "ps1.5:76.2",
+      "pali": "tena vuccati—"
+    },
+    {
+      "id": "ps1.5:76.3",
+      "pali": "“saddhāvimutto”."
+    },
+    {
+      "id": "ps1.5:76.4",
+      "pali": "Cattārindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti."
+    },
+    {
+      "id": "ps1.5:76.5",
+      "pali": "Saddhindriyassa vasena cattārindriyāni bhāvitāni honti subhāvitāni."
+    },
+    {
+      "id": "ps1.5:76.6",
+      "pali": "Yehi keci saddhindriyassa vasena sotāpattiphalaṁ sacchikatā, sabbe te saddhāvimuttā."
+    },
+    {
+      "id": "ps1.5:77.1",
+      "pali": "Aniccato manasikaroto saddhindriyaṁ adhimattaṁ hoti, saddhindriyassa adhimattattā sakadāgāmimaggaṁ paṭilabhati …pe…"
+    },
+    {
+      "id": "ps1.5:77.2",
+      "pali": "sakadāgāmiphalaṁ sacchikataṁ hoti …pe…"
+    },
+    {
+      "id": "ps1.5:77.3",
+      "pali": "anāgāmimaggaṁ paṭilabhati …"
+    },
+    {
+      "id": "ps1.5:77.4",
+      "pali": "anāgāmiphalaṁ sacchikataṁ hoti …pe…"
+    },
+    {
+      "id": "ps1.5:77.5",
+      "pali": "arahattamaggaṁ paṭilabhati …"
+    },
+    {
+      "id": "ps1.5:77.6",
+      "pali": "arahattaṁ sacchikataṁ hoti;"
+    },
+    {
+      "id": "ps1.5:77.7",
+      "pali": "tena vuccati—"
+    },
+    {
+      "id": "ps1.5:77.8",
+      "pali": "“saddhāvimutto”."
+    },
+    {
+      "id": "ps1.5:77.9",
+      "pali": "Cattārindriyāni tadanvayā honti …pe…"
+    },
+    {
+      "id": "ps1.5:77.10",
+      "pali": "sampayuttapaccayā honti."
+    },
+    {
+      "id": "ps1.5:77.11",
+      "pali": "Saddhindriyassa vasena cattārindriyāni bhāvitāni honti subhāvitāni."
+    },
+    {
+      "id": "ps1.5:77.12",
+      "pali": "Yehi keci saddhindriyassa vasena arahattaṁ sacchikatā, sabbe te saddhāvimuttā."
+    },
+    {
+      "id": "ps1.5:78.1",
+      "pali": "Dukkhato manasikaroto samādhindriyaṁ adhimattaṁ hoti, samādhindriyassa adhimattattā sotāpattimaggaṁ paṭilabhati;"
+    },
+    {
+      "id": "ps1.5:78.2",
+      "pali": "tena vuccati—"
+    },
+    {
+      "id": "ps1.5:78.3",
+      "pali": "“kāyasakkhī”."
+    },
+    {
+      "id": "ps1.5:78.4",
+      "pali": "Cattārindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti."
+    },
+    {
+      "id": "ps1.5:78.5",
+      "pali": "Samādhindriyassa vasena catunnaṁ indriyānaṁ bhāvanā hoti."
+    },
+    {
+      "id": "ps1.5:78.6",
+      "pali": "Ye hi keci samādhindriyassa vasena sotāpattimaggaṁ paṭilabhanti, sabbe te kāyasakkhī."
+    },
+    {
+      "id": "ps1.5:79.1",
+      "pali": "Dukkhato manasikaroto samādhindriyaṁ adhimattaṁ hoti, samādhindriyassa adhimattattā sotāpattiphalaṁ sacchikataṁ hoti …pe…"
+    },
+    {
+      "id": "ps1.5:79.2",
+      "pali": "sakadāgāmimaggaṁ paṭilabhati …pe…"
+    },
+    {
+      "id": "ps1.5:79.3",
+      "pali": "sakadāgāmiphalaṁ sacchikataṁ hoti …pe…"
+    },
+    {
+      "id": "ps1.5:79.4",
+      "pali": "anāgāmimaggaṁ paṭilabhati …pe…"
+    },
+    {
+      "id": "ps1.5:79.5",
+      "pali": "anāgāmiphalaṁ sacchikataṁ hoti …pe…"
+    },
+    {
+      "id": "ps1.5:79.6",
+      "pali": "arahattamaggaṁ paṭilabhati …pe…"
+    },
+    {
+      "id": "ps1.5:79.7",
+      "pali": "arahattaṁ sacchikataṁ hoti;"
+    },
+    {
+      "id": "ps1.5:79.8",
+      "pali": "tena vuccati—"
+    },
+    {
+      "id": "ps1.5:79.9",
+      "pali": "“kāyasakkhī”."
+    },
+    {
+      "id": "ps1.5:79.10",
+      "pali": "Cattārindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti."
+    },
+    {
+      "id": "ps1.5:79.11",
+      "pali": "Samādhindriyassa vasena cattārindriyāni bhāvitāni honti subhāvitāni."
+    },
+    {
+      "id": "ps1.5:79.12",
+      "pali": "Ye hi keci samādhindriyassa vasena arahattaṁ sacchikatā, sabbe te kāyasakkhī."
+    },
+    {
+      "id": "ps1.5:80.1",
+      "pali": "Anattato manasikaroto paññindriyaṁ adhimattaṁ hoti, paññindriyassa adhimattattā sotāpattimaggaṁ paṭilabhati;"
+    },
+    {
+      "id": "ps1.5:80.2",
+      "pali": "tena vuccati—"
+    },
+    {
+      "id": "ps1.5:80.3",
+      "pali": "“dhammānusārī”."
+    },
+    {
+      "id": "ps1.5:80.4",
+      "pali": "Cattārindriyāni tadanvayā honti …pe…"
+    },
+    {
+      "id": "ps1.5:80.5",
+      "pali": "sampayuttapaccayā honti."
+    },
+    {
+      "id": "ps1.5:80.6",
+      "pali": "Paññindriyassa vasena catunnaṁ indriyānaṁ bhāvanā hoti."
+    },
+    {
+      "id": "ps1.5:80.7",
+      "pali": "Ye hi keci paññindriyassa vasena sotāpattimaggaṁ paṭilabhanti, sabbe te dhammānusārino."
+    },
+    {
+      "id": "ps1.5:81.1",
+      "pali": "Anattato manasikaroto paññindriyaṁ adhimattaṁ hoti, paññindriyassa adhimattattā sotāpattiphalaṁ sacchikataṁ hoti;"
+    },
+    {
+      "id": "ps1.5:81.2",
+      "pali": "tena vuccati—"
+    },
+    {
+      "id": "ps1.5:81.3",
+      "pali": "“diṭṭhippatto”."
+    },
+    {
+      "id": "ps1.5:81.4",
+      "pali": "Cattārindriyāni tadanvayā honti …pe…"
+    },
+    {
+      "id": "ps1.5:81.5",
+      "pali": "sampayuttapaccayā honti."
+    },
+    {
+      "id": "ps1.5:81.6",
+      "pali": "Paññindriyassa vasena cattārindriyāni bhāvitāni honti subhāvitāni."
+    },
+    {
+      "id": "ps1.5:81.7",
+      "pali": "Ye hi keci paññindriyassa vasena sotāpattiphalaṁ sacchikatā, sabbe te diṭṭhippattā."
+    },
+    {
+      "id": "ps1.5:82.1",
+      "pali": "Anattato manasikaroto paññindriyaṁ adhimattaṁ hoti, paññindriyassa adhimattattā sakadāgāmimaggaṁ paṭilabhati …pe…"
+    },
+    {
+      "id": "ps1.5:82.2",
+      "pali": "sakadāgāmiphalaṁ sacchikataṁ hoti …pe…"
+    },
+    {
+      "id": "ps1.5:82.3",
+      "pali": "anāgāmimaggaṁ paṭilabhati …"
+    },
+    {
+      "id": "ps1.5:82.4",
+      "pali": "anāgāmiphalaṁ sacchikataṁ hoti …"
+    },
+    {
+      "id": "ps1.5:82.5",
+      "pali": "arahattamaggaṁ paṭilabhati …pe…"
+    },
+    {
+      "id": "ps1.5:82.6",
+      "pali": "arahattaṁ sacchikataṁ hoti;"
+    },
+    {
+      "id": "ps1.5:82.7",
+      "pali": "tena vuccati—"
+    },
+    {
+      "id": "ps1.5:82.8",
+      "pali": "“diṭṭhippatto”."
+    },
+    {
+      "id": "ps1.5:82.9",
+      "pali": "Cattārindriyāni tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti."
+    },
+    {
+      "id": "ps1.5:82.10",
+      "pali": "Paññindriyassa vasena cattārindriyāni bhāvitāni honti subhāvitāni."
+    },
+    {
+      "id": "ps1.5:82.11",
+      "pali": "Ye hi keci paññindriyassa vasena arahattaṁ sacchikatā, sabbe te diṭṭhippattā."
+    },
+    {
+      "id": "ps1.5:83.1",
+      "pali": "Ye hi keci nekkhammaṁ bhāvitā vā bhāventi vā bhāvissanti vā, adhigatā vā adhigacchanti vā adhigamissanti vā, pattā vā pāpuṇanti vā pāpuṇissanti vā, paṭiladdhā vā paṭilabhanti vā paṭilabhissanti vā, paṭividdhā vā paṭivijjhanti vā paṭivijjhissanti vā, sacchikatā vā sacchikaronti vā sacchikarissanti vā, phassitā vā phassanti vā phassissanti vā, vasippattā vā pāpuṇanti vā pāpuṇissanti vā, pāramippattā vā pāpuṇanti vā pāpuṇissanti vā, vesārajjappattā vā pāpuṇanti vā pāpuṇissanti vā, sabbe te saddhindriyassa vasena saddhāvimuttā, samādhindriyassa vasena kāyasakkhī, paññindriyassa vasena diṭṭhippattā."
+    },
+    {
+      "id": "ps1.5:84.1",
+      "pali": "Ye hi keci abyāpādaṁ …pe…"
+    },
+    {
+      "id": "ps1.5:84.2",
+      "pali": "ālokasaññaṁ …"
+    },
+    {
+      "id": "ps1.5:84.3",
+      "pali": "avikkhepaṁ …"
+    },
+    {
+      "id": "ps1.5:84.4",
+      "pali": "dhammavavatthānaṁ …"
+    },
+    {
+      "id": "ps1.5:84.5",
+      "pali": "ñāṇaṁ …"
+    },
+    {
+      "id": "ps1.5:84.6",
+      "pali": "pāmojjaṁ …"
+    },
+    {
+      "id": "ps1.5:84.7",
+      "pali": "paṭhamaṁ jhānaṁ …"
+    },
+    {
+      "id": "ps1.5:84.8",
+      "pali": "dutiyaṁ jhānaṁ …"
+    },
+    {
+      "id": "ps1.5:84.9",
+      "pali": "tatiyaṁ jhānaṁ …"
+    },
+    {
+      "id": "ps1.5:84.10",
+      "pali": "catutthaṁ jhānaṁ …"
+    },
+    {
+      "id": "ps1.5:84.11",
+      "pali": "ākāsānañcāyatanasamāpattiṁ …"
+    },
+    {
+      "id": "ps1.5:84.12",
+      "pali": "viññāṇañcāyatanasamāpattiṁ …"
+    },
+    {
+      "id": "ps1.5:84.13",
+      "pali": "ākiñcaññāyatanasamāpattiṁ …"
+    },
+    {
+      "id": "ps1.5:84.14",
+      "pali": "nevasaññānāsaññāyatanasamāpattiṁ …"
+    },
+    {
+      "id": "ps1.5:84.15",
+      "pali": "aniccānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.16",
+      "pali": "dukkhānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.17",
+      "pali": "anattānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.18",
+      "pali": "nibbidānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.19",
+      "pali": "virāgānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.20",
+      "pali": "nirodhānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.21",
+      "pali": "paṭinissaggānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.22",
+      "pali": "khayānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.23",
+      "pali": "vayānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.24",
+      "pali": "vipariṇāmānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.25",
+      "pali": "animittānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.26",
+      "pali": "appaṇihitānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.27",
+      "pali": "suññatānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.28",
+      "pali": "adhipaññādhammavipassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.29",
+      "pali": "yathābhūtañāṇadassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.30",
+      "pali": "ādīnavānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.31",
+      "pali": "paṭisaṅkhānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.32",
+      "pali": "vivaṭṭanānupassanaṁ …"
+    },
+    {
+      "id": "ps1.5:84.33",
+      "pali": "sotāpattimaggaṁ …"
+    },
+    {
+      "id": "ps1.5:84.34",
+      "pali": "sakadāgāmimaggaṁ …"
+    },
+    {
+      "id": "ps1.5:84.35",
+      "pali": "anāgāmimaggaṁ …"
+    },
+    {
+      "id": "ps1.5:84.36",
+      "pali": "arahattamaggaṁ …."
+    },
+    {
+      "id": "ps1.5:85.1",
+      "pali": "Ye hi keci cattāro satipaṭṭhāne …"
+    },
+    {
+      "id": "ps1.5:85.2",
+      "pali": "cattāro sammappadhāne …"
+    },
+    {
+      "id": "ps1.5:85.3",
+      "pali": "cattāro iddhipāde …"
+    },
+    {
+      "id": "ps1.5:85.4",
+      "pali": "pañcindriyāni …"
+    },
+    {
+      "id": "ps1.5:85.5",
+      "pali": "pañca balāni …"
+    },
+    {
+      "id": "ps1.5:85.6",
+      "pali": "satta bojjhaṅge …"
+    },
+    {
+      "id": "ps1.5:85.7",
+      "pali": "ariyaṁ aṭṭhaṅgikaṁ maggaṁ …"
+    },
+    {
+      "id": "ps1.5:85.8",
+      "pali": "ye hi keci aṭṭha vimokkhe bhāvitā vā bhāventi vā bhāvissanti vā, adhigatā vā adhigacchanti vā adhigamissanti vā, pattā vā pāpuṇanti vā pāpuṇissanti vā, paṭiladdhā vā paṭilabhanti vā paṭilabhissanti vā, paṭividdhā vā paṭivijjhanti vā paṭivijjhissanti vā, sacchikatā vā sacchikaronti vā sacchikarissanti vā, phassitā vā phassanti vā phassissanti vā, vasippattā vā pāpuṇanti vā pāpuṇissanti vā pāramippattā vā pāpuṇanti vā pāpuṇissanti vā, vesārajjappattā vā pāpuṇanti vā pāpuṇissanti vā, sabbe te saddhindriyassa vasena saddhāvimuttā, samādhindriyassa vasena kāyasakkhī, paññindriyassa vasena diṭṭhippattā."
+    },
+    {
+      "id": "ps1.5:86.1",
+      "pali": "Ye hi keci catasso paṭisambhidā pattā vā pāpuṇanti vā pāpuṇissanti vā …pe…"
+    },
+    {
+      "id": "ps1.5:86.2",
+      "pali": "sabbe te saddhindriyassa vasena saddhāvimuttā, samādhindriyassa vasena kāyasakkhī, paññindriyassa vasena diṭṭhippattā."
+    },
+    {
+      "id": "ps1.5:87.1",
+      "pali": "Ye hi keci tisso vijjā paṭividdhā vā paṭivijjhanti vā paṭivijjhissanti vā …pe…"
+    },
+    {
+      "id": "ps1.5:87.2",
+      "pali": "sabbe te saddhindriyassa vasena saddhāvimuttā, samādhindriyassa vasena kāyasakkhī, paññindriyassa vasena diṭṭhippattā."
+    },
+    {
+      "id": "ps1.5:88.1",
+      "pali": "Ye hi keci tisso sikkhā sikkhitā vā sikkhanti vā sikkhissanti vā, sacchikatā vā sacchikaronti vā sacchikarissanti vā, phassitā vā phassanti vā phassissanti vā, vasippattā vā pāpuṇanti vā pāpuṇissanti vā, pāramippattā vā pāpuṇanti vā pāpuṇissanti vā, vesārajjappattā vā pāpuṇanti vā pāpuṇissanti vā, sabbe te saddhindriyassa vasena saddhāvimuttā, samādhindriyassa vasena kāyasakkhī, paññindriyassa vasena diṭṭhippattā."
+    },
+    {
+      "id": "ps1.5:89.1",
+      "pali": "Ye hi keci dukkhaṁ parijānanti samudayaṁ pajahanti nirodhaṁ sacchikaronti maggaṁ bhāventi, sabbe te saddhindriyassa vasena saddhāvimuttā, samādhindriyassa vasena kāyasakkhī, paññindriyassa vasena diṭṭhippattā."
+    },
+    {
+      "id": "ps1.5:90.1",
+      "pali": "Katihākārehi saccappaṭivedho hoti?"
+    },
+    {
+      "id": "ps1.5:90.2",
+      "pali": "Katihākārehi saccāni paṭivijjhati?"
+    },
+    {
+      "id": "ps1.5:90.3",
+      "pali": "Catūhākārehi saccappaṭivedho hoti."
+    },
+    {
+      "id": "ps1.5:90.4",
+      "pali": "Catūhākārehi saccāni paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:90.5",
+      "pali": "Dukkhasaccaṁ pariññāpaṭivedhaṁ paṭivijjhati, samudayasaccaṁ pahānappaṭivedhaṁ paṭivijjhati, nirodhasaccaṁ sacchikiriyāpaṭivedhaṁ paṭivijjhati, maggasaccaṁ bhāvanāpaṭivedhaṁ paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:90.6",
+      "pali": "Imehi catūhākārehi saccappaṭivedho hoti."
+    },
+    {
+      "id": "ps1.5:90.7",
+      "pali": "Imehi catūhākārehi saccāni paṭivijjhanto saddhindriyassa vasena saddhāvimutto, samādhindriyassa vasena kāyasakkhī, paññindriyassa vasena diṭṭhippatto."
+    },
+    {
+      "id": "ps1.5:91.1",
+      "pali": "Katihākārehi saccappaṭivedho hoti?"
+    },
+    {
+      "id": "ps1.5:91.2",
+      "pali": "Katihākārehi saccāni paṭivijjhati?"
+    },
+    {
+      "id": "ps1.5:91.3",
+      "pali": "Navahākārehi saccappaṭivedho hoti, navahākārehi saccāni paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:91.4",
+      "pali": "Dukkhasaccaṁ pariññāpaṭivedhaṁ paṭivijjhati, samudayasaccaṁ pahānappaṭivedhaṁ paṭivijjhati, nirodhasaccaṁ sacchikiriyāpaṭivedhaṁ paṭivijjhati, maggasaccaṁ bhāvanāpaṭivedhaṁ paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:91.5",
+      "pali": "Abhiññāpaṭivedho ca sabbadhammānaṁ, pariññāpaṭivedho ca sabbasaṅkhārānaṁ, pahānappaṭivedho ca sabbākusalānaṁ, bhāvanāpaṭivedho ca catunnaṁ maggānaṁ, sacchikiriyāpaṭivedho ca nirodhassa."
+    },
+    {
+      "id": "ps1.5:91.6",
+      "pali": "Imehi navahākārehi saccappaṭivedho hoti."
+    },
+    {
+      "id": "ps1.5:91.7",
+      "pali": "Imehi navahākārehi saccāni paṭivijjhanto saddhindriyassa vasena saddhāvimutto, samādhindriyassa vasena kāyasakkhī, paññindriyassa vasena diṭṭhippatto."
+    },
+    {
+      "id": "ps1.5:91.8",
+      "pali": "Dutiyabhāṇavāro."
+    },
+    {
+      "id": "ps1.5:92.1",
+      "pali": "Aniccato manasikaroto kathaṁ saṅkhārā upaṭṭhanti?"
+    },
+    {
+      "id": "ps1.5:92.2",
+      "pali": "Dukkhato manasikaroto kathaṁ saṅkhārā upaṭṭhanti?"
+    },
+    {
+      "id": "ps1.5:92.3",
+      "pali": "Anattato manasikaroto kathaṁ saṅkhārā upaṭṭhanti?"
+    },
+    {
+      "id": "ps1.5:92.4",
+      "pali": "Aniccato manasikaroto khayato saṅkhārā upaṭṭhanti."
+    },
+    {
+      "id": "ps1.5:92.5",
+      "pali": "Dukkhato manasikaroto bhayato saṅkhārā upaṭṭhanti."
+    },
+    {
+      "id": "ps1.5:92.6",
+      "pali": "Anattato manasikaroto suññato saṅkhārā upaṭṭhanti."
+    },
+    {
+      "id": "ps1.5:93.1",
+      "pali": "Aniccato manasikaroto kiṁ bahulaṁ cittaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:93.2",
+      "pali": "Dukkhato manasikaroto kiṁ bahulaṁ cittaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:93.3",
+      "pali": "Anattato manasikaroto kiṁ bahulaṁ cittaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:93.4",
+      "pali": "Aniccato manasikaroto adhimokkhabahulaṁ cittaṁ hoti."
+    },
+    {
+      "id": "ps1.5:93.5",
+      "pali": "Dukkhato manasikaroto passaddhibahulaṁ cittaṁ hoti."
+    },
+    {
+      "id": "ps1.5:93.6",
+      "pali": "Anattato manasikaroto vedabahulaṁ cittaṁ hoti."
+    },
+    {
+      "id": "ps1.5:94.1",
+      "pali": "Aniccato manasikaronto adhimokkhabahulo katamaṁ vimokkhaṁ paṭilabhati?"
+    },
+    {
+      "id": "ps1.5:94.2",
+      "pali": "Dukkhato manasikaronto passaddhibahulo katamaṁ vimokkhaṁ paṭilabhati?"
+    },
+    {
+      "id": "ps1.5:94.3",
+      "pali": "Anattato manasikaronto vedabahulo katamaṁ vimokkhaṁ paṭilabhati?"
+    },
+    {
+      "id": "ps1.5:94.4",
+      "pali": "Aniccato manasikaronto adhimokkhabahulo animittaṁ vimokkhaṁ paṭilabhati."
+    },
+    {
+      "id": "ps1.5:94.5",
+      "pali": "Dukkhato manasikaronto passaddhibahulo appaṇihitaṁ vimokkhaṁ paṭilabhati."
+    },
+    {
+      "id": "ps1.5:94.6",
+      "pali": "Anattato manasikaronto vedabahulo suññataṁ vimokkhaṁ paṭilabhati."
+    },
+    {
+      "id": "ps1.5:95.1",
+      "pali": "Aniccato manasikaroto adhimokkhabahulassa katamo vimokkho ādhipateyyo hoti, bhāvanāya kati vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, kenaṭṭhena bhāvanā, ko bhāveti?"
+    },
+    {
+      "id": "ps1.5:95.2",
+      "pali": "Dukkhato manasikaroto passaddhibahulassa katamo vimokkho ādhipateyyo hoti, bhāvanāya kati vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, kenaṭṭhena bhāvanā, ko bhāveti?"
+    },
+    {
+      "id": "ps1.5:95.3",
+      "pali": "Anattato manasikaroto vedabahulassa katamo vimokkho ādhipateyyo hoti, bhāvanāya kati vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, kenaṭṭhena bhāvanā, ko bhāveti?"
+    },
+    {
+      "id": "ps1.5:96.1",
+      "pali": "Aniccato manasikaroto adhimokkhabahulassa animitto vimokkho ādhipateyyo hoti."
+    },
+    {
+      "id": "ps1.5:96.2",
+      "pali": "Bhāvanāya dve vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti."
+    },
+    {
+      "id": "ps1.5:96.3",
+      "pali": "Ekarasaṭṭhena bhāvanā."
+    },
+    {
+      "id": "ps1.5:96.4",
+      "pali": "Yo sammāpaṭipanno so bhāveti;"
+    },
+    {
+      "id": "ps1.5:96.5",
+      "pali": "natthi micchāpaṭipannassa vimokkhabhāvanā."
+    },
+    {
+      "id": "ps1.5:96.6",
+      "pali": "Dukkhato manasikaroto passaddhibahulassa appaṇihito vimokkho ādhipateyyo hoti."
+    },
+    {
+      "id": "ps1.5:96.7",
+      "pali": "Bhāvanāya dve vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti."
+    },
+    {
+      "id": "ps1.5:96.8",
+      "pali": "Ekarasaṭṭhena bhāvanā."
+    },
+    {
+      "id": "ps1.5:96.9",
+      "pali": "Yo sammāpaṭipanno so bhāveti;"
+    },
+    {
+      "id": "ps1.5:96.10",
+      "pali": "natthi micchāpaṭipannassa vimokkhabhāvanā."
+    },
+    {
+      "id": "ps1.5:96.11",
+      "pali": "Anattato manasikaroto vedabahulassa suññato vimokkho ādhipateyyo hoti."
+    },
+    {
+      "id": "ps1.5:96.12",
+      "pali": "Bhāvanāya dve vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti."
+    },
+    {
+      "id": "ps1.5:96.13",
+      "pali": "Ekarasaṭṭhena bhāvanā."
+    },
+    {
+      "id": "ps1.5:96.14",
+      "pali": "Yo sammāpaṭipanno so bhāveti;"
+    },
+    {
+      "id": "ps1.5:96.15",
+      "pali": "natthi micchāpaṭipannassa vimokkhabhāvanā."
+    },
+    {
+      "id": "ps1.5:97.1",
+      "pali": "Aniccato manasikaroto adhimokkhabahulassa katamo vimokkho ādhipateyyo hoti, bhāvanāya kati vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, paṭivedhakāle katamo vimokkho ādhipateyyo hoti, paṭivedhāya kati vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, kenaṭṭhena bhāvanā, kenaṭṭhena paṭivedho?"
+    },
+    {
+      "id": "ps1.5:97.2",
+      "pali": "Dukkhato manasikaroto passaddhibahulassa katamo vimokkho ādhipateyyo hoti, bhāvanāya kati vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, paṭivedhakāle katamo vimokkho ādhipateyyo hoti, paṭivedhāya kati vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, kenaṭṭhena bhāvanā, kenaṭṭhena paṭivedho?"
+    },
+    {
+      "id": "ps1.5:97.3",
+      "pali": "Anattato manasikaroto vedabahulassa katamo vimokkho ādhipateyyo hoti, bhāvanāya kati vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, paṭivedhakāle katamo vimokkho ādhipateyyo hoti, paṭivedhāya kativimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, kenaṭṭhena bhāvanā, kenaṭṭhena paṭivedho?"
+    },
+    {
+      "id": "ps1.5:98.1",
+      "pali": "Aniccato manasikaroto adhimokkhabahulassa animitto vimokkho ādhipateyyo hoti, bhāvanāya dve vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, paṭivedhakālepi animitto vimokkho ādhipateyyo hoti, paṭivedhāya dve vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, ekarasaṭṭhena bhāvanā, dassanaṭṭhena paṭivedho, evaṁ paṭivijjhantopi bhāveti, bhāventopi paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:98.2",
+      "pali": "Dukkhato manasikaroto passaddhibahulassa appaṇihito vimokkho ādhipateyyo hoti, bhāvanāya dve vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, paṭivedhakālepi appaṇihito vimokkho ādhipateyyo hoti, paṭivedhāya dve vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, ekarasaṭṭhena bhāvanā, dassanaṭṭhena paṭivedho, evaṁ paṭivijjhantopi bhāveti, bhāventopi paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:98.3",
+      "pali": "Anattato manasikaroto vedabahulassa suññato vimokkho ādhipateyyo hoti, bhāvanāya dve vimokkhā tadanvayā honti sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, paṭivedhakālepi suññato vimokkho ādhipateyyo hoti, paṭivedhāya dve vimokkhā tadanvayā honti, sahajātapaccayā honti, aññamaññapaccayā honti, nissayapaccayā honti, sampayuttapaccayā honti, ekarasā honti, ekarasaṭṭhena bhāvanā, dassanaṭṭhena paṭivedho, evaṁ paṭivijjhantopi bhāveti, bhāventopi paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:99.1",
+      "pali": "Aniccato manasikaroto katamo vimokkho adhimatto hoti?"
+    },
+    {
+      "id": "ps1.5:99.2",
+      "pali": "Katamavimokkhassa adhimattattā saddhāvimutto hoti?"
+    },
+    {
+      "id": "ps1.5:99.3",
+      "pali": "Dukkhato manasikaroto katamo vimokkho adhimatto hoti?"
+    },
+    {
+      "id": "ps1.5:99.4",
+      "pali": "Katamavimokkhassa adhimattattā kāyasakkhī hoti?"
+    },
+    {
+      "id": "ps1.5:99.5",
+      "pali": "Anattato manasikaroto katamo vimokkho adhimatto hoti?"
+    },
+    {
+      "id": "ps1.5:99.6",
+      "pali": "Katamavimokkhassa adhimattattā diṭṭhippatto hoti?"
+    },
+    {
+      "id": "ps1.5:100.1",
+      "pali": "Aniccato manasikaroto animitto vimokkho adhimatto hoti."
+    },
+    {
+      "id": "ps1.5:100.2",
+      "pali": "Animittavimokkhassa adhimattattā saddhāvimutto hoti."
+    },
+    {
+      "id": "ps1.5:100.3",
+      "pali": "Dukkhato manasikaroto appaṇihito vimokkho adhimatto hoti."
+    },
+    {
+      "id": "ps1.5:100.4",
+      "pali": "Appaṇihitavimokkhassa adhimattattā kāyasakkhī hoti."
+    },
+    {
+      "id": "ps1.5:100.5",
+      "pali": "Anattato manasikaroto suññato vimokkho adhimatto hoti."
+    },
+    {
+      "id": "ps1.5:100.6",
+      "pali": "Suññatavimokkhassa adhimattattā diṭṭhippatto hoti."
+    },
+    {
+      "id": "ps1.5:101.1",
+      "pali": "Saddahanto vimuttoti—"
+    },
+    {
+      "id": "ps1.5:101.2",
+      "pali": "saddhāvimutto."
+    },
+    {
+      "id": "ps1.5:101.3",
+      "pali": "Phuṭṭhattā sacchikatoti—"
+    },
+    {
+      "id": "ps1.5:101.4",
+      "pali": "kāyasakkhī."
+    },
+    {
+      "id": "ps1.5:101.5",
+      "pali": "Diṭṭhattā pattoti—"
+    },
+    {
+      "id": "ps1.5:101.6",
+      "pali": "diṭṭhippatto."
+    },
+    {
+      "id": "ps1.5:101.7",
+      "pali": "Saddahanto vimuccatīti—"
+    },
+    {
+      "id": "ps1.5:101.8",
+      "pali": "saddhāvimutto."
+    },
+    {
+      "id": "ps1.5:101.9",
+      "pali": "Jhānaphassaṁ paṭhamaṁ phusati, pacchā nirodhaṁ nibbānaṁ sacchikarotīti—"
+    },
+    {
+      "id": "ps1.5:101.10",
+      "pali": "kāyasakkhī."
+    },
+    {
+      "id": "ps1.5:101.11",
+      "pali": "“Dukkhā saṅkhārā, sukho nirodho”ti viññātaṁ hoti diṭṭhaṁ viditaṁ sacchikataṁ phassitaṁ paññāyāti—"
+    },
+    {
+      "id": "ps1.5:101.12",
+      "pali": "diṭṭhippatto …pe…"
+    },
+    {
+      "id": "ps1.5:101.13",
+      "pali": "ye hi keci nekkhammaṁ bhāvitā vā bhāventi vā bhāvissanti vā …pe…"
+    },
+    {
+      "id": "ps1.5:101.14",
+      "pali": "sabbe te animittavimokkhassa vasena saddhāvimuttā, appaṇihitavimokkhassa vasena kāyasakkhī, suññatavimokkhassa vasena diṭṭhippattā."
+    },
+    {
+      "id": "ps1.5:102.1",
+      "pali": "Ye hi keci abyāpādaṁ …"
+    },
+    {
+      "id": "ps1.5:102.2",
+      "pali": "ālokasaññaṁ …"
+    },
+    {
+      "id": "ps1.5:102.3",
+      "pali": "avikkhepaṁ …"
+    },
+    {
+      "id": "ps1.5:102.4",
+      "pali": "ye hi keci dukkhaṁ parijānanti, samudayaṁ pajahanti, nirodhaṁ sacchikaronti, maggaṁ bhāventi, sabbe te animittavimokkhassa vasena saddhāvimuttā, appaṇihitavimokkhassa vasena kāyasakkhī, suññatavimokkhassa vasena diṭṭhippattā."
+    },
+    {
+      "id": "ps1.5:103.1",
+      "pali": "Katihākārehi saccappaṭivedho hoti?"
+    },
+    {
+      "id": "ps1.5:103.2",
+      "pali": "Katihākārehi saccāni paṭivijjhati?"
+    },
+    {
+      "id": "ps1.5:103.3",
+      "pali": "Catūhākārehi saccappaṭivedho hoti."
+    },
+    {
+      "id": "ps1.5:103.4",
+      "pali": "Catūhākārehi saccāni paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:103.5",
+      "pali": "Dukkhasaccaṁ pariññāpaṭivedhaṁ paṭivijjhati, samudayasaccaṁ pahānapaṭivedhaṁ paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:103.6",
+      "pali": "Nirodhasaccaṁ sacchikiriyāpaṭivedhaṁ paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:103.7",
+      "pali": "Maggasaccaṁ bhāvanāpaṭivedhaṁ paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:103.8",
+      "pali": "Imehi catūhākārehi saccappaṭivedho hoti."
+    },
+    {
+      "id": "ps1.5:103.9",
+      "pali": "Imehi catūhākārehi saccāni paṭivijjhanto animittavimokkhassa vasena saddhāvimutto, appaṇihitavimokkhassa vasena kāyasakkhī, suññatavimokkhassa vasena diṭṭhippatto."
+    },
+    {
+      "id": "ps1.5:104.1",
+      "pali": "Katihākārehi saccappaṭivedho hoti?"
+    },
+    {
+      "id": "ps1.5:104.2",
+      "pali": "Katihākārehi saccāni paṭivijjhati?"
+    },
+    {
+      "id": "ps1.5:104.3",
+      "pali": "Navahākārehi saccappaṭivedho hoti."
+    },
+    {
+      "id": "ps1.5:104.4",
+      "pali": "Navahākārehi saccāni paṭivijjhati."
+    },
+    {
+      "id": "ps1.5:104.5",
+      "pali": "Dukkhasaccaṁ pariññāpaṭivedhaṁ paṭivijjhati …pe…"
+    },
+    {
+      "id": "ps1.5:104.6",
+      "pali": "sacchikiriyāpaṭivedho ca nirodhassa."
+    },
+    {
+      "id": "ps1.5:104.7",
+      "pali": "Imehi navahākārehi saccappaṭivedho hoti."
+    },
+    {
+      "id": "ps1.5:104.8",
+      "pali": "Imehi navahākārehi saccāni paṭivijjhanto animittavimokkhassa vasena saddhāvimutto, appaṇihitavimokkhassa vasena kāyasakkhī, suññatavimokkhassa vasena diṭṭhippatto."
+    },
+    {
+      "id": "ps1.5:105.1",
+      "pali": "Aniccato manasikaronto katame dhamme yathābhūtaṁ jānāti passati?"
+    },
+    {
+      "id": "ps1.5:105.2",
+      "pali": "Kathaṁ sammādassanaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:105.3",
+      "pali": "Kathaṁ tadanvayena sabbe saṅkhārā aniccato sudiṭṭhā honti?"
+    },
+    {
+      "id": "ps1.5:105.4",
+      "pali": "Kattha kaṅkhā pahīyati?"
+    },
+    {
+      "id": "ps1.5:105.5",
+      "pali": "Dukkhato manasikaronto katame dhamme yathābhūtaṁ jānāti passati?"
+    },
+    {
+      "id": "ps1.5:105.6",
+      "pali": "Kathaṁ sammādassanaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:105.7",
+      "pali": "Kathaṁ tadanvayena sabbe saṅkhārā dukkhato sudiṭṭhā honti?"
+    },
+    {
+      "id": "ps1.5:105.8",
+      "pali": "Kattha kaṅkhā pahīyati?"
+    },
+    {
+      "id": "ps1.5:105.9",
+      "pali": "Anattato manasikaronto katame dhamme yathābhūtaṁ jānāti passati?"
+    },
+    {
+      "id": "ps1.5:105.10",
+      "pali": "Kathaṁ sammādassanaṁ hoti?"
+    },
+    {
+      "id": "ps1.5:105.11",
+      "pali": "Kathaṁ tadanvayena sabbe dhammā anattato sudiṭṭhā honti?"
+    },
+    {
+      "id": "ps1.5:105.12",
+      "pali": "Kattha kaṅkhā pahīyati?"
+    },
+    {
+      "id": "ps1.5:106.1",
+      "pali": "Aniccato manasikaronto nimittaṁ yathābhūtaṁ jānāti passati;"
+    },
+    {
+      "id": "ps1.5:106.2",
+      "pali": "tena vuccati—"
+    },
+    {
+      "id": "ps1.5:106.3",
+      "pali": "“sammādassanaṁ”."
+    },
+    {
+      "id": "ps1.5:106.4",
+      "pali": "Evaṁ tadanvayena sabbe saṅkhārā aniccato sudiṭṭhā honti."
+    },
+    {
+      "id": "ps1.5:106.5",
+      "pali": "Ettha kaṅkhā pahīyati."
+    },
+    {
+      "id": "ps1.5:106.6",
+      "pali": "Dukkhato manasikaronto pavattaṁ yathābhūtaṁ jānāti passati;"
+    },
+    {
+      "id": "ps1.5:106.7",
+      "pali": "tena vuccati—"
+    },
+    {
+      "id": "ps1.5:106.8",
+      "pali": "“sammādassanaṁ”."
+    },
+    {
+      "id": "ps1.5:106.9",
+      "pali": "Evaṁ tadanvayena sabbe saṅkhārā dukkhato sudiṭṭhā honti."
+    },
+    {
+      "id": "ps1.5:106.10",
+      "pali": "Ettha kaṅkhā pahīyati."
+    },
+    {
+      "id": "ps1.5:106.11",
+      "pali": "Anattato manasikaronto nimittañca pavattañca yathābhūtaṁ jānāti passati;"
+    },
+    {
+      "id": "ps1.5:106.12",
+      "pali": "tena vuccati—"
+    },
+    {
+      "id": "ps1.5:106.13",
+      "pali": "“sammādassanaṁ”."
+    },
+    {
+      "id": "ps1.5:106.14",
+      "pali": "Evaṁ tadanvayena sabbe dhammā anattato sudiṭṭhā honti."
+    },
+    {
+      "id": "ps1.5:106.15",
+      "pali": "Ettha kaṅkhā pahīyati."
+    },
+    {
+      "id": "ps1.5:107.1",
+      "pali": "Yañca yathābhūtaṁ ñāṇaṁ yañca sammādassanaṁ yā ca kaṅkhāvitaraṇā, ime dhammā nānatthā ceva nānābyañjanā ca, udāhu ekatthā, byañjanameva nānanti?"
+    },
+    {
+      "id": "ps1.5:107.2",
+      "pali": "Yañca yathābhūtaṁ ñāṇaṁ yañca sammādassanaṁ yā ca kaṅkhāvitaraṇā, ime dhammā ekatthā, byañjanameva nānaṁ."
+    },
+    {
+      "id": "ps1.5:108.1",
+      "pali": "Aniccato manasikaroto kiṁ bhayato upaṭṭhāti?"
+    },
+    {
+      "id": "ps1.5:108.2",
+      "pali": "Dukkhato manasikaroto kiṁ bhayato upaṭṭhāti?"
+    },
+    {
+      "id": "ps1.5:108.3",
+      "pali": "Anattato manasikaroto kiṁ bhayato upaṭṭhāti?"
+    },
+    {
+      "id": "ps1.5:108.4",
+      "pali": "Aniccato manasikaroto nimittaṁ bhayato upaṭṭhāti."
+    },
+    {
+      "id": "ps1.5:108.5",
+      "pali": "Dukkhato manasikaroto pavattaṁ bhayato upaṭṭhāti."
+    },
+    {
+      "id": "ps1.5:108.6",
+      "pali": "Anattato manasikaroto nimittañca pavattañca bhayato upaṭṭhāti."
+    },
+    {
+      "id": "ps1.5:109.1",
+      "pali": "Yā ca bhayatupaṭṭhāne paññā yañca ādīnave ñāṇaṁ yā ca nibbidā, ime dhammā nānatthā ceva nānābyañjanā ca, udāhu ekatthā, byañjanameva nānanti?"
+    },
+    {
+      "id": "ps1.5:109.2",
+      "pali": "Yā ca bhayatupaṭṭhāne paññā yañca ādīnave ñāṇaṁ yā ca nibbidā, ime dhammā ekatthā, byañjanameva nānaṁ."
+    },
+    {
+      "id": "ps1.5:110.1",
+      "pali": "Yā ca anattānupassanā yā ca suññatānupassanā, ime dhammā nānatthā ceva nānābyañjanā ca, udāhu ekatthā, byañjanameva nānanti?"
+    },
+    {
+      "id": "ps1.5:110.2",
+      "pali": "Yā ca anattānupassanā yā ca suññatānupassanā, ime dhammā ekatthā, byañjanameva nānaṁ."
+    },
+    {
+      "id": "ps1.5:111.1",
+      "pali": "Aniccato manasikaroto kiṁ paṭisaṅkhā ñāṇaṁ uppajjati?"
+    },
+    {
+      "id": "ps1.5:111.2",
+      "pali": "Dukkhato manasikaroto kiṁ paṭisaṅkhā ñāṇaṁ uppajjati?"
+    },
+    {
+      "id": "ps1.5:111.3",
+      "pali": "Anattato manasikaroto kiṁ paṭisaṅkhā ñāṇaṁ uppajjati?"
+    },
+    {
+      "id": "ps1.5:111.4",
+      "pali": "Aniccato manasikaroto nimittaṁ paṭisaṅkhā ñāṇaṁ uppajjati."
+    },
+    {
+      "id": "ps1.5:111.5",
+      "pali": "Dukkhato manasikaroto pavattaṁ paṭisaṅkhā ñāṇaṁ uppajjati."
+    },
+    {
+      "id": "ps1.5:111.6",
+      "pali": "Anattato manasikaroto nimittañca pavattañca paṭisaṅkhā ñāṇaṁ uppajjati."
+    },
+    {
+      "id": "ps1.5:112.1",
+      "pali": "Yā ca muccitukamyatā yā ca paṭisaṅkhānupassanā yā ca saṅkhārupekkhā, ime dhammā nānatthā ceva nānābyañjanā ca, udāhu ekatthā, byañjanameva nānanti?"
+    },
+    {
+      "id": "ps1.5:112.2",
+      "pali": "Yā ca muccitukamyatā yā ca paṭisaṅkhānupassanā yā ca saṅkhārupekkhā, ime dhammā ekatthā, byañjanameva nānaṁ."
+    },
+    {
+      "id": "ps1.5:113.1",
+      "pali": "Aniccato manasikaroto kuto cittaṁ vuṭṭhāti, kattha cittaṁ pakkhandati?"
+    },
+    {
+      "id": "ps1.5:113.2",
+      "pali": "Dukkhato manasikaroto kuto cittaṁ vuṭṭhāti, kattha cittaṁ pakkhandati?"
+    },
+    {
+      "id": "ps1.5:113.3",
+      "pali": "Anattato manasikaroto kuto cittaṁ vuṭṭhāti, kattha cittaṁ pakkhandati?"
+    },
+    {
+      "id": "ps1.5:113.4",
+      "pali": "Aniccato manasikaroto nimittā cittaṁ vuṭṭhāti, animitte cittaṁ pakkhandati."
+    },
+    {
+      "id": "ps1.5:113.5",
+      "pali": "Dukkhato manasikaroto pavattā cittaṁ vuṭṭhāti, appavatte cittaṁ pakkhandati."
+    },
+    {
+      "id": "ps1.5:113.6",
+      "pali": "Anattato manasikaroto nimittā ca pavattā ca cittaṁ vuṭṭhāti, animitte appavatte nirodhe nibbānadhātuyā cittaṁ pakkhandati."
+    },
+    {
+      "id": "ps1.5:114.1",
+      "pali": "Yā ca bahiddhāvuṭṭhānavivaṭṭane paññā ye ca gotrabhū dhammā, ime dhammā nānatthā ceva nānābyañjanā ca, udāhu ekatthā, byañjanameva nānanti?"
+    },
+    {
+      "id": "ps1.5:114.2",
+      "pali": "Yā ca bahiddhāvuṭṭhānavivaṭṭane paññā ye ca gotrabhū dhammā, ime dhammā ekatthā, byañjanameva nānaṁ."
+    },
+    {
+      "id": "ps1.5:115.1",
+      "pali": "Aniccato manasikaronto katamena vimokkhena vimuccati?"
+    },
+    {
+      "id": "ps1.5:115.2",
+      "pali": "Dukkhato manasikaronto katamena vimokkhena vimuccati?"
+    },
+    {
+      "id": "ps1.5:115.3",
+      "pali": "Anattato manasikaronto katamena vimokkhena vimuccati?"
+    },
+    {
+      "id": "ps1.5:115.4",
+      "pali": "Aniccato manasikaronto animittavimokkhena vimuccati."
+    },
+    {
+      "id": "ps1.5:115.5",
+      "pali": "Dukkhato manasikaronto appaṇihitavimokkhena vimuccati."
+    },
+    {
+      "id": "ps1.5:115.6",
+      "pali": "Anattato manasikaronto suññatavimokkhena vimuccati."
+    },
+    {
+      "id": "ps1.5:116.1",
+      "pali": "Yā ca dubhato vuṭṭhānavivaṭṭane paññā yañca magge ñāṇaṁ, ime dhammā nānatthā ceva nānābyañjanā ca, udāhu ekatthā, byañjanameva nānanti?"
+    },
+    {
+      "id": "ps1.5:116.2",
+      "pali": "Yā ca dubhato vuṭṭhānavivaṭṭane paññā yañca magge ñāṇaṁ, ime dhammā ekatthā, byañjanameva nānaṁ."
+    },
+    {
+      "id": "ps1.5:117.1",
+      "pali": "Katihākārehi tayo vimokkhā nānākkhaṇe honti?"
+    },
+    {
+      "id": "ps1.5:117.2",
+      "pali": "Katihākārehi tayo vimokkhā ekakkhaṇe honti?"
+    },
+    {
+      "id": "ps1.5:117.3",
+      "pali": "Catūhākārehi tayo vimokkhā nānākkhaṇe honti."
+    },
+    {
+      "id": "ps1.5:117.4",
+      "pali": "Sattahākārehi tayo vimokkhā ekakkhaṇe honti."
+    },
+    {
+      "id": "ps1.5:118.1",
+      "pali": "Katamehi catūhākārehi tayo vimokkhā nānākkhaṇe honti?"
+    },
+    {
+      "id": "ps1.5:118.2",
+      "pali": "Ādhipateyyaṭṭhena, adhiṭṭhānaṭṭhena, abhinīhāraṭṭhena, niyyānaṭṭhena."
+    },
+    {
+      "id": "ps1.5:118.3",
+      "pali": "Kathaṁ ādhipateyyaṭṭhena tayo vimokkhā nānākkhaṇe honti?"
+    },
+    {
+      "id": "ps1.5:118.4",
+      "pali": "Aniccato manasikaroto animitto vimokkho ādhipateyyo hoti, dukkhato manasikaroto appaṇihito vimokkho ādhipateyyo hoti, anattato manasikaroto suññato vimokkho ādhipateyyo hoti."
+    },
+    {
+      "id": "ps1.5:118.5",
+      "pali": "Evaṁ ādhipateyyaṭṭhena tayo vimokkhā nānākkhaṇe honti."
+    },
+    {
+      "id": "ps1.5:119.1",
+      "pali": "Kathaṁ adhiṭṭhānaṭṭhena tayo vimokkhā nānākkhaṇe honti?"
+    },
+    {
+      "id": "ps1.5:119.2",
+      "pali": "Aniccato manasikaronto animittavimokkhassa vasena cittaṁ adhiṭṭhāti, dukkhato manasikaronto appaṇihitavimokkhassa vasena cittaṁ adhiṭṭhāti, anattato manasikaronto suññatavimokkhassa vasena cittaṁ adhiṭṭhāti."
+    },
+    {
+      "id": "ps1.5:119.3",
+      "pali": "Evaṁ adhiṭṭhānaṭṭhena tayo vimokkhā nānākkhaṇe honti."
+    },
+    {
+      "id": "ps1.5:120.1",
+      "pali": "Kathaṁ abhinīhāraṭṭhena tayo vimokkhā nānākkhaṇe honti?"
+    },
+    {
+      "id": "ps1.5:120.2",
+      "pali": "Aniccato manasikaronto animittavimokkhassa vasena cittaṁ abhinīharati, dukkhato manasikaronto appaṇihitavimokkhassa vasena cittaṁ abhinīharati, anattato manasikaronto suññatavimokkhassa vasena cittaṁ abhinīharati."
+    },
+    {
+      "id": "ps1.5:120.3",
+      "pali": "Evaṁ abhinīhāraṭṭhena tayo vimokkhā nānākkhaṇe honti."
+    },
+    {
+      "id": "ps1.5:121.1",
+      "pali": "Kathaṁ niyyānaṭṭhena tayo vimokkhā nānākkhaṇe honti?"
+    },
+    {
+      "id": "ps1.5:121.2",
+      "pali": "Aniccato manasikaronto animittavimokkhassa vasena nirodhaṁ nibbānaṁ niyyāti, dukkhato manasikaronto appaṇihitavimokkhassa vasena nirodhaṁ nibbānaṁ niyyāti, anattato manasikaronto suññatavimokkhassa vasena nirodhaṁ nibbānaṁ niyyāti."
+    },
+    {
+      "id": "ps1.5:121.3",
+      "pali": "Evaṁ niyyānaṭṭhena tayo vimokkhā nānākkhaṇe honti."
+    },
+    {
+      "id": "ps1.5:121.4",
+      "pali": "Imehi catūhākārehi tayo vimokkhā nānākkhaṇe honti."
+    },
+    {
+      "id": "ps1.5:122.1",
+      "pali": "Katamehi sattahākārehi tayo vimokkhā ekakkhaṇe honti?"
+    },
+    {
+      "id": "ps1.5:122.2",
+      "pali": "Samodhānaṭṭhena, adhigamanaṭṭhena, paṭilābhaṭṭhena paṭivedhaṭṭhena, sacchikiriyaṭṭhena, phassanaṭṭhena, abhisamayaṭṭhena."
+    },
+    {
+      "id": "ps1.5:122.3",
+      "pali": "Kathaṁ samodhānaṭṭhena adhigamanaṭṭhena paṭilābhaṭṭhena paṭivedhaṭṭhena sacchikiriyaṭṭhena phassanaṭṭhena abhisamayaṭṭhena tayo vimokkhā ekakkhaṇe honti?"
+    },
+    {
+      "id": "ps1.5:122.4",
+      "pali": "Aniccato manasikaronto nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:122.5",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:122.6",
+      "pali": "Yato muccati, tattha na paṇidahatīti—"
+    },
+    {
+      "id": "ps1.5:122.7",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:122.8",
+      "pali": "Yattha na paṇidahati, tena suññoti—"
+    },
+    {
+      "id": "ps1.5:122.9",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:122.10",
+      "pali": "Yena suñño, tena nimittena animittoti—"
+    },
+    {
+      "id": "ps1.5:122.11",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:122.12",
+      "pali": "Evaṁ samodhānaṭṭhena adhigamanaṭṭhena paṭilābhaṭṭhena paṭivedhaṭṭhena sacchikiriyaṭṭhena phassanaṭṭhena abhisamayaṭṭhena tayo vimokkhā ekakkhaṇe honti."
+    },
+    {
+      "id": "ps1.5:123.1",
+      "pali": "Dukkhato manasikaronto paṇidhiyā muccatīti—"
+    },
+    {
+      "id": "ps1.5:123.2",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:123.3",
+      "pali": "Yattha na paṇidahati, tena suññoti—"
+    },
+    {
+      "id": "ps1.5:123.4",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:123.5",
+      "pali": "Yena suñño, tena nimittena animittoti—"
+    },
+    {
+      "id": "ps1.5:123.6",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:123.7",
+      "pali": "Yena nimittena animitto, tattha na paṇidahatīti—"
+    },
+    {
+      "id": "ps1.5:123.8",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:123.9",
+      "pali": "Evaṁ samodhānaṭṭhena adhigamanaṭṭhena paṭilābhaṭṭhena paṭivedhaṭṭhena sacchikiriyaṭṭhena phassanaṭṭhena abhisamayaṭṭhena tayo vimokkhā ekakkhaṇe honti."
+    },
+    {
+      "id": "ps1.5:124.1",
+      "pali": "Anattato manasikaronto abhinivesā muccatīti—"
+    },
+    {
+      "id": "ps1.5:124.2",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:124.3",
+      "pali": "Yena suñño, tena nimittena animittoti—"
+    },
+    {
+      "id": "ps1.5:124.4",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:124.5",
+      "pali": "Yena nimittena animitto, tattha na paṇidahatīti—"
+    },
+    {
+      "id": "ps1.5:124.6",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:124.7",
+      "pali": "Yattha na paṇidahati, tena suññoti—"
+    },
+    {
+      "id": "ps1.5:124.8",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:124.9",
+      "pali": "Evaṁ samodhānaṭṭhena adhigamanaṭṭhena paṭilābhaṭṭhena paṭivedhaṭṭhena sacchikiriyaṭṭhena phassanaṭṭhena abhisamayaṭṭhena tayo vimokkhā ekakkhaṇe honti."
+    },
+    {
+      "id": "ps1.5:124.10",
+      "pali": "Imehi sattahākārehi tayo vimokkhā ekakkhaṇe honti."
+    },
+    {
+      "id": "ps1.5:125.1",
+      "pali": "Atthi vimokkho, atthi mukhaṁ, atthi vimokkhamukhaṁ, atthi vimokkhapaccanīkaṁ, atthi vimokkhānulomaṁ, atthi vimokkhavivaṭṭo, atthi vimokkhabhāvanā, atthi vimokkhappaṭippassaddhi."
+    },
+    {
+      "id": "ps1.5:126.1",
+      "pali": "Katamo <b>vimokkho?</b>"
+    },
+    {
+      "id": "ps1.5:126.2",
+      "pali": "Suññato vimokkho, animitto vimokkho, appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:126.3",
+      "pali": "Katamo suññato vimokkho?"
+    },
+    {
+      "id": "ps1.5:126.4",
+      "pali": "Aniccānupassanañāṇaṁ niccato abhinivesā muccatīti—"
+    },
+    {
+      "id": "ps1.5:126.5",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:126.6",
+      "pali": "Dukkhānupassanañāṇaṁ sukhato abhinivesā muccatīti—"
+    },
+    {
+      "id": "ps1.5:126.7",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:126.8",
+      "pali": "Anattānupassanañāṇaṁ attato abhinivesā muccatīti—"
+    },
+    {
+      "id": "ps1.5:126.9",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:126.10",
+      "pali": "Nibbidānupassanañāṇaṁ nandiyā abhinivesā muccatīti—"
+    },
+    {
+      "id": "ps1.5:126.11",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:126.12",
+      "pali": "Virāgānupassanañāṇaṁ rāgato abhinivesā muccatīti—"
+    },
+    {
+      "id": "ps1.5:126.13",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:126.14",
+      "pali": "Nirodhānupassanañāṇaṁ samudayato abhinivesā muccatīti—"
+    },
+    {
+      "id": "ps1.5:126.15",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:126.16",
+      "pali": "Paṭinissaggānupassanañāṇaṁ ādānato abhinivesā muccatīti—"
+    },
+    {
+      "id": "ps1.5:126.17",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:126.18",
+      "pali": "Animittānupassanañāṇaṁ nimittato abhinivesā muccatīti—"
+    },
+    {
+      "id": "ps1.5:126.19",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:126.20",
+      "pali": "Appaṇihitānupassanañāṇaṁ paṇidhiyā abhinivesā muccatīti—"
+    },
+    {
+      "id": "ps1.5:126.21",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:126.22",
+      "pali": "Suññatānupassanañāṇaṁ sabbābhinivesehi muccatīti—"
+    },
+    {
+      "id": "ps1.5:126.23",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:127.1",
+      "pali": "Rūpe aniccānupassanañāṇaṁ niccato abhinivesā muccatīti—"
+    },
+    {
+      "id": "ps1.5:127.2",
+      "pali": "suññato vimokkho …pe…"
+    },
+    {
+      "id": "ps1.5:127.3",
+      "pali": "rūpe suññatānupassanañāṇaṁ sabbābhinivesehi muccatīti—"
+    },
+    {
+      "id": "ps1.5:127.4",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:127.5",
+      "pali": "Vedanāya …pe…"
+    },
+    {
+      "id": "ps1.5:127.6",
+      "pali": "saññāya …"
+    },
+    {
+      "id": "ps1.5:127.7",
+      "pali": "saṅkhāresu …"
+    },
+    {
+      "id": "ps1.5:127.8",
+      "pali": "viññāṇe …"
+    },
+    {
+      "id": "ps1.5:127.9",
+      "pali": "cakkhusmiṁ …pe…"
+    },
+    {
+      "id": "ps1.5:127.10",
+      "pali": "jarāmaraṇe aniccānupassanañāṇaṁ niccato abhinivesā muccatīti—"
+    },
+    {
+      "id": "ps1.5:127.11",
+      "pali": "suññato vimokkho …pe…"
+    },
+    {
+      "id": "ps1.5:127.12",
+      "pali": "jarāmaraṇe suññatānupassanañāṇaṁ sabbābhinivesehi muccatīti—"
+    },
+    {
+      "id": "ps1.5:127.13",
+      "pali": "suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:127.14",
+      "pali": "Ayaṁ suññato vimokkho."
+    },
+    {
+      "id": "ps1.5:128.1",
+      "pali": "Katamo animitto vimokkho?"
+    },
+    {
+      "id": "ps1.5:128.2",
+      "pali": "Aniccānupassanañāṇaṁ niccato nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:128.3",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:128.4",
+      "pali": "Dukkhānupassanañāṇaṁ sukhato nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:128.5",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:128.6",
+      "pali": "Anattānupassanañāṇaṁ attato nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:128.7",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:128.8",
+      "pali": "Nibbidānupassanañāṇaṁ nandiyā nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:128.9",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:128.10",
+      "pali": "Virāgānupassanañāṇaṁ rāgato nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:128.11",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:128.12",
+      "pali": "Nirodhānupassanañāṇaṁ samudayato nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:128.13",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:128.14",
+      "pali": "Paṭinissaggānupassanañāṇaṁ ādānato nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:128.15",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:128.16",
+      "pali": "Animittānupassanañāṇaṁ sabbanimittehi muccatīti—"
+    },
+    {
+      "id": "ps1.5:128.17",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:128.18",
+      "pali": "Appaṇihitānupassanañāṇaṁ paṇidhiyā nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:128.19",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:128.20",
+      "pali": "Suññatānupassanañāṇaṁ abhinivesato nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:128.21",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:129.1",
+      "pali": "Rūpe aniccānupassanañāṇaṁ niccato nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:129.2",
+      "pali": "animitto vimokkho …pe…"
+    },
+    {
+      "id": "ps1.5:129.3",
+      "pali": "rūpe animittānupassanañāṇaṁ sabbanimittehi muccatīti—"
+    },
+    {
+      "id": "ps1.5:129.4",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:129.5",
+      "pali": "Rūpe appaṇihitānupassanañāṇaṁ paṇidhiyā nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:129.6",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:129.7",
+      "pali": "Rūpe suññatānupassanañāṇaṁ abhinivesato nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:129.8",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:129.9",
+      "pali": "Vedanāya …pe…"
+    },
+    {
+      "id": "ps1.5:129.10",
+      "pali": "saññāya …"
+    },
+    {
+      "id": "ps1.5:129.11",
+      "pali": "saṅkhāresu …"
+    },
+    {
+      "id": "ps1.5:129.12",
+      "pali": "viññāṇe …"
+    },
+    {
+      "id": "ps1.5:129.13",
+      "pali": "cakkhusmiṁ …pe…"
+    },
+    {
+      "id": "ps1.5:129.14",
+      "pali": "jarāmaraṇe aniccānupassanañāṇaṁ niccato nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:129.15",
+      "pali": "animitto vimokkho …pe…"
+    },
+    {
+      "id": "ps1.5:129.16",
+      "pali": "jarāmaraṇe aniccānupassanañāṇaṁ sabbanimittehi muccatīti—"
+    },
+    {
+      "id": "ps1.5:129.17",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:129.18",
+      "pali": "Jarāmaraṇe appaṇihitānupassanañāṇaṁ paṇidhiyā nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:129.19",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:129.20",
+      "pali": "Jarāmaraṇe suññatānupassanañāṇaṁ abhinivesato nimittā muccatīti—"
+    },
+    {
+      "id": "ps1.5:129.21",
+      "pali": "animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:129.22",
+      "pali": "Ayaṁ animitto vimokkho."
+    },
+    {
+      "id": "ps1.5:130.1",
+      "pali": "Katamo appaṇihito vimokkho?"
+    },
+    {
+      "id": "ps1.5:130.2",
+      "pali": "Aniccānupassanañāṇaṁ niccato paṇidhiyā muccatīti—"
+    },
+    {
+      "id": "ps1.5:130.3",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:130.4",
+      "pali": "Dukkhānupassanañāṇaṁ sukhato paṇidhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:130.5",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:130.6",
+      "pali": "Anattānupassanañāṇaṁ attato paṇidhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:130.7",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:130.8",
+      "pali": "Nibbidānupassanañāṇaṁ nandiyā paṇidhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:130.9",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:130.10",
+      "pali": "Virāgānupassanañāṇaṁ rāgato paṇidhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:130.11",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:130.12",
+      "pali": "Nirodhānupassanañāṇaṁ samudayato paṇidhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:130.13",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:130.14",
+      "pali": "Paṭinissaggānupassanañāṇaṁ ādānato paṇidhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:130.15",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:130.16",
+      "pali": "Animittānupassanañāṇaṁ nimittato paṇidhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:130.17",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:130.18",
+      "pali": "Appaṇihitānupassanañāṇaṁ sabbapaṇidhīhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:130.19",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:130.20",
+      "pali": "Suññatānupassanañāṇaṁ abhinivesato paṇidhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:130.21",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:131.1",
+      "pali": "Rūpe aniccānupassanañāṇaṁ niccato paṇidhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:131.2",
+      "pali": "appaṇihito vimokkho …pe…"
+    },
+    {
+      "id": "ps1.5:131.3",
+      "pali": "rūpe appaṇihitānupassanañāṇaṁ sabbapaṇidhīhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:131.4",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:131.5",
+      "pali": "Rūpe suññatānupassanañāṇaṁ abhinivesato paṇidhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:131.6",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:131.7",
+      "pali": "Vedanāya …pe…"
+    },
+    {
+      "id": "ps1.5:131.8",
+      "pali": "saññāya …"
+    },
+    {
+      "id": "ps1.5:131.9",
+      "pali": "saṅkhāresu …"
+    },
+    {
+      "id": "ps1.5:131.10",
+      "pali": "viññāṇe …"
+    },
+    {
+      "id": "ps1.5:131.11",
+      "pali": "cakkhusmiṁ …pe…"
+    },
+    {
+      "id": "ps1.5:131.12",
+      "pali": "jarāmaraṇe aniccānupassanañāṇaṁ niccato paṇidhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:131.13",
+      "pali": "appaṇihito vimokkho …pe…"
+    },
+    {
+      "id": "ps1.5:131.14",
+      "pali": "jarāmaraṇe appaṇihitānupassanañāṇaṁ sabbapaṇidhīhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:131.15",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:131.16",
+      "pali": "Jarāmaraṇe suññatānupassanañāṇaṁ abhinivesato paṇidhi muccatīti—"
+    },
+    {
+      "id": "ps1.5:131.17",
+      "pali": "appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:131.18",
+      "pali": "Ayaṁ appaṇihito vimokkho."
+    },
+    {
+      "id": "ps1.5:131.19",
+      "pali": "Ayaṁ vimokkho."
+    },
+    {
+      "id": "ps1.5:132.1",
+      "pali": "Katamaṁ <b>mukhaṁ?</b>"
+    },
+    {
+      "id": "ps1.5:132.2",
+      "pali": "Ye tattha jātā anavajjakusalā bodhipakkhiyā dhammā, idaṁ mukhaṁ."
+    },
+    {
+      "id": "ps1.5:133.1",
+      "pali": "Katamaṁ <b>vimokkhamukhaṁ?</b>"
+    },
+    {
+      "id": "ps1.5:133.2",
+      "pali": "Yaṁ tesaṁ dhammānaṁ ārammaṇaṁ nirodho nibbānaṁ, idaṁ vimokkhamukhaṁ."
+    },
+    {
+      "id": "ps1.5:133.3",
+      "pali": "Vimokkhañca mukhañca vimokkhamukhaṁ, idaṁ vimokkhamukhaṁ."
+    },
+    {
+      "id": "ps1.5:134.1",
+      "pali": "Katamaṁ <b>vimokkhapaccanīkaṁ?</b>"
+    },
+    {
+      "id": "ps1.5:134.2",
+      "pali": "Tīṇi akusalamūlāni vimokkhapaccanīkāni, tīṇi duccaritāni vimokkhapaccanīkāni, sabbepi akusalā dhammā vimokkhapaccanīkā, idaṁ vimokkhapaccanīkaṁ."
+    },
+    {
+      "id": "ps1.5:135.1",
+      "pali": "Katamaṁ <b>vimokkhānulomaṁ?</b>"
+    },
+    {
+      "id": "ps1.5:135.2",
+      "pali": "Tīṇi kusalamūlāni vimokkhānulomāni, tīṇi sucaritāni vimokkhānulomāni, sabbepi kusalā dhammā vimokkhānulomā, idaṁ vimokkhānulomaṁ."
+    },
+    {
+      "id": "ps1.5:136.1",
+      "pali": "Katamo <b>vimokkhavivaṭṭo?</b>"
+    },
+    {
+      "id": "ps1.5:136.2",
+      "pali": "Saññāvivaṭṭo, cetovivaṭṭo, cittavivaṭṭo, ñāṇavivaṭṭo, vimokkhavivaṭṭo, saccavivaṭṭo."
+    },
+    {
+      "id": "ps1.5:136.3",
+      "pali": "Sañjānanto vivaṭṭatīti—"
+    },
+    {
+      "id": "ps1.5:136.4",
+      "pali": "saññāvivaṭṭo."
+    },
+    {
+      "id": "ps1.5:136.5",
+      "pali": "Cetayanto vivaṭṭatīti—"
+    },
+    {
+      "id": "ps1.5:136.6",
+      "pali": "cetovivaṭṭo."
+    },
+    {
+      "id": "ps1.5:136.7",
+      "pali": "Vijānanto vivaṭṭatīti—"
+    },
+    {
+      "id": "ps1.5:136.8",
+      "pali": "cittavivaṭṭo."
+    },
+    {
+      "id": "ps1.5:136.9",
+      "pali": "Ñāṇaṁ karonto vivaṭṭatīti—"
+    },
+    {
+      "id": "ps1.5:136.10",
+      "pali": "ñāṇavivaṭṭo."
+    },
+    {
+      "id": "ps1.5:136.11",
+      "pali": "Vosajjanto vivaṭṭatīti—"
+    },
+    {
+      "id": "ps1.5:136.12",
+      "pali": "vimokkhavivaṭṭo."
+    },
+    {
+      "id": "ps1.5:136.13",
+      "pali": "Tathaṭṭhena vivaṭṭatīti—"
+    },
+    {
+      "id": "ps1.5:136.14",
+      "pali": "saccavivaṭṭo."
+    },
+    {
+      "id": "ps1.5:137.1",
+      "pali": "Yattha saññāvivaṭṭo tattha cetovivaṭṭo, yattha cetovivaṭṭo tattha saññāvivaṭṭo, yattha saññāvivaṭṭo cetovivaṭṭo tattha cittavivaṭṭo, yattha cittavivaṭṭo tattha saññāvivaṭṭo cetovivaṭṭo."
+    },
+    {
+      "id": "ps1.5:137.2",
+      "pali": "Yattha saññāvivaṭṭo cetovivaṭṭo cittavivaṭṭo tattha ñāṇavivaṭṭo, yattha ñāṇavivaṭṭo tattha saññāvivaṭṭo cetovivaṭṭo cittavivaṭṭo."
+    },
+    {
+      "id": "ps1.5:137.3",
+      "pali": "Yattha saññāvivaṭṭo cetovivaṭṭo cittavivaṭṭo ñāṇavivaṭṭo tattha vimokkhavivaṭṭo, yattha vimokkhavivaṭṭo tattha saññāvivaṭṭo cetovivaṭṭo cittavivaṭṭo ñāṇavivaṭṭo."
+    },
+    {
+      "id": "ps1.5:137.4",
+      "pali": "Yattha saññāvivaṭṭo cetovivaṭṭo cittavivaṭṭo ñāṇavivaṭṭo vimokkhavivaṭṭo tattha saccavivaṭṭo, yattha saccavivaṭṭo tattha saññāvivaṭṭo cetovivaṭṭo cittavivaṭṭo ñāṇavivaṭṭo vimokkhavivaṭṭo."
+    },
+    {
+      "id": "ps1.5:137.5",
+      "pali": "Ayaṁ vimokkhavivaṭṭo."
+    },
+    {
+      "id": "ps1.5:138.1",
+      "pali": "Katamā <b>vimokkhabhāvanā?</b>"
+    },
+    {
+      "id": "ps1.5:138.2",
+      "pali": "Paṭhamassa jhānassa āsevanā bhāvanā bahulīkammaṁ, dutiyassa jhānassa āsevanā bhāvanā bahulīkammaṁ, tatiyassa jhānassa āsevanā bhāvanā bahulīkammaṁ, catutthassa jhānassa āsevanā bhāvanā bahulīkammaṁ, ākāsānañcāyatanasamāpattiyā āsevanā bhāvanā bahulīkammaṁ, viññāṇañcāyatanasamāpattiyā …pe…"
+    },
+    {
+      "id": "ps1.5:138.3",
+      "pali": "ākiñcaññāyatanasamāpattiyā …"
+    },
+    {
+      "id": "ps1.5:138.4",
+      "pali": "nevasaññānāsaññāyatanasamāpattiyā āsevanā bhāvanā bahulīkammaṁ, sotāpattimaggassa āsevanā bhāvanā bahulīkammaṁ, sakadāgāmimaggassa āsevanā bhāvanā bahulīkammaṁ, anāgāmimaggassa āsevanā bhāvanā bahulīkammaṁ, arahattamaggassa āsevanā bhāvanā bahulīkammaṁ, ayaṁ vimokkhabhāvanā."
+    },
+    {
+      "id": "ps1.5:139.1",
+      "pali": "Katamā <b>vimokkhappaṭippassaddhi?</b>"
+    },
+    {
+      "id": "ps1.5:139.2",
+      "pali": "Paṭhamassa jhānassa paṭilābho vā vipāko vā, dutiyassa jhānassa paṭilābho vā vipāko vā, tatiyassa jhānassa …pe…"
+    },
+    {
+      "id": "ps1.5:139.3",
+      "pali": "catutthassa jhānassa …"
+    },
+    {
+      "id": "ps1.5:139.4",
+      "pali": "ākāsānañcāyatanasamāpattiyā …"
+    },
+    {
+      "id": "ps1.5:139.5",
+      "pali": "viññāṇañcāyatanasamāpattiyā …"
+    },
+    {
+      "id": "ps1.5:139.6",
+      "pali": "ākiñcaññāyatanasamāpattiyā …"
+    },
+    {
+      "id": "ps1.5:139.7",
+      "pali": "nevasaññānāsaññāyatanasamāpattiyā paṭilābho vā vipāko vā, sotāpattimaggassa sotāpattiphalaṁ, sakadāgāmimaggassa sakadāgāmiphalaṁ, anāgāmimaggassa anāgāmiphalaṁ, arahattamaggassa arahattaphalaṁ, ayaṁ vimokkhappaṭippassaddhīti."
+    },
+    {
+      "id": "ps1.5:139.8",
+      "pali": "Vimokkhakathā niṭṭhitā."
+    },
+    {
+      "id": "ps1.5:139.9",
+      "pali": "Tatiyabhāṇavāro."
+    }
+  ]
+}

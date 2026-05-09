@@ -1,0 +1,659 @@
+{
+  "uid": "mn8",
+  "title": "Sallekhasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn8:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn8:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn8:2.1",
+      "pali": "Atha kho āyasmā mahācundo sāyanhasamayaṁ paṭisallānā vuṭṭhito yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā mahācundo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn8:3.1",
+      "pali": "“yā imā, bhante, anekavihitā diṭṭhiyo loke uppajjanti—"
+    },
+    {
+      "id": "mn8:3.2",
+      "pali": "attavādapaṭisaṁyuttā vā lokavādapaṭisaṁyuttā vā—"
+    },
+    {
+      "id": "mn8:3.3",
+      "pali": "ādimeva nu kho, bhante, bhikkhuno manasikaroto evametāsaṁ diṭṭhīnaṁ pahānaṁ hoti, evametāsaṁ diṭṭhīnaṁ paṭinissaggo hotī”ti?"
+    },
+    {
+      "id": "mn8:3.4",
+      "pali": "“Yā imā, cunda, anekavihitā diṭṭhiyo loke uppajjanti—"
+    },
+    {
+      "id": "mn8:3.5",
+      "pali": "attavādapaṭisaṁyuttā vā lokavādapaṭisaṁyuttā vā—"
+    },
+    {
+      "id": "mn8:3.6",
+      "pali": "yattha cetā diṭṭhiyo uppajjanti yattha ca anusenti yattha ca samudācaranti taṁ ‘netaṁ mama, nesohamasmi, na me so attā’ti—evametaṁ yathābhūtaṁ sammappaññā passato evametāsaṁ diṭṭhīnaṁ pahānaṁ hoti, evametāsaṁ diṭṭhīnaṁ paṭinissaggo hoti."
+    },
+    {
+      "id": "mn8:4.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ idhekacco bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja vihareyya."
+    },
+    {
+      "id": "mn8:4.2",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn8:4.3",
+      "pali": "‘sallekhena viharāmī’ti."
+    },
+    {
+      "id": "mn8:4.4",
+      "pali": "Na kho panete, cunda, ariyassa vinaye sallekhā vuccanti."
+    },
+    {
+      "id": "mn8:4.5",
+      "pali": "Diṭṭhadhammasukhavihārā ete ariyassa vinaye vuccanti."
+    },
+    {
+      "id": "mn8:5.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ idhekacco bhikkhu vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja vihareyya."
+    },
+    {
+      "id": "mn8:5.2",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn8:5.3",
+      "pali": "‘sallekhena viharāmī’ti."
+    },
+    {
+      "id": "mn8:5.4",
+      "pali": "Na kho panete, cunda, ariyassa vinaye sallekhā vuccanti."
+    },
+    {
+      "id": "mn8:5.5",
+      "pali": "Diṭṭhadhammasukhavihārā ete ariyassa vinaye vuccanti."
+    },
+    {
+      "id": "mn8:6.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ idhekacco bhikkhu pītiyā ca virāgā upekkhako ca vihareyya, sato ca sampajāno sukhañca kāyena paṭisaṁvedeyya, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja vihareyya."
+    },
+    {
+      "id": "mn8:6.2",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn8:6.3",
+      "pali": "‘sallekhena viharāmī’ti."
+    },
+    {
+      "id": "mn8:6.4",
+      "pali": "Na kho panete, cunda, ariyassa vinaye sallekhā vuccanti."
+    },
+    {
+      "id": "mn8:6.5",
+      "pali": "Diṭṭhadhammasukhavihārā ete ariyassa vinaye vuccanti."
+    },
+    {
+      "id": "mn8:7.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ idhekacco bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja vihareyya."
+    },
+    {
+      "id": "mn8:7.2",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn8:7.3",
+      "pali": "‘sallekhena viharāmī’ti."
+    },
+    {
+      "id": "mn8:7.4",
+      "pali": "Na kho panete, cunda, ariyassa vinaye sallekhā vuccanti."
+    },
+    {
+      "id": "mn8:7.5",
+      "pali": "Diṭṭhadhammasukhavihārā ete ariyassa vinaye vuccanti."
+    },
+    {
+      "id": "mn8:8.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ idhekacco bhikkhu sabbaso rūpasaññānaṁ samatikkamā, paṭighasaññānaṁ atthaṅgamā, nānattasaññānaṁ amanasikārā, ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja vihareyya."
+    },
+    {
+      "id": "mn8:8.2",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn8:8.3",
+      "pali": "‘sallekhena viharāmī’ti."
+    },
+    {
+      "id": "mn8:8.4",
+      "pali": "Na kho panete, cunda, ariyassa vinaye sallekhā vuccanti."
+    },
+    {
+      "id": "mn8:8.5",
+      "pali": "Santā ete vihārā ariyassa vinaye vuccanti."
+    },
+    {
+      "id": "mn8:9.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ idhekacco bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja vihareyya."
+    },
+    {
+      "id": "mn8:9.2",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn8:9.3",
+      "pali": "‘sallekhena viharāmī’ti."
+    },
+    {
+      "id": "mn8:9.4",
+      "pali": "Na kho panete, cunda, ariyassa vinaye sallekhā vuccanti."
+    },
+    {
+      "id": "mn8:9.5",
+      "pali": "Santā ete vihārā ariyassa vinaye vuccanti."
+    },
+    {
+      "id": "mn8:10.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ idhekacco bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja vihareyya."
+    },
+    {
+      "id": "mn8:10.2",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn8:10.3",
+      "pali": "‘sallekhena viharāmī’ti."
+    },
+    {
+      "id": "mn8:10.4",
+      "pali": "Na kho panete, cunda, ariyassa vinaye sallekhā vuccanti."
+    },
+    {
+      "id": "mn8:10.5",
+      "pali": "Santā ete vihārā ariyassa vinaye vuccanti."
+    },
+    {
+      "id": "mn8:11.1",
+      "pali": "Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ idhekacco bhikkhu sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja vihareyya."
+    },
+    {
+      "id": "mn8:11.2",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn8:11.3",
+      "pali": "‘sallekhena viharāmī’ti."
+    },
+    {
+      "id": "mn8:11.4",
+      "pali": "Na kho panete, cunda, ariyassa vinaye sallekhā vuccanti."
+    },
+    {
+      "id": "mn8:11.5",
+      "pali": "Santā ete vihārā ariyassa vinaye vuccanti."
+    },
+    {
+      "id": "mn8:12.1",
+      "pali": "Idha kho pana vo, cunda, sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.2",
+      "pali": "‘Pare vihiṁsakā bhavissanti, mayamettha avihiṁsakā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.3",
+      "pali": "‘Pare pāṇātipātī bhavissanti, mayamettha pāṇātipātā paṭiviratā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.4",
+      "pali": "‘Pare adinnādāyī bhavissanti, mayamettha adinnādānā paṭiviratā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.5",
+      "pali": "‘Pare abrahmacārī bhavissanti, mayamettha brahmacārī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.6",
+      "pali": "‘Pare musāvādī bhavissanti, mayamettha musāvādā paṭiviratā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.7",
+      "pali": "‘Pare pisuṇavācā bhavissanti, mayamettha pisuṇāya vācāya paṭiviratā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.8",
+      "pali": "‘Pare pharusavācā bhavissanti, mayamettha pharusāya vācāya paṭiviratā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.9",
+      "pali": "‘Pare samphappalāpī bhavissanti, mayamettha samphappalāpā paṭiviratā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.10",
+      "pali": "‘Pare abhijjhālū bhavissanti, mayamettha anabhijjhālū bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.11",
+      "pali": "‘Pare byāpannacittā bhavissanti, mayamettha abyāpannacittā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.12",
+      "pali": "‘Pare micchādiṭṭhī bhavissanti, mayamettha sammādiṭṭhī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.13",
+      "pali": "‘Pare micchāsaṅkappā bhavissanti, mayamettha sammāsaṅkappā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.14",
+      "pali": "‘Pare micchāvācā bhavissanti, mayamettha sammāvācā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.15",
+      "pali": "‘Pare micchākammantā bhavissanti, mayamettha sammākammantā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.16",
+      "pali": "‘Pare micchāājīvā bhavissanti, mayamettha sammāājīvā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.17",
+      "pali": "‘Pare micchāvāyāmā bhavissanti, mayamettha sammāvāyāmā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.18",
+      "pali": "‘Pare micchāsatī bhavissanti, mayamettha sammāsatī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.19",
+      "pali": "‘Pare micchāsamādhi bhavissanti, mayamettha sammāsamādhī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.20",
+      "pali": "‘Pare micchāñāṇī bhavissanti, mayamettha sammāñāṇī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.21",
+      "pali": "‘Pare micchāvimuttī bhavissanti, mayamettha sammāvimuttī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.22",
+      "pali": "‘Pare thinamiddhapariyuṭṭhitā bhavissanti, mayamettha vigatathinamiddhā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.23",
+      "pali": "‘Pare uddhatā bhavissanti, mayamettha anuddhatā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.24",
+      "pali": "‘Pare vicikicchī bhavissanti, mayamettha tiṇṇavicikicchā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.25",
+      "pali": "‘Pare kodhanā bhavissanti, mayamettha akkodhanā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.26",
+      "pali": "‘Pare upanāhī bhavissanti, mayamettha anupanāhī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.27",
+      "pali": "‘Pare makkhī bhavissanti, mayamettha amakkhī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.28",
+      "pali": "‘Pare paḷāsī bhavissanti, mayamettha apaḷāsī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.29",
+      "pali": "‘Pare issukī bhavissanti, mayamettha anissukī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.30",
+      "pali": "‘Pare maccharī bhavissanti, mayamettha amaccharī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.31",
+      "pali": "‘Pare saṭhā bhavissanti, mayamettha asaṭhā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.32",
+      "pali": "‘Pare māyāvī bhavissanti, mayamettha amāyāvī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.33",
+      "pali": "‘Pare thaddhā bhavissanti, mayamettha atthaddhā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.34",
+      "pali": "‘Pare atimānī bhavissanti, mayamettha anatimānī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.35",
+      "pali": "‘Pare dubbacā bhavissanti, mayamettha suvacā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.36",
+      "pali": "‘Pare pāpamittā bhavissanti, mayamettha kalyāṇamittā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.37",
+      "pali": "‘Pare pamattā bhavissanti, mayamettha appamattā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.38",
+      "pali": "‘Pare assaddhā bhavissanti, mayamettha saddhā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.39",
+      "pali": "‘Pare ahirikā bhavissanti, mayamettha hirimanā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.40",
+      "pali": "‘Pare anottāpī bhavissanti, mayamettha ottāpī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.41",
+      "pali": "‘Pare appassutā bhavissanti, mayamettha bahussutā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.42",
+      "pali": "‘Pare kusītā bhavissanti, mayamettha āraddhavīriyā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.43",
+      "pali": "‘Pare muṭṭhassatī bhavissanti, mayamettha upaṭṭhitassatī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.44",
+      "pali": "‘Pare duppaññā bhavissanti, mayamettha paññāsampannā bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:12.45",
+      "pali": "‘Pare sandiṭṭhiparāmāsī ādhānaggāhī duppaṭinissaggī bhavissanti, mayamettha asandiṭṭhiparāmāsī anādhānaggāhī suppaṭinissaggī bhavissāmā’ti sallekho karaṇīyo."
+    },
+    {
+      "id": "mn8:13.1",
+      "pali": "Cittuppādampi kho ahaṁ, cunda, kusalesu dhammesu bahukāraṁ vadāmi, ko pana vādo kāyena vācāya anuvidhīyanāsu."
+    },
+    {
+      "id": "mn8:13.2",
+      "pali": "Tasmātiha, cunda, ‘pare vihiṁsakā bhavissanti, mayamettha avihiṁsakā bhavissāmā’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn8:13.3",
+      "pali": "‘Pare pāṇātipātī bhavissanti, mayamettha pāṇātipātā paṭiviratā bhavissāmā’ti cittaṁ uppādetabbaṁ …pe…"
+    },
+    {
+      "id": "mn8:13.4",
+      "pali": "‘pare sandiṭṭhiparāmāsī ādhānaggāhī duppaṭinissaggī bhavissanti, mayamettha asandiṭṭhiparāmāsī anādhānaggāhī suppaṭinissaggī bhavissāmā’ti cittaṁ uppādetabbaṁ."
+    },
+    {
+      "id": "mn8:14.1",
+      "pali": "Seyyathāpi, cunda, visamo maggo assa, tassa añño samo maggo parikkamanāya;"
+    },
+    {
+      "id": "mn8:14.2",
+      "pali": "seyyathā vā pana, cunda, visamaṁ titthaṁ assa, tassa aññaṁ samaṁ titthaṁ parikkamanāya;"
+    },
+    {
+      "id": "mn8:14.3",
+      "pali": "evameva kho, cunda, vihiṁsakassa purisapuggalassa avihiṁsā hoti parikkamanāya, pāṇātipātissa purisapuggalassa pāṇātipātā veramaṇī hoti parikkamanāya, adinnādāyissa purisapuggalassa adinnādānā veramaṇī hoti parikkamanāya, abrahmacārissa purisapuggalassa abrahmacariyā veramaṇī hoti parikkamanāya, musāvādissa purisapuggalassa musāvādā veramaṇī hoti parikkamanāya, pisuṇavācassa purisapuggalassa pisuṇāya vācāya veramaṇī hoti parikkamanāya, pharusavācassa purisapuggalassa pharusāya vācāya veramaṇī hoti parikkamanāya, samphappalāpissa purisapuggalassa samphappalāpā veramaṇī hoti parikkamanāya, abhijjhālussa purisapuggalassa anabhijjhā hoti parikkamanāya, byāpannacittassa purisapuggalassa abyāpādo hoti parikkamanāya."
+    },
+    {
+      "id": "mn8:14.4",
+      "pali": "Micchādiṭṭhissa purisapuggalassa sammādiṭṭhi hoti parikkamanāya, micchāsaṅkappassa purisapuggalassa sammāsaṅkappo hoti parikkamanāya, micchāvācassa purisapuggalassa sammāvācā hoti parikkamanāya, micchākammantassa purisapuggalassa sammākammanto hoti parikkamanāya, micchāājīvassa purisapuggalassa sammāājīvo hoti parikkamanāya, micchāvāyāmassa purisapuggalassa sammāvāyāmo hoti parikkamanāya, micchāsatissa purisapuggalassa sammāsati hoti parikkamanāya, micchāsamādhissa purisapuggalassa sammāsamādhi hoti parikkamanāya, micchāñāṇissa purisapuggalassa sammāñāṇaṁ hoti parikkamanāya, micchāvimuttissa purisapuggalassa sammāvimutti hoti parikkamanāya."
+    },
+    {
+      "id": "mn8:14.5",
+      "pali": "Thinamiddhapariyuṭṭhitassa purisapuggalassa vigatathinamiddhatā hoti parikkamanāya, uddhatassa purisapuggalassa anuddhaccaṁ hoti parikkamanāya, vicikicchissa purisapuggalassa tiṇṇavicikicchatā hoti parikkamanāya, kodhanassa purisapuggalassa akkodho hoti parikkamanāya, upanāhissa purisapuggalassa anupanāho hoti parikkamanāya, makkhissa purisapuggalassa amakkho hoti parikkamanāya, paḷāsissa purisapuggalassa apaḷāso hoti parikkamanāya, issukissa purisapuggalassa anissukitā hoti parikkamanāya, maccharissa purisapuggalassa amacchariyaṁ hoti parikkamanāya, saṭhassa purisapuggalassa asāṭheyyaṁ hoti parikkamanāya, māyāvissa purisapuggalassa amāyā hoti parikkamanāya, thaddhassa purisapuggalassa atthaddhiyaṁ hoti parikkamanāya, atimānissa purisapuggalassa anatimāno hoti parikkamanāya, dubbacassa purisapuggalassa sovacassatā hoti parikkamanāya, pāpamittassa purisapuggalassa kalyāṇamittatā hoti parikkamanāya, pamattassa purisapuggalassa appamādo hoti parikkamanāya, assaddhassa purisapuggalassa saddhā hoti parikkamanāya, ahirikassa purisapuggalassa hirī hoti parikkamanāya, anottāpissa purisapuggalassa ottappaṁ hoti parikkamanāya, appassutassa purisapuggalassa bāhusaccaṁ hoti parikkamanāya, kusītassa purisapuggalassa vīriyārambho hoti parikkamanāya, muṭṭhassatissa purisapuggalassa upaṭṭhitassatitā hoti parikkamanāya, duppaññassa purisapuggalassa paññāsampadā hoti parikkamanāya, sandiṭṭhiparāmāsiādhānaggāhiduppaṭinissaggissa purisapuggalassa asandiṭṭhiparāmāsianādhānaggāhisuppaṭinissaggitā hoti parikkamanāya."
+    },
+    {
+      "id": "mn8:15.1",
+      "pali": "Seyyathāpi, cunda, ye keci akusalā dhammā sabbe te adhobhāgaṅgamanīyā, ye keci kusalā dhammā sabbe te uparibhāgaṅgamanīyā;"
+    },
+    {
+      "id": "mn8:15.2",
+      "pali": "evameva kho, cunda, vihiṁsakassa purisapuggalassa avihiṁsā hoti uparibhāgāya, pāṇātipātissa purisapuggalassa pāṇātipātā veramaṇī hoti uparibhāgāya …pe…"
+    },
+    {
+      "id": "mn8:15.3",
+      "pali": "sandiṭṭhiparāmāsiādhānaggāhiduppaṭinissaggissa purisapuggalassa asandiṭṭhiparāmāsianādhānaggāhisuppaṭinissaggitā hoti uparibhāgāya."
+    },
+    {
+      "id": "mn8:16.1",
+      "pali": "So vata, cunda, attanā palipapalipanno paraṁ palipapalipannaṁ uddharissatīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "mn8:16.2",
+      "pali": "So vata, cunda, attanā apalipapalipanno paraṁ palipapalipannaṁ uddharissatīti ṭhānametaṁ vijjati."
+    },
+    {
+      "id": "mn8:16.3",
+      "pali": "So vata, cunda, attanā adanto avinīto aparinibbuto paraṁ damessati vinessati parinibbāpessatīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "mn8:16.4",
+      "pali": "So vata, cunda, attanā danto vinīto parinibbuto paraṁ damessati vinessati parinibbāpessatīti ṭhānametaṁ vijjati."
+    },
+    {
+      "id": "mn8:16.5",
+      "pali": "Evameva kho, cunda, vihiṁsakassa purisapuggalassa avihiṁsā hoti parinibbānāya, pāṇātipātissa purisapuggalassa pāṇātipātā veramaṇī hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.6",
+      "pali": "Adinnādāyissa purisapuggalassa adinnādānā veramaṇī hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.7",
+      "pali": "Abrahmacārissa purisapuggalassa abrahmacariyā veramaṇī hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.8",
+      "pali": "Musāvādissa purisapuggalassa musāvādā veramaṇī hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.9",
+      "pali": "Pisuṇavācassa purisapuggalassa pisuṇāya vācāya veramaṇī hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.10",
+      "pali": "Pharusavācassa purisapuggalassa pharusāya vācāya veramaṇī hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.11",
+      "pali": "Samphappalāpissa purisapuggalassa samphappalāpā veramaṇī hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.12",
+      "pali": "Abhijjhālussa purisapuggalassa anabhijjhā hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.13",
+      "pali": "Byāpannacittassa purisapuggalassa abyāpādo hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.14",
+      "pali": "Micchādiṭṭhissa purisapuggalassa sammādiṭṭhi hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.15",
+      "pali": "Micchāsaṅkappassa purisapuggalassa sammāsaṅkappo hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.16",
+      "pali": "Micchāvācassa purisapuggalassa sammāvācā hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.17",
+      "pali": "Micchākammantassa purisapuggalassa sammākammanto hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.18",
+      "pali": "Micchāājīvassa purisapuggalassa sammāājīvo hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.19",
+      "pali": "Micchāvāyāmassa purisapuggalassa sammāvāyāmo hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.20",
+      "pali": "Micchāsatissa purisapuggalassa sammāsati hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.21",
+      "pali": "Micchāsamādhissa purisapuggalassa sammāsamādhi hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.22",
+      "pali": "Micchāñāṇissa purisapuggalassa sammāñāṇaṁ hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.23",
+      "pali": "Micchāvimuttissa purisapuggalassa sammāvimutti hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.24",
+      "pali": "Thinamiddhapariyuṭṭhitassa purisapuggalassa vigatathinamiddhatā hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.25",
+      "pali": "Uddhatassa purisapuggalassa anuddhaccaṁ hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.26",
+      "pali": "Vicikicchissa purisapuggalassa tiṇṇavicikicchatā hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.27",
+      "pali": "Kodhanassa purisapuggalassa akkodho hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.28",
+      "pali": "Upanāhissa purisapuggalassa anupanāho hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.29",
+      "pali": "Makkhissa purisapuggalassa amakkho hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.30",
+      "pali": "Paḷāsissa purisapuggalassa apaḷāso hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.31",
+      "pali": "Issukissa purisapuggalassa anissukitā hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.32",
+      "pali": "Maccharissa purisapuggalassa amacchariyaṁ hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.33",
+      "pali": "Saṭhassa purisapuggalassa asāṭheyyaṁ hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.34",
+      "pali": "Māyāvissa purisapuggalassa amāyā hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.35",
+      "pali": "Thaddhassa purisapuggalassa atthaddhiyaṁ hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.36",
+      "pali": "Atimānissa purisapuggalassa anatimāno hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.37",
+      "pali": "Dubbacassa purisapuggalassa sovacassatā hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.38",
+      "pali": "Pāpamittassa purisapuggalassa kalyāṇamittatā hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.39",
+      "pali": "Pamattassa purisapuggalassa appamādo hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.40",
+      "pali": "Assaddhassa purisapuggalassa saddhā hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.41",
+      "pali": "Ahirikassa purisapuggalassa hirī hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.42",
+      "pali": "Anottāpissa purisapuggalassa ottappaṁ hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.43",
+      "pali": "Appassutassa purisapuggalassa bāhusaccaṁ hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.44",
+      "pali": "Kusītassa purisapuggalassa vīriyārambho hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.45",
+      "pali": "Muṭṭhassatissa purisapuggalassa upaṭṭhitassatitā hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.46",
+      "pali": "Duppaññassa purisapuggalassa paññāsampadā hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:16.47",
+      "pali": "Sandiṭṭhiparāmāsiādhānaggāhiduppaṭinissaggissa purisapuggalassa asandiṭṭhiparāmāsianādhānaggāhisuppaṭinissaggitā hoti parinibbānāya."
+    },
+    {
+      "id": "mn8:17.1",
+      "pali": "Iti kho, cunda, desito mayā sallekhapariyāyo, desito cittuppādapariyāyo, desito parikkamanapariyāyo, desito uparibhāgapariyāyo, desito parinibbānapariyāyo."
+    },
+    {
+      "id": "mn8:17.2",
+      "pali": "Yaṁ kho, cunda, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā."
+    },
+    {
+      "id": "mn8:17.3",
+      "pali": "Etāni, cunda, rukkhamūlāni, etāni suññāgārāni, jhāyatha, cunda, mā pamādattha, mā pacchāvippaṭisārino ahuvattha—ayaṁ kho amhākaṁ anusāsanī”ti."
+    },
+    {
+      "id": "mn8:17.4",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn8:17.5",
+      "pali": "Attamano āyasmā mahācundo bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn8:17.6",
+      "pali": "Catuttālīsapadā vuttā,"
+    },
+    {
+      "id": "mn8:17.7",
+      "pali": "sandhayo pañca desitā;"
+    },
+    {
+      "id": "mn8:17.8",
+      "pali": "Sallekho nāma suttanto,"
+    },
+    {
+      "id": "mn8:17.9",
+      "pali": "gambhīro sāgarūpamoti."
+    },
+    {
+      "id": "mn8:17.10",
+      "pali": "Sallekhasuttaṁ niṭṭhitaṁ aṭṭhamaṁ."
+    }
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "uid": "snp1.7",
+  "title": "Vasalasutta",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "snp1.7:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "snp1.7:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "snp1.7:1.3",
+      "pali": "Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "snp1.7:1.4",
+      "pali": "Tena kho pana samayena aggikabhāradvājassa brāhmaṇassa nivesane aggi pajjalito hoti āhuti paggahitā."
+    },
+    {
+      "id": "snp1.7:1.5",
+      "pali": "Atha kho bhagavā sāvatthiyaṁ sapadānaṁ piṇḍāya caramāno yena aggikabhāradvājassa brāhmaṇassa nivesanaṁ tenupasaṅkami."
+    },
+    {
+      "id": "snp1.7:2.1",
+      "pali": "Addasā kho aggikabhāradvājo brāhmaṇo bhagavantaṁ dūratova āgacchantaṁ."
+    },
+    {
+      "id": "snp1.7:2.2",
+      "pali": "Disvāna bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "snp1.7:2.3",
+      "pali": "“tatreva, muṇḍaka;"
+    },
+    {
+      "id": "snp1.7:2.4",
+      "pali": "tatreva, samaṇaka;"
+    },
+    {
+      "id": "snp1.7:2.5",
+      "pali": "tatreva, vasalaka, tiṭṭhāhī”ti."
+    },
+    {
+      "id": "snp1.7:3.1",
+      "pali": "Evaṁ vutte, bhagavā aggikabhāradvājaṁ brāhmaṇaṁ etadavoca:"
+    },
+    {
+      "id": "snp1.7:3.2",
+      "pali": "“jānāsi pana tvaṁ, brāhmaṇa, vasalaṁ vā vasalakaraṇe vā dhamme”ti?"
+    },
+    {
+      "id": "snp1.7:3.3",
+      "pali": "“Na khvāhaṁ, bho gotama, jānāmi vasalaṁ vā vasalakaraṇe vā dhamme;"
+    },
+    {
+      "id": "snp1.7:3.4",
+      "pali": "sādhu me bhavaṁ gotamo tathā dhammaṁ desetu, yathāhaṁ jāneyyaṁ vasalaṁ vā vasalakaraṇe vā dhamme”ti."
+    },
+    {
+      "id": "snp1.7:3.5",
+      "pali": "“Tena hi, brāhmaṇa, suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti."
+    },
+    {
+      "id": "snp1.7:3.6",
+      "pali": "“Evaṁ, bho”ti kho aggikabhāradvājo brāhmaṇo bhagavato paccassosi."
+    },
+    {
+      "id": "snp1.7:3.7",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "snp1.7:4.1",
+      "pali": "“Kodhano upanāhī ca,"
+    },
+    {
+      "id": "snp1.7:4.2",
+      "pali": "pāpamakkhī ca yo naro;"
+    },
+    {
+      "id": "snp1.7:4.3",
+      "pali": "Vipannadiṭṭhi māyāvī,"
+    },
+    {
+      "id": "snp1.7:4.4",
+      "pali": "taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:5.1",
+      "pali": "Ekajaṁ vā dvijaṁ vāpi,"
+    },
+    {
+      "id": "snp1.7:5.2",
+      "pali": "yodha pāṇaṁ vihiṁsati;"
+    },
+    {
+      "id": "snp1.7:5.3",
+      "pali": "Yassa pāṇe dayā natthi,"
+    },
+    {
+      "id": "snp1.7:5.4",
+      "pali": "taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:6.1",
+      "pali": "Yo hanti parirundhati,"
+    },
+    {
+      "id": "snp1.7:6.2",
+      "pali": "gāmāni nigamāni ca;"
+    },
+    {
+      "id": "snp1.7:6.3",
+      "pali": "Niggāhako samaññāto,"
+    },
+    {
+      "id": "snp1.7:6.4",
+      "pali": "taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:7.1",
+      "pali": "Gāme vā yadi vā raññe,"
+    },
+    {
+      "id": "snp1.7:7.2",
+      "pali": "yaṁ paresaṁ mamāyitaṁ;"
+    },
+    {
+      "id": "snp1.7:7.3",
+      "pali": "Theyyā adinnamādeti,"
+    },
+    {
+      "id": "snp1.7:7.4",
+      "pali": "taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:8.1",
+      "pali": "Yo have iṇamādāya,"
+    },
+    {
+      "id": "snp1.7:8.2",
+      "pali": "cujjamāno palāyati;"
+    },
+    {
+      "id": "snp1.7:8.3",
+      "pali": "Na hi te iṇamatthīti,"
+    },
+    {
+      "id": "snp1.7:8.4",
+      "pali": "taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:9.1",
+      "pali": "Yo ve kiñcikkhakamyatā,"
+    },
+    {
+      "id": "snp1.7:9.2",
+      "pali": "panthasmiṁ vajantaṁ janaṁ;"
+    },
+    {
+      "id": "snp1.7:9.3",
+      "pali": "Hantvā kiñcikkhamādeti,"
+    },
+    {
+      "id": "snp1.7:9.4",
+      "pali": "taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:10.1",
+      "pali": "Attahetu parahetu,"
+    },
+    {
+      "id": "snp1.7:10.2",
+      "pali": "dhanahetu ca yo naro;"
+    },
+    {
+      "id": "snp1.7:10.3",
+      "pali": "Sakkhipuṭṭho musā brūti,"
+    },
+    {
+      "id": "snp1.7:10.4",
+      "pali": "taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:11.1",
+      "pali": "Yo ñātīnaṁ sakhīnaṁ vā,"
+    },
+    {
+      "id": "snp1.7:11.2",
+      "pali": "dāresu paṭidissati;"
+    },
+    {
+      "id": "snp1.7:11.3",
+      "pali": "Sāhasā sampiyena vā,"
+    },
+    {
+      "id": "snp1.7:11.4",
+      "pali": "taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:12.1",
+      "pali": "Yo mātaraṁ pitaraṁ vā,"
+    },
+    {
+      "id": "snp1.7:12.2",
+      "pali": "jiṇṇakaṁ gatayobbanaṁ;"
+    },
+    {
+      "id": "snp1.7:12.3",
+      "pali": "Pahu santo na bharati,"
+    },
+    {
+      "id": "snp1.7:12.4",
+      "pali": "taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:13.1",
+      "pali": "Yo mātaraṁ pitaraṁ vā,"
+    },
+    {
+      "id": "snp1.7:13.2",
+      "pali": "Bhātaraṁ bhaginiṁ sasuṁ;"
+    },
+    {
+      "id": "snp1.7:13.3",
+      "pali": "Hanti roseti vācāya,"
+    },
+    {
+      "id": "snp1.7:13.4",
+      "pali": "Taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:14.1",
+      "pali": "Yo atthaṁ pucchito santo,"
+    },
+    {
+      "id": "snp1.7:14.2",
+      "pali": "Anatthamanusāsati;"
+    },
+    {
+      "id": "snp1.7:14.3",
+      "pali": "Paṭicchannena manteti,"
+    },
+    {
+      "id": "snp1.7:14.4",
+      "pali": "Taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:15.1",
+      "pali": "Yo katvā pāpakaṁ kammaṁ,"
+    },
+    {
+      "id": "snp1.7:15.2",
+      "pali": "Mā maṁ jaññāti icchati;"
+    },
+    {
+      "id": "snp1.7:15.3",
+      "pali": "Yo paṭicchannakammanto,"
+    },
+    {
+      "id": "snp1.7:15.4",
+      "pali": "Taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:16.1",
+      "pali": "Yo ve parakulaṁ gantvā,"
+    },
+    {
+      "id": "snp1.7:16.2",
+      "pali": "Bhutvāna sucibhojanaṁ;"
+    },
+    {
+      "id": "snp1.7:16.3",
+      "pali": "Āgataṁ nappaṭipūjeti,"
+    },
+    {
+      "id": "snp1.7:16.4",
+      "pali": "Taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:17.1",
+      "pali": "Yo brāhmaṇaṁ samaṇaṁ vā,"
+    },
+    {
+      "id": "snp1.7:17.2",
+      "pali": "Aññaṁ vāpi vanibbakaṁ;"
+    },
+    {
+      "id": "snp1.7:17.3",
+      "pali": "Musāvādena vañceti,"
+    },
+    {
+      "id": "snp1.7:17.4",
+      "pali": "Taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:18.1",
+      "pali": "Yo brāhmaṇaṁ samaṇaṁ vā,"
+    },
+    {
+      "id": "snp1.7:18.2",
+      "pali": "Bhattakāle upaṭṭhite;"
+    },
+    {
+      "id": "snp1.7:18.3",
+      "pali": "Roseti vācā na ca deti,"
+    },
+    {
+      "id": "snp1.7:18.4",
+      "pali": "Taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:19.1",
+      "pali": "Asataṁ yodha pabrūti,"
+    },
+    {
+      "id": "snp1.7:19.2",
+      "pali": "Mohena paliguṇṭhito;"
+    },
+    {
+      "id": "snp1.7:19.3",
+      "pali": "Kiñcikkhaṁ nijigīsāno,"
+    },
+    {
+      "id": "snp1.7:19.4",
+      "pali": "Taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:20.1",
+      "pali": "Yo cattānaṁ samukkaṁse,"
+    },
+    {
+      "id": "snp1.7:20.2",
+      "pali": "Pare ca mavajānāti;"
+    },
+    {
+      "id": "snp1.7:20.3",
+      "pali": "Nihīno sena mānena,"
+    },
+    {
+      "id": "snp1.7:20.4",
+      "pali": "Taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:21.1",
+      "pali": "Rosako kadariyo ca,"
+    },
+    {
+      "id": "snp1.7:21.2",
+      "pali": "Pāpiccho maccharī saṭho;"
+    },
+    {
+      "id": "snp1.7:21.3",
+      "pali": "Ahiriko anottappī,"
+    },
+    {
+      "id": "snp1.7:21.4",
+      "pali": "Taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:22.1",
+      "pali": "Yo buddhaṁ paribhāsati,"
+    },
+    {
+      "id": "snp1.7:22.2",
+      "pali": "Atha vā tassa sāvakaṁ;"
+    },
+    {
+      "id": "snp1.7:22.3",
+      "pali": "Paribbājaṁ gahaṭṭhaṁ vā,"
+    },
+    {
+      "id": "snp1.7:22.4",
+      "pali": "Taṁ jaññā vasalo iti."
+    },
+    {
+      "id": "snp1.7:23.1",
+      "pali": "Yo ve anarahaṁ santo,"
+    },
+    {
+      "id": "snp1.7:23.2",
+      "pali": "Arahaṁ paṭijānāti;"
+    },
+    {
+      "id": "snp1.7:23.3",
+      "pali": "Coro sabrahmake loke,"
+    },
+    {
+      "id": "snp1.7:23.4",
+      "pali": "Eso kho vasalādhamo;"
+    },
+    {
+      "id": "snp1.7:23.5",
+      "pali": "Ete kho vasalā vuttā,"
+    },
+    {
+      "id": "snp1.7:23.6",
+      "pali": "Mayā yete pakāsitā."
+    },
+    {
+      "id": "snp1.7:24.1",
+      "pali": "Na jaccā vasalo hoti,"
+    },
+    {
+      "id": "snp1.7:24.2",
+      "pali": "Na jaccā hoti brāhmaṇo;"
+    },
+    {
+      "id": "snp1.7:24.3",
+      "pali": "Kammunā vasalo hoti,"
+    },
+    {
+      "id": "snp1.7:24.4",
+      "pali": "Kammunā hoti brāhmaṇo."
+    },
+    {
+      "id": "snp1.7:25.1",
+      "pali": "Tadamināpi jānātha,"
+    },
+    {
+      "id": "snp1.7:25.2",
+      "pali": "Yathāmedaṁ nidassanaṁ;"
+    },
+    {
+      "id": "snp1.7:25.3",
+      "pali": "Caṇḍālaputto sopāko,"
+    },
+    {
+      "id": "snp1.7:25.4",
+      "pali": "Mātaṅgo iti vissuto."
+    },
+    {
+      "id": "snp1.7:26.1",
+      "pali": "So yasaṁ paramaṁ patto,"
+    },
+    {
+      "id": "snp1.7:26.2",
+      "pali": "Mātaṅgo yaṁ sudullabhaṁ;"
+    },
+    {
+      "id": "snp1.7:26.3",
+      "pali": "Āgacchuṁ tassupaṭṭhānaṁ,"
+    },
+    {
+      "id": "snp1.7:26.4",
+      "pali": "Khattiyā brāhmaṇā bahū."
+    },
+    {
+      "id": "snp1.7:27.1",
+      "pali": "Devayānaṁ abhiruyha,"
+    },
+    {
+      "id": "snp1.7:27.2",
+      "pali": "Virajaṁ so mahāpathaṁ;"
+    },
+    {
+      "id": "snp1.7:27.3",
+      "pali": "Kāmarāgaṁ virājetvā,"
+    },
+    {
+      "id": "snp1.7:27.4",
+      "pali": "Brahmalokūpago ahu;"
+    },
+    {
+      "id": "snp1.7:27.5",
+      "pali": "Na naṁ jāti nivāresi,"
+    },
+    {
+      "id": "snp1.7:27.6",
+      "pali": "Brahmalokūpapattiyā."
+    },
+    {
+      "id": "snp1.7:28.1",
+      "pali": "Ajjhāyakakule jātā,"
+    },
+    {
+      "id": "snp1.7:28.2",
+      "pali": "Brāhmaṇā mantabandhavā;"
+    },
+    {
+      "id": "snp1.7:28.3",
+      "pali": "Te ca pāpesu kammesu,"
+    },
+    {
+      "id": "snp1.7:28.4",
+      "pali": "Abhiṇhamupadissare."
+    },
+    {
+      "id": "snp1.7:29.1",
+      "pali": "Diṭṭheva dhamme gārayhā,"
+    },
+    {
+      "id": "snp1.7:29.2",
+      "pali": "Samparāye ca duggati;"
+    },
+    {
+      "id": "snp1.7:29.3",
+      "pali": "Na ne jāti nivāreti,"
+    },
+    {
+      "id": "snp1.7:29.4",
+      "pali": "Duggatyā garahāya vā."
+    },
+    {
+      "id": "snp1.7:30.1",
+      "pali": "Na jaccā vasalo hoti,"
+    },
+    {
+      "id": "snp1.7:30.2",
+      "pali": "Na jaccā hoti brāhmaṇo;"
+    },
+    {
+      "id": "snp1.7:30.3",
+      "pali": "Kammunā vasalo hoti,"
+    },
+    {
+      "id": "snp1.7:30.4",
+      "pali": "Kammunā hoti brāhmaṇo”ti."
+    },
+    {
+      "id": "snp1.7:31.1",
+      "pali": "Evaṁ vutte, aggikabhāradvājo brāhmaṇo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "snp1.7:31.2",
+      "pali": "“abhikkantaṁ, bho gotama …pe…"
+    },
+    {
+      "id": "snp1.7:31.3",
+      "pali": "upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti."
+    },
+    {
+      "id": "snp1.7:31.4",
+      "pali": "Vasalasuttaṁ sattamaṁ."
+    }
+  ]
+}

@@ -1,0 +1,1083 @@
+{
+  "uid": "dn15",
+  "title": "Mahānidānasutta",
+  "nikaya": "dn",
+  "segments": [
+    {
+      "id": "dn15:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "dn15:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā kurūsu viharati kammāsadhammaṁ nāma kurūnaṁ nigamo."
+    },
+    {
+      "id": "dn15:1.3",
+      "pali": "Atha kho āyasmā ānando yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn15:1.4",
+      "pali": "“acchariyaṁ, bhante, abbhutaṁ, bhante."
+    },
+    {
+      "id": "dn15:1.5",
+      "pali": "Yāva gambhīro cāyaṁ, bhante, paṭiccasamuppādo gambhīrāvabhāso ca, atha ca pana me uttānakuttānako viya khāyatī”ti."
+    },
+    {
+      "id": "dn15:1.6",
+      "pali": "“Mā hevaṁ, ānanda, avaca, mā hevaṁ, ānanda, avaca."
+    },
+    {
+      "id": "dn15:1.7",
+      "pali": "Gambhīro cāyaṁ, ānanda, paṭiccasamuppādo gambhīrāvabhāso ca."
+    },
+    {
+      "id": "dn15:1.8",
+      "pali": "Etassa, ānanda, dhammassa ananubodhā appaṭivedhā evamayaṁ pajā tantākulakajātā kulagaṇṭhikajātā muñjapabbajabhūtā apāyaṁ duggatiṁ vinipātaṁ saṁsāraṁ nātivattati."
+    },
+    {
+      "id": "dn15:2.1",
+      "pali": "‘Atthi idappaccayā jarāmaraṇan’ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.2",
+      "pali": "‘Kiṁpaccayā jarāmaraṇan’ti iti ce vadeyya, ‘jātipaccayā jarāmaraṇan’ti iccassa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.3",
+      "pali": "‘Atthi idappaccayā jātī’ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.4",
+      "pali": "‘Kiṁpaccayā jātī’ti iti ce vadeyya, ‘bhavapaccayā jātī’ti iccassa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.5",
+      "pali": "‘Atthi idappaccayā bhavo’ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.6",
+      "pali": "‘Kiṁpaccayā bhavo’ti iti ce vadeyya, ‘upādānapaccayā bhavo’ti iccassa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.7",
+      "pali": "‘Atthi idappaccayā upādānan’ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.8",
+      "pali": "‘Kiṁpaccayā upādānan’ti iti ce vadeyya, ‘taṇhāpaccayā upādānan’ti iccassa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.9",
+      "pali": "‘Atthi idappaccayā taṇhā’ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.10",
+      "pali": "‘Kiṁpaccayā taṇhā’ti iti ce vadeyya, ‘vedanāpaccayā taṇhā’ti iccassa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.11",
+      "pali": "‘Atthi idappaccayā vedanā’ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.12",
+      "pali": "‘Kiṁpaccayā vedanā’ti iti ce vadeyya, ‘phassapaccayā vedanā’ti iccassa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.13",
+      "pali": "‘Atthi idappaccayā phasso’ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.14",
+      "pali": "‘Kiṁpaccayā phasso’ti iti ce vadeyya, ‘nāmarūpapaccayā phasso’ti iccassa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.15",
+      "pali": "‘Atthi idappaccayā nāmarūpan’ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.16",
+      "pali": "‘Kiṁpaccayā nāmarūpan’ti iti ce vadeyya, ‘viññāṇapaccayā nāmarūpan’ti iccassa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.17",
+      "pali": "‘Atthi idappaccayā viññāṇan’ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:2.18",
+      "pali": "‘Kiṁpaccayā viññāṇan’ti iti ce vadeyya, ‘nāmarūpapaccayā viññāṇan’ti iccassa vacanīyaṁ."
+    },
+    {
+      "id": "dn15:3.1",
+      "pali": "Iti kho, ānanda, nāmarūpapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti."
+    },
+    {
+      "id": "dn15:3.2",
+      "pali": "Evametassa kevalassa dukkhakkhandhassa samudayo hoti."
+    },
+    {
+      "id": "dn15:4.1",
+      "pali": "‘Jātipaccayā jarāmaraṇan’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā jātipaccayā jarāmaraṇaṁ."
+    },
+    {
+      "id": "dn15:4.2",
+      "pali": "Jāti ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ—"
+    },
+    {
+      "id": "dn15:4.3",
+      "pali": "devānaṁ vā devattāya, gandhabbānaṁ vā gandhabbattāya, yakkhānaṁ vā yakkhattāya, bhūtānaṁ vā bhūtattāya, manussānaṁ vā manussattāya, catuppadānaṁ vā catuppadattāya, pakkhīnaṁ vā pakkhittāya, sarīsapānaṁ vā sarīsapattāya, tesaṁ tesañca hi, ānanda, sattānaṁ tadattāya jāti nābhavissa. Sabbaso jātiyā asati jātinirodhā api nu kho jarāmaraṇaṁ paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:4.4",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:4.5",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo jarāmaraṇassa, yadidaṁ jāti."
+    },
+    {
+      "id": "dn15:5.1",
+      "pali": "‘Bhavapaccayā jātī’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā bhavapaccayā jāti."
+    },
+    {
+      "id": "dn15:5.2",
+      "pali": "Bhavo ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ—"
+    },
+    {
+      "id": "dn15:5.3",
+      "pali": "kāmabhavo vā rūpabhavo vā arūpabhavo vā, sabbaso bhave asati bhavanirodhā api nu kho jāti paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:5.4",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:5.5",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo jātiyā, yadidaṁ bhavo."
+    },
+    {
+      "id": "dn15:6.1",
+      "pali": "‘Upādānapaccayā bhavo’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā upādānapaccayā bhavo."
+    },
+    {
+      "id": "dn15:6.2",
+      "pali": "Upādānañca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ—"
+    },
+    {
+      "id": "dn15:6.3",
+      "pali": "kāmupādānaṁ vā diṭṭhupādānaṁ vā sīlabbatupādānaṁ vā attavādupādānaṁ vā, sabbaso upādāne asati upādānanirodhā api nu kho bhavo paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:6.4",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:6.5",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo bhavassa, yadidaṁ upādānaṁ."
+    },
+    {
+      "id": "dn15:7.1",
+      "pali": "‘Taṇhāpaccayā upādānan’ti iti kho panetaṁ vuttaṁ tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā taṇhāpaccayā upādānaṁ."
+    },
+    {
+      "id": "dn15:7.2",
+      "pali": "Taṇhā ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ—"
+    },
+    {
+      "id": "dn15:7.3",
+      "pali": "rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā, sabbaso taṇhāya asati taṇhānirodhā api nu kho upādānaṁ paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:7.4",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:7.5",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo upādānassa, yadidaṁ taṇhā."
+    },
+    {
+      "id": "dn15:8.1",
+      "pali": "‘Vedanāpaccayā taṇhā’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā vedanāpaccayā taṇhā."
+    },
+    {
+      "id": "dn15:8.2",
+      "pali": "Vedanā ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ—"
+    },
+    {
+      "id": "dn15:8.3",
+      "pali": "cakkhusamphassajā vedanā sotasamphassajā vedanā ghānasamphassajā vedanā jivhāsamphassajā vedanā kāyasamphassajā vedanā manosamphassajā vedanā, sabbaso vedanāya asati vedanānirodhā api nu kho taṇhā paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:8.4",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:8.5",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo taṇhāya, yadidaṁ vedanā."
+    },
+    {
+      "id": "dn15:9.1",
+      "pali": "Iti kho panetaṁ, ānanda, vedanaṁ paṭicca taṇhā, taṇhaṁ paṭicca pariyesanā, pariyesanaṁ paṭicca lābho, lābhaṁ paṭicca vinicchayo, vinicchayaṁ paṭicca chandarāgo, chandarāgaṁ paṭicca ajjhosānaṁ, ajjhosānaṁ paṭicca pariggaho, pariggahaṁ paṭicca macchariyaṁ, macchariyaṁ paṭicca ārakkho."
+    },
+    {
+      "id": "dn15:9.2",
+      "pali": "Ārakkhādhikaraṇaṁ daṇḍādānasatthādānakalahaviggahavivādatuvaṁtuvaṁpesuññamusāvādā aneke pāpakā akusalā dhammā sambhavanti."
+    },
+    {
+      "id": "dn15:10.1",
+      "pali": "‘Ārakkhādhikaraṇaṁ daṇḍādānasatthādānakalahaviggahavivādatuvaṁtuvaṁpesuññamusāvādā aneke pāpakā akusalā dhammā sambhavantī’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā ārakkhādhikaraṇaṁ daṇḍādānasatthādānakalahaviggahavivādatuvaṁtuvaṁpesuññamusāvādā aneke pāpakā akusalā dhammā sambhavanti."
+    },
+    {
+      "id": "dn15:10.2",
+      "pali": "Ārakkho ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, sabbaso ārakkhe asati ārakkhanirodhā api nu kho daṇḍādānasatthādānakalahaviggahavivādatuvaṁtuvaṁpesuññamusāvādā aneke pāpakā akusalā dhammā sambhaveyyun”ti?"
+    },
+    {
+      "id": "dn15:10.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:10.4",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo daṇḍādānasatthādānakalahaviggahavivādatuvaṁtuvaṁpesuññamusāvādānaṁ anekesaṁ pāpakānaṁ akusalānaṁ dhammānaṁ sambhavāya yadidaṁ ārakkho."
+    },
+    {
+      "id": "dn15:11.1",
+      "pali": "‘Macchariyaṁ paṭicca ārakkho’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā macchariyaṁ paṭicca ārakkho."
+    },
+    {
+      "id": "dn15:11.2",
+      "pali": "Macchariyañca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, sabbaso macchariye asati macchariyanirodhā api nu kho ārakkho paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:11.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:11.4",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo ārakkhassa, yadidaṁ macchariyaṁ."
+    },
+    {
+      "id": "dn15:12.1",
+      "pali": "‘Pariggahaṁ paṭicca macchariyan’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā pariggahaṁ paṭicca macchariyaṁ."
+    },
+    {
+      "id": "dn15:12.2",
+      "pali": "Pariggaho ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, sabbaso pariggahe asati pariggahanirodhā api nu kho macchariyaṁ paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:12.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:12.4",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo macchariyassa, yadidaṁ pariggaho."
+    },
+    {
+      "id": "dn15:13.1",
+      "pali": "‘Ajjhosānaṁ paṭicca pariggaho’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā ajjhosānaṁ paṭicca pariggaho."
+    },
+    {
+      "id": "dn15:13.2",
+      "pali": "Ajjhosānañca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, sabbaso ajjhosāne asati ajjhosānanirodhā api nu kho pariggaho paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:13.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:13.4",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo pariggahassa—yadidaṁ ajjhosānaṁ."
+    },
+    {
+      "id": "dn15:14.1",
+      "pali": "‘Chandarāgaṁ paṭicca ajjhosānan’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā chandarāgaṁ paṭicca ajjhosānaṁ."
+    },
+    {
+      "id": "dn15:14.2",
+      "pali": "Chandarāgo ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, sabbaso chandarāge asati chandarāganirodhā api nu kho ajjhosānaṁ paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:14.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:14.4",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo ajjhosānassa, yadidaṁ chandarāgo."
+    },
+    {
+      "id": "dn15:15.1",
+      "pali": "‘Vinicchayaṁ paṭicca chandarāgo’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā vinicchayaṁ paṭicca chandarāgo."
+    },
+    {
+      "id": "dn15:15.2",
+      "pali": "Vinicchayo ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, sabbaso vinicchaye asati vinicchayanirodhā api nu kho chandarāgo paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:15.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:15.4",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo chandarāgassa, yadidaṁ vinicchayo."
+    },
+    {
+      "id": "dn15:16.1",
+      "pali": "‘Lābhaṁ paṭicca vinicchayo’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā lābhaṁ paṭicca vinicchayo."
+    },
+    {
+      "id": "dn15:16.2",
+      "pali": "Lābho ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, sabbaso lābhe asati lābhanirodhā api nu kho vinicchayo paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:16.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:16.4",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo vinicchayassa, yadidaṁ lābho."
+    },
+    {
+      "id": "dn15:17.1",
+      "pali": "‘Pariyesanaṁ paṭicca lābho’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā pariyesanaṁ paṭicca lābho."
+    },
+    {
+      "id": "dn15:17.2",
+      "pali": "Pariyesanā ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, sabbaso pariyesanāya asati pariyesanānirodhā api nu kho lābho paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:17.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:17.4",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo lābhassa, yadidaṁ pariyesanā."
+    },
+    {
+      "id": "dn15:18.1",
+      "pali": "‘Taṇhaṁ paṭicca pariyesanā’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā taṇhaṁ paṭicca pariyesanā."
+    },
+    {
+      "id": "dn15:18.2",
+      "pali": "Taṇhā ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ—"
+    },
+    {
+      "id": "dn15:18.3",
+      "pali": "kāmataṇhā bhavataṇhā vibhavataṇhā, sabbaso taṇhāya asati taṇhānirodhā api nu kho pariyesanā paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:18.4",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:18.5",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo pariyesanāya, yadidaṁ taṇhā."
+    },
+    {
+      "id": "dn15:18.6",
+      "pali": "Iti kho, ānanda, ime dve dhammā dvayena vedanāya ekasamosaraṇā bhavanti."
+    },
+    {
+      "id": "dn15:19.1",
+      "pali": "‘Phassapaccayā vedanā’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā phassapaccayā vedanā."
+    },
+    {
+      "id": "dn15:19.2",
+      "pali": "Phasso ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ—"
+    },
+    {
+      "id": "dn15:19.3",
+      "pali": "cakkhusamphasso sotasamphasso ghānasamphasso jivhāsamphasso kāyasamphasso manosamphasso, sabbaso phasse asati phassanirodhā api nu kho vedanā paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:19.4",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:19.5",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo vedanāya, yadidaṁ phasso."
+    },
+    {
+      "id": "dn15:20.1",
+      "pali": "‘Nāmarūpapaccayā phasso’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā nāmarūpapaccayā phasso."
+    },
+    {
+      "id": "dn15:20.2",
+      "pali": "Yehi, ānanda, ākārehi yehi liṅgehi yehi nimittehi yehi uddesehi nāmakāyassa paññatti hoti, tesu ākāresu tesu liṅgesu tesu nimittesu tesu uddesesu asati api nu kho rūpakāye adhivacanasamphasso paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:20.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:20.4",
+      "pali": "“Yehi, ānanda, ākārehi yehi liṅgehi yehi nimittehi yehi uddesehi rūpakāyassa paññatti hoti, tesu ākāresu …pe… tesu uddesesu asati api nu kho nāmakāye paṭighasamphasso paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:20.5",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:20.6",
+      "pali": "“Yehi, ānanda, ākārehi …pe… yehi uddesehi nāmakāyassa ca rūpakāyassa ca paññatti hoti, tesu ākāresu …pe… tesu uddesesu asati api nu kho adhivacanasamphasso vā paṭighasamphasso vā paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:20.7",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:20.8",
+      "pali": "“Yehi, ānanda, ākārehi …pe… yehi uddesehi nāmarūpassa paññatti hoti, tesu ākāresu …pe… tesu uddesesu asati api nu kho phasso paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:20.9",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:20.10",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo phassassa, yadidaṁ nāmarūpaṁ."
+    },
+    {
+      "id": "dn15:21.1",
+      "pali": "‘Viññāṇapaccayā nāmarūpan’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā viññāṇapaccayā nāmarūpaṁ."
+    },
+    {
+      "id": "dn15:21.2",
+      "pali": "Viññāṇañca hi, ānanda, mātukucchismiṁ na okkamissatha, api nu kho nāmarūpaṁ mātukucchismiṁ samuccissathā”ti?"
+    },
+    {
+      "id": "dn15:21.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:21.4",
+      "pali": "“Viññāṇañca hi, ānanda, mātukucchismiṁ okkamitvā vokkamissatha, api nu kho nāmarūpaṁ itthattāya abhinibbattissathā”ti?"
+    },
+    {
+      "id": "dn15:21.5",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:21.6",
+      "pali": "“Viññāṇañca hi, ānanda, daharasseva sato vocchijjissatha kumārakassa vā kumārikāya vā, api nu kho nāmarūpaṁ vuddhiṁ virūḷhiṁ vepullaṁ āpajjissathā”ti?"
+    },
+    {
+      "id": "dn15:21.7",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:21.8",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo nāmarūpassa—yadidaṁ viññāṇaṁ."
+    },
+    {
+      "id": "dn15:22.1",
+      "pali": "‘Nāmarūpapaccayā viññāṇan’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā nāmarūpapaccayā viññāṇaṁ."
+    },
+    {
+      "id": "dn15:22.2",
+      "pali": "Viññāṇañca hi, ānanda, nāmarūpe patiṭṭhaṁ na labhissatha, api nu kho āyatiṁ jātijarāmaraṇaṁ dukkhasamudayasambhavo paññāyethā”ti?"
+    },
+    {
+      "id": "dn15:22.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:22.4",
+      "pali": "“Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo viññāṇassa yadidaṁ nāmarūpaṁ."
+    },
+    {
+      "id": "dn15:22.5",
+      "pali": "Ettāvatā kho, ānanda, jāyetha vā jīyetha vā mīyetha vā cavetha vā upapajjetha vā."
+    },
+    {
+      "id": "dn15:22.6",
+      "pali": "Ettāvatā adhivacanapatho, ettāvatā niruttipatho, ettāvatā paññattipatho, ettāvatā paññāvacaraṁ, ettāvatā vaṭṭaṁ vattati itthattaṁ paññāpanāya yadidaṁ nāmarūpaṁ saha viññāṇena aññamaññapaccayatā pavattati."
+    },
+    {
+      "id": "dn15:23.1",
+      "pali": "Kittāvatā ca, ānanda, attānaṁ paññapento paññapeti?"
+    },
+    {
+      "id": "dn15:23.2",
+      "pali": "Rūpiṁ vā hi, ānanda, parittaṁ attānaṁ paññapento paññapeti:"
+    },
+    {
+      "id": "dn15:23.3",
+      "pali": "‘rūpī me paritto attā’ti."
+    },
+    {
+      "id": "dn15:23.4",
+      "pali": "Rūpiṁ vā hi, ānanda, anantaṁ attānaṁ paññapento paññapeti:"
+    },
+    {
+      "id": "dn15:23.5",
+      "pali": "‘rūpī me ananto attā’ti."
+    },
+    {
+      "id": "dn15:23.6",
+      "pali": "Arūpiṁ vā hi, ānanda, parittaṁ attānaṁ paññapento paññapeti:"
+    },
+    {
+      "id": "dn15:23.7",
+      "pali": "‘arūpī me paritto attā’ti."
+    },
+    {
+      "id": "dn15:23.8",
+      "pali": "Arūpiṁ vā hi, ānanda, anantaṁ attānaṁ paññapento paññapeti:"
+    },
+    {
+      "id": "dn15:23.9",
+      "pali": "‘arūpī me ananto attā’ti."
+    },
+    {
+      "id": "dn15:24.1",
+      "pali": "Tatrānanda, yo so rūpiṁ parittaṁ attānaṁ paññapento paññapeti."
+    },
+    {
+      "id": "dn15:24.2",
+      "pali": "Etarahi vā so rūpiṁ parittaṁ attānaṁ paññapento paññapeti, tattha bhāviṁ vā so rūpiṁ parittaṁ attānaṁ paññapento paññapeti, ‘atathaṁ vā pana santaṁ tathattāya upakappessāmī’ti iti vā panassa hoti."
+    },
+    {
+      "id": "dn15:24.3",
+      "pali": "Evaṁ santaṁ kho, ānanda, rūpiṁ parittattānudiṭṭhi anusetīti iccālaṁ vacanāya."
+    },
+    {
+      "id": "dn15:24.4",
+      "pali": "Tatrānanda, yo so rūpiṁ anantaṁ attānaṁ paññapento paññapeti."
+    },
+    {
+      "id": "dn15:24.5",
+      "pali": "Etarahi vā so rūpiṁ anantaṁ attānaṁ paññapento paññapeti, tattha bhāviṁ vā so rūpiṁ anantaṁ attānaṁ paññapento paññapeti, ‘atathaṁ vā pana santaṁ tathattāya upakappessāmī’ti iti vā panassa hoti."
+    },
+    {
+      "id": "dn15:24.6",
+      "pali": "Evaṁ santaṁ kho, ānanda, rūpiṁ anantattānudiṭṭhi anusetīti iccālaṁ vacanāya."
+    },
+    {
+      "id": "dn15:24.7",
+      "pali": "Tatrānanda, yo so arūpiṁ parittaṁ attānaṁ paññapento paññapeti."
+    },
+    {
+      "id": "dn15:24.8",
+      "pali": "Etarahi vā so arūpiṁ parittaṁ attānaṁ paññapento paññapeti, tattha bhāviṁ vā so arūpiṁ parittaṁ attānaṁ paññapento paññapeti, ‘atathaṁ vā pana santaṁ tathattāya upakappessāmī’ti iti vā panassa hoti."
+    },
+    {
+      "id": "dn15:24.9",
+      "pali": "Evaṁ santaṁ kho, ānanda, arūpiṁ parittattānudiṭṭhi anusetīti iccālaṁ vacanāya."
+    },
+    {
+      "id": "dn15:24.10",
+      "pali": "Tatrānanda, yo so arūpiṁ anantaṁ attānaṁ paññapento paññapeti."
+    },
+    {
+      "id": "dn15:24.11",
+      "pali": "Etarahi vā so arūpiṁ anantaṁ attānaṁ paññapento paññapeti, tattha bhāviṁ vā so arūpiṁ anantaṁ attānaṁ paññapento paññapeti, ‘atathaṁ vā pana santaṁ tathattāya upakappessāmī’ti iti vā panassa hoti."
+    },
+    {
+      "id": "dn15:24.12",
+      "pali": "Evaṁ santaṁ kho, ānanda, arūpiṁ anantattānudiṭṭhi anusetīti iccālaṁ vacanāya."
+    },
+    {
+      "id": "dn15:24.13",
+      "pali": "Ettāvatā kho, ānanda, attānaṁ paññapento paññapeti."
+    },
+    {
+      "id": "dn15:25.1",
+      "pali": "Kittāvatā ca, ānanda, attānaṁ na paññapento na paññapeti?"
+    },
+    {
+      "id": "dn15:25.2",
+      "pali": "Rūpiṁ vā hi, ānanda, parittaṁ attānaṁ na paññapento na paññapeti:"
+    },
+    {
+      "id": "dn15:25.3",
+      "pali": "‘rūpī me paritto attā’ti."
+    },
+    {
+      "id": "dn15:25.4",
+      "pali": "Rūpiṁ vā hi, ānanda, anantaṁ attānaṁ na paññapento na paññapeti:"
+    },
+    {
+      "id": "dn15:25.5",
+      "pali": "‘rūpī me ananto attā’ti."
+    },
+    {
+      "id": "dn15:25.6",
+      "pali": "Arūpiṁ vā hi, ānanda, parittaṁ attānaṁ na paññapento na paññapeti:"
+    },
+    {
+      "id": "dn15:25.7",
+      "pali": "‘arūpī me paritto attā’ti."
+    },
+    {
+      "id": "dn15:25.8",
+      "pali": "Arūpiṁ vā hi, ānanda, anantaṁ attānaṁ na paññapento na paññapeti:"
+    },
+    {
+      "id": "dn15:25.9",
+      "pali": "‘arūpī me ananto attā’ti."
+    },
+    {
+      "id": "dn15:26.1",
+      "pali": "Tatrānanda, yo so rūpiṁ parittaṁ attānaṁ na paññapento na paññapeti."
+    },
+    {
+      "id": "dn15:26.2",
+      "pali": "Etarahi vā so rūpiṁ parittaṁ attānaṁ na paññapento na paññapeti, tattha bhāviṁ vā so rūpiṁ parittaṁ attānaṁ na paññapento na paññapeti, ‘atathaṁ vā pana santaṁ tathattāya upakappessāmī’ti iti vā panassa na hoti."
+    },
+    {
+      "id": "dn15:26.3",
+      "pali": "Evaṁ santaṁ kho, ānanda, rūpiṁ parittattānudiṭṭhi nānusetīti iccālaṁ vacanāya."
+    },
+    {
+      "id": "dn15:26.4",
+      "pali": "Tatrānanda, yo so rūpiṁ anantaṁ attānaṁ na paññapento na paññapeti."
+    },
+    {
+      "id": "dn15:26.5",
+      "pali": "Etarahi vā so rūpiṁ anantaṁ attānaṁ na paññapento na paññapeti, tattha bhāviṁ vā so rūpiṁ anantaṁ attānaṁ na paññapento na paññapeti, ‘atathaṁ vā pana santaṁ tathattāya upakappessāmī’ti iti vā panassa na hoti."
+    },
+    {
+      "id": "dn15:26.6",
+      "pali": "Evaṁ santaṁ kho, ānanda, rūpiṁ anantattānudiṭṭhi nānusetīti iccālaṁ vacanāya."
+    },
+    {
+      "id": "dn15:26.7",
+      "pali": "Tatrānanda, yo so arūpiṁ parittaṁ attānaṁ na paññapento na paññapeti."
+    },
+    {
+      "id": "dn15:26.8",
+      "pali": "Etarahi vā so arūpiṁ parittaṁ attānaṁ na paññapento na paññapeti, tattha bhāviṁ vā so arūpiṁ parittaṁ attānaṁ na paññapento na paññapeti, ‘atathaṁ vā pana santaṁ tathattāya upakappessāmī’ti iti vā panassa na hoti."
+    },
+    {
+      "id": "dn15:26.9",
+      "pali": "Evaṁ santaṁ kho, ānanda, arūpiṁ parittattānudiṭṭhi nānusetīti iccālaṁ vacanāya."
+    },
+    {
+      "id": "dn15:26.10",
+      "pali": "Tatrānanda, yo so arūpiṁ anantaṁ attānaṁ na paññapento na paññapeti."
+    },
+    {
+      "id": "dn15:26.11",
+      "pali": "Etarahi vā so arūpiṁ anantaṁ attānaṁ na paññapento na paññapeti, tattha bhāviṁ vā so arūpiṁ anantaṁ attānaṁ na paññapento na paññapeti, ‘atathaṁ vā pana santaṁ tathattāya upakappessāmī’ti iti vā panassa na hoti."
+    },
+    {
+      "id": "dn15:26.12",
+      "pali": "Evaṁ santaṁ kho, ānanda, arūpiṁ anantattānudiṭṭhi nānusetīti iccālaṁ vacanāya."
+    },
+    {
+      "id": "dn15:26.13",
+      "pali": "Ettāvatā kho, ānanda, attānaṁ na paññapento na paññapeti."
+    },
+    {
+      "id": "dn15:27.1",
+      "pali": "Kittāvatā ca, ānanda, attānaṁ samanupassamāno samanupassati?"
+    },
+    {
+      "id": "dn15:27.2",
+      "pali": "Vedanaṁ vā hi, ānanda, attānaṁ samanupassamāno samanupassati:"
+    },
+    {
+      "id": "dn15:27.3",
+      "pali": "‘vedanā me attā’ti."
+    },
+    {
+      "id": "dn15:27.4",
+      "pali": "‘Na heva kho me vedanā attā, appaṭisaṁvedano me attā’ti iti vā hi, ānanda, attānaṁ samanupassamāno samanupassati."
+    },
+    {
+      "id": "dn15:27.5",
+      "pali": "‘Na heva kho me vedanā attā, nopi appaṭisaṁvedano me attā, attā me vediyati, vedanādhammo hi me attā’ti iti vā hi, ānanda, attānaṁ samanupassamāno samanupassati."
+    },
+    {
+      "id": "dn15:28.1",
+      "pali": "Tatrānanda, yo so evamāha:"
+    },
+    {
+      "id": "dn15:28.2",
+      "pali": "‘vedanā me attā’ti,"
+    },
+    {
+      "id": "dn15:28.3",
+      "pali": "so evamassa vacanīyo:"
+    },
+    {
+      "id": "dn15:28.4",
+      "pali": "‘tisso kho imā, āvuso, vedanā—"
+    },
+    {
+      "id": "dn15:28.5",
+      "pali": "sukhā vedanā dukkhā vedanā adukkhamasukhā vedanā."
+    },
+    {
+      "id": "dn15:28.6",
+      "pali": "Imāsaṁ kho tvaṁ tissannaṁ vedanānaṁ katamaṁ attato samanupassasī’ti?"
+    },
+    {
+      "id": "dn15:28.7",
+      "pali": "Yasmiṁ, ānanda, samaye sukhaṁ vedanaṁ vedeti, neva tasmiṁ samaye dukkhaṁ vedanaṁ vedeti, na adukkhamasukhaṁ vedanaṁ vedeti;"
+    },
+    {
+      "id": "dn15:28.8",
+      "pali": "sukhaṁyeva tasmiṁ samaye vedanaṁ vedeti."
+    },
+    {
+      "id": "dn15:28.9",
+      "pali": "Yasmiṁ, ānanda, samaye dukkhaṁ vedanaṁ vedeti, neva tasmiṁ samaye sukhaṁ vedanaṁ vedeti, na adukkhamasukhaṁ vedanaṁ vedeti;"
+    },
+    {
+      "id": "dn15:28.10",
+      "pali": "dukkhaṁyeva tasmiṁ samaye vedanaṁ vedeti."
+    },
+    {
+      "id": "dn15:28.11",
+      "pali": "Yasmiṁ, ānanda, samaye adukkhamasukhaṁ vedanaṁ vedeti, neva tasmiṁ samaye sukhaṁ vedanaṁ vedeti, na dukkhaṁ vedanaṁ vedeti;"
+    },
+    {
+      "id": "dn15:28.12",
+      "pali": "adukkhamasukhaṁyeva tasmiṁ samaye vedanaṁ vedeti."
+    },
+    {
+      "id": "dn15:29.1",
+      "pali": "Sukhāpi kho, ānanda, vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā."
+    },
+    {
+      "id": "dn15:29.2",
+      "pali": "Dukkhāpi kho, ānanda, vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā."
+    },
+    {
+      "id": "dn15:29.3",
+      "pali": "Adukkhamasukhāpi kho, ānanda, vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā."
+    },
+    {
+      "id": "dn15:29.4",
+      "pali": "Tassa sukhaṁ vedanaṁ vediyamānassa ‘eso me attā’ti hoti."
+    },
+    {
+      "id": "dn15:29.5",
+      "pali": "Tassāyeva sukhāya vedanāya nirodhā ‘byagā me attā’ti hoti."
+    },
+    {
+      "id": "dn15:29.6",
+      "pali": "Dukkhaṁ vedanaṁ vediyamānassa ‘eso me attā’ti hoti."
+    },
+    {
+      "id": "dn15:29.7",
+      "pali": "Tassāyeva dukkhāya vedanāya nirodhā ‘byagā me attā’ti hoti."
+    },
+    {
+      "id": "dn15:29.8",
+      "pali": "Adukkhamasukhaṁ vedanaṁ vediyamānassa ‘eso me attā’ti hoti."
+    },
+    {
+      "id": "dn15:29.9",
+      "pali": "Tassāyeva adukkhamasukhāya vedanāya nirodhā ‘byagā me attā’ti hoti."
+    },
+    {
+      "id": "dn15:29.10",
+      "pali": "Iti so diṭṭheva dhamme aniccasukhadukkhavokiṇṇaṁ uppādavayadhammaṁ attānaṁ samanupassamāno samanupassati, yo so evamāha: ‘vedanā me attā’ti."
+    },
+    {
+      "id": "dn15:29.11",
+      "pali": "Tasmātihānanda, etena petaṁ nakkhamati: ‘vedanā me attā’ti samanupassituṁ."
+    },
+    {
+      "id": "dn15:30.1",
+      "pali": "Tatrānanda, yo so evamāha:"
+    },
+    {
+      "id": "dn15:30.2",
+      "pali": "‘na heva kho me vedanā attā, appaṭisaṁvedano me attā’ti, so evamassa vacanīyo:"
+    },
+    {
+      "id": "dn15:30.3",
+      "pali": "‘yattha panāvuso, sabbaso vedayitaṁ natthi api nu kho, tattha “ayamahamasmī”ti siyā’”ti?"
+    },
+    {
+      "id": "dn15:30.4",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:30.5",
+      "pali": "“Tasmātihānanda, etena petaṁ nakkhamati: ‘na heva kho me vedanā attā, appaṭisaṁvedano me attā’ti samanupassituṁ."
+    },
+    {
+      "id": "dn15:31.1",
+      "pali": "Tatrānanda, yo so evamāha:"
+    },
+    {
+      "id": "dn15:31.2",
+      "pali": "‘na heva kho me vedanā attā, nopi appaṭisaṁvedano me attā, attā me vediyati, vedanādhammo hi me attā’ti."
+    },
+    {
+      "id": "dn15:31.3",
+      "pali": "So evamassa vacanīyo—"
+    },
+    {
+      "id": "dn15:31.4",
+      "pali": "vedanā ca hi, āvuso, sabbena sabbaṁ sabbathā sabbaṁ aparisesā nirujjheyyuṁ."
+    },
+    {
+      "id": "dn15:31.5",
+      "pali": "Sabbaso vedanāya asati vedanānirodhā api nu kho tattha ‘ayamahamasmī’ti siyā”ti?"
+    },
+    {
+      "id": "dn15:31.6",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:31.7",
+      "pali": "“Tasmātihānanda, etena petaṁ nakkhamati: ‘na heva kho me vedanā attā, nopi appaṭisaṁvedano me attā, attā me vediyati, vedanādhammo hi me attā’ti samanupassituṁ."
+    },
+    {
+      "id": "dn15:32.1",
+      "pali": "Yato kho, ānanda, bhikkhu neva vedanaṁ attānaṁ samanupassati, nopi appaṭisaṁvedanaṁ attānaṁ samanupassati, nopi ‘attā me vediyati, vedanādhammo hi me attā’ti samanupassati."
+    },
+    {
+      "id": "dn15:32.2",
+      "pali": "So evaṁ na samanupassanto na ca kiñci loke upādiyati,"
+    },
+    {
+      "id": "dn15:32.3",
+      "pali": "anupādiyaṁ na paritassati, aparitassaṁ paccattaññeva parinibbāyati,"
+    },
+    {
+      "id": "dn15:32.4",
+      "pali": "‘khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānāti."
+    },
+    {
+      "id": "dn15:32.5",
+      "pali": "Evaṁ vimuttacittaṁ kho, ānanda, bhikkhuṁ yo evaṁ vadeyya:"
+    },
+    {
+      "id": "dn15:32.6",
+      "pali": "‘hoti tathāgato paraṁ maraṇā itissa diṭṭhī’ti, tadakallaṁ."
+    },
+    {
+      "id": "dn15:32.7",
+      "pali": "‘Na hoti tathāgato paraṁ maraṇā itissa diṭṭhī’ti, tadakallaṁ."
+    },
+    {
+      "id": "dn15:32.8",
+      "pali": "‘Hoti ca na ca hoti tathāgato paraṁ maraṇā itissa diṭṭhī’ti, tadakallaṁ."
+    },
+    {
+      "id": "dn15:32.9",
+      "pali": "‘Neva hoti na na hoti tathāgato paraṁ maraṇā itissa diṭṭhī’ti, tadakallaṁ."
+    },
+    {
+      "id": "dn15:32.10",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "dn15:32.11",
+      "pali": "Yāvatā, ānanda, adhivacanaṁ yāvatā adhivacanapatho, yāvatā nirutti yāvatā niruttipatho, yāvatā paññatti yāvatā paññattipatho, yāvatā paññā yāvatā paññāvacaraṁ, yāvatā vaṭṭaṁ, yāvatā vaṭṭati, tadabhiññāvimutto bhikkhu, tadabhiññāvimuttaṁ bhikkhuṁ ‘na jānāti na passati itissa diṭṭhī’ti, tadakallaṁ."
+    },
+    {
+      "id": "dn15:33.1",
+      "pali": "Satta kho, ānanda, viññāṇaṭṭhitiyo, dve āyatanāni."
+    },
+    {
+      "id": "dn15:33.2",
+      "pali": "Katamā satta?"
+    },
+    {
+      "id": "dn15:33.3",
+      "pali": "Santānanda, sattā nānattakāyā nānattasaññino, seyyathāpi manussā, ekacce ca devā, ekacce ca vinipātikā."
+    },
+    {
+      "id": "dn15:33.4",
+      "pali": "Ayaṁ paṭhamā viññāṇaṭṭhiti."
+    },
+    {
+      "id": "dn15:33.5",
+      "pali": "Santānanda, sattā nānattakāyā ekattasaññino, seyyathāpi devā brahmakāyikā paṭhamābhinibbattā."
+    },
+    {
+      "id": "dn15:33.6",
+      "pali": "Ayaṁ dutiyā viññāṇaṭṭhiti."
+    },
+    {
+      "id": "dn15:33.7",
+      "pali": "Santānanda, sattā ekattakāyā nānattasaññino, seyyathāpi devā ābhassarā."
+    },
+    {
+      "id": "dn15:33.8",
+      "pali": "Ayaṁ tatiyā viññāṇaṭṭhiti."
+    },
+    {
+      "id": "dn15:33.9",
+      "pali": "Santānanda, sattā ekattakāyā ekattasaññino, seyyathāpi devā subhakiṇhā."
+    },
+    {
+      "id": "dn15:33.10",
+      "pali": "Ayaṁ catutthī viññāṇaṭṭhiti."
+    },
+    {
+      "id": "dn15:33.11",
+      "pali": "Santānanda, sattā sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanūpagā."
+    },
+    {
+      "id": "dn15:33.12",
+      "pali": "Ayaṁ pañcamī viññāṇaṭṭhiti."
+    },
+    {
+      "id": "dn15:33.13",
+      "pali": "Santānanda, sattā sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanūpagā."
+    },
+    {
+      "id": "dn15:33.14",
+      "pali": "Ayaṁ chaṭṭhī viññāṇaṭṭhiti."
+    },
+    {
+      "id": "dn15:33.15",
+      "pali": "Santānanda, sattā sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanūpagā."
+    },
+    {
+      "id": "dn15:33.16",
+      "pali": "Ayaṁ sattamī viññāṇaṭṭhiti."
+    },
+    {
+      "id": "dn15:33.17",
+      "pali": "Asaññasattāyatanaṁ nevasaññānāsaññāyatanameva dutiyaṁ."
+    },
+    {
+      "id": "dn15:34.1",
+      "pali": "Tatrānanda, yāyaṁ paṭhamā viññāṇaṭṭhiti nānattakāyā nānattasaññino, seyyathāpi manussā, ekacce ca devā, ekacce ca vinipātikā."
+    },
+    {
+      "id": "dn15:34.2",
+      "pali": "Yo nu kho, ānanda, tañca pajānāti, tassā ca samudayaṁ pajānāti, tassā ca atthaṅgamaṁ pajānāti, tassā ca assādaṁ pajānāti, tassā ca ādīnavaṁ pajānāti, tassā ca nissaraṇaṁ pajānāti, kallaṁ nu tena tadabhinanditun”ti?"
+    },
+    {
+      "id": "dn15:34.3",
+      "pali": "“No hetaṁ, bhante” …pe…"
+    },
+    {
+      "id": "dn15:34.4",
+      "pali": "“tatrānanda, yamidaṁ asaññasattāyatanaṁ."
+    },
+    {
+      "id": "dn15:34.5",
+      "pali": "Yo nu kho, ānanda, tañca pajānāti, tassa ca samudayaṁ pajānāti, tassa ca atthaṅgamaṁ pajānāti, tassa ca assādaṁ pajānāti, tassa ca ādīnavaṁ pajānāti, tassa ca nissaraṇaṁ pajānāti, kallaṁ nu tena tadabhinanditun”ti?"
+    },
+    {
+      "id": "dn15:34.6",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:34.7",
+      "pali": "“Tatrānanda, yamidaṁ nevasaññānāsaññāyatanaṁ."
+    },
+    {
+      "id": "dn15:34.8",
+      "pali": "Yo nu kho, ānanda, tañca pajānāti, tassa ca samudayaṁ pajānāti, tassa ca atthaṅgamaṁ pajānāti, tassa ca assādaṁ pajānāti, tassa ca ādīnavaṁ pajānāti, tassa ca nissaraṇaṁ pajānāti, kallaṁ nu tena tadabhinanditun”ti?"
+    },
+    {
+      "id": "dn15:34.9",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "dn15:34.10",
+      "pali": "“Yato kho, ānanda, bhikkhu imāsañca sattannaṁ viññāṇaṭṭhitīnaṁ imesañca dvinnaṁ āyatanānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā anupādā vimutto hoti, ayaṁ vuccatānanda, bhikkhu paññāvimutto."
+    },
+    {
+      "id": "dn15:35.1",
+      "pali": "Aṭṭha kho ime, ānanda, vimokkhā."
+    },
+    {
+      "id": "dn15:35.2",
+      "pali": "Katame aṭṭha?"
+    },
+    {
+      "id": "dn15:35.3",
+      "pali": "Rūpī rūpāni passati"
+    },
+    {
+      "id": "dn15:35.4",
+      "pali": "ayaṁ paṭhamo vimokkho."
+    },
+    {
+      "id": "dn15:35.5",
+      "pali": "Ajjhattaṁ arūpasaññī bahiddhā rūpāni passati,"
+    },
+    {
+      "id": "dn15:35.6",
+      "pali": "ayaṁ dutiyo vimokkho."
+    },
+    {
+      "id": "dn15:35.7",
+      "pali": "Subhanteva adhimutto hoti,"
+    },
+    {
+      "id": "dn15:35.8",
+      "pali": "ayaṁ tatiyo vimokkho."
+    },
+    {
+      "id": "dn15:35.9",
+      "pali": "Sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati,"
+    },
+    {
+      "id": "dn15:35.10",
+      "pali": "ayaṁ catuttho vimokkho."
+    },
+    {
+      "id": "dn15:35.11",
+      "pali": "Sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati,"
+    },
+    {
+      "id": "dn15:35.12",
+      "pali": "ayaṁ pañcamo vimokkho."
+    },
+    {
+      "id": "dn15:35.13",
+      "pali": "Sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati,"
+    },
+    {
+      "id": "dn15:35.14",
+      "pali": "ayaṁ chaṭṭho vimokkho."
+    },
+    {
+      "id": "dn15:35.15",
+      "pali": "Sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati,"
+    },
+    {
+      "id": "dn15:35.16",
+      "pali": "ayaṁ sattamo vimokkho."
+    },
+    {
+      "id": "dn15:35.17",
+      "pali": "Sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharati,"
+    },
+    {
+      "id": "dn15:35.18",
+      "pali": "ayaṁ aṭṭhamo vimokkho."
+    },
+    {
+      "id": "dn15:35.19",
+      "pali": "Ime kho, ānanda, aṭṭha vimokkhā."
+    },
+    {
+      "id": "dn15:36.1",
+      "pali": "Yato kho, ānanda, bhikkhu ime aṭṭha vimokkhe anulomampi samāpajjati, paṭilomampi samāpajjati, anulomapaṭilomampi samāpajjati, yatthicchakaṁ yadicchakaṁ yāvaticchakaṁ samāpajjatipi vuṭṭhātipi."
+    },
+    {
+      "id": "dn15:36.2",
+      "pali": "Āsavānañca khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati, ayaṁ vuccatānanda, bhikkhu ubhatobhāgavimutto."
+    },
+    {
+      "id": "dn15:36.3",
+      "pali": "Imāya ca, ānanda, ubhatobhāgavimuttiyā aññā ubhatobhāgavimutti uttaritarā vā paṇītatarā vā natthī”ti."
+    },
+    {
+      "id": "dn15:36.4",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "dn15:36.5",
+      "pali": "Attamano āyasmā ānando bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "dn15:36.6",
+      "pali": "Mahānidānasuttaṁ niṭṭhitaṁ dutiyaṁ."
+    }
+  ]
+}

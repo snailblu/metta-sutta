@@ -1,0 +1,783 @@
+{
+  "uid": "an10.24",
+  "title": "Mahācundasutta",
+  "nikaya": "an",
+  "segments": [
+    {
+      "id": "an10.24:1.1",
+      "pali": "Ekaṁ samayaṁ āyasmā mahācundo cetīsu viharati sahajātiyaṁ."
+    },
+    {
+      "id": "an10.24:1.2",
+      "pali": "Tatra kho āyasmā mahācundo bhikkhū āmantesi:"
+    },
+    {
+      "id": "an10.24:1.3",
+      "pali": "“āvuso bhikkhave”ti."
+    },
+    {
+      "id": "an10.24:1.4",
+      "pali": "“Āvuso”ti kho te bhikkhū āyasmato mahācundassa paccassosuṁ."
+    },
+    {
+      "id": "an10.24:1.5",
+      "pali": "Āyasmā mahācundo etadavoca:"
+    },
+    {
+      "id": "an10.24:2.1",
+      "pali": "“Ñāṇavādaṁ, āvuso, bhikkhu vadamāno:"
+    },
+    {
+      "id": "an10.24:2.2",
+      "pali": "‘jānāmimaṁ dhammaṁ, passāmimaṁ dhamman’ti."
+    },
+    {
+      "id": "an10.24:2.3",
+      "pali": "Tañce, āvuso, bhikkhuṁ lobho abhibhuyya tiṭṭhati,"
+    },
+    {
+      "id": "an10.24:2.4",
+      "pali": "doso …"
+    },
+    {
+      "id": "an10.24:2.5",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:2.6",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:2.7",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:2.8",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:2.9",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:2.10",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:2.11",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:2.12",
+      "pali": "pāpikā icchā abhibhuyya tiṭṭhati, so evamassa veditabbo:"
+    },
+    {
+      "id": "an10.24:2.13",
+      "pali": "‘nāyamāyasmā tathā pajānāti yathā pajānato lobho na hoti, tathāhimaṁ āyasmantaṁ lobho abhibhuyya tiṭṭhati;"
+    },
+    {
+      "id": "an10.24:2.14",
+      "pali": "nāyamāyasmā tathā pajānāti yathā pajānato doso na hoti …"
+    },
+    {
+      "id": "an10.24:2.15",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:2.16",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:2.17",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:2.18",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:2.19",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:2.20",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:2.21",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:2.22",
+      "pali": "pāpikā icchā na hoti, tathāhimaṁ āyasmantaṁ pāpikā icchā abhibhuyya tiṭṭhatī’ti."
+    },
+    {
+      "id": "an10.24:3.1",
+      "pali": "Bhāvanāvādaṁ, āvuso, bhikkhu vadamāno:"
+    },
+    {
+      "id": "an10.24:3.2",
+      "pali": "‘bhāvitakāyomhi bhāvitasīlo bhāvitacitto bhāvitapañño’ti."
+    },
+    {
+      "id": "an10.24:3.3",
+      "pali": "Tañce, āvuso, bhikkhuṁ lobho abhibhuyya tiṭṭhati,"
+    },
+    {
+      "id": "an10.24:3.4",
+      "pali": "doso …"
+    },
+    {
+      "id": "an10.24:3.5",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:3.6",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:3.7",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:3.8",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:3.9",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:3.10",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:3.11",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:3.12",
+      "pali": "pāpikā icchā abhibhuyya tiṭṭhati, so evamassa veditabbo:"
+    },
+    {
+      "id": "an10.24:3.13",
+      "pali": "‘nāyamāyasmā tathā pajānāti yathā pajānato lobho na hoti, tathāhimaṁ āyasmantaṁ lobho abhibhuyya tiṭṭhati;"
+    },
+    {
+      "id": "an10.24:3.14",
+      "pali": "nāyamāyasmā tathā pajānāti yathā pajānato doso na hoti …"
+    },
+    {
+      "id": "an10.24:3.15",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:3.16",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:3.17",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:3.18",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:3.19",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:3.20",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:3.21",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:3.22",
+      "pali": "pāpikā icchā na hoti, tathāhimaṁ āyasmantaṁ pāpikā icchā abhibhuyya tiṭṭhatī’ti."
+    },
+    {
+      "id": "an10.24:4.1",
+      "pali": "Ñāṇavādañca, āvuso, bhikkhu vadamāno bhāvanāvādañca:"
+    },
+    {
+      "id": "an10.24:4.2",
+      "pali": "‘jānāmimaṁ dhammaṁ, passāmimaṁ dhammaṁ, bhāvitakāyomhi bhāvitasīlo bhāvitacitto bhāvitapañño’ti."
+    },
+    {
+      "id": "an10.24:4.3",
+      "pali": "Tañce, āvuso, bhikkhuṁ lobho abhibhuyya tiṭṭhati,"
+    },
+    {
+      "id": "an10.24:4.4",
+      "pali": "doso …"
+    },
+    {
+      "id": "an10.24:4.5",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:4.6",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:4.7",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:4.8",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:4.9",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:4.10",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:4.11",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:4.12",
+      "pali": "pāpikā icchā abhibhuyya tiṭṭhati, so evamassa veditabbo:"
+    },
+    {
+      "id": "an10.24:4.13",
+      "pali": "‘nāyamāyasmā tathā pajānāti yathā pajānato lobho na hoti, tathāhimaṁ āyasmantaṁ lobho abhibhuyya tiṭṭhati;"
+    },
+    {
+      "id": "an10.24:4.14",
+      "pali": "nāyamāyasmā tathā pajānāti yathā pajānato doso na hoti …"
+    },
+    {
+      "id": "an10.24:4.15",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:4.16",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:4.17",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:4.18",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:4.19",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:4.20",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:4.21",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:4.22",
+      "pali": "pāpikā icchā na hoti, tathāhimaṁ āyasmantaṁ pāpikā icchā abhibhuyya tiṭṭhatī’ti."
+    },
+    {
+      "id": "an10.24:5.1",
+      "pali": "Seyyathāpi, āvuso, puriso daliddova samāno aḍḍhavādaṁ vadeyya, adhanova samāno dhanavāvādaṁ vadeyya, abhogova samāno bhogavāvādaṁ vadeyya."
+    },
+    {
+      "id": "an10.24:5.2",
+      "pali": "So kismiñcideva dhanakaraṇīye samuppanne na sakkuṇeyya upanīhātuṁ dhanaṁ vā dhaññaṁ vā rajataṁ vā jātarūpaṁ vā."
+    },
+    {
+      "id": "an10.24:5.3",
+      "pali": "Tamenaṁ evaṁ jāneyyuṁ:"
+    },
+    {
+      "id": "an10.24:5.4",
+      "pali": "‘daliddova ayamāyasmā samāno aḍḍhavādaṁ vadeti, adhanova ayamāyasmā samāno dhanavāvādaṁ vadeti, abhogavāva ayamāyasmā samāno bhogavāvādaṁ vadeti."
+    },
+    {
+      "id": "an10.24:5.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "an10.24:5.6",
+      "pali": "Tathā hi ayamāyasmā kismiñcideva dhanakaraṇīye samuppanne na sakkoti upanīhātuṁ dhanaṁ vā dhaññaṁ vā rajataṁ vā jātarūpaṁ vā’ti."
+    },
+    {
+      "id": "an10.24:6.1",
+      "pali": "Evamevaṁ kho, āvuso, ñāṇavādañca bhikkhu vadamāno bhāvanāvādañca:"
+    },
+    {
+      "id": "an10.24:6.2",
+      "pali": "‘jānāmimaṁ dhammaṁ, passāmimaṁ dhammaṁ, bhāvitakāyomhi bhāvitasīlo bhāvitacitto bhāvitapañño’ti."
+    },
+    {
+      "id": "an10.24:6.3",
+      "pali": "Tañce, āvuso, bhikkhuṁ lobho abhibhuyya tiṭṭhati,"
+    },
+    {
+      "id": "an10.24:6.4",
+      "pali": "doso …"
+    },
+    {
+      "id": "an10.24:6.5",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:6.6",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:6.7",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:6.8",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:6.9",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:6.10",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:6.11",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:6.12",
+      "pali": "pāpikā icchā abhibhuyya tiṭṭhati, so evamassa veditabbo:"
+    },
+    {
+      "id": "an10.24:6.13",
+      "pali": "‘nāyamāyasmā tathā pajānāti yathā pajānato lobho na hoti, tathāhimaṁ āyasmantaṁ lobho abhibhuyya tiṭṭhati;"
+    },
+    {
+      "id": "an10.24:6.14",
+      "pali": "nāyamāyasmā tathā pajānāti yathā pajānato doso na hoti …"
+    },
+    {
+      "id": "an10.24:6.15",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:6.16",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:6.17",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:6.18",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:6.19",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:6.20",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:6.21",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:6.22",
+      "pali": "pāpikā icchā na hoti, tathāhimaṁ āyasmantaṁ pāpikā icchā abhibhuyya tiṭṭhatī’ti."
+    },
+    {
+      "id": "an10.24:7.1",
+      "pali": "Ñāṇavādaṁ, āvuso, bhikkhu vadamāno:"
+    },
+    {
+      "id": "an10.24:7.2",
+      "pali": "‘jānāmimaṁ dhammaṁ, passāmimaṁ dhamman’ti."
+    },
+    {
+      "id": "an10.24:7.3",
+      "pali": "Tañce, āvuso, bhikkhuṁ lobho nābhibhuyya tiṭṭhati,"
+    },
+    {
+      "id": "an10.24:7.4",
+      "pali": "doso …"
+    },
+    {
+      "id": "an10.24:7.5",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:7.6",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:7.7",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:7.8",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:7.9",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:7.10",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:7.11",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:7.12",
+      "pali": "pāpikā icchā nābhibhuyya tiṭṭhati, so evamassa veditabbo:"
+    },
+    {
+      "id": "an10.24:7.13",
+      "pali": "‘ayamāyasmā tathā pajānāti yathā pajānato lobho na hoti, tathāhimaṁ āyasmantaṁ lobho nābhibhuyya tiṭṭhati;"
+    },
+    {
+      "id": "an10.24:7.14",
+      "pali": "tathā ayamāyasmā pajānāti yathā pajānato doso na hoti …"
+    },
+    {
+      "id": "an10.24:7.15",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:7.16",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:7.17",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:7.18",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:7.19",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:7.20",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:7.21",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:7.22",
+      "pali": "pāpikā icchā na hoti, tathāhimaṁ āyasmantaṁ pāpikā icchā nābhibhuyya tiṭṭhatī’ti."
+    },
+    {
+      "id": "an10.24:8.1",
+      "pali": "Bhāvanāvādaṁ, āvuso, bhikkhu vadamāno:"
+    },
+    {
+      "id": "an10.24:8.2",
+      "pali": "‘bhāvitakāyomhi bhāvitasīlo bhāvitacitto bhāvitapañño’ti."
+    },
+    {
+      "id": "an10.24:8.3",
+      "pali": "Tañce, āvuso, bhikkhuṁ lobho nābhibhuyya tiṭṭhati,"
+    },
+    {
+      "id": "an10.24:8.4",
+      "pali": "doso …"
+    },
+    {
+      "id": "an10.24:8.5",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:8.6",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:8.7",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:8.8",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:8.9",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:8.10",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:8.11",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:8.12",
+      "pali": "pāpikā icchā nābhibhuyya tiṭṭhati, so evamassa veditabbo:"
+    },
+    {
+      "id": "an10.24:8.13",
+      "pali": "‘tathā ayamāyasmā pajānāti yathā pajānato lobho na hoti, tathāhimaṁ āyasmantaṁ lobho nābhibhuyya tiṭṭhati;"
+    },
+    {
+      "id": "an10.24:8.14",
+      "pali": "tathā ayamāyasmā pajānāti yathā pajānato doso na hoti …"
+    },
+    {
+      "id": "an10.24:8.15",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:8.16",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:8.17",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:8.18",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:8.19",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:8.20",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:8.21",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:8.22",
+      "pali": "pāpikā icchā na hoti, tathāhimaṁ āyasmantaṁ pāpikā icchā nābhibhuyya tiṭṭhatī’ti."
+    },
+    {
+      "id": "an10.24:9.1",
+      "pali": "Ñāṇavādañca, āvuso, bhikkhu vadamāno bhāvanāvādañca:"
+    },
+    {
+      "id": "an10.24:9.2",
+      "pali": "‘jānāmimaṁ dhammaṁ, passāmimaṁ dhammaṁ, bhāvitakāyomhi bhāvitasīlo bhāvitacitto bhāvitapañño’ti."
+    },
+    {
+      "id": "an10.24:9.3",
+      "pali": "Tañce, āvuso, bhikkhuṁ lobho nābhibhuyya tiṭṭhati,"
+    },
+    {
+      "id": "an10.24:9.4",
+      "pali": "doso …"
+    },
+    {
+      "id": "an10.24:9.5",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:9.6",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:9.7",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:9.8",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:9.9",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:9.10",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:9.11",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:9.12",
+      "pali": "pāpikā icchā nābhibhuyya tiṭṭhati, so evamassa veditabbo:"
+    },
+    {
+      "id": "an10.24:9.13",
+      "pali": "‘tathā ayamāyasmā pajānāti yathā pajānato lobho na hoti, tathāhimaṁ āyasmantaṁ lobho nābhibhuyya tiṭṭhati;"
+    },
+    {
+      "id": "an10.24:9.14",
+      "pali": "tathā ayamāyasmā pajānāti yathā pajānato doso na hoti …"
+    },
+    {
+      "id": "an10.24:9.15",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:9.16",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:9.17",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:9.18",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:9.19",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:9.20",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:9.21",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:9.22",
+      "pali": "pāpikā icchā na hoti, tathāhimaṁ āyasmantaṁ pāpikā icchā nābhibhuyya tiṭṭhatī’ti."
+    },
+    {
+      "id": "an10.24:10.1",
+      "pali": "Seyyathāpi, āvuso, puriso aḍḍhova samāno aḍḍhavādaṁ vadeyya, dhanavāva samāno dhanavāvādaṁ vadeyya, bhogavāva samāno bhogavāvādaṁ vadeyya."
+    },
+    {
+      "id": "an10.24:10.2",
+      "pali": "So kismiñcideva dhanakaraṇīye samuppanne sakkuṇeyya upanīhātuṁ dhanaṁ vā dhaññaṁ vā rajataṁ vā jātarūpaṁ vā."
+    },
+    {
+      "id": "an10.24:10.3",
+      "pali": "Tamenaṁ evaṁ jāneyyuṁ:"
+    },
+    {
+      "id": "an10.24:10.4",
+      "pali": "‘aḍḍhova ayamāyasmā samāno aḍḍhavādaṁ vadeti, dhanavāva ayamāyasmā samāno dhanavāvādaṁ vadeti, bhogavāva ayamāyasmā samāno bhogavāvādaṁ vadeti."
+    },
+    {
+      "id": "an10.24:10.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "an10.24:10.6",
+      "pali": "Tathā hi ayamāyasmā kismiñcideva dhanakaraṇīye samuppanne sakkoti upanīhātuṁ dhanaṁ vā dhaññaṁ vā rajataṁ vā jātarūpaṁ vā’ti."
+    },
+    {
+      "id": "an10.24:11.1",
+      "pali": "Evamevaṁ kho, āvuso, ñāṇavādañca bhikkhu vadamāno bhāvanāvādañca:"
+    },
+    {
+      "id": "an10.24:11.2",
+      "pali": "‘jānāmimaṁ dhammaṁ, passāmimaṁ dhammaṁ, bhāvitakāyomhi bhāvitasīlo bhāvitacitto bhāvitapañño’ti."
+    },
+    {
+      "id": "an10.24:11.3",
+      "pali": "Tañce, āvuso, bhikkhuṁ lobho nābhibhuyya tiṭṭhati,"
+    },
+    {
+      "id": "an10.24:11.4",
+      "pali": "doso …"
+    },
+    {
+      "id": "an10.24:11.5",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:11.6",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:11.7",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:11.8",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:11.9",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:11.10",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:11.11",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:11.12",
+      "pali": "pāpikā icchā nābhibhuyya tiṭṭhati, so evamassa veditabbo:"
+    },
+    {
+      "id": "an10.24:11.13",
+      "pali": "‘tathā ayamāyasmā pajānāti yathā pajānato lobho na hoti, tathāhimaṁ āyasmantaṁ lobho nābhibhuyya tiṭṭhati;"
+    },
+    {
+      "id": "an10.24:11.14",
+      "pali": "tathā ayamāyasmā pajānāti yathā pajānato doso na hoti …"
+    },
+    {
+      "id": "an10.24:11.15",
+      "pali": "moho …"
+    },
+    {
+      "id": "an10.24:11.16",
+      "pali": "kodho …"
+    },
+    {
+      "id": "an10.24:11.17",
+      "pali": "upanāho …"
+    },
+    {
+      "id": "an10.24:11.18",
+      "pali": "makkho …"
+    },
+    {
+      "id": "an10.24:11.19",
+      "pali": "paḷāso …"
+    },
+    {
+      "id": "an10.24:11.20",
+      "pali": "macchariyaṁ …"
+    },
+    {
+      "id": "an10.24:11.21",
+      "pali": "pāpikā issā …"
+    },
+    {
+      "id": "an10.24:11.22",
+      "pali": "pāpikā icchā na hoti, tathāhimaṁ āyasmantaṁ pāpikā icchā nābhibhuyya tiṭṭhatī’”ti."
+    },
+    {
+      "id": "an10.24:11.23",
+      "pali": "Catutthaṁ."
+    }
+  ]
+}

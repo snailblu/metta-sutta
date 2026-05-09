@@ -1,0 +1,671 @@
+{
+  "uid": "sn42.12",
+  "title": "Rāsiyasutta",
+  "nikaya": "sn",
+  "segments": [
+    {
+      "id": "sn42.12:1.1",
+      "pali": "Atha kho rāsiyo gāmaṇi yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rāsiyo gāmaṇi bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "sn42.12:1.2",
+      "pali": "“sutaṁ metaṁ, bhante, ‘samaṇo gotamo sabbaṁ tapaṁ garahati, sabbaṁ tapassiṁ lūkhajīviṁ ekaṁsena upavadati upakkosatī’ti."
+    },
+    {
+      "id": "sn42.12:1.3",
+      "pali": "Ye te, bhante, evamāhaṁsu: ‘samaṇo gotamo sabbaṁ tapaṁ garahati, sabbaṁ tapassiṁ lūkhajīviṁ ekaṁsena upavadati upakkosatī’ti, kacci te, bhante, bhagavato vuttavādino, na ca bhagavantaṁ abhūtena abbhācikkhanti, dhammassa cānudhammaṁ byākaronti, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgacchatī”ti?"
+    },
+    {
+      "id": "sn42.12:1.4",
+      "pali": "“Ye te, gāmaṇi, evamāhaṁsu: ‘samaṇo gotamo sabbaṁ tapaṁ garahati, sabbaṁ tapassiṁ lūkhajīviṁ ekaṁsena upavadati upakkosatī’ti, na me te vuttavādino, abbhācikkhanti ca pana maṁ te asatā tucchā abhūtena."
+    },
+    {
+      "id": "sn42.12:2.1",
+      "pali": "Dveme, gāmaṇi, antā pabbajitena na sevitabbā—"
+    },
+    {
+      "id": "sn42.12:2.2",
+      "pali": "yo cāyaṁ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṁhito, yo cāyaṁ attakilamathānuyogo dukkho anariyo anatthasaṁhito."
+    },
+    {
+      "id": "sn42.12:2.3",
+      "pali": "Ete te, gāmaṇi, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā—cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati."
+    },
+    {
+      "id": "sn42.12:2.4",
+      "pali": "Katamā ca sā, gāmaṇi, majjhimā paṭipadā tathāgatena abhisambuddhā—cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?"
+    },
+    {
+      "id": "sn42.12:2.5",
+      "pali": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—"
+    },
+    {
+      "id": "sn42.12:2.6",
+      "pali": "sammādiṭṭhi …pe… sammāsamādhi."
+    },
+    {
+      "id": "sn42.12:2.7",
+      "pali": "Ayaṁ kho sā, gāmaṇi, majjhimā paṭipadā tathāgatena abhisambuddhā—cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati."
+    },
+    {
+      "id": "sn42.12:3.1",
+      "pali": "Tayo kho me, gāmaṇi, kāmabhogino santo saṁvijjamānā lokasmiṁ."
+    },
+    {
+      "id": "sn42.12:3.2",
+      "pali": "Katame tayo?"
+    },
+    {
+      "id": "sn42.12:3.3",
+      "pali": "Idha, gāmaṇi, ekacco kāmabhogī adhammena bhoge pariyesati, sāhasena adhammena bhoge pariyesitvā sāhasena na attānaṁ sukheti na pīṇeti na saṁvibhajati na puññāni karoti."
+    },
+    {
+      "id": "sn42.12:3.4",
+      "pali": "Idha pana, gāmaṇi, ekacco kāmabhogī adhammena bhoge pariyesati sāhasena."
+    },
+    {
+      "id": "sn42.12:3.5",
+      "pali": "Adhammena bhoge pariyesitvā sāhasena attānaṁ sukheti pīṇeti, na saṁvibhajati na puññāni karoti."
+    },
+    {
+      "id": "sn42.12:3.6",
+      "pali": "Idha pana, gāmaṇi, ekacco kāmabhogī adhammena bhoge pariyesati sāhasena."
+    },
+    {
+      "id": "sn42.12:3.7",
+      "pali": "Adhammena bhoge pariyesitvā sāhasena attānaṁ sukheti pīṇeti saṁvibhajati puññāni karoti."
+    },
+    {
+      "id": "sn42.12:4.1",
+      "pali": "Idha pana, gāmaṇi, ekacco kāmabhogī dhammādhammena bhoge pariyesati sāhasenapi asāhasenapi."
+    },
+    {
+      "id": "sn42.12:4.2",
+      "pali": "Dhammādhammena bhoge pariyesitvā sāhasenapi asāhasenapi na attānaṁ sukheti, na pīṇeti, na saṁvibhajati, na puññāni karoti."
+    },
+    {
+      "id": "sn42.12:4.3",
+      "pali": "Idha pana, gāmaṇi, ekacco kāmabhogī dhammādhammena bhoge pariyesati sāhasenapi asāhasenapi."
+    },
+    {
+      "id": "sn42.12:4.4",
+      "pali": "Dhammādhammena bhoge pariyesitvā sāhasenapi asāhasenapi attānaṁ sukheti pīṇeti, na saṁvibhajati, na puññāni karoti."
+    },
+    {
+      "id": "sn42.12:4.5",
+      "pali": "Idha pana, gāmaṇi, ekacco kāmabhogī dhammādhammena bhoge pariyesati, sāhasenapi asāhasenapi."
+    },
+    {
+      "id": "sn42.12:4.6",
+      "pali": "Dhammādhammena bhoge pariyesitvā sāhasenapi asāhasenapi attānaṁ sukheti pīṇeti saṁvibhajati puññāni karoti."
+    },
+    {
+      "id": "sn42.12:5.1",
+      "pali": "Idha pana, gāmaṇi, ekacco kāmabhogī dhammena bhoge pariyesati asāhasena."
+    },
+    {
+      "id": "sn42.12:5.2",
+      "pali": "Dhammena bhoge pariyesitvā asāhasena na attānaṁ sukheti, na pīṇeti, na saṁvibhajati, na puññāni karoti."
+    },
+    {
+      "id": "sn42.12:5.3",
+      "pali": "Idha pana, gāmaṇi, ekacco kāmabhogī dhammena bhoge pariyesati asāhasena."
+    },
+    {
+      "id": "sn42.12:5.4",
+      "pali": "Dhammena bhoge pariyesitvā asāhasena attānaṁ sukheti pīṇeti, na saṁvibhajati, na puññāni karoti."
+    },
+    {
+      "id": "sn42.12:5.5",
+      "pali": "Idha pana, gāmaṇi, ekacco kāmabhogī dhammena bhoge pariyesati asāhasena."
+    },
+    {
+      "id": "sn42.12:5.6",
+      "pali": "Dhammena bhoge pariyesitvā asāhasena attānaṁ sukheti pīṇeti saṁvibhajati puññāni karoti."
+    },
+    {
+      "id": "sn42.12:5.7",
+      "pali": "Te ca bhoge gadhito mucchito ajjhopanno anādīnavadassāvī anissaraṇapañño paribhuñjati."
+    },
+    {
+      "id": "sn42.12:5.8",
+      "pali": "Idha pana, gāmaṇi, ekacco kāmabhogī dhammena bhoge pariyesati asāhasena."
+    },
+    {
+      "id": "sn42.12:5.9",
+      "pali": "Dhammena bhoge pariyesitvā asāhasena attānaṁ sukheti pīṇeti saṁvibhajati puññāni karoti."
+    },
+    {
+      "id": "sn42.12:5.10",
+      "pali": "Te ca bhoge agadhito amucchito anajjhopanno ādīnavadassāvī nissaraṇapañño paribhuñjati."
+    },
+    {
+      "id": "sn42.12:6.1",
+      "pali": "Tatra, gāmaṇi, yvāyaṁ kāmabhogī adhammena bhoge pariyesati sāhasena, adhammena bhoge pariyesitvā sāhasena na attānaṁ sukheti, na pīṇeti, na saṁvibhajati, na puññāni karoti."
+    },
+    {
+      "id": "sn42.12:6.2",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī tīhi ṭhānehi gārayho."
+    },
+    {
+      "id": "sn42.12:6.3",
+      "pali": "Katamehi tīhi ṭhānehi gārayho?"
+    },
+    {
+      "id": "sn42.12:6.4",
+      "pali": "Adhammena bhoge pariyesati sāhasenāti, iminā paṭhamena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:6.5",
+      "pali": "Na attānaṁ sukheti na pīṇetīti, iminā dutiyena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:6.6",
+      "pali": "Na saṁvibhajati, na puññāni karotīti, iminā tatiyena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:6.7",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī imehi tīhi ṭhānehi gārayho."
+    },
+    {
+      "id": "sn42.12:7.1",
+      "pali": "Tatra, gāmaṇi, yvāyaṁ kāmabhogī adhammena bhoge pariyesati sāhasena, adhammena bhoge pariyesitvā sāhasena attānaṁ sukheti pīṇeti, na saṁvibhajati, na puññāni karoti."
+    },
+    {
+      "id": "sn42.12:7.2",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī dvīhi ṭhānehi gārayho, ekena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:7.3",
+      "pali": "Katamehi dvīhi ṭhānehi gārayho?"
+    },
+    {
+      "id": "sn42.12:7.4",
+      "pali": "Adhammena bhoge pariyesati sāhasenāti, iminā paṭhamena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:7.5",
+      "pali": "Na saṁvibhajati, na puññāni karotīti, iminā dutiyena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:7.6",
+      "pali": "Katamena ekena ṭhānena pāsaṁso?"
+    },
+    {
+      "id": "sn42.12:7.7",
+      "pali": "Attānaṁ sukheti pīṇetīti, iminā ekena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:7.8",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī imehi dvīhi ṭhānehi gārayho, iminā ekena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:8.1",
+      "pali": "Tatra, gāmaṇi, yvāyaṁ kāmabhogī adhammena bhoge pariyesati sāhasena, adhammena bhoge pariyesitvā sāhasena attānaṁ sukheti pīṇeti saṁvibhajati puññāni karoti."
+    },
+    {
+      "id": "sn42.12:8.2",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī ekena ṭhānena gārayho, dvīhi ṭhānehi pāsaṁso."
+    },
+    {
+      "id": "sn42.12:8.3",
+      "pali": "Katamena ekena ṭhānena gārayho?"
+    },
+    {
+      "id": "sn42.12:8.4",
+      "pali": "Adhammena bhoge pariyesati sāhasenāti, iminā ekena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:8.5",
+      "pali": "Katamehi dvīhi ṭhānehi pāsaṁso?"
+    },
+    {
+      "id": "sn42.12:8.6",
+      "pali": "Attānaṁ sukheti pīṇetīti, iminā paṭhamena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:8.7",
+      "pali": "Saṁvibhajati puññāni karotīti, iminā dutiyena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:8.8",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī, iminā ekena ṭhānena gārayho, imehi dvīhi ṭhānehi pāsaṁso."
+    },
+    {
+      "id": "sn42.12:9.1",
+      "pali": "Tatra, gāmaṇi, yvāyaṁ kāmabhogī dhammādhammena bhoge pariyesati sāhasenapi asāhasenapi, dhammādhammena bhoge pariyesitvā sāhasenapi asāhasenapi na attānaṁ sukheti, na pīṇeti, na saṁvibhajati, na puññāni karoti."
+    },
+    {
+      "id": "sn42.12:9.2",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī ekena ṭhānena pāsaṁso, tīhi ṭhānehi gārayho."
+    },
+    {
+      "id": "sn42.12:9.3",
+      "pali": "Katamena ekena ṭhānena pāsaṁso?"
+    },
+    {
+      "id": "sn42.12:9.4",
+      "pali": "Dhammena bhoge pariyesati asāhasenāti, iminā ekena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:9.5",
+      "pali": "Katamehi tīhi ṭhānehi gārayho?"
+    },
+    {
+      "id": "sn42.12:9.6",
+      "pali": "Adhammena bhoge pariyesati sāhasenāti, iminā paṭhamena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:9.7",
+      "pali": "Na attānaṁ sukheti, na pīṇetīti, iminā dutiyena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:9.8",
+      "pali": "Na saṁvibhajati, na puññāni karotīti, iminā tatiyena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:9.9",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī iminā ekena ṭhānena pāsaṁso, imehi tīhi ṭhānehi gārayho."
+    },
+    {
+      "id": "sn42.12:10.1",
+      "pali": "Tatra, gāmaṇi, yvāyaṁ kāmabhogī dhammādhammena bhoge pariyesati sāhasenapi asāhasenapi, dhammādhammena bhoge pariyesitvā sāhasenapi asāhasenapi attānaṁ sukheti pīṇeti, na saṁvibhajati, na puññāni karoti."
+    },
+    {
+      "id": "sn42.12:10.2",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī dvīhi ṭhānehi pāsaṁso, dvīhi ṭhānehi gārayho."
+    },
+    {
+      "id": "sn42.12:10.3",
+      "pali": "Katamehi dvīhi ṭhānehi pāsaṁso?"
+    },
+    {
+      "id": "sn42.12:10.4",
+      "pali": "Dhammena bhoge pariyesati asāhasenāti, iminā paṭhamena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:10.5",
+      "pali": "Attānaṁ sukheti pīṇetīti, iminā dutiyena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:10.6",
+      "pali": "Katamehi dvīhi ṭhānehi gārayho?"
+    },
+    {
+      "id": "sn42.12:10.7",
+      "pali": "Adhammena bhoge pariyesati sāhasenāti, iminā paṭhamena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:10.8",
+      "pali": "Na saṁvibhajati, na puññāni karotīti, iminā dutiyena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:10.9",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī imehi dvīhi ṭhānehi pāsaṁso, imehi dvīhi ṭhānehi gārayho."
+    },
+    {
+      "id": "sn42.12:11.1",
+      "pali": "Tatra, gāmaṇi, yvāyaṁ kāmabhogī dhammādhammena bhoge pariyesati sāhasenapi asāhasenapi, dhammādhammena bhoge pariyesitvā sāhasenapi asāhasenapi attānaṁ sukheti pīṇeti saṁvibhajati puññāni karoti."
+    },
+    {
+      "id": "sn42.12:11.2",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī tīhi ṭhānehi pāsaṁso, ekena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:11.3",
+      "pali": "Katamehi tīhi ṭhānehi pāsaṁso?"
+    },
+    {
+      "id": "sn42.12:11.4",
+      "pali": "Dhammena bhoge pariyesati asāhasenāti, iminā paṭhamena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:11.5",
+      "pali": "Attānaṁ sukheti pīṇetīti, iminā dutiyena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:11.6",
+      "pali": "Saṁvibhajati puññāni karotīti, iminā tatiyena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:11.7",
+      "pali": "Katamena ekena ṭhānena gārayho?"
+    },
+    {
+      "id": "sn42.12:11.8",
+      "pali": "Adhammena bhoge pariyesati sāhasenāti, iminā ekena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:11.9",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī imehi tīhi ṭhānehi pāsaṁso, iminā ekena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:12.1",
+      "pali": "Tatra, gāmaṇi, yvāyaṁ kāmabhogī dhammena bhoge pariyesati asāhasena, dhammena bhoge pariyesitvā asāhasena, na attānaṁ sukheti, na pīṇeti, na saṁvibhajati, na puññāni karoti."
+    },
+    {
+      "id": "sn42.12:12.2",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī ekena ṭhānena pāsaṁso, dvīhi ṭhānehi gārayho."
+    },
+    {
+      "id": "sn42.12:12.3",
+      "pali": "Katamena ekena ṭhānena pāsaṁso?"
+    },
+    {
+      "id": "sn42.12:12.4",
+      "pali": "Dhammena bhoge pariyesati asāhasenāti, iminā ekena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:12.5",
+      "pali": "Katamehi dvīhi ṭhānehi gārayho?"
+    },
+    {
+      "id": "sn42.12:12.6",
+      "pali": "Na attānaṁ sukheti, na pīṇetīti, iminā paṭhamena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:12.7",
+      "pali": "Na saṁvibhajati, na puññāni karotīti, iminā dutiyena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:12.8",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī iminā ekena ṭhānena pāsaṁso, imehi dvīhi ṭhānehi gārayho."
+    },
+    {
+      "id": "sn42.12:13.1",
+      "pali": "Tatra, gāmaṇi, yvāyaṁ kāmabhogī dhammena bhoge pariyesati asāhasena, dhammena bhoge pariyesitvā asāhasena attānaṁ sukheti pīṇeti, na saṁvibhajati, na puññāni karoti."
+    },
+    {
+      "id": "sn42.12:13.2",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī dvīhi ṭhānehi pāsaṁso, ekena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:13.3",
+      "pali": "Katamehi dvīhi ṭhānehi pāsaṁso?"
+    },
+    {
+      "id": "sn42.12:13.4",
+      "pali": "Dhammena bhoge pariyesati asāhasenāti, iminā paṭhamena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:13.5",
+      "pali": "Attānaṁ sukheti pīṇetīti, iminā dutiyena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:13.6",
+      "pali": "Katamena ekena ṭhānena gārayho?"
+    },
+    {
+      "id": "sn42.12:13.7",
+      "pali": "Na saṁvibhajati, na puññāni karotīti, iminā ekena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:13.8",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī imehi dvīhi ṭhānehi pāsaṁso, iminā ekena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:14.1",
+      "pali": "Tatra, gāmaṇi, yvāyaṁ kāmabhogī dhammena bhoge pariyesati asāhasena, dhammena bhoge pariyesitvā asāhasena attānaṁ sukheti pīṇeti saṁvibhajati puññāni karoti, te ca bhoge gadhito mucchito ajjhopanno anādīnavadassāvī anissaraṇapañño paribhuñjati."
+    },
+    {
+      "id": "sn42.12:14.2",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī tīhi ṭhānehi pāsaṁso, ekena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:14.3",
+      "pali": "Katamehi tīhi ṭhānehi pāsaṁso?"
+    },
+    {
+      "id": "sn42.12:14.4",
+      "pali": "Dhammena bhoge pariyesati asāhasenāti, iminā paṭhamena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:14.5",
+      "pali": "Attānaṁ sukheti pīṇetīti, iminā dutiyena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:14.6",
+      "pali": "Saṁvibhajati puññāni karotīti, iminā tatiyena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:14.7",
+      "pali": "Katamena ekena ṭhānena gārayho?"
+    },
+    {
+      "id": "sn42.12:14.8",
+      "pali": "Te ca bhoge gadhito mucchito ajjhopanno anādīnavadassāvī anissaraṇapañño paribhuñjatīti, iminā ekena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:14.9",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī imehi tīhi ṭhānehi pāsaṁso, iminā ekena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:15.1",
+      "pali": "Tatra, gāmaṇi, yvāyaṁ kāmabhogī dhammena bhoge pariyesati asāhasena, dhammena bhoge pariyesitvā asāhasena attānaṁ sukheti pīṇeti saṁvibhajati puññāni karoti."
+    },
+    {
+      "id": "sn42.12:15.2",
+      "pali": "Te ca bhoge agadhito amucchito anajjhopanno ādīnavadassāvī nissaraṇapañño paribhuñjati."
+    },
+    {
+      "id": "sn42.12:15.3",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī catūhi ṭhānehi pāsaṁso."
+    },
+    {
+      "id": "sn42.12:15.4",
+      "pali": "Katamehi catūhi ṭhānehi pāsaṁso?"
+    },
+    {
+      "id": "sn42.12:15.5",
+      "pali": "Dhammena bhoge pariyesati asāhasenāti, iminā paṭhamena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:15.6",
+      "pali": "Attānaṁ sukheti pīṇetīti, iminā dutiyena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:15.7",
+      "pali": "Saṁvibhajati puññāni karotīti, iminā tatiyena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:15.8",
+      "pali": "Te ca bhoge agadhito amucchito anajjhopanno ādīnavadassāvī nissaraṇapañño paribhuñjatīti, iminā catutthena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:15.9",
+      "pali": "Ayaṁ, gāmaṇi, kāmabhogī imehi catūhi ṭhānehi pāsaṁso."
+    },
+    {
+      "id": "sn42.12:16.1",
+      "pali": "Tayome, gāmaṇi, tapassino lūkhajīvino santo saṁvijjamānā lokasmiṁ."
+    },
+    {
+      "id": "sn42.12:16.2",
+      "pali": "Katame tayo?"
+    },
+    {
+      "id": "sn42.12:16.3",
+      "pali": "Idha, gāmaṇi, ekacco tapassī lūkhajīvī saddhā agārasmā anagāriyaṁ pabbajito hoti:"
+    },
+    {
+      "id": "sn42.12:16.4",
+      "pali": "‘appeva nāma kusalaṁ dhammaṁ adhigaccheyyaṁ, appeva nāma uttari manussadhammā alamariyañāṇadassanavisesaṁ sacchikareyyan’ti."
+    },
+    {
+      "id": "sn42.12:16.5",
+      "pali": "So attānaṁ ātāpeti paritāpeti, kusalañca dhammaṁ nādhigacchati, uttari ca manussadhammā alamariyañāṇadassanavisesaṁ na sacchikaroti."
+    },
+    {
+      "id": "sn42.12:17.1",
+      "pali": "Idha pana, gāmaṇi, ekacco tapassī lūkhajīvī saddhā agārasmā anagāriyaṁ pabbajito hoti:"
+    },
+    {
+      "id": "sn42.12:17.2",
+      "pali": "‘appeva nāma kusalaṁ dhammaṁ adhigaccheyyaṁ, appeva nāma uttari manussadhammā alamariyañāṇadassanavisesaṁ sacchikareyyan’ti."
+    },
+    {
+      "id": "sn42.12:17.3",
+      "pali": "So attānaṁ ātāpeti paritāpeti, kusalañhi kho dhammaṁ adhigacchati, uttari manussadhammā alamariyañāṇadassanavisesaṁ na sacchikaroti."
+    },
+    {
+      "id": "sn42.12:18.1",
+      "pali": "Idha pana, gāmaṇi, ekacco tapassī lūkhajīvī saddhā agārasmā anagāriyaṁ pabbajito hoti:"
+    },
+    {
+      "id": "sn42.12:18.2",
+      "pali": "‘appeva nāma kusalaṁ dhammaṁ adhigaccheyyaṁ, appeva nāma uttari manussadhammā alamariyañāṇadassanavisesaṁ sacchikareyyan’ti."
+    },
+    {
+      "id": "sn42.12:18.3",
+      "pali": "So attānaṁ ātāpeti paritāpeti, kusalañca dhammaṁ adhigacchati, uttari ca manussadhammā alamariyañāṇadassanavisesaṁ sacchikaroti."
+    },
+    {
+      "id": "sn42.12:19.1",
+      "pali": "Tatra, gāmaṇi, yvāyaṁ tapassī lūkhajīvī attānaṁ ātāpeti paritāpeti, kusalañca dhammaṁ nādhigacchati, uttari ca manussadhammā alamariyañāṇadassanavisesaṁ na sacchikaroti. Ayaṁ, gāmaṇi, tapassī lūkhajīvī tīhi ṭhānehi gārayho."
+    },
+    {
+      "id": "sn42.12:19.2",
+      "pali": "Katamehi tīhi ṭhānehi gārayho?"
+    },
+    {
+      "id": "sn42.12:19.3",
+      "pali": "Attānaṁ ātāpeti paritāpetīti, iminā paṭhamena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:19.4",
+      "pali": "Kusalañca dhammaṁ nādhigacchatīti, iminā dutiyena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:19.5",
+      "pali": "Uttari ca manussadhammā alamariyañāṇadassanavisesaṁ na sacchikarotīti, iminā tatiyena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:19.6",
+      "pali": "Ayaṁ, gāmaṇi, tapassī lūkhajīvī, imehi tīhi ṭhānehi gārayho."
+    },
+    {
+      "id": "sn42.12:20.1",
+      "pali": "Tatra, gāmaṇi, yvāyaṁ tapassī lūkhajīvī attānaṁ ātāpeti paritāpeti, kusalañhi kho dhammaṁ adhigacchati, uttari ca manussadhammā alamariyañāṇadassanavisesaṁ na sacchikaroti."
+    },
+    {
+      "id": "sn42.12:20.2",
+      "pali": "Ayaṁ, gāmaṇi, tapassī lūkhajīvī dvīhi ṭhānehi gārayho, ekena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:20.3",
+      "pali": "Katamehi dvīhi ṭhānehi gārayho?"
+    },
+    {
+      "id": "sn42.12:20.4",
+      "pali": "Attānaṁ ātāpeti paritāpetīti, iminā paṭhamena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:20.5",
+      "pali": "Uttari ca manussadhammā alamariyañāṇadassanavisesaṁ na sacchikarotīti, iminā dutiyena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:20.6",
+      "pali": "Katamena ekena ṭhānena pāsaṁso?"
+    },
+    {
+      "id": "sn42.12:20.7",
+      "pali": "Kusalañhi kho dhammaṁ adhigacchatīti, iminā ekena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:20.8",
+      "pali": "Ayaṁ, gāmaṇi, tapassī lūkhajīvī imehi dvīhi ṭhānehi gārayho, iminā ekena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:21.1",
+      "pali": "Tatra, gāmaṇi, yvāyaṁ tapassī lūkhajīvī attānaṁ ātāpeti paritāpeti, kusalañca dhammaṁ adhigacchati, uttari ca manussadhammā alamariyañāṇadassanavisesaṁ sacchikaroti. Ayaṁ, gāmaṇi, tapassī lūkhajīvī ekena ṭhānena gārayho, dvīhi ṭhānehi pāsaṁso."
+    },
+    {
+      "id": "sn42.12:21.2",
+      "pali": "Katamena ekena ṭhānena gārayho?"
+    },
+    {
+      "id": "sn42.12:21.3",
+      "pali": "Attānaṁ ātāpeti paritāpetīti, iminā ekena ṭhānena gārayho."
+    },
+    {
+      "id": "sn42.12:21.4",
+      "pali": "Katamehi dvīhi ṭhānehi pāsaṁso?"
+    },
+    {
+      "id": "sn42.12:21.5",
+      "pali": "Kusalañca dhammaṁ adhigacchatīti, iminā paṭhamena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:21.6",
+      "pali": "Uttari ca manussadhammā alamariyañāṇadassanavisesaṁ sacchikarotīti, iminā dutiyena ṭhānena pāsaṁso."
+    },
+    {
+      "id": "sn42.12:21.7",
+      "pali": "Ayaṁ, gāmaṇi, tapassī lūkhajīvī iminā ekena ṭhānena gārayho, imehi dvīhi ṭhānehi pāsaṁso."
+    },
+    {
+      "id": "sn42.12:22.1",
+      "pali": "Tisso imā, gāmaṇi, sandiṭṭhikā nijjarā akālikā ehipassikā opaneyyikā paccattaṁ veditabbā viññūhi."
+    },
+    {
+      "id": "sn42.12:22.2",
+      "pali": "Katamā tisso?"
+    },
+    {
+      "id": "sn42.12:22.3",
+      "pali": "Yaṁ ratto rāgādhikaraṇaṁ attabyābādhāyapi ceteti, parabyābādhāyapi ceteti, ubhayabyābādhāyapi ceteti."
+    },
+    {
+      "id": "sn42.12:22.4",
+      "pali": "Rāge pahīne nevattabyābādhāya ceteti, na parabyābādhāya ceteti, na ubhayabyābādhāya ceteti."
+    },
+    {
+      "id": "sn42.12:22.5",
+      "pali": "Sandiṭṭhikā nijjarā akālikā ehipassikā opaneyyikā paccattaṁ veditabbā viññūhi."
+    },
+    {
+      "id": "sn42.12:22.6",
+      "pali": "Yaṁ duṭṭho dosādhikaraṇaṁ attabyābādhāyapi ceteti, parabyābādhāyapi ceteti, ubhayabyābādhāyapi ceteti."
+    },
+    {
+      "id": "sn42.12:22.7",
+      "pali": "Dose pahīne nevattabyābādhāya ceteti, na parabyābādhāya ceteti, na ubhayabyābādhāya ceteti."
+    },
+    {
+      "id": "sn42.12:22.8",
+      "pali": "Sandiṭṭhikā nijjarā akālikā ehipassikā opaneyyikā paccattaṁ veditabbā viññūhi."
+    },
+    {
+      "id": "sn42.12:22.9",
+      "pali": "Yaṁ mūḷho mohādhikaraṇaṁ attabyābādhāyapi ceteti, parabyābādhāyapi ceteti, ubhayabyābādhāyapi ceteti."
+    },
+    {
+      "id": "sn42.12:22.10",
+      "pali": "Mohe pahīne nevattabyābādhāya ceteti, na parabyābādhāya ceteti, na ubhayabyābādhāya ceteti."
+    },
+    {
+      "id": "sn42.12:22.11",
+      "pali": "Sandiṭṭhikā nijjarā akālikā ehipassikā opaneyyikā paccattaṁ veditabbā viññūhi."
+    },
+    {
+      "id": "sn42.12:22.12",
+      "pali": "Imā kho, gāmaṇi, tisso sandiṭṭhikā nijjarā akālikā ehipassikā opaneyyikā paccattaṁ veditabbā viññūhī”ti."
+    },
+    {
+      "id": "sn42.12:23.1",
+      "pali": "Evaṁ vutte, rāsiyo gāmaṇi bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "sn42.12:23.2",
+      "pali": "“abhikkantaṁ, bhante …pe…"
+    },
+    {
+      "id": "sn42.12:23.3",
+      "pali": "upāsakaṁ maṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti."
+    },
+    {
+      "id": "sn42.12:23.4",
+      "pali": "Dvādasamaṁ."
+    }
+  ]
+}

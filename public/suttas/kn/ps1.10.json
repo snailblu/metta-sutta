@@ -1,0 +1,827 @@
+{
+  "uid": "ps1.10",
+  "title": "1.10. Maṇḍapeyyakathā",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "ps1.10:1.1",
+      "pali": "“Maṇḍapeyyamidaṁ, bhikkhave, brahmacariyaṁ."
+    },
+    {
+      "id": "ps1.10:1.2",
+      "pali": "Satthā sammukhībhūto tidhattamaṇḍo."
+    },
+    {
+      "id": "ps1.10:1.3",
+      "pali": "Satthari sammukhībhūte desanāmaṇḍo, paṭiggahamaṇḍo, brahmacariyamaṇḍo”."
+    },
+    {
+      "id": "ps1.10:2.1",
+      "pali": "Katamo <b>desanāmaṇḍo?</b>"
+    },
+    {
+      "id": "ps1.10:2.2",
+      "pali": "Catunnaṁ ariyasaccānaṁ ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ, catunnaṁ satipaṭṭhānānaṁ …pe…"
+    },
+    {
+      "id": "ps1.10:2.3",
+      "pali": "catunnaṁ sammappadhānānaṁ …"
+    },
+    {
+      "id": "ps1.10:2.4",
+      "pali": "catunnaṁ iddhipādānaṁ …"
+    },
+    {
+      "id": "ps1.10:2.5",
+      "pali": "pañcannaṁ indriyānaṁ …"
+    },
+    {
+      "id": "ps1.10:2.6",
+      "pali": "pañcannaṁ balānaṁ …"
+    },
+    {
+      "id": "ps1.10:2.7",
+      "pali": "sattannaṁ bojjhaṅgānaṁ …"
+    },
+    {
+      "id": "ps1.10:2.8",
+      "pali": "ariyassa aṭṭhaṅgikassa maggassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ—"
+    },
+    {
+      "id": "ps1.10:2.9",
+      "pali": "ayaṁ desanāmaṇḍo."
+    },
+    {
+      "id": "ps1.10:3.1",
+      "pali": "Katamo <b>paṭiggahamaṇḍo?</b>"
+    },
+    {
+      "id": "ps1.10:3.2",
+      "pali": "Bhikkhū bhikkhuniyo upāsakā upāsikāyo devā manussā ye vā panaññepi keci viññātāro—"
+    },
+    {
+      "id": "ps1.10:3.3",
+      "pali": "ayaṁ paṭiggahamaṇḍo."
+    },
+    {
+      "id": "ps1.10:4.1",
+      "pali": "Katamo <b>brahmacariyamaṇḍo?</b>"
+    },
+    {
+      "id": "ps1.10:4.2",
+      "pali": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—"
+    },
+    {
+      "id": "ps1.10:4.3",
+      "pali": "sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi—"
+    },
+    {
+      "id": "ps1.10:4.4",
+      "pali": "ayaṁ brahmacariyamaṇḍo."
+    },
+    {
+      "id": "ps1.10:5.1",
+      "pali": "Adhimokkhamaṇḍo saddhindriyaṁ, assaddhiyaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:5.2",
+      "pali": "assaddhiyaṁ kasaṭaṁ chaḍḍetvā saddhindriyassa adhimokkhamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:5.3",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:5.4",
+      "pali": "Paggahamaṇḍo vīriyindriyaṁ, kosajjaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:5.5",
+      "pali": "kosajjaṁ kasaṭaṁ chaḍḍetvā vīriyindriyassa paggahamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:5.6",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:5.7",
+      "pali": "Upaṭṭhānamaṇḍo satindriyaṁ, pamādo kasaṭo;"
+    },
+    {
+      "id": "ps1.10:5.8",
+      "pali": "pamādaṁ kasaṭaṁ chaḍḍetvā satindriyassa upaṭṭhānamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:5.9",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:5.10",
+      "pali": "Avikkhepamaṇḍo samādhindriyaṁ, uddhaccaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:5.11",
+      "pali": "uddhaccaṁ kasaṭaṁ chaḍḍetvā samādhindriyassa avikkhepamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:5.12",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:5.13",
+      "pali": "Dassanamaṇḍo paññindriyaṁ, avijjā kasaṭo;"
+    },
+    {
+      "id": "ps1.10:5.14",
+      "pali": "avijjaṁ kasaṭaṁ chaḍḍetvā paññindriyassa dassanamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:5.15",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:6.1",
+      "pali": "Assaddhiye akampiyamaṇḍo saddhābalaṁ, assaddhiyaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:6.2",
+      "pali": "assaddhiyaṁ kasaṭaṁ chaḍḍetvā saddhābalassa assaddhiye akampiyamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:6.3",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:6.4",
+      "pali": "Kosajje akampiyamaṇḍo vīriyabalaṁ, kosajjaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:6.5",
+      "pali": "kosajjaṁ kasaṭaṁ chaḍḍetvā vīriyabalassa kosajje akampiyamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:6.6",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:6.7",
+      "pali": "Pamāde akampiyamaṇḍo satibalaṁ, pamādo kasaṭo;"
+    },
+    {
+      "id": "ps1.10:6.8",
+      "pali": "pamādaṁ kasaṭaṁ chaḍḍetvā satibalassa pamāde akampiyamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:6.9",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:6.10",
+      "pali": "Uddhacce akampiyamaṇḍo samādhibalaṁ, uddhaccaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:6.11",
+      "pali": "uddhaccaṁ kasaṭaṁ chaḍḍetvā samādhibalassa uddhacce akampiyamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:6.12",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:6.13",
+      "pali": "Avijjāya akampiyamaṇḍo paññābalaṁ, avijjā kasaṭo;"
+    },
+    {
+      "id": "ps1.10:6.14",
+      "pali": "avijjaṁ kasaṭaṁ chaḍḍetvā paññābalassa avijjāya akampiyamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:6.15",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:7.1",
+      "pali": "Upaṭṭhānamaṇḍo satisambojjhaṅgā, pamādo kasaṭo;"
+    },
+    {
+      "id": "ps1.10:7.2",
+      "pali": "pamādaṁ kasaṭaṁ chaḍḍetvā satisambojjhaṅgassa upaṭṭhānamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:7.3",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:7.4",
+      "pali": "Pavicayamaṇḍo dhammavicayasambojjhaṅgo, avijjā kasaṭo;"
+    },
+    {
+      "id": "ps1.10:7.5",
+      "pali": "avijjaṁ kasaṭaṁ chaḍḍetvā dhammavicayasambojjhaṅgassa pavicayamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:7.6",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:7.7",
+      "pali": "Paggahamaṇḍo vīriyasambojjhaṅgo, kosajjaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:7.8",
+      "pali": "kosajjaṁ kasaṭaṁ chaḍḍetvā vīriyasambojjhaṅgassa paggahamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:7.9",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:7.10",
+      "pali": "Pharaṇamaṇḍo pītisambojjhaṅgo, pariḷāho kasaṭo;"
+    },
+    {
+      "id": "ps1.10:7.11",
+      "pali": "pariḷāhaṁ kasaṭaṁ chaḍḍetvā pītisambojjhaṅgassa pharaṇamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:7.12",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:7.13",
+      "pali": "Upasamamaṇḍo passaddhisambojjhaṅgo, duṭṭhullaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:7.14",
+      "pali": "duṭṭhullaṁ kasaṭaṁ chaḍḍetvā passaddhisambojjhaṅgassa upasamamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:7.15",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:7.16",
+      "pali": "Avikkhepamaṇḍo samādhisambojjhaṅgo, uddhaccaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:7.17",
+      "pali": "uddhaccaṁ kasaṭaṁ chaḍḍetvā samādhisambojjhaṅgassa avikkhepamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:7.18",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:7.19",
+      "pali": "Paṭisaṅkhānamaṇḍo upekkhāsambojjhaṅgo, appaṭisaṅkhā kasaṭo;"
+    },
+    {
+      "id": "ps1.10:7.20",
+      "pali": "appaṭisaṅkhaṁ kasaṭaṁ chaḍḍetvā upekkhāsambojjhaṅgassa paṭisaṅkhānamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:7.21",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:8.1",
+      "pali": "Dassanamaṇḍo sammādiṭṭhi, micchādiṭṭhi kasaṭo;"
+    },
+    {
+      "id": "ps1.10:8.2",
+      "pali": "micchādiṭṭhiṁ kasaṭaṁ chaḍḍetvā sammādiṭṭhiyā dassanamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:8.3",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:8.4",
+      "pali": "Abhiniropanamaṇḍo sammāsaṅkappo, micchāsaṅkappo kasaṭo;"
+    },
+    {
+      "id": "ps1.10:8.5",
+      "pali": "micchāsaṅkappaṁ kasaṭaṁ chaḍḍetvā sammāsaṅkappassa abhiniropanamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:8.6",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:8.7",
+      "pali": "Pariggahamaṇḍo sammāvācā, micchāvācā kasaṭo;"
+    },
+    {
+      "id": "ps1.10:8.8",
+      "pali": "micchāvācaṁ kasaṭaṁ chaḍḍetvā sammāvācāya pariggahamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:8.9",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:8.10",
+      "pali": "Samuṭṭhānamaṇḍo sammākammanto, micchākammanto kasaṭo;"
+    },
+    {
+      "id": "ps1.10:8.11",
+      "pali": "micchākammantaṁ kasaṭaṁ chaḍḍetvā sammākammantassa samuṭṭhānamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:8.12",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:8.13",
+      "pali": "Vodānamaṇḍo sammāājīvo, micchāājīvo kasaṭo;"
+    },
+    {
+      "id": "ps1.10:8.14",
+      "pali": "micchāājīvaṁ kasaṭaṁ chaḍḍetvā sammāājīvassa vodānamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:8.15",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:8.16",
+      "pali": "Paggahamaṇḍo sammāvāyāmo, micchāvāyāmo kasaṭo;"
+    },
+    {
+      "id": "ps1.10:8.17",
+      "pali": "micchāvāyāmaṁ kasaṭaṁ chaḍḍetvā sammāvāyāmassa paggahamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:8.18",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:8.19",
+      "pali": "Upaṭṭhānamaṇḍo sammāsati, micchāsati kasaṭo;"
+    },
+    {
+      "id": "ps1.10:8.20",
+      "pali": "micchāsatiṁ kasaṭaṁ chaḍḍetvā sammāsatiyā upaṭṭhānamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:8.21",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:8.22",
+      "pali": "Avikkhepamaṇḍo sammāsamādhi, micchāsamādhi kasaṭo;"
+    },
+    {
+      "id": "ps1.10:8.23",
+      "pali": "micchāsamādhiṁ kasaṭaṁ chaḍḍetvā sammāsamādhissa avikkhepamaṇḍaṁ pivatīti—"
+    },
+    {
+      "id": "ps1.10:8.24",
+      "pali": "maṇḍapeyyaṁ."
+    },
+    {
+      "id": "ps1.10:9.1",
+      "pali": "Atthi maṇḍo, atthi peyyaṁ, atthi kasaṭo."
+    },
+    {
+      "id": "ps1.10:9.2",
+      "pali": "Adhimokkhamaṇḍo saddhindriyaṁ, assaddhiyaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:9.3",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:9.4",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:9.5",
+      "pali": "Paggahamaṇḍo vīriyindriyaṁ, kosajjaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:9.6",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:9.7",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:9.8",
+      "pali": "Upaṭṭhānamaṇḍo satindriyaṁ, pamādo kasaṭo;"
+    },
+    {
+      "id": "ps1.10:9.9",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:9.10",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:9.11",
+      "pali": "Avikkhepamaṇḍo samādhindriyaṁ, uddhaccaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:9.12",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:9.13",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:9.14",
+      "pali": "Dassanamaṇḍo paññindriyaṁ, avijjā kasaṭo;"
+    },
+    {
+      "id": "ps1.10:9.15",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:9.16",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:10.1",
+      "pali": "Assaddhiye akampiyamaṇḍo saddhābalaṁ, assaddhiyaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:10.2",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:10.3",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:10.4",
+      "pali": "Kosajje akampiyamaṇḍo vīriyabalaṁ, kosajjaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:10.5",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:10.6",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:10.7",
+      "pali": "Pamāde akampiyamaṇḍo satibalaṁ, pamādo kasaṭo;"
+    },
+    {
+      "id": "ps1.10:10.8",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:10.9",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:10.10",
+      "pali": "Uddhacce akampiyamaṇḍo samādhibalaṁ, uddhaccaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:10.11",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:10.12",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:10.13",
+      "pali": "Avijjāya akampiyamaṇḍo paññābalaṁ, avijjā kasaṭo;"
+    },
+    {
+      "id": "ps1.10:10.14",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:10.15",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:11.1",
+      "pali": "Upaṭṭhānamaṇḍo satisambojjhaṅgo, pamādo kasaṭo;"
+    },
+    {
+      "id": "ps1.10:11.2",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:11.3",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:11.4",
+      "pali": "Pavicayamaṇḍo dhammavicayasambojjhaṅgo, avijjā kasaṭo;"
+    },
+    {
+      "id": "ps1.10:11.5",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:11.6",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:11.7",
+      "pali": "Paggahamaṇḍo vīriyasambojjhaṅgo, kosajjaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:11.8",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:11.9",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:11.10",
+      "pali": "Pharaṇamaṇḍo pītisambojjhaṅgo, pariḷāho kasaṭo;"
+    },
+    {
+      "id": "ps1.10:11.11",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:11.12",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:11.13",
+      "pali": "Upasamamaṇḍo passaddhisambojjhaṅgo, duṭṭhullaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:11.14",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:11.15",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:11.16",
+      "pali": "Avikkhepamaṇḍo samādhisambojjhaṅgo, uddhaccaṁ kasaṭo;"
+    },
+    {
+      "id": "ps1.10:11.17",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:11.18",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:11.19",
+      "pali": "Paṭisaṅkhānamaṇḍo upekkhāsambojjhaṅgo, apaṭisaṅkhā kasaṭo;"
+    },
+    {
+      "id": "ps1.10:11.20",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:11.21",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:12.1",
+      "pali": "Dassanamaṇḍo sammādiṭṭhi, micchādiṭṭhi kasaṭo;"
+    },
+    {
+      "id": "ps1.10:12.2",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:12.3",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:12.4",
+      "pali": "Abhiniropanamaṇḍo sammāsaṅkappo, micchāsaṅkappo kasaṭo;"
+    },
+    {
+      "id": "ps1.10:12.5",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:12.6",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:12.7",
+      "pali": "Pariggahamaṇḍo sammāvācā, micchāvācā kasaṭo;"
+    },
+    {
+      "id": "ps1.10:12.8",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:12.9",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:12.10",
+      "pali": "Samuṭṭhānamaṇḍo sammākammanto, micchākammanto kasaṭo;"
+    },
+    {
+      "id": "ps1.10:12.11",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:12.12",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:12.13",
+      "pali": "Vodānamaṇḍo sammāājīvo, micchāājīvo kasaṭo;"
+    },
+    {
+      "id": "ps1.10:12.14",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:12.15",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:12.16",
+      "pali": "Paggahamaṇḍo sammāvāyāmo, micchāvāyāmo kasaṭo;"
+    },
+    {
+      "id": "ps1.10:12.17",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:12.18",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:12.19",
+      "pali": "Upaṭṭhānamaṇḍo sammāsati, micchāsati kasaṭo;"
+    },
+    {
+      "id": "ps1.10:12.20",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:12.21",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:12.22",
+      "pali": "Avikkhepamaṇḍo sammāsamādhi, micchāsamādhi kasaṭo;"
+    },
+    {
+      "id": "ps1.10:12.23",
+      "pali": "yo tattha attharaso dhammaraso vimuttiraso—"
+    },
+    {
+      "id": "ps1.10:12.24",
+      "pali": "idaṁ peyyaṁ."
+    },
+    {
+      "id": "ps1.10:13.1",
+      "pali": "Dassanamaṇḍo sammādiṭṭhi …"
+    },
+    {
+      "id": "ps1.10:13.2",
+      "pali": "abhiniropanamaṇḍo sammāsaṅkappo …"
+    },
+    {
+      "id": "ps1.10:13.3",
+      "pali": "pariggahamaṇḍo sammāvācā …"
+    },
+    {
+      "id": "ps1.10:13.4",
+      "pali": "samuṭṭhānamaṇḍo sammākammanto …"
+    },
+    {
+      "id": "ps1.10:13.5",
+      "pali": "vodānamaṇḍo sammāājīvo …"
+    },
+    {
+      "id": "ps1.10:13.6",
+      "pali": "paggahamaṇḍo sammāvāyāmo …"
+    },
+    {
+      "id": "ps1.10:13.7",
+      "pali": "upaṭṭhānamaṇḍo sammāsati …"
+    },
+    {
+      "id": "ps1.10:13.8",
+      "pali": "avikkhepamaṇḍo sammāsamādhi."
+    },
+    {
+      "id": "ps1.10:14.1",
+      "pali": "Upaṭṭhānamaṇḍo satisambojjhaṅgo …"
+    },
+    {
+      "id": "ps1.10:14.2",
+      "pali": "pavicayamaṇḍo dhammavicayasambojjhaṅgo …"
+    },
+    {
+      "id": "ps1.10:14.3",
+      "pali": "paggahamaṇḍo vīriyasambojjhaṅgo …"
+    },
+    {
+      "id": "ps1.10:14.4",
+      "pali": "pharaṇamaṇḍo pītisambojjhaṅgo …"
+    },
+    {
+      "id": "ps1.10:14.5",
+      "pali": "upasamamaṇḍo passaddhisambojjhaṅgo …"
+    },
+    {
+      "id": "ps1.10:14.6",
+      "pali": "avikkhepamaṇḍo samādhisambojjhaṅgo …"
+    },
+    {
+      "id": "ps1.10:14.7",
+      "pali": "paṭisaṅkhānamaṇḍo upekkhāsambojjhaṅgo."
+    },
+    {
+      "id": "ps1.10:15.1",
+      "pali": "Assaddhiye akampiyamaṇḍo saddhābalaṁ …"
+    },
+    {
+      "id": "ps1.10:15.2",
+      "pali": "kosajje akampiyamaṇḍo vīriyabalaṁ …"
+    },
+    {
+      "id": "ps1.10:15.3",
+      "pali": "pamāde akampiyamaṇḍo satibalaṁ …"
+    },
+    {
+      "id": "ps1.10:15.4",
+      "pali": "uddhacce akampiyamaṇḍo samādhibalaṁ …"
+    },
+    {
+      "id": "ps1.10:15.5",
+      "pali": "avijjāya akampiyamaṇḍo paññābalaṁ."
+    },
+    {
+      "id": "ps1.10:16.1",
+      "pali": "Adhimokkhamaṇḍo saddhindriyaṁ …"
+    },
+    {
+      "id": "ps1.10:16.2",
+      "pali": "paggahamaṇḍo vīriyindriyaṁ …"
+    },
+    {
+      "id": "ps1.10:16.3",
+      "pali": "upaṭṭhānamaṇḍo satindriyaṁ …"
+    },
+    {
+      "id": "ps1.10:16.4",
+      "pali": "avikkhepamaṇḍo samādhindriyaṁ …"
+    },
+    {
+      "id": "ps1.10:16.5",
+      "pali": "dassanamaṇḍo paññindriyaṁ."
+    },
+    {
+      "id": "ps1.10:17.1",
+      "pali": "Ādhipateyyaṭṭhena indriyā maṇḍo, akampiyaṭṭhena balā maṇḍo, niyyānaṭṭhena bojjhaṅgā maṇḍo, hetuṭṭhena maggo maṇḍo, upaṭṭhānaṭṭhena satipaṭṭhānā maṇḍo, padahanaṭṭhena sammappadhānā maṇḍo, ijjhanaṭṭhena iddhipādā maṇḍo, tathaṭṭhena saccā maṇḍo, avikkhepaṭṭhena samatho maṇḍo, anupassanaṭṭhena vipassanā maṇḍo, ekarasaṭṭhena samathavipassanā maṇḍo, anativattanaṭṭhena yuganaddhā maṇḍo, saṁvaraṭṭhena sīlavisuddhi maṇḍo, avikkhepaṭṭhena cittavisuddhi maṇḍo, dassanaṭṭhena diṭṭhivisuddhi maṇḍo, muttaṭṭhena vimokkho maṇḍo, paṭivedhaṭṭhena vijjā maṇḍo, pariccāgaṭṭhena vimutti maṇḍo, samucchedaṭṭhena khaye ñāṇaṁ maṇḍo, paṭippassaddhaṭṭhena anuppāde ñāṇaṁ maṇḍo, chando mūlaṭṭhena maṇḍo, manasikāro samuṭṭhānaṭṭhena maṇḍo, phasso samodhānaṭṭhena maṇḍo, vedanā samosaraṇaṭṭhena maṇḍo, samādhi pamukhaṭṭhena maṇḍo, sati ādhipateyyaṭṭhena maṇḍo, paññā taduttaraṭṭhena maṇḍo, vimutti sāraṭṭhena maṇḍo, amatogadhaṁ nibbānaṁ pariyosānaṭṭhena maṇḍoti."
+    },
+    {
+      "id": "ps1.10:17.2",
+      "pali": "Maṇḍapeyyakathā niṭṭhitā."
+    },
+    {
+      "id": "ps1.10:17.3",
+      "pali": "Catutthabhāṇavāro."
+    },
+    {
+      "id": "ps1.10:17.4",
+      "pali": "Mahāvaggo paṭhamo."
+    },
+    {
+      "id": "ps1.10:17.5",
+      "pali": "Tassuddānaṁ"
+    },
+    {
+      "id": "ps1.10:18.1",
+      "pali": "Ñāṇadiṭṭhī ca assāsā,"
+    },
+    {
+      "id": "ps1.10:18.2",
+      "pali": "indriyaṁ vimokkhapañcamā;"
+    },
+    {
+      "id": "ps1.10:18.3",
+      "pali": "Gatikammavipallāsā,"
+    },
+    {
+      "id": "ps1.10:18.4",
+      "pali": "maggo maṇḍena te dasāti."
+    },
+    {
+      "id": "ps1.10:18.5",
+      "pali": "Esa nikāyadharehi ṭhapito, asamo paṭhamo pavaro varavaggoti."
+    }
+  ]
+}

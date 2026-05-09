@@ -1,0 +1,583 @@
+{
+  "uid": "bv14",
+  "title": "14. Sujātabuddhavaṁsa",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "bv14:1.1",
+      "pali": "“Tattheva maṇḍakappamhi,"
+    },
+    {
+      "id": "bv14:1.2",
+      "pali": "sujāto nāma nāyako;"
+    },
+    {
+      "id": "bv14:1.3",
+      "pali": "Sīhahanusabhakkhandho,"
+    },
+    {
+      "id": "bv14:1.4",
+      "pali": "appameyyo durāsado."
+    },
+    {
+      "id": "bv14:2.1",
+      "pali": "Candova vimalo suddho,"
+    },
+    {
+      "id": "bv14:2.2",
+      "pali": "sataraṁsīva patāpavā;"
+    },
+    {
+      "id": "bv14:2.3",
+      "pali": "Evaṁ sobhati sambuddho,"
+    },
+    {
+      "id": "bv14:2.4",
+      "pali": "jalanto siriyā sadā."
+    },
+    {
+      "id": "bv14:3.1",
+      "pali": "Pāpuṇitvāna sambuddho,"
+    },
+    {
+      "id": "bv14:3.2",
+      "pali": "kevalaṁ bodhimuttamaṁ;"
+    },
+    {
+      "id": "bv14:3.3",
+      "pali": "Sumaṅgalamhi nagare,"
+    },
+    {
+      "id": "bv14:3.4",
+      "pali": "dhammacakkaṁ pavattayi."
+    },
+    {
+      "id": "bv14:4.1",
+      "pali": "Desente pavaraṁ dhammaṁ,"
+    },
+    {
+      "id": "bv14:4.2",
+      "pali": "Sujāte lokanāyake;"
+    },
+    {
+      "id": "bv14:4.3",
+      "pali": "Asītikoṭī abhisamiṁsu,"
+    },
+    {
+      "id": "bv14:4.4",
+      "pali": "Paṭhame dhammadesane."
+    },
+    {
+      "id": "bv14:5.1",
+      "pali": "Yadā sujāto amitayaso,"
+    },
+    {
+      "id": "bv14:5.2",
+      "pali": "Deve vassaṁ upāgami;"
+    },
+    {
+      "id": "bv14:5.3",
+      "pali": "Sattatiṁsasatasahassānaṁ,"
+    },
+    {
+      "id": "bv14:5.4",
+      "pali": "Dutiyābhisamayo ahu."
+    },
+    {
+      "id": "bv14:6.1",
+      "pali": "Yadā sujāto asamasamo,"
+    },
+    {
+      "id": "bv14:6.2",
+      "pali": "Upagacchi pitusantikaṁ;"
+    },
+    {
+      "id": "bv14:6.3",
+      "pali": "Saṭṭhisatasahassānaṁ,"
+    },
+    {
+      "id": "bv14:6.4",
+      "pali": "Tatiyābhisamayo ahu."
+    },
+    {
+      "id": "bv14:7.1",
+      "pali": "Sannipātā tayo āsuṁ,"
+    },
+    {
+      "id": "bv14:7.2",
+      "pali": "sujātassa mahesino;"
+    },
+    {
+      "id": "bv14:7.3",
+      "pali": "Khīṇāsavānaṁ vimalānaṁ,"
+    },
+    {
+      "id": "bv14:7.4",
+      "pali": "santacittāna tādinaṁ."
+    },
+    {
+      "id": "bv14:8.1",
+      "pali": "Abhiññābalappattānaṁ,"
+    },
+    {
+      "id": "bv14:8.2",
+      "pali": "appattānaṁ bhavābhave;"
+    },
+    {
+      "id": "bv14:8.3",
+      "pali": "Saṭṭhisatasahassāni,"
+    },
+    {
+      "id": "bv14:8.4",
+      "pali": "paṭhamaṁ sannipatiṁsu te."
+    },
+    {
+      "id": "bv14:9.1",
+      "pali": "Punāparaṁ sannipāte,"
+    },
+    {
+      "id": "bv14:9.2",
+      "pali": "tidivorohaṇe jine;"
+    },
+    {
+      "id": "bv14:9.3",
+      "pali": "Paññāsasatasahassānaṁ,"
+    },
+    {
+      "id": "bv14:9.4",
+      "pali": "dutiyo āsi samāgamo."
+    },
+    {
+      "id": "bv14:10.1",
+      "pali": "Upasaṅkamanto narāsabhaṁ,"
+    },
+    {
+      "id": "bv14:10.2",
+      "pali": "Tassa yo aggasāvako;"
+    },
+    {
+      "id": "bv14:10.3",
+      "pali": "Catūhi satasahassehi,"
+    },
+    {
+      "id": "bv14:10.4",
+      "pali": "Sambuddhaṁ upasaṅkami."
+    },
+    {
+      "id": "bv14:11.1",
+      "pali": "Ahaṁ tena samayena,"
+    },
+    {
+      "id": "bv14:11.2",
+      "pali": "catudīpamhi issaro;"
+    },
+    {
+      "id": "bv14:11.3",
+      "pali": "Antalikkhacaro āsiṁ,"
+    },
+    {
+      "id": "bv14:11.4",
+      "pali": "cakkavattī mahabbalo."
+    },
+    {
+      "id": "bv14:12.1",
+      "pali": "Loke acchariyaṁ disvā,"
+    },
+    {
+      "id": "bv14:12.2",
+      "pali": "abbhutaṁ lomahaṁsanaṁ;"
+    },
+    {
+      "id": "bv14:12.3",
+      "pali": "Upagantvāna vandiṁ so,"
+    },
+    {
+      "id": "bv14:12.4",
+      "pali": "sujātaṁ lokanāyakaṁ."
+    },
+    {
+      "id": "bv14:13.1",
+      "pali": "Catudīpe mahārajjaṁ,"
+    },
+    {
+      "id": "bv14:13.2",
+      "pali": "ratane satta uttame;"
+    },
+    {
+      "id": "bv14:13.3",
+      "pali": "Buddhe niyyādayitvāna,"
+    },
+    {
+      "id": "bv14:13.4",
+      "pali": "pabbajiṁ tassa santike."
+    },
+    {
+      "id": "bv14:14.1",
+      "pali": "Ārāmikā janapade,"
+    },
+    {
+      "id": "bv14:14.2",
+      "pali": "uṭṭhānaṁ paṭipiṇḍiya;"
+    },
+    {
+      "id": "bv14:14.3",
+      "pali": "Upanenti bhikkhusaṅghassa,"
+    },
+    {
+      "id": "bv14:14.4",
+      "pali": "paccayaṁ sayanāsanaṁ."
+    },
+    {
+      "id": "bv14:15.1",
+      "pali": "Sopi maṁ buddho byākāsi,"
+    },
+    {
+      "id": "bv14:15.2",
+      "pali": "dasasahassimhi issaro;"
+    },
+    {
+      "id": "bv14:15.3",
+      "pali": "‘Tiṁsakappasahassamhi,"
+    },
+    {
+      "id": "bv14:15.4",
+      "pali": "ayaṁ buddho bhavissati."
+    },
+    {
+      "id": "bv14:16.1",
+      "pali": "Padhānaṁ padahitvāna,"
+    },
+    {
+      "id": "bv14:16.2",
+      "pali": "…pe…"
+    },
+    {
+      "id": "bv14:16.3",
+      "pali": "hessāma sammukhā imaṁ’."
+    },
+    {
+      "id": "bv14:17.1",
+      "pali": "Tassāpi vacanaṁ sutvā,"
+    },
+    {
+      "id": "bv14:17.2",
+      "pali": "bhiyyo hāsaṁ janesahaṁ;"
+    },
+    {
+      "id": "bv14:17.3",
+      "pali": "Adhiṭṭhahiṁ vataṁ uggaṁ,"
+    },
+    {
+      "id": "bv14:17.4",
+      "pali": "dasapāramipūriyā."
+    },
+    {
+      "id": "bv14:18.1",
+      "pali": "Suttantaṁ vinayañcāpi,"
+    },
+    {
+      "id": "bv14:18.2",
+      "pali": "navaṅgaṁ satthusāsanaṁ;"
+    },
+    {
+      "id": "bv14:18.3",
+      "pali": "Sabbaṁ pariyāpuṇitvāna,"
+    },
+    {
+      "id": "bv14:18.4",
+      "pali": "sobhayiṁ jinasāsanaṁ."
+    },
+    {
+      "id": "bv14:19.1",
+      "pali": "Tatthappamatto viharanto,"
+    },
+    {
+      "id": "bv14:19.2",
+      "pali": "brahmaṁ bhāvetva bhāvanaṁ;"
+    },
+    {
+      "id": "bv14:19.3",
+      "pali": "Abhiññāpāramiṁ gantvā,"
+    },
+    {
+      "id": "bv14:19.4",
+      "pali": "brahmalokamagañchahaṁ."
+    },
+    {
+      "id": "bv14:20.1",
+      "pali": "Sumaṅgalaṁ nāma nagaraṁ,"
+    },
+    {
+      "id": "bv14:20.2",
+      "pali": "uggato nāma khattiyo;"
+    },
+    {
+      "id": "bv14:20.3",
+      "pali": "Mātā pabhāvatī nāma,"
+    },
+    {
+      "id": "bv14:20.4",
+      "pali": "sujātassa mahesino."
+    },
+    {
+      "id": "bv14:21.1",
+      "pali": "Navavassasahassāni,"
+    },
+    {
+      "id": "bv14:21.2",
+      "pali": "agāraṁ ajjha so vasi;"
+    },
+    {
+      "id": "bv14:21.3",
+      "pali": "Sirī upasirī nando,"
+    },
+    {
+      "id": "bv14:21.4",
+      "pali": "tayo pāsādamuttamā."
+    },
+    {
+      "id": "bv14:22.1",
+      "pali": "Tevīsatisahassāni,"
+    },
+    {
+      "id": "bv14:22.2",
+      "pali": "nāriyo samalaṅkatā;"
+    },
+    {
+      "id": "bv14:22.3",
+      "pali": "Sirinandā nāma nārī,"
+    },
+    {
+      "id": "bv14:22.4",
+      "pali": "upaseno nāma atrajo."
+    },
+    {
+      "id": "bv14:23.1",
+      "pali": "Nimitte caturo disvā,"
+    },
+    {
+      "id": "bv14:23.2",
+      "pali": "assayānena nikkhami;"
+    },
+    {
+      "id": "bv14:23.3",
+      "pali": "Anūnanavamāsāni,"
+    },
+    {
+      "id": "bv14:23.4",
+      "pali": "padhānaṁ padahī jino."
+    },
+    {
+      "id": "bv14:24.1",
+      "pali": "Brahmunā yācito santo,"
+    },
+    {
+      "id": "bv14:24.2",
+      "pali": "sujāto lokanāyako;"
+    },
+    {
+      "id": "bv14:24.3",
+      "pali": "Vatti cakkaṁ mahāvīro,"
+    },
+    {
+      "id": "bv14:24.4",
+      "pali": "sumaṅgaluyyānamuttame."
+    },
+    {
+      "id": "bv14:25.1",
+      "pali": "Sudassano sudevo ca,"
+    },
+    {
+      "id": "bv14:25.2",
+      "pali": "ahesuṁ aggasāvakā;"
+    },
+    {
+      "id": "bv14:25.3",
+      "pali": "Nārado nāmupaṭṭhāko,"
+    },
+    {
+      "id": "bv14:25.4",
+      "pali": "sujātassa mahesino."
+    },
+    {
+      "id": "bv14:26.1",
+      "pali": "Nāgā ca nāgasamālā ca,"
+    },
+    {
+      "id": "bv14:26.2",
+      "pali": "ahesuṁ aggasāvikā;"
+    },
+    {
+      "id": "bv14:26.3",
+      "pali": "Bodhi tassa bhagavato,"
+    },
+    {
+      "id": "bv14:26.4",
+      "pali": "mahāveḷūti vuccati."
+    },
+    {
+      "id": "bv14:27.1",
+      "pali": "So ca rukkho ghanakkhandho,"
+    },
+    {
+      "id": "bv14:27.2",
+      "pali": "Acchiddo hoti pattiko;"
+    },
+    {
+      "id": "bv14:27.3",
+      "pali": "Uju vaṁso brahā hoti,"
+    },
+    {
+      "id": "bv14:27.4",
+      "pali": "Dassanīyo manoramo."
+    },
+    {
+      "id": "bv14:28.1",
+      "pali": "Ekakkhandho pavaḍḍhitvā,"
+    },
+    {
+      "id": "bv14:28.2",
+      "pali": "tato sākhā pabhijjati;"
+    },
+    {
+      "id": "bv14:28.3",
+      "pali": "Yathā subaddho morahattho,"
+    },
+    {
+      "id": "bv14:28.4",
+      "pali": "evaṁ sobhati so dumo."
+    },
+    {
+      "id": "bv14:29.1",
+      "pali": "Na tassa kaṇṭakā honti,"
+    },
+    {
+      "id": "bv14:29.2",
+      "pali": "nāpi chiddaṁ mahā ahu;"
+    },
+    {
+      "id": "bv14:29.3",
+      "pali": "Vitthiṇṇasākho aviralo,"
+    },
+    {
+      "id": "bv14:29.4",
+      "pali": "sandacchāyo manoramo."
+    },
+    {
+      "id": "bv14:30.1",
+      "pali": "Sudatto ceva citto ca,"
+    },
+    {
+      "id": "bv14:30.2",
+      "pali": "ahesuṁ aggupaṭṭhakā;"
+    },
+    {
+      "id": "bv14:30.3",
+      "pali": "Subhaddā ca padumā ca,"
+    },
+    {
+      "id": "bv14:30.4",
+      "pali": "ahesuṁ aggupaṭṭhikā."
+    },
+    {
+      "id": "bv14:31.1",
+      "pali": "Paññāsaratano āsi,"
+    },
+    {
+      "id": "bv14:31.2",
+      "pali": "uccattanena so jino;"
+    },
+    {
+      "id": "bv14:31.3",
+      "pali": "Sabbākāravarūpeto,"
+    },
+    {
+      "id": "bv14:31.4",
+      "pali": "sabbaguṇamupāgato."
+    },
+    {
+      "id": "bv14:32.1",
+      "pali": "Tassa pabhā asamasamā,"
+    },
+    {
+      "id": "bv14:32.2",
+      "pali": "niddhāvati samantato;"
+    },
+    {
+      "id": "bv14:32.3",
+      "pali": "Appamāṇo atuliyo,"
+    },
+    {
+      "id": "bv14:32.4",
+      "pali": "opammehi anūpamo."
+    },
+    {
+      "id": "bv14:33.1",
+      "pali": "Navutivassasahassāni,"
+    },
+    {
+      "id": "bv14:33.2",
+      "pali": "āyu vijjati tāvade;"
+    },
+    {
+      "id": "bv14:33.3",
+      "pali": "Tāvatā tiṭṭhamāno so,"
+    },
+    {
+      "id": "bv14:33.4",
+      "pali": "tāresi janataṁ bahuṁ."
+    },
+    {
+      "id": "bv14:34.1",
+      "pali": "Yathāpi sāgare ūmī,"
+    },
+    {
+      "id": "bv14:34.2",
+      "pali": "gagane tārakā yathā;"
+    },
+    {
+      "id": "bv14:34.3",
+      "pali": "Evaṁ tadā pāvacanaṁ,"
+    },
+    {
+      "id": "bv14:34.4",
+      "pali": "arahantehi cittitaṁ."
+    },
+    {
+      "id": "bv14:35.1",
+      "pali": "So ca buddho asamasamo,"
+    },
+    {
+      "id": "bv14:35.2",
+      "pali": "Guṇāni ca tāni atuliyāni;"
+    },
+    {
+      "id": "bv14:35.3",
+      "pali": "Sabbaṁ tamantarahitaṁ,"
+    },
+    {
+      "id": "bv14:35.4",
+      "pali": "Nanu rittā sabbasaṅkhārā."
+    },
+    {
+      "id": "bv14:36.1",
+      "pali": "Sujāto jinavaro buddho,"
+    },
+    {
+      "id": "bv14:36.2",
+      "pali": "Silārāmamhi nibbuto;"
+    },
+    {
+      "id": "bv14:36.3",
+      "pali": "Tattheva tassa cetiyo,"
+    },
+    {
+      "id": "bv14:36.4",
+      "pali": "Tīṇigāvutamuggato”ti."
+    },
+    {
+      "id": "bv14:37.1",
+      "pali": "Sujātassa bhagavato vaṁso dvādasamo."
+    }
+  ]
+}

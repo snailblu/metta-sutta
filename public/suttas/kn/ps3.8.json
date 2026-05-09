@@ -1,0 +1,623 @@
+{
+  "uid": "ps3.8",
+  "title": "3.8. Satipaṭṭhānakathā",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "ps3.8:1.1",
+      "pali": "Sāvatthinidānaṁ."
+    },
+    {
+      "id": "ps3.8:1.2",
+      "pali": "“Cattārome, bhikkhave, satipaṭṭhānā."
+    },
+    {
+      "id": "ps3.8:1.3",
+      "pali": "Katame cattāro?"
+    },
+    {
+      "id": "ps3.8:1.4",
+      "pali": "Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "ps3.8:1.5",
+      "pali": "Vedanāsu …"
+    },
+    {
+      "id": "ps3.8:1.6",
+      "pali": "citte …"
+    },
+    {
+      "id": "ps3.8:1.7",
+      "pali": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "ps3.8:1.8",
+      "pali": "Ime kho, bhikkhave, cattāro satipaṭṭhānā”ti."
+    },
+    {
+      "id": "ps3.8:2.1",
+      "pali": "Kathaṁ <b>kāye kāyānupassī viharati?</b>"
+    },
+    {
+      "id": "ps3.8:2.2",
+      "pali": "Idhekacco pathavīkāyaṁ aniccato anupassati, no niccato;"
+    },
+    {
+      "id": "ps3.8:2.3",
+      "pali": "dukkhato anupassati, no sukhato;"
+    },
+    {
+      "id": "ps3.8:2.4",
+      "pali": "anattato anupassati, no attato;"
+    },
+    {
+      "id": "ps3.8:2.5",
+      "pali": "nibbindati, no nandati;"
+    },
+    {
+      "id": "ps3.8:2.6",
+      "pali": "virajjati, no rajjati;"
+    },
+    {
+      "id": "ps3.8:2.7",
+      "pali": "nirodheti, no samudeti, paṭinissajjati, no ādiyati."
+    },
+    {
+      "id": "ps3.8:2.8",
+      "pali": "Aniccato anupassanto niccasaññaṁ pajahati, dukkhato anupassanto sukhasaññaṁ pajahati, anattato anupassanto attasaññaṁ pajahati, nibbindanto nandiṁ pajahati, virajjanto rāgaṁ pajahati, nirodhento samudayaṁ pajahati, paṭinissajjanto ādānaṁ pajahati."
+    },
+    {
+      "id": "ps3.8:2.9",
+      "pali": "Imehi sattahi ākārehi kāyaṁ anupassati."
+    },
+    {
+      "id": "ps3.8:2.10",
+      "pali": "Kāyo upaṭṭhānaṁ, no sati."
+    },
+    {
+      "id": "ps3.8:2.11",
+      "pali": "Sati upaṭṭhānañceva sati ca."
+    },
+    {
+      "id": "ps3.8:2.12",
+      "pali": "Tāya satiyā tena ñāṇena taṁ kāyaṁ anupassati."
+    },
+    {
+      "id": "ps3.8:2.13",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps3.8:2.14",
+      "pali": "“kāye kāyānupassanāsatipaṭṭhānā”."
+    },
+    {
+      "id": "ps3.8:3.1",
+      "pali": "<b>Bhāvanā</b>ti catasso bhāvanā—"
+    },
+    {
+      "id": "ps3.8:3.2",
+      "pali": "tattha jātānaṁ dhammānaṁ anativattanaṭṭhena bhāvanā, indriyānaṁ ekarasaṭṭhena bhāvanā, tadupagavīriyavāhanaṭṭhena bhāvanā, āsevanaṭṭhena bhāvanā."
+    },
+    {
+      "id": "ps3.8:4.1",
+      "pali": "Idhekacco āpokāyaṁ …pe…"
+    },
+    {
+      "id": "ps3.8:4.2",
+      "pali": "tejokāyaṁ …"
+    },
+    {
+      "id": "ps3.8:4.3",
+      "pali": "vāyokāyaṁ …"
+    },
+    {
+      "id": "ps3.8:4.4",
+      "pali": "kesakāyaṁ …"
+    },
+    {
+      "id": "ps3.8:4.5",
+      "pali": "lomakāyaṁ …"
+    },
+    {
+      "id": "ps3.8:4.6",
+      "pali": "chavikāyaṁ …"
+    },
+    {
+      "id": "ps3.8:4.7",
+      "pali": "cammakāyaṁ …"
+    },
+    {
+      "id": "ps3.8:4.8",
+      "pali": "maṁsakāyaṁ …"
+    },
+    {
+      "id": "ps3.8:4.9",
+      "pali": "rudhirakāyaṁ …"
+    },
+    {
+      "id": "ps3.8:4.10",
+      "pali": "nhārukāyaṁ …"
+    },
+    {
+      "id": "ps3.8:4.11",
+      "pali": "aṭṭhikāyaṁ …"
+    },
+    {
+      "id": "ps3.8:4.12",
+      "pali": "aṭṭhimiñjakāyaṁ aniccato anupassati, no niccato;"
+    },
+    {
+      "id": "ps3.8:4.13",
+      "pali": "dukkhato anupassati, no sukhato;"
+    },
+    {
+      "id": "ps3.8:4.14",
+      "pali": "anattato anupassati, no attato;"
+    },
+    {
+      "id": "ps3.8:4.15",
+      "pali": "nibbindati, no nandati;"
+    },
+    {
+      "id": "ps3.8:4.16",
+      "pali": "virajjati, no rajjati, nirodheti, no samudeti;"
+    },
+    {
+      "id": "ps3.8:4.17",
+      "pali": "paṭinissajjati, no ādiyati."
+    },
+    {
+      "id": "ps3.8:4.18",
+      "pali": "Aniccato anupassanto niccasaññaṁ pajahati, dukkhato anupassanto sukhasaññaṁ pajahati, anattato anupassanto attasaññaṁ pajahati, nibbindanto nandiṁ pajahati, virajjanto rāgaṁ pajahati, nirodhento samudayaṁ pajahati, paṭinissajjanto ādānaṁ pajahati."
+    },
+    {
+      "id": "ps3.8:4.19",
+      "pali": "Imehi sattahi ākārehi kāyaṁ anupassati."
+    },
+    {
+      "id": "ps3.8:4.20",
+      "pali": "Kāyo upaṭṭhānaṁ, no sati."
+    },
+    {
+      "id": "ps3.8:4.21",
+      "pali": "Sati upaṭṭhānañceva sati ca."
+    },
+    {
+      "id": "ps3.8:4.22",
+      "pali": "Tāya satiyā tena ñāṇena taṁ kāyaṁ anupassati."
+    },
+    {
+      "id": "ps3.8:4.23",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps3.8:4.24",
+      "pali": "“kāye kāyānupassanāsatipaṭṭhānā”."
+    },
+    {
+      "id": "ps3.8:5.1",
+      "pali": "<b>Bhāvanā</b>ti catasso bhāvanā—"
+    },
+    {
+      "id": "ps3.8:5.2",
+      "pali": "tattha jātānaṁ dhammānaṁ anativattanaṭṭhena bhāvanā, indriyānaṁ ekarasaṭṭhena bhāvanā, tadupagavīriyavāhanaṭṭhena bhāvanā, āsevanaṭṭhena bhāvanā."
+    },
+    {
+      "id": "ps3.8:5.3",
+      "pali": "Evaṁ kāye kāyānupassī viharati."
+    },
+    {
+      "id": "ps3.8:6.1",
+      "pali": "Kathaṁ <b>vedanāsu vedanānupassī viharati?</b>"
+    },
+    {
+      "id": "ps3.8:6.2",
+      "pali": "Idhekacco sukhaṁ vedanaṁ aniccato anupassati, no niccato …pe…"
+    },
+    {
+      "id": "ps3.8:6.3",
+      "pali": "paṭinissajjati, no ādiyati."
+    },
+    {
+      "id": "ps3.8:6.4",
+      "pali": "Aniccato anupassanto niccasaññaṁ pajahati …pe…"
+    },
+    {
+      "id": "ps3.8:6.5",
+      "pali": "paṭinissajjanto ādānaṁ pajahati."
+    },
+    {
+      "id": "ps3.8:6.6",
+      "pali": "Imehi sattahi ākārehi vedanaṁ anupassati."
+    },
+    {
+      "id": "ps3.8:6.7",
+      "pali": "Vedanā upaṭṭhānaṁ, no sati."
+    },
+    {
+      "id": "ps3.8:6.8",
+      "pali": "Sati upaṭṭhānañceva sati ca."
+    },
+    {
+      "id": "ps3.8:6.9",
+      "pali": "Tāya satiyā tena ñāṇena taṁ vedanaṁ anupassati."
+    },
+    {
+      "id": "ps3.8:6.10",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps3.8:6.11",
+      "pali": "“vedanāsu vedanānupassanāsatipaṭṭhānā”."
+    },
+    {
+      "id": "ps3.8:7.1",
+      "pali": "<b>Bhāvanā</b>ti catasso bhāvanā …pe…"
+    },
+    {
+      "id": "ps3.8:7.2",
+      "pali": "āsevanaṭṭhena bhāvanā …pe…"
+    },
+    {
+      "id": "ps3.8:7.3",
+      "pali": "idhekacco dukkhaṁ vedanaṁ …pe…"
+    },
+    {
+      "id": "ps3.8:7.4",
+      "pali": "adukkhamasukhaṁ vedanaṁ …"
+    },
+    {
+      "id": "ps3.8:7.5",
+      "pali": "sāmisaṁ sukhaṁ vedanaṁ …"
+    },
+    {
+      "id": "ps3.8:7.6",
+      "pali": "nirāmisaṁ sukhaṁ vedanaṁ …"
+    },
+    {
+      "id": "ps3.8:7.7",
+      "pali": "sāmisaṁ dukkhaṁ vedanaṁ …"
+    },
+    {
+      "id": "ps3.8:7.8",
+      "pali": "nirāmisaṁ dukkhaṁ vedanaṁ …"
+    },
+    {
+      "id": "ps3.8:7.9",
+      "pali": "sāmisaṁ adukkhamasukhaṁ vedanaṁ …"
+    },
+    {
+      "id": "ps3.8:7.10",
+      "pali": "nirāmisaṁ adukkhamasukhaṁ vedanaṁ …"
+    },
+    {
+      "id": "ps3.8:7.11",
+      "pali": "cakkhusamphassajaṁ vedanaṁ …"
+    },
+    {
+      "id": "ps3.8:7.12",
+      "pali": "sotasamphassajaṁ vedanaṁ …"
+    },
+    {
+      "id": "ps3.8:7.13",
+      "pali": "ghānasamphassajaṁ vedanaṁ …"
+    },
+    {
+      "id": "ps3.8:7.14",
+      "pali": "jivhāsamphassajaṁ vedanaṁ …"
+    },
+    {
+      "id": "ps3.8:7.15",
+      "pali": "kāyasamphassajaṁ vedanaṁ …"
+    },
+    {
+      "id": "ps3.8:7.16",
+      "pali": "manosamphassajaṁ vedanaṁ aniccato anupassati, no niccato …pe…"
+    },
+    {
+      "id": "ps3.8:7.17",
+      "pali": "paṭinissajjati, no ādiyati."
+    },
+    {
+      "id": "ps3.8:7.18",
+      "pali": "Aniccato anupassanto niccasaññaṁ pajahati …pe…"
+    },
+    {
+      "id": "ps3.8:7.19",
+      "pali": "paṭinissajjanto ādānaṁ pajahati."
+    },
+    {
+      "id": "ps3.8:7.20",
+      "pali": "Imehi sattahi ākārehi vedanaṁ anupassati."
+    },
+    {
+      "id": "ps3.8:7.21",
+      "pali": "Vedanā upaṭṭhānaṁ, no sati."
+    },
+    {
+      "id": "ps3.8:7.22",
+      "pali": "Sati upaṭṭhānañceva sati ca."
+    },
+    {
+      "id": "ps3.8:7.23",
+      "pali": "Tāya satiyā tena ñāṇena taṁ vedanaṁ anupassati."
+    },
+    {
+      "id": "ps3.8:7.24",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps3.8:7.25",
+      "pali": "“vedanāsu vedanānupassanāsatipaṭṭhānā”."
+    },
+    {
+      "id": "ps3.8:8.1",
+      "pali": "<b>Bhāvanā</b>ti catasso bhāvanā …pe…"
+    },
+    {
+      "id": "ps3.8:8.2",
+      "pali": "evaṁ vedanāsu vedanānupassī viharati."
+    },
+    {
+      "id": "ps3.8:9.1",
+      "pali": "Kathaṁ <b>citte cittānupassī viharati?</b>"
+    },
+    {
+      "id": "ps3.8:9.2",
+      "pali": "Idhekacco sarāgaṁ cittaṁ aniccato anupassati, no niccato …pe…"
+    },
+    {
+      "id": "ps3.8:9.3",
+      "pali": "paṭinissajjati, no ādiyati."
+    },
+    {
+      "id": "ps3.8:9.4",
+      "pali": "Aniccato anupassanto niccasaññaṁ pajahati …pe…"
+    },
+    {
+      "id": "ps3.8:9.5",
+      "pali": "paṭinissajjanto ādānaṁ pajahati."
+    },
+    {
+      "id": "ps3.8:9.6",
+      "pali": "Imehi sattahi ākārehi cittaṁ anupassati."
+    },
+    {
+      "id": "ps3.8:9.7",
+      "pali": "Cittaṁ upaṭṭhānaṁ, no sati."
+    },
+    {
+      "id": "ps3.8:9.8",
+      "pali": "Sati upaṭṭhānañceva sati ca."
+    },
+    {
+      "id": "ps3.8:9.9",
+      "pali": "Tāya satiyā tena ñāṇena taṁ cittaṁ anupassati."
+    },
+    {
+      "id": "ps3.8:9.10",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps3.8:9.11",
+      "pali": "“citte cittānupassanāsatipaṭṭhānā”."
+    },
+    {
+      "id": "ps3.8:10.1",
+      "pali": "<b>Bhāvanā</b>ti catasso bhāvanā …pe…"
+    },
+    {
+      "id": "ps3.8:10.2",
+      "pali": "āsevanaṭṭhena bhāvanā."
+    },
+    {
+      "id": "ps3.8:11.1",
+      "pali": "Idhekacco vītarāgaṁ cittaṁ …pe…"
+    },
+    {
+      "id": "ps3.8:11.2",
+      "pali": "sadosaṁ cittaṁ …"
+    },
+    {
+      "id": "ps3.8:11.3",
+      "pali": "vītadosaṁ cittaṁ …"
+    },
+    {
+      "id": "ps3.8:11.4",
+      "pali": "samohaṁ cittaṁ …"
+    },
+    {
+      "id": "ps3.8:11.5",
+      "pali": "vītamohaṁ cittaṁ …"
+    },
+    {
+      "id": "ps3.8:11.6",
+      "pali": "saṅkhittaṁ cittaṁ …"
+    },
+    {
+      "id": "ps3.8:11.7",
+      "pali": "vikkhittaṁ cittaṁ …"
+    },
+    {
+      "id": "ps3.8:11.8",
+      "pali": "mahaggataṁ cittaṁ …"
+    },
+    {
+      "id": "ps3.8:11.9",
+      "pali": "amahaggataṁ cittaṁ …"
+    },
+    {
+      "id": "ps3.8:11.10",
+      "pali": "sauttaraṁ cittaṁ …"
+    },
+    {
+      "id": "ps3.8:11.11",
+      "pali": "anuttaraṁ cittaṁ …"
+    },
+    {
+      "id": "ps3.8:11.12",
+      "pali": "samāhitaṁ cittaṁ …"
+    },
+    {
+      "id": "ps3.8:11.13",
+      "pali": "asamāhitaṁ cittaṁ …"
+    },
+    {
+      "id": "ps3.8:11.14",
+      "pali": "vimuttaṁ cittaṁ …"
+    },
+    {
+      "id": "ps3.8:11.15",
+      "pali": "avimuttaṁ cittaṁ …"
+    },
+    {
+      "id": "ps3.8:11.16",
+      "pali": "cakkhuviññāṇaṁ …"
+    },
+    {
+      "id": "ps3.8:11.17",
+      "pali": "sotaviññāṇaṁ …"
+    },
+    {
+      "id": "ps3.8:11.18",
+      "pali": "ghānaviññāṇaṁ …"
+    },
+    {
+      "id": "ps3.8:11.19",
+      "pali": "jivhāviññāṇaṁ …"
+    },
+    {
+      "id": "ps3.8:11.20",
+      "pali": "kāyaviññāṇaṁ …"
+    },
+    {
+      "id": "ps3.8:11.21",
+      "pali": "manoviññāṇaṁ aniccato anupassati, no niccato …pe…"
+    },
+    {
+      "id": "ps3.8:11.22",
+      "pali": "paṭinissajjati, no ādiyati."
+    },
+    {
+      "id": "ps3.8:11.23",
+      "pali": "Aniccato anupassanto niccasaññaṁ pajahati …pe…"
+    },
+    {
+      "id": "ps3.8:11.24",
+      "pali": "paṭinissajjanto ādānaṁ pajahati."
+    },
+    {
+      "id": "ps3.8:11.25",
+      "pali": "Imehi sattahi ākārehi cittaṁ anupassati."
+    },
+    {
+      "id": "ps3.8:11.26",
+      "pali": "Cittaṁ upaṭṭhānaṁ, no sati."
+    },
+    {
+      "id": "ps3.8:11.27",
+      "pali": "Sati upaṭṭhānañceva sati ca."
+    },
+    {
+      "id": "ps3.8:11.28",
+      "pali": "Tāya satiyā tena ñāṇena taṁ cittaṁ anupassati."
+    },
+    {
+      "id": "ps3.8:11.29",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps3.8:11.30",
+      "pali": "“citte cittānupassanāsatipaṭṭhānā”."
+    },
+    {
+      "id": "ps3.8:12.1",
+      "pali": "<b>Bhāvanā</b>ti catasso bhāvanā …pe…"
+    },
+    {
+      "id": "ps3.8:12.2",
+      "pali": "āsevanaṭṭhena bhāvanā."
+    },
+    {
+      "id": "ps3.8:12.3",
+      "pali": "Evaṁ citte cittānupassī viharati."
+    },
+    {
+      "id": "ps3.8:13.1",
+      "pali": "Kathaṁ <b>dhammesu dhammānupassī viharati?</b>"
+    },
+    {
+      "id": "ps3.8:13.2",
+      "pali": "Idhekacco ṭhapetvā kāyaṁ ṭhapetvā vedanaṁ ṭhapetvā cittaṁ tadavasese dhamme aniccato anupassati, no niccato;"
+    },
+    {
+      "id": "ps3.8:13.3",
+      "pali": "dukkhato anupassati, no sukhato;"
+    },
+    {
+      "id": "ps3.8:13.4",
+      "pali": "anattato anupassati, no attato;"
+    },
+    {
+      "id": "ps3.8:13.5",
+      "pali": "nibbindati, no nandati;"
+    },
+    {
+      "id": "ps3.8:13.6",
+      "pali": "virajjati, no rajjati;"
+    },
+    {
+      "id": "ps3.8:13.7",
+      "pali": "nirodheti, no samudeti;"
+    },
+    {
+      "id": "ps3.8:13.8",
+      "pali": "paṭinissajjati, no ādiyati."
+    },
+    {
+      "id": "ps3.8:13.9",
+      "pali": "Aniccato anupassanto niccasaññaṁ pajahati, dukkhato anupassanto sukhasaññaṁ pajahati, anattato anupassanto attasaññaṁ pajahati, nibbindanto nandiṁ pajahati, virajjanto rāgaṁ pajahati, nirodhento samudayaṁ pajahati, paṭinissajjanto ādānaṁ pajahati."
+    },
+    {
+      "id": "ps3.8:13.10",
+      "pali": "Imehi sattahi ākārehi te dhamme anupassati."
+    },
+    {
+      "id": "ps3.8:13.11",
+      "pali": "Dhammā upaṭṭhānaṁ, no sati."
+    },
+    {
+      "id": "ps3.8:13.12",
+      "pali": "Sati upaṭṭhānañceva sati ca."
+    },
+    {
+      "id": "ps3.8:13.13",
+      "pali": "Tāya satiyā tena ñāṇena te dhamme anupassati."
+    },
+    {
+      "id": "ps3.8:13.14",
+      "pali": "Tena vuccati—"
+    },
+    {
+      "id": "ps3.8:13.15",
+      "pali": "“dhammesu dhammānupassanāsatipaṭṭhānā”."
+    },
+    {
+      "id": "ps3.8:14.1",
+      "pali": "<b>Bhāvanā</b>ti catasso bhāvanā—"
+    },
+    {
+      "id": "ps3.8:14.2",
+      "pali": "tattha jātānaṁ dhammānaṁ anativattanaṭṭhena bhāvanā, indriyānaṁ ekarasaṭṭhena bhāvanā, tadupagavīriyavāhanaṭṭhena bhāvanā, āsevanaṭṭhena bhāvanā."
+    },
+    {
+      "id": "ps3.8:14.3",
+      "pali": "Evaṁ dhammesu dhammānupassī viharatīti."
+    },
+    {
+      "id": "ps3.8:14.4",
+      "pali": "Satipaṭṭhānakathā niṭṭhitā."
+    }
+  ]
+}

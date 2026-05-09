@@ -1,0 +1,1231 @@
+{
+  "uid": "mn91",
+  "title": "Brahmāyusutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn91:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn91:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā videhesu cārikaṁ carati mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi."
+    },
+    {
+      "id": "mn91:2.1",
+      "pali": "Tena kho pana samayena brahmāyu brāhmaṇo mithilāyaṁ paṭivasati jiṇṇo vuḍḍho mahallako addhagato vayoanuppatto, vīsavassasatiko jātiyā, tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo."
+    },
+    {
+      "id": "mn91:3.1",
+      "pali": "Assosi kho brahmāyu brāhmaṇo:"
+    },
+    {
+      "id": "mn91:3.2",
+      "pali": "“samaṇo khalu bho, gotamo sakyaputto sakyakulā pabbajito videhesu cārikaṁ carati mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi."
+    },
+    {
+      "id": "mn91:3.3",
+      "pali": "Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato:"
+    },
+    {
+      "id": "mn91:3.4",
+      "pali": "‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti."
+    },
+    {
+      "id": "mn91:3.5",
+      "pali": "So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti."
+    },
+    {
+      "id": "mn91:3.6",
+      "pali": "So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ, kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti."
+    },
+    {
+      "id": "mn91:3.7",
+      "pali": "Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti."
+    },
+    {
+      "id": "mn91:4.1",
+      "pali": "Tena kho pana samayena brahmāyussa brāhmaṇassa uttaro nāma māṇavo antevāsī hoti tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo."
+    },
+    {
+      "id": "mn91:4.2",
+      "pali": "Atha kho brahmāyu brāhmaṇo uttaraṁ māṇavaṁ āmantesi:"
+    },
+    {
+      "id": "mn91:4.3",
+      "pali": "“ayaṁ, tāta uttara, samaṇo gotamo sakyaputto sakyakulā pabbajito videhesu cārikaṁ carati mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi."
+    },
+    {
+      "id": "mn91:4.4",
+      "pali": "Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato:"
+    },
+    {
+      "id": "mn91:4.5",
+      "pali": "‘itipi so bhagavā arahaṁ sammāsambuddho …pe…"
+    },
+    {
+      "id": "mn91:4.6",
+      "pali": "sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī’ti."
+    },
+    {
+      "id": "mn91:4.7",
+      "pali": "Ehi tvaṁ, tāta uttara, yena samaṇo gotamo tenupasaṅkama; upasaṅkamitvā samaṇaṁ gotamaṁ jānāhi, yadi vā taṁ bhavantaṁ gotamaṁ tathā santaṁyeva saddo abbhuggato, yadi vā no tathā;"
+    },
+    {
+      "id": "mn91:4.8",
+      "pali": "yadi vā so bhavaṁ gotamo tādiso, yadi vā na tādiso."
+    },
+    {
+      "id": "mn91:4.9",
+      "pali": "Tathā mayaṁ taṁ bhavantaṁ gotamaṁ vedissāmā”ti."
+    },
+    {
+      "id": "mn91:5.1",
+      "pali": "“Yathā kathaṁ panāhaṁ, bho, taṁ bhavantaṁ gotamaṁ jānissāmi yadi vā taṁ bhavantaṁ gotamaṁ tathā santaṁyeva saddo abbhuggato, yadi vā no tathā;"
+    },
+    {
+      "id": "mn91:5.2",
+      "pali": "yadi vā so bhavaṁ gotamo tādiso, yadi vā na tādiso”ti."
+    },
+    {
+      "id": "mn91:5.3",
+      "pali": "“Āgatāni kho, tāta uttara, amhākaṁ mantesu dvattiṁsamahāpurisalakkhaṇāni, yehi samannāgatassa mahāpurisassa dveyeva gatiyo bhavanti anaññā."
+    },
+    {
+      "id": "mn91:5.4",
+      "pali": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato."
+    },
+    {
+      "id": "mn91:5.5",
+      "pali": "Tassimāni satta ratanāni bhavanti, seyyathidaṁ—"
+    },
+    {
+      "id": "mn91:5.6",
+      "pali": "cakkaratanaṁ, hatthiratanaṁ, assaratanaṁ, maṇiratanaṁ, itthiratanaṁ, gahapatiratanaṁ, pariṇāyakaratanameva sattamaṁ."
+    },
+    {
+      "id": "mn91:5.7",
+      "pali": "Parosahassaṁ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā."
+    },
+    {
+      "id": "mn91:5.8",
+      "pali": "So imaṁ pathaviṁ sāgarapariyantaṁ adaṇḍena asatthena dhammena abhivijiya ajjhāvasati."
+    },
+    {
+      "id": "mn91:5.9",
+      "pali": "Sace kho pana agārasmā anagāriyaṁ pabbajati, arahaṁ hoti sammāsambuddho loke vivaṭṭacchado."
+    },
+    {
+      "id": "mn91:5.10",
+      "pali": "Ahaṁ kho pana, tāta uttara, mantānaṁ dātā;"
+    },
+    {
+      "id": "mn91:5.11",
+      "pali": "tvaṁ mantānaṁ paṭiggahetā”ti."
+    },
+    {
+      "id": "mn91:6.1",
+      "pali": "“Evaṁ, bho”ti kho uttaro māṇavo brahmāyussa brāhmaṇassa paṭissutvā uṭṭhāyāsanā brahmāyuṁ brāhmaṇaṁ abhivādetvā padakkhiṇaṁ katvā videhesu yena bhagavā tena cārikaṁ pakkāmi."
+    },
+    {
+      "id": "mn91:6.2",
+      "pali": "Anupubbena cārikaṁ caramāno yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn91:6.3",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "mn91:6.4",
+      "pali": "Ekamantaṁ nisinno kho uttaro māṇavo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni samannesi."
+    },
+    {
+      "id": "mn91:6.5",
+      "pali": "Addasā kho uttaro māṇavo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni, yebhuyyena thapetvā dve."
+    },
+    {
+      "id": "mn91:6.6",
+      "pali": "Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—"
+    },
+    {
+      "id": "mn91:6.7",
+      "pali": "kosohite ca vatthaguyhe pahūtajivhatāya ca."
+    },
+    {
+      "id": "mn91:6.8",
+      "pali": "Atha kho bhagavato etadahosi:"
+    },
+    {
+      "id": "mn91:6.9",
+      "pali": "“passati kho me ayaṁ uttaro māṇavo dvattiṁsamahāpurisalakkhaṇāni, yebhuyyena thapetvā dve."
+    },
+    {
+      "id": "mn91:6.10",
+      "pali": "Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—"
+    },
+    {
+      "id": "mn91:6.11",
+      "pali": "kosohite ca vatthaguyhe pahūtajivhatāya cā”ti."
+    },
+    {
+      "id": "mn91:7.1",
+      "pali": "Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi yathā addasa uttaro māṇavo bhagavato kosohitaṁ vatthaguyhaṁ."
+    },
+    {
+      "id": "mn91:7.2",
+      "pali": "Atha kho bhagavā jivhaṁ ninnāmetvā ubhopi kaṇṇasotāni anumasi paṭimasi; ubhopi nāsikasotāni anumasi paṭimasi; kevalampi nalāṭamaṇḍalaṁ jivhāya chādesi."
+    },
+    {
+      "id": "mn91:8.1",
+      "pali": "Atha kho uttarassa māṇavassa etadahosi:"
+    },
+    {
+      "id": "mn91:8.2",
+      "pali": "“samannāgato kho samaṇo gotamo dvattiṁsamahāpurisalakkhaṇehi."
+    },
+    {
+      "id": "mn91:8.3",
+      "pali": "Yannūnāhaṁ samaṇaṁ gotamaṁ anubandheyyaṁ, iriyāpathamassa passeyyan”ti."
+    },
+    {
+      "id": "mn91:8.4",
+      "pali": "Atha kho uttaro māṇavo sattamāsāni bhagavantaṁ anubandhi chāyāva anapāyinī."
+    },
+    {
+      "id": "mn91:8.5",
+      "pali": "Atha kho uttaro māṇavo sattannaṁ māsānaṁ accayena videhesu yena mithilā tena cārikaṁ pakkāmi."
+    },
+    {
+      "id": "mn91:8.6",
+      "pali": "Anupubbena cārikaṁ caramāno yena mithilā yena brahmāyu brāhmaṇo tenupasaṅkami; upasaṅkamitvā brahmāyuṁ brāhmaṇaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho uttaraṁ māṇavaṁ brahmāyu brāhmaṇo etadavoca:"
+    },
+    {
+      "id": "mn91:8.7",
+      "pali": "“kacci, tāta uttara, taṁ bhavantaṁ gotamaṁ tathā santaṁyeva saddo abbhuggato, no aññathā?"
+    },
+    {
+      "id": "mn91:8.8",
+      "pali": "Kacci pana so bhavaṁ gotamo tādiso, no aññādiso”ti?"
+    },
+    {
+      "id": "mn91:8.9",
+      "pali": "“Tathā santaṁyeva, bho, taṁ bhavantaṁ gotamaṁ saddo abbhuggato, no aññathā;"
+    },
+    {
+      "id": "mn91:8.10",
+      "pali": "tādisova so bhavaṁ gotamo, no aññādiso."
+    },
+    {
+      "id": "mn91:8.11",
+      "pali": "Samannāgato ca so bhavaṁ gotamo dvattiṁsamahāpurisalakkhaṇehi."
+    },
+    {
+      "id": "mn91:9.1",
+      "pali": "Suppatiṭṭhitapādo kho pana bho bhavaṁ gotamo;"
+    },
+    {
+      "id": "mn91:9.2",
+      "pali": "idampi tassa bhoto gotamassa mahāpurisassa mahāpurisalakkhaṇaṁ bhavati."
+    },
+    {
+      "id": "mn91:9.3",
+      "pali": "Heṭṭhā kho pana tassa bhoto gotamassa pādatalesu cakkāni jātāni sahassārāni sanemikāni sanābhikāni sabbākāraparipūrāni …"
+    },
+    {
+      "id": "mn91:9.4",
+      "pali": "Āyatapaṇhi kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.5",
+      "pali": "Dīghaṅguli kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.6",
+      "pali": "Mudutalunahatthapādo kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.7",
+      "pali": "Jālahatthapādo kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.8",
+      "pali": "Ussaṅkhapādo kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.9",
+      "pali": "Eṇijaṅgho kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.10",
+      "pali": "Ṭhitako kho pana so bhavaṁ gotamo anonamanto ubhohi pāṇitalehi jaṇṇukāni parimasati parimajjati …"
+    },
+    {
+      "id": "mn91:9.11",
+      "pali": "Kosohitavatthaguyho kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.12",
+      "pali": "Suvaṇṇavaṇṇo kho pana so bhavaṁ gotamo kañcanasannibhattaco …"
+    },
+    {
+      "id": "mn91:9.13",
+      "pali": "Sukhumacchavi kho pana so bhavaṁ gotamo. Sukhumattā chaviyā rajojallaṁ kāye na upalimpati …"
+    },
+    {
+      "id": "mn91:9.14",
+      "pali": "Ekekalomo kho pana so bhavaṁ gotamo; ekekāni lomāni lomakūpesu jātāni …"
+    },
+    {
+      "id": "mn91:9.15",
+      "pali": "Uddhaggalomo kho pana so bhavaṁ gotamo; uddhaggāni lomāni jātāni nīlāni añjanavaṇṇāni kuṇḍalāvaṭṭāni dakkhiṇāvaṭṭakajātāni …"
+    },
+    {
+      "id": "mn91:9.16",
+      "pali": "Brahmujugatto kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.17",
+      "pali": "Sattussado kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.18",
+      "pali": "Sīhapubbaddhakāyo kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.19",
+      "pali": "Citantaraṁso kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.20",
+      "pali": "Nigrodhaparimaṇḍalo kho pana so bhavaṁ gotamo; yāvatakvassa kāyo tāvatakvassa byāmo, yāvatakvassa byāmo tāvatakvassa kāyo …"
+    },
+    {
+      "id": "mn91:9.21",
+      "pali": "Samavaṭṭakkhandho kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.22",
+      "pali": "Rasaggasaggī kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.23",
+      "pali": "Sīhahanu kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.24",
+      "pali": "Cattālīsadanto kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.25",
+      "pali": "Samadanto kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.26",
+      "pali": "Aviraḷadanto kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.27",
+      "pali": "Susukkadāṭho kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.28",
+      "pali": "Pahūtajivho kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.29",
+      "pali": "Brahmassaro kho pana so bhavaṁ gotamo karavikabhāṇī …"
+    },
+    {
+      "id": "mn91:9.30",
+      "pali": "Abhinīlanetto kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.31",
+      "pali": "Gopakhumo kho pana so bhavaṁ gotamo …"
+    },
+    {
+      "id": "mn91:9.32",
+      "pali": "Uṇṇā kho panassa bhoto gotamassa bhamukantare jātā odātā mudutūlasannibhā …"
+    },
+    {
+      "id": "mn91:9.33",
+      "pali": "Uṇhīsasīso kho pana so bhavaṁ gotamo; idampi tassa bhoto gotamassa mahāpurisassa mahāpurisalakkhaṇaṁ bhavati."
+    },
+    {
+      "id": "mn91:9.34",
+      "pali": "Imehi kho, bho, so bhavaṁ gotamo dvattiṁsamahāpurisalakkhaṇehi samannāgato."
+    },
+    {
+      "id": "mn91:10.1",
+      "pali": "Gacchanto kho pana so bhavaṁ gotamo dakkhiṇeneva pādena paṭhamaṁ pakkamati."
+    },
+    {
+      "id": "mn91:10.2",
+      "pali": "So nātidūre pādaṁ uddharati, nāccāsanne pādaṁ nikkhipati;"
+    },
+    {
+      "id": "mn91:10.3",
+      "pali": "so nātisīghaṁ gacchati, nātisaṇikaṁ gacchati;"
+    },
+    {
+      "id": "mn91:10.4",
+      "pali": "na ca adduvena adduvaṁ saṅghaṭṭento gacchati, na ca gopphakena gopphakaṁ saṅghaṭṭento gacchati."
+    },
+    {
+      "id": "mn91:10.5",
+      "pali": "So gacchanto na satthiṁ unnāmeti, na satthiṁ onāmeti; na satthiṁ sannāmeti, na satthiṁ vināmeti."
+    },
+    {
+      "id": "mn91:10.6",
+      "pali": "Gacchato kho pana tassa bhoto gotamassa adharakāyova iñjati, na ca kāyabalena gacchati."
+    },
+    {
+      "id": "mn91:10.7",
+      "pali": "Apalokento kho pana so bhavaṁ gotamo sabbakāyeneva apaloketi;"
+    },
+    {
+      "id": "mn91:10.8",
+      "pali": "so na uddhaṁ ulloketi, na adho oloketi;"
+    },
+    {
+      "id": "mn91:10.9",
+      "pali": "na ca vipekkhamāno gacchati, yugamattañca pekkhati; tato cassa uttari anāvaṭaṁ ñāṇadassanaṁ bhavati."
+    },
+    {
+      "id": "mn91:11.1",
+      "pali": "So antaragharaṁ pavisanto na kāyaṁ unnāmeti, na kāyaṁ onāmeti; na kāyaṁ sannāmeti, na kāyaṁ vināmeti."
+    },
+    {
+      "id": "mn91:12.1",
+      "pali": "So nātidūre nāccāsanne āsanassa parivattati, na ca pāṇinā ālambitvā āsane nisīdati, na ca āsanasmiṁ kāyaṁ pakkhipati."
+    },
+    {
+      "id": "mn91:12.2",
+      "pali": "So antaraghare nisinno samāno na hatthakukkuccaṁ āpajjati, na pādakukkuccaṁ āpajjati;"
+    },
+    {
+      "id": "mn91:12.3",
+      "pali": "na adduvena adduvaṁ āropetvā nisīdati; na ca gopphakena gopphakaṁ āropetvā nisīdati;"
+    },
+    {
+      "id": "mn91:12.4",
+      "pali": "na ca pāṇinā hanukaṁ upadahitvā nisīdati."
+    },
+    {
+      "id": "mn91:12.5",
+      "pali": "So antaraghare nisinno samāno na chambhati na kampati na vedhati na paritassati. So achambhī akampī avedhī aparitassī vigatalomahaṁso."
+    },
+    {
+      "id": "mn91:12.6",
+      "pali": "Vivekavatto ca so bhavaṁ gotamo antaraghare nisinno hoti."
+    },
+    {
+      "id": "mn91:13.1",
+      "pali": "So pattodakaṁ paṭiggaṇhanto na pattaṁ unnāmeti, na pattaṁ onāmeti; na pattaṁ sannāmeti, na pattaṁ vināmeti."
+    },
+    {
+      "id": "mn91:14.1",
+      "pali": "So pattodakaṁ paṭiggaṇhāti nātithokaṁ nātibahuṁ."
+    },
+    {
+      "id": "mn91:14.2",
+      "pali": "So na khulukhulukārakaṁ pattaṁ dhovati, na samparivattakaṁ pattaṁ dhovati, na pattaṁ bhūmiyaṁ nikkhipitvā hatthe dhovati; hatthesu dhotesu patto dhoto hoti, patte dhote hatthā dhotā honti."
+    },
+    {
+      "id": "mn91:14.3",
+      "pali": "So pattodakaṁ chaḍḍeti nātidūre nāccāsanne, na ca vicchaḍḍayamāno."
+    },
+    {
+      "id": "mn91:14.4",
+      "pali": "So odanaṁ paṭiggaṇhanto na pattaṁ unnāmeti, na pattaṁ onāmeti; na pattaṁ sannāmeti, na pattaṁ vināmeti."
+    },
+    {
+      "id": "mn91:14.5",
+      "pali": "So odanaṁ paṭiggaṇhāti nātithokaṁ nātibahuṁ."
+    },
+    {
+      "id": "mn91:14.6",
+      "pali": "Byañjanaṁ kho pana bhavaṁ gotamo byañjanamattāya āhāreti, na ca byañjanena ālopaṁ atināmeti."
+    },
+    {
+      "id": "mn91:14.7",
+      "pali": "Dvattikkhattuṁ kho bhavaṁ gotamo mukhe ālopaṁ samparivattetvā ajjhoharati;"
+    },
+    {
+      "id": "mn91:14.8",
+      "pali": "na cassa kāci odanamiñjā asambhinnā kāyaṁ pavisati, na cassa kāci odanamiñjā mukhe avasiṭṭhā hoti;"
+    },
+    {
+      "id": "mn91:14.9",
+      "pali": "athāparaṁ ālopaṁ upanāmeti."
+    },
+    {
+      "id": "mn91:14.10",
+      "pali": "Rasapaṭisaṁvedī kho pana so bhavaṁ gotamo āhāraṁ āhāreti, no ca rasarāgapaṭisaṁvedī."
+    },
+    {
+      "id": "mn91:14.11",
+      "pali": "Aṭṭhaṅgasamannāgataṁ kho pana so bhavaṁ gotamo āhāraṁ āhāreti—"
+    },
+    {
+      "id": "mn91:14.12",
+      "pali": "neva davāya, na madāya na maṇḍanāya na vibhūsanāya, yāvadeva imassa kāyassa ṭhitiyā yāpanāya, vihiṁsūparatiyā brahmacariyānuggahāya: ‘iti purāṇañca vedanaṁ paṭihaṅkhāmi navañca vedanaṁ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā’ti."
+    },
+    {
+      "id": "mn91:15.1",
+      "pali": "So bhuttāvī pattodakaṁ paṭiggaṇhanto na pattaṁ unnāmeti, na pattaṁ onāmeti; na pattaṁ sannāmeti, na pattaṁ vināmeti."
+    },
+    {
+      "id": "mn91:15.2",
+      "pali": "So pattodakaṁ paṭiggaṇhāti nātithokaṁ nātibahuṁ."
+    },
+    {
+      "id": "mn91:15.3",
+      "pali": "So na khulukhulukārakaṁ pattaṁ dhovati, na samparivattakaṁ pattaṁ dhovati, na pattaṁ bhūmiyaṁ nikkhipitvā hatthe dhovati; hatthesu dhotesu patto dhoto hoti, patte dhote hatthā dhotā honti."
+    },
+    {
+      "id": "mn91:15.4",
+      "pali": "So pattodakaṁ chaḍḍeti nātidūre nāccāsanne, na ca vicchaḍḍayamāno."
+    },
+    {
+      "id": "mn91:16.1",
+      "pali": "So bhuttāvī na pattaṁ bhūmiyaṁ nikkhipati nātidūre nāccāsanne, na ca anatthiko pattena hoti, na ca ativelānurakkhī pattasmiṁ."
+    },
+    {
+      "id": "mn91:17.1",
+      "pali": "So bhuttāvī muhuttaṁ tuṇhī nisīdati, na ca anumodanassa kālamatināmeti."
+    },
+    {
+      "id": "mn91:17.2",
+      "pali": "So bhuttāvī anumodati, na taṁ bhattaṁ garahati, na aññaṁ bhattaṁ paṭikaṅkhati;"
+    },
+    {
+      "id": "mn91:17.3",
+      "pali": "aññadatthu dhammiyā kathāya taṁ parisaṁ sandasseti samādapeti samuttejeti sampahaṁseti."
+    },
+    {
+      "id": "mn91:17.4",
+      "pali": "So taṁ parisaṁ dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā uṭṭhāyāsanā pakkamati."
+    },
+    {
+      "id": "mn91:18.1",
+      "pali": "So nātisīghaṁ gacchati, nātisaṇikaṁ gacchati, na ca muccitukāmo gacchati;"
+    },
+    {
+      "id": "mn91:19.1",
+      "pali": "na ca tassa bhoto gotamassa kāye cīvaraṁ accukkaṭṭhaṁ hoti na ca accokkaṭṭhaṁ, na ca kāyasmiṁ allīnaṁ na ca kāyasmā apakaṭṭhaṁ;"
+    },
+    {
+      "id": "mn91:19.2",
+      "pali": "na ca tassa bhoto gotamassa kāyamhā vāto cīvaraṁ apavahati;"
+    },
+    {
+      "id": "mn91:19.3",
+      "pali": "na ca tassa bhoto gotamassa kāye rajojallaṁ upalimpati."
+    },
+    {
+      "id": "mn91:20.1",
+      "pali": "So ārāmagato nisīdati paññatte āsane. Nisajja pāde pakkhāleti;"
+    },
+    {
+      "id": "mn91:20.2",
+      "pali": "na ca so bhavaṁ gotamo pādamaṇḍanānuyogamanuyutto viharati."
+    },
+    {
+      "id": "mn91:20.3",
+      "pali": "So pāde pakkhāletvā nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā."
+    },
+    {
+      "id": "mn91:20.4",
+      "pali": "So neva attabyābādhāya ceteti, na parabyābādhāya ceteti, na ubhayabyābādhāya ceteti;"
+    },
+    {
+      "id": "mn91:20.5",
+      "pali": "attahitaparahitaubhayahitasabbalokahitameva so bhavaṁ gotamo cintento nisinno hoti."
+    },
+    {
+      "id": "mn91:21.1",
+      "pali": "So ārāmagato parisati dhammaṁ deseti, na taṁ parisaṁ ussādeti, na taṁ parisaṁ apasādeti;"
+    },
+    {
+      "id": "mn91:21.2",
+      "pali": "aññadatthu dhammiyā kathāya taṁ parisaṁ sandasseti samādapeti samuttejeti sampahaṁseti."
+    },
+    {
+      "id": "mn91:21.3",
+      "pali": "Aṭṭhaṅgasamannāgato kho panassa bhoto gotamassa mukhato ghoso niccharati—"
+    },
+    {
+      "id": "mn91:21.4",
+      "pali": "vissaṭṭho ca, viññeyyo ca, mañju ca, savanīyo ca, bindu ca, avisārī ca, gambhīro ca, ninnādī ca."
+    },
+    {
+      "id": "mn91:21.5",
+      "pali": "Yathāparisaṁ kho pana so bhavaṁ gotamo sarena viññāpeti, na cassa bahiddhā parisāya ghoso niccharati."
+    },
+    {
+      "id": "mn91:21.6",
+      "pali": "Te tena bhotā gotamena dhammiyā kathāya sandassitā samādapitā samuttejitā sampahaṁsitā uṭṭhāyāsanā pakkamanti avalokayamānāyeva avijahitattā."
+    },
+    {
+      "id": "mn91:22.1",
+      "pali": "Addasāma kho mayaṁ, bho, taṁ bhavantaṁ gotamaṁ gacchantaṁ, addasāma ṭhitaṁ, addasāma antaragharaṁ pavisantaṁ, addasāma antaraghare nisinnaṁ tuṇhībhūtaṁ, addasāma antaraghare bhuñjantaṁ, addasāma bhuttāviṁ nisinnaṁ tuṇhībhūtaṁ, addasāma bhuttāviṁ anumodantaṁ, addasāma ārāmaṁ gacchantaṁ, addasāma ārāmagataṁ nisinnaṁ tuṇhībhūtaṁ, addasāma ārāmagataṁ parisati dhammaṁ desentaṁ."
+    },
+    {
+      "id": "mn91:22.2",
+      "pali": "Ediso ca ediso ca so bhavaṁ gotamo, tato ca bhiyyo”ti."
+    },
+    {
+      "id": "mn91:23.1",
+      "pali": "Evaṁ vutte, brahmāyu brāhmaṇo uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā tikkhattuṁ udānaṁ udāneti:"
+    },
+    {
+      "id": "mn91:23.2",
+      "pali": "“Namo tassa bhagavato arahato sammāsambuddhassa."
+    },
+    {
+      "id": "mn91:23.3",
+      "pali": "Namo tassa bhagavato arahato sammāsambuddhassa."
+    },
+    {
+      "id": "mn91:23.4",
+      "pali": "Namo tassa bhagavato arahato sammāsambuddhassāti."
+    },
+    {
+      "id": "mn91:23.5",
+      "pali": "Appeva nāma mayaṁ kadāci karahaci tena bhotā gotamena samāgaccheyyāma? Appeva nāma siyā kocideva kathāsallāpo”ti."
+    },
+    {
+      "id": "mn91:24.1",
+      "pali": "Atha kho bhagavā videhesu anupubbena cārikaṁ caramāno yena mithilā tadavasari."
+    },
+    {
+      "id": "mn91:24.2",
+      "pali": "Tatra sudaṁ bhagavā mithilāyaṁ viharati maghadevaambavane."
+    },
+    {
+      "id": "mn91:24.3",
+      "pali": "Assosuṁ kho mithileyyakā brāhmaṇagahapatikā:"
+    },
+    {
+      "id": "mn91:24.4",
+      "pali": "“samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito videhesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi mithilaṁ anuppatto, mithilāyaṁ viharati maghadevaambavane."
+    },
+    {
+      "id": "mn91:24.5",
+      "pali": "Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato:"
+    },
+    {
+      "id": "mn91:24.6",
+      "pali": "‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti."
+    },
+    {
+      "id": "mn91:24.7",
+      "pali": "So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti."
+    },
+    {
+      "id": "mn91:24.8",
+      "pali": "So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ, kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti."
+    },
+    {
+      "id": "mn91:24.9",
+      "pali": "Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti."
+    },
+    {
+      "id": "mn91:25.1",
+      "pali": "Atha kho mithileyyakā brāhmaṇagahapatikā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā appekacce bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu; appekacce bhagavatā saddhiṁ sammodiṁsu, sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu; appekacce yena bhagavā tenañjaliṁ paṇāmetvā ekamantaṁ nisīdiṁsu; appekacce bhagavato santike nāmagottaṁ sāvetvā ekamantaṁ nisīdiṁsu; appekacce tuṇhībhūtā ekamantaṁ nisīdiṁsu."
+    },
+    {
+      "id": "mn91:26.1",
+      "pali": "Assosi kho brahmāyu brāhmaṇo: “samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito mithilaṁ anuppatto, mithilāyaṁ viharati maghadevaambavane”ti."
+    },
+    {
+      "id": "mn91:26.2",
+      "pali": "Atha kho brahmāyu brāhmaṇo sambahulehi sāvakehi saddhiṁ yena maghadevaambavanaṁ tenupasaṅkami."
+    },
+    {
+      "id": "mn91:26.3",
+      "pali": "Atha kho brahmāyuno brāhmaṇassa avidūre ambavanassa etadahosi:"
+    },
+    {
+      "id": "mn91:26.4",
+      "pali": "“na kho metaṁ patirūpaṁ yohaṁ pubbe appaṭisaṁvidito samaṇaṁ gotamaṁ dassanāya upasaṅkameyyan”ti."
+    },
+    {
+      "id": "mn91:26.5",
+      "pali": "Atha kho brahmāyu brāhmaṇo aññataraṁ māṇavakaṁ āmantesi:"
+    },
+    {
+      "id": "mn91:26.6",
+      "pali": "“ehi tvaṁ, māṇavaka, yena samaṇo gotamo tenupasaṅkama; upasaṅkamitvā mama vacanena samaṇaṁ gotamaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha:"
+    },
+    {
+      "id": "mn91:26.7",
+      "pali": "‘brahmāyu, bho gotama, brāhmaṇo bhavantaṁ gotamaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’ti."
+    },
+    {
+      "id": "mn91:26.8",
+      "pali": "Evañca vadehi:"
+    },
+    {
+      "id": "mn91:26.9",
+      "pali": "‘brahmāyu, bho gotama, brāhmaṇo jiṇṇo vuḍḍho mahallako addhagato vayoanuppatto, vīsavassasatiko jātiyā, tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo."
+    },
+    {
+      "id": "mn91:26.10",
+      "pali": "Yāvatā, bho, brāhmaṇagahapatikā mithilāyaṁ paṭivasanti, brahmāyu tesaṁ brāhmaṇo aggamakkhāyati—"
+    },
+    {
+      "id": "mn91:26.11",
+      "pali": "yadidaṁ bhogehi;"
+    },
+    {
+      "id": "mn91:26.12",
+      "pali": "brahmāyu tesaṁ brāhmaṇo aggamakkhāyati—"
+    },
+    {
+      "id": "mn91:26.13",
+      "pali": "yadidaṁ mantehi;"
+    },
+    {
+      "id": "mn91:26.14",
+      "pali": "brahmāyu tesaṁ brāhmaṇo aggamakkhāyati—"
+    },
+    {
+      "id": "mn91:26.15",
+      "pali": "yadidaṁ āyunā ceva yasasā ca."
+    },
+    {
+      "id": "mn91:26.16",
+      "pali": "So bhoto gotamassa dassanakāmo’”ti."
+    },
+    {
+      "id": "mn91:26.17",
+      "pali": "“Evaṁ, bho”ti kho so māṇavako brahmāyussa brāhmaṇassa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn91:26.18",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho so māṇavako bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn91:26.19",
+      "pali": "“brahmāyu, bho gotama, brāhmaṇo bhavantaṁ gotamaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati;"
+    },
+    {
+      "id": "mn91:26.20",
+      "pali": "evañca vadeti:"
+    },
+    {
+      "id": "mn91:26.21",
+      "pali": "‘brahmāyu, bho gotama, brāhmaṇo jiṇṇo vuḍḍho mahallako addhagato vayoanuppatto, vīsavassasatiko jātiyā, tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo."
+    },
+    {
+      "id": "mn91:26.22",
+      "pali": "Yāvatā, bho, brāhmaṇagahapatikā mithilāyaṁ paṭivasanti, brahmāyu tesaṁ brāhmaṇo aggamakkhāyati—"
+    },
+    {
+      "id": "mn91:26.23",
+      "pali": "yadidaṁ bhogehi;"
+    },
+    {
+      "id": "mn91:26.24",
+      "pali": "brahmāyu tesaṁ brāhmaṇo aggamakkhāyati—"
+    },
+    {
+      "id": "mn91:26.25",
+      "pali": "yadidaṁ mantehi;"
+    },
+    {
+      "id": "mn91:26.26",
+      "pali": "brahmāyu tesaṁ brāhmaṇo aggamakkhāyati—"
+    },
+    {
+      "id": "mn91:26.27",
+      "pali": "yadidaṁ āyunā ceva yasasā ca."
+    },
+    {
+      "id": "mn91:26.28",
+      "pali": "So bhoto gotamassa dassanakāmo’”ti."
+    },
+    {
+      "id": "mn91:26.29",
+      "pali": "“Yassadāni, māṇava, brahmāyu brāhmaṇo kālaṁ maññatī”ti."
+    },
+    {
+      "id": "mn91:27.1",
+      "pali": "Atha kho so māṇavako yena brahmāyu brāhmaṇo tenupasaṅkami; upasaṅkamitvā brahmāyuṁ brāhmaṇaṁ etadavoca:"
+    },
+    {
+      "id": "mn91:27.2",
+      "pali": "“katāvakāso khomhi bhavatā samaṇena gotamena."
+    },
+    {
+      "id": "mn91:27.3",
+      "pali": "Yassadāni bhavaṁ kālaṁ maññatī”ti."
+    },
+    {
+      "id": "mn91:28.1",
+      "pali": "Atha kho brahmāyu brāhmaṇo yena bhagavā tenupasaṅkami."
+    },
+    {
+      "id": "mn91:28.2",
+      "pali": "Addasā kho sā parisā brahmāyuṁ brāhmaṇaṁ dūratova āgacchantaṁ."
+    },
+    {
+      "id": "mn91:28.3",
+      "pali": "Disvāna oramiya okāsamakāsi yathā taṁ ñātassa yasassino."
+    },
+    {
+      "id": "mn91:28.4",
+      "pali": "Atha kho brahmāyu brāhmaṇo taṁ parisaṁ etadavoca:"
+    },
+    {
+      "id": "mn91:28.5",
+      "pali": "“alaṁ, bho."
+    },
+    {
+      "id": "mn91:28.6",
+      "pali": "Nisīdatha tumhe sake āsane."
+    },
+    {
+      "id": "mn91:28.7",
+      "pali": "Idhāhaṁ samaṇassa gotamassa santike nisīdissāmī”ti."
+    },
+    {
+      "id": "mn91:29.1",
+      "pali": "Atha kho brahmāyu brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn91:29.2",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "mn91:29.3",
+      "pali": "Ekamantaṁ nisinno kho brahmāyu brāhmaṇo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni samannesi."
+    },
+    {
+      "id": "mn91:29.4",
+      "pali": "Addasā kho brahmāyu brāhmaṇo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni, yebhuyyena ṭhapetvā dve."
+    },
+    {
+      "id": "mn91:29.5",
+      "pali": "Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—"
+    },
+    {
+      "id": "mn91:29.6",
+      "pali": "kosohite ca vatthaguyhe pahūtajivhatāya ca."
+    },
+    {
+      "id": "mn91:29.7",
+      "pali": "Atha kho brahmāyu brāhmaṇo bhagavantaṁ gāthāhi ajjhabhāsi:"
+    },
+    {
+      "id": "mn91:29.8",
+      "pali": "“Ye me dvattiṁsāti sutā,"
+    },
+    {
+      "id": "mn91:29.9",
+      "pali": "mahāpurisalakkhaṇā;"
+    },
+    {
+      "id": "mn91:29.10",
+      "pali": "Duve tesaṁ na passāmi,"
+    },
+    {
+      "id": "mn91:29.11",
+      "pali": "bhoto kāyasmiṁ gotama."
+    },
+    {
+      "id": "mn91:29.12",
+      "pali": "Kacci kosohitaṁ bhoto,"
+    },
+    {
+      "id": "mn91:29.13",
+      "pali": "vatthaguyhaṁ naruttama;"
+    },
+    {
+      "id": "mn91:29.14",
+      "pali": "Nārīsamānasavhayā,"
+    },
+    {
+      "id": "mn91:29.15",
+      "pali": "kacci jivhā na dassakā."
+    },
+    {
+      "id": "mn91:29.16",
+      "pali": "Kacci pahūtajivhosi,"
+    },
+    {
+      "id": "mn91:29.17",
+      "pali": "yathā taṁ jāniyāmase;"
+    },
+    {
+      "id": "mn91:29.18",
+      "pali": "Ninnāmayetaṁ pahūtaṁ,"
+    },
+    {
+      "id": "mn91:29.19",
+      "pali": "kaṅkhaṁ vinaya no ise."
+    },
+    {
+      "id": "mn91:29.20",
+      "pali": "Diṭṭhadhammahitatthāya,"
+    },
+    {
+      "id": "mn91:29.21",
+      "pali": "samparāyasukhāya ca;"
+    },
+    {
+      "id": "mn91:29.22",
+      "pali": "Katāvakāsā pucchāma,"
+    },
+    {
+      "id": "mn91:29.23",
+      "pali": "yaṁ kiñci abhipatthitan”ti."
+    },
+    {
+      "id": "mn91:30.1",
+      "pali": "Atha kho bhagavato etadahosi:"
+    },
+    {
+      "id": "mn91:30.2",
+      "pali": "“passati kho me ayaṁ brahmāyu brāhmaṇo dvattiṁsamahāpurisalakkhaṇāni, yebhuyyena ṭhapetvā dve."
+    },
+    {
+      "id": "mn91:30.3",
+      "pali": "Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—"
+    },
+    {
+      "id": "mn91:30.4",
+      "pali": "kosohite ca vatthaguyhe pahūtajivhatāya cā”ti."
+    },
+    {
+      "id": "mn91:30.5",
+      "pali": "Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi yathā addasa brahmāyu brāhmaṇo bhagavato kosohitaṁ vatthaguyhaṁ."
+    },
+    {
+      "id": "mn91:30.6",
+      "pali": "Atha kho bhagavā jivhaṁ ninnāmetvā ubhopi kaṇṇasotāni anumasi paṭimasi; ubhopi nāsikasotāni anumasi paṭimasi; kevalampi nalāṭamaṇḍalaṁ jivhāya chādesi."
+    },
+    {
+      "id": "mn91:30.7",
+      "pali": "Atha kho bhagavā brahmāyuṁ brāhmaṇaṁ gāthāhi paccabhāsi:"
+    },
+    {
+      "id": "mn91:31.1",
+      "pali": "“Ye te dvattiṁsāti sutā,"
+    },
+    {
+      "id": "mn91:31.2",
+      "pali": "mahāpurisalakkhaṇā;"
+    },
+    {
+      "id": "mn91:31.3",
+      "pali": "Sabbe te mama kāyasmiṁ,"
+    },
+    {
+      "id": "mn91:31.4",
+      "pali": "mā te kaṅkhāhu brāhmaṇa."
+    },
+    {
+      "id": "mn91:31.5",
+      "pali": "Abhiññeyyaṁ abhiññātaṁ,"
+    },
+    {
+      "id": "mn91:31.6",
+      "pali": "bhāvetabbañca bhāvitaṁ;"
+    },
+    {
+      "id": "mn91:31.7",
+      "pali": "Pahātabbaṁ pahīnaṁ me,"
+    },
+    {
+      "id": "mn91:31.8",
+      "pali": "tasmā buddhosmi brāhmaṇa."
+    },
+    {
+      "id": "mn91:31.9",
+      "pali": "Diṭṭhadhammahitatthāya,"
+    },
+    {
+      "id": "mn91:31.10",
+      "pali": "samparāyasukhāya ca;"
+    },
+    {
+      "id": "mn91:31.11",
+      "pali": "Katāvakāso pucchassu,"
+    },
+    {
+      "id": "mn91:31.12",
+      "pali": "yaṁ kiñci abhipatthitan”ti."
+    },
+    {
+      "id": "mn91:32.1",
+      "pali": "Atha kho brahmāyussa brāhmaṇassa etadahosi:"
+    },
+    {
+      "id": "mn91:32.2",
+      "pali": "“katāvakāso khomhi samaṇena gotamena."
+    },
+    {
+      "id": "mn91:32.3",
+      "pali": "Kiṁ nu kho ahaṁ samaṇaṁ gotamaṁ puccheyyaṁ:"
+    },
+    {
+      "id": "mn91:32.4",
+      "pali": "‘diṭṭhadhammikaṁ vā atthaṁ samparāyikaṁ vā’”ti."
+    },
+    {
+      "id": "mn91:32.5",
+      "pali": "Atha kho brahmāyussa brāhmaṇassa etadahosi:"
+    },
+    {
+      "id": "mn91:32.6",
+      "pali": "“kusalo kho ahaṁ diṭṭhadhammikānaṁ atthānaṁ."
+    },
+    {
+      "id": "mn91:32.7",
+      "pali": "Aññepi maṁ diṭṭhadhammikaṁ atthaṁ pucchanti."
+    },
+    {
+      "id": "mn91:32.8",
+      "pali": "Yannūnāhaṁ samaṇaṁ gotamaṁ samparāyikaṁyeva atthaṁ puccheyyan”ti."
+    },
+    {
+      "id": "mn91:32.9",
+      "pali": "Atha kho brahmāyu brāhmaṇo bhagavantaṁ gāthāhi ajjhabhāsi:"
+    },
+    {
+      "id": "mn91:32.10",
+      "pali": "“Kathaṁ kho brāhmaṇo hoti,"
+    },
+    {
+      "id": "mn91:32.11",
+      "pali": "kathaṁ bhavati vedagū;"
+    },
+    {
+      "id": "mn91:32.12",
+      "pali": "Tevijjo bho kathaṁ hoti,"
+    },
+    {
+      "id": "mn91:32.13",
+      "pali": "sotthiyo kinti vuccati."
+    },
+    {
+      "id": "mn91:32.14",
+      "pali": "Arahaṁ bho kathaṁ hoti,"
+    },
+    {
+      "id": "mn91:32.15",
+      "pali": "kathaṁ bhavati kevalī;"
+    },
+    {
+      "id": "mn91:32.16",
+      "pali": "Muni ca bho kathaṁ hoti,"
+    },
+    {
+      "id": "mn91:32.17",
+      "pali": "buddho kinti pavuccatī”ti."
+    },
+    {
+      "id": "mn91:33.1",
+      "pali": "Atha kho bhagavā brahmāyuṁ brāhmaṇaṁ gāthāhi paccabhāsi:"
+    },
+    {
+      "id": "mn91:33.2",
+      "pali": "“Pubbenivāsaṁ yo vedi,"
+    },
+    {
+      "id": "mn91:33.3",
+      "pali": "saggāpāyañca passati;"
+    },
+    {
+      "id": "mn91:33.4",
+      "pali": "Atho jātikkhayaṁ patto,"
+    },
+    {
+      "id": "mn91:33.5",
+      "pali": "abhiññā vosito muni."
+    },
+    {
+      "id": "mn91:33.6",
+      "pali": "Cittaṁ visuddhaṁ jānāti,"
+    },
+    {
+      "id": "mn91:33.7",
+      "pali": "muttaṁ rāgehi sabbaso;"
+    },
+    {
+      "id": "mn91:33.8",
+      "pali": "Pahīnajātimaraṇo,"
+    },
+    {
+      "id": "mn91:33.9",
+      "pali": "brahmacariyassa kevalī;"
+    },
+    {
+      "id": "mn91:33.10",
+      "pali": "Pāragū sabbadhammānaṁ,"
+    },
+    {
+      "id": "mn91:33.11",
+      "pali": "buddho tādī pavuccatī”ti."
+    },
+    {
+      "id": "mn91:34.1",
+      "pali": "Evaṁ vutte, brahmāyu brāhmaṇo uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā bhagavato pādesu sirasā nipatitvā bhagavato pādāni mukhena ca paricumbati, pāṇīhi ca parisambāhati, nāmañca sāveti:"
+    },
+    {
+      "id": "mn91:34.2",
+      "pali": "“brahmāyu ahaṁ, bho gotama, brāhmaṇo;"
+    },
+    {
+      "id": "mn91:34.3",
+      "pali": "brahmāyu ahaṁ, bho gotama, brāhmaṇo”ti."
+    },
+    {
+      "id": "mn91:35.1",
+      "pali": "Atha kho sā parisā acchariyabbhutacittajātā ahosi:"
+    },
+    {
+      "id": "mn91:35.2",
+      "pali": "“acchariyaṁ vata bho, abbhutaṁ vata bho."
+    },
+    {
+      "id": "mn91:35.3",
+      "pali": "Yatra hi nāmāyaṁ brahmāyu brāhmaṇo ñāto yasassī evarūpaṁ paramanipaccakāraṁ karissatī”ti."
+    },
+    {
+      "id": "mn91:35.4",
+      "pali": "Atha kho bhagavā brahmāyuṁ brāhmaṇaṁ etadavoca:"
+    },
+    {
+      "id": "mn91:35.5",
+      "pali": "“alaṁ, brāhmaṇa, uṭṭhaha nisīda tvaṁ sake āsane yato te mayi cittaṁ pasannan”ti."
+    },
+    {
+      "id": "mn91:35.6",
+      "pali": "Atha kho brahmāyu brāhmaṇo uṭṭhahitvā sake āsane nisīdi."
+    },
+    {
+      "id": "mn91:36.1",
+      "pali": "Atha kho bhagavā brahmāyussa brāhmaṇassa anupubbiṁ kathaṁ kathesi, seyyathidaṁ—"
+    },
+    {
+      "id": "mn91:36.2",
+      "pali": "dānakathaṁ, sīlakathaṁ, saggakathaṁ;"
+    },
+    {
+      "id": "mn91:36.3",
+      "pali": "kāmānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ nekkhamme ānisaṁsaṁ pakāsesi."
+    },
+    {
+      "id": "mn91:36.4",
+      "pali": "Yadā bhagavā aññāsi brahmāyuṁ brāhmaṇaṁ kallacittaṁ muducittaṁ vinīvaraṇacittaṁ udaggacittaṁ pasannacittaṁ, atha yā buddhānaṁ sāmukkaṁsikā dhammadesanā taṁ pakāsesi—"
+    },
+    {
+      "id": "mn91:36.5",
+      "pali": "dukkhaṁ, samudayaṁ, nirodhaṁ, maggaṁ."
+    },
+    {
+      "id": "mn91:36.6",
+      "pali": "Seyyathāpi nāma suddhaṁ vatthaṁ apagatakāḷakaṁ sammadeva rajanaṁ paṭiggaṇheyya;"
+    },
+    {
+      "id": "mn91:36.7",
+      "pali": "evameva brahmāyussa brāhmaṇassa tasmiṁyeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:"
+    },
+    {
+      "id": "mn91:36.8",
+      "pali": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti."
+    },
+    {
+      "id": "mn91:36.9",
+      "pali": "Atha kho brahmāyu brāhmaṇo diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho vigatakathaṅkatho vesārajjappatto aparappaccayo satthusāsane bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn91:37.1",
+      "pali": "“abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama."
+    },
+    {
+      "id": "mn91:37.2",
+      "pali": "Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito."
+    },
+    {
+      "id": "mn91:37.3",
+      "pali": "Esāhaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "mn91:37.4",
+      "pali": "Upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gataṁ."
+    },
+    {
+      "id": "mn91:37.5",
+      "pali": "Adhivāsetu ca me bhavaṁ gotamo svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti."
+    },
+    {
+      "id": "mn91:37.6",
+      "pali": "Adhivāsesi bhagavā tuṇhībhāvena."
+    },
+    {
+      "id": "mn91:37.7",
+      "pali": "Atha kho brahmāyu brāhmaṇo bhagavato adhivāsanaṁ viditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi."
+    },
+    {
+      "id": "mn91:38.1",
+      "pali": "Atha kho brahmāyu brāhmaṇo tassā rattiyā accayena sake nivesane paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā bhagavato kālaṁ ārocāpesi:"
+    },
+    {
+      "id": "mn91:38.2",
+      "pali": "“kālo, bho gotama, niṭṭhitaṁ bhattan”ti."
+    },
+    {
+      "id": "mn91:38.3",
+      "pali": "Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena brahmāyussa brāhmaṇassa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṁ bhikkhusaṅghena."
+    },
+    {
+      "id": "mn91:38.4",
+      "pali": "Atha kho brahmāyu brāhmaṇo sattāhaṁ buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi."
+    },
+    {
+      "id": "mn91:39.1",
+      "pali": "Atha kho bhagavā tassa sattāhassa accayena videhesu cārikaṁ pakkāmi."
+    },
+    {
+      "id": "mn91:39.2",
+      "pali": "Atha kho brahmāyu brāhmaṇo acirapakkantassa bhagavato kālamakāsi."
+    },
+    {
+      "id": "mn91:39.3",
+      "pali": "Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn91:39.4",
+      "pali": "“brahmāyu, bhante, brāhmaṇo kālaṅkato."
+    },
+    {
+      "id": "mn91:39.5",
+      "pali": "Tassa kā gati, ko abhisamparāyo”ti?"
+    },
+    {
+      "id": "mn91:39.6",
+      "pali": "“Paṇḍito, bhikkhave, brahmāyu brāhmaṇo paccapādi dhammassānudhammaṁ, na ca maṁ dhammādhikaraṇaṁ vihesesi."
+    },
+    {
+      "id": "mn91:39.7",
+      "pali": "Brahmāyu, bhikkhave, brāhmaṇo pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā”ti."
+    },
+    {
+      "id": "mn91:39.8",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn91:39.9",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn91:39.10",
+      "pali": "Brahmāyusuttaṁ niṭṭhitaṁ paṭhamaṁ."
+    }
+  ]
+}

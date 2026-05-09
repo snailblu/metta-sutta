@@ -1,0 +1,907 @@
+{
+  "uid": "mn21",
+  "title": "Kakacūpamasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn21:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn21:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn21:2.1",
+      "pali": "Tena kho pana samayena āyasmā moḷiyaphagguno bhikkhunīhi saddhiṁ ativelaṁ saṁsaṭṭho viharati."
+    },
+    {
+      "id": "mn21:2.2",
+      "pali": "Evaṁ saṁsaṭṭho āyasmā moḷiyaphagguno bhikkhunīhi saddhiṁ viharati—"
+    },
+    {
+      "id": "mn21:2.3",
+      "pali": "sace koci bhikkhu āyasmato moḷiyaphaggunassa sammukhā tāsaṁ bhikkhunīnaṁ avaṇṇaṁ bhāsati, tenāyasmā moḷiyaphagguno kupito anattamano adhikaraṇampi karoti."
+    },
+    {
+      "id": "mn21:2.4",
+      "pali": "Sace pana koci bhikkhu tāsaṁ bhikkhunīnaṁ sammukhā āyasmato moḷiyaphaggunassa avaṇṇaṁ bhāsati, tena tā bhikkhuniyo kupitā anattamanā adhikaraṇampi karonti."
+    },
+    {
+      "id": "mn21:2.5",
+      "pali": "Evaṁ saṁsaṭṭho āyasmā moḷiyaphagguno bhikkhunīhi saddhiṁ viharati."
+    },
+    {
+      "id": "mn21:3.1",
+      "pali": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn21:3.2",
+      "pali": "“āyasmā, bhante, moḷiyaphagguno bhikkhunīhi saddhiṁ ativelaṁ saṁsaṭṭho viharati."
+    },
+    {
+      "id": "mn21:3.3",
+      "pali": "Evaṁ saṁsaṭṭho, bhante, āyasmā moḷiyaphagguno bhikkhunīhi saddhiṁ viharati—"
+    },
+    {
+      "id": "mn21:3.4",
+      "pali": "sace koci bhikkhu āyasmato moḷiyaphaggunassa sammukhā tāsaṁ bhikkhunīnaṁ avaṇṇaṁ bhāsati, tenāyasmā moḷiyaphagguno kupito anattamano adhikaraṇampi karoti."
+    },
+    {
+      "id": "mn21:3.5",
+      "pali": "Sace pana koci bhikkhu tāsaṁ bhikkhunīnaṁ sammukhā āyasmato moḷiyaphaggunassa avaṇṇaṁ bhāsati, tena tā bhikkhuniyo kupitā anattamanā adhikaraṇampi karonti."
+    },
+    {
+      "id": "mn21:3.6",
+      "pali": "Evaṁ saṁsaṭṭho, bhante, āyasmā moḷiyaphagguno bhikkhunīhi saddhiṁ viharatī”ti."
+    },
+    {
+      "id": "mn21:4.1",
+      "pali": "Atha kho bhagavā aññataraṁ bhikkhuṁ āmantesi:"
+    },
+    {
+      "id": "mn21:4.2",
+      "pali": "“ehi tvaṁ, bhikkhu, mama vacanena moḷiyaphaggunaṁ bhikkhuṁ āmantehi:"
+    },
+    {
+      "id": "mn21:4.3",
+      "pali": "‘satthā taṁ, āvuso phagguna, āmantetī’”ti."
+    },
+    {
+      "id": "mn21:4.4",
+      "pali": "“Evaṁ, bhante”ti kho so bhikkhu bhagavato paṭissutvā yenāyasmā moḷiyaphagguno tenupasaṅkami; upasaṅkamitvā āyasmantaṁ moḷiyaphaggunaṁ etadavoca:"
+    },
+    {
+      "id": "mn21:4.5",
+      "pali": "“satthā taṁ, āvuso phagguna, āmantetī”ti."
+    },
+    {
+      "id": "mn21:4.6",
+      "pali": "“Evamāvuso”ti kho āyasmā moḷiyaphagguno tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ moḷiyaphaggunaṁ bhagavā etadavoca:"
+    },
+    {
+      "id": "mn21:5.1",
+      "pali": "“Saccaṁ kira tvaṁ, phagguna, bhikkhunīhi saddhiṁ ativelaṁ saṁsaṭṭho viharasi?"
+    },
+    {
+      "id": "mn21:5.2",
+      "pali": "Evaṁ saṁsaṭṭho kira tvaṁ, phagguna, bhikkhunīhi saddhiṁ viharasi—"
+    },
+    {
+      "id": "mn21:5.3",
+      "pali": "sace koci bhikkhu tuyhaṁ sammukhā tāsaṁ bhikkhunīnaṁ avaṇṇaṁ bhāsati, tena tvaṁ kupito anattamano adhikaraṇampi karosi."
+    },
+    {
+      "id": "mn21:5.4",
+      "pali": "Sace pana koci bhikkhu tāsaṁ bhikkhunīnaṁ sammukhā tuyhaṁ avaṇṇaṁ bhāsati, tena tā bhikkhuniyo kupitā anattamanā adhikaraṇampi karonti."
+    },
+    {
+      "id": "mn21:5.5",
+      "pali": "Evaṁ saṁsaṭṭho kira tvaṁ, phagguna, bhikkhunīhi saddhiṁ viharasī”ti?"
+    },
+    {
+      "id": "mn21:5.6",
+      "pali": "“Evaṁ, bhante”ti."
+    },
+    {
+      "id": "mn21:5.7",
+      "pali": "“Nanu tvaṁ, phagguna, kulaputto saddhā agārasmā anagāriyaṁ pabbajito”ti?"
+    },
+    {
+      "id": "mn21:5.8",
+      "pali": "“Evaṁ, bhante”ti."
+    },
+    {
+      "id": "mn21:6.1",
+      "pali": "“Na kho te etaṁ, phagguna, patirūpaṁ kulaputtassa saddhā agārasmā anagāriyaṁ pabbajitassa, yaṁ tvaṁ bhikkhunīhi saddhiṁ ativelaṁ saṁsaṭṭho vihareyyāsi."
+    },
+    {
+      "id": "mn21:6.2",
+      "pali": "Tasmātiha, phagguna, tava cepi koci sammukhā tāsaṁ bhikkhunīnaṁ avaṇṇaṁ bhāseyya, tatrāpi tvaṁ, phagguna, ye gehasitā chandā ye gehasitā vitakkā te pajaheyyāsi."
+    },
+    {
+      "id": "mn21:6.3",
+      "pali": "Tatrāpi te, phagguna, evaṁ sikkhitabbaṁ:"
+    },
+    {
+      "id": "mn21:6.4",
+      "pali": "‘na ceva me cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāmi, hitānukampī ca viharissāmi mettacitto, na dosantaro’ti."
+    },
+    {
+      "id": "mn21:6.5",
+      "pali": "Evañhi te, phagguna, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn21:6.6",
+      "pali": "Tasmātiha, phagguna, tava cepi koci sammukhā tāsaṁ bhikkhunīnaṁ pāṇinā pahāraṁ dadeyya, leḍḍunā pahāraṁ dadeyya, daṇḍena pahāraṁ dadeyya, satthena pahāraṁ dadeyya. Tatrāpi tvaṁ, phagguna, ye gehasitā chandā ye gehasitā vitakkā te pajaheyyāsi."
+    },
+    {
+      "id": "mn21:6.7",
+      "pali": "Tatrāpi te, phagguna, evaṁ sikkhitabbaṁ"
+    },
+    {
+      "id": "mn21:6.8",
+      "pali": "‘na ceva me cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāmi, hitānukampī ca viharissāmi mettacitto, na dosantaro’ti."
+    },
+    {
+      "id": "mn21:6.9",
+      "pali": "Evañhi te, phagguna, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn21:6.10",
+      "pali": "Tasmātiha, phagguna, tava cepi koci sammukhā avaṇṇaṁ bhāseyya, tatrāpi tvaṁ, phagguna, ye gehasitā chandā ye gehasitā vitakkā te pajaheyyāsi."
+    },
+    {
+      "id": "mn21:6.11",
+      "pali": "Tatrāpi te, phagguna, evaṁ sikkhitabbaṁ ‘na ceva me cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāmi, hitānukampī ca viharissāmi mettacitto, na dosantaro’ti."
+    },
+    {
+      "id": "mn21:6.12",
+      "pali": "Evañhi te, phagguna, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn21:6.13",
+      "pali": "Tasmātiha, phagguna, tava cepi koci pāṇinā pahāraṁ dadeyya, leḍḍunā pahāraṁ dadeyya, daṇḍena pahāraṁ dadeyya, satthena pahāraṁ dadeyya, tatrāpi tvaṁ, phagguna, ye gehasitā chandā ye gehasitā vitakkā te pajaheyyāsi."
+    },
+    {
+      "id": "mn21:6.14",
+      "pali": "Tatrāpi te, phagguna, evaṁ sikkhitabbaṁ ‘na ceva me cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāmi, hitānukampī ca viharissāmi mettacitto, na dosantaro’ti."
+    },
+    {
+      "id": "mn21:6.15",
+      "pali": "Evañhi te, phagguna, sikkhitabban”ti."
+    },
+    {
+      "id": "mn21:7.1",
+      "pali": "Atha kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn21:7.2",
+      "pali": "“ārādhayiṁsu vata me, bhikkhave, bhikkhū ekaṁ samayaṁ cittaṁ."
+    },
+    {
+      "id": "mn21:7.3",
+      "pali": "Idhāhaṁ, bhikkhave, bhikkhū āmantesiṁ—"
+    },
+    {
+      "id": "mn21:7.4",
+      "pali": "ahaṁ kho, bhikkhave, ekāsanabhojanaṁ bhuñjāmi."
+    },
+    {
+      "id": "mn21:7.5",
+      "pali": "Ekāsanabhojanaṁ kho ahaṁ, bhikkhave, bhuñjamāno appābādhatañca sañjānāmi appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañca."
+    },
+    {
+      "id": "mn21:7.6",
+      "pali": "Etha tumhepi, bhikkhave, ekāsanabhojanaṁ bhuñjatha."
+    },
+    {
+      "id": "mn21:7.7",
+      "pali": "Ekāsanabhojanaṁ kho, bhikkhave, tumhepi bhuñjamānā appābādhatañca sañjānissatha appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañcāti."
+    },
+    {
+      "id": "mn21:7.8",
+      "pali": "Na me, bhikkhave, tesu bhikkhūsu anusāsanī karaṇīyā ahosi;"
+    },
+    {
+      "id": "mn21:7.9",
+      "pali": "satuppādakaraṇīyameva me, bhikkhave, tesu bhikkhūsu ahosi."
+    },
+    {
+      "id": "mn21:7.10",
+      "pali": "Seyyathāpi, bhikkhave, subhūmiyaṁ catumahāpathe ājaññaratho yutto assa ṭhito odhastapatodo."
+    },
+    {
+      "id": "mn21:7.11",
+      "pali": "Tamenaṁ dakkho yoggācariyo assadammasārathi abhiruhitvā, vāmena hatthena rasmiyo gahetvā, dakkhiṇena hatthena patodaṁ gahetvā, yenicchakaṁ yadicchakaṁ sāreyyapi paccāsāreyyapi."
+    },
+    {
+      "id": "mn21:7.12",
+      "pali": "Evameva kho, bhikkhave, na me tesu bhikkhūsu anusāsanī karaṇīyā ahosi,"
+    },
+    {
+      "id": "mn21:7.13",
+      "pali": "satuppādakaraṇīyameva me, bhikkhave, tesu bhikkhūsu ahosi."
+    },
+    {
+      "id": "mn21:7.14",
+      "pali": "Tasmātiha, bhikkhave, tumhepi akusalaṁ pajahatha, kusalesu dhammesu āyogaṁ karotha."
+    },
+    {
+      "id": "mn21:7.15",
+      "pali": "Evañhi tumhepi imasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjissatha."
+    },
+    {
+      "id": "mn21:8.1",
+      "pali": "Seyyathāpi, bhikkhave, gāmassa vā nigamassa vā avidūre mahantaṁ sālavanaṁ."
+    },
+    {
+      "id": "mn21:8.2",
+      "pali": "Tañcassa eḷaṇḍehi sañchannaṁ."
+    },
+    {
+      "id": "mn21:8.3",
+      "pali": "Tassa kocideva puriso uppajjeyya atthakāmo hitakāmo yogakkhemakāmo."
+    },
+    {
+      "id": "mn21:8.4",
+      "pali": "So yā tā sālalaṭṭhiyo kuṭilā ojāpaharaṇiyo tā chetvā bahiddhā nīhareyya, antovanaṁ suvisodhitaṁ visodheyya."
+    },
+    {
+      "id": "mn21:8.5",
+      "pali": "Yā pana tā sālalaṭṭhiyo ujukā sujātā tā sammā parihareyya."
+    },
+    {
+      "id": "mn21:8.6",
+      "pali": "Evañhetaṁ, bhikkhave, sālavanaṁ aparena samayena vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyya."
+    },
+    {
+      "id": "mn21:8.7",
+      "pali": "Evameva kho, bhikkhave, tumhepi akusalaṁ pajahatha, kusalesu dhammesu āyogaṁ karotha."
+    },
+    {
+      "id": "mn21:8.8",
+      "pali": "Evañhi tumhepi imasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjissatha."
+    },
+    {
+      "id": "mn21:9.1",
+      "pali": "Bhūtapubbaṁ, bhikkhave, imissāyeva sāvatthiyā vedehikā nāma gahapatānī ahosi."
+    },
+    {
+      "id": "mn21:9.2",
+      "pali": "Vedehikāya, bhikkhave, gahapatāniyā evaṁ kalyāṇo kittisaddo abbhuggato:"
+    },
+    {
+      "id": "mn21:9.3",
+      "pali": "‘soratā vedehikā gahapatānī, nivātā vedehikā gahapatānī, upasantā vedehikā gahapatānī’ti."
+    },
+    {
+      "id": "mn21:9.4",
+      "pali": "Vedehikāya kho pana, bhikkhave, gahapatāniyā kāḷī nāma dāsī ahosi dakkhā analasā susaṁvihitakammantā."
+    },
+    {
+      "id": "mn21:9.5",
+      "pali": "Atha kho, bhikkhave, kāḷiyā dāsiyā etadahosi:"
+    },
+    {
+      "id": "mn21:9.6",
+      "pali": "‘mayhaṁ kho ayyāya evaṁ kalyāṇo kittisaddo abbhuggato:"
+    },
+    {
+      "id": "mn21:9.7",
+      "pali": "“soratā vedehikā gahapatānī, nivātā vedehikā gahapatānī, upasantā vedehikā gahapatānī”ti."
+    },
+    {
+      "id": "mn21:9.8",
+      "pali": "Kiṁ nu kho me ayyā santaṁyeva nu kho ajjhattaṁ kopaṁ na pātukaroti udāhu asantaṁ"
+    },
+    {
+      "id": "mn21:9.9",
+      "pali": "udāhu mayhamevete kammantā susaṁvihitā yena me ayyā santaṁyeva ajjhattaṁ kopaṁ na pātukaroti, no asantaṁ?"
+    },
+    {
+      "id": "mn21:9.10",
+      "pali": "Yannūnāhaṁ ayyaṁ vīmaṁseyyan’ti."
+    },
+    {
+      "id": "mn21:9.11",
+      "pali": "Atha kho, bhikkhave, kāḷī dāsī divā uṭṭhāsi."
+    },
+    {
+      "id": "mn21:9.12",
+      "pali": "Atha kho, bhikkhave, vedehikā gahapatānī kāḷiṁ dāsiṁ etadavoca:"
+    },
+    {
+      "id": "mn21:9.13",
+      "pali": "‘he je kāḷī’ti."
+    },
+    {
+      "id": "mn21:9.14",
+      "pali": "‘Kiṁ, ayye’ti?"
+    },
+    {
+      "id": "mn21:9.15",
+      "pali": "‘Kiṁ, je, divā uṭṭhāsī’ti?"
+    },
+    {
+      "id": "mn21:9.16",
+      "pali": "‘Na khvayye, kiñcī’ti."
+    },
+    {
+      "id": "mn21:9.17",
+      "pali": "‘No vata re kiñci, pāpi dāsi, divā uṭṭhāsī’ti kupitā anattamanā bhākuṭiṁ akāsi."
+    },
+    {
+      "id": "mn21:9.18",
+      "pali": "Atha kho, bhikkhave, kāḷiyā dāsiyā etadahosi:"
+    },
+    {
+      "id": "mn21:9.19",
+      "pali": "‘santaṁyeva kho me ayyā ajjhattaṁ kopaṁ na pātukaroti, no asantaṁ;"
+    },
+    {
+      "id": "mn21:9.20",
+      "pali": "mayhamevete kammantā susaṁvihitā, yena me ayyā santaṁyeva ajjhattaṁ kopaṁ na pātukaroti, no asantaṁ."
+    },
+    {
+      "id": "mn21:9.21",
+      "pali": "Yannūnāhaṁ bhiyyoso mattāya ayyaṁ vīmaṁseyyan’ti."
+    },
+    {
+      "id": "mn21:9.22",
+      "pali": "Atha kho, bhikkhave, kāḷī dāsī divātaraṁyeva uṭṭhāsi."
+    },
+    {
+      "id": "mn21:9.23",
+      "pali": "Atha kho, bhikkhave, vedehikā gahapatānī kāḷiṁ dāsiṁ etadavoca:"
+    },
+    {
+      "id": "mn21:9.24",
+      "pali": "‘he je kāḷī’ti."
+    },
+    {
+      "id": "mn21:9.25",
+      "pali": "‘Kiṁ, ayye’ti?"
+    },
+    {
+      "id": "mn21:9.26",
+      "pali": "‘Kiṁ, je, divātaraṁ uṭṭhāsī’ti?"
+    },
+    {
+      "id": "mn21:9.27",
+      "pali": "‘Na khvayye, kiñcī’ti."
+    },
+    {
+      "id": "mn21:9.28",
+      "pali": "‘No vata re kiñci, pāpi dāsi, divātaraṁ uṭṭhāsī’ti kupitā anattamanā anattamanavācaṁ nicchāresi."
+    },
+    {
+      "id": "mn21:9.29",
+      "pali": "Atha kho, bhikkhave, kāḷiyā dāsiyā etadahosi:"
+    },
+    {
+      "id": "mn21:9.30",
+      "pali": "‘santaṁyeva kho me ayyā ajjhattaṁ kopaṁ na pātukaroti, no asantaṁ."
+    },
+    {
+      "id": "mn21:9.31",
+      "pali": "Mayhamevete kammantā susaṁvihitā, yena me ayyā santaṁyeva ajjhattaṁ kopaṁ na pātukaroti, no asantaṁ."
+    },
+    {
+      "id": "mn21:9.32",
+      "pali": "Yannūnāhaṁ bhiyyoso mattāya ayyaṁ vīmaṁseyyan’ti."
+    },
+    {
+      "id": "mn21:9.33",
+      "pali": "Atha kho, bhikkhave, kāḷī dāsī divātaraṁyeva uṭṭhāsi."
+    },
+    {
+      "id": "mn21:9.34",
+      "pali": "Atha kho, bhikkhave, vedehikā gahapatānī kāḷiṁ dāsiṁ etadavoca:"
+    },
+    {
+      "id": "mn21:9.35",
+      "pali": "‘he je kāḷī’ti."
+    },
+    {
+      "id": "mn21:9.36",
+      "pali": "‘Kiṁ, ayye’ti?"
+    },
+    {
+      "id": "mn21:9.37",
+      "pali": "‘Kiṁ, je, divā uṭṭhāsī’ti?"
+    },
+    {
+      "id": "mn21:9.38",
+      "pali": "‘Na khvayye, kiñcī’ti."
+    },
+    {
+      "id": "mn21:9.39",
+      "pali": "‘No vata re kiñci, pāpi dāsi, divā uṭṭhāsī’ti kupitā anattamanā aggaḷasūciṁ gahetvā sīse pahāraṁ adāsi, sīsaṁ vobhindi."
+    },
+    {
+      "id": "mn21:9.40",
+      "pali": "Atha kho, bhikkhave, kāḷī dāsī bhinnena sīsena lohitena galantena paṭivissakānaṁ ujjhāpesi:"
+    },
+    {
+      "id": "mn21:9.41",
+      "pali": "‘passathayye, soratāya kammaṁ;"
+    },
+    {
+      "id": "mn21:9.42",
+      "pali": "passathayye, nivātāya kammaṁ, passathayye, upasantāya kammaṁ."
+    },
+    {
+      "id": "mn21:9.43",
+      "pali": "Kathañhi nāma ekadāsikāya divā uṭṭhāsīti kupitā anattamanā aggaḷasūciṁ gahetvā sīse pahāraṁ dassati, sīsaṁ vobhindissatī’ti."
+    },
+    {
+      "id": "mn21:9.44",
+      "pali": "Atha kho, bhikkhave, vedehikāya gahapatāniyā aparena samayena evaṁ pāpako kittisaddo abbhuggacchi:"
+    },
+    {
+      "id": "mn21:9.45",
+      "pali": "‘caṇḍī vedehikā gahapatānī, anivātā vedehikā gahapatānī, anupasantā vedehikā gahapatānī’ti."
+    },
+    {
+      "id": "mn21:10.1",
+      "pali": "Evameva kho, bhikkhave, idhekacco bhikkhu tāvadeva soratasorato hoti nivātanivāto hoti upasantūpasanto hoti yāva na amanāpā vacanapathā phusanti."
+    },
+    {
+      "id": "mn21:10.2",
+      "pali": "Yato ca, bhikkhave, bhikkhuṁ amanāpā vacanapathā phusanti, atha bhikkhu ‘sorato’ti veditabbo, ‘nivāto’ti veditabbo, ‘upasanto’ti veditabbo."
+    },
+    {
+      "id": "mn21:10.3",
+      "pali": "Nāhaṁ taṁ, bhikkhave, bhikkhuṁ ‘suvaco’ti vadāmi yo cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārahetu suvaco hoti, sovacassataṁ āpajjati."
+    },
+    {
+      "id": "mn21:10.4",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn21:10.5",
+      "pali": "Tañhi so, bhikkhave, bhikkhu cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāraṁ alabhamāno na suvaco hoti, na sovacassataṁ āpajjati."
+    },
+    {
+      "id": "mn21:10.6",
+      "pali": "Yo ca kho, bhikkhave, bhikkhu dhammaṁyeva sakkaronto, dhammaṁ garuṁ karonto, dhammaṁ mānento, dhammaṁ pūjento, dhammaṁ apacāyamāno suvaco hoti, sovacassataṁ āpajjati, tamahaṁ ‘suvaco’ti vadāmi."
+    },
+    {
+      "id": "mn21:10.7",
+      "pali": "Tasmātiha, bhikkhave, ‘dhammaṁyeva sakkarontā, dhammaṁ garuṁ karontā, dhammaṁ mānentā, dhammaṁ pūjentā, dhammaṁ apacāyamānā suvacā bhavissāma, sovacassataṁ āpajjissāmā’ti."
+    },
+    {
+      "id": "mn21:10.8",
+      "pali": "Evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn21:11.1",
+      "pali": "Pañcime, bhikkhave, vacanapathā yehi vo pare vadamānā vadeyyuṁ—"
+    },
+    {
+      "id": "mn21:11.2",
+      "pali": "kālena vā akālena vā;"
+    },
+    {
+      "id": "mn21:11.3",
+      "pali": "bhūtena vā abhūtena vā;"
+    },
+    {
+      "id": "mn21:11.4",
+      "pali": "saṇhena vā pharusena vā;"
+    },
+    {
+      "id": "mn21:11.5",
+      "pali": "atthasaṁhitena vā anatthasaṁhitena vā;"
+    },
+    {
+      "id": "mn21:11.6",
+      "pali": "mettacittā vā dosantarā vā."
+    },
+    {
+      "id": "mn21:11.7",
+      "pali": "Kālena vā, bhikkhave, pare vadamānā vadeyyuṁ akālena vā;"
+    },
+    {
+      "id": "mn21:11.8",
+      "pali": "bhūtena vā, bhikkhave, pare vadamānā vadeyyuṁ abhūtena vā;"
+    },
+    {
+      "id": "mn21:11.9",
+      "pali": "saṇhena vā, bhikkhave, pare vadamānā vadeyyuṁ pharusena vā;"
+    },
+    {
+      "id": "mn21:11.10",
+      "pali": "atthasaṁhitena vā, bhikkhave, pare vadamānā vadeyyuṁ anatthasaṁhitena vā;"
+    },
+    {
+      "id": "mn21:11.11",
+      "pali": "mettacittā vā, bhikkhave, pare vadamānā vadeyyuṁ dosantarā vā."
+    },
+    {
+      "id": "mn21:11.12",
+      "pali": "Tatrāpi vo, bhikkhave, evaṁ sikkhitabbaṁ:"
+    },
+    {
+      "id": "mn21:11.13",
+      "pali": "‘na ceva no cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāma, hitānukampī ca viharissāma mettacittā, na dosantarā."
+    },
+    {
+      "id": "mn21:11.14",
+      "pali": "Tañca puggalaṁ mettāsahagatena cetasā pharitvā viharissāma, tadārammaṇañca sabbāvantaṁ lokaṁ mettāsahagatena cittena vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharissāmā’ti."
+    },
+    {
+      "id": "mn21:11.15",
+      "pali": "Evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn21:12.1",
+      "pali": "Seyyathāpi, bhikkhave, puriso āgaccheyya kudālapiṭakaṁ ādāya."
+    },
+    {
+      "id": "mn21:12.2",
+      "pali": "So evaṁ vadeyya:"
+    },
+    {
+      "id": "mn21:12.3",
+      "pali": "‘ahaṁ imaṁ mahāpathaviṁ apathaviṁ karissāmī’ti."
+    },
+    {
+      "id": "mn21:12.4",
+      "pali": "So tatra tatra vikhaṇeyya, tatra tatra vikireyya, tatra tatra oṭṭhubheyya, tatra tatra omutteyya:"
+    },
+    {
+      "id": "mn21:12.5",
+      "pali": "‘apathavī bhavasi, apathavī bhavasī’ti."
+    },
+    {
+      "id": "mn21:12.6",
+      "pali": "Taṁ kiṁ maññatha, bhikkhave,"
+    },
+    {
+      "id": "mn21:12.7",
+      "pali": "api nu so puriso imaṁ mahāpathaviṁ apathaviṁ kareyyā”ti?"
+    },
+    {
+      "id": "mn21:12.8",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn21:12.9",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn21:12.10",
+      "pali": "“Ayañhi, bhante, mahāpathavī gambhīrā appameyyā."
+    },
+    {
+      "id": "mn21:12.11",
+      "pali": "Sā na sukarā apathavī kātuṁ;"
+    },
+    {
+      "id": "mn21:12.12",
+      "pali": "yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti."
+    },
+    {
+      "id": "mn21:13.1",
+      "pali": "“Evameva kho, bhikkhave, pañcime vacanapathā yehi vo pare vadamānā vadeyyuṁ—"
+    },
+    {
+      "id": "mn21:13.2",
+      "pali": "kālena vā akālena vā;"
+    },
+    {
+      "id": "mn21:13.3",
+      "pali": "bhūtena vā abhūtena vā;"
+    },
+    {
+      "id": "mn21:13.4",
+      "pali": "saṇhena vā pharusena vā;"
+    },
+    {
+      "id": "mn21:13.5",
+      "pali": "atthasaṁhitena vā anatthasaṁhitena vā;"
+    },
+    {
+      "id": "mn21:13.6",
+      "pali": "mettacittā vā dosantarā vā."
+    },
+    {
+      "id": "mn21:13.7",
+      "pali": "Kālena vā, bhikkhave, pare vadamānā vadeyyuṁ akālena vā;"
+    },
+    {
+      "id": "mn21:13.8",
+      "pali": "bhūtena vā bhikkhave, pare vadamānā vadeyyuṁ abhūtena vā;"
+    },
+    {
+      "id": "mn21:13.9",
+      "pali": "saṇhena vā, bhikkhave, pare vadamānā vadeyyuṁ pharusena vā;"
+    },
+    {
+      "id": "mn21:13.10",
+      "pali": "atthasaṁhitena vā, bhikkhave, pare vadamānā vadeyyuṁ anatthasaṁhitena vā;"
+    },
+    {
+      "id": "mn21:13.11",
+      "pali": "mettacittā vā, bhikkhave, pare vadamānā vadeyyuṁ dosantarā vā."
+    },
+    {
+      "id": "mn21:13.12",
+      "pali": "Tatrāpi vo, bhikkhave, evaṁ sikkhitabbaṁ:"
+    },
+    {
+      "id": "mn21:13.13",
+      "pali": "‘na ceva no cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāma, hitānukampī ca viharissāma mettacittā na dosantarā."
+    },
+    {
+      "id": "mn21:13.14",
+      "pali": "Tañca puggalaṁ mettāsahagatena cetasā pharitvā viharissāma, tadārammaṇañca sabbāvantaṁ lokaṁ pathavisamena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharissāmā’ti."
+    },
+    {
+      "id": "mn21:13.15",
+      "pali": "Evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn21:14.1",
+      "pali": "Seyyathāpi, bhikkhave, puriso āgaccheyya lākhaṁ vā haliddiṁ vā nīlaṁ vā mañjiṭṭhaṁ vā ādāya."
+    },
+    {
+      "id": "mn21:14.2",
+      "pali": "So evaṁ vadeyya:"
+    },
+    {
+      "id": "mn21:14.3",
+      "pali": "‘ahaṁ imasmiṁ ākāse rūpaṁ likhissāmi, rūpapātubhāvaṁ karissāmī’ti."
+    },
+    {
+      "id": "mn21:14.4",
+      "pali": "Taṁ kiṁ maññatha, bhikkhave,"
+    },
+    {
+      "id": "mn21:14.5",
+      "pali": "api nu so puriso imasmiṁ ākāse rūpaṁ likheyya, rūpapātubhāvaṁ kareyyā”ti?"
+    },
+    {
+      "id": "mn21:14.6",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn21:14.7",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn21:14.8",
+      "pali": "“Ayañhi, bhante, ākāso arūpī anidassano."
+    },
+    {
+      "id": "mn21:14.9",
+      "pali": "Tattha na sukaraṁ rūpaṁ likhituṁ, rūpapātubhāvaṁ kātuṁ;"
+    },
+    {
+      "id": "mn21:14.10",
+      "pali": "yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti."
+    },
+    {
+      "id": "mn21:15.1",
+      "pali": "“Evameva kho, bhikkhave, pañcime vacanapathā yehi vo pare vadamānā vadeyyuṁ kālena vā akālena vā …pe…"
+    },
+    {
+      "id": "mn21:15.2",
+      "pali": "tadārammaṇañca sabbāvantaṁ lokaṁ ākāsasamena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharissāmā’ti."
+    },
+    {
+      "id": "mn21:15.3",
+      "pali": "Evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn21:16.1",
+      "pali": "Seyyathāpi, bhikkhave, puriso āgaccheyya ādittaṁ tiṇukkaṁ ādāya."
+    },
+    {
+      "id": "mn21:16.2",
+      "pali": "So evaṁ vadeyya:"
+    },
+    {
+      "id": "mn21:16.3",
+      "pali": "‘ahaṁ imāya ādittāya tiṇukkāya gaṅgaṁ nadiṁ santāpessāmi samparitāpessāmī’ti."
+    },
+    {
+      "id": "mn21:16.4",
+      "pali": "Taṁ kiṁ maññatha, bhikkhave,"
+    },
+    {
+      "id": "mn21:16.5",
+      "pali": "api nu so puriso ādittāya tiṇukkāya gaṅgaṁ nadiṁ santāpeyya samparitāpeyyā”ti?"
+    },
+    {
+      "id": "mn21:16.6",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn21:16.7",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn21:16.8",
+      "pali": "“Gaṅgā hi, bhante, nadī gambhīrā appameyyā."
+    },
+    {
+      "id": "mn21:16.9",
+      "pali": "Sā na sukarā ādittāya tiṇukkāya santāpetuṁ samparitāpetuṁ;"
+    },
+    {
+      "id": "mn21:16.10",
+      "pali": "yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti."
+    },
+    {
+      "id": "mn21:17.1",
+      "pali": "“Evameva kho, bhikkhave, pañcime vacanapathā yehi vo pare vadamānā vadeyyuṁ kālena vā akālena vā …pe…"
+    },
+    {
+      "id": "mn21:17.2",
+      "pali": "tadārammaṇañca sabbāvantaṁ lokaṁ gaṅgāsamena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharissāmā’ti."
+    },
+    {
+      "id": "mn21:17.3",
+      "pali": "Evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn21:18.1",
+      "pali": "Seyyathāpi, bhikkhave, biḷārabhastā madditā sumadditā suparimadditā, mudukā tūlinī chinnasassarā chinnabhabbharā."
+    },
+    {
+      "id": "mn21:18.2",
+      "pali": "Atha puriso āgaccheyya kaṭṭhaṁ vā kathalaṁ vā ādāya."
+    },
+    {
+      "id": "mn21:18.3",
+      "pali": "So evaṁ vadeyya:"
+    },
+    {
+      "id": "mn21:18.4",
+      "pali": "‘ahaṁ imaṁ biḷārabhastaṁ madditaṁ sumadditaṁ suparimadditaṁ, mudukaṁ tūliniṁ, chinnasassaraṁ chinnabhabbharaṁ kaṭṭhena vā kathalena vā sarasaraṁ karissāmi bharabharaṁ karissāmī’ti."
+    },
+    {
+      "id": "mn21:18.5",
+      "pali": "Taṁ kiṁ maññatha, bhikkhave,"
+    },
+    {
+      "id": "mn21:18.6",
+      "pali": "api nu so puriso amuṁ biḷārabhastaṁ madditaṁ sumadditaṁ suparimadditaṁ, mudukaṁ tūliniṁ, chinnasassaraṁ chinnabhabbharaṁ kaṭṭhena vā kathalena vā sarasaraṁ kareyya, bharabharaṁ kareyyā”ti?"
+    },
+    {
+      "id": "mn21:18.7",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn21:18.8",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn21:18.9",
+      "pali": "“Amu hi, bhante, biḷārabhastā madditā sumadditā suparimadditā, mudukā tūlinī, chinnasassarā chinnabhabbharā."
+    },
+    {
+      "id": "mn21:18.10",
+      "pali": "Sā na sukarā kaṭṭhena vā kathalena vā sarasaraṁ kātuṁ bharabharaṁ kātuṁ;"
+    },
+    {
+      "id": "mn21:18.11",
+      "pali": "yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti."
+    },
+    {
+      "id": "mn21:19.1",
+      "pali": "“Evameva kho, bhikkhave, pañcime vacanapathā yehi vo pare vadamānā vadeyyuṁ"
+    },
+    {
+      "id": "mn21:19.2",
+      "pali": "kālena vā akālena vā;"
+    },
+    {
+      "id": "mn21:19.3",
+      "pali": "bhūtena vā abhūtena vā;"
+    },
+    {
+      "id": "mn21:19.4",
+      "pali": "saṇhena vā pharusena vā;"
+    },
+    {
+      "id": "mn21:19.5",
+      "pali": "atthasaṁhitena vā anatthasaṁhitena vā;"
+    },
+    {
+      "id": "mn21:19.6",
+      "pali": "mettacittā vā dosantarā vā."
+    },
+    {
+      "id": "mn21:19.7",
+      "pali": "Kālena vā, bhikkhave, pare vadamānā vadeyyuṁ akālena vā;"
+    },
+    {
+      "id": "mn21:19.8",
+      "pali": "bhūtena vā, bhikkhave, pare vadamānā vadeyyuṁ abhūtena vā;"
+    },
+    {
+      "id": "mn21:19.9",
+      "pali": "saṇhena vā, bhikkhave, pare vadamānā vadeyyuṁ pharusena vā;"
+    },
+    {
+      "id": "mn21:19.10",
+      "pali": "atthasaṁhitena vā, bhikkhave, pare vadamānā vadeyyuṁ anatthasaṁhitena vā;"
+    },
+    {
+      "id": "mn21:19.11",
+      "pali": "mettacittā vā, bhikkhave, pare vadamānā vadeyyuṁ dosantarā vā."
+    },
+    {
+      "id": "mn21:19.12",
+      "pali": "Tatrāpi vo, bhikkhave, evaṁ sikkhitabbaṁ:"
+    },
+    {
+      "id": "mn21:19.13",
+      "pali": "‘na ceva no cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāma hitānukampī ca viharissāma mettacittā na dosantarā."
+    },
+    {
+      "id": "mn21:19.14",
+      "pali": "Tañca puggalaṁ mettāsahagatena cetasā pharitvā viharissāma, tadārammaṇañca sabbāvantaṁ lokaṁ biḷārabhastāsamena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharissāmā’ti."
+    },
+    {
+      "id": "mn21:19.15",
+      "pali": "Evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn21:20.1",
+      "pali": "Ubhatodaṇḍakena cepi, bhikkhave, kakacena corā ocarakā aṅgamaṅgāni okanteyyuṁ, tatrāpi yo mano padūseyya, na me so tena sāsanakaro."
+    },
+    {
+      "id": "mn21:20.2",
+      "pali": "Tatrāpi vo, bhikkhave, evaṁ sikkhitabbaṁ:"
+    },
+    {
+      "id": "mn21:20.3",
+      "pali": "‘na ceva no cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāma, hitānukampī ca viharissāma mettacittā na dosantarā."
+    },
+    {
+      "id": "mn21:20.4",
+      "pali": "Tañca puggalaṁ mettāsahagatena cetasā pharitvā viharissāma tadārammaṇañca sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharissāmā’ti."
+    },
+    {
+      "id": "mn21:20.5",
+      "pali": "Evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn21:21.1",
+      "pali": "Imañca tumhe, bhikkhave, kakacūpamaṁ ovādaṁ abhikkhaṇaṁ manasi kareyyātha."
+    },
+    {
+      "id": "mn21:21.2",
+      "pali": "Passatha no tumhe, bhikkhave, taṁ vacanapathaṁ, aṇuṁ vā thūlaṁ vā, yaṁ tumhe nādhivāseyyāthā”ti?"
+    },
+    {
+      "id": "mn21:21.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn21:21.4",
+      "pali": "“Tasmātiha, bhikkhave, imaṁ kakacūpamaṁ ovādaṁ abhikkhaṇaṁ manasikarotha."
+    },
+    {
+      "id": "mn21:21.5",
+      "pali": "Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā”ti."
+    },
+    {
+      "id": "mn21:21.6",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn21:21.7",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn21:21.8",
+      "pali": "Kakacūpamasuttaṁ niṭṭhitaṁ paṭhamaṁ."
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "uid": "mn115",
+  "title": "Bahudhātukasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn115:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn115:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn115:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn115:1.4",
+      "pali": "“bhikkhavo”ti."
+    },
+    {
+      "id": "mn115:1.5",
+      "pali": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn115:1.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn115:2.1",
+      "pali": "“Yāni kānici, bhikkhave, bhayāni uppajjanti sabbāni tāni bālato uppajjanti, no paṇḍitato;"
+    },
+    {
+      "id": "mn115:2.2",
+      "pali": "ye keci upaddavā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato;"
+    },
+    {
+      "id": "mn115:2.3",
+      "pali": "ye keci upasaggā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato."
+    },
+    {
+      "id": "mn115:2.4",
+      "pali": "Seyyathāpi, bhikkhave, naḷāgārā vā tiṇāgārā vā aggi mutto kūṭāgārānipi dahati ullittāvalittāni nivātāni phusitaggaḷāni pihitavātapānāni;"
+    },
+    {
+      "id": "mn115:2.5",
+      "pali": "evameva kho, bhikkhave, yāni kānici bhayāni uppajjanti sabbāni tāni bālato uppajjanti, no paṇḍitato;"
+    },
+    {
+      "id": "mn115:2.6",
+      "pali": "ye keci upaddavā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato;"
+    },
+    {
+      "id": "mn115:2.7",
+      "pali": "ye keci upasaggā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato."
+    },
+    {
+      "id": "mn115:2.8",
+      "pali": "Iti kho, bhikkhave, sappaṭibhayo bālo, appaṭibhayo paṇḍito;"
+    },
+    {
+      "id": "mn115:2.9",
+      "pali": "saupaddavo bālo, anupaddavo paṇḍito;"
+    },
+    {
+      "id": "mn115:2.10",
+      "pali": "saupasaggo bālo, anupasaggo paṇḍito."
+    },
+    {
+      "id": "mn115:2.11",
+      "pali": "Natthi, bhikkhave, paṇḍitato bhayaṁ, natthi paṇḍitato upaddavo, natthi paṇḍitato upasaggo."
+    },
+    {
+      "id": "mn115:2.12",
+      "pali": "Tasmātiha, bhikkhave, ‘paṇḍitā bhavissāma vīmaṁsakā’ti—"
+    },
+    {
+      "id": "mn115:2.13",
+      "pali": "evañhi vo, bhikkhave, sikkhitabban”ti."
+    },
+    {
+      "id": "mn115:3.1",
+      "pali": "Evaṁ vutte, āyasmā ānando bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn115:3.2",
+      "pali": "“kittāvatā nu kho, bhante, paṇḍito bhikkhu ‘vīmaṁsako’ti alaṁvacanāyā”ti?"
+    },
+    {
+      "id": "mn115:3.3",
+      "pali": "“Yato kho, ānanda, bhikkhu dhātukusalo ca hoti, āyatanakusalo ca hoti, paṭiccasamuppādakusalo ca hoti, ṭhānāṭhānakusalo ca hoti—"
+    },
+    {
+      "id": "mn115:3.4",
+      "pali": "ettāvatā kho, ānanda, paṇḍito bhikkhu ‘vīmaṁsako’ti alaṁvacanāyā”ti."
+    },
+    {
+      "id": "mn115:4.1",
+      "pali": "“Kittāvatā pana, bhante, ‘dhātukusalo bhikkhū’ti alaṁvacanāyā”ti?"
+    },
+    {
+      "id": "mn115:4.2",
+      "pali": "“Aṭṭhārasa kho imā, ānanda, dhātuyo—"
+    },
+    {
+      "id": "mn115:4.3",
+      "pali": "cakkhudhātu, rūpadhātu, cakkhuviññāṇadhātu;"
+    },
+    {
+      "id": "mn115:4.4",
+      "pali": "sotadhātu, saddadhātu, sotaviññāṇadhātu;"
+    },
+    {
+      "id": "mn115:4.5",
+      "pali": "ghānadhātu, gandhadhātu, ghānaviññāṇadhātu;"
+    },
+    {
+      "id": "mn115:4.6",
+      "pali": "jivhādhātu, rasadhātu, jivhāviññāṇadhātu;"
+    },
+    {
+      "id": "mn115:4.7",
+      "pali": "kāyadhātu, phoṭṭhabbadhātu, kāyaviññāṇadhātu;"
+    },
+    {
+      "id": "mn115:4.8",
+      "pali": "manodhātu, dhammadhātu, manoviññāṇadhātu."
+    },
+    {
+      "id": "mn115:4.9",
+      "pali": "Imā kho, ānanda, aṭṭhārasa dhātuyo yato jānāti passati—"
+    },
+    {
+      "id": "mn115:4.10",
+      "pali": "ettāvatāpi kho, ānanda, ‘dhātukusalo bhikkhū’ti alaṁvacanāyā”ti."
+    },
+    {
+      "id": "mn115:5.1",
+      "pali": "“Siyā pana, bhante, aññopi pariyāyo, yathā ‘dhātukusalo bhikkhū’ti alaṁvacanāyā”ti?"
+    },
+    {
+      "id": "mn115:5.2",
+      "pali": "“Siyā, ānanda."
+    },
+    {
+      "id": "mn115:5.3",
+      "pali": "Chayimā, ānanda, dhātuyo—"
+    },
+    {
+      "id": "mn115:5.4",
+      "pali": "pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu, ākāsadhātu, viññāṇadhātu."
+    },
+    {
+      "id": "mn115:5.5",
+      "pali": "Imā kho, ānanda, cha dhātuyo yato jānāti passati—"
+    },
+    {
+      "id": "mn115:5.6",
+      "pali": "ettāvatāpi kho, ānanda, ‘dhātukusalo bhikkhū’ti alaṁvacanāyā”ti."
+    },
+    {
+      "id": "mn115:6.1",
+      "pali": "“Siyā pana, bhante, aññopi pariyāyo, yathā ‘dhātukusalo bhikkhū’ti alaṁvacanāyā”ti?"
+    },
+    {
+      "id": "mn115:6.2",
+      "pali": "“Siyā, ānanda."
+    },
+    {
+      "id": "mn115:6.3",
+      "pali": "Chayimā, ānanda, dhātuyo—"
+    },
+    {
+      "id": "mn115:6.4",
+      "pali": "sukhadhātu, dukkhadhātu, somanassadhātu, domanassadhātu, upekkhādhātu, avijjādhātu."
+    },
+    {
+      "id": "mn115:6.5",
+      "pali": "Imā kho, ānanda, cha dhātuyo yato jānāti passati—"
+    },
+    {
+      "id": "mn115:6.6",
+      "pali": "ettāvatāpi kho, ānanda, ‘dhātukusalo bhikkhū’ti alaṁvacanāyā”ti."
+    },
+    {
+      "id": "mn115:7.1",
+      "pali": "“Siyā pana, bhante, aññopi pariyāyo, yathā ‘dhātukusalo bhikkhū’ti alaṁvacanāyā”ti?"
+    },
+    {
+      "id": "mn115:7.2",
+      "pali": "“Siyā, ānanda."
+    },
+    {
+      "id": "mn115:7.3",
+      "pali": "Chayimā, ānanda, dhātuyo—"
+    },
+    {
+      "id": "mn115:7.4",
+      "pali": "kāmadhātu, nekkhammadhātu, byāpādadhātu, abyāpādadhātu, vihiṁsādhātu, avihiṁsādhātu."
+    },
+    {
+      "id": "mn115:7.5",
+      "pali": "Imā kho, ānanda, cha dhātuyo yato jānāti passati—"
+    },
+    {
+      "id": "mn115:7.6",
+      "pali": "ettāvatāpi kho, ānanda, ‘dhātukusalo bhikkhū’ti alaṁvacanāyā”ti."
+    },
+    {
+      "id": "mn115:8.1",
+      "pali": "“Siyā pana, bhante, aññopi pariyāyo, yathā ‘dhātukusalo bhikkhū’ti alaṁvacanāyā”ti?"
+    },
+    {
+      "id": "mn115:8.2",
+      "pali": "“Siyā, ānanda."
+    },
+    {
+      "id": "mn115:8.3",
+      "pali": "Tisso imā, ānanda, dhātuyo—"
+    },
+    {
+      "id": "mn115:8.4",
+      "pali": "kāmadhātu, rūpadhātu, arūpadhātu."
+    },
+    {
+      "id": "mn115:8.5",
+      "pali": "Imā kho, ānanda, tisso dhātuyo yato jānāti passati—"
+    },
+    {
+      "id": "mn115:8.6",
+      "pali": "ettāvatāpi kho, ānanda, ‘dhātukusalo bhikkhū’ti alaṁvacanāyā”ti."
+    },
+    {
+      "id": "mn115:9.1",
+      "pali": "“Siyā pana, bhante, aññopi pariyāyo, yathā ‘dhātukusalo bhikkhū’ti alaṁvacanāyā”ti?"
+    },
+    {
+      "id": "mn115:9.2",
+      "pali": "“Siyā, ānanda."
+    },
+    {
+      "id": "mn115:9.3",
+      "pali": "Dve imā, ānanda, dhātuyo—"
+    },
+    {
+      "id": "mn115:9.4",
+      "pali": "saṅkhatādhātu, asaṅkhatādhātu."
+    },
+    {
+      "id": "mn115:9.5",
+      "pali": "Imā kho, ānanda, dve dhātuyo yato jānāti passati—"
+    },
+    {
+      "id": "mn115:9.6",
+      "pali": "ettāvatāpi kho, ānanda, ‘dhātukusalo bhikkhū’ti alaṁvacanāyā”ti."
+    },
+    {
+      "id": "mn115:10.1",
+      "pali": "“Kittāvatā pana, bhante, ‘āyatanakusalo bhikkhū’ti alaṁvacanāyā”ti?"
+    },
+    {
+      "id": "mn115:10.2",
+      "pali": "“Cha kho panimāni, ānanda, ajjhattikabāhirāni āyatanāni—"
+    },
+    {
+      "id": "mn115:10.3",
+      "pali": "cakkhu ceva rūpā ca sotañca saddā ca ghānañca gandhā ca jivhā ca rasā ca kāyo ca phoṭṭhabbā ca mano ca dhammā ca."
+    },
+    {
+      "id": "mn115:10.4",
+      "pali": "Imāni kho, ānanda, cha ajjhattikabāhirāni āyatanāni yato jānāti passati—"
+    },
+    {
+      "id": "mn115:10.5",
+      "pali": "ettāvatā kho, ānanda, ‘āyatanakusalo bhikkhū’ti alaṁvacanāyā”ti."
+    },
+    {
+      "id": "mn115:11.1",
+      "pali": "“Kittāvatā pana, bhante, ‘paṭiccasamuppādakusalo bhikkhū’ti alaṁvacanāyā”ti?"
+    },
+    {
+      "id": "mn115:11.2",
+      "pali": "“Idhānanda, bhikkhu evaṁ pajānāti:"
+    },
+    {
+      "id": "mn115:11.3",
+      "pali": "‘imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati,"
+    },
+    {
+      "id": "mn115:11.4",
+      "pali": "imasmiṁ asati idaṁ na hoti, imassa nirodhā idaṁ nirujjhati, yadidaṁ—"
+    },
+    {
+      "id": "mn115:11.5",
+      "pali": "avijjāpaccayā saṅkhārā,"
+    },
+    {
+      "id": "mn115:11.6",
+      "pali": "saṅkhārapaccayā viññāṇaṁ,"
+    },
+    {
+      "id": "mn115:11.7",
+      "pali": "viññāṇapaccayā nāmarūpaṁ,"
+    },
+    {
+      "id": "mn115:11.8",
+      "pali": "nāmarūpapaccayā saḷāyatanaṁ,"
+    },
+    {
+      "id": "mn115:11.9",
+      "pali": "saḷāyatanapaccayā phasso,"
+    },
+    {
+      "id": "mn115:11.10",
+      "pali": "phassapaccayā vedanā,"
+    },
+    {
+      "id": "mn115:11.11",
+      "pali": "vedanāpaccayā taṇhā,"
+    },
+    {
+      "id": "mn115:11.12",
+      "pali": "taṇhāpaccayā upādānaṁ,"
+    },
+    {
+      "id": "mn115:11.13",
+      "pali": "upādānapaccayā bhavo,"
+    },
+    {
+      "id": "mn115:11.14",
+      "pali": "bhavapaccayā jāti,"
+    },
+    {
+      "id": "mn115:11.15",
+      "pali": "jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassūpāyāsā sambhavanti."
+    },
+    {
+      "id": "mn115:11.16",
+      "pali": "Evametassa kevalassa dukkhakkhandhassa samudayo hoti."
+    },
+    {
+      "id": "mn115:11.17",
+      "pali": "Avijjāya tveva asesavirāganirodhā saṅkhāranirodho,"
+    },
+    {
+      "id": "mn115:11.18",
+      "pali": "saṅkhāranirodhā viññāṇanirodho,"
+    },
+    {
+      "id": "mn115:11.19",
+      "pali": "viññāṇanirodhā nāmarūpanirodho,"
+    },
+    {
+      "id": "mn115:11.20",
+      "pali": "nāmarūpanirodhā saḷāyatananirodho,"
+    },
+    {
+      "id": "mn115:11.21",
+      "pali": "saḷāyatananirodhā phassanirodho,"
+    },
+    {
+      "id": "mn115:11.22",
+      "pali": "phassanirodhā vedanānirodho,"
+    },
+    {
+      "id": "mn115:11.23",
+      "pali": "vedanānirodhā taṇhānirodho,"
+    },
+    {
+      "id": "mn115:11.24",
+      "pali": "taṇhānirodhā upādānanirodho,"
+    },
+    {
+      "id": "mn115:11.25",
+      "pali": "upādānanirodhā bhavanirodho,"
+    },
+    {
+      "id": "mn115:11.26",
+      "pali": "bhavanirodhā jātinirodho,"
+    },
+    {
+      "id": "mn115:11.27",
+      "pali": "jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassūpāyāsā nirujjhanti."
+    },
+    {
+      "id": "mn115:11.28",
+      "pali": "Evametassa kevalassa dukkhakkhandhassa nirodho hoti’."
+    },
+    {
+      "id": "mn115:11.29",
+      "pali": "Ettāvatā kho, ānanda, ‘paṭiccasamuppādakusalo bhikkhū’ti alaṁvacanāyā”ti."
+    },
+    {
+      "id": "mn115:12.1",
+      "pali": "“Kittāvatā pana, bhante, ‘ṭhānāṭhānakusalo bhikkhū’ti alaṁvacanāyā”ti?"
+    },
+    {
+      "id": "mn115:12.2",
+      "pali": "“Idhānanda, bhikkhu ‘aṭṭhānametaṁ anavakāso yaṁ diṭṭhisampanno puggalo kañci saṅkhāraṁ niccato upagaccheyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:12.3",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ puthujjano kañci saṅkhāraṁ niccato upagaccheyya, ṭhānametaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:12.4",
+      "pali": "‘aṭṭhānametaṁ anavakāso yaṁ diṭṭhisampanno puggalo kañci saṅkhāraṁ sukhato upagaccheyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:12.5",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ puthujjano kañci saṅkhāraṁ sukhato upagaccheyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:12.6",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ diṭṭhisampanno puggalo kañci dhammaṁ attato upagaccheyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti,"
+    },
+    {
+      "id": "mn115:12.7",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ puthujjano kañci dhammaṁ attato upagaccheyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:13.1",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ diṭṭhisampanno puggalo mātaraṁ jīvitā voropeyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:13.2",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ puthujjano mātaraṁ jīvitā voropeyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:13.3",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ diṭṭhisampanno puggalo pitaraṁ jīvitā voropeyya …pe…"
+    },
+    {
+      "id": "mn115:13.4",
+      "pali": "arahantaṁ jīvitā voropeyya, ṭhānametaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:13.5",
+      "pali": "‘aṭṭhānametaṁ anavakāso yaṁ diṭṭhisampanno puggalo duṭṭhacitto tathāgatassa lohitaṁ uppādeyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:13.6",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ puthujjano duṭṭhacitto tathāgatassa lohitaṁ uppādeyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:13.7",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ diṭṭhisampanno puggalo saṅghaṁ bhindeyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:13.8",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ puthujjano saṅghaṁ bhindeyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:13.9",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ diṭṭhisampanno puggalo aññaṁ satthāraṁ uddiseyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:13.10",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ puthujjano aññaṁ satthāraṁ uddiseyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:14.1",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ ekissā lokadhātuyā dve arahanto sammāsambuddhā apubbaṁ acarimaṁ uppajjeyyuṁ, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:14.2",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ ekissā lokadhātuyā eko arahaṁ sammāsambuddho uppajjeyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:14.3",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ ekissā lokadhātuyā dve rājāno cakkavattino apubbaṁ acarimaṁ uppajjeyyuṁ, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:14.4",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ ekissā lokadhātuyā eko rājā cakkavattī uppajjeyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:15.1",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ itthī arahaṁ assa sammāsambuddho, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:15.2",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ puriso arahaṁ assa sammāsambuddho, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:15.3",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ itthī rājā assa cakkavattī, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:15.4",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ puriso rājā assa cakkavattī, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:15.5",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ itthī sakkattaṁ kareyya … mārattaṁ kareyya … brahmattaṁ kareyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:15.6",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ puriso sakkattaṁ kareyya … mārattaṁ kareyya … brahmattaṁ kareyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:16.1",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ kāyaduccaritassa iṭṭho kanto manāpo vipāko nibbatteyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:16.2",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ kāyaduccaritassa aniṭṭho akanto amanāpo vipāko nibbatteyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:16.3",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ vacīduccaritassa …pe…"
+    },
+    {
+      "id": "mn115:16.4",
+      "pali": "yaṁ manoduccaritassa iṭṭho kanto manāpo vipāko nibbatteyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:16.5",
+      "pali": "ṭhānañca kho etaṁ vijjati yaṁ vacīduccaritassa …pe…"
+    },
+    {
+      "id": "mn115:16.6",
+      "pali": "yaṁ manoduccaritassa aniṭṭho akanto amanāpo vipāko nibbatteyya, ṭhānametaṁ vijjatīti pajānāti."
+    },
+    {
+      "id": "mn115:17.1",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ kāyasucaritassa aniṭṭho akanto amanāpo vipāko nibbatteyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:17.2",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ kāyasucaritassa iṭṭho kanto manāpo vipāko nibbatteyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:17.3",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ vacīsucaritassa …pe…"
+    },
+    {
+      "id": "mn115:17.4",
+      "pali": "yaṁ manosucaritassa aniṭṭho akanto amanāpo vipāko nibbatteyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:17.5",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ vacīsucaritassa …pe…"
+    },
+    {
+      "id": "mn115:17.6",
+      "pali": "yaṁ manosucaritassa iṭṭho kanto manāpo vipāko nibbatteyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:18.1",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ kāyaduccaritasamaṅgī taṁnidānā tappaccayā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:18.2",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ kāyaduccaritasamaṅgī taṁnidānā tappaccayā kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:19.1",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ vacīduccaritasamaṅgī …pe…"
+    },
+    {
+      "id": "mn115:19.2",
+      "pali": "yaṁ manoduccaritasamaṅgī taṁnidānā tappaccayā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:19.3",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ vacīduccaritasamaṅgī …pe…"
+    },
+    {
+      "id": "mn115:19.4",
+      "pali": "yaṁ manoduccaritasamaṅgī taṁnidānā tappaccayā kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:19.5",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ kāyasucaritasamaṅgī taṁnidānā tappaccayā kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:19.6",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ kāyasucaritasamaṅgī taṁnidānā tappaccayā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:19.7",
+      "pali": "‘Aṭṭhānametaṁ anavakāso yaṁ vacīsucaritasamaṅgī …pe…"
+    },
+    {
+      "id": "mn115:19.8",
+      "pali": "yaṁ manosucaritasamaṅgī taṁnidānā tappaccayā kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya, netaṁ ṭhānaṁ vijjatī’ti pajānāti;"
+    },
+    {
+      "id": "mn115:19.9",
+      "pali": "‘ṭhānañca kho etaṁ vijjati yaṁ vacīsucaritasamaṅgī …pe…"
+    },
+    {
+      "id": "mn115:19.10",
+      "pali": "yaṁ manosucaritasamaṅgī taṁnidānā tappaccayā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyya, ṭhānametaṁ vijjatī’ti pajānāti."
+    },
+    {
+      "id": "mn115:19.11",
+      "pali": "Ettāvatā kho, ānanda, ‘ṭhānāṭhānakusalo bhikkhū’ti alaṁvacanāyā”ti."
+    },
+    {
+      "id": "mn115:20.1",
+      "pali": "Evaṁ vutte, āyasmā ānando bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn115:20.2",
+      "pali": "“acchariyaṁ, bhante, abbhutaṁ, bhante."
+    },
+    {
+      "id": "mn115:20.3",
+      "pali": "Konāmo ayaṁ, bhante, dhammapariyāyo”ti?"
+    },
+    {
+      "id": "mn115:20.4",
+      "pali": "“Tasmātiha tvaṁ, ānanda, imaṁ dhammapariyāyaṁ ‘bahudhātuko’tipi naṁ dhārehi, ‘catuparivaṭṭo’tipi naṁ dhārehi, ‘dhammādāso’tipi naṁ dhārehi, ‘amatadundubhī’tipi naṁ dhārehi, ‘anuttaro saṅgāmavijayo’tipi naṁ dhārehī”ti."
+    },
+    {
+      "id": "mn115:20.5",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn115:20.6",
+      "pali": "Attamano āyasmā ānando bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn115:20.7",
+      "pali": "Bahudhātukasuttaṁ niṭṭhitaṁ pañcamaṁ."
+    }
+  ]
+}

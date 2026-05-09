@@ -1,0 +1,487 @@
+{
+  "uid": "mn134",
+  "title": "Lomasakaṅgiyabhaddekarattasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn134:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn134:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn134:1.3",
+      "pali": "Tena kho pana samayena āyasmā lomasakaṅgiyo sakkesu viharati kapilavatthusmiṁ nigrodhārāme."
+    },
+    {
+      "id": "mn134:2.1",
+      "pali": "Atha kho candano devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ nigrodhārāmaṁ obhāsetvā yenāyasmā lomasakaṅgiyo tenupasaṅkami; upasaṅkamitvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho candano devaputto āyasmantaṁ lomasakaṅgiyaṁ etadavoca:"
+    },
+    {
+      "id": "mn134:2.2",
+      "pali": "“dhāresi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañcā”ti?"
+    },
+    {
+      "id": "mn134:2.3",
+      "pali": "“Na kho ahaṁ, āvuso, dhāremi bhaddekarattassa uddesañca vibhaṅgañca."
+    },
+    {
+      "id": "mn134:2.4",
+      "pali": "Tvaṁ panāvuso, dhāresi bhaddekarattassa uddesañca vibhaṅgañcā”ti?"
+    },
+    {
+      "id": "mn134:2.5",
+      "pali": "“Ahampi kho, bhikkhu, na dhāremi bhaddekarattassa uddesañca vibhaṅgañca."
+    },
+    {
+      "id": "mn134:2.6",
+      "pali": "Dhāresi pana tvaṁ, bhikkhu, bhaddekarattiyo gāthā”ti?"
+    },
+    {
+      "id": "mn134:2.7",
+      "pali": "“Na kho ahaṁ, āvuso, dhāremi bhaddekarattiyo gāthā."
+    },
+    {
+      "id": "mn134:2.8",
+      "pali": "Tvaṁ panāvuso, dhāresi bhaddekarattiyo gāthā”ti?"
+    },
+    {
+      "id": "mn134:2.9",
+      "pali": "“Dhāremi kho ahaṁ, bhikkhu, bhaddekarattiyo gāthā”ti."
+    },
+    {
+      "id": "mn134:2.10",
+      "pali": "“Yathā kathaṁ pana tvaṁ, āvuso, dhāresi bhaddekarattiyo gāthā”ti?"
+    },
+    {
+      "id": "mn134:2.11",
+      "pali": "“Ekamidaṁ, bhikkhu, samayaṁ bhagavā devesu tāvatiṁsesu viharati pāricchattakamūle paṇḍukambalasilāyaṁ."
+    },
+    {
+      "id": "mn134:2.12",
+      "pali": "Tatra bhagavā devānaṁ tāvatiṁsānaṁ bhaddekarattassa uddesañca vibhaṅgañca abhāsi:"
+    },
+    {
+      "id": "mn134:3.1",
+      "pali": "‘Atītaṁ nānvāgameyya,"
+    },
+    {
+      "id": "mn134:3.2",
+      "pali": "nappaṭikaṅkhe anāgataṁ;"
+    },
+    {
+      "id": "mn134:3.3",
+      "pali": "Yadatītaṁ pahīnaṁ taṁ,"
+    },
+    {
+      "id": "mn134:3.4",
+      "pali": "appattañca anāgataṁ."
+    },
+    {
+      "id": "mn134:3.5",
+      "pali": "Paccuppannañca yo dhammaṁ,"
+    },
+    {
+      "id": "mn134:3.6",
+      "pali": "tattha tattha vipassati;"
+    },
+    {
+      "id": "mn134:3.7",
+      "pali": "Asaṁhīraṁ asaṅkuppaṁ,"
+    },
+    {
+      "id": "mn134:3.8",
+      "pali": "taṁ vidvā manubrūhaye."
+    },
+    {
+      "id": "mn134:3.9",
+      "pali": "Ajjeva kiccamātappaṁ,"
+    },
+    {
+      "id": "mn134:3.10",
+      "pali": "ko jaññā maraṇaṁ suve;"
+    },
+    {
+      "id": "mn134:3.11",
+      "pali": "Na hi no saṅgaraṁ tena,"
+    },
+    {
+      "id": "mn134:3.12",
+      "pali": "mahāsenena maccunā."
+    },
+    {
+      "id": "mn134:3.13",
+      "pali": "Evaṁvihāriṁ ātāpiṁ,"
+    },
+    {
+      "id": "mn134:3.14",
+      "pali": "ahorattamatanditaṁ;"
+    },
+    {
+      "id": "mn134:3.15",
+      "pali": "Taṁ ve bhaddekarattoti,"
+    },
+    {
+      "id": "mn134:3.16",
+      "pali": "santo ācikkhate munī’ti."
+    },
+    {
+      "id": "mn134:4.1",
+      "pali": "Evaṁ kho ahaṁ, bhikkhu, dhāremi bhaddekarattiyo gāthā."
+    },
+    {
+      "id": "mn134:4.2",
+      "pali": "Uggaṇhāhi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca;"
+    },
+    {
+      "id": "mn134:4.3",
+      "pali": "pariyāpuṇāhi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca;"
+    },
+    {
+      "id": "mn134:4.4",
+      "pali": "dhārehi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca."
+    },
+    {
+      "id": "mn134:4.5",
+      "pali": "Atthasaṁhito, bhikkhu, bhaddekarattassa uddeso ca vibhaṅgo ca ādibrahmacariyako”ti."
+    },
+    {
+      "id": "mn134:4.6",
+      "pali": "Idamavoca candano devaputto."
+    },
+    {
+      "id": "mn134:4.7",
+      "pali": "Idaṁ vatvā tatthevantaradhāyi."
+    },
+    {
+      "id": "mn134:5.1",
+      "pali": "Atha kho āyasmā lomasakaṅgiyo tassā rattiyā accayena senāsanaṁ saṁsāmetvā pattacīvaramādāya yena sāvatthi tena cārikaṁ pakkāmi."
+    },
+    {
+      "id": "mn134:5.2",
+      "pali": "Anupubbena cārikaṁ caramāno yena sāvatthi jetavanaṁ anāthapiṇḍikassa ārāmo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā lomasakaṅgiyo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn134:5.3",
+      "pali": "“Ekamidāhaṁ, bhante, samayaṁ sakkesu viharāmi kapilavatthusmiṁ nigrodhārāme."
+    },
+    {
+      "id": "mn134:5.4",
+      "pali": "Atha kho, bhante, aññataro devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ nigrodhārāmaṁ obhāsetvā yenāhaṁ tenupasaṅkami; upasaṅkamitvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho, bhante, so devaputto maṁ etadavoca:"
+    },
+    {
+      "id": "mn134:5.5",
+      "pali": "‘dhāresi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañcā’ti?"
+    },
+    {
+      "id": "mn134:5.6",
+      "pali": "Evaṁ vutte, ahaṁ, bhante, taṁ devaputtaṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn134:5.7",
+      "pali": "‘na kho ahaṁ, āvuso, dhāremi bhaddekarattassa uddesañca vibhaṅgañca."
+    },
+    {
+      "id": "mn134:5.8",
+      "pali": "Tvaṁ panāvuso, dhāresi bhaddekarattassa uddesañca vibhaṅgañcā’ti?"
+    },
+    {
+      "id": "mn134:5.9",
+      "pali": "‘Ahampi kho, bhikkhu, na dhāremi bhaddekarattassa uddesañca vibhaṅgañca."
+    },
+    {
+      "id": "mn134:5.10",
+      "pali": "Dhāresi pana tvaṁ, bhikkhu, bhaddekarattiyo gāthā’ti?"
+    },
+    {
+      "id": "mn134:5.11",
+      "pali": "‘Na kho ahaṁ, āvuso, dhāremi bhaddekarattiyo gāthā."
+    },
+    {
+      "id": "mn134:5.12",
+      "pali": "Tvaṁ panāvuso, dhāresi bhaddekarattiyo gāthā’ti?"
+    },
+    {
+      "id": "mn134:5.13",
+      "pali": "‘Dhāremi kho ahaṁ, bhikkhu, bhaddekarattiyo gāthā’ti."
+    },
+    {
+      "id": "mn134:5.14",
+      "pali": "‘Yathā kathaṁ pana tvaṁ, āvuso, dhāresi bhaddekarattiyo gāthā’ti?"
+    },
+    {
+      "id": "mn134:5.15",
+      "pali": "‘Ekamidaṁ, bhikkhu, samayaṁ bhagavā devesu tāvatiṁsesu viharati pāricchattakamūle paṇḍukambalasilāyaṁ."
+    },
+    {
+      "id": "mn134:5.16",
+      "pali": "Tatra kho bhagavā devānaṁ tāvatiṁsānaṁ bhaddekarattassa uddesañca vibhaṅgañca abhāsi:"
+    },
+    {
+      "id": "mn134:5.17",
+      "pali": "“Atītaṁ nānvāgameyya,"
+    },
+    {
+      "id": "mn134:5.18",
+      "pali": "…pe…"
+    },
+    {
+      "id": "mn134:5.19",
+      "pali": "Taṁ ve bhaddekarattoti,"
+    },
+    {
+      "id": "mn134:5.20",
+      "pali": "santo ācikkhate munī”ti."
+    },
+    {
+      "id": "mn134:5.21",
+      "pali": "Evaṁ kho ahaṁ, bhikkhu, dhāremi bhaddekarattiyo gāthā."
+    },
+    {
+      "id": "mn134:5.22",
+      "pali": "Uggaṇhāhi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca;"
+    },
+    {
+      "id": "mn134:5.23",
+      "pali": "pariyāpuṇāhi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca;"
+    },
+    {
+      "id": "mn134:5.24",
+      "pali": "dhārehi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca."
+    },
+    {
+      "id": "mn134:5.25",
+      "pali": "Atthasaṁhito, bhikkhu, bhaddekarattassa uddeso ca vibhaṅgo ca ādibrahmacariyako’ti."
+    },
+    {
+      "id": "mn134:5.26",
+      "pali": "Idamavoca, bhante, so devaputto."
+    },
+    {
+      "id": "mn134:5.27",
+      "pali": "Idaṁ vatvā tatthevantaradhāyi."
+    },
+    {
+      "id": "mn134:5.28",
+      "pali": "Sādhu me, bhante, bhagavā bhaddekarattassa uddesañca vibhaṅgañca desetū”ti."
+    },
+    {
+      "id": "mn134:6.1",
+      "pali": "“Jānāsi pana tvaṁ, bhikkhu, taṁ devaputtan”ti?"
+    },
+    {
+      "id": "mn134:6.2",
+      "pali": "“Na kho ahaṁ, bhante, jānāmi taṁ devaputtan”ti."
+    },
+    {
+      "id": "mn134:6.3",
+      "pali": "“Candano nāma so, bhikkhu, devaputto."
+    },
+    {
+      "id": "mn134:6.4",
+      "pali": "Candano, bhikkhu, devaputto aṭṭhiṁ katvā manasikatvā sabbacetasā samannāharitvā ohitasoto dhammaṁ suṇāti."
+    },
+    {
+      "id": "mn134:6.5",
+      "pali": "Tena hi, bhikkhu, suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti."
+    },
+    {
+      "id": "mn134:6.6",
+      "pali": "“Evaṁ, bhante”ti kho āyasmā lomasakaṅgiyo bhagavato paccassosi."
+    },
+    {
+      "id": "mn134:6.7",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn134:7.1",
+      "pali": "“Atītaṁ nānvāgameyya,"
+    },
+    {
+      "id": "mn134:7.2",
+      "pali": "nappaṭikaṅkhe anāgataṁ;"
+    },
+    {
+      "id": "mn134:7.3",
+      "pali": "Yadatītaṁ pahīnaṁ taṁ,"
+    },
+    {
+      "id": "mn134:7.4",
+      "pali": "appattañca anāgataṁ."
+    },
+    {
+      "id": "mn134:7.5",
+      "pali": "Paccuppannañca yo dhammaṁ,"
+    },
+    {
+      "id": "mn134:7.6",
+      "pali": "tattha tattha vipassati;"
+    },
+    {
+      "id": "mn134:7.7",
+      "pali": "Asaṁhīraṁ asaṅkuppaṁ,"
+    },
+    {
+      "id": "mn134:7.8",
+      "pali": "taṁ vidvā manubrūhaye."
+    },
+    {
+      "id": "mn134:7.9",
+      "pali": "Ajjeva kiccamātappaṁ,"
+    },
+    {
+      "id": "mn134:7.10",
+      "pali": "ko jaññā maraṇaṁ suve;"
+    },
+    {
+      "id": "mn134:7.11",
+      "pali": "Na hi no saṅgaraṁ tena,"
+    },
+    {
+      "id": "mn134:7.12",
+      "pali": "mahāsenena maccunā."
+    },
+    {
+      "id": "mn134:7.13",
+      "pali": "Evaṁvihāriṁ ātāpiṁ,"
+    },
+    {
+      "id": "mn134:7.14",
+      "pali": "ahorattamatanditaṁ;"
+    },
+    {
+      "id": "mn134:7.15",
+      "pali": "Taṁ ve bhaddekarattoti,"
+    },
+    {
+      "id": "mn134:7.16",
+      "pali": "santo ācikkhate muni."
+    },
+    {
+      "id": "mn134:8-13.1",
+      "pali": "Kathañca, bhikkhu, atītaṁ anvāgameti …pe…"
+    },
+    {
+      "id": "mn134:8-13.2",
+      "pali": "evaṁ kho, bhikkhu, atītaṁ anvāgameti."
+    },
+    {
+      "id": "mn134:8-13.3",
+      "pali": "Kathañca, bhikkhu, atītaṁ nānvāgameti …pe…"
+    },
+    {
+      "id": "mn134:8-13.4",
+      "pali": "evaṁ kho, bhikkhu, atītaṁ nānvāgameti."
+    },
+    {
+      "id": "mn134:8-13.5",
+      "pali": "Kathañca, bhikkhu, anāgataṁ paṭikaṅkhati …pe…"
+    },
+    {
+      "id": "mn134:8-13.6",
+      "pali": "evaṁ kho, bhikkhu, anāgataṁ paṭikaṅkhati."
+    },
+    {
+      "id": "mn134:8-13.7",
+      "pali": "Kathañca, bhikkhu, anāgataṁ nappaṭikaṅkhati …pe…"
+    },
+    {
+      "id": "mn134:8-13.8",
+      "pali": "evaṁ kho, bhikkhu, anāgataṁ nappaṭikaṅkhati."
+    },
+    {
+      "id": "mn134:8-13.9",
+      "pali": "Kathañca, bhikkhu, paccuppannesu dhammesu saṁhīrati …pe…"
+    },
+    {
+      "id": "mn134:8-13.10",
+      "pali": "evaṁ kho, bhikkhu, paccuppannesu dhammesu saṁhīrati."
+    },
+    {
+      "id": "mn134:8-13.11",
+      "pali": "Kathañca, bhikkhu, paccuppannesu dhammesu na saṁhīrati …pe…"
+    },
+    {
+      "id": "mn134:8-13.12",
+      "pali": "evaṁ kho, bhikkhu, paccuppannesu dhammesu na saṁhīrati."
+    },
+    {
+      "id": "mn134:14.1",
+      "pali": "Atītaṁ nānvāgameyya,"
+    },
+    {
+      "id": "mn134:14.2",
+      "pali": "nappaṭikaṅkhe anāgataṁ;"
+    },
+    {
+      "id": "mn134:14.3",
+      "pali": "Yadatītaṁ pahīnaṁ taṁ,"
+    },
+    {
+      "id": "mn134:14.4",
+      "pali": "appattañca anāgataṁ."
+    },
+    {
+      "id": "mn134:14.5",
+      "pali": "Paccuppannañca yo dhammaṁ,"
+    },
+    {
+      "id": "mn134:14.6",
+      "pali": "tattha tattha vipassati;"
+    },
+    {
+      "id": "mn134:14.7",
+      "pali": "Asaṁhīraṁ asaṅkuppaṁ,"
+    },
+    {
+      "id": "mn134:14.8",
+      "pali": "taṁ vidvā manubrūhaye."
+    },
+    {
+      "id": "mn134:14.9",
+      "pali": "Ajjeva kiccamātappaṁ,"
+    },
+    {
+      "id": "mn134:14.10",
+      "pali": "ko jaññā maraṇaṁ suve;"
+    },
+    {
+      "id": "mn134:14.11",
+      "pali": "Na hi no saṅgaraṁ tena,"
+    },
+    {
+      "id": "mn134:14.12",
+      "pali": "mahāsenena maccunā."
+    },
+    {
+      "id": "mn134:14.13",
+      "pali": "Evaṁvihāriṁ ātāpiṁ,"
+    },
+    {
+      "id": "mn134:14.14",
+      "pali": "ahorattamatanditaṁ;"
+    },
+    {
+      "id": "mn134:14.15",
+      "pali": "Taṁ ve bhaddekarattoti,"
+    },
+    {
+      "id": "mn134:14.16",
+      "pali": "santo ācikkhate munī”ti."
+    },
+    {
+      "id": "mn134:14.17",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn134:14.18",
+      "pali": "Attamano āyasmā lomasakaṅgiyo bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn134:14.19",
+      "pali": "Lomasakaṅgiyabhaddekarattasuttaṁ niṭṭhitaṁ catutthaṁ."
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "uid": "mn135",
+  "title": "Cūḷakammavibhaṅgasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn135:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn135:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane, anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn135:2.1",
+      "pali": "Atha kho subho māṇavo todeyyaputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn135:2.2",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho subho māṇavo todeyyaputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn135:3.1",
+      "pali": "“Ko nu kho, bho gotama, hetu ko paccayo yena manussānaṁyeva sataṁ manussabhūtānaṁ dissanti hīnappaṇītatā?"
+    },
+    {
+      "id": "mn135:3.2",
+      "pali": "Dissanti hi, bho gotama, manussā appāyukā, dissanti dīghāyukā;"
+    },
+    {
+      "id": "mn135:3.3",
+      "pali": "dissanti bavhābādhā, dissanti appābādhā;"
+    },
+    {
+      "id": "mn135:3.4",
+      "pali": "dissanti dubbaṇṇā, dissanti vaṇṇavanto;"
+    },
+    {
+      "id": "mn135:3.5",
+      "pali": "dissanti appesakkhā, dissanti mahesakkhā;"
+    },
+    {
+      "id": "mn135:3.6",
+      "pali": "dissanti appabhogā, dissanti mahābhogā;"
+    },
+    {
+      "id": "mn135:3.7",
+      "pali": "dissanti nīcakulīnā, dissanti uccākulīnā;"
+    },
+    {
+      "id": "mn135:3.8",
+      "pali": "dissanti duppaññā, dissanti paññavanto."
+    },
+    {
+      "id": "mn135:3.9",
+      "pali": "Ko nu kho, bho gotama, hetu ko paccayo yena manussānaṁyeva sataṁ manussabhūtānaṁ dissanti hīnappaṇītatā”ti?"
+    },
+    {
+      "id": "mn135:4.1",
+      "pali": "“Kammassakā, māṇava, sattā kammadāyādā kammayonī kammabandhū kammappaṭisaraṇā."
+    },
+    {
+      "id": "mn135:4.2",
+      "pali": "Kammaṁ satte vibhajati yadidaṁ—"
+    },
+    {
+      "id": "mn135:4.3",
+      "pali": "hīnappaṇītatāyā”ti."
+    },
+    {
+      "id": "mn135:4.4",
+      "pali": "“Na kho ahaṁ imassa bhoto gotamassa saṅkhittena bhāsitassa vitthārena atthaṁ avibhattassa vitthārena atthaṁ ājānāmi."
+    },
+    {
+      "id": "mn135:4.5",
+      "pali": "Sādhu me bhavaṁ gotamo tathā dhammaṁ desetu yathā ahaṁ imassa bhoto gotamassa saṅkhittena bhāsitassa vitthārena atthaṁ avibhattassa vitthārena atthaṁ ājāneyyan”ti."
+    },
+    {
+      "id": "mn135:4.6",
+      "pali": "“Tena hi, māṇava, suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti."
+    },
+    {
+      "id": "mn135:4.7",
+      "pali": "“Evaṁ, bho”ti kho subho māṇavo todeyyaputto bhagavato paccassosi."
+    },
+    {
+      "id": "mn135:4.8",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn135:5.1",
+      "pali": "“Idha, māṇava, ekacco itthī vā puriso vā pāṇātipātī hoti luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu."
+    },
+    {
+      "id": "mn135:5.2",
+      "pali": "So tena kammena evaṁ samattena evaṁ samādinnena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati."
+    },
+    {
+      "id": "mn135:5.3",
+      "pali": "No ce kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati, sace manussattaṁ āgacchati yattha yattha paccājāyati appāyuko hoti."
+    },
+    {
+      "id": "mn135:5.4",
+      "pali": "Appāyukasaṁvattanikā esā, māṇava, paṭipadā yadidaṁ—"
+    },
+    {
+      "id": "mn135:5.5",
+      "pali": "pāṇātipātī hoti luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu."
+    },
+    {
+      "id": "mn135:6.1",
+      "pali": "Idha pana, māṇava, ekacco itthī vā puriso vā pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati."
+    },
+    {
+      "id": "mn135:6.2",
+      "pali": "So tena kammena evaṁ samattena evaṁ samādinnena kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati."
+    },
+    {
+      "id": "mn135:6.3",
+      "pali": "No ce kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati, sace manussattaṁ āgacchati yattha yattha paccājāyati dīghāyuko hoti."
+    },
+    {
+      "id": "mn135:6.4",
+      "pali": "Dīghāyukasaṁvattanikā esā, māṇava, paṭipadā yadidaṁ—"
+    },
+    {
+      "id": "mn135:6.5",
+      "pali": "pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati."
+    },
+    {
+      "id": "mn135:7.1",
+      "pali": "Idha, māṇava, ekacco itthī vā puriso vā sattānaṁ viheṭhakajātiko hoti, pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā."
+    },
+    {
+      "id": "mn135:7.2",
+      "pali": "So tena kammena evaṁ samattena evaṁ samādinnena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati."
+    },
+    {
+      "id": "mn135:7.3",
+      "pali": "No ce kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati, sace manussattaṁ āgacchati yattha yattha paccājāyati bavhābādho hoti."
+    },
+    {
+      "id": "mn135:7.4",
+      "pali": "Bavhābādhasaṁvattanikā esā, māṇava, paṭipadā yadidaṁ—"
+    },
+    {
+      "id": "mn135:7.5",
+      "pali": "sattānaṁ viheṭhakajātiko hoti pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā."
+    },
+    {
+      "id": "mn135:8.1",
+      "pali": "Idha pana, māṇava, ekacco itthī vā puriso vā sattānaṁ aviheṭhakajātiko hoti pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā."
+    },
+    {
+      "id": "mn135:8.2",
+      "pali": "So tena kammena evaṁ samattena evaṁ samādinnena kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati."
+    },
+    {
+      "id": "mn135:8.3",
+      "pali": "No ce kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati, sace manussattaṁ āgacchati yattha yattha paccājāyati appābādho hoti."
+    },
+    {
+      "id": "mn135:8.4",
+      "pali": "Appābādhasaṁvattanikā esā, māṇava, paṭipadā yadidaṁ—"
+    },
+    {
+      "id": "mn135:8.5",
+      "pali": "sattānaṁ aviheṭhakajātiko hoti pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā."
+    },
+    {
+      "id": "mn135:9.1",
+      "pali": "Idha, māṇava, ekacco itthī vā puriso vā kodhano hoti upāyāsabahulo."
+    },
+    {
+      "id": "mn135:9.2",
+      "pali": "Appampi vutto samāno abhisajjati kuppati byāpajjati patiṭṭhīyati kopañca dosañca appaccayañca pātukaroti."
+    },
+    {
+      "id": "mn135:9.3",
+      "pali": "So tena kammena evaṁ samattena evaṁ samādinnena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati."
+    },
+    {
+      "id": "mn135:9.4",
+      "pali": "No ce kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati, sace manussattaṁ āgacchati yattha yattha paccājāyati dubbaṇṇo hoti."
+    },
+    {
+      "id": "mn135:9.5",
+      "pali": "Dubbaṇṇasaṁvattanikā esā, māṇava, paṭipadā yadidaṁ—"
+    },
+    {
+      "id": "mn135:9.6",
+      "pali": "kodhano hoti upāyāsabahulo;"
+    },
+    {
+      "id": "mn135:9.7",
+      "pali": "appampi vutto samāno abhisajjati kuppati byāpajjati patiṭṭhīyati kopañca dosañca appaccayañca pātukaroti."
+    },
+    {
+      "id": "mn135:10.1",
+      "pali": "Idha pana, māṇava, ekacco itthī vā puriso vā akkodhano hoti anupāyāsabahulo;"
+    },
+    {
+      "id": "mn135:10.2",
+      "pali": "bahumpi vutto samāno nābhisajjati na kuppati na byāpajjati na patiṭṭhīyati na kopañca dosañca appaccayañca pātukaroti."
+    },
+    {
+      "id": "mn135:10.3",
+      "pali": "So tena kammena evaṁ samattena evaṁ samādinnena kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati."
+    },
+    {
+      "id": "mn135:10.4",
+      "pali": "No ce kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati, sace manussattaṁ āgacchati yattha yattha paccājāyati pāsādiko hoti."
+    },
+    {
+      "id": "mn135:10.5",
+      "pali": "Pāsādikasaṁvattanikā esā, māṇava, paṭipadā yadidaṁ—"
+    },
+    {
+      "id": "mn135:10.6",
+      "pali": "akkodhano hoti anupāyāsabahulo;"
+    },
+    {
+      "id": "mn135:10.7",
+      "pali": "bahumpi vutto samāno nābhisajjati na kuppati na byāpajjati na patiṭṭhīyati na kopañca dosañca appaccayañca pātukaroti."
+    },
+    {
+      "id": "mn135:11.1",
+      "pali": "Idha, māṇava, ekacco itthī vā puriso vā issāmanako hoti;"
+    },
+    {
+      "id": "mn135:11.2",
+      "pali": "paralābhasakkāragarukāramānanavandanapūjanāsu issati upadussati issaṁ bandhati."
+    },
+    {
+      "id": "mn135:11.3",
+      "pali": "So tena kammena evaṁ samattena evaṁ samādinnena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati."
+    },
+    {
+      "id": "mn135:11.4",
+      "pali": "No ce kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati, sace manussattaṁ āgacchati yattha yattha paccājāyati appesakkho hoti."
+    },
+    {
+      "id": "mn135:11.5",
+      "pali": "Appesakkhasaṁvattanikā esā, māṇava, paṭipadā yadidaṁ—"
+    },
+    {
+      "id": "mn135:11.6",
+      "pali": "issāmanako hoti;"
+    },
+    {
+      "id": "mn135:11.7",
+      "pali": "paralābhasakkāragarukāramānanavandanapūjanāsu issati upadussati issaṁ bandhati."
+    },
+    {
+      "id": "mn135:12.1",
+      "pali": "Idha pana, māṇava, ekacco itthī vā puriso vā anissāmanako hoti;"
+    },
+    {
+      "id": "mn135:12.2",
+      "pali": "paralābhasakkāragarukāramānanavandanapūjanāsu na issati na upadussati na issaṁ bandhati."
+    },
+    {
+      "id": "mn135:12.3",
+      "pali": "So tena kammena evaṁ samattena evaṁ samādinnena kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati."
+    },
+    {
+      "id": "mn135:12.4",
+      "pali": "No ce kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati, sace manussattaṁ āgacchati yattha yattha paccājāyati mahesakkho hoti."
+    },
+    {
+      "id": "mn135:12.5",
+      "pali": "Mahesakkhasaṁvattanikā esā, māṇava, paṭipadā yadidaṁ—"
+    },
+    {
+      "id": "mn135:12.6",
+      "pali": "anissāmanako hoti;"
+    },
+    {
+      "id": "mn135:12.7",
+      "pali": "paralābhasakkāragarukāramānanavandanapūjanāsu na issati na upadussati na issaṁ bandhati."
+    },
+    {
+      "id": "mn135:13.1",
+      "pali": "Idha, māṇava, ekacco itthī vā puriso vā na dātā hoti samaṇassa vā brāhmaṇassa vā annaṁ pānaṁ vatthaṁ yānaṁ mālāgandhavilepanaṁ seyyāvasathapadīpeyyaṁ."
+    },
+    {
+      "id": "mn135:13.2",
+      "pali": "So tena kammena evaṁ samattena evaṁ samādinnena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati."
+    },
+    {
+      "id": "mn135:13.3",
+      "pali": "No ce kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati, sace manussattaṁ āgacchati yattha yattha paccājāyati appabhogo hoti."
+    },
+    {
+      "id": "mn135:13.4",
+      "pali": "Appabhogasaṁvattanikā esā, māṇava, paṭipadā yadidaṁ—"
+    },
+    {
+      "id": "mn135:13.5",
+      "pali": "na dātā hoti samaṇassa vā brāhmaṇassa vā annaṁ pānaṁ vatthaṁ yānaṁ mālāgandhavilepanaṁ seyyāvasathapadīpeyyaṁ."
+    },
+    {
+      "id": "mn135:14.1",
+      "pali": "Idha pana, māṇava, ekacco itthī vā puriso vā dātā hoti samaṇassa vā brāhmaṇassa vā annaṁ pānaṁ vatthaṁ yānaṁ mālāgandhavilepanaṁ seyyāvasathapadīpeyyaṁ."
+    },
+    {
+      "id": "mn135:14.2",
+      "pali": "So tena kammena evaṁ samattena evaṁ samādinnena kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati."
+    },
+    {
+      "id": "mn135:14.3",
+      "pali": "No ce kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati, sace manussattaṁ āgacchati yattha yattha paccājāyati mahābhogo hoti."
+    },
+    {
+      "id": "mn135:14.4",
+      "pali": "Mahābhogasaṁvattanikā esā, māṇava, paṭipadā yadidaṁ—"
+    },
+    {
+      "id": "mn135:14.5",
+      "pali": "dātā hoti samaṇassa vā brāhmaṇassa vā annaṁ pānaṁ vatthaṁ yānaṁ mālāgandhavilepanaṁ seyyāvasathapadīpeyyaṁ."
+    },
+    {
+      "id": "mn135:15.1",
+      "pali": "Idha, māṇava, ekacco itthī vā puriso vā thaddho hoti atimānī—"
+    },
+    {
+      "id": "mn135:15.2",
+      "pali": "abhivādetabbaṁ na abhivādeti, paccuṭṭhātabbaṁ na paccuṭṭheti, āsanārahassa na āsanaṁ deti, maggārahassa na maggaṁ deti, sakkātabbaṁ na sakkaroti, garukātabbaṁ na garukaroti, mānetabbaṁ na māneti, pūjetabbaṁ na pūjeti."
+    },
+    {
+      "id": "mn135:15.3",
+      "pali": "So tena kammena evaṁ samattena evaṁ samādinnena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati."
+    },
+    {
+      "id": "mn135:15.4",
+      "pali": "No ce kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati, sace manussattaṁ āgacchati yattha yattha paccājāyati nīcakulīno hoti."
+    },
+    {
+      "id": "mn135:15.5",
+      "pali": "Nīcakulīnasaṁvattanikā esā, māṇava, paṭipadā yadidaṁ—"
+    },
+    {
+      "id": "mn135:15.6",
+      "pali": "thaddho hoti atimānī;"
+    },
+    {
+      "id": "mn135:15.7",
+      "pali": "abhivādetabbaṁ na abhivādeti, paccuṭṭhātabbaṁ na paccuṭṭheti, āsanārahassa na āsanaṁ deti, maggārahassa na maggaṁ deti, sakkātabbaṁ na sakkaroti, garukātabbaṁ na garukaroti, mānetabbaṁ na māneti, pūjetabbaṁ na pūjeti."
+    },
+    {
+      "id": "mn135:16.1",
+      "pali": "Idha pana, māṇava, ekacco itthī vā puriso vā atthaddho hoti anatimānī;"
+    },
+    {
+      "id": "mn135:16.2",
+      "pali": "abhivādetabbaṁ abhivādeti, paccuṭṭhātabbaṁ paccuṭṭheti, āsanārahassa āsanaṁ deti, maggārahassa maggaṁ deti, sakkātabbaṁ sakkaroti, garukātabbaṁ garukaroti, mānetabbaṁ māneti, pūjetabbaṁ pūjeti."
+    },
+    {
+      "id": "mn135:16.3",
+      "pali": "So tena kammena evaṁ samattena evaṁ samādinnena kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati."
+    },
+    {
+      "id": "mn135:16.4",
+      "pali": "No ce kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati, sace manussattaṁ āgacchati yattha yattha paccājāyati uccākulīno hoti."
+    },
+    {
+      "id": "mn135:16.5",
+      "pali": "Uccākulīnasaṁvattanikā esā, māṇava, paṭipadā yadidaṁ—"
+    },
+    {
+      "id": "mn135:16.6",
+      "pali": "atthaddho hoti anatimānī;"
+    },
+    {
+      "id": "mn135:16.7",
+      "pali": "abhivādetabbaṁ abhivādeti, paccuṭṭhātabbaṁ paccuṭṭheti, āsanārahassa āsanaṁ deti, maggārahassa maggaṁ deti, sakkātabbaṁ sakkaroti, garukātabbaṁ garukaroti, mānetabbaṁ māneti, pūjetabbaṁ pūjeti."
+    },
+    {
+      "id": "mn135:17.1",
+      "pali": "Idha, māṇava, ekacco itthī vā puriso vā samaṇaṁ vā brāhmaṇaṁ vā upasaṅkamitvā na paripucchitā hoti:"
+    },
+    {
+      "id": "mn135:17.2",
+      "pali": "‘kiṁ, bhante, kusalaṁ, kiṁ akusalaṁ;"
+    },
+    {
+      "id": "mn135:17.3",
+      "pali": "kiṁ sāvajjaṁ, kiṁ anavajjaṁ;"
+    },
+    {
+      "id": "mn135:17.4",
+      "pali": "kiṁ sevitabbaṁ, kiṁ na sevitabbaṁ;"
+    },
+    {
+      "id": "mn135:17.5",
+      "pali": "kiṁ me karīyamānaṁ dīgharattaṁ ahitāya dukkhāya hoti, kiṁ vā pana me karīyamānaṁ dīgharattaṁ hitāya sukhāya hotī’ti?"
+    },
+    {
+      "id": "mn135:17.6",
+      "pali": "So tena kammena evaṁ samattena evaṁ samādinnena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati."
+    },
+    {
+      "id": "mn135:17.7",
+      "pali": "No ce kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati, sace manussattaṁ āgacchati yattha yattha paccājāyati duppañño hoti."
+    },
+    {
+      "id": "mn135:17.8",
+      "pali": "Duppaññasaṁvattanikā esā, māṇava, paṭipadā yadidaṁ—"
+    },
+    {
+      "id": "mn135:17.9",
+      "pali": "samaṇaṁ vā brāhmaṇaṁ vā upasaṅkamitvā na paripucchitā hoti:"
+    },
+    {
+      "id": "mn135:17.10",
+      "pali": "‘kiṁ, bhante, kusalaṁ, kiṁ akusalaṁ;"
+    },
+    {
+      "id": "mn135:17.11",
+      "pali": "kiṁ sāvajjaṁ, kiṁ anavajjaṁ;"
+    },
+    {
+      "id": "mn135:17.12",
+      "pali": "kiṁ sevitabbaṁ, kiṁ na sevitabbaṁ;"
+    },
+    {
+      "id": "mn135:17.13",
+      "pali": "kiṁ me karīyamānaṁ dīgharattaṁ ahitāya dukkhāya hoti, kiṁ vā pana me karīyamānaṁ dīgharattaṁ hitāya sukhāya hotī’ti?"
+    },
+    {
+      "id": "mn135:18.1",
+      "pali": "Idha pana, māṇava, ekacco itthī vā puriso vā samaṇaṁ vā brāhmaṇaṁ vā upasaṅkamitvā paripucchitā hoti:"
+    },
+    {
+      "id": "mn135:18.2",
+      "pali": "‘kiṁ, bhante, kusalaṁ, kiṁ akusalaṁ;"
+    },
+    {
+      "id": "mn135:18.3",
+      "pali": "kiṁ sāvajjaṁ, kiṁ anavajjaṁ;"
+    },
+    {
+      "id": "mn135:18.4",
+      "pali": "kiṁ sevitabbaṁ, kiṁ na sevitabbaṁ;"
+    },
+    {
+      "id": "mn135:18.5",
+      "pali": "kiṁ me karīyamānaṁ dīgharattaṁ ahitāya dukkhāya hoti, kiṁ vā pana me karīyamānaṁ dīgharattaṁ hitāya sukhāya hotī’ti?"
+    },
+    {
+      "id": "mn135:18.6",
+      "pali": "So tena kammena evaṁ samattena evaṁ samādinnena kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati."
+    },
+    {
+      "id": "mn135:18.7",
+      "pali": "No ce kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati, sace manussattaṁ āgacchati yattha yattha paccājāyati mahāpañño hoti."
+    },
+    {
+      "id": "mn135:18.8",
+      "pali": "Mahāpaññasaṁvattanikā esā, māṇava, paṭipadā yadidaṁ—"
+    },
+    {
+      "id": "mn135:18.9",
+      "pali": "samaṇaṁ vā brāhmaṇaṁ vā upasaṅkamitvā paripucchitā hoti:"
+    },
+    {
+      "id": "mn135:18.10",
+      "pali": "‘kiṁ, bhante, kusalaṁ, kiṁ akusalaṁ;"
+    },
+    {
+      "id": "mn135:18.11",
+      "pali": "kiṁ sāvajjaṁ, kiṁ anavajjaṁ;"
+    },
+    {
+      "id": "mn135:18.12",
+      "pali": "kiṁ sevitabbaṁ, kiṁ na sevitabbaṁ;"
+    },
+    {
+      "id": "mn135:18.13",
+      "pali": "kiṁ me karīyamānaṁ dīgharattaṁ ahitāya dukkhāya hoti, kiṁ vā pana me karīyamānaṁ dīgharattaṁ hitāya sukhāya hotī’ti?"
+    },
+    {
+      "id": "mn135:19.1",
+      "pali": "Iti kho, māṇava, appāyukasaṁvattanikā paṭipadā appāyukattaṁ upaneti, dīghāyukasaṁvattanikā paṭipadā dīghāyukattaṁ upaneti;"
+    },
+    {
+      "id": "mn135:19.2",
+      "pali": "bavhābādhasaṁvattanikā paṭipadā bavhābādhattaṁ upaneti, appābādhasaṁvattanikā paṭipadā appābādhattaṁ upaneti;"
+    },
+    {
+      "id": "mn135:19.3",
+      "pali": "dubbaṇṇasaṁvattanikā paṭipadā dubbaṇṇattaṁ upaneti, pāsādikasaṁvattanikā paṭipadā pāsādikattaṁ upaneti;"
+    },
+    {
+      "id": "mn135:19.4",
+      "pali": "appesakkhasaṁvattanikā paṭipadā appesakkhattaṁ upaneti, mahesakkhasaṁvattanikā paṭipadā mahesakkhattaṁ upaneti;"
+    },
+    {
+      "id": "mn135:19.5",
+      "pali": "appabhogasaṁvattanikā paṭipadā appabhogattaṁ upaneti, mahābhogasaṁvattanikā paṭipadā mahābhogattaṁ upaneti;"
+    },
+    {
+      "id": "mn135:19.6",
+      "pali": "nīcakulīnasaṁvattanikā paṭipadā nīcakulīnattaṁ upaneti, uccākulīnasaṁvattanikā paṭipadā uccākulīnattaṁ upaneti;"
+    },
+    {
+      "id": "mn135:19.7",
+      "pali": "duppaññasaṁvattanikā paṭipadā duppaññattaṁ upaneti, mahāpaññasaṁvattanikā paṭipadā mahāpaññattaṁ upaneti."
+    },
+    {
+      "id": "mn135:20.1",
+      "pali": "Kammassakā, māṇava, sattā kammadāyādā kammayonī kammabandhū kammappaṭisaraṇā."
+    },
+    {
+      "id": "mn135:20.2",
+      "pali": "Kammaṁ satte vibhajati yadidaṁ—"
+    },
+    {
+      "id": "mn135:20.3",
+      "pali": "hīnappaṇītatāyā”ti."
+    },
+    {
+      "id": "mn135:21.1",
+      "pali": "Evaṁ vutte, subho māṇavo todeyyaputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn135:21.2",
+      "pali": "“abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama."
+    },
+    {
+      "id": "mn135:21.3",
+      "pali": "Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito."
+    },
+    {
+      "id": "mn135:21.4",
+      "pali": "Esāhaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "mn135:21.5",
+      "pali": "Upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti."
+    },
+    {
+      "id": "mn135:21.6",
+      "pali": "Cūḷakammavibhaṅgasuttaṁ niṭṭhitaṁ pañcamaṁ."
+    }
+  ]
+}

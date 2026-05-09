@@ -1,0 +1,615 @@
+{
+  "uid": "mn118",
+  "title": "Ānāpānassatisutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn118:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn118:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde sambahulehi abhiññātehi abhiññātehi therehi sāvakehi saddhiṁ—"
+    },
+    {
+      "id": "mn118:1.3",
+      "pali": "āyasmatā ca sāriputtena āyasmatā ca mahāmoggallānena āyasmatā ca mahākassapena āyasmatā ca mahākaccāyanena āyasmatā ca mahākoṭṭhikena āyasmatā ca mahākappinena āyasmatā ca mahācundena āyasmatā ca anuruddhena āyasmatā ca revatena āyasmatā ca ānandena, aññehi ca abhiññātehi abhiññātehi therehi sāvakehi saddhiṁ."
+    },
+    {
+      "id": "mn118:2.1",
+      "pali": "Tena kho pana samayena therā bhikkhū nave bhikkhū ovadanti anusāsanti."
+    },
+    {
+      "id": "mn118:2.2",
+      "pali": "Appekacce therā bhikkhū dasapi bhikkhū ovadanti anusāsanti, appekacce therā bhikkhū vīsampi bhikkhū ovadanti anusāsanti, appekacce therā bhikkhū tiṁsampi bhikkhū ovadanti anusāsanti, appekacce therā bhikkhū cattārīsampi bhikkhū ovadanti anusāsanti."
+    },
+    {
+      "id": "mn118:2.3",
+      "pali": "Te ca navā bhikkhū therehi bhikkhūhi ovadiyamānā anusāsiyamānā uḷāraṁ pubbenāparaṁ visesaṁ jānanti."
+    },
+    {
+      "id": "mn118:3.1",
+      "pali": "Tena kho pana samayena bhagavā tadahuposathe pannarase pavāraṇāya puṇṇāya puṇṇamāya rattiyā bhikkhusaṅghaparivuto abbhokāse nisinno hoti."
+    },
+    {
+      "id": "mn118:3.2",
+      "pali": "Atha kho bhagavā tuṇhībhūtaṁ tuṇhībhūtaṁ bhikkhusaṅghaṁ anuviloketvā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn118:4.1",
+      "pali": "“āraddhosmi, bhikkhave, imāya paṭipadāya;"
+    },
+    {
+      "id": "mn118:4.2",
+      "pali": "āraddhacittosmi, bhikkhave, imāya paṭipadāya."
+    },
+    {
+      "id": "mn118:4.3",
+      "pali": "Tasmātiha, bhikkhave, bhiyyoso mattāya vīriyaṁ ārabhatha appattassa pattiyā, anadhigatassa adhigamāya, asacchikatassa sacchikiriyāya."
+    },
+    {
+      "id": "mn118:4.4",
+      "pali": "Idhevāhaṁ sāvatthiyaṁ komudiṁ cātumāsiniṁ āgamessāmī”ti."
+    },
+    {
+      "id": "mn118:5.1",
+      "pali": "Assosuṁ kho jānapadā bhikkhū:"
+    },
+    {
+      "id": "mn118:5.2",
+      "pali": "“bhagavā kira tattheva sāvatthiyaṁ komudiṁ cātumāsiniṁ āgamessatī”ti."
+    },
+    {
+      "id": "mn118:5.3",
+      "pali": "Te jānapadā bhikkhū sāvatthiṁ osaranti bhagavantaṁ dassanāya."
+    },
+    {
+      "id": "mn118:6.1",
+      "pali": "Te ca kho therā bhikkhū bhiyyoso mattāya nave bhikkhū ovadanti anusāsanti."
+    },
+    {
+      "id": "mn118:6.2",
+      "pali": "Appekacce therā bhikkhū dasapi bhikkhū ovadanti anusāsanti, appekacce therā bhikkhū vīsampi bhikkhū ovadanti anusāsanti, appekacce therā bhikkhū tiṁsampi bhikkhū ovadanti anusāsanti, appekacce therā bhikkhū cattārīsampi bhikkhū ovadanti anusāsanti."
+    },
+    {
+      "id": "mn118:6.3",
+      "pali": "Te ca navā bhikkhū therehi bhikkhūhi ovadiyamānā anusāsiyamānā uḷāraṁ pubbenāparaṁ visesaṁ jānanti."
+    },
+    {
+      "id": "mn118:7.1",
+      "pali": "Tena kho pana samayena bhagavā tadahuposathe pannarase komudiyā cātumāsiniyā puṇṇāya puṇṇamāya rattiyā bhikkhusaṅghaparivuto abbhokāse nisinno hoti."
+    },
+    {
+      "id": "mn118:7.2",
+      "pali": "Atha kho bhagavā tuṇhībhūtaṁ tuṇhībhūtaṁ bhikkhusaṅghaṁ anuviloketvā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn118:8.1",
+      "pali": "“Apalāpāyaṁ, bhikkhave, parisā; nippalāpāyaṁ, bhikkhave, parisā; suddhā sāre patiṭṭhitā."
+    },
+    {
+      "id": "mn118:8.2",
+      "pali": "Tathārūpo ayaṁ, bhikkhave, bhikkhusaṅgho; tathārūpā ayaṁ, bhikkhave, parisā"
+    },
+    {
+      "id": "mn118:8.3",
+      "pali": "yathārūpā parisā āhuneyyā pāhuneyyā dakkhiṇeyyā añjalikaraṇīyā anuttaraṁ puññakkhettaṁ lokassa."
+    },
+    {
+      "id": "mn118:8.4",
+      "pali": "Tathārūpo ayaṁ, bhikkhave, bhikkhusaṅgho; tathārūpā ayaṁ, bhikkhave, parisā"
+    },
+    {
+      "id": "mn118:8.5",
+      "pali": "yathārūpāya parisāya appaṁ dinnaṁ bahu hoti, bahu dinnaṁ bahutaraṁ."
+    },
+    {
+      "id": "mn118:8.6",
+      "pali": "Tathārūpo ayaṁ, bhikkhave, bhikkhusaṅgho; tathārūpā ayaṁ, bhikkhave, parisā"
+    },
+    {
+      "id": "mn118:8.7",
+      "pali": "yathārūpā parisā dullabhā dassanāya lokassa."
+    },
+    {
+      "id": "mn118:8.8",
+      "pali": "Tathārūpo ayaṁ, bhikkhave, bhikkhusaṅgho; tathārūpā ayaṁ, bhikkhave, parisā"
+    },
+    {
+      "id": "mn118:8.9",
+      "pali": "yathārūpaṁ parisaṁ alaṁ yojanagaṇanāni dassanāya gantuṁ puṭosenāpi."
+    },
+    {
+      "id": "mn118:9.1",
+      "pali": "Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṁyojanā sammadaññāvimuttā—"
+    },
+    {
+      "id": "mn118:9.2",
+      "pali": "evarūpāpi, bhikkhave, santi bhikkhū imasmiṁ bhikkhusaṅghe."
+    },
+    {
+      "id": "mn118:10.1",
+      "pali": "Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā—"
+    },
+    {
+      "id": "mn118:10.2",
+      "pali": "evarūpāpi, bhikkhave, santi bhikkhū imasmiṁ bhikkhusaṅghe."
+    },
+    {
+      "id": "mn118:11.1",
+      "pali": "Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāmino sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karissanti—"
+    },
+    {
+      "id": "mn118:11.2",
+      "pali": "evarūpāpi, bhikkhave, santi bhikkhū imasmiṁ bhikkhusaṅghe."
+    },
+    {
+      "id": "mn118:12.1",
+      "pali": "Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyanā—"
+    },
+    {
+      "id": "mn118:12.2",
+      "pali": "evarūpāpi, bhikkhave, santi bhikkhū imasmiṁ bhikkhusaṅghe."
+    },
+    {
+      "id": "mn118:13.1",
+      "pali": "Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe catunnaṁ satipaṭṭhānānaṁ bhāvanānuyogamanuyuttā viharanti—"
+    },
+    {
+      "id": "mn118:13.2",
+      "pali": "evarūpāpi, bhikkhave, santi bhikkhū imasmiṁ bhikkhusaṅghe."
+    },
+    {
+      "id": "mn118:14.1",
+      "pali": "Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe catunnaṁ sammappadhānānaṁ bhāvanānuyogamanuyuttā viharanti …pe…"
+    },
+    {
+      "id": "mn118:14.2",
+      "pali": "catunnaṁ iddhipādānaṁ …"
+    },
+    {
+      "id": "mn118:14.3",
+      "pali": "pañcannaṁ indriyānaṁ …"
+    },
+    {
+      "id": "mn118:14.4",
+      "pali": "pañcannaṁ balānaṁ …"
+    },
+    {
+      "id": "mn118:14.5",
+      "pali": "sattannaṁ bojjhaṅgānaṁ …"
+    },
+    {
+      "id": "mn118:14.6",
+      "pali": "ariyassa aṭṭhaṅgikassa maggassa bhāvanānuyogamanuyuttā viharanti—"
+    },
+    {
+      "id": "mn118:14.7",
+      "pali": "evarūpāpi, bhikkhave, santi bhikkhū imasmiṁ bhikkhusaṅghe."
+    },
+    {
+      "id": "mn118:14.8",
+      "pali": "Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe mettābhāvanānuyogamanuyuttā viharanti …"
+    },
+    {
+      "id": "mn118:14.9",
+      "pali": "karuṇābhāvanānuyogamanuyuttā viharanti …"
+    },
+    {
+      "id": "mn118:14.10",
+      "pali": "muditābhāvanānuyogamanuyuttā viharanti …"
+    },
+    {
+      "id": "mn118:14.11",
+      "pali": "upekkhābhāvanānuyogamanuyuttā viharanti …"
+    },
+    {
+      "id": "mn118:14.12",
+      "pali": "asubhabhāvanānuyogamanuyuttā viharanti …"
+    },
+    {
+      "id": "mn118:14.13",
+      "pali": "aniccasaññābhāvanānuyogamanuyuttā viharanti—"
+    },
+    {
+      "id": "mn118:14.14",
+      "pali": "evarūpāpi, bhikkhave, santi bhikkhū imasmiṁ bhikkhusaṅghe."
+    },
+    {
+      "id": "mn118:14.15",
+      "pali": "Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe ānāpānassatibhāvanānuyogamanuyuttā viharanti."
+    },
+    {
+      "id": "mn118:15.1",
+      "pali": "Ānāpānassati, bhikkhave, bhāvitā bahulīkatā mahapphalā hoti mahānisaṁsā."
+    },
+    {
+      "id": "mn118:15.2",
+      "pali": "Ānāpānassati, bhikkhave, bhāvitā bahulīkatā cattāro satipaṭṭhāne paripūreti."
+    },
+    {
+      "id": "mn118:15.3",
+      "pali": "Cattāro satipaṭṭhānā bhāvitā bahulīkatā satta bojjhaṅge paripūrenti."
+    },
+    {
+      "id": "mn118:15.4",
+      "pali": "Satta bojjhaṅgā bhāvitā bahulīkatā vijjāvimuttiṁ paripūrenti."
+    },
+    {
+      "id": "mn118:16.1",
+      "pali": "Kathaṁ bhāvitā ca, bhikkhave, ānāpānassati kathaṁ bahulīkatā mahapphalā hoti mahānisaṁsā?"
+    },
+    {
+      "id": "mn118:17.1",
+      "pali": "Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā."
+    },
+    {
+      "id": "mn118:17.2",
+      "pali": "So satova assasati satova passasati."
+    },
+    {
+      "id": "mn118:18.1",
+      "pali": "Dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti;"
+    },
+    {
+      "id": "mn118:18.2",
+      "pali": "rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti;"
+    },
+    {
+      "id": "mn118:18.3",
+      "pali": "‘sabbakāyapaṭisaṁvedī assasissāmī’ti sikkhati, ‘sabbakāyapaṭisaṁvedī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:18.4",
+      "pali": "‘passambhayaṁ kāyasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ kāyasaṅkhāraṁ passasissāmī’ti sikkhati."
+    },
+    {
+      "id": "mn118:19.1",
+      "pali": "‘Pītipaṭisaṁvedī assasissāmī’ti sikkhati, ‘pītipaṭisaṁvedī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:19.2",
+      "pali": "‘sukhapaṭisaṁvedī assasissāmī’ti sikkhati, ‘sukhapaṭisaṁvedī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:19.3",
+      "pali": "‘cittasaṅkhārapaṭisaṁvedī assasissāmī’ti sikkhati, ‘cittasaṅkhārapaṭisaṁvedī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:19.4",
+      "pali": "‘passambhayaṁ cittasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ cittasaṅkhāraṁ passasissāmī’ti sikkhati."
+    },
+    {
+      "id": "mn118:20.1",
+      "pali": "‘Cittapaṭisaṁvedī assasissāmī’ti sikkhati, ‘cittapaṭisaṁvedī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:20.2",
+      "pali": "‘abhippamodayaṁ cittaṁ assasissāmī’ti sikkhati, ‘abhippamodayaṁ cittaṁ passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:20.3",
+      "pali": "‘samādahaṁ cittaṁ assasissāmī’ti sikkhati, ‘samādahaṁ cittaṁ passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:20.4",
+      "pali": "‘vimocayaṁ cittaṁ assasissāmī’ti sikkhati, ‘vimocayaṁ cittaṁ passasissāmī’ti sikkhati."
+    },
+    {
+      "id": "mn118:21.1",
+      "pali": "‘Aniccānupassī assasissāmī’ti sikkhati, ‘aniccānupassī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:21.2",
+      "pali": "‘virāgānupassī assasissāmī’ti sikkhati, ‘virāgānupassī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:21.3",
+      "pali": "‘nirodhānupassī assasissāmī’ti sikkhati, ‘nirodhānupassī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:21.4",
+      "pali": "‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati."
+    },
+    {
+      "id": "mn118:22.1",
+      "pali": "Evaṁ bhāvitā kho, bhikkhave, ānāpānassati evaṁ bahulīkatā mahapphalā hoti mahānisaṁsā."
+    },
+    {
+      "id": "mn118:23.1",
+      "pali": "Kathaṁ bhāvitā ca, bhikkhave, ānāpānassati kathaṁ bahulīkatā cattāro satipaṭṭhāne paripūreti?"
+    },
+    {
+      "id": "mn118:24.1",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti;"
+    },
+    {
+      "id": "mn118:24.2",
+      "pali": "rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti;"
+    },
+    {
+      "id": "mn118:24.3",
+      "pali": "‘sabbakāyapaṭisaṁvedī assasissāmī’ti sikkhati, ‘sabbakāyapaṭisaṁvedī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:24.4",
+      "pali": "‘passambhayaṁ kāyasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ kāyasaṅkhāraṁ passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:24.5",
+      "pali": "kāye kāyānupassī, bhikkhave, tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "mn118:24.6",
+      "pali": "Kāyesu kāyaññatarāhaṁ, bhikkhave, evaṁ vadāmi yadidaṁ—assāsapassāsā."
+    },
+    {
+      "id": "mn118:24.7",
+      "pali": "Tasmātiha, bhikkhave, kāye kāyānupassī tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "mn118:25.1",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhu ‘pītipaṭisaṁvedī assasissāmī’ti sikkhati, ‘pītipaṭisaṁvedī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:25.2",
+      "pali": "‘sukhapaṭisaṁvedī assasissāmī’ti sikkhati, ‘sukhapaṭisaṁvedī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:25.3",
+      "pali": "‘cittasaṅkhārapaṭisaṁvedī assasissāmī’ti sikkhati, ‘cittasaṅkhārapaṭisaṁvedī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:25.4",
+      "pali": "‘passambhayaṁ cittasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ cittasaṅkhāraṁ passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:25.5",
+      "pali": "vedanāsu vedanānupassī, bhikkhave, tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "mn118:25.6",
+      "pali": "Vedanāsu vedanāññatarāhaṁ, bhikkhave, evaṁ vadāmi yadidaṁ—assāsapassāsānaṁ sādhukaṁ manasikāraṁ."
+    },
+    {
+      "id": "mn118:25.7",
+      "pali": "Tasmātiha, bhikkhave, vedanāsu vedanānupassī tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "mn118:26.1",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhu ‘cittapaṭisaṁvedī assasissāmī’ti sikkhati, ‘cittapaṭisaṁvedī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:26.2",
+      "pali": "‘abhippamodayaṁ cittaṁ assasissāmī’ti sikkhati, ‘abhippamodayaṁ cittaṁ passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:26.3",
+      "pali": "‘samādahaṁ cittaṁ assasissāmī’ti sikkhati, ‘samādahaṁ cittaṁ passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:26.4",
+      "pali": "‘vimocayaṁ cittaṁ assasissāmī’ti sikkhati, ‘vimocayaṁ cittaṁ passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:26.5",
+      "pali": "citte cittānupassī, bhikkhave, tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "mn118:26.6",
+      "pali": "Nāhaṁ, bhikkhave, muṭṭhassatissa asampajānassa ānāpānassatiṁ vadāmi."
+    },
+    {
+      "id": "mn118:26.7",
+      "pali": "Tasmātiha, bhikkhave, citte cittānupassī tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "mn118:27.1",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhu ‘aniccānupassī assasissāmī’ti sikkhati, ‘aniccānupassī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:27.2",
+      "pali": "‘virāgānupassī assasissāmī’ti sikkhati, ‘virāgānupassī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:27.3",
+      "pali": "‘nirodhānupassī assasissāmī’ti sikkhati, ‘nirodhānupassī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:27.4",
+      "pali": "‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati;"
+    },
+    {
+      "id": "mn118:27.5",
+      "pali": "dhammesu dhammānupassī, bhikkhave, tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "mn118:27.6",
+      "pali": "So yaṁ taṁ abhijjhādomanassānaṁ pahānaṁ taṁ paññāya disvā sādhukaṁ ajjhupekkhitā hoti."
+    },
+    {
+      "id": "mn118:27.7",
+      "pali": "Tasmātiha, bhikkhave, dhammesu dhammānupassī tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "mn118:28.1",
+      "pali": "Evaṁ bhāvitā kho, bhikkhave, ānāpānassati evaṁ bahulīkatā cattāro satipaṭṭhāne paripūreti."
+    },
+    {
+      "id": "mn118:29.1",
+      "pali": "Kathaṁ bhāvitā ca, bhikkhave, cattāro satipaṭṭhānā kathaṁ bahulīkatā satta bojjhaṅge paripūrenti?"
+    },
+    {
+      "id": "mn118:30.1",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ, upaṭṭhitāssa tasmiṁ samaye sati hoti asammuṭṭhā."
+    },
+    {
+      "id": "mn118:30.2",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā, satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti. Satisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, satisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati."
+    },
+    {
+      "id": "mn118:31.1",
+      "pali": "So tathāsato viharanto taṁ dhammaṁ paññāya pavicinati pavicayati parivīmaṁsaṁ āpajjati."
+    },
+    {
+      "id": "mn118:31.2",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhu tathāsato viharanto taṁ dhammaṁ paññāya pavicinati pavicayati parivīmaṁsaṁ āpajjati, dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, dhammavicayasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati."
+    },
+    {
+      "id": "mn118:32.1",
+      "pali": "Tassa taṁ dhammaṁ paññāya pavicinato pavicayato parivīmaṁsaṁ āpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ."
+    },
+    {
+      "id": "mn118:32.2",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhuno taṁ dhammaṁ paññāya pavicinato pavicayato parivīmaṁsaṁ āpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ, vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, vīriyasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati."
+    },
+    {
+      "id": "mn118:33.1",
+      "pali": "Āraddhavīriyassa uppajjati pīti nirāmisā."
+    },
+    {
+      "id": "mn118:33.2",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhuno āraddhavīriyassa uppajjati pīti nirāmisā, pītisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, pītisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, pītisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati."
+    },
+    {
+      "id": "mn118:34.1",
+      "pali": "Pītimanassa kāyopi passambhati, cittampi passambhati."
+    },
+    {
+      "id": "mn118:34.2",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhuno pītimanassa kāyopi passambhati, cittampi passambhati, passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, passaddhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati."
+    },
+    {
+      "id": "mn118:35.1",
+      "pali": "Passaddhakāyassa sukhino cittaṁ samādhiyati."
+    },
+    {
+      "id": "mn118:35.2",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhuno passaddhakāyassa sukhino cittaṁ samādhiyati, samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, samādhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati."
+    },
+    {
+      "id": "mn118:36.1",
+      "pali": "So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti."
+    },
+    {
+      "id": "mn118:36.2",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhu tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti, upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, upekkhāsambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati."
+    },
+    {
+      "id": "mn118:37.1",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhu vedanāsu …pe…"
+    },
+    {
+      "id": "mn118:38.1",
+      "pali": "citte …"
+    },
+    {
+      "id": "mn118:38.2",
+      "pali": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ, upaṭṭhitāssa tasmiṁ samaye sati hoti asammuṭṭhā."
+    },
+    {
+      "id": "mn118:38.3",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā, satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, satisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, satisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati."
+    },
+    {
+      "id": "mn118:38.4",
+      "pali": "So tathāsato viharanto taṁ dhammaṁ paññāya pavicinati pavicayati parivīmaṁsaṁ āpajjati."
+    },
+    {
+      "id": "mn118:38.5",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhu tathāsato viharanto taṁ dhammaṁ paññāya pavicinati pavicayati parivīmaṁsaṁ āpajjati, dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, dhammavicayasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati."
+    },
+    {
+      "id": "mn118:38.6",
+      "pali": "Tassa taṁ dhammaṁ paññāya pavicinato pavicayato parivīmaṁsaṁ āpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ."
+    },
+    {
+      "id": "mn118:38.7",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhuno taṁ dhammaṁ paññāya pavicinato pavicayato parivīmaṁsaṁ āpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ, vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, vīriyasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati."
+    },
+    {
+      "id": "mn118:38.8",
+      "pali": "Āraddhavīriyassa uppajjati pīti nirāmisā."
+    },
+    {
+      "id": "mn118:38.9",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhuno āraddhavīriyassa uppajjati pīti nirāmisā, pītisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, pītisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, pītisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati."
+    },
+    {
+      "id": "mn118:38.10",
+      "pali": "Pītimanassa kāyopi passambhati, cittampi passambhati."
+    },
+    {
+      "id": "mn118:38.11",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhuno pītimanassa kāyopi passambhati, cittampi passambhati, passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, passaddhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati."
+    },
+    {
+      "id": "mn118:38.12",
+      "pali": "Passaddhakāyassa sukhino cittaṁ samādhiyati."
+    },
+    {
+      "id": "mn118:38.13",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhuno passaddhakāyassa sukhino cittaṁ samādhiyati, samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, samādhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati."
+    },
+    {
+      "id": "mn118:39.1",
+      "pali": "So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti."
+    },
+    {
+      "id": "mn118:39.2",
+      "pali": "Yasmiṁ samaye, bhikkhave, bhikkhu tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti, upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, upekkhāsambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati."
+    },
+    {
+      "id": "mn118:40.1",
+      "pali": "Evaṁ bhāvitā kho, bhikkhave, cattāro satipaṭṭhānā evaṁ bahulīkatā satta sambojjhaṅge paripūrenti."
+    },
+    {
+      "id": "mn118:41.1",
+      "pali": "Kathaṁ bhāvitā ca, bhikkhave, satta bojjhaṅgā kathaṁ bahulīkatā vijjāvimuttiṁ paripūrenti?"
+    },
+    {
+      "id": "mn118:42.1",
+      "pali": "Idha, bhikkhave, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ."
+    },
+    {
+      "id": "mn118:42.2",
+      "pali": "Dhammavicayasambojjhaṅgaṁ bhāveti …pe…"
+    },
+    {
+      "id": "mn118:42.3",
+      "pali": "vīriyasambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn118:42.4",
+      "pali": "pītisambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn118:42.5",
+      "pali": "passaddhisambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn118:42.6",
+      "pali": "samādhisambojjhaṅgaṁ bhāveti …"
+    },
+    {
+      "id": "mn118:42.7",
+      "pali": "upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ."
+    },
+    {
+      "id": "mn118:43.1",
+      "pali": "Evaṁ bhāvitā kho, bhikkhave, satta bojjhaṅgā evaṁ bahulīkatā vijjāvimuttiṁ paripūrentī”ti."
+    },
+    {
+      "id": "mn118:43.2",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn118:43.3",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn118:43.4",
+      "pali": "Ānāpānassatisuttaṁ niṭṭhitaṁ aṭṭhamaṁ."
+    }
+  ]
+}

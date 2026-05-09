@@ -1,0 +1,5083 @@
+{
+  "uid": "ja546",
+  "title": "Mūgapakkhavagga",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "ja546:1.1",
+      "pali": "“Paṇḍu kisiyāsi dubbalā,"
+    },
+    {
+      "id": "ja546:1.2",
+      "pali": "Vaṇṇarūpaṁ natavedisaṁ pure;"
+    },
+    {
+      "id": "ja546:1.3",
+      "pali": "Vimale akkhāhi pucchitā,"
+    },
+    {
+      "id": "ja546:1.4",
+      "pali": "Kīdisī tuyhaṁ sarīravedanā”."
+    },
+    {
+      "id": "ja546:2.1",
+      "pali": "“Dhammo manujesu mātīnaṁ,"
+    },
+    {
+      "id": "ja546:2.2",
+      "pali": "Dohaḷo nāma janinda vuccati;"
+    },
+    {
+      "id": "ja546:2.3",
+      "pali": "Dhammāhataṁ nāgakuñjara,"
+    },
+    {
+      "id": "ja546:2.4",
+      "pali": "Vidhurassa hadayābhipatthaye”."
+    },
+    {
+      "id": "ja546:3.1",
+      "pali": "“Candaṁ kho tvaṁ dohaḷāyasi,"
+    },
+    {
+      "id": "ja546:3.2",
+      "pali": "Sūriyaṁ vā atha vāpi mālutaṁ;"
+    },
+    {
+      "id": "ja546:3.3",
+      "pali": "Dullabhañhi vidhurassa dassanaṁ,"
+    },
+    {
+      "id": "ja546:3.4",
+      "pali": "Ko vidhuramidha mānayissati”."
+    },
+    {
+      "id": "ja546:4.1",
+      "pali": "“Kiṁ nu tāta tuvaṁ pajjhāyasi,"
+    },
+    {
+      "id": "ja546:4.2",
+      "pali": "Padumaṁ hatthagataṁva te mukhaṁ;"
+    },
+    {
+      "id": "ja546:4.3",
+      "pali": "Kiṁ nu dummanarūposi issara,"
+    },
+    {
+      "id": "ja546:4.4",
+      "pali": "Mā tvaṁ soci amittatāpana”."
+    },
+    {
+      "id": "ja546:5.1",
+      "pali": "“Mātā hi tava irandhati,"
+    },
+    {
+      "id": "ja546:5.2",
+      "pali": "Vidhurassa hadayaṁ dhaniyati;"
+    },
+    {
+      "id": "ja546:5.3",
+      "pali": "Dullabhañhi vidhurassa dassanaṁ,"
+    },
+    {
+      "id": "ja546:5.4",
+      "pali": "Ko vidhuramidha mānayissati."
+    },
+    {
+      "id": "ja546:6.1",
+      "pali": "Tassa bhattupariyesanaṁ cara,"
+    },
+    {
+      "id": "ja546:6.2",
+      "pali": "Yo vidhuramidha mānayissati”;"
+    },
+    {
+      "id": "ja546:6.3",
+      "pali": "Pituno ca sā sutvāna vākyaṁ,"
+    },
+    {
+      "id": "ja546:6.4",
+      "pali": "Rattiṁ nikkhamma avassutiṁ cari."
+    },
+    {
+      "id": "ja546:7.1",
+      "pali": "“Ke gandhabbe rakkhase ca nāge,"
+    },
+    {
+      "id": "ja546:7.2",
+      "pali": "Ke kimpurise cāpi mānuse;"
+    },
+    {
+      "id": "ja546:7.3",
+      "pali": "Ke paṇḍite sabbakāmadade,"
+    },
+    {
+      "id": "ja546:7.4",
+      "pali": "Dīgharattaṁ bhattā me bhavissati”."
+    },
+    {
+      "id": "ja546:8.1",
+      "pali": "“Assāsa hessāmi te pati,"
+    },
+    {
+      "id": "ja546:8.2",
+      "pali": "Bhattā te hessāmi anindalocane;"
+    },
+    {
+      "id": "ja546:8.3",
+      "pali": "Paññā hi mamaṁ tathāvidhā,"
+    },
+    {
+      "id": "ja546:8.4",
+      "pali": "Assāsa hessasi bhariyā mama”."
+    },
+    {
+      "id": "ja546:9.1",
+      "pali": "Avacāsi puṇṇakaṁ irandhatī,"
+    },
+    {
+      "id": "ja546:9.2",
+      "pali": "Pubbapathānugatena cetasā;"
+    },
+    {
+      "id": "ja546:9.3",
+      "pali": "“Ehi gacchāma pitu mamantike,"
+    },
+    {
+      "id": "ja546:9.4",
+      "pali": "Esova te etamatthaṁ pavakkhati”."
+    },
+    {
+      "id": "ja546:10.1",
+      "pali": "Alaṅkatā suvasanā,"
+    },
+    {
+      "id": "ja546:10.2",
+      "pali": "mālinī candanussadā;"
+    },
+    {
+      "id": "ja546:10.3",
+      "pali": "Yakkhaṁ hatthe gahetvāna,"
+    },
+    {
+      "id": "ja546:10.4",
+      "pali": "pitusantikupāgami."
+    },
+    {
+      "id": "ja546:11.1",
+      "pali": "“Nāgavara vaco suṇohi me,"
+    },
+    {
+      "id": "ja546:11.2",
+      "pali": "Patirūpaṁ paṭipajja suṅkiyaṁ;"
+    },
+    {
+      "id": "ja546:11.3",
+      "pali": "Patthemi ahaṁ irandhatiṁ,"
+    },
+    {
+      "id": "ja546:11.4",
+      "pali": "Tāya samaṅgiṁ karohi maṁ tuvaṁ."
+    },
+    {
+      "id": "ja546:12.1",
+      "pali": "Sataṁ hatthī sataṁ assā,"
+    },
+    {
+      "id": "ja546:12.2",
+      "pali": "sataṁ assatarīrathā;"
+    },
+    {
+      "id": "ja546:12.3",
+      "pali": "Sataṁ valabhiyo puṇṇā,"
+    },
+    {
+      "id": "ja546:12.4",
+      "pali": "nānāratnassa kevalā;"
+    },
+    {
+      "id": "ja546:12.5",
+      "pali": "Te nāga paṭipajjassu,"
+    },
+    {
+      "id": "ja546:12.6",
+      "pali": "dhītaraṁ dehirandhatiṁ”."
+    },
+    {
+      "id": "ja546:13.1",
+      "pali": "“Yāva āmantaye ñātī,"
+    },
+    {
+      "id": "ja546:13.2",
+      "pali": "mitte ca suhadajjane;"
+    },
+    {
+      "id": "ja546:13.3",
+      "pali": "Anāmanta kataṁ kammaṁ,"
+    },
+    {
+      "id": "ja546:13.4",
+      "pali": "taṁ pacchā anutappati”."
+    },
+    {
+      "id": "ja546:14.1",
+      "pali": "Tato so varuṇo nāgo,"
+    },
+    {
+      "id": "ja546:14.2",
+      "pali": "pavisitvā nivesanaṁ;"
+    },
+    {
+      "id": "ja546:14.3",
+      "pali": "Bhariyaṁ āmantayitvāna,"
+    },
+    {
+      "id": "ja546:14.4",
+      "pali": "idaṁ vacanamabravi."
+    },
+    {
+      "id": "ja546:15.1",
+      "pali": "“Ayaṁ so puṇṇako yakkho,"
+    },
+    {
+      "id": "ja546:15.2",
+      "pali": "yācatī maṁ irandhatiṁ;"
+    },
+    {
+      "id": "ja546:15.3",
+      "pali": "Bahunā vittalābhena,"
+    },
+    {
+      "id": "ja546:15.4",
+      "pali": "tassa dema piyaṁ mamaṁ”."
+    },
+    {
+      "id": "ja546:16.1",
+      "pali": "“Na dhanena na vittena,"
+    },
+    {
+      "id": "ja546:16.2",
+      "pali": "Labbhā amhaṁ irandhatī;"
+    },
+    {
+      "id": "ja546:16.3",
+      "pali": "Sace ca kho hadayaṁ paṇḍitassa,"
+    },
+    {
+      "id": "ja546:16.4",
+      "pali": "Dhammena laddhā idha māhareyya;"
+    },
+    {
+      "id": "ja546:16.5",
+      "pali": "Etena vittena kumāri labbhā,"
+    },
+    {
+      "id": "ja546:16.6",
+      "pali": "Nāññaṁ dhanaṁ uttari patthayāma”."
+    },
+    {
+      "id": "ja546:17.1",
+      "pali": "Tato so varuṇo nāgo,"
+    },
+    {
+      "id": "ja546:17.2",
+      "pali": "nikkhamitvā nivesanā;"
+    },
+    {
+      "id": "ja546:17.3",
+      "pali": "Puṇṇakāmantayitvāna,"
+    },
+    {
+      "id": "ja546:17.4",
+      "pali": "idaṁ vacanamabravi."
+    },
+    {
+      "id": "ja546:18.1",
+      "pali": "“Na dhanena na vittena,"
+    },
+    {
+      "id": "ja546:18.2",
+      "pali": "Labbhā amhaṁ irandhatī;"
+    },
+    {
+      "id": "ja546:18.3",
+      "pali": "Sace tuvaṁ hadayaṁ paṇḍitassa,"
+    },
+    {
+      "id": "ja546:18.4",
+      "pali": "Dhammena laddhā idha māharesi;"
+    },
+    {
+      "id": "ja546:18.5",
+      "pali": "Etena vittena kumāri labbhā,"
+    },
+    {
+      "id": "ja546:18.6",
+      "pali": "Nāññaṁ dhanaṁ uttari patthayāma”."
+    },
+    {
+      "id": "ja546:19.1",
+      "pali": "“Yaṁ paṇḍitotyeke vadanti loke,"
+    },
+    {
+      "id": "ja546:19.2",
+      "pali": "Tameva bāloti punāhu aññe;"
+    },
+    {
+      "id": "ja546:19.3",
+      "pali": "Akkhāhi me vippavadanti ettha,"
+    },
+    {
+      "id": "ja546:19.4",
+      "pali": "Kaṁ paṇḍitaṁ nāga tuvaṁ vadesi”."
+    },
+    {
+      "id": "ja546:20.1",
+      "pali": "“Korabyarājassa dhanañcayassa,"
+    },
+    {
+      "id": "ja546:20.2",
+      "pali": "Yadi te suto vidhuro nāma kattā;"
+    },
+    {
+      "id": "ja546:20.3",
+      "pali": "Ānehi taṁ paṇḍitaṁ dhammaladdhā,"
+    },
+    {
+      "id": "ja546:20.4",
+      "pali": "Irandhatī padacarā te hotu”."
+    },
+    {
+      "id": "ja546:21.1",
+      "pali": "Idañca sutvā varuṇassa vākyaṁ,"
+    },
+    {
+      "id": "ja546:21.2",
+      "pali": "Uṭṭhāya yakkho paramappatīto;"
+    },
+    {
+      "id": "ja546:21.3",
+      "pali": "Tattheva santo purisaṁ asaṁsi,"
+    },
+    {
+      "id": "ja546:21.4",
+      "pali": "“Ānehi ājaññamidheva yuttaṁ."
+    },
+    {
+      "id": "ja546:22.1",
+      "pali": "Jātarūpamayā kaṇṇā,"
+    },
+    {
+      "id": "ja546:22.2",
+      "pali": "kācamhicamayā khurā;"
+    },
+    {
+      "id": "ja546:22.3",
+      "pali": "Jambonadassa pākassa,"
+    },
+    {
+      "id": "ja546:22.4",
+      "pali": "suvaṇṇassa uracchado”."
+    },
+    {
+      "id": "ja546:23.1",
+      "pali": "Devavāhavahaṁ yānaṁ,"
+    },
+    {
+      "id": "ja546:23.2",
+      "pali": "Assamāruyha puṇṇako;"
+    },
+    {
+      "id": "ja546:23.3",
+      "pali": "Alaṅkato kappitakesamassu,"
+    },
+    {
+      "id": "ja546:23.4",
+      "pali": "Pakkāmi vehāyasamantalikkhe."
+    },
+    {
+      "id": "ja546:24.1",
+      "pali": "So puṇṇako kāmarāgena giddho,"
+    },
+    {
+      "id": "ja546:24.2",
+      "pali": "Irandhatiṁ nāgakaññaṁ jigīsaṁ;"
+    },
+    {
+      "id": "ja546:24.3",
+      "pali": "Gantvāna taṁ bhūtapatiṁ yasassiṁ,"
+    },
+    {
+      "id": "ja546:24.4",
+      "pali": "Iccabravī vessavaṇaṁ kuveraṁ."
+    },
+    {
+      "id": "ja546:25.1",
+      "pali": "“Bhogavatī nāma mandire,"
+    },
+    {
+      "id": "ja546:25.2",
+      "pali": "Vāsā hiraññavatīti vuccati;"
+    },
+    {
+      "id": "ja546:25.3",
+      "pali": "Nagare nimmite kañcanamaye,"
+    },
+    {
+      "id": "ja546:25.4",
+      "pali": "Maṇḍalassa uragassa niṭṭhitaṁ."
+    },
+    {
+      "id": "ja546:26.1",
+      "pali": "Aṭṭālakā oṭṭhagīviyo,"
+    },
+    {
+      "id": "ja546:26.2",
+      "pali": "Lohitaṅkassa masāragallino;"
+    },
+    {
+      "id": "ja546:26.3",
+      "pali": "Pāsādettha silāmayā,"
+    },
+    {
+      "id": "ja546:26.4",
+      "pali": "Sovaṇṇaratanehi chāditā."
+    },
+    {
+      "id": "ja546:27.1",
+      "pali": "Ambā tilakā ca jambuyo,"
+    },
+    {
+      "id": "ja546:27.2",
+      "pali": "Sattapaṇṇā mucalindaketakā;"
+    },
+    {
+      "id": "ja546:27.3",
+      "pali": "Piyaṅgu uddālakā sahā,"
+    },
+    {
+      "id": "ja546:27.4",
+      "pali": "Uparibhaddakā sinduvārakā."
+    },
+    {
+      "id": "ja546:28.1",
+      "pali": "Campeyyakā nāgamallikā,"
+    },
+    {
+      "id": "ja546:28.2",
+      "pali": "Bhaginīmālā atha mettha koliyā;"
+    },
+    {
+      "id": "ja546:28.3",
+      "pali": "Ete dumā pariṇāmitā,"
+    },
+    {
+      "id": "ja546:28.4",
+      "pali": "Sobhayanti uragassa mandiraṁ."
+    },
+    {
+      "id": "ja546:29.1",
+      "pali": "Khajjurettha silāmayā,"
+    },
+    {
+      "id": "ja546:29.2",
+      "pali": "Sovaṇṇadhuvapupphitā bahū;"
+    },
+    {
+      "id": "ja546:29.3",
+      "pali": "Yattha vasato papātiko,"
+    },
+    {
+      "id": "ja546:29.4",
+      "pali": "Nāgarājā varuṇo mahiddhiko."
+    },
+    {
+      "id": "ja546:30.1",
+      "pali": "Tassa komārikā bhariyā,"
+    },
+    {
+      "id": "ja546:30.2",
+      "pali": "Vimalā kañcanavelliviggahā;"
+    },
+    {
+      "id": "ja546:30.3",
+      "pali": "Kālā taruṇāva uggatā,"
+    },
+    {
+      "id": "ja546:30.4",
+      "pali": "Pucimandatthanī cārudassanā."
+    },
+    {
+      "id": "ja546:31.1",
+      "pali": "Lākhārasarattasucchavī,"
+    },
+    {
+      "id": "ja546:31.2",
+      "pali": "Kaṇikārāva nivātapupphitā;"
+    },
+    {
+      "id": "ja546:31.3",
+      "pali": "Tidivokacarāva accharā,"
+    },
+    {
+      "id": "ja546:31.4",
+      "pali": "Vijjuvabbhaghanā vinissaṭā."
+    },
+    {
+      "id": "ja546:32.1",
+      "pali": "Sā dohaḷinī suvimhitā,"
+    },
+    {
+      "id": "ja546:32.2",
+      "pali": "Vidhurassa hadayaṁ dhaniyati;"
+    },
+    {
+      "id": "ja546:32.3",
+      "pali": "Taṁ tesaṁ demi issara,"
+    },
+    {
+      "id": "ja546:32.4",
+      "pali": "Tena te denti irandhatiṁ mamaṁ”."
+    },
+    {
+      "id": "ja546:33.1",
+      "pali": "So puṇṇako bhūtapatiṁ yasassiṁ,"
+    },
+    {
+      "id": "ja546:33.2",
+      "pali": "Āmantaya vessavaṇaṁ kuveraṁ;"
+    },
+    {
+      "id": "ja546:33.3",
+      "pali": "“Tattheva santo purisaṁ asaṁsi,"
+    },
+    {
+      "id": "ja546:33.4",
+      "pali": "Ānehi ājaññamidheva yuttaṁ”."
+    },
+    {
+      "id": "ja546:34.1",
+      "pali": "Jātarūpamayā kaṇṇā,"
+    },
+    {
+      "id": "ja546:34.2",
+      "pali": "kācamhicamayā khurā;"
+    },
+    {
+      "id": "ja546:34.3",
+      "pali": "Jambonadassa pākassa,"
+    },
+    {
+      "id": "ja546:34.4",
+      "pali": "suvaṇṇassa uracchado."
+    },
+    {
+      "id": "ja546:35.1",
+      "pali": "Devavāhavahaṁ yānaṁ,"
+    },
+    {
+      "id": "ja546:35.2",
+      "pali": "Assamāruyha puṇṇako;"
+    },
+    {
+      "id": "ja546:35.3",
+      "pali": "Alaṅkato kappitakesamassu,"
+    },
+    {
+      "id": "ja546:35.4",
+      "pali": "Pakkāmi vehāyasamantalikkhe."
+    },
+    {
+      "id": "ja546:36.1",
+      "pali": "So aggamā rājagahaṁ surammaṁ,"
+    },
+    {
+      "id": "ja546:36.2",
+      "pali": "Aṅgassa rañño nagaraṁ durāyutaṁ;"
+    },
+    {
+      "id": "ja546:36.3",
+      "pali": "Pahūtabhakkhaṁ bahuannapānaṁ,"
+    },
+    {
+      "id": "ja546:36.4",
+      "pali": "Masakkasāraṁ viya vāsavassa."
+    },
+    {
+      "id": "ja546:37.1",
+      "pali": "Mayūrakoñcāgaṇasampaghuṭṭhaṁ,"
+    },
+    {
+      "id": "ja546:37.2",
+      "pali": "Dijābhighuṭṭhaṁ dijasaṅghasevitaṁ;"
+    },
+    {
+      "id": "ja546:37.3",
+      "pali": "Nānāsakuntābhirudaṁ suvaṅgaṇaṁ,"
+    },
+    {
+      "id": "ja546:37.4",
+      "pali": "Pupphābhikiṇṇaṁ himavaṁva pabbataṁ."
+    },
+    {
+      "id": "ja546:38.1",
+      "pali": "So puṇṇako vepulamābhirūhi,"
+    },
+    {
+      "id": "ja546:38.2",
+      "pali": "Siluccayaṁ kimpurisānuciṇṇaṁ;"
+    },
+    {
+      "id": "ja546:38.3",
+      "pali": "Anvesamāno maṇiratanaṁ uḷāraṁ,"
+    },
+    {
+      "id": "ja546:38.4",
+      "pali": "Tamaddasā pabbatakūṭamajjhe."
+    },
+    {
+      "id": "ja546:39.1",
+      "pali": "Disvā maṇiṁ pabhassaraṁ jātimantaṁ,"
+    },
+    {
+      "id": "ja546:39.2",
+      "pali": "Manoharaṁ maṇiratanaṁ uḷāraṁ;"
+    },
+    {
+      "id": "ja546:39.3",
+      "pali": "Daddallamānaṁ yasasā yasassinaṁ,"
+    },
+    {
+      "id": "ja546:39.4",
+      "pali": "Obhāsatī vijjurivantalikkhe."
+    },
+    {
+      "id": "ja546:40.1",
+      "pali": "Tamaggahī veḷuriyaṁ mahagghaṁ,"
+    },
+    {
+      "id": "ja546:40.2",
+      "pali": "Manoharaṁ nāma mahānubhāvaṁ;"
+    },
+    {
+      "id": "ja546:40.3",
+      "pali": "Ājaññamāruyha manomavaṇṇo,"
+    },
+    {
+      "id": "ja546:40.4",
+      "pali": "Pakkāmi vehāyasamantalikkhe."
+    },
+    {
+      "id": "ja546:41.1",
+      "pali": "So aggamā nagaramindapatthaṁ,"
+    },
+    {
+      "id": "ja546:41.2",
+      "pali": "Oruyhupāgacchi sabhaṁ kurūnaṁ;"
+    },
+    {
+      "id": "ja546:41.3",
+      "pali": "Samāgate ekasataṁ samagge,"
+    },
+    {
+      "id": "ja546:41.4",
+      "pali": "Avhettha yakkho avikampamāno."
+    },
+    {
+      "id": "ja546:42.1",
+      "pali": "“Ko nīdha raññaṁ varamābhijeti,"
+    },
+    {
+      "id": "ja546:42.2",
+      "pali": "Kamābhijeyyāma varaddhanena;"
+    },
+    {
+      "id": "ja546:42.3",
+      "pali": "Kamanuttaraṁ ratanavaraṁ jināma,"
+    },
+    {
+      "id": "ja546:42.4",
+      "pali": "Ko vāpi no jeti varaddhanena”."
+    },
+    {
+      "id": "ja546:43.1",
+      "pali": "“Kuhiṁ nu raṭṭhe tava jātibhūmi,"
+    },
+    {
+      "id": "ja546:43.2",
+      "pali": "Na korabyasseva vaco tavedaṁ;"
+    },
+    {
+      "id": "ja546:43.3",
+      "pali": "Abhītosi no vaṇṇanibhāya sabbe,"
+    },
+    {
+      "id": "ja546:43.4",
+      "pali": "Akkhāhi me nāmañca bandhave ca”."
+    },
+    {
+      "id": "ja546:44.1",
+      "pali": "“Kaccāyano māṇavakosmi rāja,"
+    },
+    {
+      "id": "ja546:44.2",
+      "pali": "Anūnanāmo iti mavhayanti;"
+    },
+    {
+      "id": "ja546:44.3",
+      "pali": "Aṅgesu me ñātayo bandhavā ca,"
+    },
+    {
+      "id": "ja546:44.4",
+      "pali": "Akkhena devasmi idhānupatto”."
+    },
+    {
+      "id": "ja546:45.1",
+      "pali": "“Kiṁ māṇavassa ratanāni atthi,"
+    },
+    {
+      "id": "ja546:45.2",
+      "pali": "Ye taṁ jinanto hare akkhadhutto;"
+    },
+    {
+      "id": "ja546:45.3",
+      "pali": "Bahūni rañño ratanāni atthi,"
+    },
+    {
+      "id": "ja546:45.4",
+      "pali": "Te tvaṁ daliddo kathamavhayesi”."
+    },
+    {
+      "id": "ja546:46.1",
+      "pali": "“Manoharo nāma maṇī mamāyaṁ,"
+    },
+    {
+      "id": "ja546:46.2",
+      "pali": "Manoharaṁ maṇiratanaṁ uḷāraṁ;"
+    },
+    {
+      "id": "ja546:46.3",
+      "pali": "Imañca ājaññamamittatāpanaṁ,"
+    },
+    {
+      "id": "ja546:46.4",
+      "pali": "Etaṁ me jinitvā hare akkhadhutto”."
+    },
+    {
+      "id": "ja546:47.1",
+      "pali": "“Eko maṇī māṇava kiṁ karissati,"
+    },
+    {
+      "id": "ja546:47.2",
+      "pali": "Ājāniyeko pana kiṁ karissati;"
+    },
+    {
+      "id": "ja546:47.3",
+      "pali": "Bahūni rañño maṇiratanāni atthi,"
+    },
+    {
+      "id": "ja546:47.4",
+      "pali": "Ājāniyā vātajavā anappakā”."
+    },
+    {
+      "id": "ja546:48.1",
+      "pali": "Dohaḷakaṇḍaṁ nāma."
+    },
+    {
+      "id": "ja546:49.1",
+      "pali": "“Idañca me maṇiratanaṁ,"
+    },
+    {
+      "id": "ja546:49.2",
+      "pali": "passa tvaṁ dvipaduttama;"
+    },
+    {
+      "id": "ja546:49.3",
+      "pali": "Itthīnaṁ viggahā cettha,"
+    },
+    {
+      "id": "ja546:49.4",
+      "pali": "purisānañca viggahā."
+    },
+    {
+      "id": "ja546:50.1",
+      "pali": "Migānaṁ viggahā cettha,"
+    },
+    {
+      "id": "ja546:50.2",
+      "pali": "sakuṇānañca viggahā;"
+    },
+    {
+      "id": "ja546:50.3",
+      "pali": "Nāgarājā supaṇṇā ca,"
+    },
+    {
+      "id": "ja546:50.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:51.1",
+      "pali": "Hatthānīkaṁ rathānīkaṁ,"
+    },
+    {
+      "id": "ja546:51.2",
+      "pali": "asse pattī ca vammine;"
+    },
+    {
+      "id": "ja546:51.3",
+      "pali": "Caturaṅginimaṁ senaṁ,"
+    },
+    {
+      "id": "ja546:51.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:52.1",
+      "pali": "Hatthārohe anīkaṭṭhe,"
+    },
+    {
+      "id": "ja546:52.2",
+      "pali": "rathike pattikārake;"
+    },
+    {
+      "id": "ja546:52.3",
+      "pali": "Balaggāni viyūḷhāni,"
+    },
+    {
+      "id": "ja546:52.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:53.1",
+      "pali": "Puraṁ uddhāpasampannaṁ,"
+    },
+    {
+      "id": "ja546:53.2",
+      "pali": "bahupākāratoraṇaṁ;"
+    },
+    {
+      "id": "ja546:53.3",
+      "pali": "Siṅghāṭakesu bhūmiyo,"
+    },
+    {
+      "id": "ja546:53.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:54.1",
+      "pali": "Esikā parikhāyo ca,"
+    },
+    {
+      "id": "ja546:54.2",
+      "pali": "palikhaṁ aggaḷāni ca;"
+    },
+    {
+      "id": "ja546:54.3",
+      "pali": "Aṭṭālake ca dvāre ca,"
+    },
+    {
+      "id": "ja546:54.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:55.1",
+      "pali": "Passa toraṇamaggesu,"
+    },
+    {
+      "id": "ja546:55.2",
+      "pali": "nānādijagaṇā bahū;"
+    },
+    {
+      "id": "ja546:55.3",
+      "pali": "Haṁsā koñcā mayūrā ca,"
+    },
+    {
+      "id": "ja546:55.4",
+      "pali": "cakkavākā ca kukkuhā."
+    },
+    {
+      "id": "ja546:56.1",
+      "pali": "Kuṇālakā bahū citrā,"
+    },
+    {
+      "id": "ja546:56.2",
+      "pali": "sikhaṇḍī jīvajīvakā;"
+    },
+    {
+      "id": "ja546:56.3",
+      "pali": "Nānādijagaṇākiṇṇaṁ,"
+    },
+    {
+      "id": "ja546:56.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:57.1",
+      "pali": "Passa nagaraṁ supākāraṁ,"
+    },
+    {
+      "id": "ja546:57.2",
+      "pali": "abbhutaṁ lomahaṁsanaṁ;"
+    },
+    {
+      "id": "ja546:57.3",
+      "pali": "Samussitadhajaṁ rammaṁ,"
+    },
+    {
+      "id": "ja546:57.4",
+      "pali": "soṇṇavālukasanthataṁ."
+    },
+    {
+      "id": "ja546:58.1",
+      "pali": "Passettha paṇṇasālāyo,"
+    },
+    {
+      "id": "ja546:58.2",
+      "pali": "vibhattā bhāgaso mitā;"
+    },
+    {
+      "id": "ja546:58.3",
+      "pali": "Nivesane nivese ca,"
+    },
+    {
+      "id": "ja546:58.4",
+      "pali": "sandhibyūhe pathaddhiyo."
+    },
+    {
+      "id": "ja546:59.1",
+      "pali": "Pānāgāre ca soṇḍe ca,"
+    },
+    {
+      "id": "ja546:59.2",
+      "pali": "sūnā odaniyā gharā;"
+    },
+    {
+      "id": "ja546:59.3",
+      "pali": "Vesī ca gaṇikāyo ca,"
+    },
+    {
+      "id": "ja546:59.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:60.1",
+      "pali": "Mālākāre ca rajake,"
+    },
+    {
+      "id": "ja546:60.2",
+      "pali": "gandhike atha dussike;"
+    },
+    {
+      "id": "ja546:60.3",
+      "pali": "Suvaṇṇakāre maṇikāre,"
+    },
+    {
+      "id": "ja546:60.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:61.1",
+      "pali": "Āḷārike ca sūde ca,"
+    },
+    {
+      "id": "ja546:61.2",
+      "pali": "naṭanāṭakagāyino;"
+    },
+    {
+      "id": "ja546:61.3",
+      "pali": "Pāṇissare kumbhathūnike,"
+    },
+    {
+      "id": "ja546:61.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:62.1",
+      "pali": "Passa bherī mudiṅgā ca,"
+    },
+    {
+      "id": "ja546:62.2",
+      "pali": "saṅkhā paṇavadindimā;"
+    },
+    {
+      "id": "ja546:62.3",
+      "pali": "Sabbañca tāḷāvacaraṁ,"
+    },
+    {
+      "id": "ja546:62.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:63.1",
+      "pali": "Sammatālañca vīṇañca,"
+    },
+    {
+      "id": "ja546:63.2",
+      "pali": "naccagītaṁ suvāditaṁ;"
+    },
+    {
+      "id": "ja546:63.3",
+      "pali": "Tūriyatāḷitasaṅghuṭṭhaṁ,"
+    },
+    {
+      "id": "ja546:63.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:64.1",
+      "pali": "Laṅghikā muṭṭhikā cettha,"
+    },
+    {
+      "id": "ja546:64.2",
+      "pali": "māyākārā ca sobhiyā;"
+    },
+    {
+      "id": "ja546:64.3",
+      "pali": "Vetālike ca jalle ca,"
+    },
+    {
+      "id": "ja546:64.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:65.1",
+      "pali": "Samajjā cettha vattanti,"
+    },
+    {
+      "id": "ja546:65.2",
+      "pali": "ākiṇṇā naranāribhi;"
+    },
+    {
+      "id": "ja546:65.3",
+      "pali": "Mañcātimañce bhūmiyo,"
+    },
+    {
+      "id": "ja546:65.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:66.1",
+      "pali": "Passa malle samajjasmiṁ,"
+    },
+    {
+      "id": "ja546:66.2",
+      "pali": "phoṭente diguṇaṁ bhujaṁ;"
+    },
+    {
+      "id": "ja546:66.3",
+      "pali": "Nihate nihatamāne ca,"
+    },
+    {
+      "id": "ja546:66.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:67.1",
+      "pali": "Passa pabbatapādesu,"
+    },
+    {
+      "id": "ja546:67.2",
+      "pali": "nānāmigagaṇā bahū;"
+    },
+    {
+      "id": "ja546:67.3",
+      "pali": "Sīhā byagghā varāhā ca,"
+    },
+    {
+      "id": "ja546:67.4",
+      "pali": "acchakokataracchayo."
+    },
+    {
+      "id": "ja546:68.1",
+      "pali": "Palāsādā gavajā ca,"
+    },
+    {
+      "id": "ja546:68.2",
+      "pali": "mahiṁsā rohitā rurū;"
+    },
+    {
+      "id": "ja546:68.3",
+      "pali": "Eṇeyyā ca varāhā ca,"
+    },
+    {
+      "id": "ja546:68.4",
+      "pali": "gaṇino nīkasūkarā."
+    },
+    {
+      "id": "ja546:69.1",
+      "pali": "Kadalimigā bahū citrā,"
+    },
+    {
+      "id": "ja546:69.2",
+      "pali": "biḷārā sasakaṇṭakā;"
+    },
+    {
+      "id": "ja546:69.3",
+      "pali": "Nānāmigagaṇākiṇṇaṁ,"
+    },
+    {
+      "id": "ja546:69.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:70.1",
+      "pali": "Najjāyo supatitthāyo,"
+    },
+    {
+      "id": "ja546:70.2",
+      "pali": "soṇṇavālukasanthatā;"
+    },
+    {
+      "id": "ja546:70.3",
+      "pali": "Acchā savanti ambūni,"
+    },
+    {
+      "id": "ja546:70.4",
+      "pali": "macchagumbanisevitā."
+    },
+    {
+      "id": "ja546:71.1",
+      "pali": "Kumbhīlā makarā cettha,"
+    },
+    {
+      "id": "ja546:71.2",
+      "pali": "susumārā ca kacchapā;"
+    },
+    {
+      "id": "ja546:71.3",
+      "pali": "Pāṭhīnā pāvusā macchā,"
+    },
+    {
+      "id": "ja546:71.4",
+      "pali": "balajā muñjarohitā."
+    },
+    {
+      "id": "ja546:72.1",
+      "pali": "Nānādijagaṇākiṇṇā,"
+    },
+    {
+      "id": "ja546:72.2",
+      "pali": "nānādumagaṇāyutā;"
+    },
+    {
+      "id": "ja546:72.3",
+      "pali": "Veḷuriyakarodāyo,"
+    },
+    {
+      "id": "ja546:72.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:73.1",
+      "pali": "Passettha pokkharaṇiyo,"
+    },
+    {
+      "id": "ja546:73.2",
+      "pali": "suvibhattā catuddisā;"
+    },
+    {
+      "id": "ja546:73.3",
+      "pali": "Nānādijagaṇākiṇṇā,"
+    },
+    {
+      "id": "ja546:73.4",
+      "pali": "puthulomanisevitā."
+    },
+    {
+      "id": "ja546:74.1",
+      "pali": "Samantodakasampannaṁ,"
+    },
+    {
+      "id": "ja546:74.2",
+      "pali": "mahiṁ sāgarakuṇḍalaṁ;"
+    },
+    {
+      "id": "ja546:74.3",
+      "pali": "Upetaṁ vanarājehi,"
+    },
+    {
+      "id": "ja546:74.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:75.1",
+      "pali": "Purato videhe passa,"
+    },
+    {
+      "id": "ja546:75.2",
+      "pali": "goyāniye ca pacchato;"
+    },
+    {
+      "id": "ja546:75.3",
+      "pali": "Kuruyo jambudīpañca,"
+    },
+    {
+      "id": "ja546:75.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:76.1",
+      "pali": "Passa candaṁ sūriyañca,"
+    },
+    {
+      "id": "ja546:76.2",
+      "pali": "obhāsante catuddisā;"
+    },
+    {
+      "id": "ja546:76.3",
+      "pali": "Sineruṁ anupariyante,"
+    },
+    {
+      "id": "ja546:76.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:77.1",
+      "pali": "Sineruṁ himavantañca,"
+    },
+    {
+      "id": "ja546:77.2",
+      "pali": "sāgarañca mahītalaṁ;"
+    },
+    {
+      "id": "ja546:77.3",
+      "pali": "Cattāro ca mahārāje,"
+    },
+    {
+      "id": "ja546:77.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:78.1",
+      "pali": "Ārāme vanagumbe ca,"
+    },
+    {
+      "id": "ja546:78.2",
+      "pali": "pāṭiye ca siluccaye;"
+    },
+    {
+      "id": "ja546:78.3",
+      "pali": "Ramme kimpurisākiṇṇe,"
+    },
+    {
+      "id": "ja546:78.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:79.1",
+      "pali": "Phārusakaṁ cittalataṁ,"
+    },
+    {
+      "id": "ja546:79.2",
+      "pali": "missakaṁ nandanaṁ vanaṁ;"
+    },
+    {
+      "id": "ja546:79.3",
+      "pali": "Vejayantañca pāsādaṁ,"
+    },
+    {
+      "id": "ja546:79.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:80.1",
+      "pali": "Sudhammaṁ tāvatiṁsañca,"
+    },
+    {
+      "id": "ja546:80.2",
+      "pali": "pārichattañca pupphitaṁ;"
+    },
+    {
+      "id": "ja546:80.3",
+      "pali": "Erāvaṇaṁ nāgarājaṁ,"
+    },
+    {
+      "id": "ja546:80.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:81.1",
+      "pali": "Passettha devakaññāyo,"
+    },
+    {
+      "id": "ja546:81.2",
+      "pali": "nabhā vijjurivuggatā;"
+    },
+    {
+      "id": "ja546:81.3",
+      "pali": "Nandane vicarantiyo,"
+    },
+    {
+      "id": "ja546:81.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:82.1",
+      "pali": "Passettha devakaññāyo,"
+    },
+    {
+      "id": "ja546:82.2",
+      "pali": "devaputtapalobhinī;"
+    },
+    {
+      "id": "ja546:82.3",
+      "pali": "Devaputte ramamāne,"
+    },
+    {
+      "id": "ja546:82.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:83.1",
+      "pali": "Parosahassapāsāde,"
+    },
+    {
+      "id": "ja546:83.2",
+      "pali": "veḷuriyaphalasanthate;"
+    },
+    {
+      "id": "ja546:83.3",
+      "pali": "Pajjalante ca vaṇṇena,"
+    },
+    {
+      "id": "ja546:83.4",
+      "pali": "maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:84.1",
+      "pali": "Tāvatiṁse ca yāme ca,"
+    },
+    {
+      "id": "ja546:84.2",
+      "pali": "Tusite cāpi nimmite;"
+    },
+    {
+      "id": "ja546:84.3",
+      "pali": "Paranimmitavasavattino,"
+    },
+    {
+      "id": "ja546:84.4",
+      "pali": "Maṇimhi passa nimmitaṁ."
+    },
+    {
+      "id": "ja546:85.1",
+      "pali": "Passettha pokkharaṇiyo,"
+    },
+    {
+      "id": "ja546:85.2",
+      "pali": "vippasannodikā sucī;"
+    },
+    {
+      "id": "ja546:85.3",
+      "pali": "Mandālakehi sañchannā,"
+    },
+    {
+      "id": "ja546:85.4",
+      "pali": "padumuppalakehi ca."
+    },
+    {
+      "id": "ja546:86.1",
+      "pali": "Dasettha rājiyo setā,"
+    },
+    {
+      "id": "ja546:86.2",
+      "pali": "dasanīlā manoramā;"
+    },
+    {
+      "id": "ja546:86.3",
+      "pali": "Cha piṅgalā pannarasa,"
+    },
+    {
+      "id": "ja546:86.4",
+      "pali": "haliddā ca catuddasa."
+    },
+    {
+      "id": "ja546:87.1",
+      "pali": "Vīsati tattha sovaṇṇā,"
+    },
+    {
+      "id": "ja546:87.2",
+      "pali": "vīsati rajatāmayā;"
+    },
+    {
+      "id": "ja546:87.3",
+      "pali": "Indagopakavaṇṇābhā,"
+    },
+    {
+      "id": "ja546:87.4",
+      "pali": "tāva dissanti tiṁsati."
+    },
+    {
+      "id": "ja546:88.1",
+      "pali": "Dasettha kāḷiyo chacca,"
+    },
+    {
+      "id": "ja546:88.2",
+      "pali": "mañjeṭṭhā pannavīsati;"
+    },
+    {
+      "id": "ja546:88.3",
+      "pali": "Missā bandhukapupphehi,"
+    },
+    {
+      "id": "ja546:88.4",
+      "pali": "nīluppalavicittikā."
+    },
+    {
+      "id": "ja546:89.1",
+      "pali": "Evaṁ sabbaṅgasampannaṁ,"
+    },
+    {
+      "id": "ja546:89.2",
+      "pali": "accimantaṁ pabhassaraṁ;"
+    },
+    {
+      "id": "ja546:89.3",
+      "pali": "Odhisuṅkaṁ mahārāja,"
+    },
+    {
+      "id": "ja546:89.4",
+      "pali": "passa tvaṁ dvipaduttama”."
+    },
+    {
+      "id": "ja546:90.1",
+      "pali": "Maṇikaṇḍaṁ nāma."
+    },
+    {
+      "id": "ja546:91.1",
+      "pali": "“Upāgataṁ rāja mupehi lakkhaṁ,"
+    },
+    {
+      "id": "ja546:91.2",
+      "pali": "Netādisaṁ maṇiratanaṁ tavatthi;"
+    },
+    {
+      "id": "ja546:91.3",
+      "pali": "Dhammena jissāma asāhasena,"
+    },
+    {
+      "id": "ja546:91.4",
+      "pali": "Jito ca no khippamavākarohi."
+    },
+    {
+      "id": "ja546:92.1",
+      "pali": "Pañcāla-paccuggata-sūrasena,"
+    },
+    {
+      "id": "ja546:92.2",
+      "pali": "Macchā ca maddā saha kekakebhi;"
+    },
+    {
+      "id": "ja546:92.3",
+      "pali": "Passantu note asaṭhena yuddhaṁ,"
+    },
+    {
+      "id": "ja546:92.4",
+      "pali": "Na no sabhāyaṁ na karonti kiñci”."
+    },
+    {
+      "id": "ja546:93.1",
+      "pali": "Te pāvisuṁ akkhamadena mattā,"
+    },
+    {
+      "id": "ja546:93.2",
+      "pali": "Rājā kurūnaṁ puṇṇako cāpi yakkho;"
+    },
+    {
+      "id": "ja546:93.3",
+      "pali": "Rājā kaliṁ viccinamaggahesi,"
+    },
+    {
+      "id": "ja546:93.4",
+      "pali": "Kaṭaṁ aggahī puṇṇako nāma yakkho."
+    },
+    {
+      "id": "ja546:94.1",
+      "pali": "Te tattha jūte ubhaye samāgate,"
+    },
+    {
+      "id": "ja546:94.2",
+      "pali": "Raññaṁ sakāse sakhīnañca majjhe;"
+    },
+    {
+      "id": "ja546:94.3",
+      "pali": "Ajesi yakkho naravīraseṭṭhaṁ,"
+    },
+    {
+      "id": "ja546:94.4",
+      "pali": "Tatthappanādo tumulo babhūva."
+    },
+    {
+      "id": "ja546:95.1",
+      "pali": "“Jayo mahārāja parājayo ca,"
+    },
+    {
+      "id": "ja546:95.2",
+      "pali": "Āyūhataṁ aññatarassa hoti;"
+    },
+    {
+      "id": "ja546:95.3",
+      "pali": "Janinda jīnosi varaddhanena,"
+    },
+    {
+      "id": "ja546:95.4",
+      "pali": "Jito ca me khippamavākarohi”."
+    },
+    {
+      "id": "ja546:96.1",
+      "pali": "“Hatthī gavāssā maṇikuṇḍalā ca,"
+    },
+    {
+      "id": "ja546:96.2",
+      "pali": "Yañcāpi mayhaṁ ratanaṁ pathabyā;"
+    },
+    {
+      "id": "ja546:96.3",
+      "pali": "Gaṇhāhi kaccāna varaṁ dhanānaṁ,"
+    },
+    {
+      "id": "ja546:96.4",
+      "pali": "Ādāya yenicchasi tena gaccha”."
+    },
+    {
+      "id": "ja546:97.1",
+      "pali": "“Hatthī gavāssā maṇikuṇḍalā ca,"
+    },
+    {
+      "id": "ja546:97.2",
+      "pali": "Yañcāpi tuyhaṁ ratanaṁ pathabyā;"
+    },
+    {
+      "id": "ja546:97.3",
+      "pali": "Tesaṁ varo vidhuro nāma kattā,"
+    },
+    {
+      "id": "ja546:97.4",
+      "pali": "So me jito taṁ me avākarohi”."
+    },
+    {
+      "id": "ja546:98.1",
+      "pali": "“Attā ca me so saraṇaṁ gatī ca,"
+    },
+    {
+      "id": "ja546:98.2",
+      "pali": "Dīpo ca leṇo ca parāyaṇo ca;"
+    },
+    {
+      "id": "ja546:98.3",
+      "pali": "Asantuleyyo mama so dhanena,"
+    },
+    {
+      "id": "ja546:98.4",
+      "pali": "Pāṇena me sādiso esa kattā”."
+    },
+    {
+      "id": "ja546:99.1",
+      "pali": "“Ciraṁ vivādo mama tuyhañcassa,"
+    },
+    {
+      "id": "ja546:99.2",
+      "pali": "Kāmañca pucchāma tameva gantvā;"
+    },
+    {
+      "id": "ja546:99.3",
+      "pali": "Esova no vivaratu etamatthaṁ,"
+    },
+    {
+      "id": "ja546:99.4",
+      "pali": "Yaṁ vakkhatī hotu kathā ubhinnaṁ”."
+    },
+    {
+      "id": "ja546:100.1",
+      "pali": "“Addhā hi saccaṁ bhaṇasi,"
+    },
+    {
+      "id": "ja546:100.2",
+      "pali": "na ca māṇava sāhasaṁ;"
+    },
+    {
+      "id": "ja546:100.3",
+      "pali": "Tameva gantvā pucchāma,"
+    },
+    {
+      "id": "ja546:100.4",
+      "pali": "tena tussāmubho janā”."
+    },
+    {
+      "id": "ja546:101.1",
+      "pali": "“Saccaṁ nu devā vidahū kurūnaṁ,"
+    },
+    {
+      "id": "ja546:101.2",
+      "pali": "Dhamme ṭhitaṁ vidhuraṁ nāmamaccaṁ;"
+    },
+    {
+      "id": "ja546:101.3",
+      "pali": "Dāsosi rañño uda vāsi ñāti,"
+    },
+    {
+      "id": "ja546:101.4",
+      "pali": "Vidhuroti saṅkhā katamāsi loke”."
+    },
+    {
+      "id": "ja546:102.1",
+      "pali": "“Āmāyadāsāpi bhavanti heke,"
+    },
+    {
+      "id": "ja546:102.2",
+      "pali": "Dhanena kītāpi bhavanti dāsā;"
+    },
+    {
+      "id": "ja546:102.3",
+      "pali": "Sayampi heke upayanti dāsā,"
+    },
+    {
+      "id": "ja546:102.4",
+      "pali": "Bhayā paṇunnāpi bhavanti dāsā."
+    },
+    {
+      "id": "ja546:103.1",
+      "pali": "Ete narānaṁ caturova dāsā,"
+    },
+    {
+      "id": "ja546:103.2",
+      "pali": "Addhā hi yonito ahampi jāto;"
+    },
+    {
+      "id": "ja546:103.3",
+      "pali": "Bhavo ca rañño abhavo ca rañño,"
+    },
+    {
+      "id": "ja546:103.4",
+      "pali": "Dāsāhaṁ devassa parampi gantvā;"
+    },
+    {
+      "id": "ja546:103.5",
+      "pali": "Dhammena maṁ māṇava tuyha dajjā”."
+    },
+    {
+      "id": "ja546:104.1",
+      "pali": "“Ayaṁ dutīyo vijayo mamajja,"
+    },
+    {
+      "id": "ja546:104.2",
+      "pali": "Puṭṭho hi kattā vivarettha pañhaṁ;"
+    },
+    {
+      "id": "ja546:104.3",
+      "pali": "Adhammarūpo vata rājaseṭṭho,"
+    },
+    {
+      "id": "ja546:104.4",
+      "pali": "Subhāsitaṁ nānujānāsi mayhaṁ”."
+    },
+    {
+      "id": "ja546:105.1",
+      "pali": "“Evañce no so vivarettha pañhaṁ,"
+    },
+    {
+      "id": "ja546:105.2",
+      "pali": "Dāsohamasmi na ca khosmi ñāti;"
+    },
+    {
+      "id": "ja546:105.3",
+      "pali": "Gaṇhāhi kaccāna varaṁ dhanānaṁ,"
+    },
+    {
+      "id": "ja546:105.4",
+      "pali": "Ādāya yenicchasi tena gaccha”."
+    },
+    {
+      "id": "ja546:106.1",
+      "pali": "Akkhakaṇḍaṁ nāma."
+    },
+    {
+      "id": "ja546:107.1",
+      "pali": "“Vidhura vasamānassa,"
+    },
+    {
+      "id": "ja546:107.2",
+      "pali": "gahaṭṭhassa sakaṁ gharaṁ;"
+    },
+    {
+      "id": "ja546:107.3",
+      "pali": "Khemā vutti kathaṁ assa,"
+    },
+    {
+      "id": "ja546:107.4",
+      "pali": "kathaṁ nu assa saṅgaho."
+    },
+    {
+      "id": "ja546:108.1",
+      "pali": "Abyābajjhaṁ kathaṁ assa,"
+    },
+    {
+      "id": "ja546:108.2",
+      "pali": "saccavādī ca māṇavo;"
+    },
+    {
+      "id": "ja546:108.3",
+      "pali": "Asmā lokā paraṁ lokaṁ,"
+    },
+    {
+      "id": "ja546:108.4",
+      "pali": "kathaṁ pecca na socati”."
+    },
+    {
+      "id": "ja546:109.1",
+      "pali": "Taṁ tattha gatimā dhitimā,"
+    },
+    {
+      "id": "ja546:109.2",
+      "pali": "matimā atthadassimā;"
+    },
+    {
+      "id": "ja546:109.3",
+      "pali": "Saṅkhātā sabbadhammānaṁ,"
+    },
+    {
+      "id": "ja546:109.4",
+      "pali": "vidhuro etadabravi."
+    },
+    {
+      "id": "ja546:110.1",
+      "pali": "“Na sādhāraṇadārassa,"
+    },
+    {
+      "id": "ja546:110.2",
+      "pali": "na bhuñje sādumekako;"
+    },
+    {
+      "id": "ja546:110.3",
+      "pali": "Na seve lokāyatikaṁ,"
+    },
+    {
+      "id": "ja546:110.4",
+      "pali": "netaṁ paññāya vaḍḍhanaṁ."
+    },
+    {
+      "id": "ja546:111.1",
+      "pali": "Sīlavā vattasampanno,"
+    },
+    {
+      "id": "ja546:111.2",
+      "pali": "appamatto vicakkhaṇo;"
+    },
+    {
+      "id": "ja546:111.3",
+      "pali": "Nivātavutti atthaddho,"
+    },
+    {
+      "id": "ja546:111.4",
+      "pali": "surato sakhilo mudu."
+    },
+    {
+      "id": "ja546:112.1",
+      "pali": "Saṅgahetā ca mittānaṁ,"
+    },
+    {
+      "id": "ja546:112.2",
+      "pali": "saṁvibhāgī vidhānavā;"
+    },
+    {
+      "id": "ja546:112.3",
+      "pali": "Tappeyya annapānena,"
+    },
+    {
+      "id": "ja546:112.4",
+      "pali": "sadā samaṇabrāhmaṇe."
+    },
+    {
+      "id": "ja546:113.1",
+      "pali": "Dhammakāmo sutādhāro,"
+    },
+    {
+      "id": "ja546:113.2",
+      "pali": "bhaveyya paripucchako;"
+    },
+    {
+      "id": "ja546:113.3",
+      "pali": "Sakkaccaṁ payirupāseyya,"
+    },
+    {
+      "id": "ja546:113.4",
+      "pali": "sīlavante bahussute."
+    },
+    {
+      "id": "ja546:114.1",
+      "pali": "Gharamāvasamānassa,"
+    },
+    {
+      "id": "ja546:114.2",
+      "pali": "gahaṭṭhassa sakaṁ gharaṁ;"
+    },
+    {
+      "id": "ja546:114.3",
+      "pali": "Khemā vutti siyā evaṁ,"
+    },
+    {
+      "id": "ja546:114.4",
+      "pali": "evaṁ nu assa saṅgaho."
+    },
+    {
+      "id": "ja546:115.1",
+      "pali": "Abyābajjhaṁ siyā evaṁ,"
+    },
+    {
+      "id": "ja546:115.2",
+      "pali": "saccavādī ca māṇavo;"
+    },
+    {
+      "id": "ja546:115.3",
+      "pali": "Asmā lokā paraṁ lokaṁ,"
+    },
+    {
+      "id": "ja546:115.4",
+      "pali": "evaṁ pecca na socati”."
+    },
+    {
+      "id": "ja546:116.1",
+      "pali": "Gharāvāsapañhā nāma."
+    },
+    {
+      "id": "ja546:117.1",
+      "pali": "“Ehi dāni gamissāma,"
+    },
+    {
+      "id": "ja546:117.2",
+      "pali": "dinno no issarena me;"
+    },
+    {
+      "id": "ja546:117.3",
+      "pali": "Mamevatthaṁ paṭipajja,"
+    },
+    {
+      "id": "ja546:117.4",
+      "pali": "esa dhammo sanantano”."
+    },
+    {
+      "id": "ja546:118.1",
+      "pali": "“Jānāmi māṇava tayāhamasmi,"
+    },
+    {
+      "id": "ja546:118.2",
+      "pali": "Dinnohamasmi tava issarena;"
+    },
+    {
+      "id": "ja546:118.3",
+      "pali": "Tīhañca taṁ vāsayemu agāre,"
+    },
+    {
+      "id": "ja546:118.4",
+      "pali": "Yenaddhunā anusāsemu putte”."
+    },
+    {
+      "id": "ja546:119.1",
+      "pali": "“Taṁ me tathā hotu vasemu tīhaṁ,"
+    },
+    {
+      "id": "ja546:119.2",
+      "pali": "Kurutaṁ bhavajja gharesu kiccaṁ;"
+    },
+    {
+      "id": "ja546:119.3",
+      "pali": "Anusāsataṁ puttadāre bhavajja,"
+    },
+    {
+      "id": "ja546:119.4",
+      "pali": "Yathā tayī pecca sukhī bhaveyya”."
+    },
+    {
+      "id": "ja546:120.1",
+      "pali": "“Sādhū”ti vatvāna pahūtakāmo,"
+    },
+    {
+      "id": "ja546:120.2",
+      "pali": "Pakkāmi yakkho vidhurena saddhiṁ;"
+    },
+    {
+      "id": "ja546:120.3",
+      "pali": "Taṁ kuñjarājaññahayānuciṇṇaṁ,"
+    },
+    {
+      "id": "ja546:120.4",
+      "pali": "Pāvekkhi antepuramariyaseṭṭho."
+    },
+    {
+      "id": "ja546:121.1",
+      "pali": "Koñcaṁ mayūrañca piyañca ketaṁ,"
+    },
+    {
+      "id": "ja546:121.2",
+      "pali": "Upāgami tattha surammarūpaṁ;"
+    },
+    {
+      "id": "ja546:121.3",
+      "pali": "Pahūtabhakkhaṁ bahuannapānaṁ,"
+    },
+    {
+      "id": "ja546:121.4",
+      "pali": "Masakkasāraṁ viya vāsavassa."
+    },
+    {
+      "id": "ja546:122.1",
+      "pali": "Tattha naccanti gāyanti,"
+    },
+    {
+      "id": "ja546:122.2",
+      "pali": "avhāyanti varāvaraṁ;"
+    },
+    {
+      "id": "ja546:122.3",
+      "pali": "Accharā viya devesu,"
+    },
+    {
+      "id": "ja546:122.4",
+      "pali": "nāriyo samalaṅkatā."
+    },
+    {
+      "id": "ja546:123.1",
+      "pali": "Samaṅgikatvā pamadāhi yakkhaṁ,"
+    },
+    {
+      "id": "ja546:123.2",
+      "pali": "Annena pānena ca dhammapālo;"
+    },
+    {
+      "id": "ja546:123.3",
+      "pali": "Atthattha mevānuvicintayanto,"
+    },
+    {
+      "id": "ja546:123.4",
+      "pali": "Pāvekkhi bhariyāya tadā sakāse."
+    },
+    {
+      "id": "ja546:124.1",
+      "pali": "Taṁ candanagandharasānulittaṁ,"
+    },
+    {
+      "id": "ja546:124.2",
+      "pali": "Suvaṇṇajambonadanikkhasādisaṁ;"
+    },
+    {
+      "id": "ja546:124.3",
+      "pali": "Bhariyaṁvacā “ehi suṇohi bhoti,"
+    },
+    {
+      "id": "ja546:124.4",
+      "pali": "Puttāni āmantaya tambanette”."
+    },
+    {
+      "id": "ja546:125.1",
+      "pali": "Sutvāna vākyaṁ patino anujjā,"
+    },
+    {
+      "id": "ja546:125.2",
+      "pali": "Suṇisaṁvaca tambanakhiṁ sunettaṁ;"
+    },
+    {
+      "id": "ja546:125.3",
+      "pali": "“Āmantaya vammadharāni cete,"
+    },
+    {
+      "id": "ja546:125.4",
+      "pali": "Puttāni indīvarapupphasāme”."
+    },
+    {
+      "id": "ja546:126.1",
+      "pali": "Te āgate muddhani dhammapālo,"
+    },
+    {
+      "id": "ja546:126.2",
+      "pali": "Cumbitvā putte avikampamāno;"
+    },
+    {
+      "id": "ja546:126.3",
+      "pali": "Āmantayitvāna avoca vākyaṁ,"
+    },
+    {
+      "id": "ja546:126.4",
+      "pali": "“Dinnāhaṁ raññā idha māṇavassa."
+    },
+    {
+      "id": "ja546:127.1",
+      "pali": "Tassajjahaṁ attasukhī vidheyyo,"
+    },
+    {
+      "id": "ja546:127.2",
+      "pali": "Ādāya yenicchati tena gacchati;"
+    },
+    {
+      "id": "ja546:127.3",
+      "pali": "Ahañca vo sāsitumāgatosmi,"
+    },
+    {
+      "id": "ja546:127.4",
+      "pali": "Kathaṁ ahaṁ aparittāya gacche."
+    },
+    {
+      "id": "ja546:128.1",
+      "pali": "Sace vo rājā kururaṭṭhavāsī,"
+    },
+    {
+      "id": "ja546:128.2",
+      "pali": "Janasandho puccheyya pahūtakāmo;"
+    },
+    {
+      "id": "ja546:128.3",
+      "pali": "Kimābhijānātha pure purāṇaṁ,"
+    },
+    {
+      "id": "ja546:128.4",
+      "pali": "Kiṁ vo pitā anusāse puratthā."
+    },
+    {
+      "id": "ja546:129.1",
+      "pali": "Samāsanā hotha mayāva sabbe,"
+    },
+    {
+      "id": "ja546:129.2",
+      "pali": "Konīdha rañño abbhatiko manusso;"
+    },
+    {
+      "id": "ja546:129.3",
+      "pali": "Tamañjaliṁ kariya vadetha evaṁ,"
+    },
+    {
+      "id": "ja546:129.4",
+      "pali": "Mā hevaṁ deva na hi esa dhammo;"
+    },
+    {
+      "id": "ja546:129.5",
+      "pali": "Viyaggharājassa nihīnajacco,"
+    },
+    {
+      "id": "ja546:129.6",
+      "pali": "Samāsano deva kathaṁ bhaveyya”."
+    },
+    {
+      "id": "ja546:130.1",
+      "pali": "Lakkhaṇakaṇḍaṁ nāma."
+    },
+    {
+      "id": "ja546:131.1",
+      "pali": "So ca putte amacce ca,"
+    },
+    {
+      "id": "ja546:131.2",
+      "pali": "ñātayo suhadajjane;"
+    },
+    {
+      "id": "ja546:131.3",
+      "pali": "Alīnamanasaṅkappo,"
+    },
+    {
+      "id": "ja546:131.4",
+      "pali": "vidhuro etadabravi."
+    },
+    {
+      "id": "ja546:132.1",
+      "pali": "“Ethayyo rājavasatiṁ,"
+    },
+    {
+      "id": "ja546:132.2",
+      "pali": "nisīditvā suṇātha me;"
+    },
+    {
+      "id": "ja546:132.3",
+      "pali": "Yathā rājakulaṁ patto,"
+    },
+    {
+      "id": "ja546:132.4",
+      "pali": "yasaṁ poso nigacchati."
+    },
+    {
+      "id": "ja546:133.1",
+      "pali": "Na hi rājakulaṁ patto,"
+    },
+    {
+      "id": "ja546:133.2",
+      "pali": "aññāto labhate yasaṁ;"
+    },
+    {
+      "id": "ja546:133.3",
+      "pali": "Nāsūro nāpi dummedho,"
+    },
+    {
+      "id": "ja546:133.4",
+      "pali": "nappamatto kudācanaṁ."
+    },
+    {
+      "id": "ja546:134.1",
+      "pali": "Yadāssa sīlaṁ paññañca,"
+    },
+    {
+      "id": "ja546:134.2",
+      "pali": "soceyyaṁ cādhigacchati;"
+    },
+    {
+      "id": "ja546:134.3",
+      "pali": "Atha vissasate tyamhi,"
+    },
+    {
+      "id": "ja546:134.4",
+      "pali": "guyhañcassa na rakkhati."
+    },
+    {
+      "id": "ja546:135.1",
+      "pali": "Tulā yathā paggahitā,"
+    },
+    {
+      "id": "ja546:135.2",
+      "pali": "samadaṇḍā sudhāritā;"
+    },
+    {
+      "id": "ja546:135.3",
+      "pali": "Ajjhiṭṭho na vikampeyya,"
+    },
+    {
+      "id": "ja546:135.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:136.1",
+      "pali": "Tulā yathā paggahitā,"
+    },
+    {
+      "id": "ja546:136.2",
+      "pali": "samadaṇḍā sudhāritā;"
+    },
+    {
+      "id": "ja546:136.3",
+      "pali": "Sabbāni abhisambhonto,"
+    },
+    {
+      "id": "ja546:136.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:137.1",
+      "pali": "Divā vā yadi vā rattiṁ,"
+    },
+    {
+      "id": "ja546:137.2",
+      "pali": "rājakiccesu paṇḍito;"
+    },
+    {
+      "id": "ja546:137.3",
+      "pali": "Ajjhiṭṭho na vikampeyya,"
+    },
+    {
+      "id": "ja546:137.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:138.1",
+      "pali": "Divā vā yadi vā rattiṁ,"
+    },
+    {
+      "id": "ja546:138.2",
+      "pali": "rājakiccesu paṇḍito;"
+    },
+    {
+      "id": "ja546:138.3",
+      "pali": "Sabbāni abhisambhonto,"
+    },
+    {
+      "id": "ja546:138.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:139.1",
+      "pali": "Yo cassa sukato maggo,"
+    },
+    {
+      "id": "ja546:139.2",
+      "pali": "rañño suppaṭiyādito;"
+    },
+    {
+      "id": "ja546:139.3",
+      "pali": "Na tena vutto gaccheyya,"
+    },
+    {
+      "id": "ja546:139.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:140.1",
+      "pali": "Na rañño sadisaṁ bhuñje,"
+    },
+    {
+      "id": "ja546:140.2",
+      "pali": "kāmabhoge kudācanaṁ;"
+    },
+    {
+      "id": "ja546:140.3",
+      "pali": "Sabbattha pacchato gacche,"
+    },
+    {
+      "id": "ja546:140.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:141.1",
+      "pali": "Na rañño sadisaṁ vatthaṁ,"
+    },
+    {
+      "id": "ja546:141.2",
+      "pali": "na mālaṁ na vilepanaṁ;"
+    },
+    {
+      "id": "ja546:141.3",
+      "pali": "Ākappaṁ sarakuttiṁ vā,"
+    },
+    {
+      "id": "ja546:141.4",
+      "pali": "na rañño sadisamācare;"
+    },
+    {
+      "id": "ja546:141.5",
+      "pali": "Aññaṁ kareyya ākappaṁ,"
+    },
+    {
+      "id": "ja546:141.6",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:142.1",
+      "pali": "Kīḷe rājā amaccehi,"
+    },
+    {
+      "id": "ja546:142.2",
+      "pali": "bhariyāhi parivārito;"
+    },
+    {
+      "id": "ja546:142.3",
+      "pali": "Nāmacco rājabhariyāsu,"
+    },
+    {
+      "id": "ja546:142.4",
+      "pali": "bhāvaṁ kubbetha paṇḍito."
+    },
+    {
+      "id": "ja546:143.1",
+      "pali": "Anuddhato acapalo,"
+    },
+    {
+      "id": "ja546:143.2",
+      "pali": "nipako saṁvutindriyo;"
+    },
+    {
+      "id": "ja546:143.3",
+      "pali": "Manopaṇidhisampanno,"
+    },
+    {
+      "id": "ja546:143.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:144.1",
+      "pali": "Nāssa bhariyāhi kīḷeyya,"
+    },
+    {
+      "id": "ja546:144.2",
+      "pali": "na manteyya rahogato;"
+    },
+    {
+      "id": "ja546:144.3",
+      "pali": "Nāssa kosā dhanaṁ gaṇhe,"
+    },
+    {
+      "id": "ja546:144.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:145.1",
+      "pali": "Na niddaṁ bahu maññeyya,"
+    },
+    {
+      "id": "ja546:145.2",
+      "pali": "na madāya suraṁ pive;"
+    },
+    {
+      "id": "ja546:145.3",
+      "pali": "Nāssa dāye mige haññe,"
+    },
+    {
+      "id": "ja546:145.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:146.1",
+      "pali": "Nāssa pīṭhaṁ na pallaṅkaṁ,"
+    },
+    {
+      "id": "ja546:146.2",
+      "pali": "Na kocchaṁ na nāvaṁ rathaṁ;"
+    },
+    {
+      "id": "ja546:146.3",
+      "pali": "Sammatomhīti ārūhe,"
+    },
+    {
+      "id": "ja546:146.4",
+      "pali": "Sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:147.1",
+      "pali": "Nātidūre bhaje rañño,"
+    },
+    {
+      "id": "ja546:147.2",
+      "pali": "nāccāsanne vicakkhaṇo;"
+    },
+    {
+      "id": "ja546:147.3",
+      "pali": "Sammukhañcassa tiṭṭheyya,"
+    },
+    {
+      "id": "ja546:147.4",
+      "pali": "sandissanto sabhattuno."
+    },
+    {
+      "id": "ja546:148.1",
+      "pali": "Na ve rājā sakhā hoti,"
+    },
+    {
+      "id": "ja546:148.2",
+      "pali": "na rājā hoti methuno;"
+    },
+    {
+      "id": "ja546:148.3",
+      "pali": "Khippaṁ kujjhanti rājāno,"
+    },
+    {
+      "id": "ja546:148.4",
+      "pali": "sūkenakkhīva ghaṭṭitaṁ."
+    },
+    {
+      "id": "ja546:149.1",
+      "pali": "Na pūjito maññamāno,"
+    },
+    {
+      "id": "ja546:149.2",
+      "pali": "medhāvī paṇḍito naro;"
+    },
+    {
+      "id": "ja546:149.3",
+      "pali": "Pharusaṁ patimanteyya,"
+    },
+    {
+      "id": "ja546:149.4",
+      "pali": "rājānaṁ parisaṅgataṁ."
+    },
+    {
+      "id": "ja546:150.1",
+      "pali": "Laddhadvāro labhe dvāraṁ,"
+    },
+    {
+      "id": "ja546:150.2",
+      "pali": "neva rājūsu vissase;"
+    },
+    {
+      "id": "ja546:150.3",
+      "pali": "Aggīva saṁyato tiṭṭhe,"
+    },
+    {
+      "id": "ja546:150.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:151.1",
+      "pali": "Puttaṁ vā bhātaraṁ vā saṁ,"
+    },
+    {
+      "id": "ja546:151.2",
+      "pali": "sampaggaṇhāti khattiyo;"
+    },
+    {
+      "id": "ja546:151.3",
+      "pali": "Gāmehi nigamehi vā,"
+    },
+    {
+      "id": "ja546:151.4",
+      "pali": "raṭṭhehi janapadehi vā;"
+    },
+    {
+      "id": "ja546:151.5",
+      "pali": "Tuṇhībhūto upekkheyya,"
+    },
+    {
+      "id": "ja546:151.6",
+      "pali": "na bhaṇe chekapāpakaṁ."
+    },
+    {
+      "id": "ja546:152.1",
+      "pali": "Hatthārohe anīkaṭṭhe,"
+    },
+    {
+      "id": "ja546:152.2",
+      "pali": "rathike pattikārake;"
+    },
+    {
+      "id": "ja546:152.3",
+      "pali": "Tesaṁ kammāvadānena,"
+    },
+    {
+      "id": "ja546:152.4",
+      "pali": "rājā vaḍḍheti vetanaṁ;"
+    },
+    {
+      "id": "ja546:152.5",
+      "pali": "Na tesaṁ antarā gacche,"
+    },
+    {
+      "id": "ja546:152.6",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:153.1",
+      "pali": "Cāpovūnudaro dhīro,"
+    },
+    {
+      "id": "ja546:153.2",
+      "pali": "vaṁsovāpi pakampaye;"
+    },
+    {
+      "id": "ja546:153.3",
+      "pali": "Paṭilomaṁ na vatteyya,"
+    },
+    {
+      "id": "ja546:153.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:154.1",
+      "pali": "Cāpovūnudaro assa,"
+    },
+    {
+      "id": "ja546:154.2",
+      "pali": "macchovassa ajivhavā;"
+    },
+    {
+      "id": "ja546:154.3",
+      "pali": "Appāsī nipako sūro,"
+    },
+    {
+      "id": "ja546:154.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:155.1",
+      "pali": "Na bāḷhaṁ itthiṁ gaccheyya,"
+    },
+    {
+      "id": "ja546:155.2",
+      "pali": "sampassaṁ tejasaṅkhayaṁ;"
+    },
+    {
+      "id": "ja546:155.3",
+      "pali": "Kāsaṁ sāsaṁ daraṁ balyaṁ,"
+    },
+    {
+      "id": "ja546:155.4",
+      "pali": "khīṇamedho nigacchati."
+    },
+    {
+      "id": "ja546:156.1",
+      "pali": "Nātivelaṁ pabhāseyya,"
+    },
+    {
+      "id": "ja546:156.2",
+      "pali": "na tuṇhī sabbadā siyā;"
+    },
+    {
+      "id": "ja546:156.3",
+      "pali": "Avikiṇṇaṁ mitaṁ vācaṁ,"
+    },
+    {
+      "id": "ja546:156.4",
+      "pali": "patte kāle udīraye."
+    },
+    {
+      "id": "ja546:157.1",
+      "pali": "Akkodhano asaṅghaṭṭo,"
+    },
+    {
+      "id": "ja546:157.2",
+      "pali": "sacco saṇho apesuṇo;"
+    },
+    {
+      "id": "ja546:157.3",
+      "pali": "Samphaṁ giraṁ na bhāseyya,"
+    },
+    {
+      "id": "ja546:157.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:158.1",
+      "pali": "Mātāpettibharo assa,"
+    },
+    {
+      "id": "ja546:158.2",
+      "pali": "kule jeṭṭhāpacāyiko;"
+    },
+    {
+      "id": "ja546:158.3",
+      "pali": "Saṇho sakhilasambhāso,"
+    },
+    {
+      "id": "ja546:158.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:159.1",
+      "pali": "Vinīto sippavā danto,"
+    },
+    {
+      "id": "ja546:159.2",
+      "pali": "katatto niyato mudu;"
+    },
+    {
+      "id": "ja546:159.3",
+      "pali": "Appamatto suci dakkho,"
+    },
+    {
+      "id": "ja546:159.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:160.1",
+      "pali": "Nivātavutti vuddhesu,"
+    },
+    {
+      "id": "ja546:160.2",
+      "pali": "sappatisso sagāravo;"
+    },
+    {
+      "id": "ja546:160.3",
+      "pali": "Surato sukhasaṁvāso,"
+    },
+    {
+      "id": "ja546:160.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:161.1",
+      "pali": "Ārakā parivajjeyya,"
+    },
+    {
+      "id": "ja546:161.2",
+      "pali": "sahituṁ pahitaṁ janaṁ;"
+    },
+    {
+      "id": "ja546:161.3",
+      "pali": "Bhattāraññevudikkheyya,"
+    },
+    {
+      "id": "ja546:161.4",
+      "pali": "na ca aññassa rājino."
+    },
+    {
+      "id": "ja546:162.1",
+      "pali": "Samaṇe brāhmaṇe cāpi,"
+    },
+    {
+      "id": "ja546:162.2",
+      "pali": "sīlavante bahussute;"
+    },
+    {
+      "id": "ja546:162.3",
+      "pali": "Sakkaccaṁ payirupāseyya,"
+    },
+    {
+      "id": "ja546:162.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:163.1",
+      "pali": "Samaṇe brāhmaṇe cāpi,"
+    },
+    {
+      "id": "ja546:163.2",
+      "pali": "sīlavante bahussute;"
+    },
+    {
+      "id": "ja546:163.3",
+      "pali": "Sakkaccaṁ anuvāseyya,"
+    },
+    {
+      "id": "ja546:163.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:164.1",
+      "pali": "Samaṇe brāhmaṇe cāpi,"
+    },
+    {
+      "id": "ja546:164.2",
+      "pali": "sīlavante bahussute;"
+    },
+    {
+      "id": "ja546:164.3",
+      "pali": "Tappeyya annapānena,"
+    },
+    {
+      "id": "ja546:164.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:165.1",
+      "pali": "Samaṇe brāhmaṇe cāpi,"
+    },
+    {
+      "id": "ja546:165.2",
+      "pali": "sīlavante bahussute;"
+    },
+    {
+      "id": "ja546:165.3",
+      "pali": "Āsajja paññe sevetha,"
+    },
+    {
+      "id": "ja546:165.4",
+      "pali": "ākaṅkhaṁ vuddhimattano."
+    },
+    {
+      "id": "ja546:166.1",
+      "pali": "Dinnapubbaṁ na hāpeyya,"
+    },
+    {
+      "id": "ja546:166.2",
+      "pali": "dānaṁ samaṇabrāhmaṇe;"
+    },
+    {
+      "id": "ja546:166.3",
+      "pali": "Na ca kiñci nivāreyya,"
+    },
+    {
+      "id": "ja546:166.4",
+      "pali": "dānakāle vanibbake."
+    },
+    {
+      "id": "ja546:167.1",
+      "pali": "Paññavā buddhisampanno,"
+    },
+    {
+      "id": "ja546:167.2",
+      "pali": "vidhānavidhikovido;"
+    },
+    {
+      "id": "ja546:167.3",
+      "pali": "Kālaññū samayaññū ca,"
+    },
+    {
+      "id": "ja546:167.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:168.1",
+      "pali": "Uṭṭhātā kammadheyyesu,"
+    },
+    {
+      "id": "ja546:168.2",
+      "pali": "appamatto vicakkhaṇo;"
+    },
+    {
+      "id": "ja546:168.3",
+      "pali": "Susaṁvihitakammanto,"
+    },
+    {
+      "id": "ja546:168.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:169.1",
+      "pali": "Khalaṁ sālaṁ pasuṁ khettaṁ,"
+    },
+    {
+      "id": "ja546:169.2",
+      "pali": "gantā cassa abhikkhaṇaṁ;"
+    },
+    {
+      "id": "ja546:169.3",
+      "pali": "Mitaṁ dhaññaṁ nidhāpeyya,"
+    },
+    {
+      "id": "ja546:169.4",
+      "pali": "mitaṁva pācaye ghare."
+    },
+    {
+      "id": "ja546:170.1",
+      "pali": "Puttaṁ vā bhātaraṁ vā saṁ,"
+    },
+    {
+      "id": "ja546:170.2",
+      "pali": "sīlesu asamāhitaṁ;"
+    },
+    {
+      "id": "ja546:170.3",
+      "pali": "Anaṅgavā hi te bālā,"
+    },
+    {
+      "id": "ja546:170.4",
+      "pali": "yathā petā tatheva te;"
+    },
+    {
+      "id": "ja546:170.5",
+      "pali": "Coḷañca nesaṁ piṇḍañca,"
+    },
+    {
+      "id": "ja546:170.6",
+      "pali": "āsīnānaṁ padāpaye."
+    },
+    {
+      "id": "ja546:171.1",
+      "pali": "Dāse kammakare pesse,"
+    },
+    {
+      "id": "ja546:171.2",
+      "pali": "sīlesu susamāhite;"
+    },
+    {
+      "id": "ja546:171.3",
+      "pali": "Dakkhe uṭṭhānasampanne,"
+    },
+    {
+      "id": "ja546:171.4",
+      "pali": "ādhipaccamhi ṭhāpaye."
+    },
+    {
+      "id": "ja546:172.1",
+      "pali": "Sīlavā ca alolo ca,"
+    },
+    {
+      "id": "ja546:172.2",
+      "pali": "anurakkho ca rājino;"
+    },
+    {
+      "id": "ja546:172.3",
+      "pali": "Āvī raho hito tassa,"
+    },
+    {
+      "id": "ja546:172.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:173.1",
+      "pali": "Chandaññū rājino cassa,"
+    },
+    {
+      "id": "ja546:173.2",
+      "pali": "cittaṭṭho assa rājino;"
+    },
+    {
+      "id": "ja546:173.3",
+      "pali": "Asaṅkusakavutti’ssa,"
+    },
+    {
+      "id": "ja546:173.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:174.1",
+      "pali": "Ucchādaye ca nhāpaye,"
+    },
+    {
+      "id": "ja546:174.2",
+      "pali": "dhove pāde adhosiraṁ;"
+    },
+    {
+      "id": "ja546:174.3",
+      "pali": "Āhatopi na kuppeyya,"
+    },
+    {
+      "id": "ja546:174.4",
+      "pali": "sa rājavasatiṁ vase."
+    },
+    {
+      "id": "ja546:175.1",
+      "pali": "Kumbhampañjaliṁ kariyā,"
+    },
+    {
+      "id": "ja546:175.2",
+      "pali": "cāṭañcāpi padakkhiṇaṁ;"
+    },
+    {
+      "id": "ja546:175.3",
+      "pali": "Kimeva sabbakāmānaṁ,"
+    },
+    {
+      "id": "ja546:175.4",
+      "pali": "dātāraṁ dhīramuttamaṁ."
+    },
+    {
+      "id": "ja546:176.1",
+      "pali": "Yo deti sayanaṁ vatthaṁ,"
+    },
+    {
+      "id": "ja546:176.2",
+      "pali": "yānaṁ āvasathaṁ gharaṁ;"
+    },
+    {
+      "id": "ja546:176.3",
+      "pali": "Pajjunnoriva bhūtāni,"
+    },
+    {
+      "id": "ja546:176.4",
+      "pali": "bhogehi abhivassati."
+    },
+    {
+      "id": "ja546:177.1",
+      "pali": "Esayyo rājavasati,"
+    },
+    {
+      "id": "ja546:177.2",
+      "pali": "vattamāno yathā naro;"
+    },
+    {
+      "id": "ja546:177.3",
+      "pali": "Ārādhayati rājānaṁ,"
+    },
+    {
+      "id": "ja546:177.4",
+      "pali": "pūjaṁ labhati bhattusu”."
+    },
+    {
+      "id": "ja546:178.1",
+      "pali": "Rājavasati nāma."
+    },
+    {
+      "id": "ja546:179.1",
+      "pali": "Evaṁ samanusāsitvā,"
+    },
+    {
+      "id": "ja546:179.2",
+      "pali": "ñātisaṅghaṁ vicakkhaṇo;"
+    },
+    {
+      "id": "ja546:179.3",
+      "pali": "Parikiṇṇo suhadehi,"
+    },
+    {
+      "id": "ja546:179.4",
+      "pali": "rājānamupasaṅkami."
+    },
+    {
+      "id": "ja546:180.1",
+      "pali": "Vanditvā sirasā pāde,"
+    },
+    {
+      "id": "ja546:180.2",
+      "pali": "katvā ca naṁ padakkhiṇaṁ;"
+    },
+    {
+      "id": "ja546:180.3",
+      "pali": "Vidhuro avaca rājānaṁ,"
+    },
+    {
+      "id": "ja546:180.4",
+      "pali": "paggahetvāna añjaliṁ."
+    },
+    {
+      "id": "ja546:181.1",
+      "pali": "“Ayaṁ maṁ māṇavo neti,"
+    },
+    {
+      "id": "ja546:181.2",
+      "pali": "kattukāmo yathāmati;"
+    },
+    {
+      "id": "ja546:181.3",
+      "pali": "Ñātīnatthaṁ pavakkhāmi,"
+    },
+    {
+      "id": "ja546:181.4",
+      "pali": "taṁ suṇohi arindama."
+    },
+    {
+      "id": "ja546:182.1",
+      "pali": "Putte ca me udikkhesi,"
+    },
+    {
+      "id": "ja546:182.2",
+      "pali": "yañca maññaṁ ghare dhanaṁ;"
+    },
+    {
+      "id": "ja546:182.3",
+      "pali": "Yathā pecca na hāyetha,"
+    },
+    {
+      "id": "ja546:182.4",
+      "pali": "ñātisaṅgho mayī gate."
+    },
+    {
+      "id": "ja546:183.1",
+      "pali": "Yatheva khalatī bhūmyā,"
+    },
+    {
+      "id": "ja546:183.2",
+      "pali": "bhūmyāyeva patiṭṭhati;"
+    },
+    {
+      "id": "ja546:183.3",
+      "pali": "Evetaṁ khalitaṁ mayhaṁ,"
+    },
+    {
+      "id": "ja546:183.4",
+      "pali": "etaṁ passāmi accayaṁ”."
+    },
+    {
+      "id": "ja546:184.1",
+      "pali": "“Sakkā na gantuṁ iti mayha hoti,"
+    },
+    {
+      "id": "ja546:184.2",
+      "pali": "Chetvā vadhitvā idha kātiyānaṁ;"
+    },
+    {
+      "id": "ja546:184.3",
+      "pali": "Idheva hohī iti mayha ruccati,"
+    },
+    {
+      "id": "ja546:184.4",
+      "pali": "Mā tvaṁ agā uttamabhūripañña”."
+    },
+    {
+      "id": "ja546:185.1",
+      "pali": "“Mā hevadhammesu manaṁ paṇīdahi,"
+    },
+    {
+      "id": "ja546:185.2",
+      "pali": "Atthe ca dhamme ca yutto bhavassu;"
+    },
+    {
+      "id": "ja546:185.3",
+      "pali": "Dhiratthu kammaṁ akusalaṁ anariyaṁ,"
+    },
+    {
+      "id": "ja546:185.4",
+      "pali": "Yaṁ katvā pacchā nirayaṁ vajeyya."
+    },
+    {
+      "id": "ja546:186.1",
+      "pali": "Nevesa dhammo na puneta kiccaṁ,"
+    },
+    {
+      "id": "ja546:186.2",
+      "pali": "Ayiro hi dāsassa janinda issaro;"
+    },
+    {
+      "id": "ja546:186.3",
+      "pali": "Ghātetuṁ jhāpetuṁ athopi hantuṁ,"
+    },
+    {
+      "id": "ja546:186.4",
+      "pali": "Na ca mayha kodhatthi vajāmi cāhaṁ”."
+    },
+    {
+      "id": "ja546:187.1",
+      "pali": "Jeṭṭhaputtaṁ upaguyha,"
+    },
+    {
+      "id": "ja546:187.2",
+      "pali": "vineyya hadaye daraṁ;"
+    },
+    {
+      "id": "ja546:187.3",
+      "pali": "Assupuṇṇehi nettehi,"
+    },
+    {
+      "id": "ja546:187.4",
+      "pali": "pāvisī so mahāgharaṁ."
+    },
+    {
+      "id": "ja546:188.1",
+      "pali": "Sālāva sammapatitā,"
+    },
+    {
+      "id": "ja546:188.2",
+      "pali": "mālutena pamadditā;"
+    },
+    {
+      "id": "ja546:188.3",
+      "pali": "Senti puttā ca dārā ca,"
+    },
+    {
+      "id": "ja546:188.4",
+      "pali": "vidhurassa nivesane."
+    },
+    {
+      "id": "ja546:189.1",
+      "pali": "Itthisahassaṁ bhariyānaṁ,"
+    },
+    {
+      "id": "ja546:189.2",
+      "pali": "dāsisattasatāni ca;"
+    },
+    {
+      "id": "ja546:189.3",
+      "pali": "Bāhā paggayha pakkanduṁ,"
+    },
+    {
+      "id": "ja546:189.4",
+      "pali": "vidhurassa nivesane."
+    },
+    {
+      "id": "ja546:190.1",
+      "pali": "Orodhā ca kumārā ca,"
+    },
+    {
+      "id": "ja546:190.2",
+      "pali": "vesiyānā ca brāhmaṇā;"
+    },
+    {
+      "id": "ja546:190.3",
+      "pali": "Bāhā paggayha pakkanduṁ,"
+    },
+    {
+      "id": "ja546:190.4",
+      "pali": "vidhurassa nivesane."
+    },
+    {
+      "id": "ja546:191.1",
+      "pali": "Hatthārohā anīkaṭṭhā,"
+    },
+    {
+      "id": "ja546:191.2",
+      "pali": "rathikā pattikārakā;"
+    },
+    {
+      "id": "ja546:191.3",
+      "pali": "Bāhā paggayha pakkanduṁ,"
+    },
+    {
+      "id": "ja546:191.4",
+      "pali": "vidhurassa nivesane."
+    },
+    {
+      "id": "ja546:192.1",
+      "pali": "Samāgatā jānapadā,"
+    },
+    {
+      "id": "ja546:192.2",
+      "pali": "negamā ca samāgatā;"
+    },
+    {
+      "id": "ja546:192.3",
+      "pali": "Bāhā paggayha pakkanduṁ,"
+    },
+    {
+      "id": "ja546:192.4",
+      "pali": "vidhurassa nivesane."
+    },
+    {
+      "id": "ja546:193.1",
+      "pali": "Itthisahassaṁ bhariyānaṁ,"
+    },
+    {
+      "id": "ja546:193.2",
+      "pali": "dāsisattasatāni ca;"
+    },
+    {
+      "id": "ja546:193.3",
+      "pali": "Bāhā paggayha pakkanduṁ,"
+    },
+    {
+      "id": "ja546:193.4",
+      "pali": "“kasmā no vijahissasi”."
+    },
+    {
+      "id": "ja546:194.1",
+      "pali": "Orodhā ca kumārā ca,"
+    },
+    {
+      "id": "ja546:194.2",
+      "pali": "vesiyānā ca brāhmaṇā;"
+    },
+    {
+      "id": "ja546:194.3",
+      "pali": "Bāhā paggayha pakkanduṁ,"
+    },
+    {
+      "id": "ja546:194.4",
+      "pali": "“kasmā no vijahissasi”."
+    },
+    {
+      "id": "ja546:195.1",
+      "pali": "Hatthārohā anīkaṭṭhā,"
+    },
+    {
+      "id": "ja546:195.2",
+      "pali": "rathikā pattikārakā;"
+    },
+    {
+      "id": "ja546:195.3",
+      "pali": "Bāhā paggayha pakkanduṁ,"
+    },
+    {
+      "id": "ja546:195.4",
+      "pali": "“kasmā no vijahissasi”."
+    },
+    {
+      "id": "ja546:196.1",
+      "pali": "Samāgatā jānapadā,"
+    },
+    {
+      "id": "ja546:196.2",
+      "pali": "negamā ca samāgatā;"
+    },
+    {
+      "id": "ja546:196.3",
+      "pali": "Bāhā paggayha pakkanduṁ,"
+    },
+    {
+      "id": "ja546:196.4",
+      "pali": "“kasmā no vijahissasi”."
+    },
+    {
+      "id": "ja546:197.1",
+      "pali": "Katvā gharesu kiccāni,"
+    },
+    {
+      "id": "ja546:197.2",
+      "pali": "anusāsitvā sakaṁ janaṁ;"
+    },
+    {
+      "id": "ja546:197.3",
+      "pali": "Mittāmacce ca bhacce ca,"
+    },
+    {
+      "id": "ja546:197.4",
+      "pali": "puttadāre ca bandhave."
+    },
+    {
+      "id": "ja546:198.1",
+      "pali": "Kammantaṁ saṁvidhetvāna,"
+    },
+    {
+      "id": "ja546:198.2",
+      "pali": "ācikkhitvā ghare dhanaṁ;"
+    },
+    {
+      "id": "ja546:198.3",
+      "pali": "Nidhiñca iṇadānañca,"
+    },
+    {
+      "id": "ja546:198.4",
+      "pali": "puṇṇakaṁ etadabravi."
+    },
+    {
+      "id": "ja546:199.1",
+      "pali": "“Avasī tuvaṁ mayha tīhaṁ agāre,"
+    },
+    {
+      "id": "ja546:199.2",
+      "pali": "Katāni kiccāni gharesu mayhaṁ;"
+    },
+    {
+      "id": "ja546:199.3",
+      "pali": "Anusāsitā puttadārā mayā ca,"
+    },
+    {
+      "id": "ja546:199.4",
+      "pali": "Karoma kaccāna yathāmatiṁ te”."
+    },
+    {
+      "id": "ja546:200.1",
+      "pali": "“Sace hi katte anusāsitā te,"
+    },
+    {
+      "id": "ja546:200.2",
+      "pali": "Puttā ca dārā anujīvino ca;"
+    },
+    {
+      "id": "ja546:200.3",
+      "pali": "Handehi dānī taramānarūpo,"
+    },
+    {
+      "id": "ja546:200.4",
+      "pali": "Dīgho hi addhāpi ayaṁ puratthā."
+    },
+    {
+      "id": "ja546:201.1",
+      "pali": "Achambhitova gaṇhāhi,"
+    },
+    {
+      "id": "ja546:201.2",
+      "pali": "ājāneyyassa vāladhiṁ;"
+    },
+    {
+      "id": "ja546:201.3",
+      "pali": "Idaṁ pacchimakaṁ tuyhaṁ,"
+    },
+    {
+      "id": "ja546:201.4",
+      "pali": "jīvalokassa dassanaṁ”."
+    },
+    {
+      "id": "ja546:202.1",
+      "pali": "“Sohaṁ kissa nu bhāyissaṁ,"
+    },
+    {
+      "id": "ja546:202.2",
+      "pali": "yassa me natthi dukkaṭaṁ;"
+    },
+    {
+      "id": "ja546:202.3",
+      "pali": "Kāyena vācā manasā,"
+    },
+    {
+      "id": "ja546:202.4",
+      "pali": "yena gaccheyya duggatiṁ”."
+    },
+    {
+      "id": "ja546:203.1",
+      "pali": "So assarājā vidhuraṁ vahanto,"
+    },
+    {
+      "id": "ja546:203.2",
+      "pali": "Pakkāmi vehāyasamantalikkhe;"
+    },
+    {
+      "id": "ja546:203.3",
+      "pali": "Sākhāsu selesu asajjamāno,"
+    },
+    {
+      "id": "ja546:203.4",
+      "pali": "Kālāgiriṁ khippamupāgamāsi."
+    },
+    {
+      "id": "ja546:204.1",
+      "pali": "Itthisahassaṁ bhariyānaṁ,"
+    },
+    {
+      "id": "ja546:204.2",
+      "pali": "dāsisattasatāni ca;"
+    },
+    {
+      "id": "ja546:204.3",
+      "pali": "Bāhā paggayha pakkanduṁ,"
+    },
+    {
+      "id": "ja546:204.4",
+      "pali": "yakkho brāhmaṇavaṇṇena;"
+    },
+    {
+      "id": "ja546:204.5",
+      "pali": "Vidhuraṁ ādāya gacchati."
+    },
+    {
+      "id": "ja546:205.1",
+      "pali": "…pe…"
+    },
+    {
+      "id": "ja546:206.1",
+      "pali": "Samāgatā jānapadā,"
+    },
+    {
+      "id": "ja546:206.2",
+      "pali": "negamā ca samāgatā;"
+    },
+    {
+      "id": "ja546:206.3",
+      "pali": "Bāhā paggayha pakkanduṁ,"
+    },
+    {
+      "id": "ja546:206.4",
+      "pali": "yakkho brāhmaṇavaṇṇena;"
+    },
+    {
+      "id": "ja546:206.5",
+      "pali": "Vidhuraṁ ādāya gacchati."
+    },
+    {
+      "id": "ja546:207.1",
+      "pali": "Itthisahassaṁ bhariyānaṁ,"
+    },
+    {
+      "id": "ja546:207.2",
+      "pali": "dāsisattasatāni ca;"
+    },
+    {
+      "id": "ja546:207.3",
+      "pali": "Bāhā paggayha pakkanduṁ,"
+    },
+    {
+      "id": "ja546:207.4",
+      "pali": "“paṇḍito so kuhiṁ gato”."
+    },
+    {
+      "id": "ja546:208.1",
+      "pali": "…pe…"
+    },
+    {
+      "id": "ja546:209.1",
+      "pali": "Samāgatā jānapadā,"
+    },
+    {
+      "id": "ja546:209.2",
+      "pali": "negamā ca samāgatā;"
+    },
+    {
+      "id": "ja546:209.3",
+      "pali": "Bāhā paggayha pakkanduṁ,"
+    },
+    {
+      "id": "ja546:209.4",
+      "pali": "“paṇḍito so kuhiṁ gato."
+    },
+    {
+      "id": "ja546:210.1",
+      "pali": "Sace so sattarattena,"
+    },
+    {
+      "id": "ja546:210.2",
+      "pali": "nāgacchissati paṇḍito;"
+    },
+    {
+      "id": "ja546:210.3",
+      "pali": "Sabbe aggiṁ pavekkhāma,"
+    },
+    {
+      "id": "ja546:210.4",
+      "pali": "natthattho jīvitena no”."
+    },
+    {
+      "id": "ja546:211.1",
+      "pali": "“Paṇḍito ca viyatto ca,"
+    },
+    {
+      "id": "ja546:211.2",
+      "pali": "vibhāvī ca vicakkhaṇo;"
+    },
+    {
+      "id": "ja546:211.3",
+      "pali": "Khippaṁ mociya attānaṁ,"
+    },
+    {
+      "id": "ja546:211.4",
+      "pali": "mā bhāyitthāgamissati”."
+    },
+    {
+      "id": "ja546:212.1",
+      "pali": "Antarapeyyālaṁ nāma."
+    },
+    {
+      "id": "ja546:213.1",
+      "pali": "So tattha gantvāna vicintayanto,"
+    },
+    {
+      "id": "ja546:213.2",
+      "pali": "“Uccāvacā cetanakā bhavanti;"
+    },
+    {
+      "id": "ja546:213.3",
+      "pali": "Nayimassa jīvena mamatthi kiñci,"
+    },
+    {
+      "id": "ja546:213.4",
+      "pali": "Hantvānimaṁ hadayamānayissaṁ”."
+    },
+    {
+      "id": "ja546:214.1",
+      "pali": "So tattha gantvā pabbatantarasmiṁ,"
+    },
+    {
+      "id": "ja546:214.2",
+      "pali": "Anto pavisitvāna paduṭṭhacitto;"
+    },
+    {
+      "id": "ja546:214.3",
+      "pali": "Asaṁvutasmiṁ jagatippadese,"
+    },
+    {
+      "id": "ja546:214.4",
+      "pali": "Adhosiraṁ dhārayi kātiyāno."
+    },
+    {
+      "id": "ja546:215.1",
+      "pali": "So lambamāno narake papāte,"
+    },
+    {
+      "id": "ja546:215.2",
+      "pali": "Mahabbhaye lomahaṁse vidugge;"
+    },
+    {
+      "id": "ja546:215.3",
+      "pali": "Asantasanto kurūnaṁ kattuseṭṭho,"
+    },
+    {
+      "id": "ja546:215.4",
+      "pali": "Iccabravi puṇṇakaṁ nāma yakkhaṁ."
+    },
+    {
+      "id": "ja546:216.1",
+      "pali": "“Ariyāvakāsosi anariyarūpo,"
+    },
+    {
+      "id": "ja546:216.2",
+      "pali": "Asaññato saññatasannikāso;"
+    },
+    {
+      "id": "ja546:216.3",
+      "pali": "Accāhitaṁ kammaṁ karosi ludraṁ,"
+    },
+    {
+      "id": "ja546:216.4",
+      "pali": "Bhāve ca te kusalaṁ natthi kiñci."
+    },
+    {
+      "id": "ja546:217.1",
+      "pali": "Yaṁ maṁ papātasmiṁ papātumicchasi,"
+    },
+    {
+      "id": "ja546:217.2",
+      "pali": "Ko nu tavattho maraṇena mayhaṁ;"
+    },
+    {
+      "id": "ja546:217.3",
+      "pali": "Amānusasseva tavajja vaṇṇo,"
+    },
+    {
+      "id": "ja546:217.4",
+      "pali": "Ācikkha me tvaṁ katamāsi devatā”."
+    },
+    {
+      "id": "ja546:218.1",
+      "pali": "“Yadi te suto puṇṇako nāma yakkho,"
+    },
+    {
+      "id": "ja546:218.2",
+      "pali": "Rañño kuverassa hi so sajibbo;"
+    },
+    {
+      "id": "ja546:218.3",
+      "pali": "Bhūmindharo varuṇo nāma nāgo,"
+    },
+    {
+      "id": "ja546:218.4",
+      "pali": "Brahā sucī vaṇṇabalūpapanno."
+    },
+    {
+      "id": "ja546:219.1",
+      "pali": "Tassānujaṁ dhītaraṁ kāmayāmi,"
+    },
+    {
+      "id": "ja546:219.2",
+      "pali": "Irandhatī nāma sā nāgakaññā;"
+    },
+    {
+      "id": "ja546:219.3",
+      "pali": "Tassā sumajjhāya piyāya hetu,"
+    },
+    {
+      "id": "ja546:219.4",
+      "pali": "Patārayiṁ tuyha vadhāya dhīra”."
+    },
+    {
+      "id": "ja546:220.1",
+      "pali": "“Mā heva tvaṁ yakkha ahosi mūḷho,"
+    },
+    {
+      "id": "ja546:220.2",
+      "pali": "Naṭṭhā bahū duggahītena loke;"
+    },
+    {
+      "id": "ja546:220.3",
+      "pali": "Kiṁ te sumajjhāya piyāya kiccaṁ,"
+    },
+    {
+      "id": "ja546:220.4",
+      "pali": "Maraṇena me iṅgha suṇomi sabbaṁ”."
+    },
+    {
+      "id": "ja546:221.1",
+      "pali": "“Mahānubhāvassa mahoragassa,"
+    },
+    {
+      "id": "ja546:221.2",
+      "pali": "Dhītukāmo ñātibhatohamasmi;"
+    },
+    {
+      "id": "ja546:221.3",
+      "pali": "Taṁ yācamānaṁ sasuro avoca,"
+    },
+    {
+      "id": "ja546:221.4",
+      "pali": "Yathā mamaññiṁsu sukāmanītaṁ."
+    },
+    {
+      "id": "ja546:222.1",
+      "pali": "Dajjemu kho te sutanuṁ sunettaṁ,"
+    },
+    {
+      "id": "ja546:222.2",
+      "pali": "Sucimhitaṁ candanalittagattaṁ;"
+    },
+    {
+      "id": "ja546:222.3",
+      "pali": "Sace tuvaṁ hadayaṁ paṇḍitassa,"
+    },
+    {
+      "id": "ja546:222.4",
+      "pali": "Dhammena laddhā idha māharesi;"
+    },
+    {
+      "id": "ja546:222.5",
+      "pali": "Etena vittena kumāri labbhā,"
+    },
+    {
+      "id": "ja546:222.6",
+      "pali": "Naññaṁ dhanaṁ uttari patthayāma."
+    },
+    {
+      "id": "ja546:223.1",
+      "pali": "Evaṁ na mūḷhosmi suṇohi katte,"
+    },
+    {
+      "id": "ja546:223.2",
+      "pali": "Na cāpi me duggahitatthi kiñci;"
+    },
+    {
+      "id": "ja546:223.3",
+      "pali": "Hadayena te dhammaladdhena nāgā,"
+    },
+    {
+      "id": "ja546:223.4",
+      "pali": "Irandhatiṁ nāgakaññaṁ dadanti."
+    },
+    {
+      "id": "ja546:224.1",
+      "pali": "Tasmā ahaṁ tuyhaṁ vadhāya yutto,"
+    },
+    {
+      "id": "ja546:224.2",
+      "pali": "Evaṁ mamattho maraṇena tuyhaṁ;"
+    },
+    {
+      "id": "ja546:224.3",
+      "pali": "Idheva taṁ narake pātayitvā,"
+    },
+    {
+      "id": "ja546:224.4",
+      "pali": "Hantvāna taṁ hadayamānayissaṁ”."
+    },
+    {
+      "id": "ja546:225.1",
+      "pali": "“Khippaṁ mamaṁ uddhara kātiyāna,"
+    },
+    {
+      "id": "ja546:225.2",
+      "pali": "Hadayena me yadi te atthi kiccaṁ;"
+    },
+    {
+      "id": "ja546:225.3",
+      "pali": "Ye kecime sādhunarassa dhammā,"
+    },
+    {
+      "id": "ja546:225.4",
+      "pali": "Sabbeva te pātukaromi ajja”."
+    },
+    {
+      "id": "ja546:226.1",
+      "pali": "So puṇṇako kurūnaṁ kattuseṭṭhaṁ,"
+    },
+    {
+      "id": "ja546:226.2",
+      "pali": "Nagamuddhani khippaṁ patiṭṭhapetvā;"
+    },
+    {
+      "id": "ja546:226.3",
+      "pali": "Assatthamāsīnaṁ samekkhiyāna,"
+    },
+    {
+      "id": "ja546:226.4",
+      "pali": "Paripucchi kattāramanomapaññaṁ."
+    },
+    {
+      "id": "ja546:227.1",
+      "pali": "“Samuddhato mesi tuvaṁ papātā,"
+    },
+    {
+      "id": "ja546:227.2",
+      "pali": "Hadayena te ajja mamatthi kiccaṁ;"
+    },
+    {
+      "id": "ja546:227.3",
+      "pali": "Ye kecime sādhunarassa dhammā,"
+    },
+    {
+      "id": "ja546:227.4",
+      "pali": "Sabbeva me pātukarohi ajja”."
+    },
+    {
+      "id": "ja546:228.1",
+      "pali": "“Samuddhato tyasmi ahaṁ papātā,"
+    },
+    {
+      "id": "ja546:228.2",
+      "pali": "Hadayena me yadi te atthi kiccaṁ;"
+    },
+    {
+      "id": "ja546:228.3",
+      "pali": "Ye kecime sādhunarassa dhammā,"
+    },
+    {
+      "id": "ja546:228.4",
+      "pali": "Sabbeva te pātukaromi ajja."
+    },
+    {
+      "id": "ja546:229.1",
+      "pali": "Yātānuyāyī ca bhavāhi māṇava,"
+    },
+    {
+      "id": "ja546:229.2",
+      "pali": "Allañca pāṇiṁ parivajjayassu;"
+    },
+    {
+      "id": "ja546:229.3",
+      "pali": "Mā cassu mittesu kadāci dubbhī,"
+    },
+    {
+      "id": "ja546:229.4",
+      "pali": "Mā ca vasaṁ asatīnaṁ nigacche”."
+    },
+    {
+      "id": "ja546:230.1",
+      "pali": "“Kathaṁ nu yātaṁ anuyāyī hoti,"
+    },
+    {
+      "id": "ja546:230.2",
+      "pali": "Allañca pāṇiṁ dahate kathaṁ so;"
+    },
+    {
+      "id": "ja546:230.3",
+      "pali": "Asatī ca kā ko pana mittadubbho,"
+    },
+    {
+      "id": "ja546:230.4",
+      "pali": "Akkhāhi me pucchito etamatthaṁ”."
+    },
+    {
+      "id": "ja546:231.1",
+      "pali": "“Asanthutaṁ nopi ca diṭṭhapubbaṁ,"
+    },
+    {
+      "id": "ja546:231.2",
+      "pali": "Yo āsanenāpi nimantayeyya;"
+    },
+    {
+      "id": "ja546:231.3",
+      "pali": "Tasseva atthaṁ puriso kareyya,"
+    },
+    {
+      "id": "ja546:231.4",
+      "pali": "Yātānuyāyīti tamāhu paṇḍitā."
+    },
+    {
+      "id": "ja546:232.1",
+      "pali": "Yassekarattampi ghare vaseyya,"
+    },
+    {
+      "id": "ja546:232.2",
+      "pali": "Yatthannapānaṁ puriso labheyya;"
+    },
+    {
+      "id": "ja546:232.3",
+      "pali": "Na tassa pāpaṁ manasāpi cintaye,"
+    },
+    {
+      "id": "ja546:232.4",
+      "pali": "Adubbhapāṇiṁ dahate mittadubbho."
+    },
+    {
+      "id": "ja546:233.1",
+      "pali": "Yassa rukkhassa chāyāya,"
+    },
+    {
+      "id": "ja546:233.2",
+      "pali": "nisīdeyya sayeyya vā;"
+    },
+    {
+      "id": "ja546:233.3",
+      "pali": "Na tassa sākhaṁ bhañjeyya,"
+    },
+    {
+      "id": "ja546:233.4",
+      "pali": "mittadubbho hi pāpako."
+    },
+    {
+      "id": "ja546:234.1",
+      "pali": "Puṇṇampi cemaṁ pathaviṁ dhanena,"
+    },
+    {
+      "id": "ja546:234.2",
+      "pali": "Dajjitthiyā puriso sammatāya;"
+    },
+    {
+      "id": "ja546:234.3",
+      "pali": "Laddhā khaṇaṁ atimaññeyya tampi,"
+    },
+    {
+      "id": "ja546:234.4",
+      "pali": "Tāsaṁ vasaṁ asatīnaṁ na gacche."
+    },
+    {
+      "id": "ja546:235.1",
+      "pali": "Evaṁ kho yātaṁ anuyāyī hoti,"
+    },
+    {
+      "id": "ja546:235.2",
+      "pali": "Allañca pāṇiṁ dahate punevaṁ;"
+    },
+    {
+      "id": "ja546:235.3",
+      "pali": "Asatī ca sā so pana mittadubbho,"
+    },
+    {
+      "id": "ja546:235.4",
+      "pali": "So dhammiko hohi jahassu adhammaṁ”."
+    },
+    {
+      "id": "ja546:236.1",
+      "pali": "Sādhunaradhammakaṇḍaṁ nāma."
+    },
+    {
+      "id": "ja546:237.1",
+      "pali": "“Avasiṁ ahaṁ tuyha tīhaṁ agāre,"
+    },
+    {
+      "id": "ja546:237.2",
+      "pali": "Annena pānena upaṭṭhitosmi;"
+    },
+    {
+      "id": "ja546:237.3",
+      "pali": "Mitto mamāsī visajjāmahaṁ taṁ,"
+    },
+    {
+      "id": "ja546:237.4",
+      "pali": "Kāmaṁ gharaṁ uttamapañña gaccha."
+    },
+    {
+      "id": "ja546:238.1",
+      "pali": "Api hāyatu nāgakulā attho,"
+    },
+    {
+      "id": "ja546:238.2",
+      "pali": "Alampi me nāgakaññāya hotu;"
+    },
+    {
+      "id": "ja546:238.3",
+      "pali": "So tvaṁ sakeneva subhāsitena,"
+    },
+    {
+      "id": "ja546:238.4",
+      "pali": "Muttosi me ajja vadhāya pañña”."
+    },
+    {
+      "id": "ja546:239.1",
+      "pali": "“Handa tuvaṁ yakkha mamampi nehi,"
+    },
+    {
+      "id": "ja546:239.2",
+      "pali": "Sasuraṁ te atthaṁ mayi carassu;"
+    },
+    {
+      "id": "ja546:239.3",
+      "pali": "Mayañca nāgādhipatiṁ vimānaṁ,"
+    },
+    {
+      "id": "ja546:239.4",
+      "pali": "Dakkhemu nāgassa adiṭṭhapubbaṁ”."
+    },
+    {
+      "id": "ja546:240.1",
+      "pali": "“Yaṁ ve narassa ahitāya assa,"
+    },
+    {
+      "id": "ja546:240.2",
+      "pali": "Na taṁ pañño arahati dassanāya;"
+    },
+    {
+      "id": "ja546:240.3",
+      "pali": "Atha kena vaṇṇena amittagāmaṁ,"
+    },
+    {
+      "id": "ja546:240.4",
+      "pali": "Tuvamicchasi uttamapañña gantuṁ”."
+    },
+    {
+      "id": "ja546:241.1",
+      "pali": "“Addhā pajānāmi ahampi etaṁ,"
+    },
+    {
+      "id": "ja546:241.2",
+      "pali": "Na taṁ pañño arahati dassanāya;"
+    },
+    {
+      "id": "ja546:241.3",
+      "pali": "Pāpañca me natthi kataṁ kuhiñci,"
+    },
+    {
+      "id": "ja546:241.4",
+      "pali": "Tasmā na saṅke maraṇāgamāya”."
+    },
+    {
+      "id": "ja546:242.1",
+      "pali": "“Handa ca ṭhānaṁ atulānubhāvaṁ,"
+    },
+    {
+      "id": "ja546:242.2",
+      "pali": "Mayā saha dakkhasi ehi katte;"
+    },
+    {
+      "id": "ja546:242.3",
+      "pali": "Yatthacchati naccagītehi nāgo,"
+    },
+    {
+      "id": "ja546:242.4",
+      "pali": "Rājā yathā vessavaṇo naḷiññaṁ."
+    },
+    {
+      "id": "ja546:243.1",
+      "pali": "Taṁ nāgakaññā caritaṁ gaṇena,"
+    },
+    {
+      "id": "ja546:243.2",
+      "pali": "Nikīḷitaṁ niccamaho ca rattiṁ;"
+    },
+    {
+      "id": "ja546:243.3",
+      "pali": "Pahūtamālyaṁ bahupupphachannaṁ,"
+    },
+    {
+      "id": "ja546:243.4",
+      "pali": "Obhāsatī vijjurivantalikkhe."
+    },
+    {
+      "id": "ja546:244.1",
+      "pali": "Annena pānena upetarūpaṁ,"
+    },
+    {
+      "id": "ja546:244.2",
+      "pali": "Naccehi gītehi ca vāditehi;"
+    },
+    {
+      "id": "ja546:244.3",
+      "pali": "Paripūraṁ kaññāhi alaṅkatāhi,"
+    },
+    {
+      "id": "ja546:244.4",
+      "pali": "Upasobhati vatthapilandhanena."
+    },
+    {
+      "id": "ja546:245.1",
+      "pali": "So puṇṇako kurūnaṁ kattuseṭṭhaṁ,"
+    },
+    {
+      "id": "ja546:245.2",
+      "pali": "Nisīdayī pacchato āsanasmiṁ;"
+    },
+    {
+      "id": "ja546:245.3",
+      "pali": "Ādāya kattāramanomapaññaṁ,"
+    },
+    {
+      "id": "ja546:245.4",
+      "pali": "Upānayī bhavanaṁ nāgarañño."
+    },
+    {
+      "id": "ja546:246.1",
+      "pali": "Patvāna ṭhānaṁ atulānubhāvaṁ,"
+    },
+    {
+      "id": "ja546:246.2",
+      "pali": "Aṭṭhāsi kattā pacchato puṇṇakassa;"
+    },
+    {
+      "id": "ja546:246.3",
+      "pali": "Sāmaggipekkhamāno nāgarājā,"
+    },
+    {
+      "id": "ja546:246.4",
+      "pali": "Pubbeva jāmātaramajjhabhāsatha."
+    },
+    {
+      "id": "ja546:247.1",
+      "pali": "Yannu tuvaṁ agamā maccalokaṁ,"
+    },
+    {
+      "id": "ja546:247.2",
+      "pali": "Anvesamāno hadayaṁ paṇḍitassa;"
+    },
+    {
+      "id": "ja546:247.3",
+      "pali": "Kacci samiddhena idhānupatto,"
+    },
+    {
+      "id": "ja546:247.4",
+      "pali": "Ādāya kattāramanomapaññaṁ”."
+    },
+    {
+      "id": "ja546:248.1",
+      "pali": "“Ayañhi so āgato yaṁ tvamicchasi,"
+    },
+    {
+      "id": "ja546:248.2",
+      "pali": "Dhammena laddho mama dhammapālo;"
+    },
+    {
+      "id": "ja546:248.3",
+      "pali": "Taṁ passatha sammukhā bhāsamānaṁ,"
+    },
+    {
+      "id": "ja546:248.4",
+      "pali": "Sukho have sappurisehi saṅgamo”."
+    },
+    {
+      "id": "ja546:249.1",
+      "pali": "Kāḷāgirikaṇḍaṁ nāma."
+    },
+    {
+      "id": "ja546:250.1",
+      "pali": "“Adiṭṭhapubbaṁ disvāna,"
+    },
+    {
+      "id": "ja546:250.2",
+      "pali": "macco maccubhayaṭṭito;"
+    },
+    {
+      "id": "ja546:250.3",
+      "pali": "Byamhito nābhivādesi,"
+    },
+    {
+      "id": "ja546:250.4",
+      "pali": "nayidaṁ paññavatāmiva”."
+    },
+    {
+      "id": "ja546:251.1",
+      "pali": "“Na camhi byamhito nāga,"
+    },
+    {
+      "id": "ja546:251.2",
+      "pali": "na ca maccubhayaṭṭito;"
+    },
+    {
+      "id": "ja546:251.3",
+      "pali": "Na vajjho abhivādeyya,"
+    },
+    {
+      "id": "ja546:251.4",
+      "pali": "vajjhaṁ vā nābhivādaye."
+    },
+    {
+      "id": "ja546:252.1",
+      "pali": "Kathaṁ no abhivādeyya,"
+    },
+    {
+      "id": "ja546:252.2",
+      "pali": "abhivādāpayetha ve;"
+    },
+    {
+      "id": "ja546:252.3",
+      "pali": "Yaṁ naro hantumiccheyya,"
+    },
+    {
+      "id": "ja546:252.4",
+      "pali": "taṁ kammaṁ nupapajjati”."
+    },
+    {
+      "id": "ja546:253.1",
+      "pali": "“Evametaṁ yathā brūsi,"
+    },
+    {
+      "id": "ja546:253.2",
+      "pali": "saccaṁ bhāsasi paṇḍita;"
+    },
+    {
+      "id": "ja546:253.3",
+      "pali": "Na vajjho abhivādeyya,"
+    },
+    {
+      "id": "ja546:253.4",
+      "pali": "vajjhaṁ vā nābhivādaye."
+    },
+    {
+      "id": "ja546:254.1",
+      "pali": "Kathaṁ no abhivādeyya,"
+    },
+    {
+      "id": "ja546:254.2",
+      "pali": "abhivādāpayetha ve;"
+    },
+    {
+      "id": "ja546:254.3",
+      "pali": "Yaṁ naro hantumiccheyya,"
+    },
+    {
+      "id": "ja546:254.4",
+      "pali": "taṁ kammaṁ nupapajjati”."
+    },
+    {
+      "id": "ja546:255.1",
+      "pali": "“Asassataṁ sassataṁ nu tavayidaṁ,"
+    },
+    {
+      "id": "ja546:255.2",
+      "pali": "Iddhī jutī balavīriyūpapatti;"
+    },
+    {
+      "id": "ja546:255.3",
+      "pali": "Pucchāmi taṁ nāgarājetamatthaṁ,"
+    },
+    {
+      "id": "ja546:255.4",
+      "pali": "Kathaṁ nu te laddhamidaṁ vimānaṁ."
+    },
+    {
+      "id": "ja546:256.1",
+      "pali": "Adhiccaladdhaṁ pariṇāmajaṁ te,"
+    },
+    {
+      "id": "ja546:256.2",
+      "pali": "Sayaṅkataṁ udāhu devehi dinnaṁ;"
+    },
+    {
+      "id": "ja546:256.3",
+      "pali": "Akkhāhi me nāgarājetamatthaṁ,"
+    },
+    {
+      "id": "ja546:256.4",
+      "pali": "Yatheva te laddhamidaṁ vimānaṁ”."
+    },
+    {
+      "id": "ja546:257.1",
+      "pali": "“Nādhiccaladdhaṁ na pariṇāmajaṁ me,"
+    },
+    {
+      "id": "ja546:257.2",
+      "pali": "Na sayaṅkataṁ nāpi devehi dinnaṁ;"
+    },
+    {
+      "id": "ja546:257.3",
+      "pali": "Sakehi kammehi apāpakehi,"
+    },
+    {
+      "id": "ja546:257.4",
+      "pali": "Puññehi me laddhamidaṁ vimānaṁ”."
+    },
+    {
+      "id": "ja546:258.1",
+      "pali": "“Kiṁ te vataṁ kiṁ pana brahmacariyaṁ,"
+    },
+    {
+      "id": "ja546:258.2",
+      "pali": "Kissa suciṇṇassa ayaṁ vipāko;"
+    },
+    {
+      "id": "ja546:258.3",
+      "pali": "Iddhī jutī balavīriyūpapatti,"
+    },
+    {
+      "id": "ja546:258.4",
+      "pali": "Idañca te nāga mahāvimānaṁ”."
+    },
+    {
+      "id": "ja546:259.1",
+      "pali": "“Ahañca bhariyā ca manussaloke,"
+    },
+    {
+      "id": "ja546:259.2",
+      "pali": "Saddhā ubho dānapatī ahumhā;"
+    },
+    {
+      "id": "ja546:259.3",
+      "pali": "Opānabhūtaṁ me gharaṁ tadāsi,"
+    },
+    {
+      "id": "ja546:259.4",
+      "pali": "Santappitā samaṇabrāhmaṇā ca."
+    },
+    {
+      "id": "ja546:260.1",
+      "pali": "Mālañca gandhañca vilepanañca,"
+    },
+    {
+      "id": "ja546:260.2",
+      "pali": "Padīpiyaṁ seyyamupassayañca;"
+    },
+    {
+      "id": "ja546:260.3",
+      "pali": "Acchādanaṁ sāyanamannapānaṁ,"
+    },
+    {
+      "id": "ja546:260.4",
+      "pali": "Sakkacca dānāni adamha tattha."
+    },
+    {
+      "id": "ja546:261.1",
+      "pali": "Taṁ me vataṁ taṁ pana brahmacariyaṁ,"
+    },
+    {
+      "id": "ja546:261.2",
+      "pali": "Tassa suciṇṇassa ayaṁ vipāko;"
+    },
+    {
+      "id": "ja546:261.3",
+      "pali": "Iddhī jutī balavīriyūpapatti,"
+    },
+    {
+      "id": "ja546:261.4",
+      "pali": "Idañca me dhīra mahāvimānaṁ”."
+    },
+    {
+      "id": "ja546:262.1",
+      "pali": "“Evañce te laddhamidaṁ vimānaṁ,"
+    },
+    {
+      "id": "ja546:262.2",
+      "pali": "Jānāsi puññānaṁ phalūpapattiṁ;"
+    },
+    {
+      "id": "ja546:262.3",
+      "pali": "Tasmā hi dhammaṁ cara appamatto,"
+    },
+    {
+      "id": "ja546:262.4",
+      "pali": "Yathā vimānaṁ puna māvasesi”."
+    },
+    {
+      "id": "ja546:263.1",
+      "pali": "“Nayidha santi samaṇabrāhmaṇā ca,"
+    },
+    {
+      "id": "ja546:263.2",
+      "pali": "Yesannapānāni dademu katte;"
+    },
+    {
+      "id": "ja546:263.3",
+      "pali": "Akkhāhi me pucchito etamatthaṁ,"
+    },
+    {
+      "id": "ja546:263.4",
+      "pali": "Yathā vimānaṁ puna māvasema”."
+    },
+    {
+      "id": "ja546:264.1",
+      "pali": "“Bhogī hi te santi idhūpapannā,"
+    },
+    {
+      "id": "ja546:264.2",
+      "pali": "Puttā ca dārā anujīvino ca;"
+    },
+    {
+      "id": "ja546:264.3",
+      "pali": "Tesu tuvaṁ vacasā kammunā ca,"
+    },
+    {
+      "id": "ja546:264.4",
+      "pali": "Asampaduṭṭho ca bhavāhi niccaṁ."
+    },
+    {
+      "id": "ja546:265.1",
+      "pali": "Evaṁ tuvaṁ nāga asampadosaṁ,"
+    },
+    {
+      "id": "ja546:265.2",
+      "pali": "Anupālaya vacasā kammunā ca;"
+    },
+    {
+      "id": "ja546:265.3",
+      "pali": "Ṭhatvā idha yāvatāyukaṁ vimāne,"
+    },
+    {
+      "id": "ja546:265.4",
+      "pali": "Uddhaṁ ito gacchasi devalokaṁ”."
+    },
+    {
+      "id": "ja546:266.1",
+      "pali": "“Addhā hi so socati rājaseṭṭho,"
+    },
+    {
+      "id": "ja546:266.2",
+      "pali": "Tayā vinā yassa tuvaṁ sajibbo;"
+    },
+    {
+      "id": "ja546:266.3",
+      "pali": "Dukkhūpanītopi tayā samecca,"
+    },
+    {
+      "id": "ja546:266.4",
+      "pali": "Vindeyya poso sukhamāturopi”."
+    },
+    {
+      "id": "ja546:267.1",
+      "pali": "“Addhā sataṁ bhāsasi nāga dhammaṁ,"
+    },
+    {
+      "id": "ja546:267.2",
+      "pali": "Anuttaraṁ atthapadaṁ suciṇṇaṁ;"
+    },
+    {
+      "id": "ja546:267.3",
+      "pali": "Etādisiyāsu hi āpadāsu,"
+    },
+    {
+      "id": "ja546:267.4",
+      "pali": "Paññāyate mādisānaṁ viseso”."
+    },
+    {
+      "id": "ja546:268.1",
+      "pali": "“Akkhāhi no tāyaṁ mudhā nu laddho,"
+    },
+    {
+      "id": "ja546:268.2",
+      "pali": "Akkhehi no tāyaṁ ajesi jūte;"
+    },
+    {
+      "id": "ja546:268.3",
+      "pali": "Dhammena laddho iti tāyamāha,"
+    },
+    {
+      "id": "ja546:268.4",
+      "pali": "Kathaṁ nu tvaṁ hatthamimassa māgato”."
+    },
+    {
+      "id": "ja546:269.1",
+      "pali": "“Yo missaro tattha ahosi rājā,"
+    },
+    {
+      "id": "ja546:269.2",
+      "pali": "Tamāyamakkhehi ajesi jūte;"
+    },
+    {
+      "id": "ja546:269.3",
+      "pali": "So maṁ jito rājā imassadāsi,"
+    },
+    {
+      "id": "ja546:269.4",
+      "pali": "Dhammena laddhosmi asāhasena”."
+    },
+    {
+      "id": "ja546:270.1",
+      "pali": "Mahorago attamano udaggo,"
+    },
+    {
+      "id": "ja546:270.2",
+      "pali": "Sutvāna dhīrassa subhāsitāni;"
+    },
+    {
+      "id": "ja546:270.3",
+      "pali": "Hatthe gahetvāna anomapaññaṁ,"
+    },
+    {
+      "id": "ja546:270.4",
+      "pali": "Pāvekkhi bhariyāya tadā sakāse."
+    },
+    {
+      "id": "ja546:271.1",
+      "pali": "“Yena tvaṁ vimale paṇḍu,"
+    },
+    {
+      "id": "ja546:271.2",
+      "pali": "yena bhattaṁ na ruccati;"
+    },
+    {
+      "id": "ja546:271.3",
+      "pali": "Na ca me tādiso vaṇṇo,"
+    },
+    {
+      "id": "ja546:271.4",
+      "pali": "ayameso tamonudo."
+    },
+    {
+      "id": "ja546:272.1",
+      "pali": "Yassa te hadayenattho,"
+    },
+    {
+      "id": "ja546:272.2",
+      "pali": "āgatāyaṁ pabhaṅkaro;"
+    },
+    {
+      "id": "ja546:272.3",
+      "pali": "Tassa vākyaṁ nisāmehi,"
+    },
+    {
+      "id": "ja546:272.4",
+      "pali": "dullabhaṁ dassanaṁ puna”."
+    },
+    {
+      "id": "ja546:273.1",
+      "pali": "Disvāna taṁ vimalā bhūripaññaṁ,"
+    },
+    {
+      "id": "ja546:273.2",
+      "pali": "Dasaṅgulī añjaliṁ paggahetvā;"
+    },
+    {
+      "id": "ja546:273.3",
+      "pali": "Haṭṭhena bhāvena patītarūpā,"
+    },
+    {
+      "id": "ja546:273.4",
+      "pali": "Iccabravi kurūnaṁ kattuseṭṭhaṁ."
+    },
+    {
+      "id": "ja546:274.1",
+      "pali": "“Adiṭṭhapubbaṁ disvāna,"
+    },
+    {
+      "id": "ja546:274.2",
+      "pali": "macco maccubhayaṭṭito;"
+    },
+    {
+      "id": "ja546:274.3",
+      "pali": "Byamhito nābhivādesi,"
+    },
+    {
+      "id": "ja546:274.4",
+      "pali": "nayidaṁ paññavatāmiva”."
+    },
+    {
+      "id": "ja546:275.1",
+      "pali": "“Na camhi byamhito nāgi,"
+    },
+    {
+      "id": "ja546:275.2",
+      "pali": "na ca maccubhayaṭṭito;"
+    },
+    {
+      "id": "ja546:275.3",
+      "pali": "Na vajjho abhivādeyya,"
+    },
+    {
+      "id": "ja546:275.4",
+      "pali": "vajjhaṁ vā nābhivādaye."
+    },
+    {
+      "id": "ja546:276.1",
+      "pali": "Kathaṁ no abhivādeyya,"
+    },
+    {
+      "id": "ja546:276.2",
+      "pali": "abhivādāpayetha ve;"
+    },
+    {
+      "id": "ja546:276.3",
+      "pali": "Yaṁ naro hantumiccheyya,"
+    },
+    {
+      "id": "ja546:276.4",
+      "pali": "taṁ kammaṁ nupapajjati”."
+    },
+    {
+      "id": "ja546:277.1",
+      "pali": "“Evametaṁ yathā brūsi,"
+    },
+    {
+      "id": "ja546:277.2",
+      "pali": "saccaṁ bhāsasi paṇḍita;"
+    },
+    {
+      "id": "ja546:277.3",
+      "pali": "Na vajjho abhivādeyya,"
+    },
+    {
+      "id": "ja546:277.4",
+      "pali": "vajjhaṁ vā nābhivādaye."
+    },
+    {
+      "id": "ja546:278.1",
+      "pali": "Kathaṁ no abhivādeyya,"
+    },
+    {
+      "id": "ja546:278.2",
+      "pali": "abhivādāpayetha ve;"
+    },
+    {
+      "id": "ja546:278.3",
+      "pali": "Yaṁ naro hantumiccheyya,"
+    },
+    {
+      "id": "ja546:278.4",
+      "pali": "taṁ kammaṁ nupapajjati”."
+    },
+    {
+      "id": "ja546:279.1",
+      "pali": "“Asassataṁ sassataṁ nu tavayidaṁ,"
+    },
+    {
+      "id": "ja546:279.2",
+      "pali": "Iddhī jutī balavīriyūpapatti;"
+    },
+    {
+      "id": "ja546:279.3",
+      "pali": "Pucchāmi taṁ nāgakaññetamatthaṁ,"
+    },
+    {
+      "id": "ja546:279.4",
+      "pali": "Kathaṁ nu te laddhamidaṁ vimānaṁ."
+    },
+    {
+      "id": "ja546:280.1",
+      "pali": "Adhiccaladdhaṁ pariṇāmajaṁ te,"
+    },
+    {
+      "id": "ja546:280.2",
+      "pali": "Sayaṅkataṁ udāhu devehi dinnaṁ;"
+    },
+    {
+      "id": "ja546:280.3",
+      "pali": "Akkhāhi me nāgakaññetamatthaṁ,"
+    },
+    {
+      "id": "ja546:280.4",
+      "pali": "Yatheva te laddhamidaṁ vimānaṁ”."
+    },
+    {
+      "id": "ja546:281.1",
+      "pali": "“Nādhiccaladdhaṁ na pariṇāmajaṁ me,"
+    },
+    {
+      "id": "ja546:281.2",
+      "pali": "Na sayaṁ kataṁ nāpi devehi dinnaṁ;"
+    },
+    {
+      "id": "ja546:281.3",
+      "pali": "Sakehi kammehi apāpakehi,"
+    },
+    {
+      "id": "ja546:281.4",
+      "pali": "Puññehi me laddhamidaṁ vimānaṁ”."
+    },
+    {
+      "id": "ja546:282.1",
+      "pali": "“Kiṁ te vataṁ kiṁ pana brahmacariyaṁ,"
+    },
+    {
+      "id": "ja546:282.2",
+      "pali": "Kissa suciṇṇassa ayaṁ vipāko;"
+    },
+    {
+      "id": "ja546:282.3",
+      "pali": "Iddhī jutī balavīriyūpapatti,"
+    },
+    {
+      "id": "ja546:282.4",
+      "pali": "Idañca te nāgi mahāvimānaṁ”."
+    },
+    {
+      "id": "ja546:283.1",
+      "pali": "“Ahañca kho sāmiko cāpi mayhaṁ,"
+    },
+    {
+      "id": "ja546:283.2",
+      "pali": "Saddhā ubho dānapatī ahumhā;"
+    },
+    {
+      "id": "ja546:283.3",
+      "pali": "Opānabhūtaṁ me gharaṁ tadāsi,"
+    },
+    {
+      "id": "ja546:283.4",
+      "pali": "Santappitā samaṇabrāhmaṇā ca."
+    },
+    {
+      "id": "ja546:284.1",
+      "pali": "Mālañca gandhañca vilepanañca,"
+    },
+    {
+      "id": "ja546:284.2",
+      "pali": "Padīpiyaṁ seyyamupassayañca;"
+    },
+    {
+      "id": "ja546:284.3",
+      "pali": "Acchādanaṁ sāyanamannapānaṁ,"
+    },
+    {
+      "id": "ja546:284.4",
+      "pali": "Sakkacca dānāni adamha tattha."
+    },
+    {
+      "id": "ja546:285.1",
+      "pali": "Taṁ me vataṁ taṁ pana brahmacariyaṁ,"
+    },
+    {
+      "id": "ja546:285.2",
+      "pali": "Tassa suciṇṇassa ayaṁ vipāko;"
+    },
+    {
+      "id": "ja546:285.3",
+      "pali": "Iddhī jutī balavīriyūpapatti,"
+    },
+    {
+      "id": "ja546:285.4",
+      "pali": "Idañca me dhīra mahāvimānaṁ”."
+    },
+    {
+      "id": "ja546:286.1",
+      "pali": "“Evañce te laddhamidaṁ vimānaṁ,"
+    },
+    {
+      "id": "ja546:286.2",
+      "pali": "Jānāsi puññānaṁ phalūpapattiṁ;"
+    },
+    {
+      "id": "ja546:286.3",
+      "pali": "Tasmā hi dhammaṁ cara appamattā,"
+    },
+    {
+      "id": "ja546:286.4",
+      "pali": "Yathā vimānaṁ puna māvasesi”."
+    },
+    {
+      "id": "ja546:287.1",
+      "pali": "“Nayidha santi samaṇabrāhmaṇā ca,"
+    },
+    {
+      "id": "ja546:287.2",
+      "pali": "Yesannapānāni dademu katte;"
+    },
+    {
+      "id": "ja546:287.3",
+      "pali": "Akkhāhi me pucchito etamatthaṁ,"
+    },
+    {
+      "id": "ja546:287.4",
+      "pali": "Yathā vimānaṁ puna māvasema”."
+    },
+    {
+      "id": "ja546:288.1",
+      "pali": "“Bhogī hi te santi idhūpapannā,"
+    },
+    {
+      "id": "ja546:288.2",
+      "pali": "Puttā ca dārā anujīvino ca;"
+    },
+    {
+      "id": "ja546:288.3",
+      "pali": "Tesu tuvaṁ vacasā kammunā ca,"
+    },
+    {
+      "id": "ja546:288.4",
+      "pali": "Asampaduṭṭhā ca bhavāhi niccaṁ."
+    },
+    {
+      "id": "ja546:289.1",
+      "pali": "Evaṁ tuvaṁ nāgi asampadosaṁ,"
+    },
+    {
+      "id": "ja546:289.2",
+      "pali": "Anupālaya vacasā kammunā ca;"
+    },
+    {
+      "id": "ja546:289.3",
+      "pali": "Ṭhatvā idha yāvatāyukaṁ vimāne,"
+    },
+    {
+      "id": "ja546:289.4",
+      "pali": "Uddhaṁ ito gacchasi devalokaṁ”."
+    },
+    {
+      "id": "ja546:290.1",
+      "pali": "“Addhā hi so socati rājaseṭṭho,"
+    },
+    {
+      "id": "ja546:290.2",
+      "pali": "Tayā vinā yassa tuvaṁ sajibbo;"
+    },
+    {
+      "id": "ja546:290.3",
+      "pali": "Dukkhūpanītopi tayā samecca,"
+    },
+    {
+      "id": "ja546:290.4",
+      "pali": "Vindeyya poso sukhamāturopi”."
+    },
+    {
+      "id": "ja546:291.1",
+      "pali": "“Addhā sataṁ bhāsasi nāgi dhammaṁ,"
+    },
+    {
+      "id": "ja546:291.2",
+      "pali": "Anuttaraṁ atthapadaṁ suciṇṇaṁ;"
+    },
+    {
+      "id": "ja546:291.3",
+      "pali": "Etādisiyāsu hi āpadāsu,"
+    },
+    {
+      "id": "ja546:291.4",
+      "pali": "Paññāyate mādisānaṁ viseso”."
+    },
+    {
+      "id": "ja546:292.1",
+      "pali": "“Akkhāhi no tāyaṁ mudhā nu laddho,"
+    },
+    {
+      "id": "ja546:292.2",
+      "pali": "Akkhehi no tāyaṁ ajesi jūte;"
+    },
+    {
+      "id": "ja546:292.3",
+      "pali": "Dhammena laddho iti tāyamāha,"
+    },
+    {
+      "id": "ja546:292.4",
+      "pali": "Kathaṁ nu tvaṁ hatthamimassa māgato”."
+    },
+    {
+      "id": "ja546:293.1",
+      "pali": "“Yo missaro tattha ahosi rājā,"
+    },
+    {
+      "id": "ja546:293.2",
+      "pali": "Tamāyamakkhehi ajesi jūte;"
+    },
+    {
+      "id": "ja546:293.3",
+      "pali": "So maṁ jito rājā imassadāsi,"
+    },
+    {
+      "id": "ja546:293.4",
+      "pali": "Dhammena laddhosmi asāhasena”."
+    },
+    {
+      "id": "ja546:294.1",
+      "pali": "Yatheva varuṇo nāgo,"
+    },
+    {
+      "id": "ja546:294.2",
+      "pali": "pañhaṁ pucchittha paṇḍitaṁ;"
+    },
+    {
+      "id": "ja546:294.3",
+      "pali": "Tatheva nāgakaññāpi,"
+    },
+    {
+      "id": "ja546:294.4",
+      "pali": "pañhaṁ pucchittha paṇḍitaṁ."
+    },
+    {
+      "id": "ja546:295.1",
+      "pali": "Yatheva varuṇaṁ nāgaṁ,"
+    },
+    {
+      "id": "ja546:295.2",
+      "pali": "dhīro tosesi pucchito;"
+    },
+    {
+      "id": "ja546:295.3",
+      "pali": "Tatheva nāgakaññampi,"
+    },
+    {
+      "id": "ja546:295.4",
+      "pali": "dhīro tosesi pucchito."
+    },
+    {
+      "id": "ja546:296.1",
+      "pali": "Ubhopi te attamane viditvā,"
+    },
+    {
+      "id": "ja546:296.2",
+      "pali": "Mahoragaṁ nāgakaññañca dhīro;"
+    },
+    {
+      "id": "ja546:296.3",
+      "pali": "Achambhī abhīto alomahaṭṭho,"
+    },
+    {
+      "id": "ja546:296.4",
+      "pali": "Iccabravi varuṇaṁ nāgarājānaṁ."
+    },
+    {
+      "id": "ja546:297.1",
+      "pali": "“Mā rodhayi nāga āyāhamasmi,"
+    },
+    {
+      "id": "ja546:297.2",
+      "pali": "Yena tavattho idaṁ sarīraṁ;"
+    },
+    {
+      "id": "ja546:297.3",
+      "pali": "Hadayena maṁsena karohi kiccaṁ,"
+    },
+    {
+      "id": "ja546:297.4",
+      "pali": "Sayaṁ karissāmi yathāmati te”."
+    },
+    {
+      "id": "ja546:298.1",
+      "pali": "“Paññā have hadayaṁ paṇḍitānaṁ,"
+    },
+    {
+      "id": "ja546:298.2",
+      "pali": "Te tyamha paññāya mayaṁ sutuṭṭhā;"
+    },
+    {
+      "id": "ja546:298.3",
+      "pali": "Anūnanāmo labhatajja dāraṁ,"
+    },
+    {
+      "id": "ja546:298.4",
+      "pali": "Ajjeva taṁ kuruyo pāpayātu”."
+    },
+    {
+      "id": "ja546:299.1",
+      "pali": "Sa puṇṇako attamano udaggo,"
+    },
+    {
+      "id": "ja546:299.2",
+      "pali": "Irandhatiṁ nāgakaññaṁ labhitvā;"
+    },
+    {
+      "id": "ja546:299.3",
+      "pali": "Haṭṭhena bhāvena patītarūpo,"
+    },
+    {
+      "id": "ja546:299.4",
+      "pali": "Iccabravi kurūnaṁ kattuseṭṭhaṁ."
+    },
+    {
+      "id": "ja546:300.1",
+      "pali": "“Bhariyāya maṁ tvaṁ akari samaṅgiṁ,"
+    },
+    {
+      "id": "ja546:300.2",
+      "pali": "Ahañca te vidhura karomi kiccaṁ;"
+    },
+    {
+      "id": "ja546:300.3",
+      "pali": "Idañca te maṇiratanaṁ dadāmi,"
+    },
+    {
+      "id": "ja546:300.4",
+      "pali": "Ajjeva taṁ kuruyo pāpayāmi”."
+    },
+    {
+      "id": "ja546:301.1",
+      "pali": "“Ajeyyamesā tava hotu metti,"
+    },
+    {
+      "id": "ja546:301.2",
+      "pali": "Bhariyāya kaccāna piyāya saddhiṁ;"
+    },
+    {
+      "id": "ja546:301.3",
+      "pali": "Ānandi vitto sumano patīto,"
+    },
+    {
+      "id": "ja546:301.4",
+      "pali": "Datvā maṇiṁ mañca nayindapatthaṁ”."
+    },
+    {
+      "id": "ja546:302.1",
+      "pali": "Sa puṇṇako kurūnaṁ kattuseṭṭhaṁ,"
+    },
+    {
+      "id": "ja546:302.2",
+      "pali": "Nisīdayī purato āsanasmiṁ;"
+    },
+    {
+      "id": "ja546:302.3",
+      "pali": "Ādāya kattāramanomapaññaṁ,"
+    },
+    {
+      "id": "ja546:302.4",
+      "pali": "Upānayī nagaraṁ indapatthaṁ."
+    },
+    {
+      "id": "ja546:303.1",
+      "pali": "Mano manussassa yathāpi gacche,"
+    },
+    {
+      "id": "ja546:303.2",
+      "pali": "Tatopissa khippataraṁ ahosi;"
+    },
+    {
+      "id": "ja546:303.3",
+      "pali": "Sa puṇṇako kurūnaṁ kattuseṭṭhaṁ,"
+    },
+    {
+      "id": "ja546:303.4",
+      "pali": "Upānayī nagaraṁ indapatthaṁ."
+    },
+    {
+      "id": "ja546:304.1",
+      "pali": "“Etindapatthaṁ nagaraṁ padissati,"
+    },
+    {
+      "id": "ja546:304.2",
+      "pali": "Rammāni ca ambavanāni bhāgaso;"
+    },
+    {
+      "id": "ja546:304.3",
+      "pali": "Ahañca bhariyāya samaṅgibhūto,"
+    },
+    {
+      "id": "ja546:304.4",
+      "pali": "Tuvañca pattosi sakaṁ niketaṁ”."
+    },
+    {
+      "id": "ja546:305.1",
+      "pali": "Sa puṇṇako kurūnaṁ kattuseṭṭhaṁ,"
+    },
+    {
+      "id": "ja546:305.2",
+      "pali": "Oropiya dhammasabhāya majjhe;"
+    },
+    {
+      "id": "ja546:305.3",
+      "pali": "Ājaññamāruyha anomavaṇṇo,"
+    },
+    {
+      "id": "ja546:305.4",
+      "pali": "Pakkāmi vehāyasamantalikkhe."
+    },
+    {
+      "id": "ja546:306.1",
+      "pali": "Taṁ disvā rājā paramappatīto,"
+    },
+    {
+      "id": "ja546:306.2",
+      "pali": "Uṭṭhāya bāhāhi palissajitvā;"
+    },
+    {
+      "id": "ja546:306.3",
+      "pali": "Avikampayaṁ dhammasabhāya majjhe,"
+    },
+    {
+      "id": "ja546:306.4",
+      "pali": "Nisīdayī pamukhamāsanasmiṁ."
+    },
+    {
+      "id": "ja546:307.1",
+      "pali": "“Tvaṁ no vinetāsi rathaṁva naddhaṁ,"
+    },
+    {
+      "id": "ja546:307.2",
+      "pali": "Nandanti taṁ kuruyo dassanena;"
+    },
+    {
+      "id": "ja546:307.3",
+      "pali": "Akkhāhi me pucchito etamatthaṁ,"
+    },
+    {
+      "id": "ja546:307.4",
+      "pali": "Kathaṁ pamokkho ahu māṇavassa”."
+    },
+    {
+      "id": "ja546:308.1",
+      "pali": "“Yaṁ māṇavotyābhivadī janinda,"
+    },
+    {
+      "id": "ja546:308.2",
+      "pali": "Na so manusso naravīraseṭṭha;"
+    },
+    {
+      "id": "ja546:308.3",
+      "pali": "Yadi te suto puṇṇako nāma yakkho,"
+    },
+    {
+      "id": "ja546:308.4",
+      "pali": "Rañño kuverassa hi so sajibbo."
+    },
+    {
+      "id": "ja546:309.1",
+      "pali": "Bhūmindharo varuṇo nāma nāgo,"
+    },
+    {
+      "id": "ja546:309.2",
+      "pali": "Brahā sucī vaṇṇabalūpapanno;"
+    },
+    {
+      "id": "ja546:309.3",
+      "pali": "Tassānujaṁ dhītaraṁ kāmayāno,"
+    },
+    {
+      "id": "ja546:309.4",
+      "pali": "Irandhatī nāma sā nāgakaññā."
+    },
+    {
+      "id": "ja546:310.1",
+      "pali": "Tassā sumajjhāya piyāya hetu,"
+    },
+    {
+      "id": "ja546:310.2",
+      "pali": "Patārayittha maraṇāya mayhaṁ;"
+    },
+    {
+      "id": "ja546:310.3",
+      "pali": "So ceva bhariyāya samaṅgibhūto,"
+    },
+    {
+      "id": "ja546:310.4",
+      "pali": "Ahañca anuññāto maṇi ca laddho”."
+    },
+    {
+      "id": "ja546:311.1",
+      "pali": "“Rukkho hi mayhaṁ padvāre sujāto,"
+    },
+    {
+      "id": "ja546:311.2",
+      "pali": "Paññākkhandho sīlamayassa sākhā;"
+    },
+    {
+      "id": "ja546:311.3",
+      "pali": "Atthe ca dhamme ca ṭhito nipāko,"
+    },
+    {
+      "id": "ja546:311.4",
+      "pali": "Gavapphalo hatthigavāssachanno."
+    },
+    {
+      "id": "ja546:312.1",
+      "pali": "Naccagītatūriyābhinādite,"
+    },
+    {
+      "id": "ja546:312.2",
+      "pali": "Ucchijja senaṁ puriso ahāsi;"
+    },
+    {
+      "id": "ja546:312.3",
+      "pali": "So no ayaṁ āgato sanniketaṁ,"
+    },
+    {
+      "id": "ja546:312.4",
+      "pali": "Rukkhassimassāpacitiṁ karotha."
+    },
+    {
+      "id": "ja546:313.1",
+      "pali": "Ye keci vittā mama paccayena,"
+    },
+    {
+      "id": "ja546:313.2",
+      "pali": "Sabbeva te pātukarontu ajja;"
+    },
+    {
+      "id": "ja546:313.3",
+      "pali": "Tibbāni katvāna upāyanāni,"
+    },
+    {
+      "id": "ja546:313.4",
+      "pali": "Rukkhassimassāpacitiṁ karotha."
+    },
+    {
+      "id": "ja546:314.1",
+      "pali": "Ye keci baddhā mama atthi raṭṭhe,"
+    },
+    {
+      "id": "ja546:314.2",
+      "pali": "Sabbeva te bandhanā mocayantu;"
+    },
+    {
+      "id": "ja546:314.3",
+      "pali": "Yatheva yaṁ bandhanasmā pamutto,"
+    },
+    {
+      "id": "ja546:314.4",
+      "pali": "Evamete muñcare bandhanasmā."
+    },
+    {
+      "id": "ja546:315.1",
+      "pali": "Unnaṅgalā māsamimaṁ karontu,"
+    },
+    {
+      "id": "ja546:315.2",
+      "pali": "Maṁsodanaṁ brāhmaṇā bhakkhayantu;"
+    },
+    {
+      "id": "ja546:315.3",
+      "pali": "Amajjapā majjarahā pivantu,"
+    },
+    {
+      "id": "ja546:315.4",
+      "pali": "Puṇṇāhi thālāhi palissutāhi."
+    },
+    {
+      "id": "ja546:316.1",
+      "pali": "Mahāpathaṁ nicca samavhayantu,"
+    },
+    {
+      "id": "ja546:316.2",
+      "pali": "Tibbañca rakkhaṁ vidahantu raṭṭhe;"
+    },
+    {
+      "id": "ja546:316.3",
+      "pali": "Yathāññamaññaṁ na viheṭhayeyyuṁ,"
+    },
+    {
+      "id": "ja546:316.4",
+      "pali": "Rukkhassimassāpacitiṁ karotha”."
+    },
+    {
+      "id": "ja546:317.1",
+      "pali": "Orodhā ca kumārā ca,"
+    },
+    {
+      "id": "ja546:317.2",
+      "pali": "vesiyānā ca brāhmaṇā;"
+    },
+    {
+      "id": "ja546:317.3",
+      "pali": "Bahuṁ annañca pānañca,"
+    },
+    {
+      "id": "ja546:317.4",
+      "pali": "paṇḍitassābhihārayuṁ."
+    },
+    {
+      "id": "ja546:318.1",
+      "pali": "Hatthārohā anīkaṭṭhā,"
+    },
+    {
+      "id": "ja546:318.2",
+      "pali": "rathikā pattikārakā;"
+    },
+    {
+      "id": "ja546:318.3",
+      "pali": "Bahuṁ annañca pānañca,"
+    },
+    {
+      "id": "ja546:318.4",
+      "pali": "paṇḍitassābhihārayuṁ."
+    },
+    {
+      "id": "ja546:319.1",
+      "pali": "Samāgatā jānapadā,"
+    },
+    {
+      "id": "ja546:319.2",
+      "pali": "negamā ca samāgatā;"
+    },
+    {
+      "id": "ja546:319.3",
+      "pali": "Bahuṁ annañca pānañca,"
+    },
+    {
+      "id": "ja546:319.4",
+      "pali": "paṇḍitassābhihārayuṁ."
+    },
+    {
+      "id": "ja546:320.1",
+      "pali": "Bahujano pasannosi,"
+    },
+    {
+      "id": "ja546:320.2",
+      "pali": "disvā paṇḍitamāgate;"
+    },
+    {
+      "id": "ja546:320.3",
+      "pali": "Paṇḍitamhi anuppatte,"
+    },
+    {
+      "id": "ja546:320.4",
+      "pali": "celukkhepo pavattathāti."
+    },
+    {
+      "id": "ja546:321.1",
+      "pali": "Vidhurajātakaṁ navamaṁ."
+    }
+  ]
+}

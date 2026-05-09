@@ -1,0 +1,1747 @@
+{
+  "uid": "dn3",
+  "title": "Ambaṭṭhasutta",
+  "nikaya": "dn",
+  "segments": [
+    {
+      "id": "dn3:1.1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "dn3:1.1.2",
+      "pali": "ekaṁ samayaṁ bhagavā kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena icchānaṅgalaṁ nāma kosalānaṁ brāhmaṇagāmo tadavasari."
+    },
+    {
+      "id": "dn3:1.1.3",
+      "pali": "Tatra sudaṁ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe."
+    },
+    {
+      "id": "dn3:1.2.0",
+      "pali": "1. Pokkharasātivatthu"
+    },
+    {
+      "id": "dn3:1.2.1",
+      "pali": "Tena kho pana samayena brāhmaṇo pokkharasāti ukkaṭṭhaṁ ajjhāvasati sattussadaṁ satiṇakaṭṭhodakaṁ sadhaññaṁ rājabhoggaṁ raññā pasenadinā kosalena dinnaṁ rājadāyaṁ brahmadeyyaṁ."
+    },
+    {
+      "id": "dn3:1.2.2",
+      "pali": "Assosi kho brāhmaṇo pokkharasāti:"
+    },
+    {
+      "id": "dn3:1.2.3",
+      "pali": "“samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi icchānaṅgalaṁ anuppatto icchānaṅgale viharati icchānaṅgalavanasaṇḍe."
+    },
+    {
+      "id": "dn3:1.2.4",
+      "pali": "Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato—"
+    },
+    {
+      "id": "dn3:1.2.5",
+      "pali": "‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā.’"
+    },
+    {
+      "id": "dn3:1.2.6",
+      "pali": "So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti."
+    },
+    {
+      "id": "dn3:1.2.7",
+      "pali": "So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ, sātthaṁ sabyañjanaṁ, kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti."
+    },
+    {
+      "id": "dn3:1.2.8",
+      "pali": "Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti."
+    },
+    {
+      "id": "dn3:1.3.0",
+      "pali": "2. Ambaṭṭhamāṇava"
+    },
+    {
+      "id": "dn3:1.3.1",
+      "pali": "Tena kho pana samayena brāhmaṇassa pokkharasātissa ambaṭṭho nāma māṇavo antevāsī hoti ajjhāyako mantadharo tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ padako veyyākaraṇo lokāyatamahāpurisalakkhaṇesu anavayo anuññātapaṭiññāto sake ācariyake tevijjake pāvacane:"
+    },
+    {
+      "id": "dn3:1.3.2",
+      "pali": "“yamahaṁ jānāmi taṁ tvaṁ jānāsi;"
+    },
+    {
+      "id": "dn3:1.3.3",
+      "pali": "yaṁ tvaṁ jānāsi tamahaṁ jānāmī”ti."
+    },
+    {
+      "id": "dn3:1.4.1",
+      "pali": "Atha kho brāhmaṇo pokkharasāti ambaṭṭhaṁ māṇavaṁ āmantesi:"
+    },
+    {
+      "id": "dn3:1.4.2",
+      "pali": "“ayaṁ, tāta ambaṭṭha, samaṇo gotamo sakyaputto sakyakulā pabbajito kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi icchānaṅgalaṁ anuppatto icchānaṅgale viharati icchānaṅgalavanasaṇḍe."
+    },
+    {
+      "id": "dn3:1.4.3",
+      "pali": "Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato:"
+    },
+    {
+      "id": "dn3:1.4.4",
+      "pali": "‘itipi so bhagavā, arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā."
+    },
+    {
+      "id": "dn3:1.4.5",
+      "pali": "So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti."
+    },
+    {
+      "id": "dn3:1.4.6",
+      "pali": "So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ, sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti."
+    },
+    {
+      "id": "dn3:1.4.7",
+      "pali": "Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī’ti."
+    },
+    {
+      "id": "dn3:1.4.8",
+      "pali": "Ehi tvaṁ, tāta ambaṭṭha, yena samaṇo gotamo tenupasaṅkama; upasaṅkamitvā samaṇaṁ gotamaṁ jānāhi, yadi vā taṁ bhavantaṁ gotamaṁ tathāsantaṁyeva saddo abbhuggato, yadi vā no tathā."
+    },
+    {
+      "id": "dn3:1.4.9",
+      "pali": "Yadi vā so bhavaṁ gotamo tādiso, yadi vā na tādiso, tathā mayaṁ taṁ bhavantaṁ gotamaṁ vedissāmā”ti."
+    },
+    {
+      "id": "dn3:1.5.1",
+      "pali": "“Yathā kathaṁ panāhaṁ, bho, taṁ bhavantaṁ gotamaṁ jānissāmi: ‘yadi vā taṁ bhavantaṁ gotamaṁ tathāsantaṁyeva saddo abbhuggato, yadi vā no tathā. Yadi vā so bhavaṁ gotamo tādiso, yadi vā na tādiso’”ti?"
+    },
+    {
+      "id": "dn3:1.5.2",
+      "pali": "“Āgatāni kho, tāta ambaṭṭha, amhākaṁ mantesu dvattiṁsa mahāpurisalakkhaṇāni, yehi samannāgatassa mahāpurisassa dveyeva gatiyo bhavanti anaññā."
+    },
+    {
+      "id": "dn3:1.5.3",
+      "pali": "Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato."
+    },
+    {
+      "id": "dn3:1.5.4",
+      "pali": "Tassimāni satta ratanāni bhavanti."
+    },
+    {
+      "id": "dn3:1.5.5",
+      "pali": "Seyyathidaṁ—cakkaratanaṁ, hatthiratanaṁ, assaratanaṁ, maṇiratanaṁ, itthiratanaṁ, gahapatiratanaṁ, pariṇāyakaratanameva sattamaṁ."
+    },
+    {
+      "id": "dn3:1.5.6",
+      "pali": "Parosahassaṁ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā."
+    },
+    {
+      "id": "dn3:1.5.7",
+      "pali": "So imaṁ pathaviṁ sāgarapariyantaṁ adaṇḍena asatthena dhammena abhivijiya ajjhāvasati."
+    },
+    {
+      "id": "dn3:1.5.8",
+      "pali": "Sace kho pana agārasmā anagāriyaṁ pabbajati, arahaṁ hoti sammāsambuddho loke vivaṭṭacchado."
+    },
+    {
+      "id": "dn3:1.5.9",
+      "pali": "Ahaṁ kho pana, tāta ambaṭṭha, mantānaṁ dātā;"
+    },
+    {
+      "id": "dn3:1.5.10",
+      "pali": "tvaṁ mantānaṁ paṭiggahetā”ti."
+    },
+    {
+      "id": "dn3:1.6.1",
+      "pali": "“Evaṁ, bho”ti kho ambaṭṭho māṇavo brāhmaṇassa pokkharasātissa paṭissutvā uṭṭhāyāsanā brāhmaṇaṁ pokkharasātiṁ abhivādetvā padakkhiṇaṁ katvā vaḷavārathamāruyha sambahulehi māṇavakehi saddhiṁ yena icchānaṅgalavanasaṇḍo tena pāyāsi."
+    },
+    {
+      "id": "dn3:1.6.2",
+      "pali": "Yāvatikā yānassa bhūmi yānena gantvā yānā paccorohitvā pattikova ārāmaṁ pāvisi."
+    },
+    {
+      "id": "dn3:1.7.1",
+      "pali": "Tena kho pana samayena sambahulā bhikkhū abbhokāse caṅkamanti."
+    },
+    {
+      "id": "dn3:1.7.2",
+      "pali": "Atha kho ambaṭṭho māṇavo yena te bhikkhū tenupasaṅkami; upasaṅkamitvā te bhikkhū etadavoca:"
+    },
+    {
+      "id": "dn3:1.7.3",
+      "pali": "“kahaṁ nu kho, bho, etarahi so bhavaṁ gotamo viharati?"
+    },
+    {
+      "id": "dn3:1.7.4",
+      "pali": "Tañhi mayaṁ bhavantaṁ gotamaṁ dassanāya idhūpasaṅkantā”ti."
+    },
+    {
+      "id": "dn3:1.8.1",
+      "pali": "Atha kho tesaṁ bhikkhūnaṁ etadahosi:"
+    },
+    {
+      "id": "dn3:1.8.2",
+      "pali": "“ayaṁ kho ambaṭṭho māṇavo abhiññātakolañño ceva abhiññātassa ca brāhmaṇassa pokkharasātissa antevāsī."
+    },
+    {
+      "id": "dn3:1.8.3",
+      "pali": "Agaru kho pana bhagavato evarūpehi kulaputtehi saddhiṁ kathāsallāpo hotī”ti."
+    },
+    {
+      "id": "dn3:1.8.4",
+      "pali": "Te ambaṭṭhaṁ māṇavaṁ etadavocuṁ:"
+    },
+    {
+      "id": "dn3:1.8.5",
+      "pali": "“eso, ambaṭṭha, vihāro saṁvutadvāro, tena appasaddo upasaṅkamitvā ataramāno āḷindaṁ pavisitvā ukkāsitvā aggaḷaṁ ākoṭehi, vivarissati te bhagavā dvāran”ti."
+    },
+    {
+      "id": "dn3:1.9.1",
+      "pali": "Atha kho ambaṭṭho māṇavo yena so vihāro saṁvutadvāro, tena appasaddo upasaṅkamitvā ataramāno āḷindaṁ pavisitvā ukkāsitvā aggaḷaṁ ākoṭesi. Vivari bhagavā dvāraṁ."
+    },
+    {
+      "id": "dn3:1.9.2",
+      "pali": "Pāvisi ambaṭṭho māṇavo. Māṇavakāpi pavisitvā bhagavatā saddhiṁ sammodiṁsu, sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu."
+    },
+    {
+      "id": "dn3:1.9.3",
+      "pali": "Ambaṭṭho pana māṇavo caṅkamantopi nisinnena bhagavatā kañci kañci kathaṁ sāraṇīyaṁ vītisāreti, ṭhitopi nisinnena bhagavatā kañci kañci kathaṁ sāraṇīyaṁ vītisāreti."
+    },
+    {
+      "id": "dn3:1.9.4",
+      "pali": "Atha kho bhagavā ambaṭṭhaṁ māṇavaṁ etadavoca:"
+    },
+    {
+      "id": "dn3:1.9.5",
+      "pali": "“evaṁ nu te, ambaṭṭha, brāhmaṇehi vuddhehi mahallakehi ācariyapācariyehi saddhiṁ kathāsallāpo hoti, yathayidaṁ caraṁ tiṭṭhaṁ nisinnena mayā kiñci kiñci kathaṁ sāraṇīyaṁ vītisāretī”ti?"
+    },
+    {
+      "id": "dn3:1.10.0",
+      "pali": "2.1. Paṭhamaibbhavāda"
+    },
+    {
+      "id": "dn3:1.10.1",
+      "pali": "“No hidaṁ, bho gotama."
+    },
+    {
+      "id": "dn3:1.10.2",
+      "pali": "Gacchanto vā hi, bho gotama, gacchantena brāhmaṇo brāhmaṇena saddhiṁ sallapitumarahati, ṭhito vā hi, bho gotama, ṭhitena brāhmaṇo brāhmaṇena saddhiṁ sallapitumarahati, nisinno vā hi, bho gotama, nisinnena brāhmaṇo brāhmaṇena saddhiṁ sallapitumarahati, sayāno vā hi, bho gotama, sayānena brāhmaṇo brāhmaṇena saddhiṁ sallapitumarahati."
+    },
+    {
+      "id": "dn3:1.10.3",
+      "pali": "Ye ca kho te, bho gotama, muṇḍakā samaṇakā ibbhā kaṇhā bandhupādāpaccā, tehipi me saddhiṁ evaṁ kathāsallāpo hoti, yathariva bhotā gotamenā”ti."
+    },
+    {
+      "id": "dn3:1.11.1",
+      "pali": "“Atthikavato kho pana te, ambaṭṭha, idhāgamanaṁ ahosi, yāyeva kho panatthāya āgaccheyyātha, tameva atthaṁ sādhukaṁ manasi kareyyātha."
+    },
+    {
+      "id": "dn3:1.11.2",
+      "pali": "Avusitavāyeva kho pana, bho, ayaṁ ambaṭṭho māṇavo vusitamānī kimaññatra avusitattā”ti."
+    },
+    {
+      "id": "dn3:1.12.1",
+      "pali": "Atha kho ambaṭṭho māṇavo bhagavatā avusitavādena vuccamāno kupito anattamano bhagavantaṁyeva khuṁsento bhagavantaṁyeva vambhento bhagavantaṁyeva upavadamāno:"
+    },
+    {
+      "id": "dn3:1.12.2",
+      "pali": "“samaṇo ca me bho gotamo pāpito bhavissatī”ti bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn3:1.12.3",
+      "pali": "“caṇḍā, bho gotama, sakyajāti;"
+    },
+    {
+      "id": "dn3:1.12.4",
+      "pali": "pharusā, bho gotama, sakyajāti;"
+    },
+    {
+      "id": "dn3:1.12.5",
+      "pali": "lahusā, bho gotama, sakyajāti;"
+    },
+    {
+      "id": "dn3:1.12.6",
+      "pali": "bhassā, bho gotama, sakyajāti;"
+    },
+    {
+      "id": "dn3:1.12.7",
+      "pali": "ibbhā santā ibbhā samānā na brāhmaṇe sakkaronti, na brāhmaṇe garuṁ karonti, na brāhmaṇe mānenti, na brāhmaṇe pūjenti, na brāhmaṇe apacāyanti."
+    },
+    {
+      "id": "dn3:1.12.8",
+      "pali": "Tayidaṁ, bho gotama, nacchannaṁ, tayidaṁ nappatirūpaṁ, yadime sakyā ibbhā santā ibbhā samānā na brāhmaṇe sakkaronti, na brāhmaṇe garuṁ karonti, na brāhmaṇe mānenti, na brāhmaṇe pūjenti, na brāhmaṇe apacāyantī”ti."
+    },
+    {
+      "id": "dn3:1.12.9",
+      "pali": "Itiha ambaṭṭho māṇavo idaṁ paṭhamaṁ sakyesu ibbhavādaṁ nipātesi."
+    },
+    {
+      "id": "dn3:1.13.0",
+      "pali": "2.2. Dutiyaibbhavāda"
+    },
+    {
+      "id": "dn3:1.13.1",
+      "pali": "“Kiṁ pana te, ambaṭṭha, sakyā aparaddhun”ti?"
+    },
+    {
+      "id": "dn3:1.13.2",
+      "pali": "“Ekamidāhaṁ, bho gotama, samayaṁ ācariyassa brāhmaṇassa pokkharasātissa kenacideva karaṇīyena kapilavatthuṁ agamāsiṁ."
+    },
+    {
+      "id": "dn3:1.13.3",
+      "pali": "Yena sakyānaṁ sandhāgāraṁ tenupasaṅkamiṁ."
+    },
+    {
+      "id": "dn3:1.13.4",
+      "pali": "Tena kho pana samayena sambahulā sakyā ceva sakyakumārā ca sandhāgāre uccesu āsanesu nisinnā honti aññamaññaṁ aṅgulipatodakehi sañjagghantā saṅkīḷantā, aññadatthu mamaññeva maññe anujagghantā, na maṁ koci āsanenapi nimantesi."
+    },
+    {
+      "id": "dn3:1.13.5",
+      "pali": "Tayidaṁ, bho gotama, nacchannaṁ, tayidaṁ nappatirūpaṁ, yadime sakyā ibbhā santā ibbhā samānā na brāhmaṇe sakkaronti, na brāhmaṇe garuṁ karonti, na brāhmaṇe mānenti, na brāhmaṇe pūjenti, na brāhmaṇe apacāyantī”ti."
+    },
+    {
+      "id": "dn3:1.13.6",
+      "pali": "Itiha ambaṭṭho māṇavo idaṁ dutiyaṁ sakyesu ibbhavādaṁ nipātesi."
+    },
+    {
+      "id": "dn3:1.14.0",
+      "pali": "2.3. Tatiyaibbhavāda"
+    },
+    {
+      "id": "dn3:1.14.1",
+      "pali": "“Laṭukikāpi kho, ambaṭṭha, sakuṇikā sake kulāvake kāmalāpinī hoti."
+    },
+    {
+      "id": "dn3:1.14.2",
+      "pali": "Sakaṁ kho panetaṁ, ambaṭṭha, sakyānaṁ yadidaṁ kapilavatthuṁ, nārahatāyasmā ambaṭṭho imāya appamattāya abhisajjitun”ti."
+    },
+    {
+      "id": "dn3:1.14.3",
+      "pali": "“Cattārome, bho gotama, vaṇṇā—"
+    },
+    {
+      "id": "dn3:1.14.4",
+      "pali": "khattiyā brāhmaṇā vessā suddā."
+    },
+    {
+      "id": "dn3:1.14.5",
+      "pali": "Imesañhi, bho gotama, catunnaṁ vaṇṇānaṁ tayo vaṇṇā—"
+    },
+    {
+      "id": "dn3:1.14.6",
+      "pali": "khattiyā ca vessā ca suddā ca—"
+    },
+    {
+      "id": "dn3:1.14.7",
+      "pali": "aññadatthu brāhmaṇasseva paricārakā sampajjanti."
+    },
+    {
+      "id": "dn3:1.14.8",
+      "pali": "Tayidaṁ, bho gotama, nacchannaṁ, tayidaṁ nappatirūpaṁ, yadime sakyā ibbhā santā ibbhā samānā na brāhmaṇe sakkaronti, na brāhmaṇe garuṁ karonti, na brāhmaṇe mānenti, na brāhmaṇe pūjenti, na brāhmaṇe apacāyantī”ti."
+    },
+    {
+      "id": "dn3:1.14.9",
+      "pali": "Itiha ambaṭṭho māṇavo idaṁ tatiyaṁ sakyesu ibbhavādaṁ nipātesi."
+    },
+    {
+      "id": "dn3:1.15.0",
+      "pali": "2.4. Dāsiputtavāda"
+    },
+    {
+      "id": "dn3:1.15.1",
+      "pali": "Atha kho bhagavato etadahosi:"
+    },
+    {
+      "id": "dn3:1.15.2",
+      "pali": "“atibāḷhaṁ kho ayaṁ ambaṭṭho māṇavo sakyesu ibbhavādena nimmādeti, yannūnāhaṁ gottaṁ puccheyyan”ti."
+    },
+    {
+      "id": "dn3:1.15.3",
+      "pali": "Atha kho bhagavā ambaṭṭhaṁ māṇavaṁ etadavoca:"
+    },
+    {
+      "id": "dn3:1.15.4",
+      "pali": "“kathaṁ gottosi, ambaṭṭhā”ti?"
+    },
+    {
+      "id": "dn3:1.15.5",
+      "pali": "“Kaṇhāyanohamasmi, bho gotamā”ti."
+    },
+    {
+      "id": "dn3:1.15.6",
+      "pali": "“Porāṇaṁ kho pana te, ambaṭṭha, mātāpettikaṁ nāmagottaṁ anussarato ayyaputtā sakyā bhavanti; dāsiputto tvamasi sakyānaṁ."
+    },
+    {
+      "id": "dn3:1.15.7",
+      "pali": "Sakyā kho pana, ambaṭṭha, rājānaṁ okkākaṁ pitāmahaṁ dahanti."
+    },
+    {
+      "id": "dn3:1.15.8",
+      "pali": "Bhūtapubbaṁ, ambaṭṭha, rājā okkāko yā sā mahesī piyā manāpā, tassā puttassa rajjaṁ pariṇāmetukāmo jeṭṭhakumāre raṭṭhasmā pabbājesi—"
+    },
+    {
+      "id": "dn3:1.15.9",
+      "pali": "okkāmukhaṁ karakaṇḍaṁ hatthinikaṁ sinisūraṁ."
+    },
+    {
+      "id": "dn3:1.15.10",
+      "pali": "Te raṭṭhasmā pabbājitā himavantapasse pokkharaṇiyā tīre mahāsākasaṇḍo, tattha vāsaṁ kappesuṁ."
+    },
+    {
+      "id": "dn3:1.15.11",
+      "pali": "Te jātisambhedabhayā sakāhi bhaginīhi saddhiṁ saṁvāsaṁ kappesuṁ."
+    },
+    {
+      "id": "dn3:1.15.12",
+      "pali": "Atha kho, ambaṭṭha, rājā okkāko amacce pārisajje āmantesi:"
+    },
+    {
+      "id": "dn3:1.15.13",
+      "pali": "‘kahaṁ nu kho, bho, etarahi kumārā sammantī’ti?"
+    },
+    {
+      "id": "dn3:1.15.14",
+      "pali": "‘Atthi, deva, himavantapasse pokkharaṇiyā tīre mahāsākasaṇḍo, tatthetarahi kumārā sammanti."
+    },
+    {
+      "id": "dn3:1.15.15",
+      "pali": "Te jātisambhedabhayā sakāhi bhaginīhi saddhiṁ saṁvāsaṁ kappentī’ti."
+    },
+    {
+      "id": "dn3:1.15.16",
+      "pali": "Atha kho, ambaṭṭha, rājā okkāko udānaṁ udānesi:"
+    },
+    {
+      "id": "dn3:1.15.17",
+      "pali": "‘sakyā vata, bho, kumārā, paramasakyā vata, bho, kumārā’ti."
+    },
+    {
+      "id": "dn3:1.15.18",
+      "pali": "Tadagge kho pana, ambaṭṭha, sakyā paññāyanti; so ca nesaṁ pubbapuriso."
+    },
+    {
+      "id": "dn3:1.16.1",
+      "pali": "Rañño kho pana, ambaṭṭha, okkākassa disā nāma dāsī ahosi."
+    },
+    {
+      "id": "dn3:1.16.2",
+      "pali": "Sā kaṇhaṁ nāma janesi."
+    },
+    {
+      "id": "dn3:1.16.3",
+      "pali": "Jāto kaṇho pabyāhāsi:"
+    },
+    {
+      "id": "dn3:1.16.4",
+      "pali": "‘dhovatha maṁ, amma, nahāpetha maṁ amma, imasmā maṁ asucismā parimocetha, atthāya vo bhavissāmī’ti."
+    },
+    {
+      "id": "dn3:1.16.5",
+      "pali": "Yathā kho pana, ambaṭṭha, etarahi manussā pisāce disvā ‘pisācā’ti sañjānanti;"
+    },
+    {
+      "id": "dn3:1.16.6",
+      "pali": "evameva kho, ambaṭṭha, tena kho pana samayena manussā pisāce ‘kaṇhā’ti sañjānanti."
+    },
+    {
+      "id": "dn3:1.16.7",
+      "pali": "Te evamāhaṁsu:"
+    },
+    {
+      "id": "dn3:1.16.8",
+      "pali": "‘ayaṁ jāto pabyāhāsi, kaṇho jāto, pisāco jāto’ti."
+    },
+    {
+      "id": "dn3:1.16.9",
+      "pali": "Tadagge kho pana, ambaṭṭha, kaṇhāyanā paññāyanti, so ca kaṇhāyanānaṁ pubbapuriso."
+    },
+    {
+      "id": "dn3:1.16.10",
+      "pali": "Iti kho te, ambaṭṭha, porāṇaṁ mātāpettikaṁ nāmagottaṁ anussarato ayyaputtā sakyā bhavanti, dāsiputto tvamasi sakyānan”ti."
+    },
+    {
+      "id": "dn3:1.17.1",
+      "pali": "Evaṁ vutte, te māṇavakā bhagavantaṁ etadavocuṁ:"
+    },
+    {
+      "id": "dn3:1.17.2",
+      "pali": "“mā bhavaṁ gotamo ambaṭṭhaṁ atibāḷhaṁ dāsiputtavādena nimmādesi."
+    },
+    {
+      "id": "dn3:1.17.3",
+      "pali": "Sujāto ca, bho gotama, ambaṭṭho māṇavo, kulaputto ca ambaṭṭho māṇavo, bahussuto ca ambaṭṭho māṇavo, kalyāṇavākkaraṇo ca ambaṭṭho māṇavo, paṇḍito ca ambaṭṭho māṇavo, pahoti ca ambaṭṭho māṇavo bhotā gotamena saddhiṁ asmiṁ vacane paṭimantetun”ti."
+    },
+    {
+      "id": "dn3:1.18.1",
+      "pali": "Atha kho bhagavā te māṇavake etadavoca:"
+    },
+    {
+      "id": "dn3:1.18.2",
+      "pali": "“sace kho tumhākaṁ māṇavakānaṁ evaṁ hoti:"
+    },
+    {
+      "id": "dn3:1.18.3",
+      "pali": "‘dujjāto ca ambaṭṭho māṇavo, akulaputto ca ambaṭṭho māṇavo, appassuto ca ambaṭṭho māṇavo, akalyāṇavākkaraṇo ca ambaṭṭho māṇavo, duppañño ca ambaṭṭho māṇavo, na ca pahoti ambaṭṭho māṇavo samaṇena gotamena saddhiṁ asmiṁ vacane paṭimantetun’ti, tiṭṭhatu ambaṭṭho māṇavo, tumhe mayā saddhiṁ mantavho asmiṁ vacane."
+    },
+    {
+      "id": "dn3:1.18.4",
+      "pali": "Sace pana tumhākaṁ māṇavakānaṁ evaṁ hoti:"
+    },
+    {
+      "id": "dn3:1.18.5",
+      "pali": "‘sujāto ca ambaṭṭho māṇavo, kulaputto ca ambaṭṭho māṇavo, bahussuto ca ambaṭṭho māṇavo, kalyāṇavākkaraṇo ca ambaṭṭho māṇavo, paṇḍito ca ambaṭṭho māṇavo, pahoti ca ambaṭṭho māṇavo samaṇena gotamena saddhiṁ asmiṁ vacane paṭimantetun’ti, tiṭṭhatha tumhe;"
+    },
+    {
+      "id": "dn3:1.18.6",
+      "pali": "ambaṭṭho māṇavo mayā saddhiṁ paṭimantetū”ti."
+    },
+    {
+      "id": "dn3:1.19.1",
+      "pali": "“Sujāto ca, bho gotama, ambaṭṭho māṇavo, kulaputto ca ambaṭṭho māṇavo, bahussuto ca ambaṭṭho māṇavo, kalyāṇavākkaraṇo ca ambaṭṭho māṇavo, paṇḍito ca ambaṭṭho māṇavo, pahoti ca ambaṭṭho māṇavo bhotā gotamena saddhiṁ asmiṁ vacane paṭimantetuṁ, tuṇhī mayaṁ bhavissāma, ambaṭṭho māṇavo bhotā gotamena saddhiṁ asmiṁ vacane paṭimantetū”ti."
+    },
+    {
+      "id": "dn3:1.20.1",
+      "pali": "Atha kho bhagavā ambaṭṭhaṁ māṇavaṁ etadavoca:"
+    },
+    {
+      "id": "dn3:1.20.2",
+      "pali": "“ayaṁ kho pana te, ambaṭṭha, sahadhammiko pañho āgacchati, akāmā byākātabbo."
+    },
+    {
+      "id": "dn3:1.20.3",
+      "pali": "Sace tvaṁ na byākarissasi, aññena vā aññaṁ paṭicarissasi, tuṇhī vā bhavissasi, pakkamissasi vā ettheva te sattadhā muddhā phalissati."
+    },
+    {
+      "id": "dn3:1.20.4",
+      "pali": "Taṁ kiṁ maññasi, ambaṭṭha,"
+    },
+    {
+      "id": "dn3:1.20.5",
+      "pali": "kinti te sutaṁ brāhmaṇānaṁ vuddhānaṁ mahallakānaṁ ācariyapācariyānaṁ bhāsamānānaṁ kutopabhutikā kaṇhāyanā, ko ca kaṇhāyanānaṁ pubbapuriso”ti?"
+    },
+    {
+      "id": "dn3:1.20.6",
+      "pali": "Evaṁ vutte, ambaṭṭho māṇavo tuṇhī ahosi."
+    },
+    {
+      "id": "dn3:1.20.7",
+      "pali": "Dutiyampi kho bhagavā ambaṭṭhaṁ māṇavaṁ etadavoca:"
+    },
+    {
+      "id": "dn3:1.20.8",
+      "pali": "“taṁ kiṁ maññasi, ambaṭṭha, kinti te sutaṁ brāhmaṇānaṁ vuddhānaṁ mahallakānaṁ ācariyapācariyānaṁ bhāsamānānaṁ kutopabhutikā kaṇhāyanā, ko ca kaṇhāyanānaṁ pubbapuriso”ti?"
+    },
+    {
+      "id": "dn3:1.20.9",
+      "pali": "Dutiyampi kho ambaṭṭho māṇavo tuṇhī ahosi."
+    },
+    {
+      "id": "dn3:1.20.10",
+      "pali": "Atha kho bhagavā ambaṭṭhaṁ māṇavaṁ etadavoca:"
+    },
+    {
+      "id": "dn3:1.20.11",
+      "pali": "“byākarohi dāni, ambaṭṭha, na dāni, te tuṇhībhāvassa kālo."
+    },
+    {
+      "id": "dn3:1.20.12",
+      "pali": "Yo kho, ambaṭṭha, tathāgatena yāvatatiyakaṁ sahadhammikaṁ pañhaṁ puṭṭho na byākaroti, etthevassa sattadhā muddhā phalissatī”ti."
+    },
+    {
+      "id": "dn3:1.21.1",
+      "pali": "Tena kho pana samayena vajirapāṇī yakkho mahantaṁ ayokūṭaṁ ādāya ādittaṁ sampajjalitaṁ sajotibhūtaṁ ambaṭṭhassa māṇavassa upari vehāsaṁ ṭhito hoti:"
+    },
+    {
+      "id": "dn3:1.21.2",
+      "pali": "“sacāyaṁ ambaṭṭho māṇavo bhagavatā yāvatatiyakaṁ sahadhammikaṁ pañhaṁ puṭṭho na byākarissati, etthevassa sattadhā muddhaṁ phālessāmī”ti."
+    },
+    {
+      "id": "dn3:1.21.3",
+      "pali": "Taṁ kho pana vajirapāṇiṁ yakkhaṁ bhagavā ceva passati ambaṭṭho ca māṇavo."
+    },
+    {
+      "id": "dn3:1.21.4",
+      "pali": "Atha kho ambaṭṭho māṇavo bhīto saṁviggo lomahaṭṭhajāto bhagavantaṁyeva tāṇaṁ gavesī bhagavantaṁyeva leṇaṁ gavesī bhagavantaṁyeva saraṇaṁ gavesī upanisīditvā bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn3:1.21.5",
+      "pali": "“kimetaṁ bhavaṁ gotamo āha?"
+    },
+    {
+      "id": "dn3:1.21.6",
+      "pali": "Punabhavaṁ gotamo bravitū”ti."
+    },
+    {
+      "id": "dn3:1.21.7",
+      "pali": "“Taṁ kiṁ maññasi, ambaṭṭha,"
+    },
+    {
+      "id": "dn3:1.21.8",
+      "pali": "kinti te sutaṁ brāhmaṇānaṁ vuddhānaṁ mahallakānaṁ ācariyapācariyānaṁ bhāsamānānaṁ kutopabhutikā kaṇhāyanā, ko ca kaṇhāyanānaṁ pubbapuriso”ti?"
+    },
+    {
+      "id": "dn3:1.21.9",
+      "pali": "“Evameva me, bho gotama, sutaṁ yatheva bhavaṁ gotamo āha."
+    },
+    {
+      "id": "dn3:1.21.10",
+      "pali": "Tatopabhutikā kaṇhāyanā;"
+    },
+    {
+      "id": "dn3:1.21.11",
+      "pali": "so ca kaṇhāyanānaṁ pubbapuriso”ti."
+    },
+    {
+      "id": "dn3:1.22.0",
+      "pali": "2.5. Ambaṭṭhavaṁsakathā"
+    },
+    {
+      "id": "dn3:1.22.1",
+      "pali": "Evaṁ vutte, te māṇavakā unnādino uccāsaddamahāsaddā ahesuṁ:"
+    },
+    {
+      "id": "dn3:1.22.2",
+      "pali": "“dujjāto kira, bho, ambaṭṭho māṇavo; akulaputto kira, bho, ambaṭṭho māṇavo; dāsiputto kira, bho, ambaṭṭho māṇavo sakyānaṁ. Ayyaputtā kira, bho, ambaṭṭhassa māṇavassa sakyā bhavanti."
+    },
+    {
+      "id": "dn3:1.22.3",
+      "pali": "Dhammavādiṁyeva kira mayaṁ samaṇaṁ gotamaṁ apasādetabbaṁ amaññimhā”ti."
+    },
+    {
+      "id": "dn3:1.23.1",
+      "pali": "Atha kho bhagavato etadahosi:"
+    },
+    {
+      "id": "dn3:1.23.2",
+      "pali": "“atibāḷhaṁ kho ime māṇavakā ambaṭṭhaṁ māṇavaṁ dāsiputtavādena nimmādenti, yannūnāhaṁ parimoceyyan”ti."
+    },
+    {
+      "id": "dn3:1.23.3",
+      "pali": "Atha kho bhagavā te māṇavake etadavoca:"
+    },
+    {
+      "id": "dn3:1.23.4",
+      "pali": "“mā kho tumhe, māṇavakā, ambaṭṭhaṁ māṇavaṁ atibāḷhaṁ dāsiputtavādena nimmādetha."
+    },
+    {
+      "id": "dn3:1.23.5",
+      "pali": "Uḷāro so kaṇho isi ahosi."
+    },
+    {
+      "id": "dn3:1.23.6",
+      "pali": "So dakkhiṇajanapadaṁ gantvā brahmamante adhīyitvā rājānaṁ okkākaṁ upasaṅkamitvā maddarūpiṁ dhītaraṁ yāci."
+    },
+    {
+      "id": "dn3:1.23.7",
+      "pali": "Tassa rājā okkāko:"
+    },
+    {
+      "id": "dn3:1.23.8",
+      "pali": "‘ko nevaṁ re ayaṁ mayhaṁ dāsiputto samāno maddarūpiṁ dhītaraṁ yācatī’ti, kupito anattamano khurappaṁ sannayhi."
+    },
+    {
+      "id": "dn3:1.23.9",
+      "pali": "So taṁ khurappaṁ neva asakkhi muñcituṁ, no paṭisaṁharituṁ."
+    },
+    {
+      "id": "dn3:1.23.10",
+      "pali": "Atha kho, māṇavakā, amaccā pārisajjā kaṇhaṁ isiṁ upasaṅkamitvā etadavocuṁ:"
+    },
+    {
+      "id": "dn3:1.23.11",
+      "pali": "‘sotthi, bhaddante, hotu rañño;"
+    },
+    {
+      "id": "dn3:1.23.12",
+      "pali": "sotthi, bhaddante, hotu rañño’ti."
+    },
+    {
+      "id": "dn3:1.23.13",
+      "pali": "‘Sotthi bhavissati rañño, api ca rājā yadi adho khurappaṁ muñcissati, yāvatā rañño vijitaṁ, ettāvatā pathavī undriyissatī’ti."
+    },
+    {
+      "id": "dn3:1.23.14",
+      "pali": "‘Sotthi, bhaddante, hotu rañño, sotthi janapadassā’ti."
+    },
+    {
+      "id": "dn3:1.23.15",
+      "pali": "‘Sotthi bhavissati rañño, sotthi janapadassa, api ca rājā yadi uddhaṁ khurappaṁ muñcissati, yāvatā rañño vijitaṁ, ettāvatā satta vassāni devo na vassissatī’ti."
+    },
+    {
+      "id": "dn3:1.23.16",
+      "pali": "‘Sotthi, bhaddante, hotu rañño sotthi janapadassa devo ca vassatū’ti."
+    },
+    {
+      "id": "dn3:1.23.17",
+      "pali": "‘Sotthi bhavissati rañño sotthi janapadassa devo ca vassissati, api ca rājā jeṭṭhakumāre khurappaṁ patiṭṭhāpetu, sotthi kumāro pallomo bhavissatī’ti."
+    },
+    {
+      "id": "dn3:1.23.18",
+      "pali": "Atha kho, māṇavakā, amaccā okkākassa ārocesuṁ:"
+    },
+    {
+      "id": "dn3:1.23.19",
+      "pali": "‘okkāko jeṭṭhakumāre khurappaṁ patiṭṭhāpetu. Sotthi kumāro pallomo bhavissatī’ti."
+    },
+    {
+      "id": "dn3:1.23.20",
+      "pali": "Atha kho rājā okkāko jeṭṭhakumāre khurappaṁ patiṭṭhapesi, sotthi kumāro pallomo samabhavi."
+    },
+    {
+      "id": "dn3:1.23.21",
+      "pali": "Atha kho tassa rājā okkāko bhīto saṁviggo lomahaṭṭhajāto brahmadaṇḍena tajjito maddarūpiṁ dhītaraṁ adāsi."
+    },
+    {
+      "id": "dn3:1.23.22",
+      "pali": "Mā kho tumhe, māṇavakā, ambaṭṭhaṁ māṇavaṁ atibāḷhaṁ dāsiputtavādena nimmādetha, uḷāro so kaṇho isi ahosī”ti."
+    },
+    {
+      "id": "dn3:1.24.0",
+      "pali": "3. Khattiyaseṭṭhabhāva"
+    },
+    {
+      "id": "dn3:1.24.1",
+      "pali": "Atha kho bhagavā ambaṭṭhaṁ māṇavaṁ āmantesi:"
+    },
+    {
+      "id": "dn3:1.24.2",
+      "pali": "“Taṁ kiṁ maññasi, ambaṭṭha,"
+    },
+    {
+      "id": "dn3:1.24.3",
+      "pali": "idha khattiyakumāro brāhmaṇakaññāya saddhiṁ saṁvāsaṁ kappeyya, tesaṁ saṁvāsamanvāya putto jāyetha."
+    },
+    {
+      "id": "dn3:1.24.4",
+      "pali": "Yo so khattiyakumārena brāhmaṇakaññāya putto uppanno, api nu so labhetha brāhmaṇesu āsanaṁ vā udakaṁ vā”ti?"
+    },
+    {
+      "id": "dn3:1.24.5",
+      "pali": "“Labhetha, bho gotama”."
+    },
+    {
+      "id": "dn3:1.24.6",
+      "pali": "“Api nu naṁ brāhmaṇā bhojeyyuṁ saddhe vā thālipāke vā yaññe vā pāhune vā”ti?"
+    },
+    {
+      "id": "dn3:1.24.7",
+      "pali": "“Bhojeyyuṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:1.24.8",
+      "pali": "“Api nu naṁ brāhmaṇā mante vāceyyuṁ vā no vā”ti?"
+    },
+    {
+      "id": "dn3:1.24.9",
+      "pali": "“Vāceyyuṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:1.24.10",
+      "pali": "“Api nussa itthīsu āvaṭaṁ vā assa anāvaṭaṁ vā”ti?"
+    },
+    {
+      "id": "dn3:1.24.11",
+      "pali": "“Anāvaṭaṁ hissa, bho gotama”."
+    },
+    {
+      "id": "dn3:1.24.12",
+      "pali": "“Api nu naṁ khattiyā khattiyābhisekena abhisiñceyyun”ti?"
+    },
+    {
+      "id": "dn3:1.24.13",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:1.24.14",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "dn3:1.24.15",
+      "pali": "“Mātito hi, bho gotama, anupapanno”ti."
+    },
+    {
+      "id": "dn3:1.25.1",
+      "pali": "“Taṁ kiṁ maññasi, ambaṭṭha,"
+    },
+    {
+      "id": "dn3:1.25.2",
+      "pali": "idha brāhmaṇakumāro khattiyakaññāya saddhiṁ saṁvāsaṁ kappeyya, tesaṁ saṁvāsamanvāya putto jāyetha."
+    },
+    {
+      "id": "dn3:1.25.3",
+      "pali": "Yo so brāhmaṇakumārena khattiyakaññāya putto uppanno, api nu so labhetha brāhmaṇesu āsanaṁ vā udakaṁ vā”ti?"
+    },
+    {
+      "id": "dn3:1.25.4",
+      "pali": "“Labhetha, bho gotama”."
+    },
+    {
+      "id": "dn3:1.25.5",
+      "pali": "“Api nu naṁ brāhmaṇā bhojeyyuṁ saddhe vā thālipāke vā yaññe vā pāhune vā”ti?"
+    },
+    {
+      "id": "dn3:1.25.6",
+      "pali": "“Bhojeyyuṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:1.25.7",
+      "pali": "“Api nu naṁ brāhmaṇā mante vāceyyuṁ vā no vā”ti?"
+    },
+    {
+      "id": "dn3:1.25.8",
+      "pali": "“Vāceyyuṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:1.25.9",
+      "pali": "“Api nussa itthīsu āvaṭaṁ vā assa anāvaṭaṁ vā”ti?"
+    },
+    {
+      "id": "dn3:1.25.10",
+      "pali": "“Anāvaṭaṁ hissa, bho gotama”."
+    },
+    {
+      "id": "dn3:1.25.11",
+      "pali": "“Api nu naṁ khattiyā khattiyābhisekena abhisiñceyyun”ti?"
+    },
+    {
+      "id": "dn3:1.25.12",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:1.25.13",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "dn3:1.25.14",
+      "pali": "“Pitito hi, bho gotama, anupapanno”ti."
+    },
+    {
+      "id": "dn3:1.26.1",
+      "pali": "“Iti kho, ambaṭṭha, itthiyā vā itthiṁ karitvā purisena vā purisaṁ karitvā khattiyāva seṭṭhā, hīnā brāhmaṇā."
+    },
+    {
+      "id": "dn3:1.26.2",
+      "pali": "Taṁ kiṁ maññasi, ambaṭṭha,"
+    },
+    {
+      "id": "dn3:1.26.3",
+      "pali": "idha brāhmaṇā brāhmaṇaṁ kismiñcideva pakaraṇe khuramuṇḍaṁ karitvā bhassapuṭena vadhitvā raṭṭhā vā nagarā vā pabbājeyyuṁ."
+    },
+    {
+      "id": "dn3:1.26.4",
+      "pali": "Api nu so labhetha brāhmaṇesu āsanaṁ vā udakaṁ vā”ti?"
+    },
+    {
+      "id": "dn3:1.26.5",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:1.26.6",
+      "pali": "“Api nu naṁ brāhmaṇā bhojeyyuṁ saddhe vā thālipāke vā yaññe vā pāhune vā”ti?"
+    },
+    {
+      "id": "dn3:1.26.7",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:1.26.8",
+      "pali": "“Api nu naṁ brāhmaṇā mante vāceyyuṁ vā no vā”ti?"
+    },
+    {
+      "id": "dn3:1.26.9",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:1.26.10",
+      "pali": "“Api nussa itthīsu āvaṭaṁ vā assa anāvaṭaṁ vā”ti?"
+    },
+    {
+      "id": "dn3:1.26.11",
+      "pali": "“Āvaṭaṁ hissa, bho gotama”."
+    },
+    {
+      "id": "dn3:1.27.1",
+      "pali": "“Taṁ kiṁ maññasi, ambaṭṭha,"
+    },
+    {
+      "id": "dn3:1.27.2",
+      "pali": "idha khattiyā khattiyaṁ kismiñcideva pakaraṇe khuramuṇḍaṁ karitvā bhassapuṭena vadhitvā raṭṭhā vā nagarā vā pabbājeyyuṁ."
+    },
+    {
+      "id": "dn3:1.27.3",
+      "pali": "Api nu so labhetha brāhmaṇesu āsanaṁ vā udakaṁ vā”ti?"
+    },
+    {
+      "id": "dn3:1.27.4",
+      "pali": "“Labhetha, bho gotama”."
+    },
+    {
+      "id": "dn3:1.27.5",
+      "pali": "“Api nu naṁ brāhmaṇā bhojeyyuṁ saddhe vā thālipāke vā yaññe vā pāhune vā”ti?"
+    },
+    {
+      "id": "dn3:1.27.6",
+      "pali": "“Bhojeyyuṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:1.27.7",
+      "pali": "“Api nu naṁ brāhmaṇā mante vāceyyuṁ vā no vā”ti?"
+    },
+    {
+      "id": "dn3:1.27.8",
+      "pali": "“Vāceyyuṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:1.27.9",
+      "pali": "“Api nussa itthīsu āvaṭaṁ vā assa anāvaṭaṁ vā”ti?"
+    },
+    {
+      "id": "dn3:1.27.10",
+      "pali": "“Anāvaṭaṁ hissa, bho gotama”."
+    },
+    {
+      "id": "dn3:1.27.11",
+      "pali": "“Ettāvatā kho, ambaṭṭha, khattiyo paramanihīnataṁ patto hoti, yadeva naṁ khattiyā khuramuṇḍaṁ karitvā bhassapuṭena vadhitvā raṭṭhā vā nagarā vā pabbājenti."
+    },
+    {
+      "id": "dn3:1.27.12",
+      "pali": "Iti kho, ambaṭṭha, yadā khattiyo paramanihīnataṁ patto hoti, tadāpi khattiyāva seṭṭhā, hīnā brāhmaṇā."
+    },
+    {
+      "id": "dn3:1.28.1",
+      "pali": "Brahmunā pesā, ambaṭṭha, sanaṅkumārena gāthā bhāsitā:"
+    },
+    {
+      "id": "dn3:1.28.2",
+      "pali": "‘Khattiyo seṭṭho janetasmiṁ,"
+    },
+    {
+      "id": "dn3:1.28.3",
+      "pali": "ye gottapaṭisārino;"
+    },
+    {
+      "id": "dn3:1.28.4",
+      "pali": "Vijjācaraṇasampanno,"
+    },
+    {
+      "id": "dn3:1.28.5",
+      "pali": "so seṭṭho devamānuse’ti."
+    },
+    {
+      "id": "dn3:1.28.6",
+      "pali": "Sā kho panesā, ambaṭṭha, brahmunā sanaṅkumārena gāthā sugītā no duggītā, subhāsitā no dubbhāsitā, atthasaṁhitā no anatthasaṁhitā, anumatā mayā."
+    },
+    {
+      "id": "dn3:1.28.7",
+      "pali": "Ahampi hi, ambaṭṭha, evaṁ vadāmi—"
+    },
+    {
+      "id": "dn3:1.28.8",
+      "pali": "Khattiyo seṭṭho janetasmiṁ,"
+    },
+    {
+      "id": "dn3:1.28.9",
+      "pali": "ye gottapaṭisārino;"
+    },
+    {
+      "id": "dn3:1.28.10",
+      "pali": "Vijjācaraṇasampanno,"
+    },
+    {
+      "id": "dn3:1.28.11",
+      "pali": "so seṭṭho devamānuse”ti."
+    },
+    {
+      "id": "dn3:1.28.12",
+      "pali": "Bhāṇavāro paṭhamo."
+    },
+    {
+      "id": "dn3:2.1.0",
+      "pali": "4. Vijjācaraṇakathā"
+    },
+    {
+      "id": "dn3:2.1.1",
+      "pali": "“Katamaṁ pana taṁ, bho gotama, caraṇaṁ, katamā ca pana sā vijjā”ti?"
+    },
+    {
+      "id": "dn3:2.1.2",
+      "pali": "“Na kho, ambaṭṭha, anuttarāya vijjācaraṇasampadāya jātivādo vā vuccati, gottavādo vā vuccati, mānavādo vā vuccati:"
+    },
+    {
+      "id": "dn3:2.1.3",
+      "pali": "‘arahasi vā maṁ tvaṁ, na vā maṁ tvaṁ arahasī’ti."
+    },
+    {
+      "id": "dn3:2.1.4",
+      "pali": "Yattha kho, ambaṭṭha, āvāho vā hoti, vivāho vā hoti, āvāhavivāho vā hoti, etthetaṁ vuccati jātivādo vā itipi gottavādo vā itipi mānavādo vā itipi:"
+    },
+    {
+      "id": "dn3:2.1.5",
+      "pali": "‘arahasi vā maṁ tvaṁ, na vā maṁ tvaṁ arahasī’ti."
+    },
+    {
+      "id": "dn3:2.1.6",
+      "pali": "Ye hi keci, ambaṭṭha, jātivādavinibaddhā vā gottavādavinibaddhā vā mānavādavinibaddhā vā āvāhavivāhavinibaddhā vā, ārakā te anuttarāya vijjācaraṇasampadāya."
+    },
+    {
+      "id": "dn3:2.1.7",
+      "pali": "Pahāya kho, ambaṭṭha, jātivādavinibaddhañca gottavādavinibaddhañca mānavādavinibaddhañca āvāhavivāhavinibaddhañca anuttarāya vijjācaraṇasampadāya sacchikiriyā hotī”ti."
+    },
+    {
+      "id": "dn3:2.2.1",
+      "pali": "“Katamaṁ pana taṁ, bho gotama, caraṇaṁ, katamā ca sā vijjā”ti?"
+    },
+    {
+      "id": "dn3:2.2.2",
+      "pali": "“Idha, ambaṭṭha, tathāgato loke uppajjati arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā."
+    },
+    {
+      "id": "dn3:2.2.3",
+      "pali": "So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti."
+    },
+    {
+      "id": "dn3:2.2.4",
+      "pali": "So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti."
+    },
+    {
+      "id": "dn3:2.2.5",
+      "pali": "Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto."
+    },
+    {
+      "id": "dn3:2.2.6",
+      "pali": "So taṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhati."
+    },
+    {
+      "id": "dn3:2.2.7",
+      "pali": "So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati …pe…"
+    },
+    {
+      "id": "dn3:2.2.8",
+      "pali": "So vivicceva kāmehi, vivicca akusalehi dhammehi, savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati …pe…"
+    },
+    {
+      "id": "dn3:2.2.9",
+      "pali": "idampissa hoti caraṇasmiṁ."
+    },
+    {
+      "id": "dn3:2.2.10",
+      "pali": "Puna caparaṁ, ambaṭṭha, bhikkhu vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati …pe…"
+    },
+    {
+      "id": "dn3:2.2.11",
+      "pali": "idampissa hoti caraṇasmiṁ."
+    },
+    {
+      "id": "dn3:2.2.12",
+      "pali": "Puna caparaṁ, ambaṭṭha, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti, tatiyaṁ jhānaṁ upasampajja viharati …pe…"
+    },
+    {
+      "id": "dn3:2.2.13",
+      "pali": "idampissa hoti caraṇasmiṁ."
+    },
+    {
+      "id": "dn3:2.2.14",
+      "pali": "Puna caparaṁ, ambaṭṭha, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati …pe…"
+    },
+    {
+      "id": "dn3:2.2.15",
+      "pali": "idampissa hoti caraṇasmiṁ."
+    },
+    {
+      "id": "dn3:2.2.16",
+      "pali": "Idaṁ kho taṁ, ambaṭṭha, caraṇaṁ."
+    },
+    {
+      "id": "dn3:2.2.17",
+      "pali": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte ñāṇadassanāya cittaṁ abhinīharati abhininnāmeti …pe…"
+    },
+    {
+      "id": "dn3:2.2.18",
+      "pali": "idampissa hoti vijjāya …pe…"
+    },
+    {
+      "id": "dn3:2.2.19",
+      "pali": "nāparaṁ itthattāyāti pajānāti,"
+    },
+    {
+      "id": "dn3:2.2.20",
+      "pali": "idampissa hoti vijjāya."
+    },
+    {
+      "id": "dn3:2.2.21",
+      "pali": "Ayaṁ kho sā, ambaṭṭha, vijjā."
+    },
+    {
+      "id": "dn3:2.2.22",
+      "pali": "Ayaṁ vuccati, ambaṭṭha, bhikkhu ‘vijjāsampanno’ itipi, ‘caraṇasampanno’ itipi, ‘vijjācaraṇasampanno’ itipi."
+    },
+    {
+      "id": "dn3:2.2.23",
+      "pali": "Imāya ca, ambaṭṭha, vijjāsampadāya caraṇasampadāya ca aññā vijjāsampadā ca caraṇasampadā ca uttaritarā vā paṇītatarā vā natthi."
+    },
+    {
+      "id": "dn3:2.3.0",
+      "pali": "5. Catuapāyamukha"
+    },
+    {
+      "id": "dn3:2.3.1",
+      "pali": "Imāya kho, ambaṭṭha, anuttarāya vijjācaraṇasampadāya cattāri apāyamukhāni bhavanti."
+    },
+    {
+      "id": "dn3:2.3.2",
+      "pali": "Katamāni cattāri?"
+    },
+    {
+      "id": "dn3:2.3.3",
+      "pali": "Idha, ambaṭṭha, ekacco samaṇo vā brāhmaṇo vā imaññeva anuttaraṁ vijjācaraṇasampadaṁ anabhisambhuṇamāno khārividhamādāya araññāyatanaṁ ajjhogāhati:"
+    },
+    {
+      "id": "dn3:2.3.4",
+      "pali": "‘pavattaphalabhojano bhavissāmī’ti."
+    },
+    {
+      "id": "dn3:2.3.5",
+      "pali": "So aññadatthu vijjācaraṇasampannasseva paricārako sampajjati."
+    },
+    {
+      "id": "dn3:2.3.6",
+      "pali": "Imāya kho, ambaṭṭha, anuttarāya vijjācaraṇasampadāya idaṁ paṭhamaṁ apāyamukhaṁ bhavati."
+    },
+    {
+      "id": "dn3:2.3.7",
+      "pali": "Puna caparaṁ, ambaṭṭha, idhekacco samaṇo vā brāhmaṇo vā imañceva anuttaraṁ vijjācaraṇasampadaṁ anabhisambhuṇamāno pavattaphalabhojanatañca anabhisambhuṇamāno kudālapiṭakaṁ ādāya araññavanaṁ ajjhogāhati:"
+    },
+    {
+      "id": "dn3:2.3.8",
+      "pali": "‘kandamūlaphalabhojano bhavissāmī’ti."
+    },
+    {
+      "id": "dn3:2.3.9",
+      "pali": "So aññadatthu vijjācaraṇasampannasseva paricārako sampajjati."
+    },
+    {
+      "id": "dn3:2.3.10",
+      "pali": "Imāya kho, ambaṭṭha, anuttarāya vijjācaraṇasampadāya idaṁ dutiyaṁ apāyamukhaṁ bhavati."
+    },
+    {
+      "id": "dn3:2.3.11",
+      "pali": "Puna caparaṁ, ambaṭṭha, idhekacco samaṇo vā brāhmaṇo vā imañceva anuttaraṁ vijjācaraṇasampadaṁ anabhisambhuṇamāno pavattaphalabhojanatañca anabhisambhuṇamāno kandamūlaphalabhojanatañca anabhisambhuṇamāno gāmasāmantaṁ vā nigamasāmantaṁ vā agyāgāraṁ karitvā aggiṁ paricaranto acchati."
+    },
+    {
+      "id": "dn3:2.3.12",
+      "pali": "So aññadatthu vijjācaraṇasampannasseva paricārako sampajjati."
+    },
+    {
+      "id": "dn3:2.3.13",
+      "pali": "Imāya kho, ambaṭṭha, anuttarāya vijjācaraṇasampadāya idaṁ tatiyaṁ apāyamukhaṁ bhavati."
+    },
+    {
+      "id": "dn3:2.3.14",
+      "pali": "Puna caparaṁ, ambaṭṭha, idhekacco samaṇo vā brāhmaṇo vā imaṁ ceva anuttaraṁ vijjācaraṇasampadaṁ anabhisambhuṇamāno pavattaphalabhojanatañca anabhisambhuṇamāno kandamūlaphalabhojanatañca anabhisambhuṇamāno aggipāricariyañca anabhisambhuṇamāno cātumahāpathe catudvāraṁ agāraṁ karitvā acchati:"
+    },
+    {
+      "id": "dn3:2.3.15",
+      "pali": "‘yo imāhi catūhi disāhi āgamissati samaṇo vā brāhmaṇo vā, tamahaṁ yathāsatti yathābalaṁ paṭipūjessāmī’ti."
+    },
+    {
+      "id": "dn3:2.3.16",
+      "pali": "So aññadatthu vijjācaraṇasampannasseva paricārako sampajjati."
+    },
+    {
+      "id": "dn3:2.3.17",
+      "pali": "Imāya kho, ambaṭṭha, anuttarāya vijjācaraṇasampadāya idaṁ catutthaṁ apāyamukhaṁ bhavati."
+    },
+    {
+      "id": "dn3:2.3.18",
+      "pali": "Imāya kho, ambaṭṭha, anuttarāya vijjācaraṇasampadāya imāni cattāri apāyamukhāni bhavanti."
+    },
+    {
+      "id": "dn3:2.4.1",
+      "pali": "Taṁ kiṁ maññasi, ambaṭṭha,"
+    },
+    {
+      "id": "dn3:2.4.2",
+      "pali": "api nu tvaṁ imāya anuttarāya vijjācaraṇasampadāya sandissasi sācariyako”ti?"
+    },
+    {
+      "id": "dn3:2.4.3",
+      "pali": "“No hidaṁ, bho gotama."
+    },
+    {
+      "id": "dn3:2.4.4",
+      "pali": "Kocāhaṁ, bho gotama, sācariyako, kā ca anuttarā vijjācaraṇasampadā?"
+    },
+    {
+      "id": "dn3:2.4.5",
+      "pali": "Ārakāhaṁ, bho gotama, anuttarāya vijjācaraṇasampadāya sācariyako”ti."
+    },
+    {
+      "id": "dn3:2.4.6",
+      "pali": "“Taṁ kiṁ maññasi, ambaṭṭha,"
+    },
+    {
+      "id": "dn3:2.4.7",
+      "pali": "api nu tvaṁ imañceva anuttaraṁ vijjācaraṇasampadaṁ anabhisambhuṇamāno khārividhamādāya araññavanamajjhogāhasi sācariyako:"
+    },
+    {
+      "id": "dn3:2.4.8",
+      "pali": "‘pavattaphalabhojano bhavissāmī’”ti?"
+    },
+    {
+      "id": "dn3:2.4.9",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:2.4.10",
+      "pali": "“Taṁ kiṁ maññasi, ambaṭṭha,"
+    },
+    {
+      "id": "dn3:2.4.11",
+      "pali": "api nu tvaṁ imañceva anuttaraṁ vijjācaraṇasampadaṁ anabhisambhuṇamāno pavattaphalabhojanatañca anabhisambhuṇamāno kudālapiṭakaṁ ādāya araññavanamajjhogāhasi sācariyako:"
+    },
+    {
+      "id": "dn3:2.4.12",
+      "pali": "‘kandamūlaphalabhojano bhavissāmī’”ti?"
+    },
+    {
+      "id": "dn3:2.4.13",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:2.4.14",
+      "pali": "“Taṁ kiṁ maññasi, ambaṭṭha,"
+    },
+    {
+      "id": "dn3:2.4.15",
+      "pali": "api nu tvaṁ imañceva anuttaraṁ vijjācaraṇasampadaṁ anabhisambhuṇamāno pavattaphalabhojanatañca anabhisambhuṇamāno kandamūlaphalabhojanatañca anabhisambhuṇamāno gāmasāmantaṁ vā nigamasāmantaṁ vā agyāgāraṁ karitvā aggiṁ paricaranto acchasi sācariyako”ti?"
+    },
+    {
+      "id": "dn3:2.4.16",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:2.4.17",
+      "pali": "“Taṁ kiṁ maññasi, ambaṭṭha,"
+    },
+    {
+      "id": "dn3:2.4.18",
+      "pali": "api nu tvaṁ imañceva anuttaraṁ vijjācaraṇasampadaṁ anabhisambhuṇamāno pavattaphalabhojanatañca anabhisambhuṇamāno kandamūlaphalabhojanatañca anabhisambhuṇamāno aggipāricariyañca anabhisambhuṇamāno cātumahāpathe catudvāraṁ agāraṁ karitvā acchasi sācariyako:"
+    },
+    {
+      "id": "dn3:2.4.19",
+      "pali": "‘yo imāhi catūhi disāhi āgamissati samaṇo vā brāhmaṇo vā, taṁ mayaṁ yathāsatti yathābalaṁ paṭipūjessāmā’”ti?"
+    },
+    {
+      "id": "dn3:2.4.20",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:2.5.1",
+      "pali": "“Iti kho, ambaṭṭha, imāya ceva tvaṁ anuttarāya vijjācaraṇasampadāya parihīno sācariyako."
+    },
+    {
+      "id": "dn3:2.5.2",
+      "pali": "Ye cime anuttarāya vijjācaraṇasampadāya cattāri apāyamukhāni bhavanti, tato ca tvaṁ parihīno sācariyako."
+    },
+    {
+      "id": "dn3:2.5.3",
+      "pali": "Bhāsitā kho pana te esā, ambaṭṭha, ācariyena brāhmaṇena pokkharasātinā vācā:"
+    },
+    {
+      "id": "dn3:2.5.4",
+      "pali": "‘ke ca muṇḍakā samaṇakā ibbhā kaṇhā bandhupādāpaccā, kā ca tevijjānaṁ brāhmaṇānaṁ sākacchā’ti attanā āpāyikopi aparipūramāno."
+    },
+    {
+      "id": "dn3:2.5.5",
+      "pali": "Passa, ambaṭṭha, yāva aparaddhañca te idaṁ ācariyassa brāhmaṇassa pokkharasātissa."
+    },
+    {
+      "id": "dn3:2.6.0",
+      "pali": "6. Pubbakaisibhāvānuyoga"
+    },
+    {
+      "id": "dn3:2.6.1",
+      "pali": "Brāhmaṇo kho pana, ambaṭṭha, pokkharasāti rañño pasenadissa kosalassa dattikaṁ bhuñjati."
+    },
+    {
+      "id": "dn3:2.6.2",
+      "pali": "Tassa rājā pasenadi kosalo sammukhībhāvampi na dadāti."
+    },
+    {
+      "id": "dn3:2.6.3",
+      "pali": "Yadāpi tena manteti, tirodussantena manteti."
+    },
+    {
+      "id": "dn3:2.6.4",
+      "pali": "Yassa kho pana, ambaṭṭha, dhammikaṁ payātaṁ bhikkhaṁ paṭiggaṇheyya, kathaṁ tassa rājā pasenadi kosalo sammukhībhāvampi na dadeyya."
+    },
+    {
+      "id": "dn3:2.6.5",
+      "pali": "Passa, ambaṭṭha, yāva aparaddhañca te idaṁ ācariyassa brāhmaṇassa pokkharasātissa."
+    },
+    {
+      "id": "dn3:2.7.1",
+      "pali": "Taṁ kiṁ maññasi, ambaṭṭha,"
+    },
+    {
+      "id": "dn3:2.7.2",
+      "pali": "idha rājā pasenadi kosalo hatthigīvāya vā nisinno assapiṭṭhe vā nisinno rathūpatthare vā ṭhito uggehi vā rājaññehi vā kiñcideva mantanaṁ manteyya."
+    },
+    {
+      "id": "dn3:2.7.3",
+      "pali": "So tamhā padesā apakkamma ekamantaṁ tiṭṭheyya."
+    },
+    {
+      "id": "dn3:2.7.4",
+      "pali": "Atha āgaccheyya suddo vā suddadāso vā, tasmiṁ padese ṭhito tadeva mantanaṁ manteyya:"
+    },
+    {
+      "id": "dn3:2.7.5",
+      "pali": "‘evampi rājā pasenadi kosalo āha, evampi rājā pasenadi kosalo āhā’ti."
+    },
+    {
+      "id": "dn3:2.7.6",
+      "pali": "Api nu so rājabhaṇitaṁ vā bhaṇati rājamantanaṁ vā manteti?"
+    },
+    {
+      "id": "dn3:2.7.7",
+      "pali": "Ettāvatā so assa rājā vā rājamatto vā”ti?"
+    },
+    {
+      "id": "dn3:2.7.8",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:2.8.1",
+      "pali": "“Evameva kho tvaṁ, ambaṭṭha, ye te ahesuṁ brāhmaṇānaṁ pubbakā isayo mantānaṁ kattāro mantānaṁ pavattāro, yesamidaṁ etarahi brāhmaṇā porāṇaṁ mantapadaṁ gītaṁ pavuttaṁ samihitaṁ, tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti, seyyathidaṁ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu:"
+    },
+    {
+      "id": "dn3:2.8.2",
+      "pali": "‘tyāhaṁ mante adhiyāmi sācariyako’ti, tāvatā tvaṁ bhavissasi isi vā isitthāya vā paṭipannoti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "dn3:2.9.1",
+      "pali": "Taṁ kiṁ maññasi, ambaṭṭha,"
+    },
+    {
+      "id": "dn3:2.9.2",
+      "pali": "kinti te sutaṁ brāhmaṇānaṁ vuddhānaṁ mahallakānaṁ ācariyapācariyānaṁ bhāsamānānaṁ—"
+    },
+    {
+      "id": "dn3:2.9.3",
+      "pali": "ye te ahesuṁ brāhmaṇānaṁ pubbakā isayo mantānaṁ kattāro mantānaṁ pavattāro, yesamidaṁ etarahi brāhmaṇā porāṇaṁ mantapadaṁ gītaṁ pavuttaṁ samihitaṁ, tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti, seyyathidaṁ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu,"
+    },
+    {
+      "id": "dn3:2.9.4",
+      "pali": "evaṁ su te sunhātā suvilittā kappitakesamassū āmukkamaṇikuṇḍalābharaṇā odātavatthavasanā pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricārenti, seyyathāpi tvaṁ etarahi sācariyako”ti?"
+    },
+    {
+      "id": "dn3:2.9.5",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:2.10.1",
+      "pali": "“ …pe…"
+    },
+    {
+      "id": "dn3:2.10.2",
+      "pali": "Evaṁ su te sālīnaṁ odanaṁ sucimaṁsūpasecanaṁ vicitakāḷakaṁ anekasūpaṁ anekabyañjanaṁ paribhuñjanti, seyyathāpi tvaṁ etarahi sācariyako”ti?"
+    },
+    {
+      "id": "dn3:2.10.3",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:2.10.4",
+      "pali": "“ …pe…"
+    },
+    {
+      "id": "dn3:2.10.5",
+      "pali": "Evaṁ su te veṭhakanatapassāhi nārīhi paricārenti, seyyathāpi tvaṁ etarahi sācariyako”ti?"
+    },
+    {
+      "id": "dn3:2.10.6",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:2.10.7",
+      "pali": "“ …pe…"
+    },
+    {
+      "id": "dn3:2.10.8",
+      "pali": "Evaṁ su te kuttavālehi vaḷavārathehi dīghāhi patodalaṭṭhīhi vāhane vitudentā vipariyāyanti, seyyathāpi tvaṁ etarahi sācariyako”ti?"
+    },
+    {
+      "id": "dn3:2.10.9",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:2.10.10",
+      "pali": "“ …pe…"
+    },
+    {
+      "id": "dn3:2.10.11",
+      "pali": "Evaṁ su te ukkiṇṇaparikhāsu okkhittapalighāsu nagarūpakārikāsu dīghāsivudhehi purisehi rakkhāpenti, seyyathāpi tvaṁ etarahi sācariyako”ti?"
+    },
+    {
+      "id": "dn3:2.10.12",
+      "pali": "“No hidaṁ, bho gotama”."
+    },
+    {
+      "id": "dn3:2.10.13",
+      "pali": "“Iti kho, ambaṭṭha, neva tvaṁ isi na isitthāya paṭipanno sācariyako."
+    },
+    {
+      "id": "dn3:2.10.14",
+      "pali": "Yassa kho pana, ambaṭṭha, mayi kaṅkhā vā vimati vā so maṁ pañhena, ahaṁ veyyākaraṇena sodhissāmī”ti."
+    },
+    {
+      "id": "dn3:2.11.0",
+      "pali": "7. Dvelakkhaṇādassana"
+    },
+    {
+      "id": "dn3:2.11.1",
+      "pali": "Atha kho bhagavā vihārā nikkhamma caṅkamaṁ abbhuṭṭhāsi."
+    },
+    {
+      "id": "dn3:2.11.2",
+      "pali": "Ambaṭṭhopi māṇavo vihārā nikkhamma caṅkamaṁ abbhuṭṭhāsi."
+    },
+    {
+      "id": "dn3:2.11.3",
+      "pali": "Atha kho ambaṭṭho māṇavo bhagavantaṁ caṅkamantaṁ anucaṅkamamāno bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni samannesi."
+    },
+    {
+      "id": "dn3:2.11.4",
+      "pali": "Addasā kho ambaṭṭho māṇavo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve."
+    },
+    {
+      "id": "dn3:2.11.5",
+      "pali": "Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—"
+    },
+    {
+      "id": "dn3:2.11.6",
+      "pali": "kosohite ca vatthaguyhe pahūtajivhatāya ca."
+    },
+    {
+      "id": "dn3:2.12.1",
+      "pali": "Atha kho bhagavato etadahosi:"
+    },
+    {
+      "id": "dn3:2.12.2",
+      "pali": "“passati kho me ayaṁ ambaṭṭho māṇavo dvattiṁsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve."
+    },
+    {
+      "id": "dn3:2.12.3",
+      "pali": "Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—"
+    },
+    {
+      "id": "dn3:2.12.4",
+      "pali": "kosohite ca vatthaguyhe pahūtajivhatāya cā”ti."
+    },
+    {
+      "id": "dn3:2.12.5",
+      "pali": "Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi. Yathā addasa ambaṭṭho māṇavo bhagavato kosohitaṁ vatthaguyhaṁ."
+    },
+    {
+      "id": "dn3:2.12.6",
+      "pali": "Atha kho bhagavā jivhaṁ ninnāmetvā ubhopi kaṇṇasotāni anumasi paṭimasi, ubhopi nāsikasotāni anumasi paṭimasi, kevalampi nalāṭamaṇḍalaṁ jivhāya chādesi."
+    },
+    {
+      "id": "dn3:2.12.7",
+      "pali": "Atha kho ambaṭṭhassa māṇavassa etadahosi:"
+    },
+    {
+      "id": "dn3:2.12.8",
+      "pali": "“samannāgato kho samaṇo gotamo dvattiṁsamahāpurisalakkhaṇehi paripuṇṇehi, no aparipuṇṇehī”ti."
+    },
+    {
+      "id": "dn3:2.12.9",
+      "pali": "Bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn3:2.12.10",
+      "pali": "“handa ca dāni mayaṁ, bho gotama, gacchāma, bahukiccā mayaṁ bahukaraṇīyā”ti."
+    },
+    {
+      "id": "dn3:2.12.11",
+      "pali": "“Yassadāni tvaṁ, ambaṭṭha, kālaṁ maññasī”ti."
+    },
+    {
+      "id": "dn3:2.12.12",
+      "pali": "Atha kho ambaṭṭho māṇavo vaḷavārathamāruyha pakkāmi."
+    },
+    {
+      "id": "dn3:2.13.1",
+      "pali": "Tena kho pana samayena brāhmaṇo pokkharasāti ukkaṭṭhāya nikkhamitvā mahatā brāhmaṇagaṇena saddhiṁ sake ārāme nisinno hoti ambaṭṭhaṁyeva māṇavaṁ paṭimānento."
+    },
+    {
+      "id": "dn3:2.13.2",
+      "pali": "Atha kho ambaṭṭho māṇavo yena sako ārāmo tena pāyāsi."
+    },
+    {
+      "id": "dn3:2.14.1",
+      "pali": "Yāvatikā yānassa bhūmi, yānena gantvā yānā paccorohitvā pattikova yena brāhmaṇo pokkharasāti tenupasaṅkami; upasaṅkamitvā brāhmaṇaṁ pokkharasātiṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho ambaṭṭhaṁ māṇavaṁ brāhmaṇo pokkharasāti etadavoca:"
+    },
+    {
+      "id": "dn3:2.14.2",
+      "pali": "“kacci, tāta ambaṭṭha, addasa taṁ bhavantaṁ gotaman”ti?"
+    },
+    {
+      "id": "dn3:2.14.3",
+      "pali": "“Addasāma kho mayaṁ, bho, taṁ bhavantaṁ gotaman”ti."
+    },
+    {
+      "id": "dn3:2.14.4",
+      "pali": "“Kacci, tāta ambaṭṭha, taṁ bhavantaṁ gotamaṁ tathā santaṁyeva saddo abbhuggato no aññathā;"
+    },
+    {
+      "id": "dn3:2.14.5",
+      "pali": "kacci pana so bhavaṁ gotamo tādiso no aññādiso”ti?"
+    },
+    {
+      "id": "dn3:2.14.6",
+      "pali": "“Tathā santaṁyeva, bho, taṁ bhavantaṁ gotamaṁ saddo abbhuggato no aññathā, tādisova so bhavaṁ gotamo no aññādiso."
+    },
+    {
+      "id": "dn3:2.14.7",
+      "pali": "Samannāgato ca so bhavaṁ gotamo dvattiṁsamahāpurisalakkhaṇehi paripuṇṇehi no aparipuṇṇehī”ti."
+    },
+    {
+      "id": "dn3:2.14.8",
+      "pali": "“Ahu pana te, tāta ambaṭṭha, samaṇena gotamena saddhiṁ kocideva kathāsallāpo”ti?"
+    },
+    {
+      "id": "dn3:2.14.9",
+      "pali": "“Ahu kho me, bho, samaṇena gotamena saddhiṁ kocideva kathāsallāpo”ti."
+    },
+    {
+      "id": "dn3:2.14.10",
+      "pali": "“Yathā kathaṁ pana te, tāta ambaṭṭha, ahu samaṇena gotamena saddhiṁ kocideva kathāsallāpo”ti?"
+    },
+    {
+      "id": "dn3:2.14.11",
+      "pali": "Atha kho ambaṭṭho māṇavo yāvatako ahosi bhagavatā saddhiṁ kathāsallāpo, taṁ sabbaṁ brāhmaṇassa pokkharasātissa ārocesi."
+    },
+    {
+      "id": "dn3:2.15.1",
+      "pali": "Evaṁ vutte, brāhmaṇo pokkharasāti ambaṭṭhaṁ māṇavaṁ etadavoca:"
+    },
+    {
+      "id": "dn3:2.15.2",
+      "pali": "“aho vata re amhākaṁ, paṇḍitaka, aho vata re amhākaṁ, bahussutaka, aho vata re amhākaṁ, tevijjaka, evarūpena kira, bho, puriso atthacarakena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya."
+    },
+    {
+      "id": "dn3:2.15.3",
+      "pali": "Yadeva kho tvaṁ, ambaṭṭha, taṁ bhavantaṁ gotamaṁ evaṁ āsajja āsajja avacāsi, atha kho so bhavaṁ gotamo amhepi evaṁ upaneyya upaneyya avaca."
+    },
+    {
+      "id": "dn3:2.15.4",
+      "pali": "Aho vata re amhākaṁ, paṇḍitaka, aho vata re amhākaṁ, bahussutaka, aho vata re amhākaṁ, tevijjaka, evarūpena kira, bho, puriso atthacarakena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyyā”ti, kupito anattamano ambaṭṭhaṁ māṇavaṁ padasāyeva pavattesi."
+    },
+    {
+      "id": "dn3:2.15.5",
+      "pali": "Icchati ca tāvadeva bhagavantaṁ dassanāya upasaṅkamituṁ."
+    },
+    {
+      "id": "dn3:2.16.0",
+      "pali": "8. Pokkharasātibuddhūpasaṅkamana"
+    },
+    {
+      "id": "dn3:2.16.1",
+      "pali": "Atha kho te brāhmaṇā brāhmaṇaṁ pokkharasātiṁ etadavocuṁ:"
+    },
+    {
+      "id": "dn3:2.16.2",
+      "pali": "“ativikālo kho, bho, ajja samaṇaṁ gotamaṁ dassanāya upasaṅkamituṁ."
+    },
+    {
+      "id": "dn3:2.16.3",
+      "pali": "Svedāni bhavaṁ pokkharasāti samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī”ti."
+    },
+    {
+      "id": "dn3:2.16.4",
+      "pali": "Atha kho brāhmaṇo pokkharasāti sake nivesane paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā yāne āropetvā ukkāsu dhāriyamānāsu ukkaṭṭhāya niyyāsi, yena icchānaṅgalavanasaṇḍo tena pāyāsi."
+    },
+    {
+      "id": "dn3:2.17.1",
+      "pali": "Yāvatikā yānassa bhūmi yānena gantvā, yānā paccorohitvā pattikova yena bhagavā tenupasaṅkami. upasaṅkamitvā bhagavatā saddhiṁ sammodi, sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho brāhmaṇo pokkharasāti bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn3:2.17.2",
+      "pali": "“āgamā nu khvidha, bho gotama, amhākaṁ antevāsī ambaṭṭho māṇavo”ti?"
+    },
+    {
+      "id": "dn3:2.17.3",
+      "pali": "“Āgamā kho te, brāhmaṇa, antevāsī ambaṭṭho māṇavo”ti."
+    },
+    {
+      "id": "dn3:2.17.4",
+      "pali": "“Ahu pana te, bho gotama, ambaṭṭhena māṇavena saddhiṁ kocideva kathāsallāpo”ti?"
+    },
+    {
+      "id": "dn3:2.17.5",
+      "pali": "“Ahu kho me, brāhmaṇa, ambaṭṭhena māṇavena saddhiṁ kocideva kathāsallāpo”ti."
+    },
+    {
+      "id": "dn3:2.17.6",
+      "pali": "“Yathākathaṁ pana te, bho gotama, ahu ambaṭṭhena māṇavena saddhiṁ kocideva kathāsallāpo”ti?"
+    },
+    {
+      "id": "dn3:2.17.7",
+      "pali": "Atha kho bhagavā yāvatako ahosi ambaṭṭhena māṇavena saddhiṁ kathāsallāpo, taṁ sabbaṁ brāhmaṇassa pokkharasātissa ārocesi."
+    },
+    {
+      "id": "dn3:2.17.8",
+      "pali": "Evaṁ vutte, brāhmaṇo pokkharasāti bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn3:2.17.9",
+      "pali": "“bālo, bho gotama, ambaṭṭho māṇavo, khamatu bhavaṁ gotamo ambaṭṭhassa māṇavassā”ti."
+    },
+    {
+      "id": "dn3:2.17.10",
+      "pali": "“Sukhī hotu, brāhmaṇa, ambaṭṭho māṇavo”ti."
+    },
+    {
+      "id": "dn3:2.18.1",
+      "pali": "Atha kho brāhmaṇo pokkharasāti bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni samannesi."
+    },
+    {
+      "id": "dn3:2.18.2",
+      "pali": "Addasā kho brāhmaṇo pokkharasāti bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve."
+    },
+    {
+      "id": "dn3:2.18.3",
+      "pali": "Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—"
+    },
+    {
+      "id": "dn3:2.18.4",
+      "pali": "kosohite ca vatthaguyhe pahūtajivhatāya ca."
+    },
+    {
+      "id": "dn3:2.18.5",
+      "pali": "Atha kho bhagavato etadahosi:"
+    },
+    {
+      "id": "dn3:2.18.6",
+      "pali": "“passati kho me ayaṁ brāhmaṇo pokkharasāti dvattiṁsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve."
+    },
+    {
+      "id": "dn3:2.18.7",
+      "pali": "Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—"
+    },
+    {
+      "id": "dn3:2.18.8",
+      "pali": "kosohite ca vatthaguyhe pahūtajivhatāya cā”ti."
+    },
+    {
+      "id": "dn3:2.18.9",
+      "pali": "Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi yathā addasa brāhmaṇo pokkharasāti bhagavato kosohitaṁ vatthaguyhaṁ."
+    },
+    {
+      "id": "dn3:2.18.10",
+      "pali": "Atha kho bhagavā jivhaṁ ninnāmetvā ubhopi kaṇṇasotāni anumasi paṭimasi, ubhopi nāsikasotāni anumasi paṭimasi, kevalampi nalāṭamaṇḍalaṁ jivhāya chādesi."
+    },
+    {
+      "id": "dn3:2.19.1",
+      "pali": "Atha kho brāhmaṇassa pokkharasātissa etadahosi:"
+    },
+    {
+      "id": "dn3:2.19.2",
+      "pali": "“samannāgato kho samaṇo gotamo dvattiṁsamahāpurisalakkhaṇehi paripuṇṇehi no aparipuṇṇehī”ti."
+    },
+    {
+      "id": "dn3:2.19.3",
+      "pali": "Bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn3:2.19.4",
+      "pali": "“adhivāsetu me bhavaṁ gotamo ajjatanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti."
+    },
+    {
+      "id": "dn3:2.19.5",
+      "pali": "Adhivāsesi bhagavā tuṇhībhāvena."
+    },
+    {
+      "id": "dn3:2.20.1",
+      "pali": "Atha kho brāhmaṇo pokkharasāti bhagavato adhivāsanaṁ viditvā bhagavato kālaṁ ārocesi:"
+    },
+    {
+      "id": "dn3:2.20.2",
+      "pali": "“kālo, bho gotama, niṭṭhitaṁ bhattan”ti."
+    },
+    {
+      "id": "dn3:2.20.3",
+      "pali": "Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya saddhiṁ bhikkhusaṅghena yena brāhmaṇassa pokkharasātissa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi."
+    },
+    {
+      "id": "dn3:2.20.4",
+      "pali": "Atha kho brāhmaṇo pokkharasāti bhagavantaṁ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi, māṇavakāpi bhikkhusaṅghaṁ."
+    },
+    {
+      "id": "dn3:2.20.5",
+      "pali": "Atha kho brāhmaṇo pokkharasāti bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "dn3:2.21.1",
+      "pali": "Ekamantaṁ nisinnassa kho brāhmaṇassa pokkharasātissa bhagavā anupubbiṁ kathaṁ kathesi, seyyathidaṁ—"
+    },
+    {
+      "id": "dn3:2.21.2",
+      "pali": "dānakathaṁ sīlakathaṁ saggakathaṁ; kāmānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ, nekkhamme ānisaṁsaṁ pakāsesi."
+    },
+    {
+      "id": "dn3:2.21.3",
+      "pali": "Yadā bhagavā aññāsi brāhmaṇaṁ pokkharasātiṁ kallacittaṁ muducittaṁ vinīvaraṇacittaṁ udaggacittaṁ pasannacittaṁ, atha yā buddhānaṁ sāmukkaṁsikā dhammadesanā, taṁ pakāsesi—"
+    },
+    {
+      "id": "dn3:2.21.4",
+      "pali": "dukkhaṁ samudayaṁ nirodhaṁ maggaṁ."
+    },
+    {
+      "id": "dn3:2.21.5",
+      "pali": "Seyyathāpi nāma suddhaṁ vatthaṁ apagatakāḷakaṁ sammadeva rajanaṁ paṭiggaṇheyya;"
+    },
+    {
+      "id": "dn3:2.21.6",
+      "pali": "evameva brāhmaṇassa pokkharasātissa tasmiññeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:"
+    },
+    {
+      "id": "dn3:2.21.7",
+      "pali": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti."
+    },
+    {
+      "id": "dn3:2.22.0",
+      "pali": "9. Pokkharasātiupāsakattapaṭivedanā"
+    },
+    {
+      "id": "dn3:2.22.1",
+      "pali": "Atha kho brāhmaṇo pokkharasāti diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho vigatakathaṅkatho vesārajjappatto aparappaccayo satthusāsane bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "dn3:2.22.2",
+      "pali": "“abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama."
+    },
+    {
+      "id": "dn3:2.22.3",
+      "pali": "Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito."
+    },
+    {
+      "id": "dn3:2.22.4",
+      "pali": "Esāhaṁ, bho gotama, saputto sabhariyo sapariso sāmacco bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "dn3:2.22.5",
+      "pali": "Upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gataṁ."
+    },
+    {
+      "id": "dn3:2.22.6",
+      "pali": "Yathā ca bhavaṁ gotamo ukkaṭṭhāya aññāni upāsakakulāni upasaṅkamati, evameva bhavaṁ gotamo pokkharasātikulaṁ upasaṅkamatu."
+    },
+    {
+      "id": "dn3:2.22.7",
+      "pali": "Tattha ye te māṇavakā vā māṇavikā vā bhavantaṁ gotamaṁ abhivādessanti vā paccuṭṭhissanti vā āsanaṁ vā udakaṁ vā dassanti cittaṁ vā pasādessanti, tesaṁ taṁ bhavissati dīgharattaṁ hitāya sukhāyā”ti."
+    },
+    {
+      "id": "dn3:2.22.8",
+      "pali": "“Kalyāṇaṁ vuccati, brāhmaṇā”ti."
+    },
+    {
+      "id": "dn3:2.22.9",
+      "pali": "Ambaṭṭhasuttaṁ niṭṭhitaṁ tatiyaṁ."
+    }
+  ]
+}

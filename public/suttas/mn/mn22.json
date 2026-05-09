@@ -1,0 +1,1435 @@
+{
+  "uid": "mn22",
+  "title": "Alagaddūpamasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn22:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn22:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn22:2.1",
+      "pali": "Tena kho pana samayena ariṭṭhassa nāma bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti:"
+    },
+    {
+      "id": "mn22:2.2",
+      "pali": "“tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā”ti."
+    },
+    {
+      "id": "mn22:2.3",
+      "pali": "Assosuṁ kho sambahulā bhikkhū:"
+    },
+    {
+      "id": "mn22:2.4",
+      "pali": "“ariṭṭhassa kira nāma bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ:"
+    },
+    {
+      "id": "mn22:2.5",
+      "pali": "‘tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā’”ti."
+    },
+    {
+      "id": "mn22:3.1",
+      "pali": "Atha kho te bhikkhū yena ariṭṭho bhikkhu gaddhabādhipubbo tenupasaṅkamiṁsu; upasaṅkamitvā ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn22:3.2",
+      "pali": "“saccaṁ kira te, āvuso ariṭṭha, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ:"
+    },
+    {
+      "id": "mn22:3.3",
+      "pali": "‘tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā’”ti."
+    },
+    {
+      "id": "mn22:3.4",
+      "pali": "“Evaṁ byā kho ahaṁ, āvuso, bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā”ti."
+    },
+    {
+      "id": "mn22:3.5",
+      "pali": "Atha kho tepi bhikkhū ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etasmā pāpakā diṭṭhigatā vivecetukāmā samanuyuñjanti samanugāhanti samanubhāsanti:"
+    },
+    {
+      "id": "mn22:3.6",
+      "pali": "“mā hevaṁ, āvuso ariṭṭha, avaca, mā bhagavantaṁ abbhācikkhi; na hi sādhu bhagavato abbhakkhānaṁ, na hi bhagavā evaṁ vadeyya."
+    },
+    {
+      "id": "mn22:3.7",
+      "pali": "Anekapariyāyenāvuso ariṭṭha, antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāya."
+    },
+    {
+      "id": "mn22:3.8",
+      "pali": "Appassādā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo."
+    },
+    {
+      "id": "mn22:3.9",
+      "pali": "Aṭṭhikaṅkalūpamā kāmā vuttā bhagavatā …"
+    },
+    {
+      "id": "mn22:3.10",
+      "pali": "maṁsapesūpamā kāmā vuttā bhagavatā …"
+    },
+    {
+      "id": "mn22:3.11",
+      "pali": "tiṇukkūpamā kāmā vuttā bhagavatā …"
+    },
+    {
+      "id": "mn22:3.12",
+      "pali": "aṅgārakāsūpamā kāmā vuttā bhagavatā …"
+    },
+    {
+      "id": "mn22:3.13",
+      "pali": "supinakūpamā kāmā vuttā bhagavatā …"
+    },
+    {
+      "id": "mn22:3.14",
+      "pali": "yācitakūpamā kāmā vuttā bhagavatā …"
+    },
+    {
+      "id": "mn22:3.15",
+      "pali": "rukkhaphalūpamā kāmā vuttā bhagavatā …"
+    },
+    {
+      "id": "mn22:3.16",
+      "pali": "asisūnūpamā kāmā vuttā bhagavatā …"
+    },
+    {
+      "id": "mn22:3.17",
+      "pali": "sattisūlūpamā kāmā vuttā bhagavatā …"
+    },
+    {
+      "id": "mn22:3.18",
+      "pali": "sappasirūpamā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo”ti."
+    },
+    {
+      "id": "mn22:3.19",
+      "pali": "Evampi kho ariṭṭho bhikkhu gaddhabādhipubbo tehi bhikkhūhi samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno tadeva pāpakaṁ diṭṭhigataṁ thāmasā parāmāsā abhinivissa voharati:"
+    },
+    {
+      "id": "mn22:3.20",
+      "pali": "“evaṁ byā kho ahaṁ, āvuso, bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā”ti."
+    },
+    {
+      "id": "mn22:3.21",
+      "pali": "Yato kho te bhikkhū nāsakkhiṁsu ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etasmā pāpakā diṭṭhigatā vivecetuṁ, atha kho te bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn22:3.22",
+      "pali": "“ariṭṭhassa nāma, bhante, bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ:"
+    },
+    {
+      "id": "mn22:3.23",
+      "pali": "‘tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā’ti."
+    },
+    {
+      "id": "mn22:3.24",
+      "pali": "Assumha kho mayaṁ, bhante:"
+    },
+    {
+      "id": "mn22:3.25",
+      "pali": "‘ariṭṭhassa kira nāma bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ—"
+    },
+    {
+      "id": "mn22:3.26",
+      "pali": "tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā’ti."
+    },
+    {
+      "id": "mn22:3.27",
+      "pali": "Atha kho mayaṁ, bhante, yena ariṭṭho bhikkhu gaddhabādhipubbo tenupasaṅkamimha; upasaṅkamitvā ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etadavocumha:"
+    },
+    {
+      "id": "mn22:3.28",
+      "pali": "‘saccaṁ kira te, āvuso ariṭṭha, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ—"
+    },
+    {
+      "id": "mn22:3.29",
+      "pali": "tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā’ti?"
+    },
+    {
+      "id": "mn22:3.30",
+      "pali": "Evaṁ vutte, bhante, ariṭṭho bhikkhu gaddhabādhipubbo amhe etadavoca:"
+    },
+    {
+      "id": "mn22:3.31",
+      "pali": "‘evaṁ byā kho ahaṁ, āvuso, bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā’ti."
+    },
+    {
+      "id": "mn22:3.32",
+      "pali": "Atha kho mayaṁ, bhante, ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etasmā pāpakā diṭṭhigatā vivecetukāmā samanuyuñjimha samanugāhimha samanubhāsimha:"
+    },
+    {
+      "id": "mn22:3.33",
+      "pali": "‘mā hevaṁ, āvuso ariṭṭha, avaca, mā bhagavantaṁ abbhācikkhi; na hi sādhu bhagavato abbhakkhānaṁ, na hi bhagavā evaṁ vadeyya."
+    },
+    {
+      "id": "mn22:3.34",
+      "pali": "Anekapariyāyenāvuso ariṭṭha, antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāya."
+    },
+    {
+      "id": "mn22:3.35",
+      "pali": "Appassādā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo."
+    },
+    {
+      "id": "mn22:3.36",
+      "pali": "Aṭṭhikaṅkalūpamā kāmā vuttā bhagavatā …pe…"
+    },
+    {
+      "id": "mn22:3.37",
+      "pali": "sappasirūpamā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo’ti."
+    },
+    {
+      "id": "mn22:3.38",
+      "pali": "Evampi kho, bhante, ariṭṭho bhikkhu gaddhabādhipubbo amhehi samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno tadeva pāpakaṁ diṭṭhigataṁ thāmasā parāmāsā abhinivissa voharati:"
+    },
+    {
+      "id": "mn22:3.39",
+      "pali": "‘evaṁ byā kho ahaṁ, āvuso, bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā’ti."
+    },
+    {
+      "id": "mn22:4.1",
+      "pali": "Yato kho mayaṁ, bhante, nāsakkhimha ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etasmā pāpakā diṭṭhigatā vivecetuṁ, atha mayaṁ etamatthaṁ bhagavato ārocemā”ti."
+    },
+    {
+      "id": "mn22:5.1",
+      "pali": "Atha kho bhagavā aññataraṁ bhikkhuṁ āmantesi:"
+    },
+    {
+      "id": "mn22:5.2",
+      "pali": "“ehi tvaṁ, bhikkhu, mama vacanena ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ āmantehi:"
+    },
+    {
+      "id": "mn22:5.3",
+      "pali": "‘satthā taṁ, āvuso ariṭṭha, āmantetī’”ti."
+    },
+    {
+      "id": "mn22:5.4",
+      "pali": "“Evaṁ, bhante”ti kho so bhikkhu bhagavato paṭissutvā, yena ariṭṭho bhikkhu gaddhabādhipubbo tenupasaṅkami; upasaṅkamitvā ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etadavoca:"
+    },
+    {
+      "id": "mn22:5.5",
+      "pali": "“satthā taṁ, āvuso ariṭṭha, āmantetī”ti."
+    },
+    {
+      "id": "mn22:5.6",
+      "pali": "“Evamāvuso”ti kho ariṭṭho bhikkhu gaddhabādhipubbo tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ bhagavā etadavoca:"
+    },
+    {
+      "id": "mn22:5.7",
+      "pali": "“saccaṁ kira te, ariṭṭha, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ:"
+    },
+    {
+      "id": "mn22:5.8",
+      "pali": "‘tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā’”ti?"
+    },
+    {
+      "id": "mn22:5.9",
+      "pali": "“Evaṁ byā kho ahaṁ, bhante, bhagavatā dhammaṁ desitaṁ ājānāmi: ‘yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā’”ti."
+    },
+    {
+      "id": "mn22:6.1",
+      "pali": "“Kassa kho nāma tvaṁ, moghapurisa, mayā evaṁ dhammaṁ desitaṁ ājānāsi?"
+    },
+    {
+      "id": "mn22:6.2",
+      "pali": "Nanu mayā, moghapurisa, anekapariyāyena antarāyikā dhammā antarāyikā vuttā? Alañca pana te paṭisevato antarāyāya."
+    },
+    {
+      "id": "mn22:6.3",
+      "pali": "Appassādā kāmā vuttā mayā, bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo."
+    },
+    {
+      "id": "mn22:6.4",
+      "pali": "Aṭṭhikaṅkalūpamā kāmā vuttā mayā …"
+    },
+    {
+      "id": "mn22:6.5",
+      "pali": "maṁsapesūpamā kāmā vuttā mayā …"
+    },
+    {
+      "id": "mn22:6.6",
+      "pali": "tiṇukkūpamā kāmā vuttā mayā …"
+    },
+    {
+      "id": "mn22:6.7",
+      "pali": "aṅgārakāsūpamā kāmā vuttā mayā …"
+    },
+    {
+      "id": "mn22:6.8",
+      "pali": "supinakūpamā kāmā vuttā mayā …"
+    },
+    {
+      "id": "mn22:6.9",
+      "pali": "yācitakūpamā kāmā vuttā mayā …"
+    },
+    {
+      "id": "mn22:6.10",
+      "pali": "rukkhaphalūpamā kāmā vuttā mayā …"
+    },
+    {
+      "id": "mn22:6.11",
+      "pali": "asisūnūpamā kāmā vuttā mayā …"
+    },
+    {
+      "id": "mn22:6.12",
+      "pali": "sattisūlūpamā kāmā vuttā mayā …"
+    },
+    {
+      "id": "mn22:6.13",
+      "pali": "sappasirūpamā kāmā vuttā mayā, bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo."
+    },
+    {
+      "id": "mn22:6.14",
+      "pali": "Atha ca pana tvaṁ, moghapurisa, attanā duggahitena amhe ceva abbhācikkhasi, attānañca khanasi, bahuñca apuññaṁ pasavasi."
+    },
+    {
+      "id": "mn22:6.15",
+      "pali": "Tañhi te, moghapurisa, bhavissati dīgharattaṁ ahitāya dukkhāyā”ti."
+    },
+    {
+      "id": "mn22:7.1",
+      "pali": "Atha kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn22:7.2",
+      "pali": "“Taṁ kiṁ maññatha, bhikkhave,"
+    },
+    {
+      "id": "mn22:7.3",
+      "pali": "api nāyaṁ ariṭṭho bhikkhu gaddhabādhipubbo usmīkatopi imasmiṁ dhammavinaye”ti?"
+    },
+    {
+      "id": "mn22:7.4",
+      "pali": "“Kiñhi siyā, bhante;"
+    },
+    {
+      "id": "mn22:7.5",
+      "pali": "no hetaṁ, bhante”ti."
+    },
+    {
+      "id": "mn22:7.6",
+      "pali": "Evaṁ vutte, ariṭṭho bhikkhu gaddhabādhipubbo tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi."
+    },
+    {
+      "id": "mn22:7.7",
+      "pali": "Atha kho bhagavā ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ tuṇhībhūtaṁ maṅkubhūtaṁ pattakkhandhaṁ adhomukhaṁ pajjhāyantaṁ appaṭibhānaṁ viditvā ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etadavoca:"
+    },
+    {
+      "id": "mn22:7.8",
+      "pali": "“paññāyissasi kho tvaṁ, moghapurisa, etena sakena pāpakena diṭṭhigatena."
+    },
+    {
+      "id": "mn22:7.9",
+      "pali": "Idhāhaṁ bhikkhū paṭipucchissāmī”ti."
+    },
+    {
+      "id": "mn22:8.1",
+      "pali": "Atha kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn22:8.2",
+      "pali": "“tumhepi me, bhikkhave, evaṁ dhammaṁ desitaṁ ājānātha yathāyaṁ ariṭṭho bhikkhu gaddhabādhipubbo attanā duggahitena amhe ceva abbhācikkhati, attānañca khanati, bahuñca apuññaṁ pasavatī”ti?"
+    },
+    {
+      "id": "mn22:8.3",
+      "pali": "“No hetaṁ, bhante."
+    },
+    {
+      "id": "mn22:8.4",
+      "pali": "Anekapariyāyena hi no, bhante, antarāyikā dhammā antarāyikā vuttā bhagavatā;"
+    },
+    {
+      "id": "mn22:8.5",
+      "pali": "alañca pana te paṭisevato antarāyāya."
+    },
+    {
+      "id": "mn22:8.6",
+      "pali": "Appassādā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo."
+    },
+    {
+      "id": "mn22:8.7",
+      "pali": "Aṭṭhikaṅkalūpamā kāmā vuttā bhagavatā …pe…"
+    },
+    {
+      "id": "mn22:8.8",
+      "pali": "sappasirūpamā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo”ti."
+    },
+    {
+      "id": "mn22:8.9",
+      "pali": "“Sādhu sādhu, bhikkhave, sādhu, kho me tumhe, bhikkhave, evaṁ dhammaṁ desitaṁ ājānātha."
+    },
+    {
+      "id": "mn22:8.10",
+      "pali": "Anekapariyāyena hi kho, bhikkhave, antarāyikā dhammā vuttā mayā, alañca pana te paṭisevato antarāyāya."
+    },
+    {
+      "id": "mn22:8.11",
+      "pali": "Appassādā kāmā vuttā mayā, bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo."
+    },
+    {
+      "id": "mn22:8.12",
+      "pali": "Aṭṭhikaṅkalūpamā kāmā vuttā mayā …pe…"
+    },
+    {
+      "id": "mn22:8.13",
+      "pali": "sappasirūpamā kāmā vuttā mayā, bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo."
+    },
+    {
+      "id": "mn22:8.14",
+      "pali": "Atha ca panāyaṁ ariṭṭho bhikkhu gaddhabādhipubbo attanā duggahitena amhe ceva abbhācikkhati, attānañca khanati, bahuñca apuññaṁ pasavati."
+    },
+    {
+      "id": "mn22:8.15",
+      "pali": "Tañhi tassa moghapurisassa bhavissati dīgharattaṁ ahitāya dukkhāya."
+    },
+    {
+      "id": "mn22:9.1",
+      "pali": "So vata, bhikkhave, aññatreva kāmehi aññatra kāmasaññāya aññatra kāmavitakkehi kāme paṭisevissatīti—netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "mn22:10.1",
+      "pali": "Idha, bhikkhave, ekacce moghapurisā dhammaṁ pariyāpuṇanti—"
+    },
+    {
+      "id": "mn22:10.2",
+      "pali": "suttaṁ, geyyaṁ, veyyākaraṇaṁ, gāthaṁ, udānaṁ, itivuttakaṁ, jātakaṁ, abbhutadhammaṁ, vedallaṁ."
+    },
+    {
+      "id": "mn22:10.3",
+      "pali": "Te taṁ dhammaṁ pariyāpuṇitvā tesaṁ dhammānaṁ paññāya atthaṁ na upaparikkhanti."
+    },
+    {
+      "id": "mn22:10.4",
+      "pali": "Tesaṁ te dhammā paññāya atthaṁ anupaparikkhataṁ na nijjhānaṁ khamanti."
+    },
+    {
+      "id": "mn22:10.5",
+      "pali": "Te upārambhānisaṁsā ceva dhammaṁ pariyāpuṇanti itivādappamokkhānisaṁsā ca."
+    },
+    {
+      "id": "mn22:10.6",
+      "pali": "Yassa catthāya dhammaṁ pariyāpuṇanti tañcassa atthaṁ nānubhonti."
+    },
+    {
+      "id": "mn22:10.7",
+      "pali": "Tesaṁ te dhammā duggahitā dīgharattaṁ ahitāya dukkhāya saṁvattanti."
+    },
+    {
+      "id": "mn22:10.8",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn22:10.9",
+      "pali": "Duggahitattā, bhikkhave, dhammānaṁ."
+    },
+    {
+      "id": "mn22:10.10",
+      "pali": "Seyyathāpi, bhikkhave, puriso alagaddatthiko alagaddagavesī alagaddapariyesanaṁ caramāno."
+    },
+    {
+      "id": "mn22:10.11",
+      "pali": "So passeyya mahantaṁ alagaddaṁ."
+    },
+    {
+      "id": "mn22:10.12",
+      "pali": "Tamenaṁ bhoge vā naṅguṭṭhe vā gaṇheyya."
+    },
+    {
+      "id": "mn22:10.13",
+      "pali": "Tassa so alagaddo paṭiparivattitvā hatthe vā bāhāya vā aññatarasmiṁ vā aṅgapaccaṅge ḍaṁseyya."
+    },
+    {
+      "id": "mn22:10.14",
+      "pali": "So tatonidānaṁ maraṇaṁ vā nigaccheyya maraṇamattaṁ vā dukkhaṁ."
+    },
+    {
+      "id": "mn22:10.15",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn22:10.16",
+      "pali": "Duggahitattā, bhikkhave, alagaddassa."
+    },
+    {
+      "id": "mn22:10.17",
+      "pali": "Evameva kho, bhikkhave, idhekacce moghapurisā dhammaṁ pariyāpuṇanti—"
+    },
+    {
+      "id": "mn22:10.18",
+      "pali": "suttaṁ, geyyaṁ, veyyākaraṇaṁ, gāthaṁ, udānaṁ, itivuttakaṁ, jātakaṁ, abbhutadhammaṁ, vedallaṁ."
+    },
+    {
+      "id": "mn22:10.19",
+      "pali": "Te taṁ dhammaṁ pariyāpuṇitvā tesaṁ dhammānaṁ paññāya atthaṁ na upaparikkhanti."
+    },
+    {
+      "id": "mn22:10.20",
+      "pali": "Tesaṁ te dhammā paññāya atthaṁ anupaparikkhataṁ na nijjhānaṁ khamanti."
+    },
+    {
+      "id": "mn22:10.21",
+      "pali": "Te upārambhānisaṁsā ceva dhammaṁ pariyāpuṇanti itivādappamokkhānisaṁsā ca."
+    },
+    {
+      "id": "mn22:10.22",
+      "pali": "Yassa catthāya dhammaṁ pariyāpuṇanti tañcassa atthaṁ nānubhonti."
+    },
+    {
+      "id": "mn22:10.23",
+      "pali": "Tesaṁ te dhammā duggahitā dīgharattaṁ ahitāya dukkhāya saṁvattanti."
+    },
+    {
+      "id": "mn22:10.24",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn22:10.25",
+      "pali": "Duggahitattā, bhikkhave, dhammānaṁ."
+    },
+    {
+      "id": "mn22:11.1",
+      "pali": "Idha pana, bhikkhave, ekacce kulaputtā dhammaṁ pariyāpuṇanti—"
+    },
+    {
+      "id": "mn22:11.2",
+      "pali": "suttaṁ, geyyaṁ, veyyākaraṇaṁ, gāthaṁ, udānaṁ, itivuttakaṁ, jātakaṁ, abbhutadhammaṁ, vedallaṁ."
+    },
+    {
+      "id": "mn22:11.3",
+      "pali": "Te taṁ dhammaṁ pariyāpuṇitvā tesaṁ dhammānaṁ paññāya atthaṁ upaparikkhanti."
+    },
+    {
+      "id": "mn22:11.4",
+      "pali": "Tesaṁ te dhammā paññāya atthaṁ upaparikkhataṁ nijjhānaṁ khamanti."
+    },
+    {
+      "id": "mn22:11.5",
+      "pali": "Te na ceva upārambhānisaṁsā dhammaṁ pariyāpuṇanti na itivādappamokkhānisaṁsā ca."
+    },
+    {
+      "id": "mn22:11.6",
+      "pali": "Yassa catthāya dhammaṁ pariyāpuṇanti tañcassa atthaṁ anubhonti."
+    },
+    {
+      "id": "mn22:11.7",
+      "pali": "Tesaṁ te dhammā suggahitā dīgharattaṁ hitāya sukhāya saṁvattanti."
+    },
+    {
+      "id": "mn22:11.8",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn22:11.9",
+      "pali": "Suggahitattā bhikkhave dhammānaṁ."
+    },
+    {
+      "id": "mn22:11.10",
+      "pali": "Seyyathāpi, bhikkhave, puriso alagaddatthiko alagaddagavesī alagaddapariyesanaṁ caramāno."
+    },
+    {
+      "id": "mn22:11.11",
+      "pali": "So passeyya mahantaṁ alagaddaṁ."
+    },
+    {
+      "id": "mn22:11.12",
+      "pali": "Tamenaṁ ajapadena daṇḍena suniggahitaṁ niggaṇheyya."
+    },
+    {
+      "id": "mn22:11.13",
+      "pali": "Ajapadena daṇḍena suniggahitaṁ niggahitvā, gīvāya suggahitaṁ gaṇheyya."
+    },
+    {
+      "id": "mn22:11.14",
+      "pali": "Kiñcāpi so, bhikkhave, alagaddo tassa purisassa hatthaṁ vā bāhaṁ vā aññataraṁ vā aṅgapaccaṅgaṁ bhogehi paliveṭheyya, atha kho so neva tatonidānaṁ maraṇaṁ vā nigaccheyya maraṇamattaṁ vā dukkhaṁ."
+    },
+    {
+      "id": "mn22:11.15",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn22:11.16",
+      "pali": "Suggahitattā, bhikkhave, alagaddassa."
+    },
+    {
+      "id": "mn22:11.17",
+      "pali": "Evameva kho, bhikkhave, idhekacce kulaputtā dhammaṁ pariyāpuṇanti—"
+    },
+    {
+      "id": "mn22:11.18",
+      "pali": "suttaṁ, geyyaṁ, veyyākaraṇaṁ, gāthaṁ, udānaṁ, itivuttakaṁ, jātakaṁ, abbhutadhammaṁ, vedallaṁ."
+    },
+    {
+      "id": "mn22:11.19",
+      "pali": "Te taṁ dhammaṁ pariyāpuṇitvā tesaṁ dhammānaṁ paññāya atthaṁ upaparikkhanti."
+    },
+    {
+      "id": "mn22:11.20",
+      "pali": "Tesaṁ te dhammā paññāya atthaṁ upaparikkhataṁ nijjhānaṁ khamanti."
+    },
+    {
+      "id": "mn22:11.21",
+      "pali": "Te na ceva upārambhānisaṁsā dhammaṁ pariyāpuṇanti, na itivādappamokkhānisaṁsā ca."
+    },
+    {
+      "id": "mn22:11.22",
+      "pali": "Yassa catthāya dhammaṁ pariyāpuṇanti, tañcassa atthaṁ anubhonti."
+    },
+    {
+      "id": "mn22:11.23",
+      "pali": "Tesaṁ te dhammā suggahitā dīgharattaṁ atthāya hitāya sukhāya saṁvattanti."
+    },
+    {
+      "id": "mn22:11.24",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn22:11.25",
+      "pali": "Suggahitattā, bhikkhave, dhammānaṁ."
+    },
+    {
+      "id": "mn22:12.1",
+      "pali": "Tasmātiha, bhikkhave, yassa me bhāsitassa atthaṁ ājāneyyātha, tathā naṁ dhāreyyātha."
+    },
+    {
+      "id": "mn22:12.2",
+      "pali": "Yassa ca pana me bhāsitassa atthaṁ na ājāneyyātha, ahaṁ vo tattha paṭipucchitabbo, ye vā panāssu viyattā bhikkhū."
+    },
+    {
+      "id": "mn22:13.1",
+      "pali": "Kullūpamaṁ vo, bhikkhave, dhammaṁ desessāmi nittharaṇatthāya, no gahaṇatthāya."
+    },
+    {
+      "id": "mn22:13.2",
+      "pali": "Taṁ suṇātha, sādhukaṁ manasikarotha, bhāsissāmī”ti."
+    },
+    {
+      "id": "mn22:13.3",
+      "pali": "“Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn22:13.4",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn22:13.5",
+      "pali": "“Seyyathāpi, bhikkhave, puriso addhānamaggappaṭipanno."
+    },
+    {
+      "id": "mn22:13.6",
+      "pali": "So passeyya mahantaṁ udakaṇṇavaṁ, orimaṁ tīraṁ sāsaṅkaṁ sappaṭibhayaṁ, pārimaṁ tīraṁ khemaṁ appaṭibhayaṁ;"
+    },
+    {
+      "id": "mn22:13.7",
+      "pali": "na cassa nāvā santāraṇī uttarasetu vā apārā pāraṁ gamanāya."
+    },
+    {
+      "id": "mn22:13.8",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn22:13.9",
+      "pali": "‘ayaṁ kho mahāudakaṇṇavo, orimaṁ tīraṁ sāsaṅkaṁ sappaṭibhayaṁ, pārimaṁ tīraṁ khemaṁ appaṭibhayaṁ;"
+    },
+    {
+      "id": "mn22:13.10",
+      "pali": "natthi ca nāvā santāraṇī uttarasetu vā apārā pāraṁ gamanāya."
+    },
+    {
+      "id": "mn22:13.11",
+      "pali": "Yannūnāhaṁ tiṇakaṭṭhasākhāpalāsaṁ saṅkaḍḍhitvā, kullaṁ bandhitvā, taṁ kullaṁ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṁ uttareyyan’ti."
+    },
+    {
+      "id": "mn22:13.12",
+      "pali": "Atha kho so, bhikkhave, puriso tiṇakaṭṭhasākhāpalāsaṁ saṅkaḍḍhitvā, kullaṁ bandhitvā taṁ kullaṁ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṁ uttareyya."
+    },
+    {
+      "id": "mn22:13.13",
+      "pali": "Tassa purisassa uttiṇṇassa pāraṅgatassa evamassa:"
+    },
+    {
+      "id": "mn22:13.14",
+      "pali": "‘bahukāro kho me ayaṁ kullo;"
+    },
+    {
+      "id": "mn22:13.15",
+      "pali": "imāhaṁ kullaṁ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṁ uttiṇṇo."
+    },
+    {
+      "id": "mn22:13.16",
+      "pali": "Yannūnāhaṁ imaṁ kullaṁ sīse vā āropetvā khandhe vā uccāretvā yena kāmaṁ pakkameyyan’ti."
+    },
+    {
+      "id": "mn22:13.17",
+      "pali": "Taṁ kiṁ maññatha, bhikkhave,"
+    },
+    {
+      "id": "mn22:13.18",
+      "pali": "api nu so puriso evaṅkārī tasmiṁ kulle kiccakārī assā”ti?"
+    },
+    {
+      "id": "mn22:13.19",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn22:13.20",
+      "pali": "“Kathaṅkārī ca so, bhikkhave, puriso tasmiṁ kulle kiccakārī assa?"
+    },
+    {
+      "id": "mn22:13.21",
+      "pali": "Idha, bhikkhave, tassa purisassa uttiṇṇassa pāraṅgatassa evamassa:"
+    },
+    {
+      "id": "mn22:13.22",
+      "pali": "‘bahukāro kho me ayaṁ kullo;"
+    },
+    {
+      "id": "mn22:13.23",
+      "pali": "imāhaṁ kullaṁ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṁ uttiṇṇo."
+    },
+    {
+      "id": "mn22:13.24",
+      "pali": "Yannūnāhaṁ imaṁ kullaṁ thale vā ussādetvā udake vā opilāpetvā yena kāmaṁ pakkameyyan’ti."
+    },
+    {
+      "id": "mn22:13.25",
+      "pali": "Evaṅkārī kho so, bhikkhave, puriso tasmiṁ kulle kiccakārī assa."
+    },
+    {
+      "id": "mn22:13.26",
+      "pali": "Evameva kho, bhikkhave, kullūpamo mayā dhammo desito nittharaṇatthāya, no gahaṇatthāya."
+    },
+    {
+      "id": "mn22:14.1",
+      "pali": "Kullūpamaṁ vo, bhikkhave, dhammaṁ desitaṁ, ājānantehi dhammāpi vo pahātabbā pageva adhammā."
+    },
+    {
+      "id": "mn22:15.1",
+      "pali": "Chayimāni, bhikkhave, diṭṭhiṭṭhānāni."
+    },
+    {
+      "id": "mn22:15.2",
+      "pali": "Katamāni cha?"
+    },
+    {
+      "id": "mn22:15.3",
+      "pali": "Idha, bhikkhave, assutavā puthujjano ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto,"
+    },
+    {
+      "id": "mn22:15.4",
+      "pali": "rūpaṁ ‘etaṁ mama, esohamasmi, eso me attā’ti samanupassati;"
+    },
+    {
+      "id": "mn22:15.5",
+      "pali": "vedanaṁ ‘etaṁ mama, esohamasmi, eso me attā’ti samanupassati;"
+    },
+    {
+      "id": "mn22:15.6",
+      "pali": "saññaṁ ‘etaṁ mama, esohamasmi, eso me attā’ti samanupassati;"
+    },
+    {
+      "id": "mn22:15.7",
+      "pali": "saṅkhāre ‘etaṁ mama, esohamasmi, eso me attā’ti samanupassati;"
+    },
+    {
+      "id": "mn22:15.8",
+      "pali": "yampi taṁ diṭṭhaṁ sutaṁ mutaṁ viññātaṁ pattaṁ pariyesitaṁ, anuvicaritaṁ manasā tampi ‘etaṁ mama, esohamasmi, eso me attā’ti samanupassati;"
+    },
+    {
+      "id": "mn22:15.9",
+      "pali": "yampi taṁ diṭṭhiṭṭhānaṁ—"
+    },
+    {
+      "id": "mn22:15.10",
+      "pali": "so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṁ tatheva ṭhassāmīti—"
+    },
+    {
+      "id": "mn22:15.11",
+      "pali": "tampi ‘etaṁ mama, esohamasmi, eso me attā’ti samanupassati."
+    },
+    {
+      "id": "mn22:16.1",
+      "pali": "Sutavā ca kho, bhikkhave, ariyasāvako ariyānaṁ dassāvī ariyadhammassa kovido ariyadhamme suvinīto, sappurisānaṁ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto,"
+    },
+    {
+      "id": "mn22:16.2",
+      "pali": "rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati;"
+    },
+    {
+      "id": "mn22:16.3",
+      "pali": "vedanaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati;"
+    },
+    {
+      "id": "mn22:16.4",
+      "pali": "saññaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati;"
+    },
+    {
+      "id": "mn22:16.5",
+      "pali": "saṅkhāre ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati;"
+    },
+    {
+      "id": "mn22:16.6",
+      "pali": "yampi taṁ diṭṭhaṁ sutaṁ mutaṁ viññātaṁ pattaṁ pariyesitaṁ, anuvicaritaṁ manasā, tampi ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati;"
+    },
+    {
+      "id": "mn22:16.7",
+      "pali": "yampi taṁ diṭṭhiṭṭhānaṁ—"
+    },
+    {
+      "id": "mn22:16.8",
+      "pali": "so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṁ tatheva ṭhassāmīti—"
+    },
+    {
+      "id": "mn22:16.9",
+      "pali": "tampi ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati."
+    },
+    {
+      "id": "mn22:17.1",
+      "pali": "So evaṁ samanupassanto asati na paritassatī”ti."
+    },
+    {
+      "id": "mn22:18.1",
+      "pali": "Evaṁ vutte, aññataro bhikkhu bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn22:18.2",
+      "pali": "“siyā nu kho, bhante, bahiddhā asati paritassanā”ti?"
+    },
+    {
+      "id": "mn22:18.3",
+      "pali": "“Siyā, bhikkhū”ti—bhagavā avoca."
+    },
+    {
+      "id": "mn22:18.4",
+      "pali": "“Idha bhikkhu ekaccassa evaṁ hoti:"
+    },
+    {
+      "id": "mn22:18.5",
+      "pali": "‘ahu vata me, taṁ vata me natthi;"
+    },
+    {
+      "id": "mn22:18.6",
+      "pali": "siyā vata me, taṁ vatāhaṁ na labhāmī’ti."
+    },
+    {
+      "id": "mn22:18.7",
+      "pali": "So socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati."
+    },
+    {
+      "id": "mn22:18.8",
+      "pali": "Evaṁ kho, bhikkhu, bahiddhā asati paritassanā hotī”ti."
+    },
+    {
+      "id": "mn22:19.1",
+      "pali": "“Siyā pana, bhante, bahiddhā asati aparitassanā”ti?"
+    },
+    {
+      "id": "mn22:19.2",
+      "pali": "“Siyā, bhikkhū”ti—bhagavā avoca."
+    },
+    {
+      "id": "mn22:19.3",
+      "pali": "“Idha bhikkhu ekaccassa na evaṁ hoti:"
+    },
+    {
+      "id": "mn22:19.4",
+      "pali": "‘ahu vata me, taṁ vata me natthi;"
+    },
+    {
+      "id": "mn22:19.5",
+      "pali": "siyā vata me, taṁ vatāhaṁ na labhāmī’ti."
+    },
+    {
+      "id": "mn22:19.6",
+      "pali": "So na socati na kilamati na paridevati na urattāḷiṁ kandati na sammohaṁ āpajjati."
+    },
+    {
+      "id": "mn22:19.7",
+      "pali": "Evaṁ kho, bhikkhu, bahiddhā asati aparitassanā hotī”ti."
+    },
+    {
+      "id": "mn22:20.1",
+      "pali": "“Siyā nu kho, bhante, ajjhattaṁ asati paritassanā”ti?"
+    },
+    {
+      "id": "mn22:20.2",
+      "pali": "“Siyā, bhikkhū”ti—bhagavā avoca."
+    },
+    {
+      "id": "mn22:20.3",
+      "pali": "“Idha, bhikkhu, ekaccassa evaṁ diṭṭhi hoti:"
+    },
+    {
+      "id": "mn22:20.4",
+      "pali": "‘so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṁ tatheva ṭhassāmī’ti."
+    },
+    {
+      "id": "mn22:20.5",
+      "pali": "So suṇāti tathāgatassa vā tathāgatasāvakassa vā sabbesaṁ diṭṭhiṭṭhānādhiṭṭhānapariyuṭṭhānābhinivesānusayānaṁ samugghātāya sabbasaṅkhārasamathāya sabbūpadhipaṭinissaggāya taṇhākkhayāya virāgāya nirodhāya nibbānāya dhammaṁ desentassa."
+    },
+    {
+      "id": "mn22:20.6",
+      "pali": "Tassa evaṁ hoti:"
+    },
+    {
+      "id": "mn22:20.7",
+      "pali": "‘ucchijjissāmi nāmassu, vinassissāmi nāmassu, nassu nāma bhavissāmī’ti."
+    },
+    {
+      "id": "mn22:20.8",
+      "pali": "So socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati."
+    },
+    {
+      "id": "mn22:20.9",
+      "pali": "Evaṁ kho, bhikkhu, ajjhattaṁ asati paritassanā hotī”ti."
+    },
+    {
+      "id": "mn22:21.1",
+      "pali": "“Siyā pana, bhante, ajjhattaṁ asati aparitassanā”ti?"
+    },
+    {
+      "id": "mn22:21.2",
+      "pali": "“Siyā, bhikkhū”ti bhagavā avoca."
+    },
+    {
+      "id": "mn22:21.3",
+      "pali": "“Idha, bhikkhu, ekaccassa na evaṁ diṭṭhi hoti:"
+    },
+    {
+      "id": "mn22:21.4",
+      "pali": "‘so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṁ tatheva ṭhassāmī’ti."
+    },
+    {
+      "id": "mn22:21.5",
+      "pali": "So suṇāti tathāgatassa vā tathāgatasāvakassa vā sabbesaṁ diṭṭhiṭṭhānādhiṭṭhānapariyuṭṭhānābhinivesānusayānaṁ samugghātāya sabbasaṅkhārasamathāya sabbūpadhipaṭinissaggāya taṇhākkhayāya virāgāya nirodhāya nibbānāya dhammaṁ desentassa."
+    },
+    {
+      "id": "mn22:21.6",
+      "pali": "Tassa na evaṁ hoti:"
+    },
+    {
+      "id": "mn22:21.7",
+      "pali": "‘ucchijjissāmi nāmassu, vinassissāmi nāmassu, nassu nāma bhavissāmī’ti."
+    },
+    {
+      "id": "mn22:21.8",
+      "pali": "So na socati na kilamati na paridevati na urattāḷiṁ kandati na sammohaṁ āpajjati."
+    },
+    {
+      "id": "mn22:21.9",
+      "pali": "Evaṁ kho, bhikkhu, ajjhattaṁ asati aparitassanā hoti."
+    },
+    {
+      "id": "mn22:22.1",
+      "pali": "Taṁ, bhikkhave, pariggahaṁ pariggaṇheyyātha, yvāssa pariggaho nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṁ tatheva tiṭṭheyya."
+    },
+    {
+      "id": "mn22:22.2",
+      "pali": "Passatha no tumhe, bhikkhave, taṁ pariggahaṁ yvāssa pariggaho nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṁ tatheva tiṭṭheyyā”ti?"
+    },
+    {
+      "id": "mn22:22.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn22:22.4",
+      "pali": "“Sādhu, bhikkhave."
+    },
+    {
+      "id": "mn22:22.5",
+      "pali": "Ahampi kho taṁ, bhikkhave, pariggahaṁ na samanupassāmi yvāssa pariggaho nicco dhuvo sassato avipariṇāmadhammo sassatisamaṁ tatheva tiṭṭheyya."
+    },
+    {
+      "id": "mn22:23.1",
+      "pali": "Taṁ, bhikkhave, attavādupādānaṁ upādiyetha, yaṁsa attavādupādānaṁ upādiyato na uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā."
+    },
+    {
+      "id": "mn22:23.2",
+      "pali": "Passatha no tumhe, bhikkhave, taṁ attavādupādānaṁ yaṁsa attavādupādānaṁ upādiyato na uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?"
+    },
+    {
+      "id": "mn22:23.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn22:23.4",
+      "pali": "“Sādhu, bhikkhave."
+    },
+    {
+      "id": "mn22:23.5",
+      "pali": "Ahampi kho taṁ, bhikkhave, attavādupādānaṁ na samanupassāmi yaṁsa attavādupādānaṁ upādiyato na uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā."
+    },
+    {
+      "id": "mn22:24.1",
+      "pali": "Taṁ, bhikkhave, diṭṭhinissayaṁ nissayetha yaṁsa diṭṭhinissayaṁ nissayato na uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā."
+    },
+    {
+      "id": "mn22:24.2",
+      "pali": "Passatha no tumhe, bhikkhave, taṁ diṭṭhinissayaṁ yaṁsa diṭṭhinissayaṁ nissayato na uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?"
+    },
+    {
+      "id": "mn22:24.3",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn22:24.4",
+      "pali": "“Sādhu, bhikkhave."
+    },
+    {
+      "id": "mn22:24.5",
+      "pali": "Ahampi kho taṁ, bhikkhave, diṭṭhinissayaṁ na samanupassāmi yaṁsa diṭṭhinissayaṁ nissayato na uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā."
+    },
+    {
+      "id": "mn22:25.1",
+      "pali": "Attani vā, bhikkhave, sati ‘attaniyaṁ me’ti assā”ti?"
+    },
+    {
+      "id": "mn22:25.2",
+      "pali": "“Evaṁ, bhante”."
+    },
+    {
+      "id": "mn22:25.3",
+      "pali": "“Attaniye vā, bhikkhave, sati ‘attā me’ti assā”ti?"
+    },
+    {
+      "id": "mn22:25.4",
+      "pali": "“Evaṁ, bhante”."
+    },
+    {
+      "id": "mn22:25.5",
+      "pali": "“Attani ca, bhikkhave, attaniye ca saccato thetato anupalabbhamāne, yampi taṁ diṭṭhiṭṭhānaṁ:"
+    },
+    {
+      "id": "mn22:25.6",
+      "pali": "‘so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṁ tatheva ṭhassāmī’ti—"
+    },
+    {
+      "id": "mn22:25.7",
+      "pali": "nanāyaṁ, bhikkhave, kevalo paripūro bāladhammo”ti?"
+    },
+    {
+      "id": "mn22:25.8",
+      "pali": "“Kiñhi no siyā, bhante, kevalo hi, bhante, paripūro bāladhammo”ti."
+    },
+    {
+      "id": "mn22:26.1",
+      "pali": "“Taṁ kiṁ maññatha, bhikkhave,"
+    },
+    {
+      "id": "mn22:26.2",
+      "pali": "rūpaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn22:26.3",
+      "pali": "“Aniccaṁ, bhante”."
+    },
+    {
+      "id": "mn22:26.4",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn22:26.5",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn22:26.6",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ—"
+    },
+    {
+      "id": "mn22:26.7",
+      "pali": "etaṁ mama, esohamasmi, eso me attā”ti?"
+    },
+    {
+      "id": "mn22:26.8",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn22:26.9",
+      "pali": "“Taṁ kiṁ maññatha, bhikkhave,"
+    },
+    {
+      "id": "mn22:26.10",
+      "pali": "vedanā …pe…"
+    },
+    {
+      "id": "mn22:26.11",
+      "pali": "saññā …"
+    },
+    {
+      "id": "mn22:26.12",
+      "pali": "saṅkhārā …"
+    },
+    {
+      "id": "mn22:26.13",
+      "pali": "viññāṇaṁ niccaṁ vā aniccaṁ vā”ti?"
+    },
+    {
+      "id": "mn22:26.14",
+      "pali": "“Aniccaṁ, bhante”."
+    },
+    {
+      "id": "mn22:26.15",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?"
+    },
+    {
+      "id": "mn22:26.16",
+      "pali": "“Dukkhaṁ, bhante”."
+    },
+    {
+      "id": "mn22:26.17",
+      "pali": "“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ—"
+    },
+    {
+      "id": "mn22:26.18",
+      "pali": "etaṁ mama, esohamasmi, eso me attā”ti?"
+    },
+    {
+      "id": "mn22:26.19",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn22:27.1",
+      "pali": "“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ, ajjhattaṁ vā bahiddhā vā, oḷārikaṁ vā sukhumaṁ vā, hīnaṁ vā paṇītaṁ vā, yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti—evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ."
+    },
+    {
+      "id": "mn22:27.2",
+      "pali": "Yā kāci vedanā …pe…"
+    },
+    {
+      "id": "mn22:27.3",
+      "pali": "yā kāci saññā …"
+    },
+    {
+      "id": "mn22:27.4",
+      "pali": "ye keci saṅkhārā …"
+    },
+    {
+      "id": "mn22:27.5",
+      "pali": "yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ, ajjhattaṁ vā bahiddhā vā, oḷārikaṁ vā sukhumaṁ vā, hīnaṁ vā paṇītaṁ vā, yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti—evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ."
+    },
+    {
+      "id": "mn22:28.1",
+      "pali": "Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako rūpasmiṁ nibbindati, vedanāya nibbindati, saññāya nibbindati, saṅkhāresu nibbindati, viññāṇasmiṁ nibbindati,"
+    },
+    {
+      "id": "mn22:29.1",
+      "pali": "nibbidā virajjati, virāgā vimuccati, vimuttasmiṁ vimuttamiti ñāṇaṁ hoti."
+    },
+    {
+      "id": "mn22:29.2",
+      "pali": "‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānāti."
+    },
+    {
+      "id": "mn22:30.1",
+      "pali": "Ayaṁ vuccati, bhikkhave, bhikkhu ukkhittapaligho itipi, saṅkiṇṇaparikkho itipi, abbūḷhesiko itipi, niraggaḷo itipi, ariyo pannaddhajo pannabhāro visaṁyutto itipi."
+    },
+    {
+      "id": "mn22:31.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu ukkhittapaligho hoti?"
+    },
+    {
+      "id": "mn22:31.2",
+      "pali": "Idha, bhikkhave, bhikkhuno avijjā pahīnā hoti, ucchinnamūlā tālāvatthukatā anabhāvaṅkatā, āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "mn22:31.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu ukkhittapaligho hoti."
+    },
+    {
+      "id": "mn22:32.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu saṅkiṇṇaparikkho hoti?"
+    },
+    {
+      "id": "mn22:32.2",
+      "pali": "Idha, bhikkhave, bhikkhuno ponobbhaviko jātisaṁsāro pahīno hoti, ucchinnamūlo tālāvatthukato anabhāvaṅkato, āyatiṁ anuppādadhammo."
+    },
+    {
+      "id": "mn22:32.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu saṅkiṇṇaparikkho hoti."
+    },
+    {
+      "id": "mn22:33.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu abbūḷhesiko hoti?"
+    },
+    {
+      "id": "mn22:33.2",
+      "pali": "Idha, bhikkhave, bhikkhuno taṇhā pahīnā hoti, ucchinnamūlā tālāvatthukatā anabhāvaṅkatā, āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "mn22:33.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu abbūḷhesiko hoti."
+    },
+    {
+      "id": "mn22:34.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu niraggaḷo hoti?"
+    },
+    {
+      "id": "mn22:34.2",
+      "pali": "Idha, bhikkhave, bhikkhuno pañca orambhāgiyāni saṁyojanāni pahīnāni honti, ucchinnamūlāni tālāvatthukatāni anabhāvaṅkatāni, āyatiṁ anuppādadhammāni."
+    },
+    {
+      "id": "mn22:34.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu niraggaḷo hoti."
+    },
+    {
+      "id": "mn22:35.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu ariyo pannaddhajo pannabhāro visaṁyutto hoti?"
+    },
+    {
+      "id": "mn22:35.2",
+      "pali": "Idha, bhikkhave, bhikkhuno asmimāno pahīno hoti, ucchinnamūlo tālāvatthukato anabhāvaṅkato, āyatiṁ anuppādadhammo."
+    },
+    {
+      "id": "mn22:35.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu ariyo pannaddhajo pannabhāro visaṁyutto hoti."
+    },
+    {
+      "id": "mn22:36.1",
+      "pali": "Evaṁ vimuttacittaṁ kho, bhikkhave, bhikkhuṁ saindā devā sabrahmakā sapajāpatikā anvesaṁ nādhigacchanti:"
+    },
+    {
+      "id": "mn22:36.2",
+      "pali": "‘idaṁ nissitaṁ tathāgatassa viññāṇan’ti."
+    },
+    {
+      "id": "mn22:36.3",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn22:36.4",
+      "pali": "Diṭṭhevāhaṁ, bhikkhave, dhamme tathāgataṁ ananuvijjoti vadāmi."
+    },
+    {
+      "id": "mn22:37.1",
+      "pali": "Evaṁvādiṁ kho maṁ, bhikkhave, evamakkhāyiṁ eke samaṇabrāhmaṇā asatā tucchā musā abhūtena abbhācikkhanti:"
+    },
+    {
+      "id": "mn22:37.2",
+      "pali": "‘venayiko samaṇo gotamo, sato sattassa ucchedaṁ vināsaṁ vibhavaṁ paññāpetī’ti."
+    },
+    {
+      "id": "mn22:37.3",
+      "pali": "Yathā cāhaṁ na, bhikkhave, yathā cāhaṁ na vadāmi, tathā maṁ te bhonto samaṇabrāhmaṇā asatā tucchā musā abhūtena abbhācikkhanti:"
+    },
+    {
+      "id": "mn22:37.4",
+      "pali": "‘venayiko samaṇo gotamo, sato sattassa ucchedaṁ vināsaṁ vibhavaṁ paññāpetī’ti."
+    },
+    {
+      "id": "mn22:37.5",
+      "pali": "Pubbe cāhaṁ, bhikkhave, etarahi ca dukkhañceva paññāpemi, dukkhassa ca nirodhaṁ."
+    },
+    {
+      "id": "mn22:37.6",
+      "pali": "Tatra ce, bhikkhave, pare tathāgataṁ akkosanti paribhāsanti rosenti vihesenti, tatra, bhikkhave, tathāgatassa na hoti āghāto na appaccayo na cetaso anabhiraddhi."
+    },
+    {
+      "id": "mn22:38.1",
+      "pali": "Tatra ce, bhikkhave, pare tathāgataṁ sakkaronti garuṁ karonti mānenti pūjenti, tatra, bhikkhave, tathāgatassa na hoti ānando na somanassaṁ na cetaso uppilāvitattaṁ."
+    },
+    {
+      "id": "mn22:38.2",
+      "pali": "Tatra ce, bhikkhave, pare vā tathāgataṁ sakkaronti garuṁ karonti mānenti pūjenti, tatra, bhikkhave, tathāgatassa evaṁ hoti:"
+    },
+    {
+      "id": "mn22:38.3",
+      "pali": "‘yaṁ kho idaṁ pubbe pariññātaṁ tattha me evarūpā kārā karīyantī’ti."
+    },
+    {
+      "id": "mn22:39.1",
+      "pali": "Tasmātiha, bhikkhave, tumhe cepi pare akkoseyyuṁ paribhāseyyuṁ roseyyuṁ viheseyyuṁ, tatra tumhe hi na āghāto na appaccayo na cetaso anabhiraddhi karaṇīyā."
+    },
+    {
+      "id": "mn22:39.2",
+      "pali": "Tasmātiha, bhikkhave, tumhe cepi pare sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, tatra tumhehi na ānando na somanassaṁ na cetaso uppilāvitattaṁ karaṇīyaṁ."
+    },
+    {
+      "id": "mn22:39.3",
+      "pali": "Tasmātiha, bhikkhave, tumhe cepi pare sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ, tatra tumhākaṁ evamassa:"
+    },
+    {
+      "id": "mn22:39.4",
+      "pali": "‘yaṁ kho idaṁ pubbe pariññātaṁ, tattha me evarūpā kārā karīyantī’ti."
+    },
+    {
+      "id": "mn22:40.1",
+      "pali": "Tasmātiha, bhikkhave, yaṁ na tumhākaṁ taṁ pajahatha;"
+    },
+    {
+      "id": "mn22:40.2",
+      "pali": "taṁ vo pahīnaṁ dīgharattaṁ hitāya sukhāya bhavissati."
+    },
+    {
+      "id": "mn22:41.1",
+      "pali": "Kiñca, bhikkhave, na tumhākaṁ?"
+    },
+    {
+      "id": "mn22:41.2",
+      "pali": "Rūpaṁ, bhikkhave, na tumhākaṁ, taṁ pajahatha;"
+    },
+    {
+      "id": "mn22:41.3",
+      "pali": "taṁ vo pahīnaṁ dīgharattaṁ hitāya sukhāya bhavissati."
+    },
+    {
+      "id": "mn22:41.4",
+      "pali": "Vedanā, bhikkhave, na tumhākaṁ, taṁ pajahatha;"
+    },
+    {
+      "id": "mn22:41.5",
+      "pali": "sā vo pahīnā dīgharattaṁ hitāya sukhāya bhavissati."
+    },
+    {
+      "id": "mn22:41.6",
+      "pali": "Saññā, bhikkhave, na tumhākaṁ, taṁ pajahatha;"
+    },
+    {
+      "id": "mn22:41.7",
+      "pali": "sā vo pahīnā dīgharattaṁ hitāya sukhāya bhavissati."
+    },
+    {
+      "id": "mn22:41.8",
+      "pali": "Saṅkhārā, bhikkhave, na tumhākaṁ, te pajahatha;"
+    },
+    {
+      "id": "mn22:41.9",
+      "pali": "te vo pahīnā dīgharattaṁ hitāya sukhāya bhavissanti."
+    },
+    {
+      "id": "mn22:41.10",
+      "pali": "Viññāṇaṁ, bhikkhave, na tumhākaṁ, taṁ pajahatha;"
+    },
+    {
+      "id": "mn22:41.11",
+      "pali": "taṁ vo pahīnaṁ dīgharattaṁ hitāya sukhāya bhavissati."
+    },
+    {
+      "id": "mn22:41.12",
+      "pali": "Taṁ kiṁ maññatha, bhikkhave,"
+    },
+    {
+      "id": "mn22:41.13",
+      "pali": "yaṁ imasmiṁ jetavane tiṇakaṭṭhasākhāpalāsaṁ, taṁ jano hareyya vā daheyya vā yathāpaccayaṁ vā kareyya."
+    },
+    {
+      "id": "mn22:41.14",
+      "pali": "Api nu tumhākaṁ evamassa:"
+    },
+    {
+      "id": "mn22:41.15",
+      "pali": "‘amhe jano harati vā dahati vā yathāpaccayaṁ vā karotī’”ti?"
+    },
+    {
+      "id": "mn22:41.16",
+      "pali": "“No hetaṁ, bhante”."
+    },
+    {
+      "id": "mn22:41.17",
+      "pali": "“Taṁ kissa hetu”?"
+    },
+    {
+      "id": "mn22:41.18",
+      "pali": "“Na hi no etaṁ, bhante, attā vā attaniyaṁ vā”ti."
+    },
+    {
+      "id": "mn22:41.19",
+      "pali": "“Evameva kho, bhikkhave, yaṁ na tumhākaṁ taṁ pajahatha;"
+    },
+    {
+      "id": "mn22:41.20",
+      "pali": "taṁ vo pahīnaṁ dīgharattaṁ hitāya sukhāya bhavissati."
+    },
+    {
+      "id": "mn22:41.21",
+      "pali": "Kiñca, bhikkhave, na tumhākaṁ?"
+    },
+    {
+      "id": "mn22:41.22",
+      "pali": "Rūpaṁ, bhikkhave, na tumhākaṁ, taṁ pajahatha;"
+    },
+    {
+      "id": "mn22:41.23",
+      "pali": "taṁ vo pahīnaṁ dīgharattaṁ hitāya sukhāya bhavissati."
+    },
+    {
+      "id": "mn22:41.24",
+      "pali": "Vedanā, bhikkhave …pe…"
+    },
+    {
+      "id": "mn22:41.25",
+      "pali": "saññā, bhikkhave …"
+    },
+    {
+      "id": "mn22:41.26",
+      "pali": "saṅkhārā, bhikkhave …pe…"
+    },
+    {
+      "id": "mn22:41.27",
+      "pali": "viññāṇaṁ, bhikkhave, na tumhākaṁ, taṁ pajahatha;"
+    },
+    {
+      "id": "mn22:41.28",
+      "pali": "taṁ vo pahīnaṁ dīgharattaṁ hitāya sukhāya bhavissati."
+    },
+    {
+      "id": "mn22:42.1",
+      "pali": "Evaṁ svākkhāto, bhikkhave, mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko."
+    },
+    {
+      "id": "mn22:42.2",
+      "pali": "Evaṁ svākkhāte, bhikkhave, mayā dhamme uttāne vivaṭe pakāsite chinnapilotike ye te bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṁyojanā sammadaññāvimuttā, vaṭṭaṁ tesaṁ natthi paññāpanāya."
+    },
+    {
+      "id": "mn22:43.1",
+      "pali": "Evaṁ svākkhāto, bhikkhave, mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko."
+    },
+    {
+      "id": "mn22:43.2",
+      "pali": "Evaṁ svākkhāte, bhikkhave, mayā dhamme uttāne vivaṭe pakāsite chinnapilotike yesaṁ bhikkhūnaṁ pañcorambhāgiyāni saṁyojanāni pahīnāni, sabbe te opapātikā, tattha parinibbāyino, anāvattidhammā tasmā lokā."
+    },
+    {
+      "id": "mn22:44.1",
+      "pali": "Evaṁ svākkhāto, bhikkhave, mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko."
+    },
+    {
+      "id": "mn22:44.2",
+      "pali": "Evaṁ svākkhāte, bhikkhave, mayā dhamme uttāne vivaṭe pakāsite chinnapilotike yesaṁ bhikkhūnaṁ tīṇi saṁyojanāni pahīnāni, rāgadosamohā tanubhūtā, sabbe te sakadāgāmino, sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karissanti."
+    },
+    {
+      "id": "mn22:45.1",
+      "pali": "Evaṁ svākkhāto, bhikkhave, mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko."
+    },
+    {
+      "id": "mn22:45.2",
+      "pali": "Evaṁ svākkhāte, bhikkhave, mayā dhamme uttāne vivaṭe pakāsite chinnapilotike yesaṁ bhikkhūnaṁ tīṇi saṁyojanāni pahīnāni, sabbe te sotāpannā, avinipātadhammā, niyatā sambodhiparāyanā."
+    },
+    {
+      "id": "mn22:46.1",
+      "pali": "Evaṁ svākkhāto, bhikkhave, mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko."
+    },
+    {
+      "id": "mn22:46.2",
+      "pali": "Evaṁ svākkhāte, bhikkhave, mayā dhamme uttāne vivaṭe pakāsite chinnapilotike ye te bhikkhū dhammānusārino saddhānusārino sabbe te sambodhiparāyanā."
+    },
+    {
+      "id": "mn22:47.1",
+      "pali": "Evaṁ svākkhāto, bhikkhave, mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko."
+    },
+    {
+      "id": "mn22:47.2",
+      "pali": "Evaṁ svākkhāte, bhikkhave, mayā dhamme uttāne vivaṭe pakāsite chinnapilotike yesaṁ mayi saddhāmattaṁ pemamattaṁ sabbe te saggaparāyanā”ti."
+    },
+    {
+      "id": "mn22:47.3",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn22:47.4",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn22:47.5",
+      "pali": "Alagaddūpamasuttaṁ niṭṭhitaṁ dutiyaṁ."
+    }
+  ]
+}

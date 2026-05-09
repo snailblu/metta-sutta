@@ -1,0 +1,1735 @@
+{
+  "uid": "mn82",
+  "title": "Raṭṭhapālasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn82:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn82:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā kurūsu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ yena thullakoṭṭhikaṁ nāma kurūnaṁ nigamo tadavasari."
+    },
+    {
+      "id": "mn82:2.1",
+      "pali": "Assosuṁ kho thullakoṭṭhikā brāhmaṇagahapatikā:"
+    },
+    {
+      "id": "mn82:2.2",
+      "pali": "“samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito kurūsu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ thullakoṭṭhikaṁ anuppatto."
+    },
+    {
+      "id": "mn82:2.3",
+      "pali": "Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato:"
+    },
+    {
+      "id": "mn82:2.4",
+      "pali": "‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti."
+    },
+    {
+      "id": "mn82:2.5",
+      "pali": "So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti."
+    },
+    {
+      "id": "mn82:2.6",
+      "pali": "So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ, kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti."
+    },
+    {
+      "id": "mn82:2.7",
+      "pali": "Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti."
+    },
+    {
+      "id": "mn82:3.1",
+      "pali": "Atha kho thullakoṭṭhikā brāhmaṇagahapatikā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā appekacce bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu; appekacce bhagavatā saddhiṁ sammodiṁsu, sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu; appekacce yena bhagavā tenañjaliṁ paṇāmetvā ekamantaṁ nisīdiṁsu; appekacce bhagavato santike nāmagottaṁ sāvetvā ekamantaṁ nisīdiṁsu; appekacce tuṇhībhūtā ekamantaṁ nisīdiṁsu."
+    },
+    {
+      "id": "mn82:3.2",
+      "pali": "Ekamantaṁ nisinne kho thullakoṭṭhike brāhmaṇagahapatike bhagavā dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi."
+    },
+    {
+      "id": "mn82:4.1",
+      "pali": "Tena kho pana samayena raṭṭhapālo nāma kulaputto tasmiṁyeva thullakoṭṭhike aggakulassa putto tissaṁ parisāyaṁ nisinno hoti."
+    },
+    {
+      "id": "mn82:4.2",
+      "pali": "Atha kho raṭṭhapālassa kulaputtassa etadahosi:"
+    },
+    {
+      "id": "mn82:4.3",
+      "pali": "“yathā yathā khvāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ saṅkhalikhitaṁ brahmacariyaṁ carituṁ."
+    },
+    {
+      "id": "mn82:4.4",
+      "pali": "Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan”ti."
+    },
+    {
+      "id": "mn82:5.1",
+      "pali": "Atha kho thullakoṭṭhikā brāhmaṇagahapatikā bhagavatā dhammiyā kathāya sandassitā samādapitā samuttejitā sampahaṁsitā bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkamiṁsu."
+    },
+    {
+      "id": "mn82:6.1",
+      "pali": "Atha kho raṭṭhapālo kulaputto acirapakkantesu thullakoṭṭhikesu brāhmaṇagahapatikesu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho raṭṭhapālo kulaputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn82:6.2",
+      "pali": "“yathā yathāhaṁ, bhante, bhagavatā dhammaṁ desitaṁ ājānāmi, nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ saṅkhalikhitaṁ brahmacariyaṁ carituṁ."
+    },
+    {
+      "id": "mn82:6.3",
+      "pali": "Icchāmahaṁ, bhante, kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajituṁ."
+    },
+    {
+      "id": "mn82:6.4",
+      "pali": "Labheyyāhaṁ, bhante, bhagavato santike pabbajjaṁ, labheyyaṁ upasampadaṁ."
+    },
+    {
+      "id": "mn82:6.5",
+      "pali": "Pabbājetu maṁ bhagavā”ti."
+    },
+    {
+      "id": "mn82:6.6",
+      "pali": "“Anuññātosi pana tvaṁ, raṭṭhapāla, mātāpitūhi agārasmā anagāriyaṁ pabbajjāyā”ti?"
+    },
+    {
+      "id": "mn82:6.7",
+      "pali": "“Na khohaṁ, bhante, anuññāto mātāpitūhi agārasmā anagāriyaṁ pabbajjāyā”ti."
+    },
+    {
+      "id": "mn82:6.8",
+      "pali": "“Na kho, raṭṭhapāla, tathāgatā ananuññātaṁ mātāpitūhi puttaṁ pabbājentī”ti."
+    },
+    {
+      "id": "mn82:6.9",
+      "pali": "“Svāhaṁ, bhante, tathā karissāmi yathā maṁ mātāpitaro anujānissanti agārasmā anagāriyaṁ pabbajjāyā”ti."
+    },
+    {
+      "id": "mn82:7.1",
+      "pali": "Atha kho raṭṭhapālo kulaputto uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā yena mātāpitaro tenupasaṅkami; upasaṅkamitvā mātāpitaro etadavoca:"
+    },
+    {
+      "id": "mn82:7.2",
+      "pali": "“ammatātā, yathā yathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ saṅkhalikhitaṁ brahmacariyaṁ carituṁ."
+    },
+    {
+      "id": "mn82:7.3",
+      "pali": "Icchāmahaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajituṁ."
+    },
+    {
+      "id": "mn82:7.4",
+      "pali": "Anujānātha maṁ agārasmā anagāriyaṁ pabbajjāyā”ti."
+    },
+    {
+      "id": "mn82:7.5",
+      "pali": "Evaṁ vutte, raṭṭhapālassa kulaputtassa mātāpitaro raṭṭhapālaṁ kulaputtaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn82:7.6",
+      "pali": "“tvaṁ khosi, tāta raṭṭhapāla, amhākaṁ ekaputtako piyo manāpo sukhedhito sukhaparibhato."
+    },
+    {
+      "id": "mn82:7.7",
+      "pali": "Na tvaṁ, tāta raṭṭhapāla, kassaci dukkhassa jānāsi."
+    },
+    {
+      "id": "mn82:7.8",
+      "pali": "(…) Maraṇenapi te mayaṁ akāmakā vinā bhavissāma."
+    },
+    {
+      "id": "mn82:7.9",
+      "pali": "Kiṁ pana mayaṁ taṁ jīvantaṁ anujānissāma agārasmā anagāriyaṁ pabbajjāyā”ti?"
+    },
+    {
+      "id": "mn82:7.10",
+      "pali": "Dutiyampi kho raṭṭhapālo kulaputto …pe…"
+    },
+    {
+      "id": "mn82:7.11",
+      "pali": "tatiyampi kho raṭṭhapālo kulaputto mātāpitaro etadavoca:"
+    },
+    {
+      "id": "mn82:7.12",
+      "pali": "“ammatātā, yathā yathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ saṅkhalikhitaṁ brahmacariyaṁ carituṁ."
+    },
+    {
+      "id": "mn82:7.13",
+      "pali": "Icchāmahaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajituṁ."
+    },
+    {
+      "id": "mn82:7.14",
+      "pali": "Anujānātha maṁ agārasmā anagāriyaṁ pabbajjāyā”ti."
+    },
+    {
+      "id": "mn82:7.15",
+      "pali": "Tatiyampi kho raṭṭhapālassa kulaputtassa mātāpitaro raṭṭhapālaṁ kulaputtaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn82:7.16",
+      "pali": "“tvaṁ khosi, tāta raṭṭhapāla, amhākaṁ ekaputtako piyo manāpo sukhedhito sukhaparibhato."
+    },
+    {
+      "id": "mn82:7.17",
+      "pali": "Na tvaṁ, tāta raṭṭhapāla, kassaci dukkhassa jānāsi."
+    },
+    {
+      "id": "mn82:7.18",
+      "pali": "Maraṇenapi te mayaṁ akāmakā vinā bhavissāma."
+    },
+    {
+      "id": "mn82:7.19",
+      "pali": "Kiṁ pana mayaṁ taṁ jīvantaṁ anujānissāma agārasmā anagāriyaṁ pabbajjāyā”ti?"
+    },
+    {
+      "id": "mn82:7.20",
+      "pali": "Atha kho raṭṭhapālo kulaputto:"
+    },
+    {
+      "id": "mn82:7.21",
+      "pali": "“na maṁ mātāpitaro anujānanti agārasmā anagāriyaṁ pabbajjāyā”ti tattheva anantarahitāya bhūmiyā nipajji:"
+    },
+    {
+      "id": "mn82:7.22",
+      "pali": "“idheva me maraṇaṁ bhavissati pabbajjā vā”ti."
+    },
+    {
+      "id": "mn82:7.23",
+      "pali": "Atha kho raṭṭhapālo kulaputto ekampi bhattaṁ na bhuñji, dvepi bhattāni na bhuñji, tīṇipi bhattāni na bhuñji, cattāripi bhattāni na bhuñji, pañcapi bhattāni na bhuñji, chapi bhattāni na bhuñji, sattapi bhattāni na bhuñji."
+    },
+    {
+      "id": "mn82:8.1",
+      "pali": "Atha kho raṭṭhapālassa kulaputtassa mātāpitaro raṭṭhapālaṁ kulaputtaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn82:8.2",
+      "pali": "“tvaṁ khosi, tāta raṭṭhapāla, amhākaṁ ekaputtako piyo manāpo sukhedhito sukhaparibhato."
+    },
+    {
+      "id": "mn82:8.3",
+      "pali": "Na tvaṁ, tāta raṭṭhapāla, kassaci, dukkhassa jānāsi."
+    },
+    {
+      "id": "mn82:8.4",
+      "pali": "Maraṇenapi te mayaṁ akāmakā vinā bhavissāma."
+    },
+    {
+      "id": "mn82:8.5",
+      "pali": "Kiṁ pana mayaṁ taṁ jīvantaṁ anujānissāma agārasmā anagāriyaṁ pabbajjāya."
+    },
+    {
+      "id": "mn82:8.6",
+      "pali": "Uṭṭhehi, tāta raṭṭhapāla, bhuñja ca piva ca paricārehi ca;"
+    },
+    {
+      "id": "mn82:8.7",
+      "pali": "bhuñjanto pivanto paricārento kāme paribhuñjanto puññāni karonto abhiramassu."
+    },
+    {
+      "id": "mn82:8.8",
+      "pali": "Na taṁ mayaṁ anujānāma agārasmā anagāriyaṁ pabbajjāya."
+    },
+    {
+      "id": "mn82:8.9",
+      "pali": "Maraṇenapi te mayaṁ akāmakā vinā bhavissāma."
+    },
+    {
+      "id": "mn82:8.10",
+      "pali": "Kiṁ pana mayaṁ taṁ jīvantaṁ anujānissāma agārasmā anagāriyaṁ pabbajjāyā”ti?"
+    },
+    {
+      "id": "mn82:8.11",
+      "pali": "Evaṁ vutte, raṭṭhapālo kulaputto tuṇhī ahosi."
+    },
+    {
+      "id": "mn82:8.12",
+      "pali": "Dutiyampi kho raṭṭhapālassa kulaputtassa mātāpitaro raṭṭhapālaṁ kulaputtaṁ etadavocuṁ …pe…"
+    },
+    {
+      "id": "mn82:8.13",
+      "pali": "dutiyampi kho raṭṭhapālo kulaputto tuṇhī ahosi."
+    },
+    {
+      "id": "mn82:8.14",
+      "pali": "Tatiyampi kho raṭṭhapālassa kulaputtassa mātāpitaro raṭṭhapālaṁ kulaputtaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn82:8.15",
+      "pali": "“tvaṁ khosi, tāta raṭṭhapāla, amhākaṁ ekaputtako piyo manāpo sukhedhito sukhaparibhato."
+    },
+    {
+      "id": "mn82:8.16",
+      "pali": "Na tvaṁ, tāta raṭṭhapāla, kassaci dukkhassa jānāsi."
+    },
+    {
+      "id": "mn82:8.17",
+      "pali": "Maraṇenapi te mayaṁ akāmakā vinā bhavissāma, kiṁ pana mayaṁ taṁ jīvantaṁ anujānissāma agārasmā anagāriyaṁ pabbajjāya."
+    },
+    {
+      "id": "mn82:8.18",
+      "pali": "Uṭṭhehi, tāta raṭṭhapāla, bhuñja ca piva ca paricārehi ca;"
+    },
+    {
+      "id": "mn82:8.19",
+      "pali": "bhuñjanto pivanto paricārento kāme paribhuñjanto puññāni karonto abhiramassu."
+    },
+    {
+      "id": "mn82:8.20",
+      "pali": "Na taṁ mayaṁ anujānāma agārasmā anagāriyaṁ pabbajjāya."
+    },
+    {
+      "id": "mn82:8.21",
+      "pali": "Maraṇenapi te mayaṁ akāmakā vinā bhavissāma."
+    },
+    {
+      "id": "mn82:8.22",
+      "pali": "Kiṁ pana mayaṁ taṁ jīvantaṁ anujānissāma agārasmā anagāriyaṁ pabbajjāyā”ti?"
+    },
+    {
+      "id": "mn82:9.1",
+      "pali": "Tatiyampi kho raṭṭhapālo kulaputto tuṇhī ahosi."
+    },
+    {
+      "id": "mn82:10.1",
+      "pali": "Atha kho raṭṭhapālassa kulaputtassa sahāyakā yena raṭṭhapālo kulaputto tenupasaṅkamiṁsu; upasaṅkamitvā raṭṭhapālaṁ kulaputtaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn82:10.2",
+      "pali": "“tvaṁ khosi, samma raṭṭhapāla, mātāpitūnaṁ ekaputtako piyo manāpo sukhedhito sukhaparibhato."
+    },
+    {
+      "id": "mn82:10.3",
+      "pali": "Na tvaṁ, samma raṭṭhapāla, kassaci dukkhassa jānāsi."
+    },
+    {
+      "id": "mn82:10.4",
+      "pali": "Maraṇenapi te mātāpitaro akāmakā vinā bhavissanti."
+    },
+    {
+      "id": "mn82:10.5",
+      "pali": "Kiṁ pana te taṁ jīvantaṁ anujānissanti agārasmā anagāriyaṁ pabbajjāya."
+    },
+    {
+      "id": "mn82:10.6",
+      "pali": "Uṭṭhehi, samma raṭṭhapāla, bhuñja ca piva ca paricārehi ca;"
+    },
+    {
+      "id": "mn82:10.7",
+      "pali": "bhuñjanto pivanto paricārento kāme paribhuñjanto puññāni karonto abhiramassu."
+    },
+    {
+      "id": "mn82:10.8",
+      "pali": "Na taṁ mātāpitaro anujānissanti agārasmā anagāriyaṁ pabbajjāya."
+    },
+    {
+      "id": "mn82:10.9",
+      "pali": "Maraṇenapi te mātāpitaro akāmakā vinā bhavissanti."
+    },
+    {
+      "id": "mn82:10.10",
+      "pali": "Kiṁ pana te taṁ jīvantaṁ anujānissanti agārasmā anagāriyaṁ pabbajjāyā”ti?"
+    },
+    {
+      "id": "mn82:10.11",
+      "pali": "Evaṁ vutte, raṭṭhapālo kulaputto tuṇhī ahosi."
+    },
+    {
+      "id": "mn82:10.12",
+      "pali": "Dutiyampi kho …"
+    },
+    {
+      "id": "mn82:10.13",
+      "pali": "tatiyampi kho raṭṭhapālassa kulaputtassa sahāyakā raṭṭhapālaṁ kulaputtaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn82:10.14",
+      "pali": "“tvaṁ khosi, samma raṭṭhapāla, mātāpitūnaṁ ekaputtako piyo manāpo sukhedhito sukhaparibhato, na tvaṁ, samma raṭṭhapāla, kassaci dukkhassa jānāsi, maraṇenapi te mātāpitaro akāmakā vinā bhavissanti."
+    },
+    {
+      "id": "mn82:10.15",
+      "pali": "Kiṁ pana te taṁ jīvantaṁ anujānissanti agārasmā anagāriyaṁ pabbajjāya?"
+    },
+    {
+      "id": "mn82:10.16",
+      "pali": "Uṭṭhehi, samma raṭṭhapāla, bhuñja ca piva ca paricārehi ca, bhuñjanto pivanto paricārento kāme paribhuñjanto puññāni karonto abhiramassu."
+    },
+    {
+      "id": "mn82:10.17",
+      "pali": "Na taṁ mātāpitaro anujānissanti agārasmā anagāriyaṁ pabbajjāya, maraṇenapi te mātāpitaro akāmakā vinā bhavissanti."
+    },
+    {
+      "id": "mn82:10.18",
+      "pali": "Kiṁ pana te taṁ jīvantaṁ anujānissanti agārasmā anagāriyaṁ pabbajjāyā”ti?"
+    },
+    {
+      "id": "mn82:10.19",
+      "pali": "Tatiyampi kho raṭṭhapālo kulaputto tuṇhī ahosi."
+    },
+    {
+      "id": "mn82:11.1",
+      "pali": "Atha kho raṭṭhapālassa kulaputtassa sahāyakā yena raṭṭhapālassa kulaputtassa mātāpitaro tenupasaṅkamiṁsu; upasaṅkamitvā raṭṭhapālassa kulaputtassa mātāpitaro etadavocuṁ:"
+    },
+    {
+      "id": "mn82:11.2",
+      "pali": "“ammatātā, eso raṭṭhapālo kulaputto tattheva anantarahitāya bhūmiyā nipanno:"
+    },
+    {
+      "id": "mn82:11.3",
+      "pali": "‘idheva me maraṇaṁ bhavissati pabbajjā vā’ti."
+    },
+    {
+      "id": "mn82:11.4",
+      "pali": "Sace tumhe raṭṭhapālaṁ kulaputtaṁ nānujānissatha agārasmā anagāriyaṁ pabbajjāya, tattheva maraṇaṁ āgamissati."
+    },
+    {
+      "id": "mn82:11.5",
+      "pali": "Sace pana tumhe raṭṭhapālaṁ kulaputtaṁ anujānissatha agārasmā anagāriyaṁ pabbajjāya, pabbajitampi naṁ dakkhissatha."
+    },
+    {
+      "id": "mn82:11.6",
+      "pali": "Sace raṭṭhapālo kulaputto nābhiramissati agārasmā anagāriyaṁ pabbajjāya, kā tassa aññā gati bhavissati? Idheva paccāgamissati."
+    },
+    {
+      "id": "mn82:11.7",
+      "pali": "Anujānātha raṭṭhapālaṁ kulaputtaṁ agārasmā anagāriyaṁ pabbajjāyā”ti."
+    },
+    {
+      "id": "mn82:11.8",
+      "pali": "“Anujānāma, tātā, raṭṭhapālaṁ kulaputtaṁ agārasmā anagāriyaṁ pabbajjāya."
+    },
+    {
+      "id": "mn82:11.9",
+      "pali": "Pabbajitena ca pana mātāpitaro uddassetabbā”ti."
+    },
+    {
+      "id": "mn82:11.10",
+      "pali": "Atha kho raṭṭhapālassa kulaputtassa sahāyakā yena raṭṭhapālo kulaputto tenupasaṅkamiṁsu; upasaṅkamitvā raṭṭhapālaṁ kulaputtaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn82:11.11",
+      "pali": "“uṭṭhehi, samma raṭṭhapāla, anuññātosi mātāpitūhi agārasmā anagāriyaṁ pabbajjāya."
+    },
+    {
+      "id": "mn82:11.12",
+      "pali": "Pabbajitena ca pana te mātāpitaro uddassetabbā”ti."
+    },
+    {
+      "id": "mn82:12.1",
+      "pali": "Atha kho raṭṭhapālo kulaputto uṭṭhahitvā balaṁ gāhetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho raṭṭhapālo kulaputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn82:12.2",
+      "pali": "“anuññāto ahaṁ, bhante, mātāpitūhi agārasmā anagāriyaṁ pabbajjāya."
+    },
+    {
+      "id": "mn82:12.3",
+      "pali": "Pabbājetu maṁ bhagavā”ti."
+    },
+    {
+      "id": "mn82:13.1",
+      "pali": "Alattha kho raṭṭhapālo kulaputto bhagavato santike pabbajjaṁ, alattha upasampadaṁ."
+    },
+    {
+      "id": "mn82:13.2",
+      "pali": "Atha kho bhagavā acirūpasampanne āyasmante raṭṭhapāle aḍḍhamāsupasampanne thullakoṭṭhike yathābhirantaṁ viharitvā yena sāvatthi tena cārikaṁ pakkāmi."
+    },
+    {
+      "id": "mn82:13.3",
+      "pali": "Anupubbena cārikaṁ caramāno yena sāvatthi tadavasari."
+    },
+    {
+      "id": "mn82:13.4",
+      "pali": "Tatra sudaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn82:14.1",
+      "pali": "Atha kho āyasmā raṭṭhapālo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi."
+    },
+    {
+      "id": "mn82:14.2",
+      "pali": "“Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi."
+    },
+    {
+      "id": "mn82:14.3",
+      "pali": "Aññataro kho panāyasmā raṭṭhapālo arahataṁ ahosi."
+    },
+    {
+      "id": "mn82:15.1",
+      "pali": "Atha kho āyasmā raṭṭhapālo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā raṭṭhapālo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn82:15.2",
+      "pali": "“icchāmahaṁ, bhante, mātāpitaro uddassetuṁ, sace maṁ bhagavā anujānātī”ti."
+    },
+    {
+      "id": "mn82:15.3",
+      "pali": "Atha kho bhagavā āyasmato raṭṭhapālassa cetasā ceto paricca manasākāsi."
+    },
+    {
+      "id": "mn82:15.4",
+      "pali": "Yathā bhagavā aññāsi:"
+    },
+    {
+      "id": "mn82:15.5",
+      "pali": "“abhabbo kho raṭṭhapālo kulaputto sikkhaṁ paccakkhāya hīnāyāvattitun”ti, atha kho bhagavā āyasmantaṁ raṭṭhapālaṁ etadavoca:"
+    },
+    {
+      "id": "mn82:15.6",
+      "pali": "“yassadāni tvaṁ, raṭṭhapāla, kālaṁ maññasī”ti."
+    },
+    {
+      "id": "mn82:16.1",
+      "pali": "Atha kho āyasmā raṭṭhapālo uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā senāsanaṁ saṁsāmetvā pattacīvaramādāya yena thullakoṭṭhikaṁ tena cārikaṁ pakkāmi."
+    },
+    {
+      "id": "mn82:16.2",
+      "pali": "Anupubbena cārikaṁ caramāno yena thullakoṭṭhiko tadavasari."
+    },
+    {
+      "id": "mn82:16.3",
+      "pali": "Tatra sudaṁ āyasmā raṭṭhapālo thullakoṭṭhike viharati rañño korabyassa migacīre."
+    },
+    {
+      "id": "mn82:16.4",
+      "pali": "Atha kho āyasmā raṭṭhapālo pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya thullakoṭṭhikaṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "mn82:16.5",
+      "pali": "Thullakoṭṭhike sapadānaṁ piṇḍāya caramāno yena sakapitu nivesanaṁ tenupasaṅkami."
+    },
+    {
+      "id": "mn82:17.1",
+      "pali": "Tena kho pana samayena āyasmato raṭṭhapālassa pitā majjhimāya dvārasālāya ullikhāpeti."
+    },
+    {
+      "id": "mn82:17.2",
+      "pali": "Addasā kho āyasmato raṭṭhapālassa pitā āyasmantaṁ raṭṭhapālaṁ dūratova āgacchantaṁ."
+    },
+    {
+      "id": "mn82:17.3",
+      "pali": "Disvāna etadavoca:"
+    },
+    {
+      "id": "mn82:17.4",
+      "pali": "“imehi muṇḍakehi samaṇakehi amhākaṁ ekaputtako piyo manāpo pabbājito”ti."
+    },
+    {
+      "id": "mn82:17.5",
+      "pali": "Atha kho āyasmā raṭṭhapālo sakapitu nivesane neva dānaṁ alattha na paccakkhānaṁ;"
+    },
+    {
+      "id": "mn82:17.6",
+      "pali": "aññadatthu akkosameva alattha."
+    },
+    {
+      "id": "mn82:18.1",
+      "pali": "Tena kho pana samayena āyasmato raṭṭhapālassa ñātidāsī ābhidosikaṁ kummāsaṁ chaḍḍetukāmā hoti."
+    },
+    {
+      "id": "mn82:18.2",
+      "pali": "Atha kho āyasmā raṭṭhapālo taṁ ñātidāsiṁ etadavoca:"
+    },
+    {
+      "id": "mn82:18.3",
+      "pali": "“sacetaṁ, bhagini, chaḍḍanīyadhammaṁ, idha me patte ākirā”ti."
+    },
+    {
+      "id": "mn82:18.4",
+      "pali": "Atha kho āyasmato raṭṭhapālassa ñātidāsī taṁ ābhidosikaṁ kummāsaṁ āyasmato raṭṭhapālassa patte ākirantī hatthānañca pādānañca sarassa ca nimittaṁ aggahesi."
+    },
+    {
+      "id": "mn82:18.5",
+      "pali": "Atha kho āyasmato raṭṭhapālassa ñātidāsī yenāyasmato raṭṭhapālassa mātā tenupasaṅkami; upasaṅkamitvā āyasmato raṭṭhapālassa mātaraṁ etadavoca:"
+    },
+    {
+      "id": "mn82:18.6",
+      "pali": "“yaggheyye, jāneyyāsi:"
+    },
+    {
+      "id": "mn82:18.7",
+      "pali": "‘ayyaputto raṭṭhapālo anuppatto’”ti."
+    },
+    {
+      "id": "mn82:18.8",
+      "pali": "“Sace, je, saccaṁ bhaṇasi, adāsiṁ taṁ karomī”ti."
+    },
+    {
+      "id": "mn82:18.9",
+      "pali": "Atha kho āyasmato raṭṭhapālassa mātā yenāyasmato raṭṭhapālassa pitā tenupasaṅkami; upasaṅkamitvā āyasmato raṭṭhapālassa pitaraṁ etadavoca:"
+    },
+    {
+      "id": "mn82:18.10",
+      "pali": "“yagghe, gahapati, jāneyyāsi:"
+    },
+    {
+      "id": "mn82:18.11",
+      "pali": "‘raṭṭhapālo kira kulaputto anuppatto’”ti?"
+    },
+    {
+      "id": "mn82:19.1",
+      "pali": "Tena kho pana samayena āyasmā raṭṭhapālo taṁ ābhidosikaṁ kummāsaṁ aññataraṁ kuṭṭamūlaṁ nissāya paribhuñjati."
+    },
+    {
+      "id": "mn82:19.2",
+      "pali": "Atha kho āyasmato raṭṭhapālassa pitā yenāyasmā raṭṭhapālo tenupasaṅkami; upasaṅkamitvā āyasmantaṁ raṭṭhapālaṁ etadavoca:"
+    },
+    {
+      "id": "mn82:19.3",
+      "pali": "“atthi nāma, tāta raṭṭhapāla, ābhidosikaṁ kummāsaṁ paribhuñjissasi?"
+    },
+    {
+      "id": "mn82:19.4",
+      "pali": "Nanu, tāta raṭṭhapāla, sakaṁ gehaṁ gantabban”ti?"
+    },
+    {
+      "id": "mn82:19.5",
+      "pali": "“Kuto no, gahapati, amhākaṁ gehaṁ agārasmā anagāriyaṁ pabbajitānaṁ?"
+    },
+    {
+      "id": "mn82:19.6",
+      "pali": "Anagārā mayaṁ, gahapati."
+    },
+    {
+      "id": "mn82:19.7",
+      "pali": "Agamamha kho te, gahapati, gehaṁ, tattha neva dānaṁ alatthamha na paccakkhānaṁ;"
+    },
+    {
+      "id": "mn82:19.8",
+      "pali": "aññadatthu akkosameva alatthamhā”ti."
+    },
+    {
+      "id": "mn82:19.9",
+      "pali": "“Ehi, tāta raṭṭhapāla, gharaṁ gamissāmā”ti."
+    },
+    {
+      "id": "mn82:19.10",
+      "pali": "“Alaṁ, gahapati, kataṁ me ajja bhattakiccaṁ”."
+    },
+    {
+      "id": "mn82:19.11",
+      "pali": "“Tena hi, tāta raṭṭhapāla, adhivāsehi svātanāya bhattan”ti."
+    },
+    {
+      "id": "mn82:19.12",
+      "pali": "Adhivāsesi kho āyasmā raṭṭhapālo tuṇhībhāvena."
+    },
+    {
+      "id": "mn82:20.1",
+      "pali": "Atha kho āyasmato raṭṭhapālassa pitā āyasmato raṭṭhapālassa adhivāsanaṁ viditvā yena sakaṁ nivesanaṁ tenupasaṅkami; upasaṅkamitvā mahantaṁ hiraññasuvaṇṇassa puñjaṁ kārāpetvā kilañjehi paṭicchādetvā āyasmato raṭṭhapālassa purāṇadutiyikā āmantesi:"
+    },
+    {
+      "id": "mn82:20.2",
+      "pali": "“etha tumhe, vadhuyo, yena alaṅkārena alaṅkatā pubbe raṭṭhapālassa kulaputtassa piyā hotha manāpā tena alaṅkārena alaṅkarothā”ti."
+    },
+    {
+      "id": "mn82:21.1",
+      "pali": "Atha kho āyasmato raṭṭhapālassa pitā tassā rattiyā accayena sake nivesane paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā āyasmato raṭṭhapālassa kālaṁ ārocesi:"
+    },
+    {
+      "id": "mn82:21.2",
+      "pali": "“kālo, tāta raṭṭhapāla, niṭṭhitaṁ bhattan”ti."
+    },
+    {
+      "id": "mn82:22.1",
+      "pali": "Atha kho āyasmā raṭṭhapālo pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena sakapitu nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Atha kho āyasmato raṭṭhapālassa pitā taṁ hiraññasuvaṇṇassa puñjaṁ vivarāpetvā āyasmantaṁ raṭṭhapālaṁ etadavoca:"
+    },
+    {
+      "id": "mn82:22.2",
+      "pali": "“idaṁ te, tāta raṭṭhapāla, mātu mattikaṁ dhanaṁ, aññaṁ pettikaṁ, aññaṁ pitāmahaṁ."
+    },
+    {
+      "id": "mn82:22.3",
+      "pali": "Sakkā, tāta raṭṭhapāla, bhoge ca bhuñjituṁ puññāni ca kātuṁ."
+    },
+    {
+      "id": "mn82:22.4",
+      "pali": "Ehi tvaṁ, tāta raṭṭhapāla, hīnāyāvattitvā bhoge ca bhuñjassu puññāni ca karohī”ti."
+    },
+    {
+      "id": "mn82:22.5",
+      "pali": "“Sace me tvaṁ, gahapati, vacanaṁ kareyyāsi, imaṁ hiraññasuvaṇṇassa puñjaṁ sakaṭe āropetvā nibbāhāpetvā majjhegaṅgāya nadiyā sote opilāpeyyāsi."
+    },
+    {
+      "id": "mn82:22.6",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn82:22.7",
+      "pali": "Ye uppajjissanti hi te, gahapati, tatonidānaṁ sokaparidevadukkhadomanassupāyāsā”ti."
+    },
+    {
+      "id": "mn82:23.1",
+      "pali": "Atha kho āyasmato raṭṭhapālassa purāṇadutiyikā paccekaṁ pādesu gahetvā āyasmantaṁ raṭṭhapālaṁ etadavocuṁ:"
+    },
+    {
+      "id": "mn82:23.2",
+      "pali": "“kīdisā nāma tā, ayyaputta, accharāyo yāsaṁ tvaṁ hetu brahmacariyaṁ carasī”ti?"
+    },
+    {
+      "id": "mn82:23.3",
+      "pali": "“Na kho mayaṁ, bhaginī, accharānaṁ hetu brahmacariyaṁ carāmā”ti."
+    },
+    {
+      "id": "mn82:23.4",
+      "pali": "“Bhaginivādena no ayyaputto raṭṭhapālo samudācaratī”ti tā tattheva mucchitā papatiṁsu."
+    },
+    {
+      "id": "mn82:24.1",
+      "pali": "Atha kho āyasmā raṭṭhapālo pitaraṁ etadavoca:"
+    },
+    {
+      "id": "mn82:24.2",
+      "pali": "“sace, gahapati, bhojanaṁ dātabbaṁ, detha;"
+    },
+    {
+      "id": "mn82:24.3",
+      "pali": "mā no viheṭhethā”ti."
+    },
+    {
+      "id": "mn82:24.4",
+      "pali": "“Bhuñja, tāta raṭṭhapāla, niṭṭhitaṁ bhattan”ti."
+    },
+    {
+      "id": "mn82:24.5",
+      "pali": "Atha kho āyasmato raṭṭhapālassa pitā āyasmantaṁ raṭṭhapālaṁ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi."
+    },
+    {
+      "id": "mn82:24.6",
+      "pali": "Atha kho āyasmā raṭṭhapālo bhuttāvī onītapattapāṇī ṭhitakova imā gāthā abhāsi:"
+    },
+    {
+      "id": "mn82:25.1",
+      "pali": "“Passa cittīkataṁ bimbaṁ,"
+    },
+    {
+      "id": "mn82:25.2",
+      "pali": "arukāyaṁ samussitaṁ;"
+    },
+    {
+      "id": "mn82:25.3",
+      "pali": "Āturaṁ bahusaṅkappaṁ,"
+    },
+    {
+      "id": "mn82:25.4",
+      "pali": "yassa natthi dhuvaṁ ṭhiti."
+    },
+    {
+      "id": "mn82:25.5",
+      "pali": "Passa cittīkataṁ rūpaṁ,"
+    },
+    {
+      "id": "mn82:25.6",
+      "pali": "maṇinā kuṇḍalena ca;"
+    },
+    {
+      "id": "mn82:25.7",
+      "pali": "Aṭṭhi tacena onaddhaṁ,"
+    },
+    {
+      "id": "mn82:25.8",
+      "pali": "saha vatthebhi sobhati."
+    },
+    {
+      "id": "mn82:25.9",
+      "pali": "Alattakakatā pādā,"
+    },
+    {
+      "id": "mn82:25.10",
+      "pali": "mukhaṁ cuṇṇakamakkhitaṁ;"
+    },
+    {
+      "id": "mn82:25.11",
+      "pali": "Alaṁ bālassa mohāya,"
+    },
+    {
+      "id": "mn82:25.12",
+      "pali": "no ca pāragavesino."
+    },
+    {
+      "id": "mn82:25.13",
+      "pali": "Aṭṭhāpadakatā kesā,"
+    },
+    {
+      "id": "mn82:25.14",
+      "pali": "nettā añjanamakkhitā;"
+    },
+    {
+      "id": "mn82:25.15",
+      "pali": "Alaṁ bālassa mohāya,"
+    },
+    {
+      "id": "mn82:25.16",
+      "pali": "no ca pāragavesino."
+    },
+    {
+      "id": "mn82:25.17",
+      "pali": "Añjanīva navā cittā,"
+    },
+    {
+      "id": "mn82:25.18",
+      "pali": "pūtikāyo alaṅkato;"
+    },
+    {
+      "id": "mn82:25.19",
+      "pali": "Alaṁ bālassa mohāya,"
+    },
+    {
+      "id": "mn82:25.20",
+      "pali": "no ca pāragavesino."
+    },
+    {
+      "id": "mn82:25.21",
+      "pali": "Odahi migavo pāsaṁ,"
+    },
+    {
+      "id": "mn82:25.22",
+      "pali": "nāsadā vākaraṁ migo;"
+    },
+    {
+      "id": "mn82:25.23",
+      "pali": "Bhutvā nivāpaṁ gacchāma,"
+    },
+    {
+      "id": "mn82:25.24",
+      "pali": "kandante migabandhake”ti."
+    },
+    {
+      "id": "mn82:26.1",
+      "pali": "Atha kho āyasmā raṭṭhapālo ṭhitakova imā gāthā bhāsitvā yena rañño korabyassa migacīraṁ tenupasaṅkami; upasaṅkamitvā aññatarasmiṁ rukkhamūle divāvihāraṁ nisīdi."
+    },
+    {
+      "id": "mn82:27.1",
+      "pali": "Atha kho rājā korabyo migavaṁ āmantesi:"
+    },
+    {
+      "id": "mn82:27.2",
+      "pali": "“sodhehi, samma migava, migacīraṁ uyyānabhūmiṁ;"
+    },
+    {
+      "id": "mn82:27.3",
+      "pali": "gacchāma subhūmiṁ dassanāyā”ti."
+    },
+    {
+      "id": "mn82:27.4",
+      "pali": "“Evaṁ, devā”ti kho migavo rañño korabyassa paṭissutvā migacīraṁ sodhento addasa āyasmantaṁ raṭṭhapālaṁ aññatarasmiṁ rukkhamūle divāvihāraṁ nisinnaṁ."
+    },
+    {
+      "id": "mn82:27.5",
+      "pali": "Disvāna yena rājā korabyo tenupasaṅkami; upasaṅkamitvā rājānaṁ korabyaṁ etadavoca:"
+    },
+    {
+      "id": "mn82:27.6",
+      "pali": "“suddhaṁ kho te, deva, migacīraṁ."
+    },
+    {
+      "id": "mn82:27.7",
+      "pali": "Atthi cettha raṭṭhapālo nāma kulaputto imasmiṁyeva thullakoṭṭhike aggakulassa putto yassa tvaṁ abhiṇhaṁ kittayamāno ahosi, so aññatarasmiṁ rukkhamūle divāvihāraṁ nisinno”ti."
+    },
+    {
+      "id": "mn82:27.8",
+      "pali": "“Tena hi, samma migava, alaṁ dānajja uyyānabhūmiyā."
+    },
+    {
+      "id": "mn82:27.9",
+      "pali": "Tameva dāni mayaṁ bhavantaṁ raṭṭhapālaṁ payirupāsissāmā”ti."
+    },
+    {
+      "id": "mn82:28.1",
+      "pali": "Atha kho rājā korabyo “yaṁ tattha khādanīyaṁ bhojanīyaṁ paṭiyattaṁ taṁ sabbaṁ vissajjethā”ti vatvā bhadrāni bhadrāni yānāni yojāpetvā bhadraṁ yānaṁ abhiruhitvā bhadrehi bhadrehi yānehi thullakoṭṭhikamhā niyyāsi mahaccarājānubhāvena āyasmantaṁ raṭṭhapālaṁ dassanāya."
+    },
+    {
+      "id": "mn82:28.2",
+      "pali": "Yāvatikā yānassa bhūmi yānena gantvā yānā paccorohitvā pattikova ussaṭāya ussaṭāya parisāya yenāyasmā raṭṭhapālo tenupasaṅkami; upasaṅkamitvā āyasmatā raṭṭhapālena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho rājā korabyo āyasmantaṁ raṭṭhapālaṁ etadavoca:"
+    },
+    {
+      "id": "mn82:28.3",
+      "pali": "“idha bhavaṁ raṭṭhapālo hatthatthare nisīdatū”ti."
+    },
+    {
+      "id": "mn82:28.4",
+      "pali": "“Alaṁ, mahārāja, nisīda tvaṁ;"
+    },
+    {
+      "id": "mn82:28.5",
+      "pali": "nisinno ahaṁ sake āsane”ti."
+    },
+    {
+      "id": "mn82:28.6",
+      "pali": "Nisīdi rājā korabyo paññatte āsane. Nisajja kho rājā korabyo āyasmantaṁ raṭṭhapālaṁ etadavoca:"
+    },
+    {
+      "id": "mn82:29.1",
+      "pali": "“Cattārimāni, bho raṭṭhapāla, pārijuññāni yehi pārijuññehi samannāgatā idhekacce kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajanti."
+    },
+    {
+      "id": "mn82:29.2",
+      "pali": "Katamāni cattāri?"
+    },
+    {
+      "id": "mn82:29.3",
+      "pali": "Jarāpārijuññaṁ, byādhipārijuññaṁ, bhogapārijuññaṁ, ñātipārijuññaṁ."
+    },
+    {
+      "id": "mn82:30.1",
+      "pali": "Katamañca, bho raṭṭhapāla, jarāpārijuññaṁ?"
+    },
+    {
+      "id": "mn82:30.2",
+      "pali": "Idha, bho raṭṭhapāla, ekacco jiṇṇo hoti vuḍḍho mahallako addhagato vayoanuppatto."
+    },
+    {
+      "id": "mn82:30.3",
+      "pali": "So iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn82:30.4",
+      "pali": "‘ahaṁ khomhi etarahi jiṇṇo vuḍḍho mahallako addhagato vayoanuppatto."
+    },
+    {
+      "id": "mn82:30.5",
+      "pali": "Na kho pana mayā sukaraṁ anadhigataṁ vā bhogaṁ adhigantuṁ adhigataṁ vā bhogaṁ phātiṁ kātuṁ."
+    },
+    {
+      "id": "mn82:30.6",
+      "pali": "Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan’ti."
+    },
+    {
+      "id": "mn82:30.7",
+      "pali": "So tena jarāpārijuññena samannāgato kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati."
+    },
+    {
+      "id": "mn82:30.8",
+      "pali": "Idaṁ vuccati, bho raṭṭhapāla, jarāpārijuññaṁ."
+    },
+    {
+      "id": "mn82:30.9",
+      "pali": "Bhavaṁ kho pana raṭṭhapālo etarahi daharo yuvā susukāḷakeso bhadrena yobbanena samannāgato paṭhamena vayasā."
+    },
+    {
+      "id": "mn82:30.10",
+      "pali": "Taṁ bhoto raṭṭhapālassa jarāpārijuññaṁ natthi."
+    },
+    {
+      "id": "mn82:30.11",
+      "pali": "Kiṁ bhavaṁ raṭṭhapālo ñatvā vā disvā vā sutvā vā agārasmā anagāriyaṁ pabbajito?"
+    },
+    {
+      "id": "mn82:31.1",
+      "pali": "Katamañca, bho raṭṭhapāla, byādhipārijuññaṁ?"
+    },
+    {
+      "id": "mn82:31.2",
+      "pali": "Idha, bho raṭṭhapāla, ekacco ābādhiko hoti dukkhito bāḷhagilāno."
+    },
+    {
+      "id": "mn82:31.3",
+      "pali": "So iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn82:31.4",
+      "pali": "‘ahaṁ khomhi etarahi ābādhiko dukkhito bāḷhagilāno."
+    },
+    {
+      "id": "mn82:31.5",
+      "pali": "Na kho pana mayā sukaraṁ anadhigataṁ vā bhogaṁ adhigantuṁ adhigataṁ vā bhogaṁ phātiṁ kātuṁ."
+    },
+    {
+      "id": "mn82:31.6",
+      "pali": "Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan’ti."
+    },
+    {
+      "id": "mn82:31.7",
+      "pali": "So tena byādhipārijuññena samannāgato kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati."
+    },
+    {
+      "id": "mn82:31.8",
+      "pali": "Idaṁ vuccati, bho raṭṭhapāla, byādhipārijuññaṁ."
+    },
+    {
+      "id": "mn82:31.9",
+      "pali": "Bhavaṁ kho pana raṭṭhapālo etarahi appābādho appātaṅko samavepākiniyā gahaṇiyā samannāgato nātisītāya nāccuṇhāya."
+    },
+    {
+      "id": "mn82:31.10",
+      "pali": "Taṁ bhoto raṭṭhapālassa byādhipārijuññaṁ natthi."
+    },
+    {
+      "id": "mn82:31.11",
+      "pali": "Kiṁ bhavaṁ raṭṭhapālo ñatvā vā disvā vā sutvā vā agārasmā anagāriyaṁ pabbajito?"
+    },
+    {
+      "id": "mn82:32.1",
+      "pali": "Katamañca, bho raṭṭhapāla, bhogapārijuññaṁ?"
+    },
+    {
+      "id": "mn82:32.2",
+      "pali": "Idha, bho raṭṭhapāla, ekacco aḍḍho hoti mahaddhano mahābhogo."
+    },
+    {
+      "id": "mn82:32.3",
+      "pali": "Tassa te bhogā anupubbena parikkhayaṁ gacchanti."
+    },
+    {
+      "id": "mn82:32.4",
+      "pali": "So iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn82:32.5",
+      "pali": "‘ahaṁ kho pubbe aḍḍho ahosiṁ mahaddhano mahābhogo."
+    },
+    {
+      "id": "mn82:32.6",
+      "pali": "Tassa me te bhogā anupubbena parikkhayaṁ gatā."
+    },
+    {
+      "id": "mn82:32.7",
+      "pali": "Na kho pana mayā sukaraṁ anadhigataṁ vā bhogaṁ adhigantuṁ adhigataṁ vā bhogaṁ phātiṁ kātuṁ."
+    },
+    {
+      "id": "mn82:32.8",
+      "pali": "Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan’ti."
+    },
+    {
+      "id": "mn82:32.9",
+      "pali": "So tena bhogapārijuññena samannāgato kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati."
+    },
+    {
+      "id": "mn82:32.10",
+      "pali": "Idaṁ vuccati, bho raṭṭhapāla, bhogapārijuññaṁ."
+    },
+    {
+      "id": "mn82:32.11",
+      "pali": "Bhavaṁ kho pana raṭṭhapālo imasmiṁyeva thullakoṭṭhike aggakulassa putto."
+    },
+    {
+      "id": "mn82:32.12",
+      "pali": "Taṁ bhoto raṭṭhapālassa bhogapārijuññaṁ natthi."
+    },
+    {
+      "id": "mn82:32.13",
+      "pali": "Kiṁ bhavaṁ raṭṭhapālo ñatvā vā disvā vā sutvā vā agārasmā anagāriyaṁ pabbajito?"
+    },
+    {
+      "id": "mn82:33.1",
+      "pali": "Katamañca, bho raṭṭhapāla, ñātipārijuññaṁ?"
+    },
+    {
+      "id": "mn82:33.2",
+      "pali": "Idha, bho raṭṭhapāla, ekaccassa bahū honti mittāmaccā ñātisālohitā."
+    },
+    {
+      "id": "mn82:33.3",
+      "pali": "Tassa te ñātakā anupubbena parikkhayaṁ gacchanti."
+    },
+    {
+      "id": "mn82:33.4",
+      "pali": "So iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn82:33.5",
+      "pali": "‘mamaṁ kho pubbe bahū ahesuṁ mittāmaccā ñātisālohitā."
+    },
+    {
+      "id": "mn82:33.6",
+      "pali": "Tassa me te anupubbena parikkhayaṁ gatā."
+    },
+    {
+      "id": "mn82:33.7",
+      "pali": "Na kho pana mayā sukaraṁ anadhigataṁ vā bhogaṁ adhigantuṁ adhigataṁ vā bhogaṁ phātiṁ kātuṁ."
+    },
+    {
+      "id": "mn82:33.8",
+      "pali": "Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan’ti."
+    },
+    {
+      "id": "mn82:33.9",
+      "pali": "So tena ñātipārijuññena samannāgato kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati."
+    },
+    {
+      "id": "mn82:33.10",
+      "pali": "Idaṁ vuccati, bho raṭṭhapāla, ñātipārijuññaṁ."
+    },
+    {
+      "id": "mn82:33.11",
+      "pali": "Bhoto kho pana raṭṭhapālassa imasmiṁyeva thullakoṭṭhike bahū mittāmaccā ñātisālohitā."
+    },
+    {
+      "id": "mn82:33.12",
+      "pali": "Taṁ bhoto raṭṭhapālassa ñātipārijuññaṁ natthi."
+    },
+    {
+      "id": "mn82:33.13",
+      "pali": "Kiṁ bhavaṁ raṭṭhapālo ñatvā vā disvā vā sutvā vā agārasmā anagāriyaṁ pabbajito?"
+    },
+    {
+      "id": "mn82:34.1",
+      "pali": "Imāni kho, bho raṭṭhapāla, cattāri pārijuññāni, yehi pārijuññehi samannāgatā idhekacce kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajanti."
+    },
+    {
+      "id": "mn82:34.2",
+      "pali": "Tāni bhoto raṭṭhapālassa natthi."
+    },
+    {
+      "id": "mn82:34.3",
+      "pali": "Kiṁ bhavaṁ raṭṭhapālo ñatvā vā disvā vā sutvā vā agārasmā anagāriyaṁ pabbajito”ti?"
+    },
+    {
+      "id": "mn82:35.1",
+      "pali": "“Atthi kho, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro dhammuddesā uddiṭṭhā, ye ahaṁ ñatvā ca disvā ca sutvā ca agārasmā anagāriyaṁ pabbajito."
+    },
+    {
+      "id": "mn82:35.2",
+      "pali": "Katame cattāro?"
+    },
+    {
+      "id": "mn82:36.1",
+      "pali": "‘Upaniyyati loko addhuvo’ti"
+    },
+    {
+      "id": "mn82:36.2",
+      "pali": "kho, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena paṭhamo dhammuddeso uddiṭṭho, yamahaṁ ñatvā ca disvā ca sutvā ca agārasmā anagāriyaṁ pabbajito."
+    },
+    {
+      "id": "mn82:36.3",
+      "pali": "‘Atāṇo loko anabhissaro’ti"
+    },
+    {
+      "id": "mn82:36.4",
+      "pali": "kho, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena dutiyo dhammuddeso uddiṭṭho, yamahaṁ ñatvā ca disvā ca sutvā ca agārasmā anagāriyaṁ pabbajito."
+    },
+    {
+      "id": "mn82:36.5",
+      "pali": "‘Assako loko, sabbaṁ pahāya gamanīyan’ti"
+    },
+    {
+      "id": "mn82:36.6",
+      "pali": "kho, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena tatiyo dhammuddeso uddiṭṭho, yamahaṁ ñatvā ca disvā ca sutvā ca agārasmā anagāriyaṁ pabbajito."
+    },
+    {
+      "id": "mn82:36.7",
+      "pali": "‘Ūno loko atitto taṇhādāso’ti"
+    },
+    {
+      "id": "mn82:36.8",
+      "pali": "kho, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena catuttho dhammuddeso uddiṭṭho, yamahaṁ ñatvā ca disvā ca sutvā ca agārasmā anagāriyaṁ pabbajito."
+    },
+    {
+      "id": "mn82:37.1",
+      "pali": "Ime kho, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro dhammuddesā uddiṭṭhā, ye ahaṁ ñatvā ca disvā ca sutvā ca agārasmā anagāriyaṁ pabbajito”ti."
+    },
+    {
+      "id": "mn82:38.1",
+      "pali": "“‘Upaniyyati loko addhuvo’ti—"
+    },
+    {
+      "id": "mn82:38.2",
+      "pali": "bhavaṁ raṭṭhapālo āha."
+    },
+    {
+      "id": "mn82:38.3",
+      "pali": "Imassa, bho raṭṭhapāla, bhāsitassa kathaṁ attho daṭṭhabbo”ti?"
+    },
+    {
+      "id": "mn82:38.4",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn82:38.5",
+      "pali": "tvaṁ vīsativassuddesikopi paṇṇavīsativassuddesikopi hatthismimpi katāvī assasmimpi katāvī rathasmimpi katāvī dhanusmimpi katāvī tharusmimpi katāvī ūrubalī bāhubalī alamatto saṅgāmāvacaro”ti?"
+    },
+    {
+      "id": "mn82:38.6",
+      "pali": "“Ahosiṁ ahaṁ, bho raṭṭhapāla, vīsativassuddesikopi paṇṇavīsativassuddesikopi hatthismimpi katāvī assasmimpi katāvī rathasmimpi katāvī dhanusmimpi katāvī tharusmimpi katāvī ūrubalī bāhubalī alamatto saṅgāmāvacaro."
+    },
+    {
+      "id": "mn82:38.7",
+      "pali": "Appekadāhaṁ, bho raṭṭhapāla, iddhimāva maññe na attano balena samasamaṁ samanupassāmī”ti."
+    },
+    {
+      "id": "mn82:38.8",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn82:38.9",
+      "pali": "evameva tvaṁ etarahi ūrubalī bāhubalī alamatto saṅgāmāvacaro”ti?"
+    },
+    {
+      "id": "mn82:38.10",
+      "pali": "“No hidaṁ, bho raṭṭhapāla."
+    },
+    {
+      "id": "mn82:38.11",
+      "pali": "Etarahi jiṇṇo vuḍḍho mahallako addhagato vayoanuppatto āsītiko me vayo vattati."
+    },
+    {
+      "id": "mn82:38.12",
+      "pali": "Appekadāhaṁ, bho raṭṭhapāla, ‘idha pādaṁ karissāmī’ti aññeneva pādaṁ karomī”ti."
+    },
+    {
+      "id": "mn82:38.13",
+      "pali": "“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn82:38.14",
+      "pali": "‘upaniyyati loko addhuvo’ti,"
+    },
+    {
+      "id": "mn82:38.15",
+      "pali": "yamahaṁ ñatvā ca disvā ca sutvā ca agārasmā anagāriyaṁ pabbajito”ti."
+    },
+    {
+      "id": "mn82:38.16",
+      "pali": "“Acchariyaṁ, bho raṭṭhapāla, abbhutaṁ, bho raṭṭhapāla."
+    },
+    {
+      "id": "mn82:38.17",
+      "pali": "Yāva subhāsitañcidaṁ tena bhagavatā jānatā passatā arahatā sammāsambuddhena:"
+    },
+    {
+      "id": "mn82:38.18",
+      "pali": "‘upaniyyati loko addhuvo’ti."
+    },
+    {
+      "id": "mn82:38.19",
+      "pali": "Upaniyyati hi, bho raṭṭhapāla, loko addhuvo."
+    },
+    {
+      "id": "mn82:39.1",
+      "pali": "Saṁvijjante kho, bho raṭṭhapāla, imasmiṁ rājakule hatthikāyāpi assakāyāpi rathakāyāpi pattikāyāpi, amhākaṁ āpadāsu pariyodhāya vattissanti."
+    },
+    {
+      "id": "mn82:39.2",
+      "pali": "‘Atāṇo loko anabhissaro’ti—"
+    },
+    {
+      "id": "mn82:39.3",
+      "pali": "bhavaṁ raṭṭhapālo āha."
+    },
+    {
+      "id": "mn82:39.4",
+      "pali": "Imassa pana, bho raṭṭhapāla, bhāsitassa kathaṁ attho daṭṭhabbo”ti?"
+    },
+    {
+      "id": "mn82:39.5",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn82:39.6",
+      "pali": "atthi te koci anusāyiko ābādho”ti?"
+    },
+    {
+      "id": "mn82:39.7",
+      "pali": "“Atthi me, bho raṭṭhapāla, anusāyiko ābādho."
+    },
+    {
+      "id": "mn82:39.8",
+      "pali": "Appekadā maṁ, bho raṭṭhapāla, mittāmaccā ñātisālohitā parivāretvā ṭhitā honti:"
+    },
+    {
+      "id": "mn82:39.9",
+      "pali": "‘idāni rājā korabyo kālaṁ karissati, idāni rājā korabyo kālaṁ karissatī’”ti."
+    },
+    {
+      "id": "mn82:39.10",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn82:39.11",
+      "pali": "labhasi tvaṁ te mittāmacce ñātisālohite:"
+    },
+    {
+      "id": "mn82:39.12",
+      "pali": "‘āyantu me bhonto mittāmaccā ñātisālohitā, sabbeva santā imaṁ vedanaṁ saṁvibhajatha, yathāhaṁ lahukatarikaṁ vedanaṁ vediyeyyan’ti—"
+    },
+    {
+      "id": "mn82:39.13",
+      "pali": "udāhu tvaṁyeva taṁ vedanaṁ vediyasī”ti?"
+    },
+    {
+      "id": "mn82:39.14",
+      "pali": "“Nāhaṁ, bho raṭṭhapāla, labhāmi te mittāmacce ñātisālohite:"
+    },
+    {
+      "id": "mn82:39.15",
+      "pali": "‘āyantu me bhonto mittāmaccā ñātisālohitā, sabbeva santā imaṁ vedanaṁ saṁvibhajatha, yathāhaṁ lahukatarikaṁ vedanaṁ vediyeyyan’ti."
+    },
+    {
+      "id": "mn82:39.16",
+      "pali": "Atha kho ahameva taṁ vedanaṁ vediyāmī”ti."
+    },
+    {
+      "id": "mn82:39.17",
+      "pali": "“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn82:39.18",
+      "pali": "‘atāṇo loko anabhissaro’ti,"
+    },
+    {
+      "id": "mn82:39.19",
+      "pali": "yamahaṁ ñatvā ca disvā ca sutvā ca agārasmā anagāriyaṁ pabbajito”ti."
+    },
+    {
+      "id": "mn82:39.20",
+      "pali": "“Acchariyaṁ, bho raṭṭhapāla, abbhutaṁ, bho raṭṭhapāla."
+    },
+    {
+      "id": "mn82:39.21",
+      "pali": "Yāva subhāsitaṁ cidaṁ tena bhagavatā jānatā passatā arahatā sammāsambuddhena:"
+    },
+    {
+      "id": "mn82:39.22",
+      "pali": "‘atāṇo loko anabhissaro’ti."
+    },
+    {
+      "id": "mn82:39.23",
+      "pali": "Atāṇo hi, bho raṭṭhapāla, loko anabhissaro."
+    },
+    {
+      "id": "mn82:40.1",
+      "pali": "Saṁvijjati kho, bho raṭṭhapāla, imasmiṁ rājakule pahūtaṁ hiraññasuvaṇṇaṁ bhūmigatañca vehāsagatañca."
+    },
+    {
+      "id": "mn82:40.2",
+      "pali": "‘Assako loko, sabbaṁ pahāya gamanīyan’ti—"
+    },
+    {
+      "id": "mn82:40.3",
+      "pali": "bhavaṁ raṭṭhapālo āha."
+    },
+    {
+      "id": "mn82:40.4",
+      "pali": "Imassa pana, bho raṭṭhapāla, bhāsitassa kathaṁ attho daṭṭhabbo”ti?"
+    },
+    {
+      "id": "mn82:40.5",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn82:40.6",
+      "pali": "yathā tvaṁ etarahi pañcahi kāmaguṇehi samappito samaṅgībhūto paricāresi, lacchasi tvaṁ paratthāpi:"
+    },
+    {
+      "id": "mn82:40.7",
+      "pali": "‘evamevāhaṁ imeheva pañcahi kāmaguṇehi samappito samaṅgībhūto paricāremī’ti, udāhu aññe imaṁ bhogaṁ paṭipajjissanti, tvaṁ pana yathākammaṁ gamissasī”ti?"
+    },
+    {
+      "id": "mn82:40.8",
+      "pali": "“Yathāhaṁ, bho raṭṭhapāla, etarahi pañcahi kāmaguṇehi samappito samaṅgībhūto paricāremi, nāhaṁ lacchāmi paratthāpi:"
+    },
+    {
+      "id": "mn82:40.9",
+      "pali": "‘evameva imeheva pañcahi kāmaguṇehi samappito samaṅgībhūto paricāremī’ti."
+    },
+    {
+      "id": "mn82:40.10",
+      "pali": "Atha kho aññe imaṁ bhogaṁ paṭipajjissanti; ahaṁ pana yathākammaṁ gamissāmī”ti."
+    },
+    {
+      "id": "mn82:40.11",
+      "pali": "“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn82:40.12",
+      "pali": "‘assako loko, sabbaṁ pahāya gamanīyan’ti,"
+    },
+    {
+      "id": "mn82:40.13",
+      "pali": "yamahaṁ ñatvā ca disvā ca sutvā ca agārasmā anagāriyaṁ pabbajito”ti."
+    },
+    {
+      "id": "mn82:40.14",
+      "pali": "“Acchariyaṁ, bho raṭṭhapāla, abbhutaṁ, bho raṭṭhapāla."
+    },
+    {
+      "id": "mn82:40.15",
+      "pali": "Yāva subhāsitaṁ cidaṁ tena bhagavatā jānatā passatā arahatā sammāsambuddhena:"
+    },
+    {
+      "id": "mn82:40.16",
+      "pali": "‘assako loko, sabbaṁ pahāya gamanīyan’ti."
+    },
+    {
+      "id": "mn82:40.17",
+      "pali": "Assako hi, bho raṭṭhapāla, loko sabbaṁ pahāya gamanīyaṁ."
+    },
+    {
+      "id": "mn82:41.1",
+      "pali": "‘Ūno loko atitto taṇhādāso’ti—"
+    },
+    {
+      "id": "mn82:41.2",
+      "pali": "bhavaṁ raṭṭhapālo āha."
+    },
+    {
+      "id": "mn82:41.3",
+      "pali": "Imassa, bho raṭṭhapāla, bhāsitassa kathaṁ attho daṭṭhabbo”ti?"
+    },
+    {
+      "id": "mn82:41.4",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn82:41.5",
+      "pali": "phītaṁ kuruṁ ajjhāvasasī”ti?"
+    },
+    {
+      "id": "mn82:41.6",
+      "pali": "“Evaṁ, bho raṭṭhapāla, phītaṁ kuruṁ ajjhāvasāmī”ti."
+    },
+    {
+      "id": "mn82:41.7",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn82:41.8",
+      "pali": "idha puriso āgaccheyya puratthimāya disāya saddhāyiko paccayiko."
+    },
+    {
+      "id": "mn82:41.9",
+      "pali": "So taṁ upasaṅkamitvā evaṁ vadeyya:"
+    },
+    {
+      "id": "mn82:41.10",
+      "pali": "‘yagghe, mahārāja, jāneyyāsi, ahaṁ āgacchāmi puratthimāya disāya?"
+    },
+    {
+      "id": "mn82:41.11",
+      "pali": "Tatthaddasaṁ mahantaṁ janapadaṁ iddhañceva phītañca bahujanaṁ ākiṇṇamanussaṁ."
+    },
+    {
+      "id": "mn82:41.12",
+      "pali": "Bahū tattha hatthikāyā assakāyā rathakāyā pattikāyā;"
+    },
+    {
+      "id": "mn82:41.13",
+      "pali": "bahu tattha dhanadhaññaṁ;"
+    },
+    {
+      "id": "mn82:41.14",
+      "pali": "bahu tattha hiraññasuvaṇṇaṁ akatañceva katañca;"
+    },
+    {
+      "id": "mn82:41.15",
+      "pali": "bahu tattha itthipariggaho."
+    },
+    {
+      "id": "mn82:41.16",
+      "pali": "Sakkā ca tāvatakeneva balamattena abhivijinituṁ."
+    },
+    {
+      "id": "mn82:41.17",
+      "pali": "Abhivijina, mahārājā’ti, kinti naṁ kareyyāsī”ti?"
+    },
+    {
+      "id": "mn82:41.18",
+      "pali": "“Tampi mayaṁ, bho raṭṭhapāla, abhivijiya ajjhāvaseyyāmā”ti."
+    },
+    {
+      "id": "mn82:41.19",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn82:41.20",
+      "pali": "idha puriso āgaccheyya pacchimāya disāya …"
+    },
+    {
+      "id": "mn82:41.21",
+      "pali": "uttarāya disāya …"
+    },
+    {
+      "id": "mn82:41.22",
+      "pali": "dakkhiṇāya disāya …"
+    },
+    {
+      "id": "mn82:41.23",
+      "pali": "parasamuddato saddhāyiko paccayiko."
+    },
+    {
+      "id": "mn82:41.24",
+      "pali": "So taṁ upasaṅkamitvā evaṁ vadeyya:"
+    },
+    {
+      "id": "mn82:41.25",
+      "pali": "‘yagghe, mahārāja, jāneyyāsi, ahaṁ āgacchāmi parasamuddato?"
+    },
+    {
+      "id": "mn82:41.26",
+      "pali": "Tatthaddasaṁ mahantaṁ janapadaṁ iddhañceva phītañca bahujanaṁ ākiṇṇamanussaṁ."
+    },
+    {
+      "id": "mn82:41.27",
+      "pali": "Bahū tattha hatthikāyā assakāyā rathakāyā pattikāyā;"
+    },
+    {
+      "id": "mn82:41.28",
+      "pali": "bahu tattha dhanadhaññaṁ;"
+    },
+    {
+      "id": "mn82:41.29",
+      "pali": "bahu tattha hiraññasuvaṇṇaṁ akatañceva katañca;"
+    },
+    {
+      "id": "mn82:41.30",
+      "pali": "bahu tattha itthipariggaho."
+    },
+    {
+      "id": "mn82:41.31",
+      "pali": "Sakkā ca tāvatakeneva balamattena abhivijinituṁ."
+    },
+    {
+      "id": "mn82:41.32",
+      "pali": "Abhivijina, mahārājā’ti, kinti naṁ kareyyāsī”ti?"
+    },
+    {
+      "id": "mn82:41.33",
+      "pali": "“Tampi mayaṁ, bho raṭṭhapāla, abhivijiya ajjhāvaseyyāmā”ti."
+    },
+    {
+      "id": "mn82:41.34",
+      "pali": "“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn82:41.35",
+      "pali": "‘ūno loko atitto taṇhādāso’ti,"
+    },
+    {
+      "id": "mn82:41.36",
+      "pali": "yamahaṁ ñatvā ca disvā ca sutvā ca agārasmā anagāriyaṁ pabbajito”ti."
+    },
+    {
+      "id": "mn82:41.37",
+      "pali": "“Acchariyaṁ, bho raṭṭhapāla, abbhutaṁ, bho raṭṭhapāla."
+    },
+    {
+      "id": "mn82:41.38",
+      "pali": "Yāva subhāsitañcidaṁ tena bhagavatā jānatā passatā arahatā sammāsambuddhena:"
+    },
+    {
+      "id": "mn82:41.39",
+      "pali": "‘ūno loko atitto taṇhādāso’ti."
+    },
+    {
+      "id": "mn82:41.40",
+      "pali": "Ūno hi, bho raṭṭhapāla, loko atitto taṇhādāso”ti."
+    },
+    {
+      "id": "mn82:42.1",
+      "pali": "Idamavoca āyasmā raṭṭhapālo."
+    },
+    {
+      "id": "mn82:42.2",
+      "pali": "Idaṁ vatvā athāparaṁ etadavoca:"
+    },
+    {
+      "id": "mn82:42.3",
+      "pali": "“Passāmi loke sadhane manusse,"
+    },
+    {
+      "id": "mn82:42.4",
+      "pali": "Laddhāna vittaṁ na dadanti mohā;"
+    },
+    {
+      "id": "mn82:42.5",
+      "pali": "Luddhā dhanaṁ sannicayaṁ karonti,"
+    },
+    {
+      "id": "mn82:42.6",
+      "pali": "Bhiyyova kāme abhipatthayanti."
+    },
+    {
+      "id": "mn82:42.7",
+      "pali": "Rājā pasayhā pathaviṁ vijitvā,"
+    },
+    {
+      "id": "mn82:42.8",
+      "pali": "Sasāgarantaṁ mahimāvasanto;"
+    },
+    {
+      "id": "mn82:42.9",
+      "pali": "Oraṁ samuddassa atittarūpo,"
+    },
+    {
+      "id": "mn82:42.10",
+      "pali": "Pāraṁ samuddassapi patthayetha."
+    },
+    {
+      "id": "mn82:42.11",
+      "pali": "Rājā ca aññe ca bahū manussā,"
+    },
+    {
+      "id": "mn82:42.12",
+      "pali": "Avītataṇhā maraṇaṁ upenti;"
+    },
+    {
+      "id": "mn82:42.13",
+      "pali": "Ūnāva hutvāna jahanti dehaṁ,"
+    },
+    {
+      "id": "mn82:42.14",
+      "pali": "Kāmehi lokamhi na hatthi titti."
+    },
+    {
+      "id": "mn82:42.15",
+      "pali": "Kandanti naṁ ñātī pakiriya kese,"
+    },
+    {
+      "id": "mn82:42.16",
+      "pali": "Ahovatā no amarāti cāhu;"
+    },
+    {
+      "id": "mn82:42.17",
+      "pali": "Vatthena naṁ pārutaṁ nīharitvā,"
+    },
+    {
+      "id": "mn82:42.18",
+      "pali": "Citaṁ samādāya tatoḍahanti."
+    },
+    {
+      "id": "mn82:42.19",
+      "pali": "So ḍayhati sūlehi tujjamāno,"
+    },
+    {
+      "id": "mn82:42.20",
+      "pali": "Ekena vatthena pahāya bhoge;"
+    },
+    {
+      "id": "mn82:42.21",
+      "pali": "Na mīyamānassa bhavanti tāṇā,"
+    },
+    {
+      "id": "mn82:42.22",
+      "pali": "Ñātīdha mittā atha vā sahāyā."
+    },
+    {
+      "id": "mn82:42.23",
+      "pali": "Dāyādakā tassa dhanaṁ haranti,"
+    },
+    {
+      "id": "mn82:42.24",
+      "pali": "Satto pana gacchati yena kammaṁ;"
+    },
+    {
+      "id": "mn82:42.25",
+      "pali": "Na mīyamānaṁ dhanamanveti kiñci,"
+    },
+    {
+      "id": "mn82:42.26",
+      "pali": "Puttā ca dārā ca dhanañca raṭṭhaṁ."
+    },
+    {
+      "id": "mn82:42.27",
+      "pali": "Na dīghamāyuṁ labhate dhanena,"
+    },
+    {
+      "id": "mn82:42.28",
+      "pali": "Na cāpi vittena jaraṁ vihanti;"
+    },
+    {
+      "id": "mn82:42.29",
+      "pali": "Appaṁ hidaṁ jīvitamāhu dhīrā,"
+    },
+    {
+      "id": "mn82:42.30",
+      "pali": "Asassataṁ vippariṇāmadhammaṁ."
+    },
+    {
+      "id": "mn82:42.31",
+      "pali": "Aḍḍhā daliddā ca phusanti phassaṁ,"
+    },
+    {
+      "id": "mn82:42.32",
+      "pali": "Bālo ca dhīro ca tatheva phuṭṭho;"
+    },
+    {
+      "id": "mn82:42.33",
+      "pali": "Bālo ca bālyā vadhitova seti,"
+    },
+    {
+      "id": "mn82:42.34",
+      "pali": "Dhīro ca na vedhati phassaphuṭṭho."
+    },
+    {
+      "id": "mn82:42.35",
+      "pali": "Tasmā hi paññāva dhanena seyyo,"
+    },
+    {
+      "id": "mn82:42.36",
+      "pali": "Yāya vosānamidhādhigacchati;"
+    },
+    {
+      "id": "mn82:42.37",
+      "pali": "Abyositattā hi bhavābhavesu,"
+    },
+    {
+      "id": "mn82:42.38",
+      "pali": "Pāpāni kammāni karonti mohā."
+    },
+    {
+      "id": "mn82:42.39",
+      "pali": "Upeti gabbhañca parañca lokaṁ,"
+    },
+    {
+      "id": "mn82:42.40",
+      "pali": "Saṁsāramāpajja paramparāya;"
+    },
+    {
+      "id": "mn82:42.41",
+      "pali": "Tassappapañño abhisaddahanto,"
+    },
+    {
+      "id": "mn82:42.42",
+      "pali": "Upeti gabbhañca parañca lokaṁ."
+    },
+    {
+      "id": "mn82:42.43",
+      "pali": "Coro yathā sandhimukhe gahito,"
+    },
+    {
+      "id": "mn82:42.44",
+      "pali": "Sakammunā haññati pāpadhammo;"
+    },
+    {
+      "id": "mn82:42.45",
+      "pali": "Evaṁ pajā pecca paramhi loke,"
+    },
+    {
+      "id": "mn82:42.46",
+      "pali": "Sakammunā haññati pāpadhammo."
+    },
+    {
+      "id": "mn82:42.47",
+      "pali": "Kāmāhi citrā madhurā manoramā,"
+    },
+    {
+      "id": "mn82:42.48",
+      "pali": "Virūparūpena mathenti cittaṁ;"
+    },
+    {
+      "id": "mn82:42.49",
+      "pali": "Ādīnavaṁ kāmaguṇesu disvā,"
+    },
+    {
+      "id": "mn82:42.50",
+      "pali": "Tasmā ahaṁ pabbajitomhi rāja."
+    },
+    {
+      "id": "mn82:42.51",
+      "pali": "Dumapphalāneva patanti māṇavā,"
+    },
+    {
+      "id": "mn82:42.52",
+      "pali": "Daharā ca vuḍḍhā ca sarīrabhedā;"
+    },
+    {
+      "id": "mn82:42.53",
+      "pali": "Etampi disvā pabbajitomhi rāja,"
+    },
+    {
+      "id": "mn82:42.54",
+      "pali": "Apaṇṇakaṁ sāmaññameva seyyo”ti."
+    },
+    {
+      "id": "mn82:42.55",
+      "pali": "Raṭṭhapālasuttaṁ niṭṭhitaṁ dutiyaṁ."
+    }
+  ]
+}
