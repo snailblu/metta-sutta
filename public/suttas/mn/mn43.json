@@ -1,0 +1,731 @@
+{
+  "uid": "mn43",
+  "title": "Mahāvedallasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn43:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn43:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn43:1.3",
+      "pali": "Atha kho āyasmā mahākoṭṭhiko sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā āyasmatā sāriputtena saddhiṁ sammodi."
+    },
+    {
+      "id": "mn43:1.4",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā mahākoṭṭhiko āyasmantaṁ sāriputtaṁ etadavoca:"
+    },
+    {
+      "id": "mn43:2.1",
+      "pali": "“‘Duppañño duppañño’ti, āvuso, vuccati."
+    },
+    {
+      "id": "mn43:2.2",
+      "pali": "Kittāvatā nu kho, āvuso, duppaññoti vuccatī”ti?"
+    },
+    {
+      "id": "mn43:2.3",
+      "pali": "“‘Nappajānāti nappajānātī’ti kho, āvuso, tasmā duppaññoti vuccati."
+    },
+    {
+      "id": "mn43:2.4",
+      "pali": "Kiñca nappajānāti?"
+    },
+    {
+      "id": "mn43:2.5",
+      "pali": "‘Idaṁ dukkhan’ti nappajānāti, ‘ayaṁ dukkhasamudayo’ti nappajānāti, ‘ayaṁ dukkhanirodho’ti nappajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti nappajānāti."
+    },
+    {
+      "id": "mn43:2.6",
+      "pali": "‘Nappajānāti nappajānātī’ti kho, āvuso, tasmā duppaññoti vuccatī”ti."
+    },
+    {
+      "id": "mn43:2.7",
+      "pali": "“Sādhāvuso”ti kho āyasmā mahākoṭṭhiko āyasmato sāriputtassa bhāsitaṁ abhinanditvā anumoditvā āyasmantaṁ sāriputtaṁ uttariṁ pañhaṁ apucchi:"
+    },
+    {
+      "id": "mn43:3.1",
+      "pali": "“‘Paññavā paññavā’ti, āvuso, vuccati."
+    },
+    {
+      "id": "mn43:3.2",
+      "pali": "Kittāvatā nu kho, āvuso, paññavāti vuccatī”ti?"
+    },
+    {
+      "id": "mn43:3.3",
+      "pali": "“‘Pajānāti pajānātī’ti kho, āvuso, tasmā paññavāti vuccati."
+    },
+    {
+      "id": "mn43:3.4",
+      "pali": "Kiñca pajānāti?"
+    },
+    {
+      "id": "mn43:3.5",
+      "pali": "‘Idaṁ dukkhan’ti pajānāti, ‘ayaṁ dukkhasamudayo’ti pajānāti, ‘ayaṁ dukkhanirodho’ti pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti pajānāti."
+    },
+    {
+      "id": "mn43:3.6",
+      "pali": "‘Pajānāti pajānātī’ti kho, āvuso, tasmā paññavāti vuccatī”ti."
+    },
+    {
+      "id": "mn43:4.1",
+      "pali": "“‘Viññāṇaṁ viññāṇan’ti, āvuso, vuccati."
+    },
+    {
+      "id": "mn43:4.2",
+      "pali": "Kittāvatā nu kho, āvuso, viññāṇanti vuccatī”ti?"
+    },
+    {
+      "id": "mn43:4.3",
+      "pali": "“‘Vijānāti vijānātī’ti kho, āvuso, tasmā viññāṇanti vuccati."
+    },
+    {
+      "id": "mn43:4.4",
+      "pali": "Kiñca vijānāti?"
+    },
+    {
+      "id": "mn43:4.5",
+      "pali": "Sukhantipi vijānāti, dukkhantipi vijānāti, adukkhamasukhantipi vijānāti."
+    },
+    {
+      "id": "mn43:4.6",
+      "pali": "‘Vijānāti vijānātī’ti kho, āvuso, tasmā viññāṇanti vuccatī”ti."
+    },
+    {
+      "id": "mn43:5.1",
+      "pali": "“Yā cāvuso, paññā yañca viññāṇaṁ—"
+    },
+    {
+      "id": "mn43:5.2",
+      "pali": "ime dhammā saṁsaṭṭhā udāhu visaṁsaṭṭhā?"
+    },
+    {
+      "id": "mn43:5.3",
+      "pali": "Labbhā ca panimesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetun”ti?"
+    },
+    {
+      "id": "mn43:5.4",
+      "pali": "“Yā cāvuso, paññā yañca viññāṇaṁ—"
+    },
+    {
+      "id": "mn43:5.5",
+      "pali": "ime dhammā saṁsaṭṭhā, no visaṁsaṭṭhā."
+    },
+    {
+      "id": "mn43:5.6",
+      "pali": "Na ca labbhā imesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetuṁ."
+    },
+    {
+      "id": "mn43:5.7",
+      "pali": "Yaṁ hāvuso, pajānāti taṁ vijānāti, yaṁ vijānāti taṁ pajānāti."
+    },
+    {
+      "id": "mn43:5.8",
+      "pali": "Tasmā ime dhammā saṁsaṭṭhā, no visaṁsaṭṭhā."
+    },
+    {
+      "id": "mn43:5.9",
+      "pali": "Na ca labbhā imesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetun”ti."
+    },
+    {
+      "id": "mn43:6.1",
+      "pali": "“Yā cāvuso, paññā yañca viññāṇaṁ—"
+    },
+    {
+      "id": "mn43:6.2",
+      "pali": "imesaṁ dhammānaṁ saṁsaṭṭhānaṁ no visaṁsaṭṭhānaṁ kiṁ nānākaraṇan”ti?"
+    },
+    {
+      "id": "mn43:6.3",
+      "pali": "“Yā cāvuso, paññā yañca viññāṇaṁ—"
+    },
+    {
+      "id": "mn43:6.4",
+      "pali": "imesaṁ dhammānaṁ saṁsaṭṭhānaṁ no visaṁsaṭṭhānaṁ paññā bhāvetabbā, viññāṇaṁ pariññeyyaṁ."
+    },
+    {
+      "id": "mn43:6.5",
+      "pali": "Idaṁ nesaṁ nānākaraṇan”ti."
+    },
+    {
+      "id": "mn43:7.1",
+      "pali": "“‘Vedanā vedanā’ti, āvuso, vuccati."
+    },
+    {
+      "id": "mn43:7.2",
+      "pali": "Kittāvatā nu kho, āvuso, vedanāti vuccatī”ti?"
+    },
+    {
+      "id": "mn43:7.3",
+      "pali": "“‘Vedeti vedetī’ti kho, āvuso, tasmā vedanāti vuccati."
+    },
+    {
+      "id": "mn43:7.4",
+      "pali": "Kiñca vedeti?"
+    },
+    {
+      "id": "mn43:7.5",
+      "pali": "Sukhampi vedeti, dukkhampi vedeti, adukkhamasukhampi vedeti."
+    },
+    {
+      "id": "mn43:7.6",
+      "pali": "‘Vedeti vedetī’ti kho, āvuso, tasmā vedanāti vuccatī”ti."
+    },
+    {
+      "id": "mn43:8.1",
+      "pali": "“‘Saññā saññā’ti, āvuso, vuccati."
+    },
+    {
+      "id": "mn43:8.2",
+      "pali": "Kittāvatā nu kho, āvuso, saññāti vuccatī”ti?"
+    },
+    {
+      "id": "mn43:8.3",
+      "pali": "“‘Sañjānāti sañjānātī’ti kho, āvuso, tasmā saññāti vuccati."
+    },
+    {
+      "id": "mn43:8.4",
+      "pali": "Kiñca sañjānāti?"
+    },
+    {
+      "id": "mn43:8.5",
+      "pali": "Nīlakampi sañjānāti, pītakampi sañjānāti, lohitakampi sañjānāti, odātampi sañjānāti."
+    },
+    {
+      "id": "mn43:8.6",
+      "pali": "‘Sañjānāti sañjānātī’ti kho, āvuso, tasmā saññāti vuccatī”ti."
+    },
+    {
+      "id": "mn43:9.1",
+      "pali": "“Yā cāvuso, vedanā yā ca saññā yañca viññāṇaṁ—"
+    },
+    {
+      "id": "mn43:9.2",
+      "pali": "ime dhammā saṁsaṭṭhā udāhu visaṁsaṭṭhā?"
+    },
+    {
+      "id": "mn43:9.3",
+      "pali": "Labbhā ca panimesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetun”ti?"
+    },
+    {
+      "id": "mn43:9.4",
+      "pali": "“Yā cāvuso, vedanā yā ca saññā yañca viññāṇaṁ—"
+    },
+    {
+      "id": "mn43:9.5",
+      "pali": "ime dhammā saṁsaṭṭhā, no visaṁsaṭṭhā."
+    },
+    {
+      "id": "mn43:9.6",
+      "pali": "Na ca labbhā imesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetuṁ."
+    },
+    {
+      "id": "mn43:9.7",
+      "pali": "Yaṁ hāvuso, vedeti taṁ sañjānāti, yaṁ sañjānāti taṁ vijānāti."
+    },
+    {
+      "id": "mn43:9.8",
+      "pali": "Tasmā ime dhammā saṁsaṭṭhā no visaṁsaṭṭhā."
+    },
+    {
+      "id": "mn43:9.9",
+      "pali": "Na ca labbhā imesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetun”ti."
+    },
+    {
+      "id": "mn43:10.1",
+      "pali": "“Nissaṭṭhena hāvuso, pañcahi indriyehi parisuddhena manoviññāṇena kiṁ neyyan”ti?"
+    },
+    {
+      "id": "mn43:10.2",
+      "pali": "“Nissaṭṭhena, āvuso, pañcahi indriyehi parisuddhena manoviññāṇena ‘ananto ākāso’ti ākāsānañcāyatanaṁ neyyaṁ, ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ neyyaṁ, ‘natthi kiñcī’ti ākiñcaññāyatanaṁ neyyan”ti."
+    },
+    {
+      "id": "mn43:11.1",
+      "pali": "“Neyyaṁ panāvuso, dhammaṁ kena pajānātī”ti?"
+    },
+    {
+      "id": "mn43:11.2",
+      "pali": "“Neyyaṁ kho, āvuso, dhammaṁ paññācakkhunā pajānātī”ti."
+    },
+    {
+      "id": "mn43:12.1",
+      "pali": "“Paññā panāvuso, kimatthiyā”ti?"
+    },
+    {
+      "id": "mn43:12.2",
+      "pali": "“Paññā kho, āvuso, abhiññatthā pariññatthā pahānatthā”ti."
+    },
+    {
+      "id": "mn43:13.1",
+      "pali": "“Kati panāvuso, paccayā sammādiṭṭhiyā uppādāyā”ti?"
+    },
+    {
+      "id": "mn43:13.2",
+      "pali": "“Dve kho, āvuso, paccayā sammādiṭṭhiyā uppādāya—"
+    },
+    {
+      "id": "mn43:13.3",
+      "pali": "parato ca ghoso, yoniso ca manasikāro."
+    },
+    {
+      "id": "mn43:13.4",
+      "pali": "Ime kho, āvuso, dve paccayā sammādiṭṭhiyā uppādāyā”ti."
+    },
+    {
+      "id": "mn43:14.1",
+      "pali": "“Katihi panāvuso, aṅgehi anuggahitā sammādiṭṭhi cetovimuttiphalā ca hoti cetovimuttiphalānisaṁsā ca, paññāvimuttiphalā ca hoti paññāvimuttiphalānisaṁsā cā”ti?"
+    },
+    {
+      "id": "mn43:14.2",
+      "pali": "“Pañcahi kho, āvuso, aṅgehi anuggahitā sammādiṭṭhi cetovimuttiphalā ca hoti cetovimuttiphalānisaṁsā ca, paññāvimuttiphalā ca hoti paññāvimuttiphalānisaṁsā ca."
+    },
+    {
+      "id": "mn43:14.3",
+      "pali": "Idhāvuso, sammādiṭṭhi sīlānuggahitā ca hoti, sutānuggahitā ca hoti, sākacchānuggahitā ca hoti, samathānuggahitā ca hoti, vipassanānuggahitā ca hoti."
+    },
+    {
+      "id": "mn43:14.4",
+      "pali": "Imehi kho, āvuso, pañcahaṅgehi anuggahitā sammādiṭṭhi cetovimuttiphalā ca hoti cetovimuttiphalānisaṁsā ca, paññāvimuttiphalā ca hoti paññāvimuttiphalānisaṁsā cā”ti."
+    },
+    {
+      "id": "mn43:15.1",
+      "pali": "“Kati panāvuso, bhavā”ti?"
+    },
+    {
+      "id": "mn43:15.2",
+      "pali": "“Tayome, āvuso, bhavā—"
+    },
+    {
+      "id": "mn43:15.3",
+      "pali": "kāmabhavo, rūpabhavo, arūpabhavo”ti."
+    },
+    {
+      "id": "mn43:16.1",
+      "pali": "“Kathaṁ panāvuso, āyatiṁ punabbhavābhinibbatti hotī”ti?"
+    },
+    {
+      "id": "mn43:16.2",
+      "pali": "“Avijjānīvaraṇānaṁ kho, āvuso, sattānaṁ taṇhāsaṁyojanānaṁ tatratatrābhinandanā—"
+    },
+    {
+      "id": "mn43:16.3",
+      "pali": "evaṁ āyatiṁ punabbhavābhinibbatti hotī”ti."
+    },
+    {
+      "id": "mn43:17.1",
+      "pali": "“Kathaṁ panāvuso, āyatiṁ punabbhavābhinibbatti na hotī”ti?"
+    },
+    {
+      "id": "mn43:17.2",
+      "pali": "“Avijjāvirāgā kho, āvuso, vijjuppādā taṇhānirodhā—"
+    },
+    {
+      "id": "mn43:17.3",
+      "pali": "evaṁ āyatiṁ punabbhavābhinibbatti na hotī”ti."
+    },
+    {
+      "id": "mn43:18.1",
+      "pali": "“Katamaṁ panāvuso, paṭhamaṁ jhānan”ti?"
+    },
+    {
+      "id": "mn43:18.2",
+      "pali": "“Idhāvuso, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati—"
+    },
+    {
+      "id": "mn43:18.3",
+      "pali": "idaṁ vuccati, āvuso, paṭhamaṁ jhānan”ti."
+    },
+    {
+      "id": "mn43:19.1",
+      "pali": "“Paṭhamaṁ panāvuso, jhānaṁ katiaṅgikan”ti?"
+    },
+    {
+      "id": "mn43:19.2",
+      "pali": "“Paṭhamaṁ kho, āvuso, jhānaṁ pañcaṅgikaṁ."
+    },
+    {
+      "id": "mn43:19.3",
+      "pali": "Idhāvuso, paṭhamaṁ jhānaṁ samāpannassa bhikkhuno vitakko ca vattati, vicāro ca pīti ca sukhañca cittekaggatā ca."
+    },
+    {
+      "id": "mn43:19.4",
+      "pali": "Paṭhamaṁ kho, āvuso, jhānaṁ evaṁ pañcaṅgikan”ti."
+    },
+    {
+      "id": "mn43:20.1",
+      "pali": "“Paṭhamaṁ panāvuso, jhānaṁ kataṅgavippahīnaṁ kataṅgasamannāgatan”ti?"
+    },
+    {
+      "id": "mn43:20.2",
+      "pali": "“Paṭhamaṁ kho, āvuso, jhānaṁ pañcaṅgavippahīnaṁ, pañcaṅgasamannāgataṁ."
+    },
+    {
+      "id": "mn43:20.3",
+      "pali": "Idhāvuso, paṭhamaṁ jhānaṁ samāpannassa bhikkhuno kāmacchando pahīno hoti, byāpādo pahīno hoti, thinamiddhaṁ pahīnaṁ hoti, uddhaccakukkuccaṁ pahīnaṁ hoti, vicikicchā pahīnā hoti;"
+    },
+    {
+      "id": "mn43:20.4",
+      "pali": "vitakko ca vattati, vicāro ca pīti ca sukhañca cittekaggatā ca."
+    },
+    {
+      "id": "mn43:20.5",
+      "pali": "Paṭhamaṁ kho, āvuso, jhānaṁ evaṁ pañcaṅgavippahīnaṁ pañcaṅgasamannāgatan”ti."
+    },
+    {
+      "id": "mn43:21.1",
+      "pali": "“Pañcimāni, āvuso, indriyāni nānāvisayāni nānāgocarāni, na aññamaññassa gocaravisayaṁ paccanubhonti, seyyathidaṁ—"
+    },
+    {
+      "id": "mn43:21.2",
+      "pali": "cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ."
+    },
+    {
+      "id": "mn43:21.3",
+      "pali": "Imesaṁ kho, āvuso, pañcannaṁ indriyānaṁ nānāvisayānaṁ nānāgocarānaṁ, na aññamaññassa gocaravisayaṁ paccanubhontānaṁ, kiṁ paṭisaraṇaṁ, ko ca nesaṁ gocaravisayaṁ paccanubhotī”ti?"
+    },
+    {
+      "id": "mn43:21.4",
+      "pali": "“Pañcimāni, āvuso, indriyāni nānāvisayāni nānāgocarāni, na aññamaññassa gocaravisayaṁ paccanubhonti, seyyathidaṁ—"
+    },
+    {
+      "id": "mn43:21.5",
+      "pali": "cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ."
+    },
+    {
+      "id": "mn43:21.6",
+      "pali": "Imesaṁ kho, āvuso, pañcannaṁ indriyānaṁ nānāvisayānaṁ nānāgocarānaṁ, na aññamaññassa gocaravisayaṁ paccanubhontānaṁ, mano paṭisaraṇaṁ, mano ca nesaṁ gocaravisayaṁ paccanubhotī”ti."
+    },
+    {
+      "id": "mn43:22.1",
+      "pali": "“Pañcimāni, āvuso, indriyāni, seyyathidaṁ—"
+    },
+    {
+      "id": "mn43:22.2",
+      "pali": "cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ."
+    },
+    {
+      "id": "mn43:22.3",
+      "pali": "Imāni kho, āvuso, pañcindriyāni kiṁ paṭicca tiṭṭhantī”ti?"
+    },
+    {
+      "id": "mn43:22.4",
+      "pali": "“Pañcimāni, āvuso, indriyāni, seyyathidaṁ—"
+    },
+    {
+      "id": "mn43:22.5",
+      "pali": "cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ."
+    },
+    {
+      "id": "mn43:22.6",
+      "pali": "Imāni kho, āvuso, pañcindriyāni āyuṁ paṭicca tiṭṭhantī”ti."
+    },
+    {
+      "id": "mn43:22.7",
+      "pali": "“Āyu panāvuso, kiṁ paṭicca tiṭṭhatī”ti?"
+    },
+    {
+      "id": "mn43:22.8",
+      "pali": "“Āyu usmaṁ paṭicca tiṭṭhatī”ti."
+    },
+    {
+      "id": "mn43:22.9",
+      "pali": "“Usmā panāvuso, kiṁ paṭicca tiṭṭhatī”ti?"
+    },
+    {
+      "id": "mn43:22.10",
+      "pali": "“Usmā āyuṁ paṭicca tiṭṭhatī”ti."
+    },
+    {
+      "id": "mn43:22.11",
+      "pali": "“Idāneva kho mayaṁ, āvuso, āyasmato sāriputtassa bhāsitaṁ evaṁ ājānāma:"
+    },
+    {
+      "id": "mn43:22.12",
+      "pali": "‘āyu usmaṁ paṭicca tiṭṭhatī’ti."
+    },
+    {
+      "id": "mn43:22.13",
+      "pali": "Idāneva pana mayaṁ, āvuso, āyasmato sāriputtassa bhāsitaṁ evaṁ ājānāma:"
+    },
+    {
+      "id": "mn43:22.14",
+      "pali": "‘usmā āyuṁ paṭicca tiṭṭhatī’ti."
+    },
+    {
+      "id": "mn43:22.15",
+      "pali": "Yathā kathaṁ panāvuso, imassa bhāsitassa attho daṭṭhabbo”ti?"
+    },
+    {
+      "id": "mn43:22.16",
+      "pali": "“Tena hāvuso, upamaṁ te karissāmi;"
+    },
+    {
+      "id": "mn43:22.17",
+      "pali": "upamāyapidhekacce viññū purisā bhāsitassa atthaṁ ājānanti."
+    },
+    {
+      "id": "mn43:22.18",
+      "pali": "Seyyathāpi, āvuso, telappadīpassa jhāyato acciṁ paṭicca ābhā paññāyati, ābhaṁ paṭicca acci paññāyati;"
+    },
+    {
+      "id": "mn43:22.19",
+      "pali": "evameva kho, āvuso, āyu usmaṁ paṭicca tiṭṭhati, usmā āyuṁ paṭicca tiṭṭhatī”ti."
+    },
+    {
+      "id": "mn43:23.1",
+      "pali": "“Teva nu kho, āvuso, āyusaṅkhārā, te vedaniyā dhammā udāhu aññe āyusaṅkhārā aññe vedaniyā dhammā”ti?"
+    },
+    {
+      "id": "mn43:23.2",
+      "pali": "“Na kho, āvuso, teva āyusaṅkhārā te vedaniyā dhammā."
+    },
+    {
+      "id": "mn43:23.3",
+      "pali": "Te ca hāvuso, āyusaṅkhārā abhaviṁsu te vedaniyā dhammā, na yidaṁ saññāvedayitanirodhaṁ samāpannassa bhikkhuno vuṭṭhānaṁ paññāyetha."
+    },
+    {
+      "id": "mn43:23.4",
+      "pali": "Yasmā ca kho, āvuso, aññe āyusaṅkhārā aññe vedaniyā dhammā, tasmā saññāvedayitanirodhaṁ samāpannassa bhikkhuno vuṭṭhānaṁ paññāyatī”ti."
+    },
+    {
+      "id": "mn43:24.1",
+      "pali": "“Yadā nu kho, āvuso, imaṁ kāyaṁ kati dhammā jahanti; athāyaṁ kāyo ujjhito avakkhitto seti, yathā kaṭṭhaṁ acetanan”ti?"
+    },
+    {
+      "id": "mn43:24.2",
+      "pali": "“Yadā kho, āvuso, imaṁ kāyaṁ tayo dhammā jahanti—āyu usmā ca viññāṇaṁ; athāyaṁ kāyo ujjhito avakkhitto seti, yathā kaṭṭhaṁ acetanan”ti."
+    },
+    {
+      "id": "mn43:25.1",
+      "pali": "“Yvāyaṁ, āvuso, mato kālaṅkato, yo cāyaṁ bhikkhu saññāvedayitanirodhaṁ samāpanno—imesaṁ kiṁ nānākaraṇan”ti?"
+    },
+    {
+      "id": "mn43:25.2",
+      "pali": "“Yvāyaṁ, āvuso, mato kālaṅkato tassa kāyasaṅkhārā niruddhā paṭippassaddhā, vacīsaṅkhārā niruddhā paṭippassaddhā, cittasaṅkhārā niruddhā paṭippassaddhā, āyu parikkhīṇo, usmā vūpasantā, indriyāni paribhinnāni."
+    },
+    {
+      "id": "mn43:25.3",
+      "pali": "Yo cāyaṁ bhikkhu saññāvedayitanirodhaṁ samāpanno tassapi kāyasaṅkhārā niruddhā paṭippassaddhā, vacīsaṅkhārā niruddhā paṭippassaddhā, cittasaṅkhārā niruddhā paṭippassaddhā, āyu na parikkhīṇo, usmā avūpasantā, indriyāni vippasannāni."
+    },
+    {
+      "id": "mn43:25.4",
+      "pali": "Yvāyaṁ, āvuso, mato kālaṅkato, yo cāyaṁ bhikkhu saññāvedayitanirodhaṁ samāpanno—idaṁ nesaṁ nānākaraṇan”ti."
+    },
+    {
+      "id": "mn43:26.1",
+      "pali": "“Kati panāvuso, paccayā adukkhamasukhāya cetovimuttiyā samāpattiyā”ti?"
+    },
+    {
+      "id": "mn43:26.2",
+      "pali": "“Cattāro kho, āvuso, paccayā adukkhamasukhāya cetovimuttiyā samāpattiyā."
+    },
+    {
+      "id": "mn43:26.3",
+      "pali": "Idhāvuso, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn43:26.4",
+      "pali": "Ime kho, āvuso, cattāro paccayā adukkhamasukhāya cetovimuttiyā samāpattiyā”ti."
+    },
+    {
+      "id": "mn43:27.1",
+      "pali": "“Kati panāvuso, paccayā animittāya cetovimuttiyā samāpattiyā”ti?"
+    },
+    {
+      "id": "mn43:27.2",
+      "pali": "“Dve kho, āvuso, paccayā animittāya cetovimuttiyā samāpattiyā—"
+    },
+    {
+      "id": "mn43:27.3",
+      "pali": "sabbanimittānañca amanasikāro, animittāya ca dhātuyā manasikāro."
+    },
+    {
+      "id": "mn43:27.4",
+      "pali": "Ime kho, āvuso, dve paccayā animittāya cetovimuttiyā samāpattiyā”ti."
+    },
+    {
+      "id": "mn43:27.5",
+      "pali": "“Kati panāvuso, paccayā animittāya cetovimuttiyā ṭhitiyā”ti?"
+    },
+    {
+      "id": "mn43:28.1",
+      "pali": "“Tayo kho, āvuso, paccayā animittāya cetovimuttiyā ṭhitiyā—"
+    },
+    {
+      "id": "mn43:28.2",
+      "pali": "sabbanimittānañca amanasikāro, animittāya ca dhātuyā manasikāro, pubbe ca abhisaṅkhāro."
+    },
+    {
+      "id": "mn43:28.3",
+      "pali": "Ime kho, āvuso, tayo paccayā animittāya cetovimuttiyā ṭhitiyā”ti."
+    },
+    {
+      "id": "mn43:29.1",
+      "pali": "“Kati panāvuso, paccayā animittāya cetovimuttiyā vuṭṭhānāyā”ti?"
+    },
+    {
+      "id": "mn43:29.2",
+      "pali": "“Dve kho, āvuso, paccayā animittāya cetovimuttiyā vuṭṭhānāya—"
+    },
+    {
+      "id": "mn43:29.3",
+      "pali": "sabbanimittānañca manasikāro, animittāya ca dhātuyā amanasikāro."
+    },
+    {
+      "id": "mn43:29.4",
+      "pali": "Ime kho, āvuso, dve paccayā animittāya cetovimuttiyā vuṭṭhānāyā”ti."
+    },
+    {
+      "id": "mn43:29.5",
+      "pali": "“Yā cāyaṁ, āvuso, appamāṇā cetovimutti, yā ca ākiñcaññā cetovimutti, yā ca suññatā cetovimutti, yā ca animittā cetovimutti—ime dhammā nānātthā ceva nānābyañjanā ca udāhu ekatthā byañjanameva nānan”ti?"
+    },
+    {
+      "id": "mn43:30.1",
+      "pali": "“Yā cāyaṁ, āvuso, appamāṇā cetovimutti, yā ca ākiñcaññā cetovimutti, yā ca suññatā cetovimutti, yā ca animittā cetovimutti—atthi kho, āvuso, pariyāyo yaṁ pariyāyaṁ āgamma ime dhammā nānātthā ceva nānābyañjanā ca;"
+    },
+    {
+      "id": "mn43:30.2",
+      "pali": "atthi ca kho, āvuso, pariyāyo yaṁ pariyāyaṁ āgamma ime dhammā ekatthā, byañjanameva nānaṁ."
+    },
+    {
+      "id": "mn43:31.1",
+      "pali": "Katamo cāvuso, pariyāyo yaṁ pariyāyaṁ āgamma ime dhammā nānātthā ceva nānābyañjanā ca?"
+    },
+    {
+      "id": "mn43:31.2",
+      "pali": "Idhāvuso, bhikkhu mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati."
+    },
+    {
+      "id": "mn43:31.3",
+      "pali": "Karuṇāsahagatena cetasā …pe…"
+    },
+    {
+      "id": "mn43:31.4",
+      "pali": "muditāsahagatena cetasā …"
+    },
+    {
+      "id": "mn43:31.5",
+      "pali": "upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharati, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati."
+    },
+    {
+      "id": "mn43:31.6",
+      "pali": "Ayaṁ vuccatāvuso, appamāṇā cetovimutti."
+    },
+    {
+      "id": "mn43:32.1",
+      "pali": "Katamā cāvuso, ākiñcaññā cetovimutti?"
+    },
+    {
+      "id": "mn43:32.2",
+      "pali": "Idhāvuso, bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma natthi kiñcīti ākiñcaññāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn43:32.3",
+      "pali": "Ayaṁ vuccatāvuso, ākiñcaññā cetovimutti."
+    },
+    {
+      "id": "mn43:33.1",
+      "pali": "Katamā cāvuso, suññatā cetovimutti?"
+    },
+    {
+      "id": "mn43:33.2",
+      "pali": "Idhāvuso, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn43:33.3",
+      "pali": "‘suññamidaṁ attena vā attaniyena vā’ti."
+    },
+    {
+      "id": "mn43:33.4",
+      "pali": "Ayaṁ vuccatāvuso, suññatā cetovimutti."
+    },
+    {
+      "id": "mn43:34.1",
+      "pali": "Katamā cāvuso, animittā cetovimutti?"
+    },
+    {
+      "id": "mn43:34.2",
+      "pali": "Idhāvuso, bhikkhu sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharati."
+    },
+    {
+      "id": "mn43:34.3",
+      "pali": "Ayaṁ vuccatāvuso, animittā cetovimutti."
+    },
+    {
+      "id": "mn43:34.4",
+      "pali": "Ayaṁ kho, āvuso, pariyāyo yaṁ pariyāyaṁ āgamma ime dhammā nānātthā ceva nānābyañjanā ca."
+    },
+    {
+      "id": "mn43:35.1",
+      "pali": "Katamo cāvuso, pariyāyo yaṁ pariyāyaṁ āgamma ime dhammā ekatthā byañjanameva nānaṁ?"
+    },
+    {
+      "id": "mn43:35.2",
+      "pali": "Rāgo kho, āvuso, pamāṇakaraṇo, doso pamāṇakaraṇo, moho pamāṇakaraṇo."
+    },
+    {
+      "id": "mn43:35.3",
+      "pali": "Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "mn43:35.4",
+      "pali": "Yāvatā kho, āvuso, appamāṇā cetovimuttiyo, akuppā tāsaṁ cetovimutti aggamakkhāyati."
+    },
+    {
+      "id": "mn43:35.5",
+      "pali": "Sā kho panākuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena."
+    },
+    {
+      "id": "mn43:36.1",
+      "pali": "Rāgo kho, āvuso, kiñcano, doso kiñcano, moho kiñcano."
+    },
+    {
+      "id": "mn43:36.2",
+      "pali": "Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "mn43:36.3",
+      "pali": "Yāvatā kho, āvuso, ākiñcaññā cetovimuttiyo, akuppā tāsaṁ cetovimutti aggamakkhāyati."
+    },
+    {
+      "id": "mn43:36.4",
+      "pali": "Sā kho panākuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena."
+    },
+    {
+      "id": "mn43:37.1",
+      "pali": "Rāgo kho, āvuso, nimittakaraṇo, doso nimittakaraṇo, moho nimittakaraṇo."
+    },
+    {
+      "id": "mn43:37.2",
+      "pali": "Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "mn43:37.3",
+      "pali": "Yāvatā kho, āvuso, animittā cetovimuttiyo, akuppā tāsaṁ cetovimutti aggamakkhāyati."
+    },
+    {
+      "id": "mn43:37.4",
+      "pali": "Sā kho panākuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena."
+    },
+    {
+      "id": "mn43:37.5",
+      "pali": "Ayaṁ kho, āvuso, pariyāyo yaṁ pariyāyaṁ āgamma ime dhammā ekatthā byañjanameva nānan”ti."
+    },
+    {
+      "id": "mn43:37.6",
+      "pali": "Idamavocāyasmā sāriputto."
+    },
+    {
+      "id": "mn43:37.7",
+      "pali": "Attamano āyasmā mahākoṭṭhiko āyasmato sāriputtassa bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn43:37.8",
+      "pali": "Mahāvedallasuttaṁ niṭṭhitaṁ tatiyaṁ."
+    }
+  ]
+}

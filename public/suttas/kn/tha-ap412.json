@@ -1,0 +1,827 @@
+{
+  "uid": "tha-ap412",
+  "title": "Udenattheraapadāna",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "tha-ap412:1.1",
+      "pali": "“Himavantassāvidūre,"
+    },
+    {
+      "id": "tha-ap412:1.2",
+      "pali": "padumo nāma pabbato;"
+    },
+    {
+      "id": "tha-ap412:1.3",
+      "pali": "Assamo sukato mayhaṁ,"
+    },
+    {
+      "id": "tha-ap412:1.4",
+      "pali": "paṇṇasālā sumāpitā."
+    },
+    {
+      "id": "tha-ap412:2.1",
+      "pali": "Nadiyo sandare tattha,"
+    },
+    {
+      "id": "tha-ap412:2.2",
+      "pali": "supatitthā manoramā;"
+    },
+    {
+      "id": "tha-ap412:2.3",
+      "pali": "Acchodakā sītajalā,"
+    },
+    {
+      "id": "tha-ap412:2.4",
+      "pali": "sandare nadiyo sadā."
+    },
+    {
+      "id": "tha-ap412:3.1",
+      "pali": "Pāṭhīnā pāvusā macchā,"
+    },
+    {
+      "id": "tha-ap412:3.2",
+      "pali": "balajā muñjarohitā;"
+    },
+    {
+      "id": "tha-ap412:3.3",
+      "pali": "Sobhentā nadiyo ete,"
+    },
+    {
+      "id": "tha-ap412:3.4",
+      "pali": "vasanti nadiyā sadā."
+    },
+    {
+      "id": "tha-ap412:4.1",
+      "pali": "Ambajambūhi sañchannā,"
+    },
+    {
+      "id": "tha-ap412:4.2",
+      "pali": "kareritilakā tathā;"
+    },
+    {
+      "id": "tha-ap412:4.3",
+      "pali": "Uddālakā pāṭaliyo,"
+    },
+    {
+      "id": "tha-ap412:4.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:5.1",
+      "pali": "Aṅkolakā bimbijālā,"
+    },
+    {
+      "id": "tha-ap412:5.2",
+      "pali": "māyākārī ca pupphitā;"
+    },
+    {
+      "id": "tha-ap412:5.3",
+      "pali": "Gandhena upavāyantā,"
+    },
+    {
+      "id": "tha-ap412:5.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:6.1",
+      "pali": "Atimuttā sattalikā,"
+    },
+    {
+      "id": "tha-ap412:6.2",
+      "pali": "nāgā sālā ca pupphitā;"
+    },
+    {
+      "id": "tha-ap412:6.3",
+      "pali": "Dibbagandhaṁ sampavantā,"
+    },
+    {
+      "id": "tha-ap412:6.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:7.1",
+      "pali": "Kosambā saḷalā nīpā,"
+    },
+    {
+      "id": "tha-ap412:7.2",
+      "pali": "aṭṭhaṅgāpi ca pupphitā;"
+    },
+    {
+      "id": "tha-ap412:7.3",
+      "pali": "Dibbagandhaṁ sampavantā,"
+    },
+    {
+      "id": "tha-ap412:7.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:8.1",
+      "pali": "Harītakā āmalakā,"
+    },
+    {
+      "id": "tha-ap412:8.2",
+      "pali": "ambajambuvibhītakā;"
+    },
+    {
+      "id": "tha-ap412:8.3",
+      "pali": "Kolā bhallātakā billā,"
+    },
+    {
+      "id": "tha-ap412:8.4",
+      "pali": "phalāni bahu assame."
+    },
+    {
+      "id": "tha-ap412:9.1",
+      "pali": "Kalambā kandalī tattha,"
+    },
+    {
+      "id": "tha-ap412:9.2",
+      "pali": "pupphanti mama assame;"
+    },
+    {
+      "id": "tha-ap412:9.3",
+      "pali": "Dibbagandhaṁ sampavantā,"
+    },
+    {
+      "id": "tha-ap412:9.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:10.1",
+      "pali": "Asokapiṇḍivārī ca,"
+    },
+    {
+      "id": "tha-ap412:10.2",
+      "pali": "nimbarukkhā ca pupphitā;"
+    },
+    {
+      "id": "tha-ap412:10.3",
+      "pali": "Dibbagandhaṁ sampavantā,"
+    },
+    {
+      "id": "tha-ap412:10.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:11.1",
+      "pali": "Punnāgā giripunnāgā,"
+    },
+    {
+      "id": "tha-ap412:11.2",
+      "pali": "timirā tattha pupphitā;"
+    },
+    {
+      "id": "tha-ap412:11.3",
+      "pali": "Dibbagandhaṁ sampavantā,"
+    },
+    {
+      "id": "tha-ap412:11.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:12.1",
+      "pali": "Nigguṇḍī sirinigguṇḍī,"
+    },
+    {
+      "id": "tha-ap412:12.2",
+      "pali": "camparukkhettha pupphitā;"
+    },
+    {
+      "id": "tha-ap412:12.3",
+      "pali": "Dibbagandhaṁ sampavantā,"
+    },
+    {
+      "id": "tha-ap412:12.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:13.1",
+      "pali": "Avidūre pokkharaṇī,"
+    },
+    {
+      "id": "tha-ap412:13.2",
+      "pali": "cakkavākūpakūjitā;"
+    },
+    {
+      "id": "tha-ap412:13.3",
+      "pali": "Mandālakehi sañchannā,"
+    },
+    {
+      "id": "tha-ap412:13.4",
+      "pali": "padumuppalakehi ca."
+    },
+    {
+      "id": "tha-ap412:14.1",
+      "pali": "Acchodakā sītajalā,"
+    },
+    {
+      "id": "tha-ap412:14.2",
+      "pali": "supatitthā manoramā;"
+    },
+    {
+      "id": "tha-ap412:14.3",
+      "pali": "Acchā phalikasamānā,"
+    },
+    {
+      "id": "tha-ap412:14.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:15.1",
+      "pali": "Padumā pupphare tattha,"
+    },
+    {
+      "id": "tha-ap412:15.2",
+      "pali": "puṇḍarīkā ca uppalā;"
+    },
+    {
+      "id": "tha-ap412:15.3",
+      "pali": "Mandālakehi sañchannā,"
+    },
+    {
+      "id": "tha-ap412:15.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:16.1",
+      "pali": "Pāṭhīnā pāvusā macchā,"
+    },
+    {
+      "id": "tha-ap412:16.2",
+      "pali": "balajā muñjarohitā;"
+    },
+    {
+      "id": "tha-ap412:16.3",
+      "pali": "Vicarantāva te tattha,"
+    },
+    {
+      "id": "tha-ap412:16.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:17.1",
+      "pali": "Kumbhīlā susumārā ca,"
+    },
+    {
+      "id": "tha-ap412:17.2",
+      "pali": "kacchapā ca gahā bahū;"
+    },
+    {
+      "id": "tha-ap412:17.3",
+      "pali": "Ogahā ajagarā ca,"
+    },
+    {
+      "id": "tha-ap412:17.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:18.1",
+      "pali": "Pārevatā ravihaṁsā,"
+    },
+    {
+      "id": "tha-ap412:18.2",
+      "pali": "cakkavākā nadīcarā;"
+    },
+    {
+      "id": "tha-ap412:18.3",
+      "pali": "Dindibhā sāḷikā cettha,"
+    },
+    {
+      "id": "tha-ap412:18.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:19.1",
+      "pali": "Nayitā ambagandhī ca,"
+    },
+    {
+      "id": "tha-ap412:19.2",
+      "pali": "ketakā tattha pupphitā;"
+    },
+    {
+      "id": "tha-ap412:19.3",
+      "pali": "Dibbagandhaṁ sampavantā,"
+    },
+    {
+      "id": "tha-ap412:19.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:20.1",
+      "pali": "Sīhā byagghā ca dīpī ca,"
+    },
+    {
+      "id": "tha-ap412:20.2",
+      "pali": "acchakokataracchakā;"
+    },
+    {
+      "id": "tha-ap412:20.3",
+      "pali": "Anusañcarantā pavane,"
+    },
+    {
+      "id": "tha-ap412:20.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:21.1",
+      "pali": "Jaṭābhārena bharitā,"
+    },
+    {
+      "id": "tha-ap412:21.2",
+      "pali": "ajinuttaravāsanā;"
+    },
+    {
+      "id": "tha-ap412:21.3",
+      "pali": "Anusañcarantā pavane,"
+    },
+    {
+      "id": "tha-ap412:21.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:22.1",
+      "pali": "Ajinānidharā ete,"
+    },
+    {
+      "id": "tha-ap412:22.2",
+      "pali": "nipakā santavuttino;"
+    },
+    {
+      "id": "tha-ap412:22.3",
+      "pali": "Appāhārāva te sabbe,"
+    },
+    {
+      "id": "tha-ap412:22.4",
+      "pali": "sobhenti mama assamaṁ."
+    },
+    {
+      "id": "tha-ap412:23.1",
+      "pali": "Khāribhāraṁ gahetvāna,"
+    },
+    {
+      "id": "tha-ap412:23.2",
+      "pali": "ajjhogayha vanaṁ tadā;"
+    },
+    {
+      "id": "tha-ap412:23.3",
+      "pali": "Mūlaphalāni bhuñjantā,"
+    },
+    {
+      "id": "tha-ap412:23.4",
+      "pali": "vasanti assame tadā."
+    },
+    {
+      "id": "tha-ap412:24.1",
+      "pali": "Na te dāruṁ āharanti,"
+    },
+    {
+      "id": "tha-ap412:24.2",
+      "pali": "udakaṁ pādadhovanaṁ;"
+    },
+    {
+      "id": "tha-ap412:24.3",
+      "pali": "Sabbesaṁ ānubhāvena,"
+    },
+    {
+      "id": "tha-ap412:24.4",
+      "pali": "sayamevāharīyati."
+    },
+    {
+      "id": "tha-ap412:25.1",
+      "pali": "Cullāsītisahassāni,"
+    },
+    {
+      "id": "tha-ap412:25.2",
+      "pali": "isayettha samāgatā;"
+    },
+    {
+      "id": "tha-ap412:25.3",
+      "pali": "Sabbeva jhāyino ete,"
+    },
+    {
+      "id": "tha-ap412:25.4",
+      "pali": "uttamatthagavesakā."
+    },
+    {
+      "id": "tha-ap412:26.1",
+      "pali": "Tapassino brahmacārī,"
+    },
+    {
+      "id": "tha-ap412:26.2",
+      "pali": "codentā appanāva te;"
+    },
+    {
+      "id": "tha-ap412:26.3",
+      "pali": "Ambarāvacarā sabbe,"
+    },
+    {
+      "id": "tha-ap412:26.4",
+      "pali": "vasanti assame tadā."
+    },
+    {
+      "id": "tha-ap412:27.1",
+      "pali": "Pañcāhaṁ sannipatanti,"
+    },
+    {
+      "id": "tha-ap412:27.2",
+      "pali": "ekaggā santavuttino;"
+    },
+    {
+      "id": "tha-ap412:27.3",
+      "pali": "Aññoññaṁ abhivādetvā,"
+    },
+    {
+      "id": "tha-ap412:27.4",
+      "pali": "pakkamanti disāmukhā."
+    },
+    {
+      "id": "tha-ap412:28.1",
+      "pali": "Padumuttaro nāma jino,"
+    },
+    {
+      "id": "tha-ap412:28.2",
+      "pali": "sabbadhammāna pāragū;"
+    },
+    {
+      "id": "tha-ap412:28.3",
+      "pali": "Tamandhakāraṁ vidhamaṁ,"
+    },
+    {
+      "id": "tha-ap412:28.4",
+      "pali": "uppajji tāvade jino."
+    },
+    {
+      "id": "tha-ap412:29.1",
+      "pali": "Mama assamasāmantā,"
+    },
+    {
+      "id": "tha-ap412:29.2",
+      "pali": "yakkho āsi mahiddhiko;"
+    },
+    {
+      "id": "tha-ap412:29.3",
+      "pali": "So me saṁsittha sambuddhaṁ,"
+    },
+    {
+      "id": "tha-ap412:29.4",
+      "pali": "jalajuttamanāyakaṁ."
+    },
+    {
+      "id": "tha-ap412:30.1",
+      "pali": "‘Esa buddho samuppanno,"
+    },
+    {
+      "id": "tha-ap412:30.2",
+      "pali": "Padumuttaro mahāmuni;"
+    },
+    {
+      "id": "tha-ap412:30.3",
+      "pali": "Khippaṁ gantvāna sambuddhaṁ,"
+    },
+    {
+      "id": "tha-ap412:30.4",
+      "pali": "Payirūpāsa mārisa’."
+    },
+    {
+      "id": "tha-ap412:31.1",
+      "pali": "Yakkhassa vacanaṁ sutvā,"
+    },
+    {
+      "id": "tha-ap412:31.2",
+      "pali": "vippasannena cetasā;"
+    },
+    {
+      "id": "tha-ap412:31.3",
+      "pali": "Assamaṁ saṁsāmetvāna,"
+    },
+    {
+      "id": "tha-ap412:31.4",
+      "pali": "nikkhamiṁ vipinā tadā."
+    },
+    {
+      "id": "tha-ap412:32.1",
+      "pali": "Ceḷeva ḍayhamānamhi,"
+    },
+    {
+      "id": "tha-ap412:32.2",
+      "pali": "nikkhamitvāna assamā;"
+    },
+    {
+      "id": "tha-ap412:32.3",
+      "pali": "Ekarattiṁ nivāsetvā,"
+    },
+    {
+      "id": "tha-ap412:32.4",
+      "pali": "upagacchiṁ vināyakaṁ."
+    },
+    {
+      "id": "tha-ap412:33.1",
+      "pali": "Padumuttaro lokavidū,"
+    },
+    {
+      "id": "tha-ap412:33.2",
+      "pali": "āhutīnaṁ paṭiggaho;"
+    },
+    {
+      "id": "tha-ap412:33.3",
+      "pali": "Catusaccaṁ pakāsento,"
+    },
+    {
+      "id": "tha-ap412:33.4",
+      "pali": "desesi amataṁ padaṁ."
+    },
+    {
+      "id": "tha-ap412:34.1",
+      "pali": "Suphullaṁ padumaṁ gayha,"
+    },
+    {
+      "id": "tha-ap412:34.2",
+      "pali": "upagantvā mahesino;"
+    },
+    {
+      "id": "tha-ap412:34.3",
+      "pali": "Pasannacitto sumano,"
+    },
+    {
+      "id": "tha-ap412:34.4",
+      "pali": "buddhassa abhiropayiṁ."
+    },
+    {
+      "id": "tha-ap412:35.1",
+      "pali": "Pūjayitvāna sambuddhaṁ,"
+    },
+    {
+      "id": "tha-ap412:35.2",
+      "pali": "jalajuttamanāyakaṁ;"
+    },
+    {
+      "id": "tha-ap412:35.3",
+      "pali": "Ekaṁsaṁ ajinaṁ katvā,"
+    },
+    {
+      "id": "tha-ap412:35.4",
+      "pali": "santhaviṁ lokanāyakaṁ."
+    },
+    {
+      "id": "tha-ap412:36.1",
+      "pali": "‘Yena ñāṇena sambuddho,"
+    },
+    {
+      "id": "tha-ap412:36.2",
+      "pali": "vasatīha anāsavo;"
+    },
+    {
+      "id": "tha-ap412:36.3",
+      "pali": "Taṁ ñāṇaṁ kittayissāmi,"
+    },
+    {
+      "id": "tha-ap412:36.4",
+      "pali": "suṇātha mama bhāsato."
+    },
+    {
+      "id": "tha-ap412:37.1",
+      "pali": "Saṁsārasotaṁ chinditvā,"
+    },
+    {
+      "id": "tha-ap412:37.2",
+      "pali": "tāresi sabbapāṇinaṁ;"
+    },
+    {
+      "id": "tha-ap412:37.3",
+      "pali": "Tava dhammaṁ suṇitvāna,"
+    },
+    {
+      "id": "tha-ap412:37.4",
+      "pali": "taṇhāsotaṁ taranti te."
+    },
+    {
+      "id": "tha-ap412:38.1",
+      "pali": "Tuvaṁ satthā ca ketu ca,"
+    },
+    {
+      "id": "tha-ap412:38.2",
+      "pali": "dhajo yūpo ca pāṇinaṁ;"
+    },
+    {
+      "id": "tha-ap412:38.3",
+      "pali": "Parāyaṇo patiṭṭhā ca,"
+    },
+    {
+      "id": "tha-ap412:38.4",
+      "pali": "dīpo ca dvipaduttama."
+    },
+    {
+      "id": "tha-ap412:39.1",
+      "pali": "Yāvatā gaṇino loke,"
+    },
+    {
+      "id": "tha-ap412:39.2",
+      "pali": "satthavāhā pavuccare;"
+    },
+    {
+      "id": "tha-ap412:39.3",
+      "pali": "Tuvaṁ aggosi sabbaññu,"
+    },
+    {
+      "id": "tha-ap412:39.4",
+      "pali": "tava antogadhāva te."
+    },
+    {
+      "id": "tha-ap412:40.1",
+      "pali": "Tava ñāṇena sabbaññu,"
+    },
+    {
+      "id": "tha-ap412:40.2",
+      "pali": "tāresi janataṁ bahuṁ;"
+    },
+    {
+      "id": "tha-ap412:40.3",
+      "pali": "Tava dassanamāgamma,"
+    },
+    {
+      "id": "tha-ap412:40.4",
+      "pali": "dukkhassantaṁ karissare."
+    },
+    {
+      "id": "tha-ap412:41.1",
+      "pali": "Ye kecime gandhajātā,"
+    },
+    {
+      "id": "tha-ap412:41.2",
+      "pali": "loke vāyanti cakkhuma;"
+    },
+    {
+      "id": "tha-ap412:41.3",
+      "pali": "Tava gandhasamo natthi,"
+    },
+    {
+      "id": "tha-ap412:41.4",
+      "pali": "puññakkhette mahāmune."
+    },
+    {
+      "id": "tha-ap412:42.1",
+      "pali": "Tiracchānayoniṁ nirayaṁ,"
+    },
+    {
+      "id": "tha-ap412:42.2",
+      "pali": "parimocesi cakkhuma;"
+    },
+    {
+      "id": "tha-ap412:42.3",
+      "pali": "Asaṅkhataṁ padaṁ santaṁ,"
+    },
+    {
+      "id": "tha-ap412:42.4",
+      "pali": "desesi tvaṁ mahāmune’."
+    },
+    {
+      "id": "tha-ap412:43.1",
+      "pali": "Padumuttaro lokavidū,"
+    },
+    {
+      "id": "tha-ap412:43.2",
+      "pali": "āhutīnaṁ paṭiggaho;"
+    },
+    {
+      "id": "tha-ap412:43.3",
+      "pali": "Bhikkhusaṅghe nisīditvā,"
+    },
+    {
+      "id": "tha-ap412:43.4",
+      "pali": "imā gāthā abhāsatha."
+    },
+    {
+      "id": "tha-ap412:44.1",
+      "pali": "‘Yo me ñāṇaṁ apūjesi,"
+    },
+    {
+      "id": "tha-ap412:44.2",
+      "pali": "pasanno sehi pāṇibhi;"
+    },
+    {
+      "id": "tha-ap412:44.3",
+      "pali": "Tamahaṁ kittayissāmi,"
+    },
+    {
+      "id": "tha-ap412:44.4",
+      "pali": "suṇātha mama bhāsato."
+    },
+    {
+      "id": "tha-ap412:45.1",
+      "pali": "Tiṁsakappasahassāni,"
+    },
+    {
+      "id": "tha-ap412:45.2",
+      "pali": "devaloke ramissati;"
+    },
+    {
+      "id": "tha-ap412:45.3",
+      "pali": "Sahassakkhattuṁ rājā ca,"
+    },
+    {
+      "id": "tha-ap412:45.4",
+      "pali": "cakkavattī bhavissati’."
+    },
+    {
+      "id": "tha-ap412:46.1",
+      "pali": "Suladdhalābhaṁ laddhomhi,"
+    },
+    {
+      "id": "tha-ap412:46.2",
+      "pali": "tosayitvāna subbataṁ;"
+    },
+    {
+      "id": "tha-ap412:46.3",
+      "pali": "Sabbāsave pariññāya,"
+    },
+    {
+      "id": "tha-ap412:46.4",
+      "pali": "viharāmi anāsavo."
+    },
+    {
+      "id": "tha-ap412:47.1",
+      "pali": "Kilesā jhāpitā mayhaṁ,"
+    },
+    {
+      "id": "tha-ap412:47.2",
+      "pali": "…pe…"
+    },
+    {
+      "id": "tha-ap412:47.3",
+      "pali": "viharāmi anāsavo."
+    },
+    {
+      "id": "tha-ap412:48.1",
+      "pali": "Svāgataṁ vata me āsi,"
+    },
+    {
+      "id": "tha-ap412:48.2",
+      "pali": "…pe…"
+    },
+    {
+      "id": "tha-ap412:48.3",
+      "pali": "kataṁ buddhassa sāsanaṁ."
+    },
+    {
+      "id": "tha-ap412:49.1",
+      "pali": "Paṭisambhidā catasso,"
+    },
+    {
+      "id": "tha-ap412:49.2",
+      "pali": "…pe…"
+    },
+    {
+      "id": "tha-ap412:49.3",
+      "pali": "kataṁ buddhassa sāsanaṁ”."
+    },
+    {
+      "id": "tha-ap412:50.1",
+      "pali": "Itthaṁ sudaṁ āyasmā udeno thero imā gāthāyo abhāsitthāti."
+    },
+    {
+      "id": "tha-ap412:51.1",
+      "pali": "Udenattherassāpadānaṁ dasamaṁ."
+    },
+    {
+      "id": "tha-ap412:52.1",
+      "pali": "Metteyyavaggo ekacattālīsamo."
+    },
+    {
+      "id": "tha-ap412:53.1",
+      "pali": "Tassuddānaṁ"
+    },
+    {
+      "id": "tha-ap412:54.1",
+      "pali": "Metteyyo puṇṇako thero,"
+    },
+    {
+      "id": "tha-ap412:54.2",
+      "pali": "mettagū dhotakopi ca;"
+    },
+    {
+      "id": "tha-ap412:54.3",
+      "pali": "Upasivo ca nando ca,"
+    },
+    {
+      "id": "tha-ap412:54.4",
+      "pali": "hemako sattamo tahiṁ."
+    },
+    {
+      "id": "tha-ap412:55.1",
+      "pali": "Todeyyo jatukaṇṇī ca,"
+    },
+    {
+      "id": "tha-ap412:55.2",
+      "pali": "udeno ca mahāyaso;"
+    },
+    {
+      "id": "tha-ap412:55.3",
+      "pali": "Tīṇi gāthāsatānettha,"
+    },
+    {
+      "id": "tha-ap412:55.4",
+      "pali": "asīti tīṇi cuttariṁ."
+    }
+  ]
+}

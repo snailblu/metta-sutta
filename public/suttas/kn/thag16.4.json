@@ -1,0 +1,411 @@
+{
+  "uid": "thag16.4",
+  "title": "Paṭhamavagga",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "thag16.4:1.1",
+      "pali": "“Passa cittakataṁ bimbaṁ,"
+    },
+    {
+      "id": "thag16.4:1.2",
+      "pali": "arukāyaṁ samussitaṁ;"
+    },
+    {
+      "id": "thag16.4:1.3",
+      "pali": "Āturaṁ bahusaṅkappaṁ,"
+    },
+    {
+      "id": "thag16.4:1.4",
+      "pali": "yassa natthi dhuvaṁ ṭhiti."
+    },
+    {
+      "id": "thag16.4:2.1",
+      "pali": "Passa cittakataṁ rūpaṁ,"
+    },
+    {
+      "id": "thag16.4:2.2",
+      "pali": "maṇinā kuṇḍalena ca;"
+    },
+    {
+      "id": "thag16.4:2.3",
+      "pali": "Aṭṭhiṁ tacena onaddhaṁ,"
+    },
+    {
+      "id": "thag16.4:2.4",
+      "pali": "saha vatthehi sobhati."
+    },
+    {
+      "id": "thag16.4:3.1",
+      "pali": "Alattakakatā pādā,"
+    },
+    {
+      "id": "thag16.4:3.2",
+      "pali": "mukhaṁ cuṇṇakamakkhitaṁ;"
+    },
+    {
+      "id": "thag16.4:3.3",
+      "pali": "Alaṁ bālassa mohāya,"
+    },
+    {
+      "id": "thag16.4:3.4",
+      "pali": "no ca pāragavesino."
+    },
+    {
+      "id": "thag16.4:4.1",
+      "pali": "Aṭṭhapadakatā kesā,"
+    },
+    {
+      "id": "thag16.4:4.2",
+      "pali": "nettā añjanamakkhitā;"
+    },
+    {
+      "id": "thag16.4:4.3",
+      "pali": "Alaṁ bālassa mohāya,"
+    },
+    {
+      "id": "thag16.4:4.4",
+      "pali": "no ca pāragavesino."
+    },
+    {
+      "id": "thag16.4:5.1",
+      "pali": "Añjanīva navā cittā,"
+    },
+    {
+      "id": "thag16.4:5.2",
+      "pali": "pūtikāyo alaṅkato;"
+    },
+    {
+      "id": "thag16.4:5.3",
+      "pali": "Alaṁ bālassa mohāya,"
+    },
+    {
+      "id": "thag16.4:5.4",
+      "pali": "no ca pāragavesino."
+    },
+    {
+      "id": "thag16.4:6.1",
+      "pali": "Odahi migavo pāsaṁ,"
+    },
+    {
+      "id": "thag16.4:6.2",
+      "pali": "nāsadā vāguraṁ migo;"
+    },
+    {
+      "id": "thag16.4:6.3",
+      "pali": "Bhutvā nivāpaṁ gacchāma,"
+    },
+    {
+      "id": "thag16.4:6.4",
+      "pali": "kandante migabandhake."
+    },
+    {
+      "id": "thag16.4:7.1",
+      "pali": "Chinno pāso migavassa,"
+    },
+    {
+      "id": "thag16.4:7.2",
+      "pali": "nāsadā vāguraṁ migo;"
+    },
+    {
+      "id": "thag16.4:7.3",
+      "pali": "Bhutvā nivāpaṁ gacchāma,"
+    },
+    {
+      "id": "thag16.4:7.4",
+      "pali": "socante migaluddake."
+    },
+    {
+      "id": "thag16.4:8.1",
+      "pali": "Passāmi loke sadhane manusse,"
+    },
+    {
+      "id": "thag16.4:8.2",
+      "pali": "Laddhāna vittaṁ na dadanti mohā;"
+    },
+    {
+      "id": "thag16.4:8.3",
+      "pali": "Luddhā dhanaṁ sannicayaṁ karonti,"
+    },
+    {
+      "id": "thag16.4:8.4",
+      "pali": "Bhiyyova kāme abhipatthayanti."
+    },
+    {
+      "id": "thag16.4:9.1",
+      "pali": "Rājā pasayhappathaviṁ vijetvā,"
+    },
+    {
+      "id": "thag16.4:9.2",
+      "pali": "Sasāgarantaṁ mahimāvasanto;"
+    },
+    {
+      "id": "thag16.4:9.3",
+      "pali": "Oraṁ samuddassa atittarūpo,"
+    },
+    {
+      "id": "thag16.4:9.4",
+      "pali": "Pāraṁ samuddassapi patthayetha."
+    },
+    {
+      "id": "thag16.4:10.1",
+      "pali": "Rājā ca aññe ca bahū manussā,"
+    },
+    {
+      "id": "thag16.4:10.2",
+      "pali": "Avītataṇhā maraṇaṁ upenti;"
+    },
+    {
+      "id": "thag16.4:10.3",
+      "pali": "Ūnāva hutvāna jahanti dehaṁ,"
+    },
+    {
+      "id": "thag16.4:10.4",
+      "pali": "Kāmehi lokamhi na hatthi titti."
+    },
+    {
+      "id": "thag16.4:11.1",
+      "pali": "Kandanti naṁ ñātī pakiriya kese,"
+    },
+    {
+      "id": "thag16.4:11.2",
+      "pali": "Aho vatā no amarāti cāhu;"
+    },
+    {
+      "id": "thag16.4:11.3",
+      "pali": "Vatthena naṁ pārutaṁ nīharitvā,"
+    },
+    {
+      "id": "thag16.4:11.4",
+      "pali": "Citaṁ samodhāya tato ḍahanti."
+    },
+    {
+      "id": "thag16.4:12.1",
+      "pali": "So ḍayhati sūlehi tujjamāno,"
+    },
+    {
+      "id": "thag16.4:12.2",
+      "pali": "Ekena vatthena pahāya bhoge;"
+    },
+    {
+      "id": "thag16.4:12.3",
+      "pali": "Na mīyamānassa bhavanti tāṇā,"
+    },
+    {
+      "id": "thag16.4:12.4",
+      "pali": "Ñātī ca mittā atha vā sahāyā."
+    },
+    {
+      "id": "thag16.4:13.1",
+      "pali": "Dāyādakā tassa dhanaṁ haranti,"
+    },
+    {
+      "id": "thag16.4:13.2",
+      "pali": "Satto pana gacchati yena kammaṁ;"
+    },
+    {
+      "id": "thag16.4:13.3",
+      "pali": "Na mīyamānaṁ dhanamanveti kiñci,"
+    },
+    {
+      "id": "thag16.4:13.4",
+      "pali": "Puttā ca dārā ca dhanañca raṭṭhaṁ."
+    },
+    {
+      "id": "thag16.4:14.1",
+      "pali": "Na dīghamāyuṁ labhate dhanena,"
+    },
+    {
+      "id": "thag16.4:14.2",
+      "pali": "Na cāpi vittena jaraṁ vihanti;"
+    },
+    {
+      "id": "thag16.4:14.3",
+      "pali": "Appaṁ hidaṁ jīvitamāhu dhīrā,"
+    },
+    {
+      "id": "thag16.4:14.4",
+      "pali": "Asassataṁ vippariṇāmadhammaṁ."
+    },
+    {
+      "id": "thag16.4:15.1",
+      "pali": "Aḍḍhā daliddā ca phusanti phassaṁ,"
+    },
+    {
+      "id": "thag16.4:15.2",
+      "pali": "Bālo ca dhīro ca tatheva phuṭṭho;"
+    },
+    {
+      "id": "thag16.4:15.3",
+      "pali": "Bālo hi bālyā vadhitova seti,"
+    },
+    {
+      "id": "thag16.4:15.4",
+      "pali": "Dhīro ca no vedhati phassaphuṭṭho."
+    },
+    {
+      "id": "thag16.4:16.1",
+      "pali": "Tasmā hi paññāva dhanena seyyā,"
+    },
+    {
+      "id": "thag16.4:16.2",
+      "pali": "Yāya vosānamidhādhigacchati;"
+    },
+    {
+      "id": "thag16.4:16.3",
+      "pali": "Abyositattā hi bhavābhavesu,"
+    },
+    {
+      "id": "thag16.4:16.4",
+      "pali": "Pāpāni kammāni karoti mohā."
+    },
+    {
+      "id": "thag16.4:17.1",
+      "pali": "Upeti gabbhañca parañca lokaṁ,"
+    },
+    {
+      "id": "thag16.4:17.2",
+      "pali": "Saṁsāramāpajja paramparāya;"
+    },
+    {
+      "id": "thag16.4:17.3",
+      "pali": "Tassappapañño abhisaddahanto,"
+    },
+    {
+      "id": "thag16.4:17.4",
+      "pali": "Upeti gabbhañca parañca lokaṁ."
+    },
+    {
+      "id": "thag16.4:18.1",
+      "pali": "Coro yathā sandhimukhe gahīto,"
+    },
+    {
+      "id": "thag16.4:18.2",
+      "pali": "Sakammunā haññati pāpadhammo;"
+    },
+    {
+      "id": "thag16.4:18.3",
+      "pali": "Evaṁ pajā pecca paramhi loke,"
+    },
+    {
+      "id": "thag16.4:18.4",
+      "pali": "Sakammunā haññati pāpadhammo."
+    },
+    {
+      "id": "thag16.4:19.1",
+      "pali": "Kāmā hi citrā madhurā manoramā,"
+    },
+    {
+      "id": "thag16.4:19.2",
+      "pali": "Virūparūpena mathenti cittaṁ;"
+    },
+    {
+      "id": "thag16.4:19.3",
+      "pali": "Ādīnavaṁ kāmaguṇesu disvā,"
+    },
+    {
+      "id": "thag16.4:19.4",
+      "pali": "Tasmā ahaṁ pabbajitomhi rāja."
+    },
+    {
+      "id": "thag16.4:20.1",
+      "pali": "Dumapphalānīva patanti māṇavā,"
+    },
+    {
+      "id": "thag16.4:20.2",
+      "pali": "Daharā ca vuḍḍhā ca sarīrabhedā;"
+    },
+    {
+      "id": "thag16.4:20.3",
+      "pali": "Etampi disvā pabbajitomhi rāja,"
+    },
+    {
+      "id": "thag16.4:20.4",
+      "pali": "Apaṇṇakaṁ sāmaññameva seyyo."
+    },
+    {
+      "id": "thag16.4:21.1",
+      "pali": "Saddhāyāhaṁ pabbajito,"
+    },
+    {
+      "id": "thag16.4:21.2",
+      "pali": "upeto jinasāsane;"
+    },
+    {
+      "id": "thag16.4:21.3",
+      "pali": "Avañjhā mayhaṁ pabbajjā,"
+    },
+    {
+      "id": "thag16.4:21.4",
+      "pali": "anaṇo bhuñjāmi bhojanaṁ."
+    },
+    {
+      "id": "thag16.4:22.1",
+      "pali": "Kāme ādittato disvā,"
+    },
+    {
+      "id": "thag16.4:22.2",
+      "pali": "Jātarūpāni satthato;"
+    },
+    {
+      "id": "thag16.4:22.3",
+      "pali": "Gabbhavokkantito dukkhaṁ,"
+    },
+    {
+      "id": "thag16.4:22.4",
+      "pali": "Nirayesu mahabbhayaṁ."
+    },
+    {
+      "id": "thag16.4:23.1",
+      "pali": "Etamādīnavaṁ ñatvā,"
+    },
+    {
+      "id": "thag16.4:23.2",
+      "pali": "saṁvegaṁ alabhiṁ tadā;"
+    },
+    {
+      "id": "thag16.4:23.3",
+      "pali": "Sohaṁ viddho tadā santo,"
+    },
+    {
+      "id": "thag16.4:23.4",
+      "pali": "sampatto āsavakkhayaṁ."
+    },
+    {
+      "id": "thag16.4:24.1",
+      "pali": "Pariciṇṇo mayā satthā,"
+    },
+    {
+      "id": "thag16.4:24.2",
+      "pali": "kataṁ buddhassa sāsanaṁ;"
+    },
+    {
+      "id": "thag16.4:24.3",
+      "pali": "Ohito garuko bhāro,"
+    },
+    {
+      "id": "thag16.4:24.4",
+      "pali": "bhavanetti samūhatā."
+    },
+    {
+      "id": "thag16.4:25.1",
+      "pali": "Yassatthāya pabbajito,"
+    },
+    {
+      "id": "thag16.4:25.2",
+      "pali": "agārasmānagāriyaṁ;"
+    },
+    {
+      "id": "thag16.4:25.3",
+      "pali": "So me attho anuppatto,"
+    },
+    {
+      "id": "thag16.4:25.4",
+      "pali": "sabbasaṁyojanakkhayo”ti."
+    },
+    {
+      "id": "thag16.4:25.5",
+      "pali": "… Raṭṭhapālo thero …."
+    }
+  ]
+}

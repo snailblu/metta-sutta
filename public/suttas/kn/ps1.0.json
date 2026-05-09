@@ -1,0 +1,315 @@
+{
+  "uid": "ps1.0",
+  "title": "1.0 Mātikā",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "ps1.0:1.1",
+      "pali": "Sotāvadhāne paññā sutamaye ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:2.1",
+      "pali": "Sutvāna saṁvare paññā sīlamaye ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:3.1",
+      "pali": "Saṁvaritvā samādahane paññā samādhibhāvanāmaye ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:4.1",
+      "pali": "Paccayapariggahe paññā dhammaṭṭhitiñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:5.1",
+      "pali": "Atītānāgatapaccuppannānaṁ dhammānaṁ saṅkhipitvā vavatthāne paññā sammasane ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:6.1",
+      "pali": "Paccuppannānaṁ dhammānaṁ vipariṇāmānupassane paññā udayabbayānupassane ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:7.1",
+      "pali": "Ārammaṇaṁ paṭisaṅkhā bhaṅgānupassane paññā vipassane ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:8.1",
+      "pali": "Bhayatupaṭṭhāne paññā ādīnave ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:9.1",
+      "pali": "Muñcitukamyatāpaṭisaṅkhāsantiṭṭhanā paññā saṅkhārupekkhāsu ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:10.1",
+      "pali": "Bahiddhā vuṭṭhānavivaṭṭane paññā gotrabhuñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:11.1",
+      "pali": "Dubhato vuṭṭhānavivaṭṭane paññā magge ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:12.1",
+      "pali": "Payogappaṭippassaddhi paññā phale ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:13.1",
+      "pali": "Chinnavaṭumānupassane paññā vimuttiñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:14.1",
+      "pali": "Tadā samudāgate dhamme passane paññā paccavekkhaṇe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:15.1",
+      "pali": "Ajjhattavavatthāne paññā vatthunānatte ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:16.1",
+      "pali": "Bahiddhāvavatthāne paññā gocaranānatte ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:17.1",
+      "pali": "Cariyāvavatthāne paññā cariyānānatte ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:18.1",
+      "pali": "Catudhammavavatthāne paññā bhūminānatte ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:19.1",
+      "pali": "Navadhammavavatthāne paññā dhammanānatte ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:20.1",
+      "pali": "Abhiññāpaññā ñātaṭṭhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:21.1",
+      "pali": "Pariññāpaññā tīraṇaṭṭhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:22.1",
+      "pali": "Pahāne paññā pariccāgaṭṭhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:23.1",
+      "pali": "Bhāvanāpaññā ekarasaṭṭhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:24.1",
+      "pali": "Sacchikiriyāpaññā phassanaṭṭhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:25.1",
+      "pali": "Atthanānatte paññā atthapaṭisambhide ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:26.1",
+      "pali": "Dhammanānatte paññā dhammapaṭisambhide ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:27.1",
+      "pali": "Niruttinānatte paññā niruttipaṭisambhide ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:28.1",
+      "pali": "Paṭibhānanānatte paññā paṭibhānapaṭisambhide ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:29.1",
+      "pali": "Vihāranānatte paññā vihāraṭṭhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:30.1",
+      "pali": "Samāpattinānatte paññā samāpattaṭṭhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:31.1",
+      "pali": "Vihārasamāpattinānatte paññā vihārasamāpattaṭṭhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:32.1",
+      "pali": "Avikkhepaparisuddhattā āsavasamucchede paññā ānantarikasamādhimhi ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:33.1",
+      "pali": "Dassanādhipateyyaṁ santo ca vihārādhigamo paṇītādhimuttatā paññā araṇavihāre ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:34.1",
+      "pali": "Dvīhi balehi samannāgatattā tayo ca saṅkhārānaṁ paṭippassaddhiyā soḷasahi ñāṇacariyāhi navahi samādhicariyāhi vasibhāvatā paññā nirodhasamāpattiyā ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:35.1",
+      "pali": "Sampajānassa pavattapariyādāne paññā parinibbāne ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:36.1",
+      "pali": "Sabbadhammānaṁ sammā samucchede nirodhe ca anupaṭṭhānatā paññā samasīsaṭṭhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:37.1",
+      "pali": "Puthunānattatejapariyādāne paññā sallekhaṭṭhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:38.1",
+      "pali": "Asallīnattapahitattapaggahaṭṭhe paññā vīriyārambhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:39.1",
+      "pali": "Nānādhammappakāsanatā paññā atthasandassane ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:40.1",
+      "pali": "Sabbadhammānaṁ ekasaṅgahatānānattekattapaṭivedhe paññā dassanavisuddhiñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:41.1",
+      "pali": "Viditattā paññā khantiñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:42.1",
+      "pali": "Phuṭṭhattā paññā pariyogāhaṇe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:43.1",
+      "pali": "Samodahane paññā padesavihāre ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:44.1",
+      "pali": "Adhipatattā paññā saññāvivaṭṭe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:45.1",
+      "pali": "Nānatte paññā cetovivaṭṭe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:46.1",
+      "pali": "Adhiṭṭhāne paññā cittavivaṭṭe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:47.1",
+      "pali": "Suññate paññā ñāṇavivaṭṭe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:48.1",
+      "pali": "Vosagge paññā vimokkhavivaṭṭe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:49.1",
+      "pali": "Tathaṭṭhe paññā saccavivaṭṭe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:50.1",
+      "pali": "Kāyampi cittampi ekavavatthānatā sukhasaññañca lahusaññañca adhiṭṭhānavasena ijjhanaṭṭhe paññā iddhividhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:51.1",
+      "pali": "Vitakkavipphāravasena nānattekattasaddanimittānaṁ pariyogāhaṇe paññā sotadhātuvisuddhiñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:52.1",
+      "pali": "Tiṇṇannaṁ cittānaṁ vipphārattā indriyānaṁ pasādavasena nānattekattaviññāṇacariyā pariyogāhaṇe paññā cetopariyañāṇaṁ."
+    },
+    {
+      "id": "ps1.0:53.1",
+      "pali": "Paccayappavattānaṁ dhammānaṁ nānattekattakammavipphāravasena pariyogāhaṇe paññā pubbenivāsānussatiñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:54.1",
+      "pali": "Obhāsavasena nānattekattarūpanimittānaṁ dassanaṭṭhe paññā dibbacakkhuñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:55.1",
+      "pali": "Catusaṭṭhiyā ākārehi tiṇṇannaṁ indriyānaṁ vasibhāvatā paññā āsavānaṁ khaye ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:56.1",
+      "pali": "Pariññaṭṭhe paññā dukkhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:57.1",
+      "pali": "Pahānaṭṭhe paññā samudaye ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:58.1",
+      "pali": "Sacchikiriyaṭṭhe paññā nirodhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:59.1",
+      "pali": "Bhāvanaṭṭhe paññā magge ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:60.1",
+      "pali": "Dukkhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:61.1",
+      "pali": "Dukkhasamudaye ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:62.1",
+      "pali": "Dukkhanirodhe ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:63.1",
+      "pali": "Dukkhanirodhagāminiyā paṭipadāya ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:64.1",
+      "pali": "Atthapaṭisambhide ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:65.1",
+      "pali": "Dhammapaṭisambhide ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:66.1",
+      "pali": "Niruttipaṭisambhide ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:67.1",
+      "pali": "Paṭibhānapaṭisambhide ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:68.1",
+      "pali": "Indriyaparopariyattañāṇaṁ."
+    },
+    {
+      "id": "ps1.0:69.1",
+      "pali": "Sattānaṁ āsayānusaye ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:70.1",
+      "pali": "Yamakapāṭihīre ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:71.1",
+      "pali": "Mahākaruṇāsamāpattiyā ñāṇaṁ."
+    },
+    {
+      "id": "ps1.0:72.1",
+      "pali": "Sabbaññutaññāṇaṁ."
+    },
+    {
+      "id": "ps1.0:73.1",
+      "pali": "Anāvaraṇañāṇaṁ."
+    },
+    {
+      "id": "ps1.0:74.1",
+      "pali": "Imāni tesattati ñāṇāni."
+    },
+    {
+      "id": "ps1.0:74.2",
+      "pali": "Imesaṁ tesattatiyā ñāṇānaṁ sattasaṭṭhi ñāṇāni sāvakasādhāraṇāni;"
+    },
+    {
+      "id": "ps1.0:74.3",
+      "pali": "cha ñāṇāni asādhāraṇāni sāvakehi."
+    },
+    {
+      "id": "ps1.0:74.4",
+      "pali": "Mātikā niṭṭhitā."
+    }
+  ]
+}

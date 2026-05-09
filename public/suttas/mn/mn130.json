@@ -1,0 +1,807 @@
+{
+  "uid": "mn130",
+  "title": "Devadūtasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn130:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn130:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn130:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn130:1.4",
+      "pali": "“bhikkhavo”ti."
+    },
+    {
+      "id": "mn130:1.5",
+      "pali": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn130:1.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn130:2.1",
+      "pali": "“Seyyathāpi, bhikkhave, dve agārā sadvārā, tattha cakkhumā puriso majjhe ṭhito passeyya manusse gehaṁ pavisantepi nikkhamantepi anucaṅkamantepi anuvicarantepi;"
+    },
+    {
+      "id": "mn130:2.2",
+      "pali": "evameva kho ahaṁ, bhikkhave, dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate yathākammūpage satte pajānāmi: ‘ime vata bhonto sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṁ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā; te kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapannā. Ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṁ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā; te kāyassa bhedā paraṁ maraṇā manussesu upapannā. Ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṁ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā; te kāyassa bhedā paraṁ maraṇā pettivisayaṁ upapannā. Ime vā pana bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṁ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā; te kāyassa bhedā paraṁ maraṇā tiracchānayoniṁ upapannā. Ime vā pana bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṁ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā; te kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapannā’ti."
+    },
+    {
+      "id": "mn130:3.1",
+      "pali": "Tamenaṁ, bhikkhave, nirayapālā nānābāhāsu gahetvā yamassa rañño dassenti:"
+    },
+    {
+      "id": "mn130:3.2",
+      "pali": "‘ayaṁ, deva, puriso amatteyyo apetteyyo asāmañño abrāhmañño, na kule jeṭṭhāpacāyī."
+    },
+    {
+      "id": "mn130:3.3",
+      "pali": "Imassa devo daṇḍaṁ paṇetū’ti."
+    },
+    {
+      "id": "mn130:3.4",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā paṭhamaṁ devadūtaṁ samanuyuñjati samanugāhati samanubhāsati:"
+    },
+    {
+      "id": "mn130:3.5",
+      "pali": "‘ambho purisa, na tvaṁ addasa manussesu paṭhamaṁ devadūtaṁ pātubhūtan’ti?"
+    },
+    {
+      "id": "mn130:3.6",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:3.7",
+      "pali": "‘nāddasaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:4.1",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:4.2",
+      "pali": "‘ambho purisa, na tvaṁ addasa manussesu daharaṁ kumāraṁ mandaṁ uttānaseyyakaṁ sake muttakarīse palipannaṁ semānan’ti?"
+    },
+    {
+      "id": "mn130:4.3",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:4.4",
+      "pali": "‘addasaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:4.5",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:4.6",
+      "pali": "‘ambho purisa, tassa te viññussa sato mahallakassa na etadahosi—"
+    },
+    {
+      "id": "mn130:4.7",
+      "pali": "ahampi khomhi jātidhammo, jātiṁ anatīto. Handāhaṁ kalyāṇaṁ karomi kāyena vācāya manasā’ti?"
+    },
+    {
+      "id": "mn130:4.8",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:4.9",
+      "pali": "‘nāsakkhissaṁ, bhante, pamādassaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:4.10",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:4.11",
+      "pali": "‘ambho purisa, pamādavatāya na kalyāṇamakāsi kāyena vācāya manasā."
+    },
+    {
+      "id": "mn130:4.12",
+      "pali": "Taggha tvaṁ, ambho purisa, tathā karissanti yathā taṁ pamattaṁ."
+    },
+    {
+      "id": "mn130:4.13",
+      "pali": "Taṁ kho pana te etaṁ pāpakammaṁ neva mātarā kataṁ na pitarā kataṁ na bhātarā kataṁ na bhaginiyā kataṁ na mittāmaccehi kataṁ na ñātisālohitehi kataṁ na samaṇabrāhmaṇehi kataṁ na devatāhi kataṁ, tayāvetaṁ pāpakammaṁ kataṁ, tvaññevetassa vipākaṁ paṭisaṁvedissasī’ti."
+    },
+    {
+      "id": "mn130:5.1",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā paṭhamaṁ devadūtaṁ samanuyuñjitvā samanugāhitvā samanubhāsitvā dutiyaṁ devadūtaṁ samanuyuñjati samanugāhati samanubhāsati:"
+    },
+    {
+      "id": "mn130:5.2",
+      "pali": "‘ambho purisa, na tvaṁ addasa manussesu dutiyaṁ devadūtaṁ pātubhūtan’ti?"
+    },
+    {
+      "id": "mn130:5.3",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:5.4",
+      "pali": "‘nāddasaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:5.5",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:5.6",
+      "pali": "‘ambho purisa, na tvaṁ addasa manussesu itthiṁ vā purisaṁ vā (…) jiṇṇaṁ gopānasivaṅkaṁ bhoggaṁ daṇḍaparāyanaṁ pavedhamānaṁ gacchantaṁ āturaṁ gatayobbanaṁ khaṇḍadantaṁ palitakesaṁ vilūnaṁ khalitasiraṁ valinaṁ tilakāhatagattan’ti?"
+    },
+    {
+      "id": "mn130:5.7",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:5.8",
+      "pali": "‘addasaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:5.9",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:5.10",
+      "pali": "‘ambho purisa, tassa te viññussa sato mahallakassa na etadahosi—"
+    },
+    {
+      "id": "mn130:5.11",
+      "pali": "ahampi khomhi jarādhammo, jaraṁ anatīto. Handāhaṁ kalyāṇaṁ karomi kāyena vācāya manasā’ti?"
+    },
+    {
+      "id": "mn130:5.12",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:5.13",
+      "pali": "‘nāsakkhissaṁ, bhante, pamādassaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:5.14",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:5.15",
+      "pali": "‘ambho purisa, pamādavatāya na kalyāṇamakāsi kāyena vācāya manasā."
+    },
+    {
+      "id": "mn130:5.16",
+      "pali": "Taggha tvaṁ, ambho purisa, tathā karissanti yathā taṁ pamattaṁ."
+    },
+    {
+      "id": "mn130:5.17",
+      "pali": "Taṁ kho pana te etaṁ pāpakammaṁ neva mātarā kataṁ na pitarā kataṁ na bhātarā kataṁ na bhaginiyā kataṁ na mittāmaccehi kataṁ na ñātisālohitehi kataṁ na samaṇabrāhmaṇehi kataṁ na devatāhi kataṁ, tayāvetaṁ pāpakammaṁ kataṁ, tvaññevetassa vipākaṁ paṭisaṁvedissasī’ti."
+    },
+    {
+      "id": "mn130:6.1",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā dutiyaṁ devadūtaṁ samanuyuñjitvā samanugāhitvā samanubhāsitvā tatiyaṁ devadūtaṁ samanuyuñjati samanugāhati samanubhāsati:"
+    },
+    {
+      "id": "mn130:6.2",
+      "pali": "‘ambho purisa, na tvaṁ addasa manussesu tatiyaṁ devadūtaṁ pātubhūtan’ti?"
+    },
+    {
+      "id": "mn130:6.3",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:6.4",
+      "pali": "‘nāddasaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:6.5",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:6.6",
+      "pali": "‘ambho purisa, na tvaṁ addasa manussesu itthiṁ vā purisaṁ vā ābādhikaṁ dukkhitaṁ bāḷhagilānaṁ sake muttakarīse palipannaṁ semānaṁ aññehi vuṭṭhāpiyamānaṁ aññehi saṁvesiyamānan’ti?"
+    },
+    {
+      "id": "mn130:6.7",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:6.8",
+      "pali": "‘addasaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:6.9",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:6.10",
+      "pali": "‘ambho purisa, tassa te viññussa sato mahallakassa na etadahosi—"
+    },
+    {
+      "id": "mn130:6.11",
+      "pali": "ahampi khomhi byādhidhammo, byādhiṁ anatīto."
+    },
+    {
+      "id": "mn130:6.12",
+      "pali": "Handāhaṁ kalyāṇaṁ karomi kāyena vācāya manasā’ti? So evamāha:"
+    },
+    {
+      "id": "mn130:6.13",
+      "pali": "‘nāsakkhissaṁ, bhante, pamādassaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:6.14",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:6.15",
+      "pali": "‘ambho purisa, pamādavatāya na kalyāṇamakāsi kāyena vācāya manasā."
+    },
+    {
+      "id": "mn130:6.16",
+      "pali": "Taggha tvaṁ, ambho purisa, tathā karissanti yathā taṁ pamattaṁ."
+    },
+    {
+      "id": "mn130:6.17",
+      "pali": "Taṁ kho pana te etaṁ pāpakammaṁ neva mātarā kataṁ na pitarā kataṁ na bhātarā kataṁ na bhaginiyā kataṁ na mittāmaccehi kataṁ na ñātisālohitehi kataṁ na samaṇabrāhmaṇehi kataṁ na devatāhi kataṁ, tayāvetaṁ pāpakammaṁ kataṁ, tvaññevetassa vipākaṁ paṭisaṁvedissasī’ti."
+    },
+    {
+      "id": "mn130:7.1",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā tatiyaṁ devadūtaṁ samanuyuñjitvā samanugāhitvā samanubhāsitvā catutthaṁ devadūtaṁ samanuyuñjati samanugāhati samanubhāsati:"
+    },
+    {
+      "id": "mn130:7.2",
+      "pali": "‘ambho purisa, na tvaṁ addasa manussesu catutthaṁ devadūtaṁ pātubhūtan’ti?"
+    },
+    {
+      "id": "mn130:7.3",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:7.4",
+      "pali": "‘nāddasaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:7.5",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:7.6",
+      "pali": "‘ambho purisa, na tvaṁ addasa manussesu rājāno coraṁ āgucāriṁ gahetvā vividhā kammakāraṇā kārente—"
+    },
+    {
+      "id": "mn130:7.7",
+      "pali": "kasāhipi tāḷente vettehipi tāḷente addhadaṇḍakehipi tāḷente hatthampi chindante pādampi chindante hatthapādampi chindante kaṇṇampi chindante nāsampi chindante kaṇṇanāsampi chindante bilaṅgathālikampi karonte saṅkhamuṇḍikampi karonte rāhumukhampi karonte jotimālikampi karonte hatthapajjotikampi karonte erakavattikampi karonte cīrakavāsikampi karonte eṇeyyakampi karonte baḷisamaṁsikampi karonte kahāpaṇikampi karonte khārāpatacchikampi karonte palighaparivattikampi karonte palālapīṭhakampi karonte tattenapi telena osiñcante sunakhehipi khādāpente jīvantampi sūle uttāsente asināpi sīsaṁ chindante’ti?"
+    },
+    {
+      "id": "mn130:7.8",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:7.9",
+      "pali": "‘addasaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:7.10",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:7.11",
+      "pali": "‘ambho purisa, tassa te viññussa sato mahallakassa na etadahosi—"
+    },
+    {
+      "id": "mn130:7.12",
+      "pali": "ye kira, bho, pāpakāni kammāni karonti te diṭṭheva dhamme evarūpā vividhā kammakāraṇā karīyanti, kimaṅgaṁ pana parattha. Handāhaṁ kalyāṇaṁ karomi kāyena vācāya manasā’ti?"
+    },
+    {
+      "id": "mn130:7.13",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:7.14",
+      "pali": "‘nāsakkhissaṁ, bhante, pamādassaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:7.15",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:7.16",
+      "pali": "‘ambho purisa, pamādavatāya na kalyāṇamakāsi kāyena vācāya manasā."
+    },
+    {
+      "id": "mn130:7.17",
+      "pali": "Taggha tvaṁ, ambho purisa, tathā karissanti yathā taṁ pamattaṁ."
+    },
+    {
+      "id": "mn130:7.18",
+      "pali": "Taṁ kho pana te etaṁ pāpakammaṁ neva mātarā kataṁ na pitarā kataṁ na bhātarā kataṁ na bhaginiyā kataṁ na mittāmaccehi kataṁ na ñātisālohitehi kataṁ na samaṇabrāhmaṇehi kataṁ na devatāhi kataṁ, tayāvetaṁ pāpakammaṁ kataṁ, tvaññevetassa vipākaṁ paṭisaṁvedissasī’ti."
+    },
+    {
+      "id": "mn130:8.1",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā catutthaṁ devadūtaṁ samanuyuñjitvā samanugāhitvā samanubhāsitvā pañcamaṁ devadūtaṁ samanuyuñjati samanugāhati samanubhāsati:"
+    },
+    {
+      "id": "mn130:8.2",
+      "pali": "‘ambho purisa, na tvaṁ addasa manussesu pañcamaṁ devadūtaṁ pātubhūtan’ti?"
+    },
+    {
+      "id": "mn130:8.3",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:8.4",
+      "pali": "‘nāddasaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:8.5",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:8.6",
+      "pali": "‘ambho purisa, na tvaṁ addasa manussesu itthiṁ vā purisaṁ vā ekāhamataṁ vā dvīhamataṁ vā tīhamataṁ vā uddhumātakaṁ vinīlakaṁ vipubbakajātan’ti?"
+    },
+    {
+      "id": "mn130:8.7",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:8.8",
+      "pali": "‘addasaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:8.9",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:8.10",
+      "pali": "‘ambho purisa, tassa te viññussa sato mahallakassa na etadahosi—"
+    },
+    {
+      "id": "mn130:8.11",
+      "pali": "ahampi khomhi maraṇadhammo, maraṇaṁ anatīto. Handāhaṁ kalyāṇaṁ karomi kāyena vācāya manasā’ti?"
+    },
+    {
+      "id": "mn130:8.12",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:8.13",
+      "pali": "‘nāsakkhissaṁ, bhante, pamādassaṁ, bhante’ti."
+    },
+    {
+      "id": "mn130:8.14",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā evamāha:"
+    },
+    {
+      "id": "mn130:8.15",
+      "pali": "‘ambho purisa, pamādavatāya na kalyāṇamakāsi kāyena vācāya manasā."
+    },
+    {
+      "id": "mn130:8.16",
+      "pali": "Taggha tvaṁ, ambho purisa, tathā karissanti yathā taṁ pamattaṁ."
+    },
+    {
+      "id": "mn130:8.17",
+      "pali": "Taṁ kho pana te etaṁ pāpakammaṁ neva mātarā kataṁ na pitarā kataṁ na bhātarā kataṁ na bhaginiyā kataṁ na mittāmaccehi kataṁ na ñātisālohitehi kataṁ na samaṇabrāhmaṇehi kataṁ na devatāhi kataṁ, tayāvetaṁ pāpakammaṁ kataṁ, tvaññevetassa vipākaṁ paṭisaṁvedissasī’ti."
+    },
+    {
+      "id": "mn130:9.1",
+      "pali": "Tamenaṁ, bhikkhave, yamo rājā pañcamaṁ devadūtaṁ samanuyuñjitvā samanugāhitvā samanubhāsitvā tuṇhī hoti."
+    },
+    {
+      "id": "mn130:10.1",
+      "pali": "Tamenaṁ, bhikkhave, nirayapālā pañcavidhabandhanaṁ nāma kammakāraṇaṁ karonti—"
+    },
+    {
+      "id": "mn130:10.2",
+      "pali": "tattaṁ ayokhilaṁ hatthe gamenti, tattaṁ ayokhilaṁ dutiye hatthe gamenti, tattaṁ ayokhilaṁ pāde gamenti, tattaṁ ayokhilaṁ dutiye pāde gamenti, tattaṁ ayokhilaṁ majjheurasmiṁ gamenti."
+    },
+    {
+      "id": "mn130:10.3",
+      "pali": "So tattha dukkhā tibbā kharā kaṭukā vedanā vedeti, na ca tāva kālaṁ karoti yāva na taṁ pāpakammaṁ byantīhoti."
+    },
+    {
+      "id": "mn130:11.1",
+      "pali": "Tamenaṁ, bhikkhave, nirayapālā saṁvesetvā kuṭhārīhi tacchanti …pe…"
+    },
+    {
+      "id": "mn130:12.1",
+      "pali": "tamenaṁ, bhikkhave, nirayapālā uddhampādaṁ adhosiraṁ gahetvā vāsīhi tacchanti …pe…"
+    },
+    {
+      "id": "mn130:13.1",
+      "pali": "tamenaṁ, bhikkhave, nirayapālā rathe yojetvā ādittāya pathaviyā sampajjalitāya sajotibhūtāya sārentipi, paccāsārentipi …pe…"
+    },
+    {
+      "id": "mn130:14.1",
+      "pali": "tamenaṁ, bhikkhave, nirayapālā mahantaṁ aṅgārapabbataṁ ādittaṁ sampajjalitaṁ sajotibhūtaṁ āropentipi oropentipi …pe…"
+    },
+    {
+      "id": "mn130:15.1",
+      "pali": "tamenaṁ, bhikkhave, nirayapālā uddhampādaṁ adhosiraṁ gahetvā tattāya lohakumbhiyā pakkhipanti ādittāya sampajjalitāya sajotibhūtāya."
+    },
+    {
+      "id": "mn130:15.2",
+      "pali": "So tattha pheṇuddehakaṁ paccati."
+    },
+    {
+      "id": "mn130:15.3",
+      "pali": "So tattha pheṇuddehakaṁ paccamāno sakimpi uddhaṁ gacchati, sakimpi adho gacchati, sakimpi tiriyaṁ gacchati."
+    },
+    {
+      "id": "mn130:15.4",
+      "pali": "So tattha dukkhā tibbā kharā kaṭukā vedanā vedeti, na ca tāva kālaṁ karoti yāva na taṁ pāpakammaṁ byantīhoti."
+    },
+    {
+      "id": "mn130:16.1",
+      "pali": "Tamenaṁ, bhikkhave, nirayapālā mahāniraye pakkhipanti."
+    },
+    {
+      "id": "mn130:16.2",
+      "pali": "So kho pana, bhikkhave, mahānirayo—"
+    },
+    {
+      "id": "mn130:16.3",
+      "pali": "Catukkaṇṇo catudvāro,"
+    },
+    {
+      "id": "mn130:16.4",
+      "pali": "vibhatto bhāgaso mito;"
+    },
+    {
+      "id": "mn130:16.5",
+      "pali": "Ayopākārapariyanto,"
+    },
+    {
+      "id": "mn130:16.6",
+      "pali": "ayasā paṭikujjito."
+    },
+    {
+      "id": "mn130:16.7",
+      "pali": "Tassa ayomayā bhūmi,"
+    },
+    {
+      "id": "mn130:16.8",
+      "pali": "jalitā tejasāyutā;"
+    },
+    {
+      "id": "mn130:16.9",
+      "pali": "Samantā yojanasataṁ,"
+    },
+    {
+      "id": "mn130:16.10",
+      "pali": "pharitvā tiṭṭhati sabbadā."
+    },
+    {
+      "id": "mn130:17.1",
+      "pali": "Tassa kho pana, bhikkhave, mahānirayassa puratthimāya bhittiyā acci uṭṭhahitvā pacchimāya bhittiyā paṭihaññati, pacchimāya bhittiyā acci uṭṭhahitvā puratthimāya bhittiyā paṭihaññati, uttarāya bhittiyā acci uṭṭhahitvā dakkhiṇāya bhittiyā paṭihaññati, dakkhiṇāya bhittiyā acci uṭṭhahitvā uttarāya bhittiyā paṭihaññati, heṭṭhā acci uṭṭhahitvā upari paṭihaññati, uparito acci uṭṭhahitvā heṭṭhā paṭihaññati."
+    },
+    {
+      "id": "mn130:17.2",
+      "pali": "So tattha dukkhā tibbā kharā kaṭukā vedanā vedeti, na ca tāva kālaṁ karoti yāva na taṁ pāpakammaṁ byantīhoti."
+    },
+    {
+      "id": "mn130:18.1",
+      "pali": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tassa mahānirayassa puratthimaṁ dvāraṁ apāpurīyati."
+    },
+    {
+      "id": "mn130:18.2",
+      "pali": "So tattha sīghena javena dhāvati."
+    },
+    {
+      "id": "mn130:18.3",
+      "pali": "Tassa sīghena javena dhāvato chavimpi ḍayhati, cammampi ḍayhati, maṁsampi ḍayhati, nhārumpi ḍayhati, aṭṭhīnipi sampadhūpāyanti, ubbhataṁ tādisameva hoti."
+    },
+    {
+      "id": "mn130:18.4",
+      "pali": "Yato ca kho so, bhikkhave, bahusampatto hoti, atha taṁ dvāraṁ pidhīyati."
+    },
+    {
+      "id": "mn130:18.5",
+      "pali": "So tattha dukkhā tibbā kharā kaṭukā vedanā vedeti, na ca tāva kālaṁ karoti yāva na taṁ pāpakammaṁ byantīhoti."
+    },
+    {
+      "id": "mn130:18.6",
+      "pali": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tassa mahānirayassa pacchimaṁ dvāraṁ apāpurīyati …pe…"
+    },
+    {
+      "id": "mn130:18.7",
+      "pali": "uttaraṁ dvāraṁ apāpurīyati …pe…"
+    },
+    {
+      "id": "mn130:18.8",
+      "pali": "dakkhiṇaṁ dvāraṁ apāpurīyati."
+    },
+    {
+      "id": "mn130:18.9",
+      "pali": "So tattha sīghena javena dhāvati."
+    },
+    {
+      "id": "mn130:18.10",
+      "pali": "Tassa sīghena javena dhāvato chavimpi ḍayhati, cammampi ḍayhati, maṁsampi ḍayhati, nhārumpi ḍayhati, aṭṭhīnipi sampadhūpāyanti, ubbhataṁ tādisameva hoti."
+    },
+    {
+      "id": "mn130:18.11",
+      "pali": "Yato ca kho so, bhikkhave, bahusampatto hoti, atha taṁ dvāraṁ pidhīyati."
+    },
+    {
+      "id": "mn130:18.12",
+      "pali": "So tattha dukkhā tibbā kharā kaṭukā vedanā vedeti, na ca tāva kālaṁ karoti yāva na taṁ pāpakammaṁ byantīhoti."
+    },
+    {
+      "id": "mn130:19.1",
+      "pali": "Hoti kho so, bhikkhave, samayo yaṁ kadāci karahaci dīghassa addhuno accayena tassa mahānirayassa puratthimaṁ dvāraṁ apāpurīyati."
+    },
+    {
+      "id": "mn130:19.2",
+      "pali": "So tattha sīghena javena dhāvati."
+    },
+    {
+      "id": "mn130:19.3",
+      "pali": "Tassa sīghena javena dhāvato chavimpi ḍayhati, cammampi ḍayhati, maṁsampi ḍayhati, nhārumpi ḍayhati, aṭṭhīnipi sampadhūpāyanti, ubbhataṁ tādisameva hoti."
+    },
+    {
+      "id": "mn130:19.4",
+      "pali": "So tena dvārena nikkhamati."
+    },
+    {
+      "id": "mn130:20.1",
+      "pali": "Tassa kho pana, bhikkhave, mahānirayassa samanantarā sahitameva mahanto gūthanirayo."
+    },
+    {
+      "id": "mn130:20.2",
+      "pali": "So tattha patati."
+    },
+    {
+      "id": "mn130:20.3",
+      "pali": "Tasmiṁ kho pana, bhikkhave, gūthaniraye sūcimukhā pāṇā chaviṁ chindanti, chaviṁ chetvā cammaṁ chindanti, cammaṁ chetvā maṁsaṁ chindanti, maṁsaṁ chetvā nhāruṁ chindanti, nhāruṁ chetvā aṭṭhiṁ chindanti, aṭṭhiṁ chetvā aṭṭhimiñjaṁ khādanti."
+    },
+    {
+      "id": "mn130:20.4",
+      "pali": "So tattha dukkhā tibbā kharā kaṭukā vedanā vedeti, na ca tāva kālaṁ karoti yāva na taṁ pāpakammaṁ byantīhoti."
+    },
+    {
+      "id": "mn130:21.1",
+      "pali": "Tassa kho pana, bhikkhave, gūthanirayassa samanantarā sahitameva mahanto kukkulanirayo."
+    },
+    {
+      "id": "mn130:21.2",
+      "pali": "So tattha patati."
+    },
+    {
+      "id": "mn130:21.3",
+      "pali": "So tattha dukkhā tibbā kharā kaṭukā vedanā vedeti, na ca tāva kālaṁ karoti yāva na taṁ pāpakammaṁ byantīhoti."
+    },
+    {
+      "id": "mn130:22.1",
+      "pali": "Tassa kho pana, bhikkhave, kukkulanirayassa samanantarā sahitameva mahantaṁ simbalivanaṁ uddhaṁ yojanamuggataṁ soḷasaṅgulakaṇṭakaṁ ādittaṁ sampajjalitaṁ sajotibhūtaṁ."
+    },
+    {
+      "id": "mn130:22.2",
+      "pali": "Tattha āropentipi oropentipi."
+    },
+    {
+      "id": "mn130:22.3",
+      "pali": "So tattha dukkhā tibbā kharā kaṭukā vedanā vedeti, na ca tāva kālaṁ karoti yāva na taṁ pāpakammaṁ byantīhoti."
+    },
+    {
+      "id": "mn130:23.1",
+      "pali": "Tassa kho pana, bhikkhave, simbalivanassa samanantarā sahitameva mahantaṁ asipattavanaṁ."
+    },
+    {
+      "id": "mn130:23.2",
+      "pali": "So tattha pavisati."
+    },
+    {
+      "id": "mn130:23.3",
+      "pali": "Tassa vāteritāni pattāni patitāni hatthampi chindanti, pādampi chindanti, hatthapādampi chindanti, kaṇṇampi chindanti, nāsampi chindanti, kaṇṇanāsampi chindanti."
+    },
+    {
+      "id": "mn130:23.4",
+      "pali": "So tattha dukkhā tibbā kharā kaṭukā vedanā vedeti, na ca tāva kālaṁ karoti yāva na taṁ pāpakammaṁ byantīhoti."
+    },
+    {
+      "id": "mn130:24.1",
+      "pali": "Tassa kho pana, bhikkhave, asipattavanassa samanantarā sahitameva mahatī khārodakā nadī."
+    },
+    {
+      "id": "mn130:24.2",
+      "pali": "So tattha patati."
+    },
+    {
+      "id": "mn130:24.3",
+      "pali": "So tattha anusotampi vuyhati, paṭisotampi vuyhati, anusotapaṭisotampi vuyhati."
+    },
+    {
+      "id": "mn130:24.4",
+      "pali": "So tattha dukkhā tibbā kharā kaṭukā vedanā vedeti, na ca tāva kālaṁ karoti yāva na taṁ pāpakammaṁ byantīhoti."
+    },
+    {
+      "id": "mn130:25.1",
+      "pali": "Tamenaṁ, bhikkhave, nirayapālā balisena uddharitvā thale patiṭṭhāpetvā evamāhaṁsu:"
+    },
+    {
+      "id": "mn130:25.2",
+      "pali": "‘ambho purisa, kiṁ icchasī’ti?"
+    },
+    {
+      "id": "mn130:25.3",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:25.4",
+      "pali": "‘jighacchitosmi, bhante’ti."
+    },
+    {
+      "id": "mn130:25.5",
+      "pali": "Tamenaṁ, bhikkhave, nirayapālā tattena ayosaṅkunā mukhaṁ vivaritvā ādittena sampajjalitena sajotibhūtena tattaṁ lohaguḷaṁ mukhe pakkhipanti ādittaṁ sampajjalitaṁ sajotibhūtaṁ."
+    },
+    {
+      "id": "mn130:25.6",
+      "pali": "So tassa oṭṭhampi dahati, mukhampi dahati, kaṇṭhampi dahati, urampi dahati, antampi antaguṇampi ādāya adhobhāgā nikkhamati."
+    },
+    {
+      "id": "mn130:25.7",
+      "pali": "So tattha dukkhā tibbā kharā kaṭukā vedanā vedeti, na ca tāva kālaṁ karoti yāva na taṁ pāpakammaṁ byantīhoti."
+    },
+    {
+      "id": "mn130:26.1",
+      "pali": "Tamenaṁ, bhikkhave, nirayapālā evamāhaṁsu:"
+    },
+    {
+      "id": "mn130:26.2",
+      "pali": "‘ambho purisa, kiṁ icchasī’ti?"
+    },
+    {
+      "id": "mn130:26.3",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn130:26.4",
+      "pali": "‘pipāsitosmi, bhante’ti."
+    },
+    {
+      "id": "mn130:26.5",
+      "pali": "Tamenaṁ, bhikkhave, nirayapālā tattena ayosaṅkunā mukhaṁ vivaritvā ādittena sampajjalitena sajotibhūtena tattaṁ tambalohaṁ mukhe āsiñcanti ādittaṁ sampajjalitaṁ sajotibhūtaṁ."
+    },
+    {
+      "id": "mn130:26.6",
+      "pali": "Taṁ tassa oṭṭhampi dahati, mukhampi dahati, kaṇṭhampi dahati, urampi dahati, antampi antaguṇampi ādāya adhobhāgā nikkhamati."
+    },
+    {
+      "id": "mn130:26.7",
+      "pali": "So tattha dukkhā tibbā kharā kaṭukā vedanā vedeti, na ca tāva kālaṁ karoti, yāva na taṁ pāpakammaṁ byantīhoti."
+    },
+    {
+      "id": "mn130:27.1",
+      "pali": "Tamenaṁ, bhikkhave, nirayapālā puna mahāniraye pakkhipanti."
+    },
+    {
+      "id": "mn130:28.1",
+      "pali": "Bhūtapubbaṁ, bhikkhave, yamassa rañño etadahosi:"
+    },
+    {
+      "id": "mn130:28.2",
+      "pali": "‘ye kira, bho, loke pāpakāni akusalāni kammāni karonti te evarūpā vividhā kammakāraṇā karīyanti."
+    },
+    {
+      "id": "mn130:28.3",
+      "pali": "Aho vatāhaṁ manussattaṁ labheyyaṁ. Tathāgato ca loke uppajjeyya arahaṁ sammāsambuddho. Tañcāhaṁ bhagavantaṁ payirupāseyyaṁ."
+    },
+    {
+      "id": "mn130:28.4",
+      "pali": "So ca me bhagavā dhammaṁ deseyya. Tassa cāhaṁ bhagavato dhammaṁ ājāneyyan’ti."
+    },
+    {
+      "id": "mn130:29.1",
+      "pali": "Taṁ kho panāhaṁ, bhikkhave, nāññassa samaṇassa vā brāhmaṇassa vā sutvā vadāmi, api ca yadeva sāmaṁ ñātaṁ sāmaṁ diṭṭhaṁ sāmaṁ viditaṁ tadevāhaṁ vadāmī”ti."
+    },
+    {
+      "id": "mn130:30.1",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn130:30.2",
+      "pali": "Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:"
+    },
+    {
+      "id": "mn130:30.3",
+      "pali": "“Coditā devadūtehi,"
+    },
+    {
+      "id": "mn130:30.4",
+      "pali": "ye pamajjanti māṇavā;"
+    },
+    {
+      "id": "mn130:30.5",
+      "pali": "Te dīgharattaṁ socanti,"
+    },
+    {
+      "id": "mn130:30.6",
+      "pali": "hīnakāyūpagā narā."
+    },
+    {
+      "id": "mn130:30.7",
+      "pali": "Ye ca kho devadūtehi,"
+    },
+    {
+      "id": "mn130:30.8",
+      "pali": "santo sappurisā idha;"
+    },
+    {
+      "id": "mn130:30.9",
+      "pali": "Coditā nappamajjanti,"
+    },
+    {
+      "id": "mn130:30.10",
+      "pali": "ariyadhamme kudācanaṁ."
+    },
+    {
+      "id": "mn130:30.11",
+      "pali": "Upādāne bhayaṁ disvā,"
+    },
+    {
+      "id": "mn130:30.12",
+      "pali": "jātimaraṇasambhave;"
+    },
+    {
+      "id": "mn130:30.13",
+      "pali": "Anupādā vimuccanti,"
+    },
+    {
+      "id": "mn130:30.14",
+      "pali": "jātimaraṇasaṅkhaye."
+    },
+    {
+      "id": "mn130:30.15",
+      "pali": "Te khemappattā sukhino,"
+    },
+    {
+      "id": "mn130:30.16",
+      "pali": "diṭṭhadhammābhinibbutā;"
+    },
+    {
+      "id": "mn130:30.17",
+      "pali": "Sabbaverabhayātītā,"
+    },
+    {
+      "id": "mn130:30.18",
+      "pali": "sabbadukkhaṁ upaccagun”ti."
+    },
+    {
+      "id": "mn130:30.19",
+      "pali": "Devadūtasuttaṁ niṭṭhitaṁ dasamaṁ."
+    },
+    {
+      "id": "mn130:30.20",
+      "pali": "Suññatavaggo niṭṭhito tatiyo."
+    },
+    {
+      "id": "mn130:31.1",
+      "pali": "Dvidhāva suññatā hoti,"
+    },
+    {
+      "id": "mn130:31.2",
+      "pali": "Abbhutadhammabākulaṁ;"
+    },
+    {
+      "id": "mn130:31.3",
+      "pali": "Aciravatabhūmijanāmo,"
+    },
+    {
+      "id": "mn130:31.4",
+      "pali": "Anuruddhupakkilesaṁ;"
+    },
+    {
+      "id": "mn130:31.5",
+      "pali": "Bālapaṇḍito devadūtañca te dasāti."
+    }
+  ]
+}

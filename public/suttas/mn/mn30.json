@@ -1,0 +1,647 @@
+{
+  "uid": "mn30",
+  "title": "Cūḷasāropamasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn30:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn30:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn30:2.1",
+      "pali": "Atha kho piṅgalakoccho brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn30:2.2",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho piṅgalakoccho brāhmaṇo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn30:2.3",
+      "pali": "“yeme, bho gotama, samaṇabrāhmaṇā saṅghino gaṇino gaṇācariyā ñātā yasassino titthakarā sādhusammatā, bahujanassa,"
+    },
+    {
+      "id": "mn30:2.4",
+      "pali": "seyyathidaṁ—pūraṇo kassapo, makkhali gosālo, ajito kesakambalo, pakudho kaccāyano, sañcayo belaṭṭhaputto, nigaṇṭho nāṭaputto,"
+    },
+    {
+      "id": "mn30:2.5",
+      "pali": "sabbete sakāya paṭiññāya abbhaññaṁsu sabbeva nābbhaññaṁsu, udāhu ekacce abbhaññaṁsu ekacce nābbhaññaṁsū”ti?"
+    },
+    {
+      "id": "mn30:2.6",
+      "pali": "“Alaṁ, brāhmaṇa, tiṭṭhatetaṁ—"
+    },
+    {
+      "id": "mn30:2.7",
+      "pali": "sabbete sakāya paṭiññāya abbhaññaṁsu sabbeva nābbhaññaṁsu, udāhu ekacce abbhaññaṁsu ekacce nābbhaññaṁsūti."
+    },
+    {
+      "id": "mn30:2.8",
+      "pali": "Dhammaṁ te, brāhmaṇa, desessāmi,"
+    },
+    {
+      "id": "mn30:2.9",
+      "pali": "taṁ suṇāhi, sādhukaṁ manasi karohi, bhāsissāmī”ti."
+    },
+    {
+      "id": "mn30:2.10",
+      "pali": "“Evaṁ, bho”ti kho piṅgalakoccho brāhmaṇo bhagavato paccassosi."
+    },
+    {
+      "id": "mn30:2.11",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn30:3.1",
+      "pali": "“Seyyathāpi, brāhmaṇa, puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva sāraṁ atikkamma phegguṁ atikkamma tacaṁ atikkamma papaṭikaṁ, sākhāpalāsaṁ chetvā ādāya pakkameyya ‘sāran’ti maññamāno."
+    },
+    {
+      "id": "mn30:3.2",
+      "pali": "Tamenaṁ cakkhumā puriso disvā evaṁ vadeyya:"
+    },
+    {
+      "id": "mn30:3.3",
+      "pali": "‘na vatāyaṁ bhavaṁ puriso aññāsi sāraṁ, na aññāsi phegguṁ, na aññāsi tacaṁ, na aññāsi papaṭikaṁ, na aññāsi sākhāpalāsaṁ."
+    },
+    {
+      "id": "mn30:3.4",
+      "pali": "Tathā hayaṁ bhavaṁ puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva sāraṁ atikkamma phegguṁ atikkamma tacaṁ atikkamma papaṭikaṁ, sākhāpalāsaṁ chetvā ādāya pakkanto “sāran”ti maññamāno."
+    },
+    {
+      "id": "mn30:3.5",
+      "pali": "Yañcassa sārena sārakaraṇīyaṁ tañcassa atthaṁ nānubhavissatī’ti."
+    },
+    {
+      "id": "mn30:4.1",
+      "pali": "Seyyathāpi vā pana, brāhmaṇa, puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva sāraṁ atikkamma phegguṁ atikkamma tacaṁ, papaṭikaṁ chetvā ādāya pakkameyya ‘sāran’ti maññamāno."
+    },
+    {
+      "id": "mn30:4.2",
+      "pali": "Tamenaṁ cakkhumā puriso disvā evaṁ vadeyya:"
+    },
+    {
+      "id": "mn30:4.3",
+      "pali": "‘na vatāyaṁ bhavaṁ puriso aññāsi sāraṁ, na aññāsi phegguṁ, na aññāsi tacaṁ, na aññāsi papaṭikaṁ, na aññāsi sākhāpalāsaṁ."
+    },
+    {
+      "id": "mn30:4.4",
+      "pali": "Tathā hayaṁ bhavaṁ puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva sāraṁ atikkamma phegguṁ atikkamma tacaṁ papaṭikaṁ chetvā ādāya pakkanto “sāran”ti maññamāno."
+    },
+    {
+      "id": "mn30:4.5",
+      "pali": "Yañcassa sārena sārakaraṇīyaṁ tañcassa atthaṁ nānubhavissatī’ti."
+    },
+    {
+      "id": "mn30:5.1",
+      "pali": "Seyyathāpi vā pana, brāhmaṇa, puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva sāraṁ atikkamma phegguṁ, tacaṁ chetvā ādāya pakkameyya ‘sāran’ti maññamāno."
+    },
+    {
+      "id": "mn30:5.2",
+      "pali": "Tamenaṁ cakkhumā puriso disvā evaṁ vadeyya:"
+    },
+    {
+      "id": "mn30:5.3",
+      "pali": "‘na vatāyaṁ bhavaṁ puriso aññāsi sāraṁ, na aññāsi phegguṁ, na aññāsi tacaṁ, na aññāsi papaṭikaṁ, na aññāsi sākhāpalāsaṁ."
+    },
+    {
+      "id": "mn30:5.4",
+      "pali": "Tathā hayaṁ bhavaṁ puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva sāraṁ atikkamma phegguṁ, tacaṁ chetvā ādāya pakkanto “sāran”ti maññamāno."
+    },
+    {
+      "id": "mn30:5.5",
+      "pali": "Yañcassa sārena sārakaraṇīyaṁ tañcassa atthaṁ nānubhavissatī’ti."
+    },
+    {
+      "id": "mn30:6.1",
+      "pali": "Seyyathāpi vā pana, brāhmaṇa, puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva sāraṁ, phegguṁ chetvā ādāya pakkameyya ‘sāran’ti maññamāno."
+    },
+    {
+      "id": "mn30:6.2",
+      "pali": "Tamenaṁ cakkhumā puriso disvā evaṁ vadeyya:"
+    },
+    {
+      "id": "mn30:6.3",
+      "pali": "‘na vatāyaṁ bhavaṁ puriso aññāsi sāraṁ, na aññāsi phegguṁ, na aññāsi tacaṁ, na aññāsi papaṭikaṁ, na aññāsi sākhāpalāsaṁ."
+    },
+    {
+      "id": "mn30:6.4",
+      "pali": "Tathā hayaṁ bhavaṁ puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva sāraṁ, phegguṁ chetvā ādāya pakkanto “sāran”ti maññamāno."
+    },
+    {
+      "id": "mn30:6.5",
+      "pali": "Yañcassa sārena sārakaraṇīyaṁ tañcassa atthaṁ nānubhavissatī’ti."
+    },
+    {
+      "id": "mn30:7.1",
+      "pali": "Seyyathāpi vā pana, brāhmaṇa, puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato sāraññeva chetvā ādāya pakkameyya ‘sāran’ti jānamāno."
+    },
+    {
+      "id": "mn30:7.2",
+      "pali": "Tamenaṁ cakkhumā puriso disvā evaṁ vadeyya:"
+    },
+    {
+      "id": "mn30:7.3",
+      "pali": "‘aññāsi vatāyaṁ bhavaṁ puriso sāraṁ, aññāsi phegguṁ, aññāsi tacaṁ, aññāsi papaṭikaṁ, aññāsi sākhāpalāsaṁ."
+    },
+    {
+      "id": "mn30:7.4",
+      "pali": "Tathā hayaṁ bhavaṁ puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato sāraññeva chetvā ādāya pakkanto “sāran”ti jānamāno."
+    },
+    {
+      "id": "mn30:7.5",
+      "pali": "Yañcassa sārena sārakaraṇīyaṁ tañcassa atthaṁ anubhavissatī’ti."
+    },
+    {
+      "id": "mn30:8.1",
+      "pali": "Evameva kho, brāhmaṇa, idhekacco puggalo saddhā agārasmā anagāriyaṁ pabbajito hoti:"
+    },
+    {
+      "id": "mn30:8.2",
+      "pali": "‘otiṇṇomhi jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto,"
+    },
+    {
+      "id": "mn30:8.3",
+      "pali": "appeva nāma imassa kevalassa dukkhakkhandhassa antakiriyā paññāyethā’ti."
+    },
+    {
+      "id": "mn30:8.4",
+      "pali": "So evaṁ pabbajito samāno lābhasakkārasilokaṁ abhinibbatteti."
+    },
+    {
+      "id": "mn30:8.5",
+      "pali": "So tena lābhasakkārasilokena attamano hoti paripuṇṇasaṅkappo."
+    },
+    {
+      "id": "mn30:8.6",
+      "pali": "So tena lābhasakkārasilokena attānukkaṁseti, paraṁ vambheti:"
+    },
+    {
+      "id": "mn30:8.7",
+      "pali": "‘ahamasmi lābhasakkārasilokavā, ime panaññe bhikkhū appaññātā appesakkhā’ti."
+    },
+    {
+      "id": "mn30:8.8",
+      "pali": "Lābhasakkārasilokena ca ye aññe dhammā uttaritarā ca paṇītatarā ca tesaṁ dhammānaṁ sacchikiriyāya na chandaṁ janeti, na vāyamati, olīnavuttiko ca hoti sāthaliko."
+    },
+    {
+      "id": "mn30:8.9",
+      "pali": "Seyyathāpi so, brāhmaṇa, puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva sāraṁ atikkamma phegguṁ atikkamma tacaṁ atikkamma papaṭikaṁ, sākhāpalāsaṁ chetvā ādāya pakkanto ‘sāran’ti maññamāno."
+    },
+    {
+      "id": "mn30:8.10",
+      "pali": "Yañcassa sārena sārakaraṇīyaṁ tañcassa atthaṁ nānubhavissati."
+    },
+    {
+      "id": "mn30:8.11",
+      "pali": "Tathūpamāhaṁ, brāhmaṇa, imaṁ puggalaṁ vadāmi."
+    },
+    {
+      "id": "mn30:9.1",
+      "pali": "Idha pana, brāhmaṇa, ekacco puggalo saddhā agārasmā anagāriyaṁ pabbajito hoti:"
+    },
+    {
+      "id": "mn30:9.2",
+      "pali": "‘otiṇṇomhi jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto,"
+    },
+    {
+      "id": "mn30:9.3",
+      "pali": "appeva nāma imassa kevalassa dukkhakkhandhassa antakiriyā paññāyethā’ti."
+    },
+    {
+      "id": "mn30:9.4",
+      "pali": "So evaṁ pabbajito samāno lābhasakkārasilokaṁ abhinibbatteti."
+    },
+    {
+      "id": "mn30:9.5",
+      "pali": "So tena lābhasakkārasilokena na attamano hoti na paripuṇṇasaṅkappo."
+    },
+    {
+      "id": "mn30:9.6",
+      "pali": "So tena lābhasakkārasilokena na attānukkaṁseti, na paraṁ vambheti."
+    },
+    {
+      "id": "mn30:9.7",
+      "pali": "Lābhasakkārasilokena ca ye aññe dhammā uttaritarā ca paṇītatarā ca tesaṁ dhammānaṁ sacchikiriyāya chandaṁ janeti, vāyamati, anolīnavuttiko ca hoti asāthaliko."
+    },
+    {
+      "id": "mn30:9.8",
+      "pali": "So sīlasampadaṁ ārādheti."
+    },
+    {
+      "id": "mn30:9.9",
+      "pali": "So tāya sīlasampadāya attamano hoti, paripuṇṇasaṅkappo."
+    },
+    {
+      "id": "mn30:9.10",
+      "pali": "So tāya sīlasampadāya attānukkaṁseti, paraṁ vambheti:"
+    },
+    {
+      "id": "mn30:9.11",
+      "pali": "‘ahamasmi sīlavā kalyāṇadhammo, ime panaññe bhikkhū dussīlā pāpadhammā’ti."
+    },
+    {
+      "id": "mn30:9.12",
+      "pali": "Sīlasampadāya ca ye aññe dhammā uttaritarā ca paṇītatarā ca tesaṁ dhammānaṁ sacchikiriyāya na chandaṁ janeti, na vāyamati, olīnavuttiko ca hoti sāthaliko."
+    },
+    {
+      "id": "mn30:9.13",
+      "pali": "Seyyathāpi so, brāhmaṇa, puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva sāraṁ atikkamma phegguṁ atikkamma tacaṁ, papaṭikaṁ chetvā ādāya pakkanto ‘sāran’ti maññamāno."
+    },
+    {
+      "id": "mn30:9.14",
+      "pali": "Yañcassa sārena sārakaraṇīyaṁ, tañcassa atthaṁ nānubhavissati."
+    },
+    {
+      "id": "mn30:9.15",
+      "pali": "Tathūpamāhaṁ, brāhmaṇa, imaṁ puggalaṁ vadāmi."
+    },
+    {
+      "id": "mn30:10.1",
+      "pali": "Idha pana, brāhmaṇa, ekacco puggalo saddhā agārasmā anagāriyaṁ pabbajito hoti:"
+    },
+    {
+      "id": "mn30:10.2",
+      "pali": "‘otiṇṇomhi jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto,"
+    },
+    {
+      "id": "mn30:10.3",
+      "pali": "appeva nāma imassa kevalassa dukkhakkhandhassa antakiriyā paññāyethā’ti."
+    },
+    {
+      "id": "mn30:10.4",
+      "pali": "So evaṁ pabbajito samāno lābhasakkārasilokaṁ abhinibbatteti."
+    },
+    {
+      "id": "mn30:10.5",
+      "pali": "So tena lābhasakkārasilokena na attamano hoti, na paripuṇṇasaṅkappo."
+    },
+    {
+      "id": "mn30:10.6",
+      "pali": "So tena lābhasakkārasilokena na attānukkaṁseti, na paraṁ vambheti."
+    },
+    {
+      "id": "mn30:10.7",
+      "pali": "Lābhasakkārasilokena ca ye aññe dhammā uttaritarā ca paṇītatarā ca tesaṁ dhammānaṁ sacchikiriyāya chandaṁ janeti, vāyamati, anolīnavuttiko ca hoti asāthaliko."
+    },
+    {
+      "id": "mn30:10.8",
+      "pali": "So sīlasampadaṁ ārādheti."
+    },
+    {
+      "id": "mn30:10.9",
+      "pali": "So tāya sīlasampadāya attamano hoti no ca kho paripuṇṇasaṅkappo."
+    },
+    {
+      "id": "mn30:10.10",
+      "pali": "So tāya sīlasampadāya na attānukkaṁseti, na paraṁ vambheti."
+    },
+    {
+      "id": "mn30:10.11",
+      "pali": "Sīlasampadāya ca ye aññe dhammā uttaritarā ca paṇītatarā ca tesaṁ dhammānaṁ sacchikiriyāya chandaṁ janeti, vāyamati, anolīnavuttiko ca hoti asāthaliko."
+    },
+    {
+      "id": "mn30:10.12",
+      "pali": "So samādhisampadaṁ ārādheti."
+    },
+    {
+      "id": "mn30:10.13",
+      "pali": "So tāya samādhisampadāya attamano hoti, paripuṇṇasaṅkappo."
+    },
+    {
+      "id": "mn30:10.14",
+      "pali": "So tāya samādhisampadāya attānukkaṁseti, paraṁ vambheti:"
+    },
+    {
+      "id": "mn30:10.15",
+      "pali": "‘ahamasmi samāhito ekaggacitto, ime panaññe bhikkhū asamāhitā vibbhantacittā’ti."
+    },
+    {
+      "id": "mn30:10.16",
+      "pali": "Samādhisampadāya ca ye aññe dhammā uttaritarā ca paṇītatarā ca, tesaṁ dhammānaṁ sacchikiriyāya na chandaṁ janeti, na vāyamati, olīnavuttiko ca hoti sāthaliko."
+    },
+    {
+      "id": "mn30:10.17",
+      "pali": "Seyyathāpi so, brāhmaṇa, puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva sāraṁ atikkamma phegguṁ, tacaṁ chetvā ādāya pakkanto ‘sāran’ti maññamāno."
+    },
+    {
+      "id": "mn30:10.18",
+      "pali": "Yañcassa sārena sārakaraṇīyaṁ tañcassa atthaṁ nānubhavissati."
+    },
+    {
+      "id": "mn30:10.19",
+      "pali": "Tathūpamāhaṁ, brāhmaṇa, imaṁ puggalaṁ vadāmi."
+    },
+    {
+      "id": "mn30:11.1",
+      "pali": "Idha pana, brāhmaṇa, ekacco puggalo saddhā agārasmā anagāriyaṁ pabbajito hoti:"
+    },
+    {
+      "id": "mn30:11.2",
+      "pali": "‘otiṇṇomhi jātiyā jarāya maraṇena …pe…"
+    },
+    {
+      "id": "mn30:11.3",
+      "pali": "antakiriyā paññāyethā’ti."
+    },
+    {
+      "id": "mn30:11.4",
+      "pali": "So evaṁ pabbajito samāno lābhasakkārasilokaṁ abhinibbatteti."
+    },
+    {
+      "id": "mn30:11.5",
+      "pali": "So tena lābhasakkārasilokena na attamano hoti na paripuṇṇasaṅkappo."
+    },
+    {
+      "id": "mn30:11.6",
+      "pali": "So tena lābhasakkārasilokena na attānukkaṁseti, na paraṁ vambheti."
+    },
+    {
+      "id": "mn30:11.7",
+      "pali": "Lābhasakkārasilokena ca ye aññe dhammā uttaritarā ca paṇītatarā ca tesaṁ dhammānaṁ sacchikiriyāya chandaṁ janeti, vāyamati, anolīnavuttiko ca hoti asāthaliko."
+    },
+    {
+      "id": "mn30:11.8",
+      "pali": "So sīlasampadaṁ ārādheti."
+    },
+    {
+      "id": "mn30:11.9",
+      "pali": "So tāya sīlasampadāya attamano hoti, no ca kho paripuṇṇasaṅkappo."
+    },
+    {
+      "id": "mn30:11.10",
+      "pali": "So tāya sīlasampadāya na attānukkaṁseti, na paraṁ vambheti."
+    },
+    {
+      "id": "mn30:11.11",
+      "pali": "Sīlasampadāya ca ye aññe dhammā uttaritarā ca paṇītatarā ca tesaṁ dhammānaṁ sacchikiriyāya chandaṁ janeti, vāyamati, anolīnavuttiko ca hoti asāthaliko."
+    },
+    {
+      "id": "mn30:11.12",
+      "pali": "So samādhisampadaṁ ārādheti."
+    },
+    {
+      "id": "mn30:11.13",
+      "pali": "So tāya samādhisampadāya attamano hoti, no ca kho paripuṇṇasaṅkappo."
+    },
+    {
+      "id": "mn30:11.14",
+      "pali": "So tāya samādhisampadāya na attānukkaṁseti, na paraṁ vambheti."
+    },
+    {
+      "id": "mn30:11.15",
+      "pali": "Samādhisampadāya ca ye aññe dhammā uttaritarā ca paṇītatarā ca tesaṁ dhammānaṁ sacchikiriyāya chandaṁ janeti, vāyamati, anolīnavuttiko ca hoti asāthaliko."
+    },
+    {
+      "id": "mn30:11.16",
+      "pali": "So ñāṇadassanaṁ ārādheti."
+    },
+    {
+      "id": "mn30:11.17",
+      "pali": "So tena ñāṇadassanena attamano hoti, paripuṇṇasaṅkappo."
+    },
+    {
+      "id": "mn30:11.18",
+      "pali": "So tena ñāṇadassanena attānukkaṁseti, paraṁ vambheti:"
+    },
+    {
+      "id": "mn30:11.19",
+      "pali": "‘ahamasmi jānaṁ passaṁ viharāmi, ime panaññe bhikkhū ajānaṁ apassaṁ viharantī’ti."
+    },
+    {
+      "id": "mn30:11.20",
+      "pali": "Ñāṇadassanena ca ye aññe dhammā uttaritarā ca paṇītatarā ca tesaṁ dhammānaṁ sacchikiriyāya na chandaṁ janeti, na vāyamati, olīnavuttiko ca hoti sāthaliko."
+    },
+    {
+      "id": "mn30:11.21",
+      "pali": "Seyyathāpi so, brāhmaṇa, puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva sāraṁ, phegguṁ chetvā ādāya pakkanto ‘sāran’ti maññamāno."
+    },
+    {
+      "id": "mn30:11.22",
+      "pali": "Yañcassa sārena sārakaraṇīyaṁ tañcassa atthaṁ nānubhavissati."
+    },
+    {
+      "id": "mn30:11.23",
+      "pali": "Tathūpamāhaṁ, brāhmaṇa, imaṁ puggalaṁ vadāmi."
+    },
+    {
+      "id": "mn30:12.1",
+      "pali": "Idha pana, brāhmaṇa, ekacco puggalo saddhā agārasmā anagāriyaṁ pabbajito hoti:"
+    },
+    {
+      "id": "mn30:12.2",
+      "pali": "‘otiṇṇomhi jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto,"
+    },
+    {
+      "id": "mn30:12.3",
+      "pali": "appeva nāma imassa kevalassa dukkhakkhandhassa antakiriyā paññāyethā’ti."
+    },
+    {
+      "id": "mn30:12.4",
+      "pali": "So evaṁ pabbajito samāno lābhasakkārasilokaṁ abhinibbatteti."
+    },
+    {
+      "id": "mn30:12.5",
+      "pali": "So tena lābhasakkārasilokena na attamano hoti, na paripuṇṇasaṅkappo."
+    },
+    {
+      "id": "mn30:12.6",
+      "pali": "So tena lābhasakkārasilokena na attānukkaṁseti, na paraṁ vambheti."
+    },
+    {
+      "id": "mn30:12.7",
+      "pali": "Lābhasakkārasilokena ca ye aññe dhammā uttaritarā ca paṇītatarā ca tesaṁ dhammānaṁ sacchikiriyāya chandaṁ janeti, vāyamati, anolīnavuttiko ca hoti asāthaliko."
+    },
+    {
+      "id": "mn30:12.8",
+      "pali": "So sīlasampadaṁ ārādheti."
+    },
+    {
+      "id": "mn30:12.9",
+      "pali": "So tāya sīlasampadāya attamano hoti, no ca kho paripuṇṇasaṅkappo."
+    },
+    {
+      "id": "mn30:12.10",
+      "pali": "So tāya sīlasampadāya na attānukkaṁseti, na paraṁ vambheti."
+    },
+    {
+      "id": "mn30:12.11",
+      "pali": "Sīlasampadāya ca ye aññe dhammā uttaritarā ca paṇītatarā ca tesaṁ dhammānaṁ sacchikiriyāya chandaṁ janeti, vāyamati, anolīnavuttiko ca hoti asāthaliko."
+    },
+    {
+      "id": "mn30:12.12",
+      "pali": "So samādhisampadaṁ ārādheti."
+    },
+    {
+      "id": "mn30:12.13",
+      "pali": "So tāya samādhisampadāya attamano hoti, no ca kho paripuṇṇasaṅkappo."
+    },
+    {
+      "id": "mn30:12.14",
+      "pali": "So tāya samādhisampadāya na attānukkaṁseti, na paraṁ vambheti."
+    },
+    {
+      "id": "mn30:12.15",
+      "pali": "Samādhisampadāya ca ye aññe dhammā uttaritarā ca paṇītatarā ca tesaṁ dhammānaṁ sacchikiriyāya chandaṁ janeti, vāyamati, anolīnavuttiko ca hoti asāthaliko."
+    },
+    {
+      "id": "mn30:12.16",
+      "pali": "So ñāṇadassanaṁ ārādheti."
+    },
+    {
+      "id": "mn30:12.17",
+      "pali": "So tena ñāṇadassanena attamano hoti, no ca kho paripuṇṇasaṅkappo."
+    },
+    {
+      "id": "mn30:12.18",
+      "pali": "So tena ñāṇadassanena na attānukkaṁseti, na paraṁ vambheti."
+    },
+    {
+      "id": "mn30:12.19",
+      "pali": "Ñāṇadassanena ca ye aññe dhammā uttaritarā ca paṇītatarā ca tesaṁ dhammānaṁ sacchikiriyāya chandaṁ janeti, vāyamati, anolīnavuttiko ca hoti asāthaliko."
+    },
+    {
+      "id": "mn30:12.20",
+      "pali": "Katame ca, brāhmaṇa, dhammā ñāṇadassanena uttaritarā ca paṇītatarā ca?"
+    },
+    {
+      "id": "mn30:13.1",
+      "pali": "Idha, brāhmaṇa, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn30:13.2",
+      "pali": "Ayampi kho, brāhmaṇa, dhammo ñāṇadassanena uttaritaro ca paṇītataro ca."
+    },
+    {
+      "id": "mn30:14.1",
+      "pali": "Puna caparaṁ, brāhmaṇa, bhikkhu vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn30:14.2",
+      "pali": "Ayampi kho, brāhmaṇa, dhammo ñāṇadassanena uttaritaro ca paṇītataro ca."
+    },
+    {
+      "id": "mn30:15.1",
+      "pali": "Puna caparaṁ, brāhmaṇa, bhikkhu pītiyā ca virāgā upekkhako ca viharati, sato ca sampajāno sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn30:15.2",
+      "pali": "Ayampi kho, brāhmaṇa, dhammo ñāṇadassanena uttaritaro ca paṇītataro ca."
+    },
+    {
+      "id": "mn30:16.1",
+      "pali": "Puna caparaṁ, brāhmaṇa, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn30:16.2",
+      "pali": "Ayampi kho, brāhmaṇa, dhammo ñāṇadassanena uttaritaro ca paṇītataro ca."
+    },
+    {
+      "id": "mn30:17.1",
+      "pali": "Puna caparaṁ, brāhmaṇa, bhikkhu sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn30:17.2",
+      "pali": "Ayampi kho, brāhmaṇa, dhammo ñāṇadassanena uttaritaro ca paṇītataro ca."
+    },
+    {
+      "id": "mn30:18.1",
+      "pali": "Puna caparaṁ, brāhmaṇa, bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn30:18.2",
+      "pali": "Ayampi kho, brāhmaṇa, dhammo ñāṇadassanena uttaritaro ca paṇītataro ca."
+    },
+    {
+      "id": "mn30:19.1",
+      "pali": "Puna caparaṁ, brāhmaṇa, bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn30:19.2",
+      "pali": "Ayampi kho, brāhmaṇa, dhammo ñāṇadassanena uttaritaro ca paṇītataro ca."
+    },
+    {
+      "id": "mn30:20.1",
+      "pali": "Puna caparaṁ, brāhmaṇa, bhikkhu sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn30:20.2",
+      "pali": "Ayampi kho, brāhmaṇa, dhammo ñāṇadassanena uttaritaro ca paṇītataro ca."
+    },
+    {
+      "id": "mn30:21.1",
+      "pali": "Puna caparaṁ, brāhmaṇa, bhikkhu sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti."
+    },
+    {
+      "id": "mn30:21.2",
+      "pali": "Ayampi kho, brāhmaṇa, dhammo ñāṇadassanena uttaritaro ca paṇītataro ca."
+    },
+    {
+      "id": "mn30:21.3",
+      "pali": "Ime kho, brāhmaṇa, dhammā ñāṇadassanena uttaritarā ca paṇītatarā ca."
+    },
+    {
+      "id": "mn30:22.1",
+      "pali": "Seyyathāpi so, brāhmaṇa, puriso sāratthiko sāragavesī sārapariyesanaṁ caramāno mahato rukkhassa tiṭṭhato sāravato sāraṁyeva chetvā ādāya pakkanto ‘sāran’ti jānamāno."
+    },
+    {
+      "id": "mn30:22.2",
+      "pali": "Yañcassa sārena sārakaraṇīyaṁ tañcassa atthaṁ anubhavissati."
+    },
+    {
+      "id": "mn30:22.3",
+      "pali": "Tathūpamāhaṁ, brāhmaṇa, imaṁ puggalaṁ vadāmi."
+    },
+    {
+      "id": "mn30:23.1",
+      "pali": "Iti kho, brāhmaṇa, nayidaṁ brahmacariyaṁ lābhasakkārasilokānisaṁsaṁ, na sīlasampadānisaṁsaṁ, na samādhisampadānisaṁsaṁ, na ñāṇadassanānisaṁsaṁ."
+    },
+    {
+      "id": "mn30:23.2",
+      "pali": "Yā ca kho ayaṁ, brāhmaṇa, akuppā cetovimutti—"
+    },
+    {
+      "id": "mn30:23.3",
+      "pali": "etadatthamidaṁ, brāhmaṇa, brahmacariyaṁ, etaṁ sāraṁ etaṁ pariyosānan”ti."
+    },
+    {
+      "id": "mn30:24.1",
+      "pali": "Evaṁ vutte, piṅgalakoccho brāhmaṇo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn30:24.2",
+      "pali": "“abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama …pe…"
+    },
+    {
+      "id": "mn30:24.3",
+      "pali": "upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti."
+    },
+    {
+      "id": "mn30:24.4",
+      "pali": "Cūḷasāropamasuttaṁ niṭṭhitaṁ dasamaṁ."
+    },
+    {
+      "id": "mn30:24.5",
+      "pali": "Opammavaggo niṭṭhito tatiyo."
+    },
+    {
+      "id": "mn30:25.1",
+      "pali": "Moḷiyaphaggunariṭṭhañca nāmo,"
+    },
+    {
+      "id": "mn30:25.2",
+      "pali": "Andhavane kathipuṇṇaṁ nivāpo;"
+    },
+    {
+      "id": "mn30:25.3",
+      "pali": "Rāsikaṇerumahāgajanāmo,"
+    },
+    {
+      "id": "mn30:25.4",
+      "pali": "Sārūpamo puna piṅgalakoccho."
+    }
+  ]
+}

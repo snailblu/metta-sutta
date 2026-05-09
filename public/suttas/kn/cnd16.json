@@ -1,0 +1,839 @@
+{
+  "uid": "cnd16",
+  "title": "Pucchāniddesa",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "cnd16:1.1",
+      "pali": "<b>Okañjahaṁ taṇhacchidaṁ anejaṁ,</b>"
+    },
+    {
+      "id": "cnd16:1.2",
+      "pali": "(iccāyasmā bhadrāvudho)"
+    },
+    {
+      "id": "cnd16:1.3",
+      "pali": "<b>Nandiñjahaṁ oghatiṇṇaṁ vimuttaṁ;</b>"
+    },
+    {
+      "id": "cnd16:1.4",
+      "pali": "<b>Kappañjahaṁ abhiyāce sumedhaṁ,</b>"
+    },
+    {
+      "id": "cnd16:1.5",
+      "pali": "<b>Sutvāna nāgassa apanamissanti ito. </b>"
+    },
+    {
+      "id": "cnd16:2.1",
+      "pali": "<b>Okañjahaṁ taṇhacchidaṁ anejan</b>ti."
+    },
+    {
+      "id": "cnd16:2.2",
+      "pali": "<b>Okañjahan</b>ti rūpadhātuyā yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā, te buddhassa bhagavato pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "cnd16:2.3",
+      "pali": "Tasmā buddho okañjaho."
+    },
+    {
+      "id": "cnd16:2.4",
+      "pali": "Vedanādhātuyā …pe…"
+    },
+    {
+      "id": "cnd16:2.5",
+      "pali": "saññādhātuyā …"
+    },
+    {
+      "id": "cnd16:2.6",
+      "pali": "saṅkhāradhātuyā …"
+    },
+    {
+      "id": "cnd16:2.7",
+      "pali": "viññāṇadhātuyā yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā, te buddhassa bhagavato pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "cnd16:2.8",
+      "pali": "Tasmā buddho okañjaho."
+    },
+    {
+      "id": "cnd16:3.1",
+      "pali": "<b>Taṇhacchidan</b>ti."
+    },
+    {
+      "id": "cnd16:3.2",
+      "pali": "<b>Taṇhā</b>ti rūpataṇhā …pe… dhammataṇhā."
+    },
+    {
+      "id": "cnd16:3.3",
+      "pali": "Sā taṇhā buddhassa bhagavato chinnā ucchinnā samucchinnā vūpasantā paṭippassaddhā abhabbuppattikā ñāṇagginā daḍḍhā."
+    },
+    {
+      "id": "cnd16:3.4",
+      "pali": "Tasmā buddho taṇhacchido."
+    },
+    {
+      "id": "cnd16:3.5",
+      "pali": "<b>Anejo</b>ti <b>ejā</b> vuccati taṇhā."
+    },
+    {
+      "id": "cnd16:3.6",
+      "pali": "Yo rāgo sārāgo …pe… abhijjhā lobho akusalamūlaṁ."
+    },
+    {
+      "id": "cnd16:3.7",
+      "pali": "Sā ejā taṇhā buddhassa bhagavato pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "cnd16:3.8",
+      "pali": "Tasmā buddho anejo."
+    },
+    {
+      "id": "cnd16:3.9",
+      "pali": "Ejāya pahīnattā anejo bhagavā lābhepi na iñjati, alābhepi na iñjati, yasepi na iñjati, ayasepi na iñjati, pasaṁsāyapi na iñjati, nindāyapi na iñjati, sukhepi na iñjati, dukkhepi na iñjati na calati na vedhati na pavedhati na sampavedhatīti."
+    },
+    {
+      "id": "cnd16:3.10",
+      "pali": "Tasmā buddho anejoti—"
+    },
+    {
+      "id": "cnd16:3.11",
+      "pali": "okañjahaṁ taṇhacchidaṁ anejaṁ."
+    },
+    {
+      "id": "cnd16:3.12",
+      "pali": "<b>Iccāyasmā bhadrāvudho</b>ti."
+    },
+    {
+      "id": "cnd16:3.13",
+      "pali": "<b>Iccā</b>ti padasandhi …pe…"
+    },
+    {
+      "id": "cnd16:3.14",
+      "pali": "<b>āyasmā</b>ti, piyavacanaṁ …pe…"
+    },
+    {
+      "id": "cnd16:3.15",
+      "pali": "<b>bhadrāvudho</b>ti tassa brāhmaṇassa nāmaṁ …pe… abhilāpoti—"
+    },
+    {
+      "id": "cnd16:3.16",
+      "pali": "iccāyasmā bhadrāvudho."
+    },
+    {
+      "id": "cnd16:4.1",
+      "pali": "<b>Nandiñjahaṁ oghatiṇṇaṁ vimuttan</b>ti nandī vuccati taṇhā."
+    },
+    {
+      "id": "cnd16:4.2",
+      "pali": "Yo rāgo sārāgo …pe… abhijjhā lobho akusalamūlaṁ."
+    },
+    {
+      "id": "cnd16:4.3",
+      "pali": "Sā nandī sā taṇhā buddhassa bhagavato pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "cnd16:4.4",
+      "pali": "Tasmā buddho nandiñjaho."
+    },
+    {
+      "id": "cnd16:4.5",
+      "pali": "<b>Oghatiṇṇan</b>ti bhagavā kāmoghaṁ tiṇṇo bhavoghaṁ tiṇṇo diṭṭhoghaṁ tiṇṇo avijjoghaṁ tiṇṇo sabbasaṁsārapathaṁ tiṇṇo uttiṇṇo nitthiṇṇo atikkanto samatikkanto vītivatto."
+    },
+    {
+      "id": "cnd16:4.6",
+      "pali": "So vutthavāso ciṇṇacaraṇo …pe… jātimaraṇasaṁsāro natthi tassa punabbhavoti—"
+    },
+    {
+      "id": "cnd16:4.7",
+      "pali": "nandiñjahaṁ oghatiṇṇaṁ."
+    },
+    {
+      "id": "cnd16:4.8",
+      "pali": "<b>Vimuttan</b>ti bhagavato rāgā cittaṁ muttaṁ vimuttaṁ suvimuttaṁ, dosā cittaṁ … mohā cittaṁ …pe…"
+    },
+    {
+      "id": "cnd16:4.9",
+      "pali": "sabbākusalābhisaṅkhārehi cittaṁ muttaṁ vimuttaṁ suvimuttanti—"
+    },
+    {
+      "id": "cnd16:4.10",
+      "pali": "nandiñjahaṁ oghatiṇṇaṁ vimuttaṁ."
+    },
+    {
+      "id": "cnd16:5.1",
+      "pali": "<b>Kappañjahaṁ abhiyāce sumedhan</b>ti."
+    },
+    {
+      "id": "cnd16:5.2",
+      "pali": "<b>Kappā</b>ti dve kappā—"
+    },
+    {
+      "id": "cnd16:5.3",
+      "pali": "taṇhākappo ca diṭṭhikappo ca …pe…"
+    },
+    {
+      "id": "cnd16:5.4",
+      "pali": "ayaṁ taṇhākappo …pe…"
+    },
+    {
+      "id": "cnd16:5.5",
+      "pali": "ayaṁ diṭṭhikappo."
+    },
+    {
+      "id": "cnd16:5.6",
+      "pali": "Buddhassa bhagavato taṇhākappo pahīno diṭṭhikappo paṭinissaṭṭho."
+    },
+    {
+      "id": "cnd16:5.7",
+      "pali": "Taṇhākappassa pahīnattā diṭṭhikappassa paṭinissaṭṭhattā tasmā buddho kappañjaho."
+    },
+    {
+      "id": "cnd16:5.8",
+      "pali": "<b>Abhiyāce</b>ti yācāmi abhiyācāmi ajjhesāmi sādiyāmi patthayāmi pihayāmi jappāmi abhijappāmi."
+    },
+    {
+      "id": "cnd16:5.9",
+      "pali": "<b>Sumedhā</b> vuccati paññā."
+    },
+    {
+      "id": "cnd16:5.10",
+      "pali": "Yā paññā pajānanā …pe… amoho dhammavicayo sammādiṭṭhi."
+    },
+    {
+      "id": "cnd16:5.11",
+      "pali": "Bhagavā imāya medhāya paññāya upeto samupeto upāgato samupāgato upapanno samupapanno samannāgato."
+    },
+    {
+      "id": "cnd16:5.12",
+      "pali": "Tasmā buddho sumedhoti—"
+    },
+    {
+      "id": "cnd16:5.13",
+      "pali": "kappañjahaṁ abhiyāce sumedhaṁ."
+    },
+    {
+      "id": "cnd16:6.1",
+      "pali": "<b>Sutvāna nāgassa apanamissanti ito</b>ti."
+    },
+    {
+      "id": "cnd16:6.2",
+      "pali": "<b>Nāgassā</b>ti nāgo."
+    },
+    {
+      "id": "cnd16:6.3",
+      "pali": "Bhagavā āguṁ na karotīti nāgo, na gacchatīti nāgo, na āgacchatīti nāgo …pe… evaṁ bhagavā na gacchatīti nāgo."
+    },
+    {
+      "id": "cnd16:6.4",
+      "pali": "<b>Sutvāna nāgassa apanamissanti ito</b>ti tuyhaṁ vacanaṁ byappathaṁ desanaṁ anusāsanaṁ anusiṭṭhaṁ sutvā suṇitvā uggahetvā upadhārayitvā upalakkhayitvā ito apanamissanti vajissanti pakkamissanti disāvidisaṁ gamissantīti—"
+    },
+    {
+      "id": "cnd16:6.5",
+      "pali": "sutvāna nāgassa apanamissanti ito."
+    },
+    {
+      "id": "cnd16:6.6",
+      "pali": "Tenāha so brāhmaṇo—"
+    },
+    {
+      "id": "cnd16:7.1",
+      "pali": "“Okañjahaṁ taṇhacchidaṁ anejaṁ,"
+    },
+    {
+      "id": "cnd16:7.2",
+      "pali": "(iccāyasmā bhadrāvudho)"
+    },
+    {
+      "id": "cnd16:7.3",
+      "pali": "Nandiñjahaṁ oghatiṇṇaṁ vimuttaṁ;"
+    },
+    {
+      "id": "cnd16:7.4",
+      "pali": "Kappañjahaṁ abhiyāce sumedhaṁ,"
+    },
+    {
+      "id": "cnd16:7.5",
+      "pali": "Sutvāna nāgassa apanamissanti ito”ti."
+    },
+    {
+      "id": "cnd16:8.1",
+      "pali": "<b>Nānājanā janapadehi saṅgatā,</b>"
+    },
+    {
+      "id": "cnd16:8.2",
+      "pali": "<b>Tava vīra vākyaṁ abhikaṅkhamānā;</b>"
+    },
+    {
+      "id": "cnd16:8.3",
+      "pali": "<b>Tesaṁ tuvaṁ sādhu viyākarohi,</b>"
+    },
+    {
+      "id": "cnd16:8.4",
+      "pali": "<b>Tathā hi te vidito esa dhammo. </b>"
+    },
+    {
+      "id": "cnd16:9.1",
+      "pali": "<b>Nānājanā janapadehi saṅgatā</b>ti."
+    },
+    {
+      "id": "cnd16:9.2",
+      "pali": "<b>Nānājanā</b>ti khattiyā ca brāhmaṇā ca vessā ca suddā ca gahaṭṭhā ca pabbajitā ca devā ca manussā ca."
+    },
+    {
+      "id": "cnd16:9.3",
+      "pali": "<b>Janapadehi saṅgatā</b>ti aṅgā ca magadhā ca kaliṅgā ca kāsiyā ca kosalā ca vajjiyā ca mallā ca cetiyamhā ca vaṁsā ca kurumhā ca pañcālā ca macchā ca surasenā ca assakā ca avantiyā ca yonā ca kambojā ca."
+    },
+    {
+      "id": "cnd16:9.4",
+      "pali": "<b>Saṅgatā</b>ti saṅgatā samāgatā samohitā sannipatitāti—"
+    },
+    {
+      "id": "cnd16:9.5",
+      "pali": "nānājanā janapadehi saṅgatā."
+    },
+    {
+      "id": "cnd16:10.1",
+      "pali": "<b>Tava vīra vākyaṁ abhikaṅkhamānā</b>ti."
+    },
+    {
+      "id": "cnd16:10.2",
+      "pali": "<b>Vīrā</b>ti vīro."
+    },
+    {
+      "id": "cnd16:10.3",
+      "pali": "Bhagavā vīriyavāti vīro, pahūti vīro, visavīti vīro, alamattoti vīro, vigatalomahaṁsotipi vīro."
+    },
+    {
+      "id": "cnd16:11.1",
+      "pali": "Virato idha sabbapāpakehi,"
+    },
+    {
+      "id": "cnd16:11.2",
+      "pali": "Nirayadukkhaṁ aticca vīriyavāso;"
+    },
+    {
+      "id": "cnd16:11.3",
+      "pali": "So vīriyavā padhānavā,"
+    },
+    {
+      "id": "cnd16:11.4",
+      "pali": "Vīro tādi pavuccate tathattāti."
+    },
+    {
+      "id": "cnd16:12.1",
+      "pali": "<b>Tava vīra vākyaṁ abhikaṅkhamānā</b>ti tuyhaṁ vacanaṁ byappathaṁ desanaṁ anusāsanaṁ anusiṭṭhaṁ."
+    },
+    {
+      "id": "cnd16:12.2",
+      "pali": "<b>Abhikaṅkhamānā</b>ti abhikaṅkhamānā icchamānā sādiyamānā patthayamānā pihayamānā abhijappamānāti—"
+    },
+    {
+      "id": "cnd16:12.3",
+      "pali": "tava vīra vākyaṁ abhikaṅkhamānā."
+    },
+    {
+      "id": "cnd16:13.1",
+      "pali": "<b>Tesaṁ tuvaṁ sādhu viyākarohī</b>ti."
+    },
+    {
+      "id": "cnd16:13.2",
+      "pali": "<b>Tesan</b>ti tesaṁ khattiyānaṁ brāhmaṇānaṁ vessānaṁ suddānaṁ gahaṭṭhānaṁ pabbajitānaṁ devānaṁ manussānaṁ."
+    },
+    {
+      "id": "cnd16:13.3",
+      "pali": "<b>Tuvan</b>ti bhagavantaṁ bhaṇati."
+    },
+    {
+      "id": "cnd16:13.4",
+      "pali": "<b>Sādhu viyākarohī</b>ti sādhu ācikkhāhi desehi paññapehi paṭṭhapehi vivarāhi vibhajāhi uttānīkarohi pakāsehīti—"
+    },
+    {
+      "id": "cnd16:13.5",
+      "pali": "tesaṁ tuvaṁ sādhu viyākarohi."
+    },
+    {
+      "id": "cnd16:14.1",
+      "pali": "<b>Tathā hi te vidito esa dhammo</b>ti tathā hi te vidito tulito tīrito vibhūto vibhāvito esa dhammoti—"
+    },
+    {
+      "id": "cnd16:14.2",
+      "pali": "tathā hi te vidito esa dhammo."
+    },
+    {
+      "id": "cnd16:14.3",
+      "pali": "Tenāha so brāhmaṇo—"
+    },
+    {
+      "id": "cnd16:15.1",
+      "pali": "“Nānājanā janapadehi saṅgatā,"
+    },
+    {
+      "id": "cnd16:15.2",
+      "pali": "Tava vīra vākyaṁ abhikaṅkhamānā;"
+    },
+    {
+      "id": "cnd16:15.3",
+      "pali": "Tesaṁ tuvaṁ sādhu viyākarohi,"
+    },
+    {
+      "id": "cnd16:15.4",
+      "pali": "Tathā hi te vidito esa dhammo”ti."
+    },
+    {
+      "id": "cnd16:16.1",
+      "pali": "<b>Ādānataṇhaṁ vinayetha sabbaṁ,</b>"
+    },
+    {
+      "id": "cnd16:16.2",
+      "pali": "(bhadrāvudhāti bhagavā)"
+    },
+    {
+      "id": "cnd16:16.3",
+      "pali": "<b>Uddhaṁ adho tiriyañcāpi majjhe;</b>"
+    },
+    {
+      "id": "cnd16:16.4",
+      "pali": "<b>Yaṁ yañhi lokasmimupādiyanti,</b>"
+    },
+    {
+      "id": "cnd16:16.5",
+      "pali": "<b>Teneva māro anveti jantuṁ. </b>"
+    },
+    {
+      "id": "cnd16:17.1",
+      "pali": "<b>Ādānataṇhaṁ vinayetha sabban</b>ti ādānataṇhaṁ vuccati rūpataṇhā …pe…"
+    },
+    {
+      "id": "cnd16:17.2",
+      "pali": "ādānataṇhāti kiṅkāraṇā vuccati ādānataṇhā?"
+    },
+    {
+      "id": "cnd16:17.3",
+      "pali": "Tāya taṇhāya rūpaṁ ādiyanti upādiyanti gaṇhanti parāmasanti abhinivisanti."
+    },
+    {
+      "id": "cnd16:17.4",
+      "pali": "Vedanaṁ …pe…"
+    },
+    {
+      "id": "cnd16:17.5",
+      "pali": "saññaṁ …"
+    },
+    {
+      "id": "cnd16:17.6",
+      "pali": "saṅkhāre …"
+    },
+    {
+      "id": "cnd16:17.7",
+      "pali": "viññāṇaṁ …"
+    },
+    {
+      "id": "cnd16:17.8",
+      "pali": "gatiṁ …"
+    },
+    {
+      "id": "cnd16:17.9",
+      "pali": "upapattiṁ …"
+    },
+    {
+      "id": "cnd16:17.10",
+      "pali": "paṭisandhiṁ …"
+    },
+    {
+      "id": "cnd16:17.11",
+      "pali": "bhavaṁ …"
+    },
+    {
+      "id": "cnd16:17.12",
+      "pali": "saṁsāraṁ …"
+    },
+    {
+      "id": "cnd16:17.13",
+      "pali": "vaṭṭaṁ ādiyanti upādiyanti gaṇhanti parāmasanti abhinivisanti."
+    },
+    {
+      "id": "cnd16:17.14",
+      "pali": "Taṅkāraṇā vuccati ādānataṇhā."
+    },
+    {
+      "id": "cnd16:17.15",
+      "pali": "<b>Ādānataṇhaṁ vinayetha sabban</b>ti sabbaṁ ādānataṇhaṁ vinayeyya paṭivinayeyya pajaheyya vinodeyya byantīkareyya anabhāvaṁ gameyyāti—"
+    },
+    {
+      "id": "cnd16:17.16",
+      "pali": "ādānataṇhaṁ vinayetha sabbaṁ."
+    },
+    {
+      "id": "cnd16:17.17",
+      "pali": "<b>Bhadrāvudhāti bhagavā</b>ti."
+    },
+    {
+      "id": "cnd16:17.18",
+      "pali": "<b>Bhadrāvudhā</b>ti bhagavā taṁ brāhmaṇaṁ nāmena ālapati."
+    },
+    {
+      "id": "cnd16:17.19",
+      "pali": "<b>Bhagavā</b>ti gāravādhivacanametaṁ …pe… sacchikā paññatti, yadidaṁ bhagavāti—"
+    },
+    {
+      "id": "cnd16:17.20",
+      "pali": "bhadrāvudhāti bhagavā."
+    },
+    {
+      "id": "cnd16:18.1",
+      "pali": "<b>Uddhaṁ adho tiriyañcāpi majjhe</b>ti."
+    },
+    {
+      "id": "cnd16:18.2",
+      "pali": "<b>Uddhan</b>ti anāgataṁ;"
+    },
+    {
+      "id": "cnd16:18.3",
+      "pali": "<b>adho</b>ti atītaṁ;"
+    },
+    {
+      "id": "cnd16:18.4",
+      "pali": "<b>tiriyañcāpi majjhe</b>ti paccuppannaṁ."
+    },
+    {
+      "id": "cnd16:18.5",
+      "pali": "<b>Uddhan</b>ti devaloko;"
+    },
+    {
+      "id": "cnd16:18.6",
+      "pali": "<b>adho</b>ti nirayaloko;"
+    },
+    {
+      "id": "cnd16:18.7",
+      "pali": "<b>tiriyañcāpi majjhe</b>ti manussaloko."
+    },
+    {
+      "id": "cnd16:18.8",
+      "pali": "Atha vā <b>uddhan</b>ti kusalā dhammā;"
+    },
+    {
+      "id": "cnd16:18.9",
+      "pali": "<b>adho</b>ti akusalā dhammā;"
+    },
+    {
+      "id": "cnd16:18.10",
+      "pali": "<b>tiriyañcāpi majjhe</b>ti abyākatā dhammā."
+    },
+    {
+      "id": "cnd16:18.11",
+      "pali": "<b>Uddhan</b>ti arūpadhātu;"
+    },
+    {
+      "id": "cnd16:18.12",
+      "pali": "<b>adho</b>ti kāmadhātu;"
+    },
+    {
+      "id": "cnd16:18.13",
+      "pali": "<b>tiriyañcāpi majjhe</b>ti rūpadhātu."
+    },
+    {
+      "id": "cnd16:18.14",
+      "pali": "<b>Uddhan</b>ti sukhā vedanā;"
+    },
+    {
+      "id": "cnd16:18.15",
+      "pali": "<b>adho</b>ti dukkhā vedanā;"
+    },
+    {
+      "id": "cnd16:18.16",
+      "pali": "<b>tiriyañcāpi majjhe</b>ti adukkhamasukhā vedanā."
+    },
+    {
+      "id": "cnd16:18.17",
+      "pali": "<b>Uddhan</b>ti uddhaṁ pādatalā;"
+    },
+    {
+      "id": "cnd16:18.18",
+      "pali": "<b>adho</b>ti adho kesamatthakā;"
+    },
+    {
+      "id": "cnd16:18.19",
+      "pali": "<b>tiriyañcāpi majjhe</b>ti vemajjheti—"
+    },
+    {
+      "id": "cnd16:18.20",
+      "pali": "uddhaṁ adho tiriyañcāpi majjhe."
+    },
+    {
+      "id": "cnd16:19.1",
+      "pali": "<b>Yaṁ yañhi lokasmimupādiyantī</b>ti yaṁ yaṁ rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ ādiyanti upādiyanti gaṇhanti parāmasanti abhinivisanti."
+    },
+    {
+      "id": "cnd16:19.2",
+      "pali": "<b>Lokasmin</b>ti apāyaloke …pe… āyatanaloketi—"
+    },
+    {
+      "id": "cnd16:19.3",
+      "pali": "yaṁ yañhi lokasmimupādiyanti."
+    },
+    {
+      "id": "cnd16:20.1",
+      "pali": "<b>Teneva māro anveti jantun</b>ti teneva kammābhisaṅkhāravasena paṭisandhiko khandhamāro dhātumāro āyatanamāro gatimāro upapattimāro paṭisandhimāro bhavamāro saṁsāramāro vaṭṭamāro anveti anugacchati anvāyiko hoti."
+    },
+    {
+      "id": "cnd16:20.2",
+      "pali": "<b>Jantun</b>ti sattaṁ janaṁ naraṁ mānavaṁ posaṁ puggalaṁ jīvaṁ jāguṁ jantuṁ indaguṁ manujanti—"
+    },
+    {
+      "id": "cnd16:20.3",
+      "pali": "teneva māro anveti jantuṁ."
+    },
+    {
+      "id": "cnd16:20.4",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "cnd16:21.1",
+      "pali": "“Ādānataṇhaṁ vinayetha sabbaṁ,"
+    },
+    {
+      "id": "cnd16:21.2",
+      "pali": "(bhadrāvudhāti bhagavā)"
+    },
+    {
+      "id": "cnd16:21.3",
+      "pali": "Uddhaṁ adho tiriyañcāpi majjhe;"
+    },
+    {
+      "id": "cnd16:21.4",
+      "pali": "Yaṁ yañhi lokasmimupādiyanti,"
+    },
+    {
+      "id": "cnd16:21.5",
+      "pali": "Teneva māro anveti jantun”ti."
+    },
+    {
+      "id": "cnd16:22.1",
+      "pali": "<b>Tasmā pajānaṁ na upādiyetha,</b>"
+    },
+    {
+      "id": "cnd16:22.2",
+      "pali": "<b>Bhikkhu sato kiñcanaṁ sabbaloke;</b>"
+    },
+    {
+      "id": "cnd16:22.3",
+      "pali": "<b>Ādānasatte iti pekkhamāno,</b>"
+    },
+    {
+      "id": "cnd16:22.4",
+      "pali": "<b>Pajaṁ imaṁ maccudheyye visattaṁ. </b>"
+    },
+    {
+      "id": "cnd16:23.1",
+      "pali": "<b>Tasmā pajānaṁ na upādiyethā</b>ti."
+    },
+    {
+      "id": "cnd16:23.2",
+      "pali": "<b>Tasmā</b>ti tasmā taṅkāraṇā taṁhetu tappaccayā taṁnidānā, etaṁ ādīnavaṁ sampassamāno ādānataṇhāyāti—"
+    },
+    {
+      "id": "cnd16:23.3",
+      "pali": "tasmā."
+    },
+    {
+      "id": "cnd16:23.4",
+      "pali": "<b>Pajānan</b>ti jānanto pajānanto ājānanto vijānanto paṭivijānanto paṭivijjhanto “sabbe saṅkhārā aniccā”ti …pe…"
+    },
+    {
+      "id": "cnd16:23.5",
+      "pali": "“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti jānanto pajānanto ājānanto vijānanto paṭivijānanto paṭivijjhanto."
+    },
+    {
+      "id": "cnd16:23.6",
+      "pali": "<b>Na upādiyethā</b>ti rūpaṁ nādiyeyya na upādiyeyya na gaṇheyya na parāmaseyya nābhiniviseyya;"
+    },
+    {
+      "id": "cnd16:23.7",
+      "pali": "vedanaṁ …pe…"
+    },
+    {
+      "id": "cnd16:23.8",
+      "pali": "saññaṁ …"
+    },
+    {
+      "id": "cnd16:23.9",
+      "pali": "saṅkhāre …"
+    },
+    {
+      "id": "cnd16:23.10",
+      "pali": "viññāṇaṁ …"
+    },
+    {
+      "id": "cnd16:23.11",
+      "pali": "gatiṁ …"
+    },
+    {
+      "id": "cnd16:23.12",
+      "pali": "upapattiṁ …"
+    },
+    {
+      "id": "cnd16:23.13",
+      "pali": "paṭisandhiṁ …"
+    },
+    {
+      "id": "cnd16:23.14",
+      "pali": "bhavaṁ …"
+    },
+    {
+      "id": "cnd16:23.15",
+      "pali": "saṁsāraṁ …"
+    },
+    {
+      "id": "cnd16:23.16",
+      "pali": "vaṭṭaṁ nādiyeyya na upādiyeyya na gaṇheyya na parāmaseyya nābhiniviseyyāti—"
+    },
+    {
+      "id": "cnd16:23.17",
+      "pali": "tasmā pajānaṁ na upādiyetha."
+    },
+    {
+      "id": "cnd16:24.1",
+      "pali": "<b>Bhikkhu sato kiñcanaṁ sabbaloke</b>ti."
+    },
+    {
+      "id": "cnd16:24.2",
+      "pali": "<b>Bhikkhū</b>ti puthujjanakalyāṇako vā bhikkhu, sekkho vā bhikkhu."
+    },
+    {
+      "id": "cnd16:24.3",
+      "pali": "<b>Sato</b>ti catūhi kāraṇehi sato—"
+    },
+    {
+      "id": "cnd16:24.4",
+      "pali": "kāye kāyānupassanāsatipaṭṭhānaṁ bhāvento sato …pe…"
+    },
+    {
+      "id": "cnd16:24.5",
+      "pali": "so vuccati satoti—"
+    },
+    {
+      "id": "cnd16:24.6",
+      "pali": "bhikkhu sato."
+    },
+    {
+      "id": "cnd16:24.7",
+      "pali": "<b>Kiñcanan</b>ti kiñci rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ."
+    },
+    {
+      "id": "cnd16:24.8",
+      "pali": "<b>Sabbaloke</b>ti sabbaapāyaloke sabbamanussaloke sabbadevaloke sabbakhandhaloke sabbadhātuloke sabbaāyatanaloketi—"
+    },
+    {
+      "id": "cnd16:24.9",
+      "pali": "bhikkhu sato kiñcanaṁ sabbaloke."
+    },
+    {
+      "id": "cnd16:25.1",
+      "pali": "<b>Ādānasatte iti pekkhamāno</b>ti ādānasattā vuccanti ye rūpaṁ ādiyanti upādiyanti gaṇhanti parāmasanti abhinivisanti;"
+    },
+    {
+      "id": "cnd16:25.2",
+      "pali": "vedanaṁ …pe…"
+    },
+    {
+      "id": "cnd16:25.3",
+      "pali": "saññaṁ …"
+    },
+    {
+      "id": "cnd16:25.4",
+      "pali": "saṅkhāre …"
+    },
+    {
+      "id": "cnd16:25.5",
+      "pali": "viññāṇaṁ …"
+    },
+    {
+      "id": "cnd16:25.6",
+      "pali": "gatiṁ …"
+    },
+    {
+      "id": "cnd16:25.7",
+      "pali": "upapattiṁ …"
+    },
+    {
+      "id": "cnd16:25.8",
+      "pali": "paṭisandhiṁ …"
+    },
+    {
+      "id": "cnd16:25.9",
+      "pali": "bhavaṁ …"
+    },
+    {
+      "id": "cnd16:25.10",
+      "pali": "saṁsāraṁ …"
+    },
+    {
+      "id": "cnd16:25.11",
+      "pali": "vaṭṭaṁ ādiyanti upādiyanti gaṇhanti parāmasanti abhinivisanti."
+    },
+    {
+      "id": "cnd16:25.12",
+      "pali": "<b>Itī</b>ti padasandhi …pe… padānupubbatāpetaṁ itīti."
+    },
+    {
+      "id": "cnd16:25.13",
+      "pali": "<b>Pekkhamāno</b>ti pekkhamāno dakkhamāno dissamāno passamāno olokayamāno nijjhāyamāno upaparikkhamānoti—"
+    },
+    {
+      "id": "cnd16:25.14",
+      "pali": "ādānasatte iti pekkhamāno."
+    },
+    {
+      "id": "cnd16:26.1",
+      "pali": "<b>Pajaṁ imaṁ maccudheyye visattan</b>ti."
+    },
+    {
+      "id": "cnd16:26.2",
+      "pali": "<b>Pajā</b>ti sattādhivacanaṁ maccudheyyā vuccanti kilesā ca khandhā ca abhisaṅkhārā ca."
+    },
+    {
+      "id": "cnd16:26.3",
+      "pali": "Pajā maccudheyye māradheyye maraṇadheyye sattā visattā āsattā laggā laggitā palibuddhā."
+    },
+    {
+      "id": "cnd16:26.4",
+      "pali": "Yathā bhittikhile vā nāgadante vā bhaṇḍaṁ sattaṁ visattaṁ āsattaṁ laggaṁ laggitaṁ palibuddhaṁ, evameva pajā maccudheyye māradheyye maraṇadheyye sattā visattā āsattā laggā laggitā palibuddhāti—"
+    },
+    {
+      "id": "cnd16:26.5",
+      "pali": "pajaṁ imaṁ maccudheyye visattaṁ."
+    },
+    {
+      "id": "cnd16:26.6",
+      "pali": "Tenāha bhagavā—"
+    },
+    {
+      "id": "cnd16:27.1",
+      "pali": "“Tasmā pajānaṁ na upādiyetha,"
+    },
+    {
+      "id": "cnd16:27.2",
+      "pali": "Bhikkhu sato kiñcanaṁ sabbaloke;"
+    },
+    {
+      "id": "cnd16:27.3",
+      "pali": "Ādānasatte iti pekkhamāno,"
+    },
+    {
+      "id": "cnd16:27.4",
+      "pali": "Pajaṁ imaṁ maccudheyye visattan”ti."
+    },
+    {
+      "id": "cnd16:28.1",
+      "pali": "Saha gāthāpariyosānā …pe…"
+    },
+    {
+      "id": "cnd16:28.2",
+      "pali": "satthā me bhante bhagavā, sāvakohamasmīti."
+    },
+    {
+      "id": "cnd16:28.3",
+      "pali": "Bhadrāvudhamāṇavapucchāniddeso dvādasamo."
+    }
+  ]
+}

@@ -1,0 +1,671 @@
+{
+  "uid": "mn32",
+  "title": "Mahāgosiṅgasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn32:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn32:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā gosiṅgasālavanadāye viharati sambahulehi abhiññātehi abhiññātehi therehi sāvakehi saddhiṁ—"
+    },
+    {
+      "id": "mn32:1.3",
+      "pali": "āyasmatā ca sāriputtena āyasmatā ca mahāmoggallānena āyasmatā ca mahākassapena āyasmatā ca anuruddhena āyasmatā ca revatena āyasmatā ca ānandena, aññehi ca abhiññātehi abhiññātehi therehi sāvakehi saddhiṁ."
+    },
+    {
+      "id": "mn32:2.1",
+      "pali": "Atha kho āyasmā mahāmoggallāno sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā mahākassapo tenupasaṅkami; upasaṅkamitvā āyasmantaṁ mahākassapaṁ etadavoca:"
+    },
+    {
+      "id": "mn32:2.2",
+      "pali": "“āyāmāvuso, kassapa, yenāyasmā sāriputto tenupasaṅkamissāma dhammassavanāyā”ti."
+    },
+    {
+      "id": "mn32:2.3",
+      "pali": "“Evamāvuso”ti kho āyasmā mahākassapo āyasmato mahāmoggallānassa paccassosi."
+    },
+    {
+      "id": "mn32:2.4",
+      "pali": "Atha kho āyasmā ca mahāmoggallāno āyasmā ca mahākassapo āyasmā ca anuruddho yenāyasmā sāriputto tenupasaṅkamiṁsu dhammassavanāya."
+    },
+    {
+      "id": "mn32:3.1",
+      "pali": "Addasā kho āyasmā ānando āyasmantañca mahāmoggallānaṁ āyasmantañca mahākassapaṁ āyasmantañca anuruddhaṁ yenāyasmā sāriputto tenupasaṅkamante dhammassavanāya."
+    },
+    {
+      "id": "mn32:3.2",
+      "pali": "Disvāna yenāyasmā revato tenupasaṅkami; upasaṅkamitvā āyasmantaṁ revataṁ etadavoca:"
+    },
+    {
+      "id": "mn32:3.3",
+      "pali": "“upasaṅkamantā kho amū, āvuso revata, sappurisā yenāyasmā sāriputto tena dhammassavanāya."
+    },
+    {
+      "id": "mn32:3.4",
+      "pali": "Āyāmāvuso revata, yenāyasmā sāriputto tenupasaṅkamissāma dhammassavanāyā”ti."
+    },
+    {
+      "id": "mn32:3.5",
+      "pali": "“Evamāvuso”ti kho āyasmā revato āyasmato ānandassa paccassosi."
+    },
+    {
+      "id": "mn32:3.6",
+      "pali": "Atha kho āyasmā ca revato āyasmā ca ānando yenāyasmā sāriputto tenupasaṅkamiṁsu dhammassavanāya."
+    },
+    {
+      "id": "mn32:4.1",
+      "pali": "Addasā kho āyasmā sāriputto āyasmantañca revataṁ āyasmantañca ānandaṁ dūratova āgacchante."
+    },
+    {
+      "id": "mn32:4.2",
+      "pali": "Disvāna āyasmantaṁ ānandaṁ etadavoca:"
+    },
+    {
+      "id": "mn32:4.3",
+      "pali": "“etu kho āyasmā ānando."
+    },
+    {
+      "id": "mn32:4.4",
+      "pali": "Svāgataṁ āyasmato ānandassa bhagavato upaṭṭhākassa bhagavato santikāvacarassa."
+    },
+    {
+      "id": "mn32:4.5",
+      "pali": "Ramaṇīyaṁ, āvuso ānanda, gosiṅgasālavanaṁ, dosinā ratti, sabbaphāliphullā sālā, dibbā, maññe, gandhā sampavanti;"
+    },
+    {
+      "id": "mn32:4.6",
+      "pali": "kathaṁrūpena, āvuso ānanda, bhikkhunā gosiṅgasālavanaṁ sobheyyā”ti?"
+    },
+    {
+      "id": "mn32:4.7",
+      "pali": "“Idhāvuso sāriputta, bhikkhu bahussuto hoti sutadharo sutasannicayo. Ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthā sabyañjanā; kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ abhivadanti, tathārūpāssa dhammā bahussutā honti, dhātā, vacasā paricitā, manasānupekkhitā, diṭṭhiyā suppaṭividdhā."
+    },
+    {
+      "id": "mn32:4.8",
+      "pali": "So catassannaṁ parisānaṁ dhammaṁ deseti parimaṇḍalehi padabyañjanehi anuppabandhehi anusayasamugghātāya."
+    },
+    {
+      "id": "mn32:4.9",
+      "pali": "Evarūpena kho, āvuso sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā”ti."
+    },
+    {
+      "id": "mn32:5.1",
+      "pali": "Evaṁ vutte, āyasmā sāriputto āyasmantaṁ revataṁ etadavoca:"
+    },
+    {
+      "id": "mn32:5.2",
+      "pali": "“byākataṁ kho, āvuso revata, āyasmatā ānandena yathāsakaṁ paṭibhānaṁ."
+    },
+    {
+      "id": "mn32:5.3",
+      "pali": "Tattha dāni mayaṁ āyasmantaṁ revataṁ pucchāma:"
+    },
+    {
+      "id": "mn32:5.4",
+      "pali": "‘ramaṇīyaṁ, āvuso revata, gosiṅgasālavanaṁ, dosinā ratti, sabbaphāliphullā sālā, dibbā, maññe, gandhā sampavanti;"
+    },
+    {
+      "id": "mn32:5.5",
+      "pali": "kathaṁrūpena, āvuso revata, bhikkhunā gosiṅgasālavanaṁ sobheyyā’”ti?"
+    },
+    {
+      "id": "mn32:5.6",
+      "pali": "“Idhāvuso sāriputta, bhikkhu paṭisallānārāmo hoti paṭisallānarato, ajjhattaṁ cetosamathamanuyutto anirākatajjhāno, vipassanāya samannāgato, brūhetā suññāgārānaṁ."
+    },
+    {
+      "id": "mn32:5.7",
+      "pali": "Evarūpena kho, āvuso sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā”ti."
+    },
+    {
+      "id": "mn32:6.1",
+      "pali": "Evaṁ vutte, āyasmā sāriputto āyasmantaṁ anuruddhaṁ etadavoca:"
+    },
+    {
+      "id": "mn32:6.2",
+      "pali": "“byākataṁ kho, āvuso anuruddha, āyasmatā revatena yathāsakaṁ paṭibhānaṁ."
+    },
+    {
+      "id": "mn32:6.3",
+      "pali": "Tattha dāni mayaṁ āyasmantaṁ anuruddhaṁ pucchāma:"
+    },
+    {
+      "id": "mn32:6.4",
+      "pali": "‘ramaṇīyaṁ, āvuso anuruddha, gosiṅgasālavanaṁ, dosinā ratti, sabbaphāliphullā sālā, dibbā, maññe, gandhā sampavanti;"
+    },
+    {
+      "id": "mn32:6.5",
+      "pali": "kathaṁrūpena, āvuso anuruddha, bhikkhunā gosiṅgasālavanaṁ sobheyyā’”ti?"
+    },
+    {
+      "id": "mn32:6.6",
+      "pali": "“Idhāvuso sāriputta, bhikkhu dibbena cakkhunā visuddhena atikkantamānusakena sahassaṁ lokānaṁ voloketi."
+    },
+    {
+      "id": "mn32:6.7",
+      "pali": "Seyyathāpi, āvuso sāriputta, cakkhumā puriso uparipāsādavaragato sahassaṁ nemimaṇḍalānaṁ volokeyya;"
+    },
+    {
+      "id": "mn32:6.8",
+      "pali": "evameva kho, āvuso sāriputta, bhikkhu dibbena cakkhunā visuddhena atikkantamānusakena sahassaṁ lokānaṁ voloketi."
+    },
+    {
+      "id": "mn32:6.9",
+      "pali": "Evarūpena kho, āvuso sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā”ti."
+    },
+    {
+      "id": "mn32:7.1",
+      "pali": "Evaṁ vutte, āyasmā sāriputto āyasmantaṁ mahākassapaṁ etadavoca:"
+    },
+    {
+      "id": "mn32:7.2",
+      "pali": "“byākataṁ kho, āvuso kassapa, āyasmatā anuruddhena yathāsakaṁ paṭibhānaṁ."
+    },
+    {
+      "id": "mn32:7.3",
+      "pali": "Tattha dāni mayaṁ āyasmantaṁ mahākassapaṁ pucchāma:"
+    },
+    {
+      "id": "mn32:7.4",
+      "pali": "‘ramaṇīyaṁ, āvuso kassapa, gosiṅgasālavanaṁ, dosinā ratti, sabbaphāliphullā sālā, dibbā, maññe, gandhā sampavanti;"
+    },
+    {
+      "id": "mn32:7.5",
+      "pali": "kathaṁrūpena, āvuso kassapa, bhikkhunā gosiṅgasālavanaṁ sobheyyā’”ti?"
+    },
+    {
+      "id": "mn32:7.6",
+      "pali": "“Idhāvuso sāriputta, bhikkhu attanā ca āraññiko hoti āraññikattassa ca vaṇṇavādī, attanā ca piṇḍapātiko hoti piṇḍapātikattassa ca vaṇṇavādī, attanā ca paṁsukūliko hoti paṁsukūlikattassa ca vaṇṇavādī, attanā ca tecīvariko hoti tecīvarikattassa ca vaṇṇavādī, attanā ca appiccho hoti appicchatāya ca vaṇṇavādī, attanā ca santuṭṭho hoti santuṭṭhiyā ca vaṇṇavādī, attanā ca pavivitto hoti pavivekassa ca vaṇṇavādī, attanā ca asaṁsaṭṭho hoti asaṁsaggassa ca vaṇṇavādī, attanā ca āraddhavīriyo hoti vīriyārambhassa ca vaṇṇavādī, attanā ca sīlasampanno hoti sīlasampadāya ca vaṇṇavādī, attanā ca samādhisampanno hoti samādhisampadāya ca vaṇṇavādī, attanā ca paññāsampanno hoti paññāsampadāya ca vaṇṇavādī, attanā ca vimuttisampanno hoti vimuttisampadāya ca vaṇṇavādī, attanā ca vimuttiñāṇadassanasampanno hoti vimuttiñāṇadassanasampadāya ca vaṇṇavādī."
+    },
+    {
+      "id": "mn32:7.7",
+      "pali": "Evarūpena kho, āvuso sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā”ti."
+    },
+    {
+      "id": "mn32:8.1",
+      "pali": "Evaṁ vutte, āyasmā sāriputto āyasmantaṁ mahāmoggallānaṁ etadavoca:"
+    },
+    {
+      "id": "mn32:8.2",
+      "pali": "“byākataṁ kho, āvuso moggallāna, āyasmatā mahākassapena yathāsakaṁ paṭibhānaṁ."
+    },
+    {
+      "id": "mn32:8.3",
+      "pali": "Tattha dāni mayaṁ āyasmantaṁ mahāmoggallānaṁ pucchāma:"
+    },
+    {
+      "id": "mn32:8.4",
+      "pali": "‘ramaṇīyaṁ, āvuso moggallāna, gosiṅgasālavanaṁ, dosinā ratti, sabbaphāliphullā sālā, dibbā, maññe, gandhā sampavanti;"
+    },
+    {
+      "id": "mn32:8.5",
+      "pali": "kathaṁrūpena, āvuso moggallāna, bhikkhunā gosiṅgasālavanaṁ sobheyyā’”ti?"
+    },
+    {
+      "id": "mn32:8.6",
+      "pali": "“Idhāvuso sāriputta, dve bhikkhū abhidhammakathaṁ kathenti, te aññamaññaṁ pañhaṁ pucchanti, aññamaññassa pañhaṁ puṭṭhā vissajjenti, no ca saṁsādenti, dhammī ca nesaṁ kathā pavattinī hoti."
+    },
+    {
+      "id": "mn32:8.7",
+      "pali": "Evarūpena kho, āvuso sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā”ti."
+    },
+    {
+      "id": "mn32:9.1",
+      "pali": "Atha kho āyasmā mahāmoggallāno āyasmantaṁ sāriputtaṁ etadavoca:"
+    },
+    {
+      "id": "mn32:9.2",
+      "pali": "“byākataṁ kho, āvuso sāriputta, amhehi sabbeheva yathāsakaṁ paṭibhānaṁ."
+    },
+    {
+      "id": "mn32:9.3",
+      "pali": "Tattha dāni mayaṁ āyasmantaṁ sāriputtaṁ pucchāma:"
+    },
+    {
+      "id": "mn32:9.4",
+      "pali": "‘ramaṇīyaṁ, āvuso sāriputta, gosiṅgasālavanaṁ, dosinā ratti, sabbaphāliphullā sālā, dibbā, maññe, gandhā sampavanti;"
+    },
+    {
+      "id": "mn32:9.5",
+      "pali": "kathaṁrūpena, āvuso sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā’”ti?"
+    },
+    {
+      "id": "mn32:9.6",
+      "pali": "“Idhāvuso moggallāna, bhikkhu cittaṁ vasaṁ vatteti, no ca bhikkhu cittassa vasena vattati."
+    },
+    {
+      "id": "mn32:9.7",
+      "pali": "So yāya vihārasamāpattiyā ākaṅkhati pubbaṇhasamayaṁ viharituṁ, tāya vihārasamāpattiyā pubbaṇhasamayaṁ viharati;"
+    },
+    {
+      "id": "mn32:9.8",
+      "pali": "yāya vihārasamāpattiyā ākaṅkhati majjhanhikasamayaṁ viharituṁ, tāya vihārasamāpattiyā majjhanhikasamayaṁ viharati;"
+    },
+    {
+      "id": "mn32:9.9",
+      "pali": "yāya vihārasamāpattiyā ākaṅkhati sāyanhasamayaṁ viharituṁ, tāya vihārasamāpattiyā sāyanhasamayaṁ viharati."
+    },
+    {
+      "id": "mn32:9.10",
+      "pali": "Seyyathāpi, āvuso moggallāna, rañño vā rājamahāmattassa vā nānārattānaṁ dussānaṁ dussakaraṇḍako pūro assa."
+    },
+    {
+      "id": "mn32:9.11",
+      "pali": "So yaññadeva dussayugaṁ ākaṅkheyya pubbaṇhasamayaṁ pārupituṁ, taṁ tadeva dussayugaṁ pubbaṇhasamayaṁ pārupeyya;"
+    },
+    {
+      "id": "mn32:9.12",
+      "pali": "yaññadeva dussayugaṁ ākaṅkheyya majjhanhikasamayaṁ pārupituṁ, taṁ tadeva dussayugaṁ majjhanhikasamayaṁ pārupeyya;"
+    },
+    {
+      "id": "mn32:9.13",
+      "pali": "yaññadeva dussayugaṁ ākaṅkheyya sāyanhasamayaṁ pārupituṁ, taṁ tadeva dussayugaṁ sāyanhasamayaṁ pārupeyya."
+    },
+    {
+      "id": "mn32:9.14",
+      "pali": "Evameva kho, āvuso moggallāna, bhikkhu cittaṁ vasaṁ vatteti, no ca bhikkhu cittassa vasena vattati."
+    },
+    {
+      "id": "mn32:9.15",
+      "pali": "So yāya vihārasamāpattiyā ākaṅkhati pubbaṇhasamayaṁ viharituṁ, tāya vihārasamāpattiyā pubbaṇhasamayaṁ viharati;"
+    },
+    {
+      "id": "mn32:9.16",
+      "pali": "yāya vihārasamāpattiyā ākaṅkhati majjhanhikasamayaṁ viharituṁ, tāya vihārasamāpattiyā majjhanhikasamayaṁ viharati;"
+    },
+    {
+      "id": "mn32:9.17",
+      "pali": "yāya vihārasamāpattiyā ākaṅkhati sāyanhasamayaṁ viharituṁ, tāya vihārasamāpattiyā sāyanhasamayaṁ viharati."
+    },
+    {
+      "id": "mn32:9.18",
+      "pali": "Evarūpena kho, āvuso moggallāna, bhikkhunā gosiṅgasālavanaṁ sobheyyā”ti."
+    },
+    {
+      "id": "mn32:10.1",
+      "pali": "Atha kho āyasmā sāriputto te āyasmante etadavoca:"
+    },
+    {
+      "id": "mn32:10.2",
+      "pali": "“byākataṁ kho, āvuso, amhehi sabbeheva yathāsakaṁ paṭibhānaṁ."
+    },
+    {
+      "id": "mn32:10.3",
+      "pali": "Āyāmāvuso, yena bhagavā tenupasaṅkamissāma; upasaṅkamitvā etamatthaṁ bhagavato ārocessāma."
+    },
+    {
+      "id": "mn32:10.4",
+      "pali": "Yathā no bhagavā byākarissati tathā naṁ dhāressāmā”ti."
+    },
+    {
+      "id": "mn32:10.5",
+      "pali": "“Evamāvuso”ti kho te āyasmanto āyasmato sāriputtassa paccassosuṁ."
+    },
+    {
+      "id": "mn32:10.6",
+      "pali": "Atha kho te āyasmanto yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho āyasmā sāriputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn32:11.1",
+      "pali": "“idha, bhante, āyasmā ca revato āyasmā ca ānando yenāhaṁ tenupasaṅkamiṁsu dhammassavanāya."
+    },
+    {
+      "id": "mn32:11.2",
+      "pali": "Addasaṁ kho ahaṁ, bhante, āyasmantañca revataṁ āyasmantañca ānandaṁ dūratova āgacchante."
+    },
+    {
+      "id": "mn32:11.3",
+      "pali": "Disvāna āyasmantaṁ ānandaṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn32:11.4",
+      "pali": "‘etu kho āyasmā ānando."
+    },
+    {
+      "id": "mn32:11.5",
+      "pali": "Svāgataṁ āyasmato ānandassa bhagavato upaṭṭhākassa bhagavato santikāvacarassa."
+    },
+    {
+      "id": "mn32:11.6",
+      "pali": "Ramaṇīyaṁ, āvuso ānanda, gosiṅgasālavanaṁ, dosinā ratti, sabbaphāliphullā sālā, dibbā, maññe, gandhā sampavanti;"
+    },
+    {
+      "id": "mn32:11.7",
+      "pali": "kathaṁrūpena, āvuso ānanda, bhikkhunā gosiṅgasālavanaṁ sobheyyā’ti?"
+    },
+    {
+      "id": "mn32:11.8",
+      "pali": "Evaṁ vutte, bhante, āyasmā ānando maṁ etadavoca:"
+    },
+    {
+      "id": "mn32:11.9",
+      "pali": "‘idhāvuso, sāriputta, bhikkhu bahussuto hoti sutadharo …pe…"
+    },
+    {
+      "id": "mn32:11.10",
+      "pali": "anusayasamugghātāya."
+    },
+    {
+      "id": "mn32:11.11",
+      "pali": "Evarūpena kho, āvuso sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā’”ti."
+    },
+    {
+      "id": "mn32:11.12",
+      "pali": "“Sādhu sādhu, sāriputta."
+    },
+    {
+      "id": "mn32:11.13",
+      "pali": "Yathā taṁ ānandova sammā byākaramāno byākareyya."
+    },
+    {
+      "id": "mn32:11.14",
+      "pali": "Ānando hi, sāriputta, bahussuto sutadharo sutasannicayo. Ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthā sabyañjanā; kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ abhivadanti, tathārūpāssa dhammā bahussutā honti, dhātā, vacasā paricitā, manasānupekkhitā, diṭṭhiyā suppaṭividdhā."
+    },
+    {
+      "id": "mn32:11.15",
+      "pali": "So catassannaṁ parisānaṁ dhammaṁ deseti parimaṇḍalehi padabyañjanehi anuppabandhehi anusayasamugghātāyā”ti."
+    },
+    {
+      "id": "mn32:12.1",
+      "pali": "“Evaṁ vutte, ahaṁ, bhante, āyasmantaṁ revataṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn32:12.2",
+      "pali": "‘byākataṁ kho, āvuso revata, āyasmatā ānandena yathāsakaṁ paṭibhānaṁ."
+    },
+    {
+      "id": "mn32:12.3",
+      "pali": "Tattha dāni mayaṁ āyasmantaṁ revataṁ pucchāma—"
+    },
+    {
+      "id": "mn32:12.4",
+      "pali": "ramaṇīyaṁ, āvuso revata, gosiṅgasālavanaṁ, dosinā ratti, sabbaphāliphullā sālā, dibbā maññe gandhā sampavanti."
+    },
+    {
+      "id": "mn32:12.5",
+      "pali": "Kathaṁrūpena, āvuso revata, bhikkhunā gosiṅgasālavanaṁ sobheyyā’ti?"
+    },
+    {
+      "id": "mn32:12.6",
+      "pali": "Evaṁ vutte, bhante, āyasmā revato maṁ etadavoca:"
+    },
+    {
+      "id": "mn32:12.7",
+      "pali": "‘idhāvuso sāriputta, bhikkhu paṭisallānārāmo hoti paṭisallānarato, ajjhattaṁ cetosamathamanuyutto, anirākatajjhāno, vipassanāya samannāgato, brūhetā suññāgārānaṁ."
+    },
+    {
+      "id": "mn32:12.8",
+      "pali": "Evarūpena kho, āvuso sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā’”ti."
+    },
+    {
+      "id": "mn32:12.9",
+      "pali": "“Sādhu sādhu, sāriputta."
+    },
+    {
+      "id": "mn32:12.10",
+      "pali": "Yathā taṁ revatova sammā byākaramāno byākareyya."
+    },
+    {
+      "id": "mn32:12.11",
+      "pali": "Revato hi, sāriputta, paṭisallānārāmo paṭisallānarato, ajjhattaṁ cetosamathamanuyutto anirākatajjhāno, vipassanāya samannāgato brūhetā suññāgārānan”ti."
+    },
+    {
+      "id": "mn32:13.1",
+      "pali": "“Evaṁ vutte, ahaṁ, bhante, āyasmantaṁ anuruddhaṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn32:13.2",
+      "pali": "‘byākataṁ kho, āvuso anuruddha, āyasmatā revatena …pe…"
+    },
+    {
+      "id": "mn32:13.3",
+      "pali": "kathaṁrūpena, āvuso anuruddha, bhikkhunā gosiṅgasālavanaṁ sobheyyā’ti."
+    },
+    {
+      "id": "mn32:13.4",
+      "pali": "Evaṁ vutte, bhante, āyasmā anuruddho maṁ etadavoca:"
+    },
+    {
+      "id": "mn32:13.5",
+      "pali": "‘idhāvuso sāriputta, bhikkhu dibbena cakkhunā visuddhena atikkantamānusakena sahassaṁ lokānaṁ voloketi."
+    },
+    {
+      "id": "mn32:13.6",
+      "pali": "Seyyathāpi, āvuso sāriputta, cakkhumā puriso …pe…"
+    },
+    {
+      "id": "mn32:13.7",
+      "pali": "evarūpena kho, āvuso sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā’”ti."
+    },
+    {
+      "id": "mn32:13.8",
+      "pali": "“Sādhu sādhu, sāriputta, yathā taṁ anuruddhova sammā byākaramāno byākareyya."
+    },
+    {
+      "id": "mn32:13.9",
+      "pali": "Anuruddho hi, sāriputta, dibbena cakkhunā visuddhena atikkantamānusakena sahassaṁ lokānaṁ voloketī”ti."
+    },
+    {
+      "id": "mn32:14.1",
+      "pali": "“Evaṁ vutte, ahaṁ, bhante, āyasmantaṁ mahākassapaṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn32:14.2",
+      "pali": "‘byākataṁ kho, āvuso kassapa, āyasmatā anuruddhena yathāsakaṁ paṭibhānaṁ."
+    },
+    {
+      "id": "mn32:14.3",
+      "pali": "Tattha dāni mayaṁ āyasmantaṁ mahākassapaṁ pucchāma …pe…"
+    },
+    {
+      "id": "mn32:14.4",
+      "pali": "kathaṁrūpena kho, āvuso kassapa, bhikkhunā gosiṅgasālavanaṁ sobheyyā’ti?"
+    },
+    {
+      "id": "mn32:14.5",
+      "pali": "Evaṁ vutte, bhante, āyasmā mahākassapo maṁ etadavoca:"
+    },
+    {
+      "id": "mn32:14.6",
+      "pali": "‘idhāvuso sāriputta, bhikkhu attanā ca āraññiko hoti āraññikattassa ca vaṇṇavādī, attanā ca piṇḍapātiko hoti …pe… attanā ca paṁsukūliko hoti …pe… attanā ca tecīvariko hoti …pe… attanā ca appiccho hoti …pe… attanā ca santuṭṭho hoti …pe… attanā ca pavivitto hoti …pe… attanā ca asaṁsaṭṭho hoti …pe… attanā ca āraddhavīriyo hoti …pe… attanā ca sīlasampanno hoti …pe… attanā ca samādhisampanno hoti …pe… attanā ca paññāsampanno hoti … attanā ca vimuttisampanno hoti … attanā ca vimuttiñāṇadassanasampanno hoti vimuttiñāṇadassanasampadāya ca vaṇṇavādī."
+    },
+    {
+      "id": "mn32:14.7",
+      "pali": "Evarūpena kho, āvuso sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā’”ti."
+    },
+    {
+      "id": "mn32:14.8",
+      "pali": "“Sādhu sādhu, sāriputta."
+    },
+    {
+      "id": "mn32:14.9",
+      "pali": "Yathā taṁ kassapova sammā byākaramāno byākareyya."
+    },
+    {
+      "id": "mn32:14.10",
+      "pali": "Kassapo hi, sāriputta, attanā ca āraññiko āraññikattassa ca vaṇṇavādī, attanā ca piṇḍapātiko piṇḍapātikattassa ca vaṇṇavādī, attanā ca paṁsukūliko paṁsukūlikattassa ca vaṇṇavādī, attanā ca tecīvariko tecīvarikattassa ca vaṇṇavādī, attanā ca appiccho appicchatāya ca vaṇṇavādī, attanā ca santuṭṭho santuṭṭhiyā ca vaṇṇavādī, attanā ca pavivitto pavivekassa ca vaṇṇavādī, attanā ca asaṁsaṭṭho asaṁsaggassa ca vaṇṇavādī, attanā ca āraddhavīriyo vīriyārambhassa ca vaṇṇavādī, attanā ca sīlasampanno sīlasampadāya ca vaṇṇavādī, attanā ca samādhisampanno samādhisampadāya ca vaṇṇavādī, attanā ca paññāsampanno paññāsampadāya ca vaṇṇavādī, attanā ca vimuttisampanno vimuttisampadāya ca vaṇṇavādī, attanā ca vimuttiñāṇadassanasampanno vimuttiñāṇadassanasampadāya ca vaṇṇavādī”ti."
+    },
+    {
+      "id": "mn32:15.1",
+      "pali": "“Evaṁ vutte, ahaṁ bhante āyasmantaṁ mahāmoggallānaṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn32:15.2",
+      "pali": "‘byākataṁ kho, āvuso moggallāna, āyasmatā mahākassapena yathāsakaṁ paṭibhānaṁ."
+    },
+    {
+      "id": "mn32:15.3",
+      "pali": "Tattha dāni mayaṁ āyasmantaṁ mahāmoggallānaṁ pucchāma …pe…"
+    },
+    {
+      "id": "mn32:15.4",
+      "pali": "kathaṁrūpena, āvuso moggallāna, bhikkhunā gosiṅgasālavanaṁ sobheyyā’ti?"
+    },
+    {
+      "id": "mn32:15.5",
+      "pali": "Evaṁ vutte, bhante, āyasmā mahāmoggallāno maṁ etadavoca:"
+    },
+    {
+      "id": "mn32:15.6",
+      "pali": "‘idhāvuso sāriputta, dve bhikkhū abhidhammakathaṁ kathenti. Te aññamaññaṁ pañhaṁ pucchanti, aññamaññassa pañhaṁ puṭṭhā vissajjenti, no ca saṁsādenti, dhammī ca nesaṁ kathā pavattinī hoti."
+    },
+    {
+      "id": "mn32:15.7",
+      "pali": "Evarūpena kho, āvuso sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā’”ti."
+    },
+    {
+      "id": "mn32:15.8",
+      "pali": "“Sādhu sādhu, sāriputta, yathā taṁ moggallānova sammā byākaramāno byākareyya."
+    },
+    {
+      "id": "mn32:15.9",
+      "pali": "Moggallāno hi, sāriputta, dhammakathiko”ti."
+    },
+    {
+      "id": "mn32:16.1",
+      "pali": "Evaṁ vutte, āyasmā mahāmoggallāno bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn32:16.2",
+      "pali": "“atha khvāhaṁ, bhante, āyasmantaṁ sāriputtaṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn32:16.3",
+      "pali": "‘byākataṁ kho, āvuso sāriputta, amhehi sabbeheva yathāsakaṁ paṭibhānaṁ."
+    },
+    {
+      "id": "mn32:16.4",
+      "pali": "Tattha dāni mayaṁ āyasmantaṁ sāriputtaṁ pucchāma—"
+    },
+    {
+      "id": "mn32:16.5",
+      "pali": "ramaṇīyaṁ, āvuso sāriputta, gosiṅgasālavanaṁ, dosinā ratti, sabbaphāliphullā sālā, dibbā, maññe, gandhā sampavanti."
+    },
+    {
+      "id": "mn32:16.6",
+      "pali": "Kathaṁrūpena, āvuso sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā’ti?"
+    },
+    {
+      "id": "mn32:16.7",
+      "pali": "Evaṁ vutte, bhante, āyasmā sāriputto maṁ etadavoca:"
+    },
+    {
+      "id": "mn32:16.8",
+      "pali": "‘idhāvuso moggallāna, bhikkhu cittaṁ vasaṁ vatteti no ca bhikkhu cittassa vasena vattati."
+    },
+    {
+      "id": "mn32:16.9",
+      "pali": "So yāya vihārasamāpattiyā ākaṅkhati pubbaṇhasamayaṁ viharituṁ, tāya vihārasamāpattiyā pubbaṇhasamayaṁ viharati;"
+    },
+    {
+      "id": "mn32:16.10",
+      "pali": "yāya vihārasamāpattiyā ākaṅkhati majjhanhikasamayaṁ viharituṁ, tāya vihārasamāpattiyā majjhanhikasamayaṁ viharati;"
+    },
+    {
+      "id": "mn32:16.11",
+      "pali": "yāya vihārasamāpattiyā ākaṅkhati sāyanhasamayaṁ viharituṁ, tāya vihārasamāpattiyā sāyanhasamayaṁ viharati."
+    },
+    {
+      "id": "mn32:16.12",
+      "pali": "Seyyathāpi, āvuso moggallāna, rañño vā rājamahāmattassa vā nānārattānaṁ dussānaṁ dussakaraṇḍako pūro assa."
+    },
+    {
+      "id": "mn32:16.13",
+      "pali": "So yaññadeva dussayugaṁ ākaṅkheyya pubbaṇhasamayaṁ pārupituṁ, taṁ tadeva dussayugaṁ pubbaṇhasamayaṁ pārupeyya;"
+    },
+    {
+      "id": "mn32:16.14",
+      "pali": "yaññadeva dussayugaṁ ākaṅkheyya majjhanhikasamayaṁ pārupituṁ, taṁ tadeva dussayugaṁ majjhanhikasamayaṁ pārupeyya;"
+    },
+    {
+      "id": "mn32:16.15",
+      "pali": "yaññadeva dussayugaṁ ākaṅkheyya sāyanhasamayaṁ pārupituṁ, taṁ tadeva dussayugaṁ sāyanhasamayaṁ pārupeyya."
+    },
+    {
+      "id": "mn32:16.16",
+      "pali": "Evameva kho, āvuso moggallāna, bhikkhu cittaṁ vasaṁ vatteti, no ca bhikkhu cittassa vasena vattati."
+    },
+    {
+      "id": "mn32:16.17",
+      "pali": "So yāya vihārasamāpattiyā ākaṅkhati pubbaṇhasamayaṁ viharituṁ, tāya vihārasamāpattiyā pubbaṇhasamayaṁ viharati;"
+    },
+    {
+      "id": "mn32:16.18",
+      "pali": "yāya vihārasamāpattiyā ākaṅkhati majjhanhikasamayaṁ viharituṁ, tāya vihārasamāpattiyā majjhanhikasamayaṁ viharati;"
+    },
+    {
+      "id": "mn32:16.19",
+      "pali": "yāya vihārasamāpattiyā ākaṅkhati sāyanhasamayaṁ viharituṁ, tāya vihārasamāpattiyā sāyanhasamayaṁ viharati."
+    },
+    {
+      "id": "mn32:16.20",
+      "pali": "Evarūpena kho, āvuso moggallāna, bhikkhunā gosiṅgasālavanaṁ sobheyyā’”ti."
+    },
+    {
+      "id": "mn32:16.21",
+      "pali": "“Sādhu sādhu, moggallāna."
+    },
+    {
+      "id": "mn32:16.22",
+      "pali": "Yathā taṁ sāriputtova sammā byākaramāno byākareyya."
+    },
+    {
+      "id": "mn32:16.23",
+      "pali": "Sāriputto hi, moggallāna, cittaṁ vasaṁ vatteti no ca sāriputto cittassa vasena vattati."
+    },
+    {
+      "id": "mn32:16.24",
+      "pali": "So yāya vihārasamāpattiyā ākaṅkhati pubbaṇhasamayaṁ viharituṁ, tāya vihārasamāpattiyā pubbaṇhasamayaṁ viharati;"
+    },
+    {
+      "id": "mn32:16.25",
+      "pali": "yāya vihārasamāpattiyā ākaṅkhati majjhanhikasamayaṁ viharituṁ, tāya vihārasamāpattiyā majjhanhikasamayaṁ viharati;"
+    },
+    {
+      "id": "mn32:16.26",
+      "pali": "yāya vihārasamāpattiyā ākaṅkhati sāyanhasamayaṁ viharituṁ, tāya vihārasamāpattiyā sāyanhasamayaṁ viharatī”ti."
+    },
+    {
+      "id": "mn32:17.1",
+      "pali": "Evaṁ vutte, āyasmā sāriputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn32:17.2",
+      "pali": "“kassa nu kho, bhante, subhāsitan”ti?"
+    },
+    {
+      "id": "mn32:17.3",
+      "pali": "“Sabbesaṁ vo, sāriputta, subhāsitaṁ pariyāyena."
+    },
+    {
+      "id": "mn32:17.4",
+      "pali": "Api ca mamapi suṇātha yathārūpena bhikkhunā gosiṅgasālavanaṁ sobheyya."
+    },
+    {
+      "id": "mn32:17.5",
+      "pali": "Idha, sāriputta, bhikkhu pacchābhattaṁ piṇḍapātapaṭikkanto nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā:"
+    },
+    {
+      "id": "mn32:17.6",
+      "pali": "‘na tāvāhaṁ imaṁ pallaṅkaṁ bhindissāmi yāva me nānupādāya āsavehi cittaṁ vimuccissatī’ti."
+    },
+    {
+      "id": "mn32:17.7",
+      "pali": "Evarūpena kho, sāriputta, bhikkhunā gosiṅgasālavanaṁ sobheyyā”ti."
+    },
+    {
+      "id": "mn32:17.8",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn32:17.9",
+      "pali": "Attamanā te āyasmanto bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn32:17.10",
+      "pali": "Mahāgosiṅgasuttaṁ niṭṭhitaṁ dutiyaṁ."
+    }
+  ]
+}

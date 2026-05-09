@@ -1,0 +1,703 @@
+{
+  "uid": "mn46",
+  "title": "Mahādhammasamādānasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn46:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn46:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn46:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn46:1.4",
+      "pali": "“bhikkhavo”ti."
+    },
+    {
+      "id": "mn46:1.5",
+      "pali": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn46:1.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn46:2.1",
+      "pali": "“yebhuyyena, bhikkhave, sattā evaṅkāmā evaṁchandā evaṁadhippāyā:"
+    },
+    {
+      "id": "mn46:2.2",
+      "pali": "‘aho vata aniṭṭhā akantā amanāpā dhammā parihāyeyyuṁ, iṭṭhā kantā manāpā dhammā abhivaḍḍheyyun’ti."
+    },
+    {
+      "id": "mn46:2.3",
+      "pali": "Tesaṁ, bhikkhave, sattānaṁ evaṅkāmānaṁ evaṁchandānaṁ evaṁadhippāyānaṁ aniṭṭhā akantā amanāpā dhammā abhivaḍḍhanti, iṭṭhā kantā manāpā dhammā parihāyanti."
+    },
+    {
+      "id": "mn46:2.4",
+      "pali": "Tatra tumhe, bhikkhave, kaṁ hetuṁ paccethā”ti?"
+    },
+    {
+      "id": "mn46:2.5",
+      "pali": "“Bhagavaṁmūlakā no, bhante, dhammā, bhagavaṁnettikā, bhagavaṁpaṭisaraṇā. Sādhu vata, bhante, bhagavantaññeva paṭibhātu etassa bhāsitassa attho; bhagavato sutvā bhikkhū dhāressantī”ti."
+    },
+    {
+      "id": "mn46:2.6",
+      "pali": "“Tena hi, bhikkhave, suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti."
+    },
+    {
+      "id": "mn46:2.7",
+      "pali": "“Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn46:2.8",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn46:3.1",
+      "pali": "“Idha, bhikkhave, assutavā puthujjano, ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto,"
+    },
+    {
+      "id": "mn46:3.2",
+      "pali": "sevitabbe dhamme na jānāti asevitabbe dhamme na jānāti, bhajitabbe dhamme na jānāti abhajitabbe dhamme na jānāti."
+    },
+    {
+      "id": "mn46:3.3",
+      "pali": "So sevitabbe dhamme ajānanto asevitabbe dhamme ajānanto, bhajitabbe dhamme ajānanto abhajitabbe dhamme ajānanto, asevitabbe dhamme sevati sevitabbe dhamme na sevati, abhajitabbe dhamme bhajati bhajitabbe dhamme na bhajati."
+    },
+    {
+      "id": "mn46:3.4",
+      "pali": "Tassa asevitabbe dhamme sevato sevitabbe dhamme asevato, abhajitabbe dhamme bhajato bhajitabbe dhamme abhajato aniṭṭhā akantā amanāpā dhammā abhivaḍḍhanti, iṭṭhā kantā manāpā dhammā parihāyanti."
+    },
+    {
+      "id": "mn46:3.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn46:3.6",
+      "pali": "Evañhetaṁ, bhikkhave, hoti yathā taṁ aviddasuno."
+    },
+    {
+      "id": "mn46:4.1",
+      "pali": "Sutavā ca kho, bhikkhave, ariyasāvako, ariyānaṁ dassāvī ariyadhammassa kovido ariyadhamme suvinīto, sappurisānaṁ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto,"
+    },
+    {
+      "id": "mn46:4.2",
+      "pali": "sevitabbe dhamme jānāti asevitabbe dhamme jānāti, bhajitabbe dhamme jānāti abhajitabbe dhamme jānāti."
+    },
+    {
+      "id": "mn46:4.3",
+      "pali": "So sevitabbe dhamme jānanto asevitabbe dhamme jānanto, bhajitabbe dhamme jānanto abhajitabbe dhamme jānanto, asevitabbe dhamme na sevati sevitabbe dhamme sevati, abhajitabbe dhamme na bhajati bhajitabbe dhamme bhajati."
+    },
+    {
+      "id": "mn46:4.4",
+      "pali": "Tassa asevitabbe dhamme asevato sevitabbe dhamme sevato, abhajitabbe dhamme abhajato bhajitabbe dhamme bhajato, aniṭṭhā akantā amanāpā dhammā parihāyanti, iṭṭhā kantā manāpā dhammā abhivaḍḍhanti."
+    },
+    {
+      "id": "mn46:4.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn46:4.6",
+      "pali": "Evañhetaṁ, bhikkhave, hoti yathā taṁ viddasuno."
+    },
+    {
+      "id": "mn46:5.1",
+      "pali": "Cattārimāni, bhikkhave, dhammasamādānāni."
+    },
+    {
+      "id": "mn46:5.2",
+      "pali": "Katamāni cattāri?"
+    },
+    {
+      "id": "mn46:5.3",
+      "pali": "Atthi, bhikkhave, dhammasamādānaṁ paccuppannadukkhañceva āyatiñca dukkhavipākaṁ;"
+    },
+    {
+      "id": "mn46:5.4",
+      "pali": "atthi, bhikkhave, dhammasamādānaṁ paccuppannasukhaṁ āyatiṁ dukkhavipākaṁ;"
+    },
+    {
+      "id": "mn46:5.5",
+      "pali": "atthi, bhikkhave, dhammasamādānaṁ paccuppannadukkhaṁ āyatiṁ sukhavipākaṁ;"
+    },
+    {
+      "id": "mn46:5.6",
+      "pali": "atthi, bhikkhave, dhammasamādānaṁ paccuppannasukhañceva āyatiñca sukhavipākaṁ."
+    },
+    {
+      "id": "mn46:6.1",
+      "pali": "Tatra, bhikkhave, yamidaṁ dhammasamādānaṁ paccuppannadukkhañceva āyatiñca dukkhavipākaṁ, taṁ avidvā avijjāgato yathābhūtaṁ nappajānāti:"
+    },
+    {
+      "id": "mn46:6.2",
+      "pali": "‘idaṁ kho dhammasamādānaṁ paccuppannadukkhañceva āyatiñca dukkhavipākan’ti."
+    },
+    {
+      "id": "mn46:6.3",
+      "pali": "Taṁ avidvā avijjāgato yathābhūtaṁ appajānanto taṁ sevati, taṁ na parivajjeti."
+    },
+    {
+      "id": "mn46:6.4",
+      "pali": "Tassa taṁ sevato, taṁ aparivajjayato, aniṭṭhā akantā amanāpā dhammā abhivaḍḍhanti, iṭṭhā kantā manāpā dhammā parihāyanti."
+    },
+    {
+      "id": "mn46:6.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn46:6.6",
+      "pali": "Evañhetaṁ, bhikkhave, hoti yathā taṁ aviddasuno."
+    },
+    {
+      "id": "mn46:7.1",
+      "pali": "Tatra, bhikkhave, yamidaṁ dhammasamādānaṁ paccuppannasukhaṁ āyatiṁ dukkhavipākaṁ taṁ avidvā avijjāgato yathābhūtaṁ nappajānāti:"
+    },
+    {
+      "id": "mn46:7.2",
+      "pali": "‘idaṁ kho dhammasamādānaṁ paccuppannasukhaṁ āyatiṁ dukkhavipākan’ti."
+    },
+    {
+      "id": "mn46:7.3",
+      "pali": "Taṁ avidvā avijjāgato yathābhūtaṁ appajānanto taṁ sevati, taṁ na parivajjeti."
+    },
+    {
+      "id": "mn46:7.4",
+      "pali": "Tassa taṁ sevato, taṁ aparivajjayato, aniṭṭhā akantā amanāpā dhammā abhivaḍḍhanti, iṭṭhā kantā manāpā dhammā parihāyanti."
+    },
+    {
+      "id": "mn46:7.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn46:7.6",
+      "pali": "Evañhetaṁ, bhikkhave, hoti yathā taṁ aviddasuno."
+    },
+    {
+      "id": "mn46:8.1",
+      "pali": "Tatra, bhikkhave, yamidaṁ dhammasamādānaṁ paccuppannadukkhaṁ āyatiṁ sukhavipākaṁ, taṁ avidvā avijjāgato yathābhūtaṁ nappajānāti:"
+    },
+    {
+      "id": "mn46:8.2",
+      "pali": "‘idaṁ kho dhammasamādānaṁ paccuppannadukkhaṁ āyatiṁ sukhavipākan’ti."
+    },
+    {
+      "id": "mn46:8.3",
+      "pali": "Taṁ avidvā avijjāgato yathābhūtaṁ appajānanto taṁ na sevati, taṁ parivajjeti."
+    },
+    {
+      "id": "mn46:8.4",
+      "pali": "Tassa taṁ asevato, taṁ parivajjayato, aniṭṭhā akantā amanāpā dhammā abhivaḍḍhanti, iṭṭhā kantā manāpā dhammā parihāyanti."
+    },
+    {
+      "id": "mn46:8.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn46:8.6",
+      "pali": "Evañhetaṁ, bhikkhave, hoti yathā taṁ aviddasuno."
+    },
+    {
+      "id": "mn46:9.1",
+      "pali": "Tatra, bhikkhave, yamidaṁ dhammasamādānaṁ paccuppannasukhañceva āyatiñca sukhavipākaṁ, taṁ avidvā avijjāgato yathābhūtaṁ nappajānāti:"
+    },
+    {
+      "id": "mn46:9.2",
+      "pali": "‘idaṁ kho dhammasamādānaṁ paccuppannasukhañceva āyatiñca sukhavipākan’ti."
+    },
+    {
+      "id": "mn46:9.3",
+      "pali": "Taṁ avidvā avijjāgato yathābhūtaṁ appajānanto taṁ na sevati, taṁ parivajjeti."
+    },
+    {
+      "id": "mn46:9.4",
+      "pali": "Tassa taṁ asevato, taṁ parivajjayato, aniṭṭhā akantā amanāpā dhammā abhivaḍḍhanti, iṭṭhā kantā manāpā dhammā parihāyanti."
+    },
+    {
+      "id": "mn46:9.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn46:9.6",
+      "pali": "Evañhetaṁ, bhikkhave, hoti yathā taṁ aviddasuno."
+    },
+    {
+      "id": "mn46:10.1",
+      "pali": "Tatra, bhikkhave, yamidaṁ dhammasamādānaṁ paccuppannadukkhañceva āyatiñca dukkhavipākaṁ taṁ vidvā vijjāgato yathābhūtaṁ pajānāti:"
+    },
+    {
+      "id": "mn46:10.2",
+      "pali": "‘idaṁ kho dhammasamādānaṁ paccuppannadukkhañceva āyatiñca dukkhavipākan’ti."
+    },
+    {
+      "id": "mn46:10.3",
+      "pali": "Taṁ vidvā vijjāgato yathābhūtaṁ pajānanto taṁ na sevati, taṁ parivajjeti."
+    },
+    {
+      "id": "mn46:10.4",
+      "pali": "Tassa taṁ asevato, taṁ parivajjayato, aniṭṭhā akantā amanāpā dhammā parihāyanti, iṭṭhā kantā manāpā dhammā abhivaḍḍhanti."
+    },
+    {
+      "id": "mn46:10.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn46:10.6",
+      "pali": "Evañhetaṁ, bhikkhave, hoti yathā taṁ viddasuno."
+    },
+    {
+      "id": "mn46:11.1",
+      "pali": "Tatra, bhikkhave, yamidaṁ dhammasamādānaṁ paccuppannasukhaṁ āyatiṁ dukkhavipākaṁ taṁ vidvā vijjāgato yathābhūtaṁ pajānāti:"
+    },
+    {
+      "id": "mn46:11.2",
+      "pali": "‘idaṁ kho dhammasamādānaṁ paccuppannasukhaṁ āyatiṁ dukkhavipākan’ti."
+    },
+    {
+      "id": "mn46:11.3",
+      "pali": "Taṁ vidvā vijjāgato yathābhūtaṁ pajānanto taṁ na sevati, taṁ parivajjeti."
+    },
+    {
+      "id": "mn46:11.4",
+      "pali": "Tassa taṁ asevato, taṁ parivajjayato, aniṭṭhā akantā amanāpā dhammā parihāyanti, iṭṭhā kantā manāpā dhammā abhivaḍḍhanti."
+    },
+    {
+      "id": "mn46:11.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn46:11.6",
+      "pali": "Evañhetaṁ, bhikkhave, hoti yathā taṁ viddasuno."
+    },
+    {
+      "id": "mn46:12.1",
+      "pali": "Tatra, bhikkhave, yamidaṁ dhammasamādānaṁ paccuppannadukkhaṁ āyatiṁ sukhavipākaṁ taṁ vidvā vijjāgato yathābhūtaṁ pajānāti:"
+    },
+    {
+      "id": "mn46:12.2",
+      "pali": "‘idaṁ kho dhammasamādānaṁ paccuppannadukkhaṁ āyatiṁ sukhavipākan’ti."
+    },
+    {
+      "id": "mn46:12.3",
+      "pali": "Taṁ vidvā vijjāgato yathābhūtaṁ pajānanto taṁ sevati, taṁ na parivajjeti."
+    },
+    {
+      "id": "mn46:12.4",
+      "pali": "Tassa taṁ sevato, taṁ aparivajjayato, aniṭṭhā akantā amanāpā dhammā parihāyanti, iṭṭhā kantā manāpā dhammā abhivaḍḍhanti."
+    },
+    {
+      "id": "mn46:12.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn46:12.6",
+      "pali": "Evañhetaṁ, bhikkhave, hoti yathā taṁ viddasuno."
+    },
+    {
+      "id": "mn46:13.1",
+      "pali": "Tatra, bhikkhave, yamidaṁ dhammasamādānaṁ paccuppannasukhañceva āyatiñca sukhavipākaṁ taṁ vidvā vijjāgato yathābhūtaṁ pajānāti:"
+    },
+    {
+      "id": "mn46:13.2",
+      "pali": "‘idaṁ kho dhammasamādānaṁ paccuppannasukhañceva āyatiñca sukhavipākan’ti."
+    },
+    {
+      "id": "mn46:13.3",
+      "pali": "Taṁ vidvā vijjāgato yathābhūtaṁ pajānanto taṁ sevati, taṁ na parivajjeti."
+    },
+    {
+      "id": "mn46:13.4",
+      "pali": "Tassa taṁ sevato, taṁ aparivajjayato, aniṭṭhā akantā amanāpā dhammā parihāyanti, iṭṭhā kantā manāpā dhammā abhivaḍḍhanti."
+    },
+    {
+      "id": "mn46:13.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn46:13.6",
+      "pali": "Evañhetaṁ, bhikkhave, hoti yathā taṁ viddasuno."
+    },
+    {
+      "id": "mn46:14.1",
+      "pali": "Katamañca, bhikkhave, dhammasamādānaṁ paccuppannadukkhañceva āyatiñca dukkhavipākaṁ?"
+    },
+    {
+      "id": "mn46:14.2",
+      "pali": "Idha, bhikkhave, ekacco sahāpi dukkhena sahāpi domanassena pāṇātipātī hoti, pāṇātipātapaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:14.3",
+      "pali": "sahāpi dukkhena sahāpi domanassena adinnādāyī hoti, adinnādānapaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:14.4",
+      "pali": "sahāpi dukkhena sahāpi domanassena kāmesu micchācārī hoti, kāmesu micchācārapaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:14.5",
+      "pali": "sahāpi dukkhena sahāpi domanassena musāvādī hoti, musāvādapaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:14.6",
+      "pali": "sahāpi dukkhena sahāpi domanassena pisuṇavāco hoti, pisuṇavācāpaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:14.7",
+      "pali": "sahāpi dukkhena sahāpi domanassena pharusavāco hoti, pharusavācāpaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:14.8",
+      "pali": "sahāpi dukkhena sahāpi domanassena samphappalāpī hoti, samphappalāpapaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:14.9",
+      "pali": "sahāpi dukkhena sahāpi domanassena abhijjhālu hoti, abhijjhāpaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:14.10",
+      "pali": "sahāpi dukkhena sahāpi domanassena byāpannacitto hoti, byāpādapaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:14.11",
+      "pali": "sahāpi dukkhena sahāpi domanassena micchādiṭṭhi hoti, micchādiṭṭhipaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti."
+    },
+    {
+      "id": "mn46:14.12",
+      "pali": "So kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati."
+    },
+    {
+      "id": "mn46:14.13",
+      "pali": "Idaṁ vuccati, bhikkhave, dhammasamādānaṁ paccuppannadukkhañceva āyatiñca dukkhavipākaṁ."
+    },
+    {
+      "id": "mn46:15.1",
+      "pali": "Katamañca, bhikkhave, dhammasamādānaṁ paccuppannasukhaṁ āyatiṁ dukkhavipākaṁ?"
+    },
+    {
+      "id": "mn46:15.2",
+      "pali": "Idha, bhikkhave, ekacco sahāpi sukhena sahāpi somanassena pāṇātipātī hoti, pāṇātipātapaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:15.3",
+      "pali": "sahāpi sukhena sahāpi somanassena adinnādāyī hoti, adinnādānapaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:15.4",
+      "pali": "sahāpi sukhena sahāpi somanassena kāmesumicchācārī hoti, kāmesumicchācārapaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:15.5",
+      "pali": "sahāpi sukhena sahāpi somanassena musāvādī hoti, musāvādapaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:15.6",
+      "pali": "sahāpi sukhena sahāpi somanassena pisuṇavāco hoti, pisuṇavācāpaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:15.7",
+      "pali": "sahāpi sukhena sahāpi somanassena pharusavāco hoti, pharusavācāpaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:15.8",
+      "pali": "sahāpi sukhena sahāpi somanassena samphappalāpī hoti, samphappalāpapaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:15.9",
+      "pali": "sahāpi sukhena sahāpi somanassena abhijjhālu hoti, abhijjhāpaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:15.10",
+      "pali": "sahāpi sukhena sahāpi somanassena byāpannacitto hoti, byāpādapaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:15.11",
+      "pali": "sahāpi sukhena sahāpi somanassena micchādiṭṭhi hoti, micchādiṭṭhipaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti."
+    },
+    {
+      "id": "mn46:15.12",
+      "pali": "So kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati."
+    },
+    {
+      "id": "mn46:15.13",
+      "pali": "Idaṁ vuccati, bhikkhave, dhammasamādānaṁ paccuppannasukhaṁ āyatiṁ dukkhavipākaṁ."
+    },
+    {
+      "id": "mn46:16.1",
+      "pali": "Katamañca, bhikkhave, dhammasamādānaṁ paccuppannadukkhaṁ āyatiṁ sukhavipākaṁ?"
+    },
+    {
+      "id": "mn46:16.2",
+      "pali": "Idha, bhikkhave, ekacco sahāpi dukkhena sahāpi domanassena pāṇātipātā paṭivirato hoti, pāṇātipātā veramaṇīpaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:16.3",
+      "pali": "sahāpi dukkhena sahāpi domanassena adinnādānā paṭivirato hoti, adinnādānā veramaṇīpaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:16.4",
+      "pali": "sahāpi dukkhena sahāpi domanassena kāmesumicchācārā paṭivirato hoti, kāmesumicchācārā veramaṇīpaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:16.5",
+      "pali": "sahāpi dukkhena sahāpi domanassena musāvādā paṭivirato hoti, musāvādā veramaṇīpaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:16.6",
+      "pali": "sahāpi dukkhena sahāpi domanassena pisuṇāya vācāya paṭivirato hoti, pisuṇāya vācāya veramaṇīpaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:16.7",
+      "pali": "sahāpi dukkhena sahāpi domanassena pharusāya vācāya paṭivirato hoti, pharusāya vācāya veramaṇīpaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:16.8",
+      "pali": "sahāpi dukkhena sahāpi domanassena samphappalāpā paṭivirato hoti, samphappalāpā veramaṇīpaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:16.9",
+      "pali": "sahāpi dukkhena sahāpi domanassena anabhijjhālu hoti, anabhijjhāpaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:16.10",
+      "pali": "sahāpi dukkhena sahāpi domanassena abyāpannacitto hoti, abyāpādapaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:16.11",
+      "pali": "sahāpi dukkhena sahāpi domanassena sammādiṭṭhi hoti, sammādiṭṭhipaccayā ca dukkhaṁ domanassaṁ paṭisaṁvedeti."
+    },
+    {
+      "id": "mn46:16.12",
+      "pali": "So kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati."
+    },
+    {
+      "id": "mn46:16.13",
+      "pali": "Idaṁ vuccati, bhikkhave, dhammasamādānaṁ paccuppannadukkhaṁ āyatiṁ sukhavipākaṁ."
+    },
+    {
+      "id": "mn46:17.1",
+      "pali": "Katamañca, bhikkhave, dhammasamādānaṁ paccuppannasukhañceva āyatiñca sukhavipākaṁ?"
+    },
+    {
+      "id": "mn46:17.2",
+      "pali": "Idha, bhikkhave, ekacco sahāpi sukhena sahāpi somanassena pāṇātipātā paṭivirato hoti, pāṇātipātā veramaṇīpaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:17.3",
+      "pali": "sahāpi sukhena sahāpi somanassena adinnādānā paṭivirato hoti, adinnādānā veramaṇīpaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:17.4",
+      "pali": "sahāpi sukhena sahāpi somanassena kāmesumicchācārā paṭivirato hoti, kāmesumicchācārā veramaṇīpaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:17.5",
+      "pali": "sahāpi sukhena sahāpi somanassena musāvādā paṭivirato hoti, musāvādā veramaṇīpaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:17.6",
+      "pali": "sahāpi sukhena sahāpi somanassena pisuṇāya vācāya paṭivirato hoti, pisuṇāya vācāya veramaṇīpaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:17.7",
+      "pali": "sahāpi sukhena sahāpi somanassena pharusāya vācāya paṭivirato hoti, pharusāya vācāya veramaṇīpaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:17.8",
+      "pali": "sahāpi sukhena sahāpi somanassena samphappalāpā paṭivirato hoti, samphappalāpā veramaṇīpaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:17.9",
+      "pali": "sahāpi sukhena sahāpi somanassena anabhijjhālu hoti, anabhijjhāpaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:17.10",
+      "pali": "sahāpi sukhena sahāpi somanassena abyāpannacitto hoti, abyāpādapaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti;"
+    },
+    {
+      "id": "mn46:17.11",
+      "pali": "sahāpi sukhena sahāpi somanassena sammādiṭṭhi hoti, sammādiṭṭhipaccayā ca sukhaṁ somanassaṁ paṭisaṁvedeti."
+    },
+    {
+      "id": "mn46:17.12",
+      "pali": "So kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati."
+    },
+    {
+      "id": "mn46:17.13",
+      "pali": "Idaṁ, vuccati, bhikkhave, dhammasamādānaṁ paccuppannasukhañceva āyatiñca sukhavipākaṁ."
+    },
+    {
+      "id": "mn46:17.14",
+      "pali": "Imāni kho, bhikkhave, cattāri dhammasamādānāni."
+    },
+    {
+      "id": "mn46:18.1",
+      "pali": "Seyyathāpi, bhikkhave, tittakālābu visena saṁsaṭṭho."
+    },
+    {
+      "id": "mn46:18.2",
+      "pali": "Atha puriso āgaccheyya jīvitukāmo amaritukāmo sukhakāmo dukkhappaṭikūlo."
+    },
+    {
+      "id": "mn46:18.3",
+      "pali": "Tamenaṁ evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "mn46:18.4",
+      "pali": "‘ambho purisa, ayaṁ tittakālābu visena saṁsaṭṭho,"
+    },
+    {
+      "id": "mn46:18.5",
+      "pali": "sace ākaṅkhasi piva."
+    },
+    {
+      "id": "mn46:18.6",
+      "pali": "Tassa te pivato ceva nacchādessati vaṇṇenapi gandhenapi rasenapi, pivitvā ca pana maraṇaṁ vā nigacchasi maraṇamattaṁ vā dukkhan’ti."
+    },
+    {
+      "id": "mn46:18.7",
+      "pali": "So taṁ appaṭisaṅkhāya piveyya, nappaṭinissajjeyya."
+    },
+    {
+      "id": "mn46:18.8",
+      "pali": "Tassa taṁ pivato ceva nacchādeyya vaṇṇenapi gandhenapi rasenapi, pivitvā ca pana maraṇaṁ vā nigaccheyya maraṇamattaṁ vā dukkhaṁ."
+    },
+    {
+      "id": "mn46:18.9",
+      "pali": "Tathūpamāhaṁ, bhikkhave, imaṁ dhammasamādānaṁ vadāmi, yamidaṁ dhammasamādānaṁ paccuppannadukkhañceva āyatiñca dukkhavipākaṁ."
+    },
+    {
+      "id": "mn46:19.1",
+      "pali": "Seyyathāpi, bhikkhave, āpānīyakaṁso vaṇṇasampanno gandhasampanno rasasampanno."
+    },
+    {
+      "id": "mn46:19.2",
+      "pali": "So ca kho visena saṁsaṭṭho."
+    },
+    {
+      "id": "mn46:19.3",
+      "pali": "Atha puriso āgaccheyya jīvitukāmo amaritukāmo sukhakāmo dukkhappaṭikūlo."
+    },
+    {
+      "id": "mn46:19.4",
+      "pali": "Tamenaṁ evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "mn46:19.5",
+      "pali": "‘ambho purisa, ayaṁ āpānīyakaṁso vaṇṇasampanno gandhasampanno rasasampanno."
+    },
+    {
+      "id": "mn46:19.6",
+      "pali": "So ca kho visena saṁsaṭṭho,"
+    },
+    {
+      "id": "mn46:19.7",
+      "pali": "sace ākaṅkhasi piva."
+    },
+    {
+      "id": "mn46:19.8",
+      "pali": "Tassa te pivatohi kho chādessati vaṇṇenapi gandhenapi rasenapi, pivitvā ca pana maraṇaṁ vā nigacchasi maraṇamattaṁ vā dukkhan’ti."
+    },
+    {
+      "id": "mn46:19.9",
+      "pali": "So taṁ appaṭisaṅkhāya piveyya, nappaṭinissajjeyya."
+    },
+    {
+      "id": "mn46:19.10",
+      "pali": "Tassa taṁ pivatohi kho chādeyya vaṇṇenapi gandhenapi rasenapi, pivitvā ca pana maraṇaṁ vā nigaccheyya maraṇamattaṁ vā dukkhaṁ."
+    },
+    {
+      "id": "mn46:19.11",
+      "pali": "Tathūpamāhaṁ, bhikkhave, imaṁ dhammasamādānaṁ vadāmi, yamidaṁ dhammasamādānaṁ paccuppannasukhaṁ āyatiṁ dukkhavipākaṁ."
+    },
+    {
+      "id": "mn46:20.1",
+      "pali": "Seyyathāpi, bhikkhave, pūtimuttaṁ nānābhesajjehi saṁsaṭṭhaṁ."
+    },
+    {
+      "id": "mn46:20.2",
+      "pali": "Atha puriso āgaccheyya paṇḍukarogī."
+    },
+    {
+      "id": "mn46:20.3",
+      "pali": "Tamenaṁ evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "mn46:20.4",
+      "pali": "‘ambho purisa, idaṁ pūtimuttaṁ nānābhesajjehi saṁsaṭṭhaṁ, sace ākaṅkhasi piva."
+    },
+    {
+      "id": "mn46:20.5",
+      "pali": "Tassa te pivatohi kho nacchādessati vaṇṇenapi gandhenapi rasenapi, pivitvā ca pana sukhī bhavissasī’ti."
+    },
+    {
+      "id": "mn46:20.6",
+      "pali": "So taṁ paṭisaṅkhāya piveyya, nappaṭinissajjeyya."
+    },
+    {
+      "id": "mn46:20.7",
+      "pali": "Tassa taṁ pivatohi kho nacchādeyya vaṇṇenapi gandhenapi rasenapi, pivitvā ca pana sukhī assa."
+    },
+    {
+      "id": "mn46:20.8",
+      "pali": "Tathūpamāhaṁ, bhikkhave, imaṁ dhammasamādānaṁ vadāmi, yamidaṁ dhammasamādānaṁ paccuppannadukkhaṁ āyatiṁ sukhavipākaṁ."
+    },
+    {
+      "id": "mn46:21.1",
+      "pali": "Seyyathāpi, bhikkhave, dadhi ca madhu ca sappi ca phāṇitañca ekajjhaṁ saṁsaṭṭhaṁ."
+    },
+    {
+      "id": "mn46:21.2",
+      "pali": "Atha puriso āgaccheyya lohitapakkhandiko."
+    },
+    {
+      "id": "mn46:21.3",
+      "pali": "Tamenaṁ evaṁ vadeyyuṁ:"
+    },
+    {
+      "id": "mn46:21.4",
+      "pali": "‘ambho purisa, idaṁ dadhi ca madhu ca sappi ca phāṇitañca ekajjhaṁ saṁsaṭṭhaṁ, sace ākaṅkhasi piva."
+    },
+    {
+      "id": "mn46:21.5",
+      "pali": "Tassa te pivato ceva chādessati vaṇṇenapi gandhenapi rasenapi, pivitvā ca pana sukhī bhavissasī’ti."
+    },
+    {
+      "id": "mn46:21.6",
+      "pali": "So taṁ paṭisaṅkhāya piveyya, nappaṭinissajjeyya."
+    },
+    {
+      "id": "mn46:21.7",
+      "pali": "Tassa taṁ pivato ceva chādeyya vaṇṇenapi gandhenapi rasenapi, pivitvā ca pana sukhī assa."
+    },
+    {
+      "id": "mn46:21.8",
+      "pali": "Tathūpamāhaṁ, bhikkhave, imaṁ dhammasamādānaṁ vadāmi, yamidaṁ dhammasamādānaṁ paccuppannasukhañceva āyatiñca sukhavipākaṁ."
+    },
+    {
+      "id": "mn46:22.1",
+      "pali": "Seyyathāpi, bhikkhave, vassānaṁ pacchime māse saradasamaye viddhe vigatavalāhake deve ādicco nabhaṁ abbhussakkamāno sabbaṁ ākāsagataṁ tamagataṁ abhivihacca bhāsate ca tapate ca virocate ca;"
+    },
+    {
+      "id": "mn46:22.2",
+      "pali": "evameva kho, bhikkhave, yamidaṁ dhammasamādānaṁ paccuppannasukhañceva āyatiñca sukhavipākaṁ tadaññe puthusamaṇabrāhmaṇaparappavāde abhivihacca bhāsate ca tapate ca virocate cā”ti."
+    },
+    {
+      "id": "mn46:22.3",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn46:22.4",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn46:22.5",
+      "pali": "Mahādhammasamādānasuttaṁ niṭṭhitaṁ chaṭṭhaṁ."
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "uid": "mn68",
+  "title": "Naḷakapānasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn68:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn68:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā kosalesu viharati naḷakapāne palāsavane."
+    },
+    {
+      "id": "mn68:2.1",
+      "pali": "Tena kho pana samayena sambahulā abhiññātā abhiññātā kulaputtā bhagavantaṁ uddissa saddhā agārasmā anagāriyaṁ pabbajitā honti—"
+    },
+    {
+      "id": "mn68:2.2",
+      "pali": "āyasmā ca anuruddho, āyasmā ca bhaddiyo, āyasmā ca kimilo, āyasmā ca bhagu, āyasmā ca koṇḍañño, āyasmā ca revato, āyasmā ca ānando, aññe ca abhiññātā abhiññātā kulaputtā."
+    },
+    {
+      "id": "mn68:3.1",
+      "pali": "Tena kho pana samayena bhagavā bhikkhusaṅghaparivuto abbhokāse nisinno hoti."
+    },
+    {
+      "id": "mn68:3.2",
+      "pali": "Atha kho bhagavā te kulaputte ārabbha bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn68:3.3",
+      "pali": "“ye te, bhikkhave, kulaputtā mamaṁ uddissa saddhā agārasmā anagāriyaṁ pabbajitā, kacci te, bhikkhave, bhikkhū abhiratā brahmacariye”ti?"
+    },
+    {
+      "id": "mn68:3.4",
+      "pali": "Evaṁ vutte, te bhikkhū tuṇhī ahesuṁ."
+    },
+    {
+      "id": "mn68:3.5",
+      "pali": "Dutiyampi kho bhagavā te kulaputte ārabbha bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn68:3.6",
+      "pali": "“ye te, bhikkhave, kulaputtā mamaṁ uddissa saddhā agārasmā anagāriyaṁ pabbajitā, kacci te, bhikkhave, bhikkhū abhiratā brahmacariye”ti?"
+    },
+    {
+      "id": "mn68:3.7",
+      "pali": "Dutiyampi kho te bhikkhū tuṇhī ahesuṁ."
+    },
+    {
+      "id": "mn68:3.8",
+      "pali": "Tatiyampi kho bhagavā te kulaputte ārabbha bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn68:3.9",
+      "pali": "“ye te, bhikkhave, kulaputtā mamaṁ uddissa saddhā agārasmā anagāriyaṁ pabbajitā, kacci te, bhikkhave, bhikkhū abhiratā brahmacariye”ti?"
+    },
+    {
+      "id": "mn68:3.10",
+      "pali": "Tatiyampi kho te bhikkhū tuṇhī ahesuṁ."
+    },
+    {
+      "id": "mn68:4.1",
+      "pali": "Atha kho bhagavato etadahosi:"
+    },
+    {
+      "id": "mn68:4.2",
+      "pali": "“yannūnāhaṁ te kulaputte puccheyyan”ti."
+    },
+    {
+      "id": "mn68:4.3",
+      "pali": "Atha kho bhagavā āyasmantaṁ anuruddhaṁ āmantesi:"
+    },
+    {
+      "id": "mn68:4.4",
+      "pali": "“kacci tumhe, anuruddhā, abhiratā brahmacariye”ti?"
+    },
+    {
+      "id": "mn68:4.5",
+      "pali": "“Taggha mayaṁ, bhante, abhiratā brahmacariye”ti."
+    },
+    {
+      "id": "mn68:5.1",
+      "pali": "“Sādhu sādhu, anuruddhā."
+    },
+    {
+      "id": "mn68:5.2",
+      "pali": "Etaṁ kho, anuruddhā, tumhākaṁ patirūpaṁ kulaputtānaṁ saddhā agārasmā anagāriyaṁ pabbajitānaṁ yaṁ tumhe abhirameyyātha brahmacariye."
+    },
+    {
+      "id": "mn68:5.3",
+      "pali": "Yena tumhe, anuruddhā, bhadrena yobbanena samannāgatā paṭhamena vayasā susukāḷakesā kāme paribhuñjeyyātha tena tumhe, anuruddhā, bhadrenapi yobbanena samannāgatā paṭhamena vayasā susukāḷakesā agārasmā anagāriyaṁ pabbajitā."
+    },
+    {
+      "id": "mn68:5.4",
+      "pali": "Te ca kho pana tumhe, anuruddhā, neva rājābhinītā agārasmā anagāriyaṁ pabbajitā, na corābhinītā agārasmā anagāriyaṁ pabbajitā, na iṇaṭṭā agārasmā anagāriyaṁ pabbajitā, na bhayaṭṭā agārasmā anagāriyaṁ pabbajitā, nājīvikāpakatā agārasmā anagāriyaṁ pabbajitā."
+    },
+    {
+      "id": "mn68:5.5",
+      "pali": "Api ca khomhi otiṇṇo jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto;"
+    },
+    {
+      "id": "mn68:5.6",
+      "pali": "appeva nāma imassa kevalassa dukkhakkhandhassa antakiriyā paññāyethāti—"
+    },
+    {
+      "id": "mn68:5.7",
+      "pali": "nanu tumhe, anuruddhā, evaṁ saddhā agārasmā anagāriyaṁ pabbajitā”ti?"
+    },
+    {
+      "id": "mn68:5.8",
+      "pali": "“Evaṁ, bhante”."
+    },
+    {
+      "id": "mn68:6.1",
+      "pali": "“Evaṁ pabbajitena ca pana, anuruddhā, kulaputtena kimassa karaṇīyaṁ?"
+    },
+    {
+      "id": "mn68:6.2",
+      "pali": "Vivekaṁ, anuruddhā, kāmehi vivekaṁ akusalehi dhammehi pītisukhaṁ nādhigacchati aññaṁ vā tato santataraṁ, tassa abhijjhāpi cittaṁ pariyādāya tiṭṭhati, byāpādopi cittaṁ pariyādāya tiṭṭhati, thinamiddhampi cittaṁ pariyādāya tiṭṭhati uddhaccakukkuccampi cittaṁ pariyādāya tiṭṭhati, vicikicchāpi cittaṁ pariyādāya tiṭṭhati, aratīpi cittaṁ pariyādāya tiṭṭhati, tandīpi cittaṁ pariyādāya tiṭṭhati."
+    },
+    {
+      "id": "mn68:6.3",
+      "pali": "Vivekaṁ, anuruddhā, kāmehi vivekaṁ akusalehi dhammehi pītisukhaṁ nādhigacchati aññaṁ vā tato santataraṁ."
+    },
+    {
+      "id": "mn68:6.4",
+      "pali": "Vivekaṁ, anuruddhā, kāmehi vivekaṁ akusalehi dhammehi pītisukhaṁ adhigacchati aññaṁ vā tato santataraṁ, tassa abhijjhāpi cittaṁ na pariyādāya tiṭṭhati, byāpādopi cittaṁ na pariyādāya tiṭṭhati, thinamiddhampi cittaṁ na pariyādāya tiṭṭhati, uddhaccakukkuccampi cittaṁ na pariyādāya tiṭṭhati, vicikicchāpi cittaṁ na pariyādāya tiṭṭhati, aratīpi cittaṁ na pariyādāya tiṭṭhati, tandīpi cittaṁ na pariyādāya tiṭṭhati."
+    },
+    {
+      "id": "mn68:6.5",
+      "pali": "Vivekaṁ, anuruddhā, kāmehi vivekaṁ akusalehi dhammehi pītisukhaṁ adhigacchati aññaṁ vā tato santataraṁ."
+    },
+    {
+      "id": "mn68:7.1",
+      "pali": "Kinti vo, anuruddhā, mayi hoti:"
+    },
+    {
+      "id": "mn68:7.2",
+      "pali": "‘ye āsavā saṅkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṁ jātijarāmaraṇiyā, appahīnā te tathāgatassa;"
+    },
+    {
+      "id": "mn68:7.3",
+      "pali": "tasmā tathāgato saṅkhāyekaṁ paṭisevati, saṅkhāyekaṁ adhivāseti, saṅkhāyekaṁ parivajjeti, saṅkhāyekaṁ vinodetī’”ti?"
+    },
+    {
+      "id": "mn68:7.4",
+      "pali": "“Na kho no, bhante, bhagavati evaṁ hoti:"
+    },
+    {
+      "id": "mn68:7.5",
+      "pali": "‘ye āsavā saṅkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṁ jātijarāmaraṇiyā, appahīnā te tathāgatassa;"
+    },
+    {
+      "id": "mn68:7.6",
+      "pali": "tasmā tathāgato saṅkhāyekaṁ paṭisevati, saṅkhāyekaṁ adhivāseti, saṅkhāyekaṁ parivajjeti, saṅkhāyekaṁ vinodetī’ti."
+    },
+    {
+      "id": "mn68:7.7",
+      "pali": "Evaṁ kho no, bhante, bhagavati hoti:"
+    },
+    {
+      "id": "mn68:7.8",
+      "pali": "‘ye āsavā saṅkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṁ jātijarāmaraṇiyā, pahīnā te tathāgatassa;"
+    },
+    {
+      "id": "mn68:7.9",
+      "pali": "tasmā tathāgato saṅkhāyekaṁ paṭisevati, saṅkhāyekaṁ adhivāseti, saṅkhāyekaṁ parivajjeti, saṅkhāyekaṁ vinodetī’”ti."
+    },
+    {
+      "id": "mn68:7.10",
+      "pali": "“Sādhu sādhu, anuruddhā."
+    },
+    {
+      "id": "mn68:7.11",
+      "pali": "Tathāgatassa, anuruddhā, ye āsavā saṅkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṁ jātijarāmaraṇiyā, pahīnā te ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "mn68:7.12",
+      "pali": "Seyyathāpi, anuruddhā, tālo matthakacchinno abhabbo punavirūḷhiyā;"
+    },
+    {
+      "id": "mn68:7.13",
+      "pali": "evameva kho, anuruddhā, tathāgatassa ye āsavā saṅkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṁ jātijarāmaraṇiyā, pahīnā te ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā;"
+    },
+    {
+      "id": "mn68:7.14",
+      "pali": "tasmā tathāgato saṅkhāyekaṁ paṭisevati, saṅkhāyekaṁ adhivāseti, saṅkhāyekaṁ parivajjeti, saṅkhāyekaṁ vinodeti."
+    },
+    {
+      "id": "mn68:8.1",
+      "pali": "Taṁ kiṁ maññasi, anuruddhā,"
+    },
+    {
+      "id": "mn68:8.2",
+      "pali": "kaṁ atthavasaṁ sampassamāno tathāgato sāvake abbhatīte kālaṅkate upapattīsu byākaroti:"
+    },
+    {
+      "id": "mn68:8.3",
+      "pali": "‘asu amutra upapanno; asu amutra upapanno’”ti?"
+    },
+    {
+      "id": "mn68:8.4",
+      "pali": "“Bhagavaṁmūlakā no, bhante, dhammā bhagavaṁnettikā bhagavaṁpaṭisaraṇā. Sādhu vata, bhante, bhagavantaṁyeva paṭibhātu etassa bhāsitassa attho. Bhagavato sutvā bhikkhū dhāressantī”ti."
+    },
+    {
+      "id": "mn68:9.1",
+      "pali": "“Na kho, anuruddhā, tathāgato janakuhanatthaṁ na janalapanatthaṁ na lābhasakkārasilokānisaṁsatthaṁ na ‘iti maṁ jano jānātū’ti sāvake abbhatīte kālaṅkate upapattīsu byākaroti:"
+    },
+    {
+      "id": "mn68:9.2",
+      "pali": "‘asu amutra upapanno, asu amutra upapanno’ti."
+    },
+    {
+      "id": "mn68:9.3",
+      "pali": "Santi ca kho, anuruddhā, kulaputtā saddhā uḷāravedā uḷārapāmojjā."
+    },
+    {
+      "id": "mn68:9.4",
+      "pali": "Te taṁ sutvā tadatthāya cittaṁ upasaṁharanti."
+    },
+    {
+      "id": "mn68:9.5",
+      "pali": "Tesaṁ taṁ, anuruddhā, hoti dīgharattaṁ hitāya sukhāya."
+    },
+    {
+      "id": "mn68:10.1",
+      "pali": "Idhānuruddhā, bhikkhu suṇāti:"
+    },
+    {
+      "id": "mn68:10.2",
+      "pali": "‘itthannāmo bhikkhu kālaṅkato;"
+    },
+    {
+      "id": "mn68:10.3",
+      "pali": "so bhagavatā byākato—"
+    },
+    {
+      "id": "mn68:10.4",
+      "pali": "aññāya saṇṭhahī’ti."
+    },
+    {
+      "id": "mn68:10.5",
+      "pali": "So kho panassa āyasmā sāmaṁ diṭṭho vā hoti anussavassuto vā:"
+    },
+    {
+      "id": "mn68:10.6",
+      "pali": "‘evaṁsīlo so āyasmā ahosi itipi, evaṁdhammo so āyasmā ahosi itipi, evaṁpañño so āyasmā ahosi itipi, evaṁvihārī so āyasmā ahosi itipi, evaṁvimutto so āyasmā ahosi itipī’ti."
+    },
+    {
+      "id": "mn68:10.7",
+      "pali": "So tassa saddhañca sīlañca sutañca cāgañca paññañca anussaranto tadatthāya cittaṁ upasaṁharati."
+    },
+    {
+      "id": "mn68:10.8",
+      "pali": "Evampi kho, anuruddhā, bhikkhuno phāsuvihāro hoti."
+    },
+    {
+      "id": "mn68:11.1",
+      "pali": "Idhānuruddhā, bhikkhu suṇāti:"
+    },
+    {
+      "id": "mn68:11.2",
+      "pali": "‘itthannāmo bhikkhu kālaṅkato;"
+    },
+    {
+      "id": "mn68:11.3",
+      "pali": "so bhagavatā byākato—"
+    },
+    {
+      "id": "mn68:11.4",
+      "pali": "pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātiko tattha parinibbāyī anāvattidhammo tasmā lokā’ti."
+    },
+    {
+      "id": "mn68:11.5",
+      "pali": "So kho panassa āyasmā sāmaṁ diṭṭho vā hoti anussavassuto vā:"
+    },
+    {
+      "id": "mn68:11.6",
+      "pali": "‘evaṁsīlo so āyasmā ahosi itipi, evaṁdhammo …pe… evaṁpañño … evaṁvihārī … evaṁvimutto so āyasmā ahosi itipī’ti."
+    },
+    {
+      "id": "mn68:11.7",
+      "pali": "So tassa saddhañca sīlañca sutañca cāgañca paññañca anussaranto tadatthāya cittaṁ upasaṁharati."
+    },
+    {
+      "id": "mn68:11.8",
+      "pali": "Evampi kho, anuruddhā, bhikkhuno phāsuvihāro hoti."
+    },
+    {
+      "id": "mn68:12.1",
+      "pali": "Idhānuruddhā, bhikkhu suṇāti:"
+    },
+    {
+      "id": "mn68:12.2",
+      "pali": "‘itthannāmo bhikkhu kālaṅkato;"
+    },
+    {
+      "id": "mn68:12.3",
+      "pali": "so bhagavatā byākato—"
+    },
+    {
+      "id": "mn68:12.4",
+      "pali": "tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāmī sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karissatī’ti."
+    },
+    {
+      "id": "mn68:12.5",
+      "pali": "So kho panassa āyasmā sāmaṁ diṭṭho vā hoti anussavassuto vā:"
+    },
+    {
+      "id": "mn68:12.6",
+      "pali": "‘evaṁsīlo so āyasmā ahosi itipi, evaṁdhammo …pe… evaṁpañño … evaṁvihārī … evaṁvimutto so āyasmā ahosi itipī’ti."
+    },
+    {
+      "id": "mn68:12.7",
+      "pali": "So tassa saddhañca sīlañca sutañca cāgañca paññañca anussaranto tadatthāya cittaṁ upasaṁharati."
+    },
+    {
+      "id": "mn68:12.8",
+      "pali": "Evampi kho, anuruddhā, bhikkhuno phāsuvihāro hoti."
+    },
+    {
+      "id": "mn68:13.1",
+      "pali": "Idhānuruddhā, bhikkhu suṇāti:"
+    },
+    {
+      "id": "mn68:13.2",
+      "pali": "‘itthannāmo bhikkhu kālaṅkato;"
+    },
+    {
+      "id": "mn68:13.3",
+      "pali": "so bhagavatā byākato—"
+    },
+    {
+      "id": "mn68:13.4",
+      "pali": "tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpanno avinipātadhammo niyato sambodhiparāyaṇo’ti."
+    },
+    {
+      "id": "mn68:13.5",
+      "pali": "So kho panassa āyasmā sāmaṁ diṭṭho vā hoti anussavassuto vā:"
+    },
+    {
+      "id": "mn68:13.6",
+      "pali": "‘evaṁsīlo so āyasmā ahosi itipi, evaṁdhammo …pe… evaṁpañño … evaṁvihārī … evaṁvimutto so āyasmā ahosi itipī’ti."
+    },
+    {
+      "id": "mn68:13.7",
+      "pali": "So tassa saddhañca sīlañca sutañca cāgañca paññañca anussaranto tadatthāya cittaṁ upasaṁharati."
+    },
+    {
+      "id": "mn68:13.8",
+      "pali": "Evampi kho, anuruddhā, bhikkhuno phāsuvihāro hoti."
+    },
+    {
+      "id": "mn68:14.1",
+      "pali": "Idhānuruddhā, bhikkhunī suṇāti:"
+    },
+    {
+      "id": "mn68:14.2",
+      "pali": "‘itthannāmā bhikkhunī kālaṅkatā;"
+    },
+    {
+      "id": "mn68:14.3",
+      "pali": "sā bhagavatā byākatā—"
+    },
+    {
+      "id": "mn68:14.4",
+      "pali": "aññāya saṇṭhahī’ti."
+    },
+    {
+      "id": "mn68:14.5",
+      "pali": "Sā kho panassā bhaginī sāmaṁ diṭṭhā vā hoti anussavassutā vā:"
+    },
+    {
+      "id": "mn68:14.6",
+      "pali": "‘evaṁsīlā sā bhaginī ahosi itipi, evaṁdhammā sā bhaginī ahosi itipi, evaṁpaññā sā bhaginī ahosi itipi, evaṁvihārinī sā bhaginī ahosi itipi, evaṁvimuttā sā bhaginī ahosi itipī’ti."
+    },
+    {
+      "id": "mn68:14.7",
+      "pali": "Sā tassā saddhañca sīlañca sutañca cāgañca paññañca anussarantī tadatthāya cittaṁ upasaṁharati."
+    },
+    {
+      "id": "mn68:14.8",
+      "pali": "Evampi kho, anuruddhā, bhikkhuniyā phāsuvihāro hoti."
+    },
+    {
+      "id": "mn68:15.1",
+      "pali": "Idhānuruddhā, bhikkhunī suṇāti:"
+    },
+    {
+      "id": "mn68:15.2",
+      "pali": "‘itthannāmā bhikkhunī kālaṅkatā;"
+    },
+    {
+      "id": "mn68:15.3",
+      "pali": "sā bhagavatā byākatā—"
+    },
+    {
+      "id": "mn68:15.4",
+      "pali": "pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātikā tattha parinibbāyinī anāvattidhammā tasmā lokā’ti."
+    },
+    {
+      "id": "mn68:15.5",
+      "pali": "Sā kho panassā bhaginī sāmaṁ diṭṭhā vā hoti anussavassutā vā:"
+    },
+    {
+      "id": "mn68:15.6",
+      "pali": "‘evaṁsīlā sā bhaginī ahosi itipi, evaṁdhammā …pe… evaṁpaññā … evaṁvihārinī … evaṁvimuttā sā bhaginī ahosi itipī’ti."
+    },
+    {
+      "id": "mn68:15.7",
+      "pali": "Sā tassā saddhañca sīlañca sutañca cāgañca paññañca anussarantī tadatthāya cittaṁ upasaṁharati."
+    },
+    {
+      "id": "mn68:15.8",
+      "pali": "Evampi kho, anuruddhā, bhikkhuniyā phāsuvihāro hoti."
+    },
+    {
+      "id": "mn68:16.1",
+      "pali": "Idhānuruddhā, bhikkhunī suṇāti:"
+    },
+    {
+      "id": "mn68:16.2",
+      "pali": "‘itthannāmā bhikkhunī kālaṅkatā;"
+    },
+    {
+      "id": "mn68:16.3",
+      "pali": "sā bhagavatā byākatā—"
+    },
+    {
+      "id": "mn68:16.4",
+      "pali": "tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāminī sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karissatī’ti."
+    },
+    {
+      "id": "mn68:16.5",
+      "pali": "Sā kho panassā bhaginī sāmaṁ diṭṭhā vā hoti anussavassutā vā:"
+    },
+    {
+      "id": "mn68:16.6",
+      "pali": "‘evaṁsīlā sā bhaginī ahosi itipi, evaṁdhammā …pe… evaṁpaññā … evaṁvihārinī … evaṁvimuttā sā bhaginī ahosi itipī’ti."
+    },
+    {
+      "id": "mn68:16.7",
+      "pali": "Sā tassā saddhañca sīlañca sutañca cāgañca paññañca anussarantī tadatthāya cittaṁ upasaṁharati."
+    },
+    {
+      "id": "mn68:16.8",
+      "pali": "Evampi kho, anuruddhā, bhikkhuniyā phāsuvihāro hoti."
+    },
+    {
+      "id": "mn68:17.1",
+      "pali": "Idhānuruddhā, bhikkhunī suṇāti:"
+    },
+    {
+      "id": "mn68:17.2",
+      "pali": "‘itthannāmā bhikkhunī kālaṅkatā;"
+    },
+    {
+      "id": "mn68:17.3",
+      "pali": "sā bhagavatā byākatā—"
+    },
+    {
+      "id": "mn68:17.4",
+      "pali": "tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā’ti."
+    },
+    {
+      "id": "mn68:17.5",
+      "pali": "Sā kho panassā bhaginī sāmaṁ diṭṭhā vā hoti anussavassutā vā:"
+    },
+    {
+      "id": "mn68:17.6",
+      "pali": "‘evaṁsīlā sā bhaginī ahosi itipi, evaṁdhammā … evaṁpaññā … evaṁvihārinī … evaṁvimuttā sā bhaginī ahosi itipī’ti."
+    },
+    {
+      "id": "mn68:17.7",
+      "pali": "Sā tassā saddhañca sīlañca sutañca cāgañca paññañca anussarantī tadatthāya cittaṁ upasaṁharati."
+    },
+    {
+      "id": "mn68:17.8",
+      "pali": "Evampi kho, anuruddhā, bhikkhuniyā phāsuvihāro hoti."
+    },
+    {
+      "id": "mn68:18.1",
+      "pali": "Idhānuruddhā, upāsako suṇāti:"
+    },
+    {
+      "id": "mn68:18.2",
+      "pali": "‘itthannāmo upāsako kālaṅkato;"
+    },
+    {
+      "id": "mn68:18.3",
+      "pali": "so bhagavatā byākato—"
+    },
+    {
+      "id": "mn68:18.4",
+      "pali": "pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātiko tattha parinibbāyī anāvattidhammo tasmā lokā’ti."
+    },
+    {
+      "id": "mn68:18.5",
+      "pali": "So kho panassa āyasmā sāmaṁ diṭṭho vā hoti anussavassuto vā:"
+    },
+    {
+      "id": "mn68:18.6",
+      "pali": "‘evaṁsīlo so āyasmā ahosi itipi, evaṁdhammo so āyasmā ahosi itipi, evaṁpañño so āyasmā ahosi itipi, evaṁvihārī so āyasmā ahosi itipi, evaṁvimutto so āyasmā ahosi itipī’ti."
+    },
+    {
+      "id": "mn68:18.7",
+      "pali": "So tassa saddhañca sutañca cāgañca paññañca anussaranto tadatthāya cittaṁ upasaṁharati."
+    },
+    {
+      "id": "mn68:18.8",
+      "pali": "Evampi kho, anuruddhā, upāsakassa phāsuvihāro hoti."
+    },
+    {
+      "id": "mn68:19.1",
+      "pali": "Idhānuruddhā, upāsako suṇāti:"
+    },
+    {
+      "id": "mn68:19.2",
+      "pali": "‘itthannāmo upāsako kālaṅkato;"
+    },
+    {
+      "id": "mn68:19.3",
+      "pali": "so bhagavatā byākato—"
+    },
+    {
+      "id": "mn68:19.4",
+      "pali": "tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāmī sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karissatī’ti."
+    },
+    {
+      "id": "mn68:19.5",
+      "pali": "So kho panassa āyasmā sāmaṁ diṭṭho vā hoti anussavassuto vā:"
+    },
+    {
+      "id": "mn68:19.6",
+      "pali": "‘evaṁsīlo so āyasmā ahosi itipi, evaṁdhammo … evaṁpañño … evaṁvihārī … evaṁvimutto so āyasmā ahosi itipī’ti."
+    },
+    {
+      "id": "mn68:19.7",
+      "pali": "So tassa saddhañca sīlañca sutañca cāgañca paññañca anussaranto tadatthāya cittaṁ upasaṁharati."
+    },
+    {
+      "id": "mn68:19.8",
+      "pali": "Evampi kho, anuruddhā, upāsakassa phāsuvihāro hoti."
+    },
+    {
+      "id": "mn68:20.1",
+      "pali": "Idhānuruddhā, upāsako suṇāti:"
+    },
+    {
+      "id": "mn68:20.2",
+      "pali": "‘itthannāmo upāsako kālaṅkato;"
+    },
+    {
+      "id": "mn68:20.3",
+      "pali": "so bhagavatā byākato—"
+    },
+    {
+      "id": "mn68:20.4",
+      "pali": "tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpanno avinipātadhammo niyato sambodhiparāyaṇo’ti."
+    },
+    {
+      "id": "mn68:20.5",
+      "pali": "So kho panassa āyasmā sāmaṁ diṭṭho vā hoti anussavassuto vā:"
+    },
+    {
+      "id": "mn68:20.6",
+      "pali": "‘evaṁsīlo so āyasmā ahosi itipi, evaṁdhammo … evaṁpañño … evaṁvihārī … evaṁvimutto so āyasmā ahosi itipī’ti."
+    },
+    {
+      "id": "mn68:20.7",
+      "pali": "So tassa saddhañca sīlañca sutañca cāgañca paññañca anussaranto tadatthāya cittaṁ upasaṁharati."
+    },
+    {
+      "id": "mn68:20.8",
+      "pali": "Evampi kho, anuruddhā upāsakassa phāsuvihāro hoti."
+    },
+    {
+      "id": "mn68:21.1",
+      "pali": "Idhānuruddhā, upāsikā suṇāti:"
+    },
+    {
+      "id": "mn68:21.2",
+      "pali": "‘itthannāmā upāsikā kālaṅkatā;"
+    },
+    {
+      "id": "mn68:21.3",
+      "pali": "sā bhagavatā byākatā—"
+    },
+    {
+      "id": "mn68:21.4",
+      "pali": "pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātikā tattha parinibbāyinī anāvattidhammā tasmā lokā’ti."
+    },
+    {
+      "id": "mn68:21.5",
+      "pali": "Sā kho panassā bhaginī sāmaṁ diṭṭhā vā hoti anussavassutā vā:"
+    },
+    {
+      "id": "mn68:21.6",
+      "pali": "‘evaṁsīlā sā bhaginī ahosi itipi, evaṁdhammā … evaṁpaññā … evaṁvihārinī … evaṁvimuttā sā bhaginī ahosi itipī’ti."
+    },
+    {
+      "id": "mn68:21.7",
+      "pali": "Sā tassā saddhañca sīlañca sutañca cāgañca paññañca anussarantī tadatthāya cittaṁ upasaṁharati."
+    },
+    {
+      "id": "mn68:21.8",
+      "pali": "Evampi kho, anuruddhā, upāsikāya phāsuvihāro hoti."
+    },
+    {
+      "id": "mn68:22.1",
+      "pali": "Idhānuruddhā, upāsikā suṇāti:"
+    },
+    {
+      "id": "mn68:22.2",
+      "pali": "‘itthannāmā upāsikā kālaṅkatā;"
+    },
+    {
+      "id": "mn68:22.3",
+      "pali": "sā bhagavatā byākatā—"
+    },
+    {
+      "id": "mn68:22.4",
+      "pali": "tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāminī sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karissatī’ti."
+    },
+    {
+      "id": "mn68:22.5",
+      "pali": "Sā kho panassā bhaginī sāmaṁ diṭṭhā vā hoti anussavassutā vā:"
+    },
+    {
+      "id": "mn68:22.6",
+      "pali": "‘evaṁsīlā sā bhaginī ahosi itipi, evaṁdhammā … evaṁpaññā … evaṁvihārinī … evaṁvimuttā sā bhaginī ahosi itipī’ti."
+    },
+    {
+      "id": "mn68:22.7",
+      "pali": "Sā tassā saddhañca sīlañca sutañca cāgañca paññañca anussarantī tadatthāya cittaṁ upasaṁharati."
+    },
+    {
+      "id": "mn68:22.8",
+      "pali": "Evampi kho, anuruddhā, upāsikāya phāsuvihāro hoti."
+    },
+    {
+      "id": "mn68:23.1",
+      "pali": "Idhānuruddhā, upāsikā suṇāti:"
+    },
+    {
+      "id": "mn68:23.2",
+      "pali": "‘itthannāmā upāsikā kālaṅkatā;"
+    },
+    {
+      "id": "mn68:23.3",
+      "pali": "sā bhagavatā byākatā—"
+    },
+    {
+      "id": "mn68:23.4",
+      "pali": "tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā’ti."
+    },
+    {
+      "id": "mn68:23.5",
+      "pali": "Sā kho panassā bhaginī sāmaṁ diṭṭhā vā hoti anussavassutā vā:"
+    },
+    {
+      "id": "mn68:23.6",
+      "pali": "‘evaṁsīlā sā bhaginī ahosi itipi, evaṁdhammā sā bhaginī ahosi itipi, evaṁpaññā sā bhaginī ahosi itipi, evaṁvihārinī sā bhaginī ahosi itipi, evaṁvimuttā sā bhaginī ahosi itipī’ti."
+    },
+    {
+      "id": "mn68:23.7",
+      "pali": "Sā tassā saddhañca sīlañca sutañca cāgañca paññañca anussarantī tadatthāya cittaṁ upasaṁharati."
+    },
+    {
+      "id": "mn68:23.8",
+      "pali": "Evampi kho, anuruddhā, upāsikāya phāsuvihāro hoti."
+    },
+    {
+      "id": "mn68:24.1",
+      "pali": "Iti kho, anuruddhā, tathāgato na janakuhanatthaṁ na janalapanatthaṁ na lābhasakkārasilokānisaṁsatthaṁ na ‘iti maṁ jano jānātū’ti sāvake abbhatīte kālaṅkate upapattīsu byākaroti:"
+    },
+    {
+      "id": "mn68:24.2",
+      "pali": "‘asu amutra upapanno, asu amutra upapanno’ti."
+    },
+    {
+      "id": "mn68:24.3",
+      "pali": "Santi ca kho, anuruddhā, kulaputtā saddhā uḷāravedā uḷārapāmojjā."
+    },
+    {
+      "id": "mn68:24.4",
+      "pali": "Te taṁ sutvā tadatthāya cittaṁ upasaṁharanti."
+    },
+    {
+      "id": "mn68:24.5",
+      "pali": "Tesaṁ taṁ, anuruddhā, hoti dīgharattaṁ hitāya sukhāyā”ti."
+    },
+    {
+      "id": "mn68:24.6",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn68:24.7",
+      "pali": "Attamano āyasmā anuruddho bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn68:24.8",
+      "pali": "Naḷakapānasuttaṁ niṭṭhitaṁ aṭṭhamaṁ."
+    }
+  ]
+}

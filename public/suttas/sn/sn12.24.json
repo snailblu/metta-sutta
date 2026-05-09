@@ -1,0 +1,423 @@
+{
+  "uid": "sn12.24",
+  "title": "Aññatitthiyasutta",
+  "nikaya": "sn",
+  "segments": [
+    {
+      "id": "sn12.24:1.1",
+      "pali": "Rājagahe viharati veḷuvane."
+    },
+    {
+      "id": "sn12.24:1.2",
+      "pali": "Atha kho āyasmā sāriputto pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya rājagahaṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "sn12.24:1.3",
+      "pali": "Atha kho āyasmato sāriputtassa etadahosi:"
+    },
+    {
+      "id": "sn12.24:1.4",
+      "pali": "“atippago kho tāva rājagahe piṇḍāya carituṁ."
+    },
+    {
+      "id": "sn12.24:1.5",
+      "pali": "Yannūnāhaṁ yena aññatitthiyānaṁ paribbājakānaṁ ārāmo tenupasaṅkameyyan”ti."
+    },
+    {
+      "id": "sn12.24:2.1",
+      "pali": "Atha kho āyasmā sāriputto yena aññatitthiyānaṁ paribbājakānaṁ ārāmo tenupasaṅkami; upasaṅkamitvā tehi aññatitthiyehi paribbājakehi saddhiṁ sammodi."
+    },
+    {
+      "id": "sn12.24:2.2",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ sāriputtaṁ te aññatitthiyā paribbājakā etadavocuṁ:"
+    },
+    {
+      "id": "sn12.24:3.1",
+      "pali": "“Santāvuso sāriputta, eke samaṇabrāhmaṇā kammavādā sayaṅkataṁ dukkhaṁ paññapenti."
+    },
+    {
+      "id": "sn12.24:3.2",
+      "pali": "Santi panāvuso sāriputta, eke samaṇabrāhmaṇā kammavādā paraṅkataṁ dukkhaṁ paññapenti."
+    },
+    {
+      "id": "sn12.24:3.3",
+      "pali": "Santāvuso sāriputta, eke samaṇabrāhmaṇā kammavādā sayaṅkatañca paraṅkatañca dukkhaṁ paññapenti."
+    },
+    {
+      "id": "sn12.24:3.4",
+      "pali": "Santi panāvuso sāriputta, eke samaṇabrāhmaṇā kammavādā asayaṅkāraṁ aparaṅkāraṁ adhiccasamuppannaṁ dukkhaṁ paññapenti."
+    },
+    {
+      "id": "sn12.24:3.5",
+      "pali": "Idha, panāvuso sāriputta, samaṇo gotamo kiṁvādī kimakkhāyī?"
+    },
+    {
+      "id": "sn12.24:3.6",
+      "pali": "Kathaṁ byākaramānā ca mayaṁ vuttavādino ceva samaṇassa gotamassa assāma, na ca samaṇaṁ gotamaṁ abhūtena abbhācikkheyyāma, dhammassa cānudhammaṁ byākareyyāma, na ca koci sahadhammiko vādānupāto gārayhaṁ ṭhānaṁ āgaccheyyā”ti?"
+    },
+    {
+      "id": "sn12.24:4.1",
+      "pali": "“Paṭiccasamuppannaṁ kho, āvuso, dukkhaṁ vuttaṁ bhagavatā."
+    },
+    {
+      "id": "sn12.24:4.2",
+      "pali": "Kiṁ paṭicca?"
+    },
+    {
+      "id": "sn12.24:4.3",
+      "pali": "Phassaṁ paṭicca."
+    },
+    {
+      "id": "sn12.24:4.4",
+      "pali": "Iti vadaṁ vuttavādī ceva bhagavato assa, na ca bhagavantaṁ abhūtena abbhācikkheyya, dhammassa cānudhammaṁ byākareyya, na ca koci sahadhammiko vādānupāto gārayhaṁ ṭhānaṁ āgaccheyya."
+    },
+    {
+      "id": "sn12.24:5.1",
+      "pali": "Tatrāvuso, ye te samaṇabrāhmaṇā kammavādā sayaṅkataṁ dukkhaṁ paññapenti tadapi phassapaccayā."
+    },
+    {
+      "id": "sn12.24:5.2",
+      "pali": "Yepi te samaṇabrāhmaṇā kammavādā paraṅkataṁ dukkhaṁ paññapenti tadapi phassapaccayā."
+    },
+    {
+      "id": "sn12.24:5.3",
+      "pali": "Yepi te samaṇabrāhmaṇā kammavādā sayaṅkatañca paraṅkatañca dukkhaṁ paññapenti tadapi phassapaccayā."
+    },
+    {
+      "id": "sn12.24:5.4",
+      "pali": "Yepi te samaṇabrāhmaṇā kammavādā asayaṅkāraṁ aparaṅkāraṁ adhiccasamuppannaṁ dukkhaṁ paññapenti tadapi phassapaccayā."
+    },
+    {
+      "id": "sn12.24:6.1",
+      "pali": "Tatrāvuso, ye te samaṇabrāhmaṇā kammavādā sayaṅkataṁ dukkhaṁ paññapenti, te vata aññatra phassā paṭisaṁvedissantīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "sn12.24:6.2",
+      "pali": "Yepi te samaṇabrāhmaṇā kammavādā paraṅkataṁ dukkhaṁ paññapenti, te vata aññatra phassā paṭisaṁvedissantīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "sn12.24:6.3",
+      "pali": "Yepi te samaṇabrāhmaṇā kammavādā sayaṅkatañca paraṅkatañca dukkhaṁ paññapenti, te vata aññatra phassā paṭisaṁvedissantīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "sn12.24:6.4",
+      "pali": "Yepi te samaṇabrāhmaṇā kammavādā asayaṅkāraṁ aparaṅkāraṁ adhiccasamuppannaṁ dukkhaṁ paññapenti, te vata aññatra phassā paṭisaṁvedissantīti netaṁ ṭhānaṁ vijjatī”ti."
+    },
+    {
+      "id": "sn12.24:7.1",
+      "pali": "Assosi kho āyasmā ānando āyasmato sāriputtassa tehi aññatitthiyehi paribbājakehi saddhiṁ imaṁ kathāsallāpaṁ."
+    },
+    {
+      "id": "sn12.24:7.2",
+      "pali": "Atha kho āyasmā ānando rājagahe piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "sn12.24:7.3",
+      "pali": "Ekamantaṁ nisinno kho āyasmā ānando yāvatako āyasmato sāriputtassa tehi aññatitthiyehi paribbājakehi saddhiṁ ahosi kathāsallāpo taṁ sabbaṁ bhagavato ārocesi."
+    },
+    {
+      "id": "sn12.24:8.1",
+      "pali": "“Sādhu sādhu, ānanda, yathā taṁ sāriputto sammā byākaramāno byākareyya."
+    },
+    {
+      "id": "sn12.24:8.2",
+      "pali": "Paṭiccasamuppannaṁ kho, ānanda, dukkhaṁ vuttaṁ mayā."
+    },
+    {
+      "id": "sn12.24:8.3",
+      "pali": "Kiṁ paṭicca?"
+    },
+    {
+      "id": "sn12.24:8.4",
+      "pali": "Phassaṁ paṭicca."
+    },
+    {
+      "id": "sn12.24:8.5",
+      "pali": "Iti vadaṁ vuttavādī ceva me assa, na ca maṁ abhūtena abbhācikkheyya, dhammassa cānudhammaṁ byākareyya, na ca koci sahadhammiko vādānupāto gārayhaṁ ṭhānaṁ āgaccheyya."
+    },
+    {
+      "id": "sn12.24:9.1",
+      "pali": "Tatrānanda, ye te samaṇabrāhmaṇā kammavādā sayaṅkataṁ dukkhaṁ paññapenti tadapi phassapaccayā."
+    },
+    {
+      "id": "sn12.24:9.2",
+      "pali": "Yepi te …pe…"
+    },
+    {
+      "id": "sn12.24:9.3",
+      "pali": "yepi te …pe…"
+    },
+    {
+      "id": "sn12.24:9.4",
+      "pali": "yepi te samaṇabrāhmaṇā kammavādā asayaṅkāraṁ aparaṅkāraṁ adhiccasamuppannaṁ dukkhaṁ paññapenti tadapi phassapaccayā."
+    },
+    {
+      "id": "sn12.24:10.1",
+      "pali": "Tatrānanda, yepi te samaṇabrāhmaṇā kammavādā sayaṅkataṁ dukkhaṁ paññapenti, te vata aññatra phassā paṭisaṁvedissantīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "sn12.24:10.2",
+      "pali": "Yepi te …pe…"
+    },
+    {
+      "id": "sn12.24:10.3",
+      "pali": "yepi te …pe…"
+    },
+    {
+      "id": "sn12.24:10.4",
+      "pali": "yepi te samaṇabrāhmaṇā kammavādā asayaṅkāraṁ aparaṅkāraṁ adhiccasamuppannaṁ dukkhaṁ paññapenti, te vata aññatra phassā paṭisaṁvedissantīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "sn12.24:11.1",
+      "pali": "Ekamidāhaṁ, ānanda, samayaṁ idheva rājagahe viharāmi veḷuvane kalandakanivāpe."
+    },
+    {
+      "id": "sn12.24:11.2",
+      "pali": "Atha khvāhaṁ, ānanda, pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya rājagahaṁ piṇḍāya pāvisiṁ."
+    },
+    {
+      "id": "sn12.24:11.3",
+      "pali": "Tassa mayhaṁ, ānanda, etadahosi:"
+    },
+    {
+      "id": "sn12.24:11.4",
+      "pali": "‘atippago kho tāva rājagahe piṇḍāya carituṁ."
+    },
+    {
+      "id": "sn12.24:11.5",
+      "pali": "Yannūnāhaṁ yena aññatitthiyānaṁ paribbājakānaṁ ārāmo tenupasaṅkameyyan’ti."
+    },
+    {
+      "id": "sn12.24:12.1",
+      "pali": "Atha khvāhaṁ, ānanda, yena aññatitthiyānaṁ paribbājakānaṁ ārāmo tenupasaṅkamiṁ; upasaṅkamitvā tehi aññatitthiyehi paribbājakehi saddhiṁ sammodiṁ."
+    },
+    {
+      "id": "sn12.24:12.2",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁ. Ekamantaṁ nisinnaṁ kho maṁ, ānanda, te aññatitthiyā paribbājakā etadavocuṁ:"
+    },
+    {
+      "id": "sn12.24:13.1",
+      "pali": "‘Santāvuso gotama, eke samaṇabrāhmaṇā kammavādā sayaṅkataṁ dukkhaṁ paññapenti."
+    },
+    {
+      "id": "sn12.24:13.2",
+      "pali": "Santi panāvuso gotama, eke samaṇabrāhmaṇā kammavādā paraṅkataṁ dukkhaṁ paññapenti."
+    },
+    {
+      "id": "sn12.24:13.3",
+      "pali": "Santāvuso gotama, eke samaṇabrāhmaṇā kammavādā sayaṅkatañca paraṅkatañca dukkhaṁ paññapenti."
+    },
+    {
+      "id": "sn12.24:13.4",
+      "pali": "Santi panāvuso gotama, eke samaṇabrāhmaṇā kammavādā asayaṅkāraṁ aparaṅkāraṁ adhiccasamuppannaṁ dukkhaṁ paññapenti."
+    },
+    {
+      "id": "sn12.24:13.5",
+      "pali": "Idha no āyasmā gotamo kiṁvādī kimakkhāyī?"
+    },
+    {
+      "id": "sn12.24:13.6",
+      "pali": "Kathaṁ byākaramānā ca mayaṁ vuttavādino ceva āyasmato gotamassa assāma, na ca āyasmantaṁ gotamaṁ abhūtena abbhācikkheyyāma, dhammassa cānudhammaṁ byākareyyāma, na ca koci sahadhammiko vādānupāto gārayhaṁ ṭhānaṁ āgaccheyyā’ti?"
+    },
+    {
+      "id": "sn12.24:14.1",
+      "pali": "Evaṁ vuttāhaṁ, ānanda, te aññatitthiye paribbājake etadavocaṁ:"
+    },
+    {
+      "id": "sn12.24:14.2",
+      "pali": "‘paṭiccasamuppannaṁ kho, āvuso, dukkhaṁ vuttaṁ mayā."
+    },
+    {
+      "id": "sn12.24:14.3",
+      "pali": "Kiṁ paṭicca?"
+    },
+    {
+      "id": "sn12.24:14.4",
+      "pali": "Phassaṁ paṭicca."
+    },
+    {
+      "id": "sn12.24:14.5",
+      "pali": "Iti vadaṁ vuttavādī ceva me assa, na ca maṁ abhūtena abbhācikkheyya, dhammassa cānudhammaṁ byākareyya, na ca koci sahadhammiko vādānupāto gārayhaṁ ṭhānaṁ āgaccheyyāti."
+    },
+    {
+      "id": "sn12.24:15.1",
+      "pali": "Tatrāvuso, ye te samaṇabrāhmaṇā kammavādā sayaṅkataṁ dukkhaṁ paññapenti tadapi phassapaccayā."
+    },
+    {
+      "id": "sn12.24:15.2",
+      "pali": "Yepi te …pe…"
+    },
+    {
+      "id": "sn12.24:15.3",
+      "pali": "yepi te …pe…"
+    },
+    {
+      "id": "sn12.24:15.4",
+      "pali": "yepi te samaṇabrāhmaṇā kammavādā asayaṅkāraṁ aparaṅkāraṁ adhiccasamuppannaṁ dukkhaṁ paññapenti tadapi phassapaccayā."
+    },
+    {
+      "id": "sn12.24:16.1",
+      "pali": "Tatrāvuso, ye te samaṇabrāhmaṇā kammavādā sayaṅkataṁ dukkhaṁ paññapenti, te vata aññatra phassā paṭisaṁvedissantīti netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "sn12.24:16.2",
+      "pali": "Yepi te …pe…"
+    },
+    {
+      "id": "sn12.24:16.3",
+      "pali": "yepi te …pe…"
+    },
+    {
+      "id": "sn12.24:16.4",
+      "pali": "yepi te samaṇabrāhmaṇā kammavādā asayaṅkāraṁ aparaṅkāraṁ adhiccasamuppannaṁ dukkhaṁ paññapenti, te vata aññatra phassā paṭisaṁvedissantīti netaṁ ṭhānaṁ vijjatī’”ti."
+    },
+    {
+      "id": "sn12.24:17.1",
+      "pali": "“Acchariyaṁ bhante, abbhutaṁ bhante."
+    },
+    {
+      "id": "sn12.24:17.2",
+      "pali": "Yatra hi nāma ekena padena sabbo attho vutto bhavissati."
+    },
+    {
+      "id": "sn12.24:17.3",
+      "pali": "Siyā nu kho, bhante, esevattho vitthārena vuccamāno gambhīro ceva assa gambhīrāvabhāso cā”ti?"
+    },
+    {
+      "id": "sn12.24:18.1",
+      "pali": "“Tena hānanda, taññevettha paṭibhātū”ti."
+    },
+    {
+      "id": "sn12.24:18.2",
+      "pali": "“Sace maṁ, bhante, evaṁ puccheyyuṁ:"
+    },
+    {
+      "id": "sn12.24:18.3",
+      "pali": "‘jarāmaraṇaṁ, āvuso ānanda, kiṁnidānaṁ kiṁsamudayaṁ kiṁjātikaṁ kiṁpabhavan’ti?"
+    },
+    {
+      "id": "sn12.24:18.4",
+      "pali": "Evaṁ puṭṭhohaṁ, bhante, evaṁ byākareyyaṁ:"
+    },
+    {
+      "id": "sn12.24:18.5",
+      "pali": "‘jarāmaraṇaṁ kho, āvuso, jātinidānaṁ jātisamudayaṁ jātijātikaṁ jātipabhavan’ti."
+    },
+    {
+      "id": "sn12.24:18.6",
+      "pali": "Evaṁ puṭṭhohaṁ, bhante, evaṁ byākareyyaṁ."
+    },
+    {
+      "id": "sn12.24:19.1",
+      "pali": "Sace maṁ, bhante, evaṁ puccheyyuṁ:"
+    },
+    {
+      "id": "sn12.24:19.2",
+      "pali": "‘jāti panāvuso ānanda, kiṁnidānā kiṁsamudayā kiṁjātikā kiṁpabhavā’ti?"
+    },
+    {
+      "id": "sn12.24:19.3",
+      "pali": "Evaṁ puṭṭhohaṁ, bhante, evaṁ byākareyyaṁ:"
+    },
+    {
+      "id": "sn12.24:19.4",
+      "pali": "‘jāti kho, āvuso, bhavanidānā bhavasamudayā bhavajātikā bhavappabhavā’ti."
+    },
+    {
+      "id": "sn12.24:19.5",
+      "pali": "Evaṁ puṭṭhohaṁ, bhante, evaṁ byākareyyaṁ."
+    },
+    {
+      "id": "sn12.24:20.1",
+      "pali": "Sace maṁ, bhante, evaṁ puccheyyuṁ:"
+    },
+    {
+      "id": "sn12.24:20.2",
+      "pali": "‘bhavo panāvuso ānanda, kiṁnidāno kiṁsamudayo kiṁjātiko kiṁpabhavo’ti?"
+    },
+    {
+      "id": "sn12.24:20.3",
+      "pali": "Evaṁ puṭṭhohaṁ, bhante, evaṁ byākareyyaṁ:"
+    },
+    {
+      "id": "sn12.24:20.4",
+      "pali": "‘bhavo kho, āvuso, upādānanidāno upādānasamudayo upādānajātiko upādānappabhavo’ti."
+    },
+    {
+      "id": "sn12.24:20.5",
+      "pali": "Evaṁ puṭṭhohaṁ, bhante, evaṁ byākareyyaṁ."
+    },
+    {
+      "id": "sn12.24:21.1",
+      "pali": "Sace maṁ, bhante, evaṁ puccheyyuṁ—"
+    },
+    {
+      "id": "sn12.24:21.2",
+      "pali": "upādānaṁ panāvuso …pe…"
+    },
+    {
+      "id": "sn12.24:21.3",
+      "pali": "taṇhā panāvuso …pe…"
+    },
+    {
+      "id": "sn12.24:21.4",
+      "pali": "vedanā panāvuso …pe…"
+    },
+    {
+      "id": "sn12.24:21.5",
+      "pali": "sace maṁ, bhante, evaṁ puccheyyuṁ:"
+    },
+    {
+      "id": "sn12.24:21.6",
+      "pali": "‘phasso panāvuso ānanda, kiṁnidāno kiṁsamudayo kiṁjātiko kiṁpabhavo’ti?"
+    },
+    {
+      "id": "sn12.24:21.7",
+      "pali": "Evaṁ puṭṭhohaṁ, bhante, evaṁ byākareyyaṁ:"
+    },
+    {
+      "id": "sn12.24:21.8",
+      "pali": "‘phasso kho, āvuso, saḷāyatananidāno saḷāyatanasamudayo saḷāyatanajātiko saḷāyatanappabhavo’ti."
+    },
+    {
+      "id": "sn12.24:21.9",
+      "pali": "‘Channaṁ tveva, āvuso, phassāyatanānaṁ asesavirāganirodhā phassanirodho;"
+    },
+    {
+      "id": "sn12.24:21.10",
+      "pali": "phassanirodhā vedanānirodho;"
+    },
+    {
+      "id": "sn12.24:21.11",
+      "pali": "vedanānirodhā taṇhānirodho;"
+    },
+    {
+      "id": "sn12.24:21.12",
+      "pali": "taṇhānirodhā upādānanirodho;"
+    },
+    {
+      "id": "sn12.24:21.13",
+      "pali": "upādānanirodhā bhavanirodho;"
+    },
+    {
+      "id": "sn12.24:21.14",
+      "pali": "bhavanirodhā jātinirodho;"
+    },
+    {
+      "id": "sn12.24:21.15",
+      "pali": "jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti."
+    },
+    {
+      "id": "sn12.24:21.16",
+      "pali": "Evametassa kevalassa dukkhakkhandhassa nirodho hotī’ti."
+    },
+    {
+      "id": "sn12.24:21.17",
+      "pali": "Evaṁ puṭṭhohaṁ, bhante, evaṁ byākareyyan”ti."
+    },
+    {
+      "id": "sn12.24:21.18",
+      "pali": "Catutthaṁ."
+    }
+  ]
+}

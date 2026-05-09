@@ -1,0 +1,599 @@
+{
+  "uid": "mn87",
+  "title": "Piyajātikasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn87:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn87:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn87:2.1",
+      "pali": "Tena kho pana samayena aññatarassa gahapatissa ekaputtako piyo manāpo kālaṅkato hoti."
+    },
+    {
+      "id": "mn87:2.2",
+      "pali": "Tassa kālaṅkiriyāya neva kammantā paṭibhanti na bhattaṁ paṭibhāti."
+    },
+    {
+      "id": "mn87:2.3",
+      "pali": "So āḷāhanaṁ gantvā kandati:"
+    },
+    {
+      "id": "mn87:2.4",
+      "pali": "“kahaṁ, ekaputtaka, kahaṁ, ekaputtakā”ti."
+    },
+    {
+      "id": "mn87:3.1",
+      "pali": "Atha kho so gahapati yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho taṁ gahapatiṁ bhagavā etadavoca:"
+    },
+    {
+      "id": "mn87:3.2",
+      "pali": "“na kho te, gahapati, sake citte ṭhitassa indriyāni, atthi te indriyānaṁ aññathattan”ti."
+    },
+    {
+      "id": "mn87:3.3",
+      "pali": "“Kiñhi me, bhante, indriyānaṁ nāññathattaṁ bhavissati;"
+    },
+    {
+      "id": "mn87:3.4",
+      "pali": "mayhañhi, bhante, ekaputto piyo manāpo kālaṅkato."
+    },
+    {
+      "id": "mn87:3.5",
+      "pali": "Tassa kālaṅkiriyāya neva kammantā paṭibhanti, na bhattaṁ paṭibhāti."
+    },
+    {
+      "id": "mn87:3.6",
+      "pali": "Sohaṁ āḷāhanaṁ gantvā kandāmi:"
+    },
+    {
+      "id": "mn87:3.7",
+      "pali": "‘kahaṁ, ekaputtaka, kahaṁ, ekaputtakā’”ti."
+    },
+    {
+      "id": "mn87:3.8",
+      "pali": "“Evametaṁ, gahapati, evametaṁ, gahapati."
+    },
+    {
+      "id": "mn87:3.9",
+      "pali": "Piyajātikā hi, gahapati, sokaparidevadukkhadomanassupāyāsā piyappabhavikā”ti."
+    },
+    {
+      "id": "mn87:3.10",
+      "pali": "“Kassa kho nāmetaṁ, bhante, evaṁ bhavissati:"
+    },
+    {
+      "id": "mn87:3.11",
+      "pali": "‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti?"
+    },
+    {
+      "id": "mn87:3.12",
+      "pali": "Piyajātikā hi kho, bhante, ānandasomanassā piyappabhavikā”ti."
+    },
+    {
+      "id": "mn87:3.13",
+      "pali": "Atha kho so gahapati bhagavato bhāsitaṁ anabhinanditvā paṭikkositvā uṭṭhāyāsanā pakkāmi."
+    },
+    {
+      "id": "mn87:4.1",
+      "pali": "Tena kho pana samayena sambahulā akkhadhuttā bhagavato avidūre akkhehi dibbanti."
+    },
+    {
+      "id": "mn87:4.2",
+      "pali": "Atha kho so gahapati yena te akkhadhuttā tenupasaṅkami; upasaṅkamitvā akkhadhutte etadavoca:"
+    },
+    {
+      "id": "mn87:4.3",
+      "pali": "“idhāhaṁ, bhonto, yena samaṇo gotamo tenupasaṅkamiṁ; upasaṅkamitvā samaṇaṁ gotamaṁ abhivādetvā ekamantaṁ nisīdiṁ. Ekamantaṁ nisinnaṁ kho maṁ, bhonto, samaṇo gotamo etadavoca:"
+    },
+    {
+      "id": "mn87:4.4",
+      "pali": "‘na kho te, gahapati, sake citte ṭhitassa indriyāni, atthi te indriyānaṁ aññathattan’ti."
+    },
+    {
+      "id": "mn87:4.5",
+      "pali": "Evaṁ vutte, ahaṁ, bhonto, samaṇaṁ gotamaṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn87:4.6",
+      "pali": "‘kiñhi me, bhante, indriyānaṁ nāññathattaṁ bhavissati;"
+    },
+    {
+      "id": "mn87:4.7",
+      "pali": "mayhañhi, bhante, ekaputtako piyo manāpo kālaṅkato."
+    },
+    {
+      "id": "mn87:4.8",
+      "pali": "Tassa kālaṅkiriyāya neva kammantā paṭibhanti, na bhattaṁ paṭibhāti."
+    },
+    {
+      "id": "mn87:4.9",
+      "pali": "Sohaṁ āḷāhanaṁ gantvā kandāmi—"
+    },
+    {
+      "id": "mn87:4.10",
+      "pali": "kahaṁ, ekaputtaka, kahaṁ, ekaputtakā’ti."
+    },
+    {
+      "id": "mn87:4.11",
+      "pali": "‘Evametaṁ, gahapati, evametaṁ, gahapati."
+    },
+    {
+      "id": "mn87:4.12",
+      "pali": "Piyajātikā hi, gahapati, sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti."
+    },
+    {
+      "id": "mn87:4.13",
+      "pali": "‘Kassa kho nāmetaṁ, bhante, evaṁ bhavissati—"
+    },
+    {
+      "id": "mn87:4.14",
+      "pali": "piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā?"
+    },
+    {
+      "id": "mn87:4.15",
+      "pali": "Piyajātikā hi kho, bhante, ānandasomanassā piyappabhavikā’ti."
+    },
+    {
+      "id": "mn87:4.16",
+      "pali": "Atha khvāhaṁ, bhonto, samaṇassa gotamassa bhāsitaṁ anabhinanditvā paṭikkositvā uṭṭhāyāsanā pakkamin”ti."
+    },
+    {
+      "id": "mn87:4.17",
+      "pali": "“Evametaṁ, gahapati, evametaṁ, gahapati."
+    },
+    {
+      "id": "mn87:4.18",
+      "pali": "Piyajātikā hi, gahapati, ānandasomanassā piyappabhavikā”ti."
+    },
+    {
+      "id": "mn87:4.19",
+      "pali": "Atha kho so gahapati “sameti me akkhadhuttehī”ti pakkāmi."
+    },
+    {
+      "id": "mn87:5.1",
+      "pali": "Atha kho idaṁ kathāvatthu anupubbena rājantepuraṁ pāvisi."
+    },
+    {
+      "id": "mn87:5.2",
+      "pali": "Atha kho rājā pasenadi kosalo mallikaṁ deviṁ āmantesi:"
+    },
+    {
+      "id": "mn87:5.3",
+      "pali": "“idaṁ te, mallike, samaṇena gotamena bhāsitaṁ:"
+    },
+    {
+      "id": "mn87:5.4",
+      "pali": "‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti."
+    },
+    {
+      "id": "mn87:5.5",
+      "pali": "“Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ, evametan”ti."
+    },
+    {
+      "id": "mn87:5.6",
+      "pali": "“Evameva panāyaṁ mallikā yaññadeva samaṇo gotamo bhāsati taṁ tadevassa abbhanumodati:"
+    },
+    {
+      "id": "mn87:5.7",
+      "pali": "‘Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ evametan’ti."
+    },
+    {
+      "id": "mn87:5.8",
+      "pali": "Seyyathāpi nāma, yaññadeva ācariyo antevāsissa bhāsati taṁ tadevassa antevāsī abbhanumodati:"
+    },
+    {
+      "id": "mn87:5.9",
+      "pali": "‘evametaṁ, ācariya, evametaṁ, ācariyā’ti."
+    },
+    {
+      "id": "mn87:5.10",
+      "pali": "Evameva kho tvaṁ, mallike, yaññadeva samaṇo gotamo bhāsati taṁ tadevassa abbhanumodasi:"
+    },
+    {
+      "id": "mn87:5.11",
+      "pali": "‘Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ evametan’ti."
+    },
+    {
+      "id": "mn87:5.12",
+      "pali": "Cara pire, mallike, vinassā”ti."
+    },
+    {
+      "id": "mn87:6.1",
+      "pali": "Atha kho mallikā devī nāḷijaṅghaṁ brāhmaṇaṁ āmantesi:"
+    },
+    {
+      "id": "mn87:6.2",
+      "pali": "“ehi tvaṁ, brāhmaṇa, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vandāhi, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha:"
+    },
+    {
+      "id": "mn87:6.3",
+      "pali": "‘mallikā, bhante, devī bhagavato pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’ti;"
+    },
+    {
+      "id": "mn87:6.4",
+      "pali": "evañca vadehi:"
+    },
+    {
+      "id": "mn87:6.5",
+      "pali": "‘bhāsitā nu kho, bhante, bhagavatā esā vācā—"
+    },
+    {
+      "id": "mn87:6.6",
+      "pali": "piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti."
+    },
+    {
+      "id": "mn87:6.7",
+      "pali": "Yathā te bhagavā byākaroti taṁ sādhukaṁ uggahetvā mama āroceyyāsi."
+    },
+    {
+      "id": "mn87:6.8",
+      "pali": "Na hi tathāgatā vitathaṁ bhaṇantī”ti."
+    },
+    {
+      "id": "mn87:6.9",
+      "pali": "“Evaṁ, bhotī”ti kho nāḷijaṅgho brāhmaṇo mallikāya deviyā paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn87:6.10",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho nāḷijaṅgho brāhmaṇo bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn87:6.11",
+      "pali": "“mallikā, bho gotama, devī bhoto gotamassa pāde sirasā vandati; appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati;"
+    },
+    {
+      "id": "mn87:6.12",
+      "pali": "evañca vadeti:"
+    },
+    {
+      "id": "mn87:6.13",
+      "pali": "‘bhāsitā nu kho, bhante, bhagavatā esā vācā—"
+    },
+    {
+      "id": "mn87:6.14",
+      "pali": "piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti."
+    },
+    {
+      "id": "mn87:7.1",
+      "pali": "“Evametaṁ, brāhmaṇa, evametaṁ, brāhmaṇa."
+    },
+    {
+      "id": "mn87:7.2",
+      "pali": "Piyajātikā hi, brāhmaṇa, sokaparidevadukkhadomanassupāyāsā piyappabhavikāti."
+    },
+    {
+      "id": "mn87:8.1",
+      "pali": "Tadamināpetaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā."
+    },
+    {
+      "id": "mn87:8.2",
+      "pali": "Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarissā itthiyā mātā kālamakāsi."
+    },
+    {
+      "id": "mn87:8.3",
+      "pali": "Sā tassā kālakiriyāya ummattikā khittacittā rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha:"
+    },
+    {
+      "id": "mn87:8.4",
+      "pali": "‘api me mātaraṁ addassatha, api me mātaraṁ addassathā’ti?"
+    },
+    {
+      "id": "mn87:9-14.1",
+      "pali": "Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti."
+    },
+    {
+      "id": "mn87:9-14.2",
+      "pali": "Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarissā itthiyā pitā kālamakāsi …"
+    },
+    {
+      "id": "mn87:9-14.3",
+      "pali": "bhātā kālamakāsi …"
+    },
+    {
+      "id": "mn87:9-14.4",
+      "pali": "bhaginī kālamakāsi …"
+    },
+    {
+      "id": "mn87:9-14.5",
+      "pali": "putto kālamakāsi …"
+    },
+    {
+      "id": "mn87:9-14.6",
+      "pali": "dhītā kālamakāsi …"
+    },
+    {
+      "id": "mn87:9-14.7",
+      "pali": "sāmiko kālamakāsi."
+    },
+    {
+      "id": "mn87:9-14.8",
+      "pali": "Sā tassa kālakiriyāya ummattikā khittacittā rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha:"
+    },
+    {
+      "id": "mn87:9-14.9",
+      "pali": "‘api me sāmikaṁ addassatha, api me sāmikaṁ addassathā’ti?"
+    },
+    {
+      "id": "mn87:15-21.1",
+      "pali": "Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti."
+    },
+    {
+      "id": "mn87:15-21.2",
+      "pali": "Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarassa purisassa mātā kālamakāsi."
+    },
+    {
+      "id": "mn87:15-21.3",
+      "pali": "So tassā kālakiriyāya ummattako khittacitto rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha:"
+    },
+    {
+      "id": "mn87:15-21.4",
+      "pali": "‘api me mātaraṁ addassatha, api me mātaraṁ addassathā’ti?"
+    },
+    {
+      "id": "mn87:15-21.5",
+      "pali": "Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti."
+    },
+    {
+      "id": "mn87:15-21.6",
+      "pali": "Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarassa purisassa pitā kālamakāsi …"
+    },
+    {
+      "id": "mn87:15-21.7",
+      "pali": "bhātā kālamakāsi …"
+    },
+    {
+      "id": "mn87:15-21.8",
+      "pali": "bhaginī kālamakāsi …"
+    },
+    {
+      "id": "mn87:15-21.9",
+      "pali": "putto kālamakāsi …"
+    },
+    {
+      "id": "mn87:15-21.10",
+      "pali": "dhītā kālamakāsi …"
+    },
+    {
+      "id": "mn87:15-21.11",
+      "pali": "pajāpati kālamakāsi."
+    },
+    {
+      "id": "mn87:15-21.12",
+      "pali": "So tassā kālakiriyāya ummattako khittacitto rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha:"
+    },
+    {
+      "id": "mn87:15-21.13",
+      "pali": "‘api me pajāpatiṁ addassatha, api me pajāpatiṁ addassathā’ti?"
+    },
+    {
+      "id": "mn87:15-21.14",
+      "pali": "Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti."
+    },
+    {
+      "id": "mn87:22.1",
+      "pali": "Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarā itthī ñātikulaṁ agamāsi."
+    },
+    {
+      "id": "mn87:22.2",
+      "pali": "Tassā te ñātakā sāmikaṁ acchinditvā aññassa dātukāmā."
+    },
+    {
+      "id": "mn87:22.3",
+      "pali": "Sā ca taṁ na icchati."
+    },
+    {
+      "id": "mn87:22.4",
+      "pali": "Atha kho sā itthī sāmikaṁ etadavoca:"
+    },
+    {
+      "id": "mn87:22.5",
+      "pali": "‘ime, maṁ, ayyaputta, ñātakā tvaṁ acchinditvā aññassa dātukāmā."
+    },
+    {
+      "id": "mn87:22.6",
+      "pali": "Ahañca taṁ na icchāmī’ti."
+    },
+    {
+      "id": "mn87:22.7",
+      "pali": "Atha kho so puriso taṁ itthiṁ dvidhā chetvā attānaṁ upphālesi:"
+    },
+    {
+      "id": "mn87:22.8",
+      "pali": "‘ubho pecca bhavissāmā’ti."
+    },
+    {
+      "id": "mn87:22.9",
+      "pali": "Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā”ti."
+    },
+    {
+      "id": "mn87:23.1",
+      "pali": "Atha kho nāḷijaṅgho brāhmaṇo bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā yena mallikā devī tenupasaṅkami; upasaṅkamitvā yāvatako ahosi bhagavatā saddhiṁ kathāsallāpo taṁ sabbaṁ mallikāya deviyā ārocesi. Atha kho mallikā devī yena rājā pasenadi kosalo tenupasaṅkami; upasaṅkamitvā rājānaṁ pasenadiṁ kosalaṁ etadavoca:"
+    },
+    {
+      "id": "mn87:24.1",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn87:24.2",
+      "pali": "piyā te vajirī kumārī”ti?"
+    },
+    {
+      "id": "mn87:24.3",
+      "pali": "“Evaṁ, mallike, piyā me vajirī kumārī”ti."
+    },
+    {
+      "id": "mn87:24.4",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn87:24.5",
+      "pali": "vajiriyā te kumāriyā vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?"
+    },
+    {
+      "id": "mn87:24.6",
+      "pali": "“Vajiriyā me, mallike, kumāriyā vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti?"
+    },
+    {
+      "id": "mn87:24.7",
+      "pali": "“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn87:24.8",
+      "pali": "‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti."
+    },
+    {
+      "id": "mn87:25.1",
+      "pali": "Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn87:25.2",
+      "pali": "piyā te vāsabhā khattiyā”ti?"
+    },
+    {
+      "id": "mn87:25.3",
+      "pali": "“Evaṁ, mallike, piyā me vāsabhā khattiyā”ti."
+    },
+    {
+      "id": "mn87:25.4",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja, vāsabhāya te khattiyāya vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?"
+    },
+    {
+      "id": "mn87:25.5",
+      "pali": "“Vāsabhāya me, mallike, khattiyāya vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti?"
+    },
+    {
+      "id": "mn87:25.6",
+      "pali": "“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn87:25.7",
+      "pali": "‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti."
+    },
+    {
+      "id": "mn87:26.1",
+      "pali": "Taṁ kiṁ maññasi, mahārāja, piyo te viṭaṭūbho senāpatī”ti?"
+    },
+    {
+      "id": "mn87:26.2",
+      "pali": "“Evaṁ, mallike, piyo me viṭaṭūbho senāpatī”ti."
+    },
+    {
+      "id": "mn87:26.3",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja, viṭaṭūbhassa te senāpatissa vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?"
+    },
+    {
+      "id": "mn87:26.4",
+      "pali": "“Viṭaṭūbhassa me, mallike, senāpatissa vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti?"
+    },
+    {
+      "id": "mn87:26.5",
+      "pali": "“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn87:26.6",
+      "pali": "‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti."
+    },
+    {
+      "id": "mn87:27.1",
+      "pali": "Taṁ kiṁ maññasi, mahārāja, piyā te ahan”ti?"
+    },
+    {
+      "id": "mn87:27.2",
+      "pali": "“Evaṁ, mallike, piyā mesi tvan”ti."
+    },
+    {
+      "id": "mn87:27.3",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn87:27.4",
+      "pali": "mayhaṁ te vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?"
+    },
+    {
+      "id": "mn87:27.5",
+      "pali": "“Tuyhañhi me, mallike, vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti?"
+    },
+    {
+      "id": "mn87:27.6",
+      "pali": "“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn87:27.7",
+      "pali": "‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti."
+    },
+    {
+      "id": "mn87:28.1",
+      "pali": "Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn87:28.2",
+      "pali": "piyā te kāsikosalā”ti?"
+    },
+    {
+      "id": "mn87:28.3",
+      "pali": "“Evaṁ, mallike, piyā me kāsikosalā."
+    },
+    {
+      "id": "mn87:28.4",
+      "pali": "Kāsikosalānaṁ, mallike, ānubhāvena kāsikacandanaṁ paccanubhoma, mālāgandhavilepanaṁ dhāremā”ti."
+    },
+    {
+      "id": "mn87:28.5",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn87:28.6",
+      "pali": "kāsikosalānaṁ te vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?"
+    },
+    {
+      "id": "mn87:28.7",
+      "pali": "“Kāsikosalānañhi, mallike, vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti?"
+    },
+    {
+      "id": "mn87:28.8",
+      "pali": "“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ:"
+    },
+    {
+      "id": "mn87:28.9",
+      "pali": "‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti."
+    },
+    {
+      "id": "mn87:29.1",
+      "pali": "“Acchariyaṁ, mallike, abbhutaṁ, mallike."
+    },
+    {
+      "id": "mn87:29.2",
+      "pali": "Yāvañca so bhagavā paññāya ativijjha maññe passati."
+    },
+    {
+      "id": "mn87:29.3",
+      "pali": "Ehi, mallike, ācamehī”ti."
+    },
+    {
+      "id": "mn87:29.4",
+      "pali": "Atha kho rājā pasenadi kosalo uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā tikkhattuṁ udānaṁ udānesi:"
+    },
+    {
+      "id": "mn87:29.5",
+      "pali": "“Namo tassa bhagavato arahato sammāsambuddhassa."
+    },
+    {
+      "id": "mn87:29.6",
+      "pali": "Namo tassa bhagavato arahato sammāsambuddhassa."
+    },
+    {
+      "id": "mn87:29.7",
+      "pali": "Namo tassa bhagavato arahato sammāsambuddhassā”ti."
+    },
+    {
+      "id": "mn87:29.8",
+      "pali": "Piyajātikasuttaṁ niṭṭhitaṁ sattamaṁ."
+    }
+  ]
+}

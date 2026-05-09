@@ -1,0 +1,947 @@
+{
+  "uid": "cp9",
+  "title": "Dānapāramī 9",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "cp9:1.1",
+      "pali": "“Yā me ahosi janikā,"
+    },
+    {
+      "id": "cp9:1.2",
+      "pali": "phussatī nāma khattiyā;"
+    },
+    {
+      "id": "cp9:1.3",
+      "pali": "Sā atītāsu jātīsu,"
+    },
+    {
+      "id": "cp9:1.4",
+      "pali": "sakkassa mahesī piyā."
+    },
+    {
+      "id": "cp9:2.1",
+      "pali": "Tassā āyukkhayaṁ ñatvā,"
+    },
+    {
+      "id": "cp9:2.2",
+      "pali": "devindo etadabravi;"
+    },
+    {
+      "id": "cp9:2.3",
+      "pali": "‘Dadāmi te dasa vare,"
+    },
+    {
+      "id": "cp9:2.4",
+      "pali": "varabhadde yadicchasi’."
+    },
+    {
+      "id": "cp9:3.1",
+      "pali": "Evaṁ vuttā ca sā devī,"
+    },
+    {
+      "id": "cp9:3.2",
+      "pali": "sakkaṁ punidamabravi;"
+    },
+    {
+      "id": "cp9:3.3",
+      "pali": "‘Kiṁ nu me aparādhatthi,"
+    },
+    {
+      "id": "cp9:3.4",
+      "pali": "kiṁ nu dessā ahaṁ tava;"
+    },
+    {
+      "id": "cp9:3.5",
+      "pali": "Rammā cāvesi maṁ ṭhānā,"
+    },
+    {
+      "id": "cp9:3.6",
+      "pali": "vātova dharaṇīruhaṁ’."
+    },
+    {
+      "id": "cp9:4.1",
+      "pali": "Evaṁ vutto ca so sakko,"
+    },
+    {
+      "id": "cp9:4.2",
+      "pali": "puna tassidamabravi;"
+    },
+    {
+      "id": "cp9:4.3",
+      "pali": "‘Na ceva te kataṁ pāpaṁ,"
+    },
+    {
+      "id": "cp9:4.4",
+      "pali": "na ca me tvaṁsi appiyā."
+    },
+    {
+      "id": "cp9:5.1",
+      "pali": "Ettakaṁyeva te āyu,"
+    },
+    {
+      "id": "cp9:5.2",
+      "pali": "cavanakālo bhavissati;"
+    },
+    {
+      "id": "cp9:5.3",
+      "pali": "Paṭiggaṇha mayā dinne,"
+    },
+    {
+      "id": "cp9:5.4",
+      "pali": "vare dasa varuttame’."
+    },
+    {
+      "id": "cp9:6.1",
+      "pali": "Sakkena sā dinnavarā,"
+    },
+    {
+      "id": "cp9:6.2",
+      "pali": "tuṭṭhahaṭṭhā pamoditā;"
+    },
+    {
+      "id": "cp9:6.3",
+      "pali": "Mamaṁ abbhantaraṁ katvā,"
+    },
+    {
+      "id": "cp9:6.4",
+      "pali": "phussatī dasa vare varī."
+    },
+    {
+      "id": "cp9:7.1",
+      "pali": "Tato cutā sā phussatī,"
+    },
+    {
+      "id": "cp9:7.2",
+      "pali": "khattiye upapajjatha;"
+    },
+    {
+      "id": "cp9:7.3",
+      "pali": "Jetuttaramhi nagare,"
+    },
+    {
+      "id": "cp9:7.4",
+      "pali": "sañjayena samāgami."
+    },
+    {
+      "id": "cp9:8.1",
+      "pali": "Yadāhaṁ phussatiyā kucchiṁ,"
+    },
+    {
+      "id": "cp9:8.2",
+      "pali": "okkanto piyamātuyā;"
+    },
+    {
+      "id": "cp9:8.3",
+      "pali": "Mama tejena me mātā,"
+    },
+    {
+      "id": "cp9:8.4",
+      "pali": "sadā dānaratā ahu."
+    },
+    {
+      "id": "cp9:9.1",
+      "pali": "Adhane āture jiṇṇe,"
+    },
+    {
+      "id": "cp9:9.2",
+      "pali": "yācake addhike jane;"
+    },
+    {
+      "id": "cp9:9.3",
+      "pali": "Samaṇe brāhmaṇe khīṇe,"
+    },
+    {
+      "id": "cp9:9.4",
+      "pali": "deti dānaṁ akiñcane."
+    },
+    {
+      "id": "cp9:10.1",
+      "pali": "Dasa māse dhārayitvāna,"
+    },
+    {
+      "id": "cp9:10.2",
+      "pali": "karonte puraṁ padakkhiṇaṁ;"
+    },
+    {
+      "id": "cp9:10.3",
+      "pali": "Vessānaṁ vīthiyā majjhe,"
+    },
+    {
+      "id": "cp9:10.4",
+      "pali": "janesi phussatī mamaṁ."
+    },
+    {
+      "id": "cp9:11.1",
+      "pali": "Na mayhaṁ mattikaṁ nāmaṁ,"
+    },
+    {
+      "id": "cp9:11.2",
+      "pali": "napi pettikasambhavaṁ;"
+    },
+    {
+      "id": "cp9:11.3",
+      "pali": "Jātettha vessavīthiyā,"
+    },
+    {
+      "id": "cp9:11.4",
+      "pali": "tasmā vessantaro ahu."
+    },
+    {
+      "id": "cp9:12.1",
+      "pali": "Yadāhaṁ dārako homi,"
+    },
+    {
+      "id": "cp9:12.2",
+      "pali": "jātiyā aṭṭhavassiko;"
+    },
+    {
+      "id": "cp9:12.3",
+      "pali": "Tadā nisajja pāsāde,"
+    },
+    {
+      "id": "cp9:12.4",
+      "pali": "dānaṁ dātuṁ vicintayiṁ."
+    },
+    {
+      "id": "cp9:13.1",
+      "pali": "‘Hadayaṁ dadeyyaṁ cakkhuṁ,"
+    },
+    {
+      "id": "cp9:13.2",
+      "pali": "maṁsampi rudhirampi ca;"
+    },
+    {
+      "id": "cp9:13.3",
+      "pali": "Dadeyyaṁ kāyaṁ sāvetvā,"
+    },
+    {
+      "id": "cp9:13.4",
+      "pali": "yadi koci yācaye mamaṁ’."
+    },
+    {
+      "id": "cp9:14.1",
+      "pali": "Sabhāvaṁ cintayantassa,"
+    },
+    {
+      "id": "cp9:14.2",
+      "pali": "akampitamasaṇṭhitaṁ;"
+    },
+    {
+      "id": "cp9:14.3",
+      "pali": "Akampi tattha pathavī,"
+    },
+    {
+      "id": "cp9:14.4",
+      "pali": "sineruvanavaṭaṁsakā."
+    },
+    {
+      "id": "cp9:15.1",
+      "pali": "Anvaddhamāse pannarase,"
+    },
+    {
+      "id": "cp9:15.2",
+      "pali": "puṇṇamāse uposathe;"
+    },
+    {
+      "id": "cp9:15.3",
+      "pali": "Paccayaṁ nāgamāruyha,"
+    },
+    {
+      "id": "cp9:15.4",
+      "pali": "dānaṁ dātuṁ upāgamiṁ."
+    },
+    {
+      "id": "cp9:16.1",
+      "pali": "Kaliṅgaraṭṭhavisayā,"
+    },
+    {
+      "id": "cp9:16.2",
+      "pali": "brāhmaṇā upagañchu maṁ;"
+    },
+    {
+      "id": "cp9:16.3",
+      "pali": "Ayācuṁ maṁ hatthināgaṁ,"
+    },
+    {
+      "id": "cp9:16.4",
+      "pali": "dhaññaṁ maṅgalasammataṁ."
+    },
+    {
+      "id": "cp9:17.1",
+      "pali": "‘Avuṭṭhiko janapado,"
+    },
+    {
+      "id": "cp9:17.2",
+      "pali": "dubbhikkho chātako mahā;"
+    },
+    {
+      "id": "cp9:17.3",
+      "pali": "Dadāhi pavaraṁ nāgaṁ,"
+    },
+    {
+      "id": "cp9:17.4",
+      "pali": "sabbasetaṁ gajuttamaṁ’."
+    },
+    {
+      "id": "cp9:18.1",
+      "pali": "Dadāmi na vikampāmi,"
+    },
+    {
+      "id": "cp9:18.2",
+      "pali": "yaṁ maṁ yācanti brāhmaṇā;"
+    },
+    {
+      "id": "cp9:18.3",
+      "pali": "Santaṁ nappatigūhāmi,"
+    },
+    {
+      "id": "cp9:18.4",
+      "pali": "dāne me ramate mano."
+    },
+    {
+      "id": "cp9:19.1",
+      "pali": "Na me yācakamanuppatte,"
+    },
+    {
+      "id": "cp9:19.2",
+      "pali": "paṭikkhepo anucchavo;"
+    },
+    {
+      "id": "cp9:19.3",
+      "pali": "Mā me bhijji samādānaṁ,"
+    },
+    {
+      "id": "cp9:19.4",
+      "pali": "dassāmi vipulaṁ gajaṁ."
+    },
+    {
+      "id": "cp9:20.1",
+      "pali": "Nāgaṁ gahetvā soṇḍāya,"
+    },
+    {
+      "id": "cp9:20.2",
+      "pali": "bhiṅgāre ratanāmaye;"
+    },
+    {
+      "id": "cp9:20.3",
+      "pali": "Jalaṁ hatthe ākiritvā,"
+    },
+    {
+      "id": "cp9:20.4",
+      "pali": "brāhmaṇānaṁ adaṁ gajaṁ."
+    },
+    {
+      "id": "cp9:21.1",
+      "pali": "Punāparaṁ dadantassa,"
+    },
+    {
+      "id": "cp9:21.2",
+      "pali": "sabbasetaṁ gajuttamaṁ;"
+    },
+    {
+      "id": "cp9:21.3",
+      "pali": "Tadāpi pathavī kampi,"
+    },
+    {
+      "id": "cp9:21.4",
+      "pali": "sineruvanavaṭaṁsakā."
+    },
+    {
+      "id": "cp9:22.1",
+      "pali": "Tassa nāgassa dānena,"
+    },
+    {
+      "id": "cp9:22.2",
+      "pali": "sivayo kuddhā samāgatā;"
+    },
+    {
+      "id": "cp9:22.3",
+      "pali": "Pabbājesuṁ sakā raṭṭhā,"
+    },
+    {
+      "id": "cp9:22.4",
+      "pali": "‘vaṅkaṁ gacchatu pabbataṁ’."
+    },
+    {
+      "id": "cp9:23.1",
+      "pali": "Tesaṁ nicchubhamānānaṁ,"
+    },
+    {
+      "id": "cp9:23.2",
+      "pali": "akampitamasaṇṭhitaṁ;"
+    },
+    {
+      "id": "cp9:23.3",
+      "pali": "Mahādānaṁ pavattetuṁ,"
+    },
+    {
+      "id": "cp9:23.4",
+      "pali": "ekaṁ varamayācisaṁ."
+    },
+    {
+      "id": "cp9:24.1",
+      "pali": "Yācitā sivayo sabbe,"
+    },
+    {
+      "id": "cp9:24.2",
+      "pali": "ekaṁ varamadaṁsu me;"
+    },
+    {
+      "id": "cp9:24.3",
+      "pali": "Sāvayitvā kaṇṇabheriṁ,"
+    },
+    {
+      "id": "cp9:24.4",
+      "pali": "mahādānaṁ dadāmahaṁ."
+    },
+    {
+      "id": "cp9:25.1",
+      "pali": "Athettha vattatī saddo,"
+    },
+    {
+      "id": "cp9:25.2",
+      "pali": "tumulo bheravo mahā;"
+    },
+    {
+      "id": "cp9:25.3",
+      "pali": "Dānenimaṁ nīharanti,"
+    },
+    {
+      "id": "cp9:25.4",
+      "pali": "puna dānaṁ dadātayaṁ."
+    },
+    {
+      "id": "cp9:26.1",
+      "pali": "Hatthiṁ asse rathe datvā,"
+    },
+    {
+      "id": "cp9:26.2",
+      "pali": "dāsiṁ dāsaṁ gavaṁ dhanaṁ;"
+    },
+    {
+      "id": "cp9:26.3",
+      "pali": "Mahādānaṁ daditvāna,"
+    },
+    {
+      "id": "cp9:26.4",
+      "pali": "nagarā nikkhamiṁ tadā."
+    },
+    {
+      "id": "cp9:27.1",
+      "pali": "Nikkhamitvāna nagarā,"
+    },
+    {
+      "id": "cp9:27.2",
+      "pali": "nivattitvā vilokite;"
+    },
+    {
+      "id": "cp9:27.3",
+      "pali": "Tadāpi pathavī kampi,"
+    },
+    {
+      "id": "cp9:27.4",
+      "pali": "sineruvanavaṭaṁsakā."
+    },
+    {
+      "id": "cp9:28.1",
+      "pali": "Catuvāhiṁ rathaṁ datvā,"
+    },
+    {
+      "id": "cp9:28.2",
+      "pali": "ṭhatvā cātummahāpathe;"
+    },
+    {
+      "id": "cp9:28.3",
+      "pali": "Ekākiyo adutiyo,"
+    },
+    {
+      "id": "cp9:28.4",
+      "pali": "maddideviṁ idamabraviṁ."
+    },
+    {
+      "id": "cp9:29.1",
+      "pali": "‘Tvaṁ maddi kaṇhaṁ gaṇhāhi,"
+    },
+    {
+      "id": "cp9:29.2",
+      "pali": "lahukā esā kaniṭṭhikā;"
+    },
+    {
+      "id": "cp9:29.3",
+      "pali": "Ahaṁ jāliṁ gahessāmi,"
+    },
+    {
+      "id": "cp9:29.4",
+      "pali": "garuko bhātiko hi so’."
+    },
+    {
+      "id": "cp9:30.1",
+      "pali": "Padumaṁ puṇḍarīkaṁva,"
+    },
+    {
+      "id": "cp9:30.2",
+      "pali": "maddī kaṇhājinaggahī;"
+    },
+    {
+      "id": "cp9:30.3",
+      "pali": "Ahaṁ suvaṇṇabimbaṁva,"
+    },
+    {
+      "id": "cp9:30.4",
+      "pali": "jāliṁ khattiyamaggahiṁ."
+    },
+    {
+      "id": "cp9:31.1",
+      "pali": "Abhijātā sukhumālā,"
+    },
+    {
+      "id": "cp9:31.2",
+      "pali": "khattiyā caturo janā;"
+    },
+    {
+      "id": "cp9:31.3",
+      "pali": "Visamaṁ samaṁ akkamantā,"
+    },
+    {
+      "id": "cp9:31.4",
+      "pali": "vaṅkaṁ gacchāma pabbataṁ."
+    },
+    {
+      "id": "cp9:32.1",
+      "pali": "Ye keci manujā enti,"
+    },
+    {
+      "id": "cp9:32.2",
+      "pali": "anumagge paṭippathe;"
+    },
+    {
+      "id": "cp9:32.3",
+      "pali": "Maggante paṭipucchāma,"
+    },
+    {
+      "id": "cp9:32.4",
+      "pali": "‘kuhiṁ vaṅkantapabbato’."
+    },
+    {
+      "id": "cp9:33.1",
+      "pali": "Te tattha amhe passitvā,"
+    },
+    {
+      "id": "cp9:33.2",
+      "pali": "karuṇaṁ giramudīrayuṁ;"
+    },
+    {
+      "id": "cp9:33.3",
+      "pali": "Dukkhante paṭivedenti,"
+    },
+    {
+      "id": "cp9:33.4",
+      "pali": "dūre vaṅkantapabbato."
+    },
+    {
+      "id": "cp9:34.1",
+      "pali": "Yadi passanti pavane,"
+    },
+    {
+      "id": "cp9:34.2",
+      "pali": "dārakā phaline dume;"
+    },
+    {
+      "id": "cp9:34.3",
+      "pali": "Tesaṁ phalānaṁ hetumhi,"
+    },
+    {
+      "id": "cp9:34.4",
+      "pali": "uparodanti dārakā."
+    },
+    {
+      "id": "cp9:35.1",
+      "pali": "Rodante dārake disvā,"
+    },
+    {
+      "id": "cp9:35.2",
+      "pali": "ubbiddhā vipulā dumā;"
+    },
+    {
+      "id": "cp9:35.3",
+      "pali": "Sayamevoṇamitvāna,"
+    },
+    {
+      "id": "cp9:35.4",
+      "pali": "upagacchanti dārake."
+    },
+    {
+      "id": "cp9:36.1",
+      "pali": "Idaṁ acchariyaṁ disvā,"
+    },
+    {
+      "id": "cp9:36.2",
+      "pali": "abbhutaṁ lomahaṁsanaṁ;"
+    },
+    {
+      "id": "cp9:36.3",
+      "pali": "Sāhukāraṁ pavattesi,"
+    },
+    {
+      "id": "cp9:36.4",
+      "pali": "maddī sabbaṅgasobhanā."
+    },
+    {
+      "id": "cp9:37.1",
+      "pali": "Accheraṁ vata lokasmiṁ,"
+    },
+    {
+      "id": "cp9:37.2",
+      "pali": "abbhutaṁ lomahaṁsanaṁ;"
+    },
+    {
+      "id": "cp9:37.3",
+      "pali": "Vessantarassa tejena,"
+    },
+    {
+      "id": "cp9:37.4",
+      "pali": "sayamevoṇatā dumā."
+    },
+    {
+      "id": "cp9:38.1",
+      "pali": "Saṅkhipiṁsu pathaṁ yakkhā,"
+    },
+    {
+      "id": "cp9:38.2",
+      "pali": "anukampāya dārake;"
+    },
+    {
+      "id": "cp9:38.3",
+      "pali": "Nikkhantadivaseneva,"
+    },
+    {
+      "id": "cp9:38.4",
+      "pali": "cetaraṭṭhamupāgamuṁ."
+    },
+    {
+      "id": "cp9:39.1",
+      "pali": "Saṭṭhirājasahassāni,"
+    },
+    {
+      "id": "cp9:39.2",
+      "pali": "tadā vasanti mātule;"
+    },
+    {
+      "id": "cp9:39.3",
+      "pali": "Sabbe pañjalikā hutvā,"
+    },
+    {
+      "id": "cp9:39.4",
+      "pali": "rodamānā upāgamuṁ."
+    },
+    {
+      "id": "cp9:40.1",
+      "pali": "Tattha vattetvā sallāpaṁ,"
+    },
+    {
+      "id": "cp9:40.2",
+      "pali": "cetehi cetaputtehi;"
+    },
+    {
+      "id": "cp9:40.3",
+      "pali": "Te tato nikkhamitvāna,"
+    },
+    {
+      "id": "cp9:40.4",
+      "pali": "vaṅkaṁ agamu pabbataṁ."
+    },
+    {
+      "id": "cp9:41.1",
+      "pali": "Āmantayitvā devindo,"
+    },
+    {
+      "id": "cp9:41.2",
+      "pali": "vissakammaṁ mahiddhikaṁ;"
+    },
+    {
+      "id": "cp9:41.3",
+      "pali": "Assamaṁ sukataṁ rammaṁ,"
+    },
+    {
+      "id": "cp9:41.4",
+      "pali": "paṇṇasālaṁ sumāpaya."
+    },
+    {
+      "id": "cp9:42.1",
+      "pali": "Sakkassa vacanaṁ sutvā,"
+    },
+    {
+      "id": "cp9:42.2",
+      "pali": "vissakammo mahiddhiko;"
+    },
+    {
+      "id": "cp9:42.3",
+      "pali": "Assamaṁ sukataṁ rammaṁ,"
+    },
+    {
+      "id": "cp9:42.4",
+      "pali": "paṇṇasālaṁ sumāpayi."
+    },
+    {
+      "id": "cp9:43.1",
+      "pali": "Ajjhogāhetvā pavanaṁ,"
+    },
+    {
+      "id": "cp9:43.2",
+      "pali": "appasaddaṁ nirākulaṁ;"
+    },
+    {
+      "id": "cp9:43.3",
+      "pali": "Caturo janā mayaṁ tattha,"
+    },
+    {
+      "id": "cp9:43.4",
+      "pali": "vasāma pabbatantare."
+    },
+    {
+      "id": "cp9:44.1",
+      "pali": "Ahañca maddidevī ca,"
+    },
+    {
+      "id": "cp9:44.2",
+      "pali": "jālī kaṇhājinā cubho;"
+    },
+    {
+      "id": "cp9:44.3",
+      "pali": "Aññamaññaṁ sokanudā,"
+    },
+    {
+      "id": "cp9:44.4",
+      "pali": "vasāma assame tadā."
+    },
+    {
+      "id": "cp9:45.1",
+      "pali": "Dārake anurakkhanto,"
+    },
+    {
+      "id": "cp9:45.2",
+      "pali": "asuñño homi assame;"
+    },
+    {
+      "id": "cp9:45.3",
+      "pali": "Maddī phalaṁ āharitvā,"
+    },
+    {
+      "id": "cp9:45.4",
+      "pali": "poseti sā tayo jane."
+    },
+    {
+      "id": "cp9:46.1",
+      "pali": "Pavane vasamānassa,"
+    },
+    {
+      "id": "cp9:46.2",
+      "pali": "addhiko maṁ upāgami;"
+    },
+    {
+      "id": "cp9:46.3",
+      "pali": "Āyāci puttake mayhaṁ,"
+    },
+    {
+      "id": "cp9:46.4",
+      "pali": "jāliṁ kaṇhājinaṁ cubho."
+    },
+    {
+      "id": "cp9:47.1",
+      "pali": "Yācakaṁ upagataṁ disvā,"
+    },
+    {
+      "id": "cp9:47.2",
+      "pali": "hāso me upapajjatha;"
+    },
+    {
+      "id": "cp9:47.3",
+      "pali": "Ubho putte gahetvāna,"
+    },
+    {
+      "id": "cp9:47.4",
+      "pali": "adāsiṁ brāhmaṇe tadā."
+    },
+    {
+      "id": "cp9:48.1",
+      "pali": "Sake putte cajantassa,"
+    },
+    {
+      "id": "cp9:48.2",
+      "pali": "jūjake brāhmaṇe yadā;"
+    },
+    {
+      "id": "cp9:48.3",
+      "pali": "Tadāpi pathavī kampi,"
+    },
+    {
+      "id": "cp9:48.4",
+      "pali": "sineruvanavaṭaṁsakā."
+    },
+    {
+      "id": "cp9:49.1",
+      "pali": "Punadeva sakko oruyha,"
+    },
+    {
+      "id": "cp9:49.2",
+      "pali": "hutvā brāhmaṇasannibho;"
+    },
+    {
+      "id": "cp9:49.3",
+      "pali": "Āyāci maṁ maddideviṁ,"
+    },
+    {
+      "id": "cp9:49.4",
+      "pali": "sīlavantiṁ patibbataṁ."
+    },
+    {
+      "id": "cp9:50.1",
+      "pali": "Maddiṁ hatthe gahetvāna,"
+    },
+    {
+      "id": "cp9:50.2",
+      "pali": "udakañjali pūriya;"
+    },
+    {
+      "id": "cp9:50.3",
+      "pali": "Pasannamanasaṅkappo,"
+    },
+    {
+      "id": "cp9:50.4",
+      "pali": "tassa maddiṁ adāsahaṁ."
+    },
+    {
+      "id": "cp9:51.1",
+      "pali": "Maddiyā dīyamānāya,"
+    },
+    {
+      "id": "cp9:51.2",
+      "pali": "gagane devā pamoditā;"
+    },
+    {
+      "id": "cp9:51.3",
+      "pali": "Tadāpi pathavī kampi,"
+    },
+    {
+      "id": "cp9:51.4",
+      "pali": "sineruvanavaṭaṁsakā."
+    },
+    {
+      "id": "cp9:52.1",
+      "pali": "Jāliṁ kaṇhājinaṁ dhītaṁ,"
+    },
+    {
+      "id": "cp9:52.2",
+      "pali": "maddideviṁ patibbataṁ;"
+    },
+    {
+      "id": "cp9:52.3",
+      "pali": "Cajamāno na cintesiṁ,"
+    },
+    {
+      "id": "cp9:52.4",
+      "pali": "bodhiyāyeva kāraṇā."
+    },
+    {
+      "id": "cp9:53.1",
+      "pali": "Na me dessā ubho puttā,"
+    },
+    {
+      "id": "cp9:53.2",
+      "pali": "maddidevī na dessiyā;"
+    },
+    {
+      "id": "cp9:53.3",
+      "pali": "Sabbaññutaṁ piyaṁ mayhaṁ,"
+    },
+    {
+      "id": "cp9:53.4",
+      "pali": "tasmā piye adāsahaṁ."
+    },
+    {
+      "id": "cp9:54.1",
+      "pali": "Punāparaṁ brahāraññe,"
+    },
+    {
+      "id": "cp9:54.2",
+      "pali": "mātāpitusamāgame;"
+    },
+    {
+      "id": "cp9:54.3",
+      "pali": "Karuṇaṁ paridevante,"
+    },
+    {
+      "id": "cp9:54.4",
+      "pali": "sallapante sukhaṁ dukhaṁ."
+    },
+    {
+      "id": "cp9:55.1",
+      "pali": "Hirottappena garunā,"
+    },
+    {
+      "id": "cp9:55.2",
+      "pali": "ubhinnaṁ upasaṅkami;"
+    },
+    {
+      "id": "cp9:55.3",
+      "pali": "Tadāpi pathavī kampi,"
+    },
+    {
+      "id": "cp9:55.4",
+      "pali": "sineruvanavaṭaṁsakā."
+    },
+    {
+      "id": "cp9:56.1",
+      "pali": "Punāparaṁ brahāraññā,"
+    },
+    {
+      "id": "cp9:56.2",
+      "pali": "nikkhamitvā sañātibhi;"
+    },
+    {
+      "id": "cp9:56.3",
+      "pali": "Pavisāmi puraṁ rammaṁ,"
+    },
+    {
+      "id": "cp9:56.4",
+      "pali": "jetuttaraṁ puruttamaṁ."
+    },
+    {
+      "id": "cp9:57.1",
+      "pali": "Ratanāni satta vassiṁsu,"
+    },
+    {
+      "id": "cp9:57.2",
+      "pali": "mahāmegho pavassatha;"
+    },
+    {
+      "id": "cp9:57.3",
+      "pali": "Tadāpi pathavī kampi,"
+    },
+    {
+      "id": "cp9:57.4",
+      "pali": "sineruvanavaṭaṁsakā."
+    },
+    {
+      "id": "cp9:58.1",
+      "pali": "Acetanāyaṁ pathavī,"
+    },
+    {
+      "id": "cp9:58.2",
+      "pali": "aviññāya sukhaṁ dukhaṁ;"
+    },
+    {
+      "id": "cp9:58.3",
+      "pali": "Sāpi dānabalā mayhaṁ,"
+    },
+    {
+      "id": "cp9:58.4",
+      "pali": "sattakkhattuṁ pakampathā”ti."
+    },
+    {
+      "id": "cp9:59.1",
+      "pali": "Vessantaracariyaṁ navamaṁ."
+    }
+  ]
+}

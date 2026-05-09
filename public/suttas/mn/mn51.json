@@ -1,0 +1,759 @@
+{
+  "uid": "mn51",
+  "title": "Kandarakasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn51:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn51:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā tīre mahatā bhikkhusaṅghena saddhiṁ."
+    },
+    {
+      "id": "mn51:1.3",
+      "pali": "Atha kho pesso ca hatthārohaputto kandarako ca paribbājako yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā pesso hatthārohaputto bhagavantaṁ abhivādetvā ekamantaṁ nisīdi."
+    },
+    {
+      "id": "mn51:1.4",
+      "pali": "Kandarako pana paribbājako bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhāsi."
+    },
+    {
+      "id": "mn51:1.5",
+      "pali": "Ekamantaṁ ṭhito kho kandarako paribbājako tuṇhībhūtaṁ tuṇhībhūtaṁ bhikkhusaṅghaṁ anuviloketvā bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn51:2.1",
+      "pali": "“acchariyaṁ, bho gotama, abbhutaṁ, bho gotama."
+    },
+    {
+      "id": "mn51:2.2",
+      "pali": "Yāvañcidaṁ bhotā gotamena sammā bhikkhusaṅgho paṭipādito."
+    },
+    {
+      "id": "mn51:2.3",
+      "pali": "Yepi te, bho gotama, ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā tepi bhagavanto etaparamaṁyeva sammā bhikkhusaṅghaṁ paṭipādesuṁ—"
+    },
+    {
+      "id": "mn51:2.4",
+      "pali": "seyyathāpi etarahi bhotā gotamena sammā bhikkhusaṅgho paṭipādito."
+    },
+    {
+      "id": "mn51:2.5",
+      "pali": "Yepi te, bho gotama, bhavissanti anāgatamaddhānaṁ arahanto sammāsambuddhā tepi bhagavanto etaparamaṁyeva sammā bhikkhusaṅghaṁ paṭipādessanti—"
+    },
+    {
+      "id": "mn51:2.6",
+      "pali": "seyyathāpi etarahi bhotā gotamena sammā bhikkhusaṅgho paṭipādito”ti."
+    },
+    {
+      "id": "mn51:3.1",
+      "pali": "“Evametaṁ, kandaraka, evametaṁ, kandaraka."
+    },
+    {
+      "id": "mn51:3.2",
+      "pali": "Yepi te, kandaraka, ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā tepi bhagavanto etaparamaṁyeva sammā bhikkhusaṅghaṁ paṭipādesuṁ—"
+    },
+    {
+      "id": "mn51:3.3",
+      "pali": "seyyathāpi etarahi mayā sammā bhikkhusaṅgho paṭipādito."
+    },
+    {
+      "id": "mn51:3.4",
+      "pali": "Yepi te, kandaraka, bhavissanti anāgatamaddhānaṁ arahanto sammāsambuddhā tepi bhagavanto etaparamaṁyeva sammā bhikkhusaṅghaṁ paṭipādessanti—"
+    },
+    {
+      "id": "mn51:3.5",
+      "pali": "seyyathāpi etarahi mayā sammā bhikkhusaṅgho paṭipādito."
+    },
+    {
+      "id": "mn51:3.6",
+      "pali": "Santi hi, kandaraka, bhikkhū imasmiṁ bhikkhusaṅghe arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṁyojanā sammadaññāvimuttā."
+    },
+    {
+      "id": "mn51:3.7",
+      "pali": "Santi hi, kandaraka, bhikkhū imasmiṁ bhikkhusaṅghe sekkhā santatasīlā santatavuttino nipakā nipakavuttino;"
+    },
+    {
+      "id": "mn51:3.8",
+      "pali": "te catūsu satipaṭṭhānesu suppatiṭṭhitacittā viharanti."
+    },
+    {
+      "id": "mn51:3.9",
+      "pali": "Katamesu catūsu?"
+    },
+    {
+      "id": "mn51:3.10",
+      "pali": "Idha, kandaraka, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ;"
+    },
+    {
+      "id": "mn51:3.11",
+      "pali": "vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ;"
+    },
+    {
+      "id": "mn51:3.12",
+      "pali": "citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ;"
+    },
+    {
+      "id": "mn51:3.13",
+      "pali": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassan”ti."
+    },
+    {
+      "id": "mn51:4.1",
+      "pali": "Evaṁ vutte, pesso hatthārohaputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn51:4.2",
+      "pali": "“acchariyaṁ, bhante, abbhutaṁ, bhante."
+    },
+    {
+      "id": "mn51:4.3",
+      "pali": "Yāva supaññattā cime, bhante, bhagavatā cattāro satipaṭṭhānā sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya."
+    },
+    {
+      "id": "mn51:4.4",
+      "pali": "Mayampi hi, bhante, gihī odātavasanā kālena kālaṁ imesu catūsu satipaṭṭhānesu suppatiṭṭhitacittā viharāma."
+    },
+    {
+      "id": "mn51:4.5",
+      "pali": "Idha mayaṁ, bhante, kāye kāyānupassino viharāma ātāpino sampajānā satimanto, vineyya loke abhijjhādomanassaṁ;"
+    },
+    {
+      "id": "mn51:4.6",
+      "pali": "vedanāsu vedanānupassino viharāma ātāpino sampajānā satimanto, vineyya loke abhijjhādomanassaṁ;"
+    },
+    {
+      "id": "mn51:4.7",
+      "pali": "citte cittānupassino viharāma ātāpino sampajānā satimanto, vineyya loke abhijjhādomanassaṁ;"
+    },
+    {
+      "id": "mn51:4.8",
+      "pali": "dhammesu dhammānupassino viharāma ātāpino sampajānā satimanto, vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "mn51:4.9",
+      "pali": "Acchariyaṁ, bhante, abbhutaṁ, bhante."
+    },
+    {
+      "id": "mn51:4.10",
+      "pali": "Yāvañcidaṁ, bhante, bhagavā evaṁ manussagahane evaṁ manussakasaṭe evaṁ manussasāṭheyye vattamāne sattānaṁ hitāhitaṁ jānāti."
+    },
+    {
+      "id": "mn51:4.11",
+      "pali": "Gahanañhetaṁ, bhante, yadidaṁ manussā;"
+    },
+    {
+      "id": "mn51:4.12",
+      "pali": "uttānakañhetaṁ, bhante, yadidaṁ pasavo."
+    },
+    {
+      "id": "mn51:4.13",
+      "pali": "Ahañhi, bhante, pahomi hatthidammaṁ sāretuṁ."
+    },
+    {
+      "id": "mn51:4.14",
+      "pali": "Yāvatakena antarena campaṁ gatāgataṁ karissati sabbāni tāni sāṭheyyāni kūṭeyyāni vaṅkeyyāni jimheyyāni pātukarissati."
+    },
+    {
+      "id": "mn51:4.15",
+      "pali": "Amhākaṁ pana, bhante, dāsāti vā pessāti vā kammakarāti vā aññathāva kāyena samudācaranti aññathāva vācāya aññathāva nesaṁ cittaṁ hoti."
+    },
+    {
+      "id": "mn51:4.16",
+      "pali": "Acchariyaṁ, bhante, abbhutaṁ, bhante."
+    },
+    {
+      "id": "mn51:4.17",
+      "pali": "Yāvañcidaṁ, bhante, bhagavā evaṁ manussagahane evaṁ manussakasaṭe evaṁ manussasāṭheyye vattamāne sattānaṁ hitāhitaṁ jānāti."
+    },
+    {
+      "id": "mn51:4.18",
+      "pali": "Gahanañhetaṁ, bhante, yadidaṁ manussā;"
+    },
+    {
+      "id": "mn51:4.19",
+      "pali": "uttānakañhetaṁ, bhante, yadidaṁ pasavo”ti."
+    },
+    {
+      "id": "mn51:5.1",
+      "pali": "“Evametaṁ, pessa, evametaṁ, pessa."
+    },
+    {
+      "id": "mn51:5.2",
+      "pali": "Gahanañhetaṁ, pessa, yadidaṁ manussā;"
+    },
+    {
+      "id": "mn51:5.3",
+      "pali": "uttānakañhetaṁ, pessa, yadidaṁ pasavo."
+    },
+    {
+      "id": "mn51:5.4",
+      "pali": "Cattārome, pessa, puggalā santo saṁvijjamānā lokasmiṁ."
+    },
+    {
+      "id": "mn51:5.5",
+      "pali": "Katame cattāro?"
+    },
+    {
+      "id": "mn51:5.6",
+      "pali": "Idha, pessa, ekacco puggalo attantapo hoti attaparitāpanānuyogamanuyutto;"
+    },
+    {
+      "id": "mn51:5.7",
+      "pali": "idha pana, pessa, ekacco puggalo parantapo hoti paraparitāpanānuyogamanuyutto;"
+    },
+    {
+      "id": "mn51:5.8",
+      "pali": "idha pana, pessa, ekacco puggalo attantapo ca hoti attaparitāpanānuyogamanuyutto, parantapo ca paraparitāpanānuyogamanuyutto;"
+    },
+    {
+      "id": "mn51:5.9",
+      "pali": "idha pana, pessa, ekacco puggalo nevattantapo hoti nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto."
+    },
+    {
+      "id": "mn51:5.10",
+      "pali": "So anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati."
+    },
+    {
+      "id": "mn51:5.11",
+      "pali": "Imesaṁ, pessa, catunnaṁ puggalānaṁ katamo te puggalo cittaṁ ārādhetī”ti?"
+    },
+    {
+      "id": "mn51:5.12",
+      "pali": "“Yvāyaṁ, bhante, puggalo attantapo attaparitāpanānuyogamanuyutto, ayaṁ me puggalo cittaṁ nārādheti."
+    },
+    {
+      "id": "mn51:5.13",
+      "pali": "Yopāyaṁ, bhante, puggalo parantapo paraparitāpanānuyogamanuyutto, ayampi me puggalo cittaṁ nārādheti."
+    },
+    {
+      "id": "mn51:5.14",
+      "pali": "Yopāyaṁ, bhante, puggalo attantapo ca attaparitāpanānuyogamanuyutto parantapo ca paraparitāpanānuyogamanuyutto, ayampi me puggalo cittaṁ nārādheti."
+    },
+    {
+      "id": "mn51:5.15",
+      "pali": "Yo ca kho ayaṁ, bhante, puggalo nevattantapo nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto, so anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati—"
+    },
+    {
+      "id": "mn51:5.16",
+      "pali": "ayameva me puggalo cittaṁ ārādhetī”ti."
+    },
+    {
+      "id": "mn51:6.1",
+      "pali": "“Kasmā pana te, pessa, ime tayo puggalā cittaṁ nārādhentī”ti?"
+    },
+    {
+      "id": "mn51:6.2",
+      "pali": "“Yvāyaṁ, bhante, puggalo attantapo attaparitāpanānuyogamanuyutto so attānaṁ sukhakāmaṁ dukkhapaṭikkūlaṁ ātāpeti paritāpeti—"
+    },
+    {
+      "id": "mn51:6.3",
+      "pali": "iminā me ayaṁ puggalo cittaṁ nārādheti."
+    },
+    {
+      "id": "mn51:6.4",
+      "pali": "Yopāyaṁ, bhante, puggalo parantapo paraparitāpanānuyogamanuyutto so paraṁ sukhakāmaṁ dukkhapaṭikkūlaṁ ātāpeti paritāpeti—"
+    },
+    {
+      "id": "mn51:6.5",
+      "pali": "iminā me ayaṁ puggalo cittaṁ nārādheti."
+    },
+    {
+      "id": "mn51:6.6",
+      "pali": "Yopāyaṁ, bhante, puggalo attantapo ca attaparitāpanānuyogamanuyutto parantapo ca paraparitāpanānuyogamanuyutto so attānañca parañca sukhakāmaṁ dukkhapaṭikkūlaṁ ātāpeti paritāpeti—"
+    },
+    {
+      "id": "mn51:6.7",
+      "pali": "iminā me ayaṁ puggalo cittaṁ nārādheti."
+    },
+    {
+      "id": "mn51:6.8",
+      "pali": "Yo ca kho ayaṁ, bhante, puggalo nevattantapo nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto so anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati;"
+    },
+    {
+      "id": "mn51:6.9",
+      "pali": "so attānañca parañca sukhakāmaṁ dukkhapaṭikkūlaṁ neva ātāpeti na paritāpeti—"
+    },
+    {
+      "id": "mn51:6.10",
+      "pali": "iminā me ayaṁ puggalo cittaṁ ārādheti."
+    },
+    {
+      "id": "mn51:6.11",
+      "pali": "Handa ca dāni mayaṁ, bhante, gacchāma;"
+    },
+    {
+      "id": "mn51:6.12",
+      "pali": "bahukiccā mayaṁ bahukaraṇīyā”ti."
+    },
+    {
+      "id": "mn51:6.13",
+      "pali": "“Yassadāni tvaṁ, pessa, kālaṁ maññasī”ti."
+    },
+    {
+      "id": "mn51:6.14",
+      "pali": "Atha kho pesso hatthārohaputto bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi."
+    },
+    {
+      "id": "mn51:7.1",
+      "pali": "Atha kho bhagavā acirapakkante pesse hatthārohaputte bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn51:7.2",
+      "pali": "“paṇḍito, bhikkhave, pesso hatthārohaputto;"
+    },
+    {
+      "id": "mn51:7.3",
+      "pali": "mahāpañño, bhikkhave, pesso hatthārohaputto."
+    },
+    {
+      "id": "mn51:7.4",
+      "pali": "Sace, bhikkhave, pesso hatthārohaputto muhuttaṁ nisīdeyya yāvassāhaṁ ime cattāro puggale vitthārena vibhajissāmi, mahatā atthena saṁyutto abhavissa."
+    },
+    {
+      "id": "mn51:7.5",
+      "pali": "Api ca, bhikkhave, ettāvatāpi pesso hatthārohaputto mahatā atthena saṁyutto”ti."
+    },
+    {
+      "id": "mn51:7.6",
+      "pali": "“Etassa, bhagavā, kālo, etassa, sugata, kālo,"
+    },
+    {
+      "id": "mn51:7.7",
+      "pali": "yaṁ bhagavā ime cattāro puggale vitthārena vibhajeyya. Bhagavato sutvā bhikkhū dhāressantī”ti."
+    },
+    {
+      "id": "mn51:7.8",
+      "pali": "“Tena hi, bhikkhave, suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti."
+    },
+    {
+      "id": "mn51:7.9",
+      "pali": "“Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn51:7.10",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn51:8.1",
+      "pali": "“Katamo ca, bhikkhave, puggalo attantapo attaparitāpanānuyogamanuyutto? Idha, bhikkhave, ekacco puggalo acelako hoti muttācāro hatthāpalekhano naehibhaddantiko natiṭṭhabhaddantiko; nābhihaṭaṁ na uddissakataṁ na nimantanaṁ sādiyati;"
+    },
+    {
+      "id": "mn51:8.2",
+      "pali": "so na kumbhimukhā paṭiggaṇhāti na kaḷopimukhā paṭiggaṇhāti na eḷakamantaraṁ na daṇḍamantaraṁ na musalamantaraṁ na dvinnaṁ bhuñjamānānaṁ na gabbhiniyā na pāyamānāya na purisantaragatāya na saṅkittīsu na yattha sā upaṭṭhito hoti na yattha makkhikā saṇḍasaṇḍacārinī; na macchaṁ na maṁsaṁ na suraṁ na merayaṁ na thusodakaṁ pivati."
+    },
+    {
+      "id": "mn51:8.3",
+      "pali": "So ekāgāriko vā hoti ekālopiko, dvāgāriko vā hoti dvālopiko …pe… sattāgāriko vā hoti sattālopiko;"
+    },
+    {
+      "id": "mn51:8.4",
+      "pali": "ekissāpi dattiyā yāpeti, dvīhipi dattīhi yāpeti …pe… sattahipi dattīhi yāpeti;"
+    },
+    {
+      "id": "mn51:8.5",
+      "pali": "ekāhikampi āhāraṁ āhāreti, dvīhikampi āhāraṁ āhāreti …pe… sattāhikampi āhāraṁ āhāreti—iti evarūpaṁ aḍḍhamāsikaṁ pariyāyabhattabhojanānuyogamanuyutto viharati."
+    },
+    {
+      "id": "mn51:8.6",
+      "pali": "So sākabhakkho vā hoti, sāmākabhakkho vā hoti, nīvārabhakkho vā hoti, daddulabhakkho vā hoti, haṭabhakkho vā hoti, kaṇabhakkho vā hoti, ācāmabhakkho vā hoti, piññākabhakkho vā hoti, tiṇabhakkho vā hoti, gomayabhakkho vā hoti; vanamūlaphalāhāro yāpeti pavattaphalabhojī."
+    },
+    {
+      "id": "mn51:8.7",
+      "pali": "So sāṇānipi dhāreti, masāṇānipi dhāreti, chavadussānipi dhāreti, paṁsukūlānipi dhāreti, tirīṭānipi dhāreti, ajinampi dhāreti, ajinakkhipampi dhāreti, kusacīrampi dhāreti, vākacīrampi dhāreti, phalakacīrampi dhāreti, kesakambalampi dhāreti, vāḷakambalampi dhāreti, ulūkapakkhampi dhāreti;"
+    },
+    {
+      "id": "mn51:8.8",
+      "pali": "kesamassulocakopi hoti, kesamassulocanānuyogamanuyutto,"
+    },
+    {
+      "id": "mn51:8.9",
+      "pali": "ubbhaṭṭhakopi hoti āsanapaṭikkhitto,"
+    },
+    {
+      "id": "mn51:8.10",
+      "pali": "ukkuṭikopi hoti ukkuṭikappadhānamanuyutto,"
+    },
+    {
+      "id": "mn51:8.11",
+      "pali": "kaṇṭakāpassayikopi hoti kaṇṭakāpassaye seyyaṁ kappeti;"
+    },
+    {
+      "id": "mn51:8.12",
+      "pali": "sāyatatiyakampi udakorohanānuyogamanuyutto viharati—"
+    },
+    {
+      "id": "mn51:8.13",
+      "pali": "iti evarūpaṁ anekavihitaṁ kāyassa ātāpanaparitāpanānuyogamanuyutto viharati."
+    },
+    {
+      "id": "mn51:8.14",
+      "pali": "Ayaṁ vuccati, bhikkhave, puggalo attantapo attaparitāpanānuyogamanuyutto."
+    },
+    {
+      "id": "mn51:9.1",
+      "pali": "Katamo ca, bhikkhave, puggalo parantapo paraparitāpanānuyogamanuyutto?"
+    },
+    {
+      "id": "mn51:9.2",
+      "pali": "Idha, bhikkhave, ekacco puggalo orabbhiko hoti sūkariko sākuṇiko māgaviko luddo macchaghātako coro coraghātako goghātako bandhanāgāriko, ye vā panaññepi keci kurūrakammantā."
+    },
+    {
+      "id": "mn51:9.3",
+      "pali": "Ayaṁ vuccati, bhikkhave, puggalo parantapo paraparitāpanānuyogamanuyutto."
+    },
+    {
+      "id": "mn51:10.1",
+      "pali": "Katamo ca, bhikkhave, puggalo attantapo ca attaparitāpanānuyogamanuyutto parantapo ca paraparitāpanānuyogamanuyutto?"
+    },
+    {
+      "id": "mn51:10.2",
+      "pali": "Idha, bhikkhave, ekacco puggalo rājā vā hoti khattiyo muddhāvasitto brāhmaṇo vā mahāsālo."
+    },
+    {
+      "id": "mn51:10.3",
+      "pali": "So puratthimena nagarassa navaṁ santhāgāraṁ kārāpetvā kesamassuṁ ohāretvā kharājinaṁ nivāsetvā sappitelena kāyaṁ abbhañjitvā magavisāṇena piṭṭhiṁ kaṇḍuvamāno navaṁ santhāgāraṁ pavisati saddhiṁ mahesiyā brāhmaṇena ca purohitena."
+    },
+    {
+      "id": "mn51:10.4",
+      "pali": "So tattha anantarahitāya bhūmiyā haritupalittāya seyyaṁ kappeti."
+    },
+    {
+      "id": "mn51:10.5",
+      "pali": "Ekissāya gāviyā sarūpavacchāya yaṁ ekasmiṁ thane khīraṁ hoti tena rājā yāpeti, yaṁ dutiyasmiṁ thane khīraṁ hoti tena mahesī yāpeti, yaṁ tatiyasmiṁ thane khīraṁ hoti tena brāhmaṇo purohito yāpeti, yaṁ catutthasmiṁ thane khīraṁ hoti tena aggiṁ juhati, avasesena vacchako yāpeti."
+    },
+    {
+      "id": "mn51:10.6",
+      "pali": "So evamāha:"
+    },
+    {
+      "id": "mn51:10.7",
+      "pali": "‘ettakā usabhā haññantu yaññatthāya, ettakā vacchatarā haññantu yaññatthāya, ettakā vacchatariyo haññantu yaññatthāya, ettakā ajā haññantu yaññatthāya, ettakā urabbhā haññantu yaññatthāya, ettakā assā haññantu yaññatthāya, ettakā rukkhā chijjantu yūpatthāya, ettakā dabbhā lūyantu barihisatthāyā’ti."
+    },
+    {
+      "id": "mn51:10.8",
+      "pali": "Yepissa te honti dāsāti vā pessāti vā kammakarāti vā tepi daṇḍatajjitā bhayatajjitā assumukhā rudamānā parikammāni karonti."
+    },
+    {
+      "id": "mn51:10.9",
+      "pali": "Ayaṁ vuccati, bhikkhave, puggalo attantapo ca attaparitāpanānuyogamanuyutto parantapo ca paraparitāpanānuyogamanuyutto."
+    },
+    {
+      "id": "mn51:11.1",
+      "pali": "Katamo ca, bhikkhave, puggalo nevattantapo nāttaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto, so anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati?"
+    },
+    {
+      "id": "mn51:12.1",
+      "pali": "Idha, bhikkhave, tathāgato loke uppajjati arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā."
+    },
+    {
+      "id": "mn51:12.2",
+      "pali": "So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti."
+    },
+    {
+      "id": "mn51:12.3",
+      "pali": "So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ, kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti."
+    },
+    {
+      "id": "mn51:13.1",
+      "pali": "Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto."
+    },
+    {
+      "id": "mn51:13.2",
+      "pali": "So taṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhati."
+    },
+    {
+      "id": "mn51:13.3",
+      "pali": "So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn51:13.4",
+      "pali": "‘sambādho gharāvāso rajāpatho, abbhokāso pabbajjā."
+    },
+    {
+      "id": "mn51:13.5",
+      "pali": "Nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ saṅkhalikhitaṁ brahmacariyaṁ carituṁ."
+    },
+    {
+      "id": "mn51:13.6",
+      "pali": "Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan’ti."
+    },
+    {
+      "id": "mn51:13.7",
+      "pali": "So aparena samayena appaṁ vā bhogakkhandhaṁ pahāya, mahantaṁ vā bhogakkhandhaṁ pahāya, appaṁ vā ñātiparivaṭṭaṁ pahāya, mahantaṁ vā ñātiparivaṭṭaṁ pahāya, kesamassuṁ ohāretvā, kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati."
+    },
+    {
+      "id": "mn51:14.1",
+      "pali": "So evaṁ pabbajito samāno bhikkhūnaṁ sikkhāsājīvasamāpanno pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati."
+    },
+    {
+      "id": "mn51:14.2",
+      "pali": "Adinnādānaṁ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharati."
+    },
+    {
+      "id": "mn51:14.3",
+      "pali": "Abrahmacariyaṁ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā."
+    },
+    {
+      "id": "mn51:14.4",
+      "pali": "Musāvādaṁ pahāya musāvādā paṭivirato hoti saccavādī saccasandho theto paccayiko avisaṁvādako lokassa."
+    },
+    {
+      "id": "mn51:14.5",
+      "pali": "Pisuṇaṁ vācaṁ pahāya pisuṇāya vācāya paṭivirato hoti, ito sutvā na amutra akkhātā imesaṁ bhedāya, amutra vā sutvā na imesaṁ akkhātā amūsaṁ bhedāya—iti bhinnānaṁ vā sandhātā sahitānaṁ vā anuppadātā samaggārāmo samaggarato samagganandī samaggakaraṇiṁ vācaṁ bhāsitā hoti."
+    },
+    {
+      "id": "mn51:14.6",
+      "pali": "Pharusaṁ vācaṁ pahāya pharusāya vācāya paṭivirato hoti, yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṁ vācaṁ bhāsitā hoti."
+    },
+    {
+      "id": "mn51:14.7",
+      "pali": "Samphappalāpaṁ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, nidhānavatiṁ vācaṁ bhāsitā kālena sāpadesaṁ pariyantavatiṁ atthasaṁhitaṁ."
+    },
+    {
+      "id": "mn51:14.8",
+      "pali": "So bījagāmabhūtagāmasamārambhā paṭivirato hoti,"
+    },
+    {
+      "id": "mn51:14.9",
+      "pali": "ekabhattiko hoti rattūparato virato vikālabhojanā;"
+    },
+    {
+      "id": "mn51:14.10",
+      "pali": "naccagītavāditavisūkadassanā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.11",
+      "pali": "mālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.12",
+      "pali": "uccāsayanamahāsayanā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.13",
+      "pali": "jātarūparajatapaṭiggahaṇā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.14",
+      "pali": "āmakadhaññapaṭiggahaṇā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.15",
+      "pali": "āmakamaṁsapaṭiggahaṇā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.16",
+      "pali": "itthikumārikapaṭiggahaṇā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.17",
+      "pali": "dāsidāsapaṭiggahaṇā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.18",
+      "pali": "ajeḷakapaṭiggahaṇā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.19",
+      "pali": "kukkuṭasūkarapaṭiggahaṇā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.20",
+      "pali": "hatthigavassavaḷavapaṭiggahaṇā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.21",
+      "pali": "khettavatthupaṭiggahaṇā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.22",
+      "pali": "dūteyyapahiṇagamanānuyogā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.23",
+      "pali": "kayavikkayā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.24",
+      "pali": "tulākūṭakaṁsakūṭamānakūṭā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.25",
+      "pali": "ukkoṭanavañcananikatisāciyogā paṭivirato hoti;"
+    },
+    {
+      "id": "mn51:14.26",
+      "pali": "chedanavadhabandhanaviparāmosaālopasahasākārā paṭivirato hoti."
+    },
+    {
+      "id": "mn51:15.1",
+      "pali": "So santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati, samādāyeva pakkamati."
+    },
+    {
+      "id": "mn51:15.2",
+      "pali": "Seyyathāpi nāma pakkhī sakuṇo yena yeneva ḍeti, sapattabhārova ḍeti;"
+    },
+    {
+      "id": "mn51:15.3",
+      "pali": "evameva bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati, samādāyeva pakkamati."
+    },
+    {
+      "id": "mn51:15.4",
+      "pali": "So iminā ariyena sīlakkhandhena samannāgato ajjhattaṁ anavajjasukhaṁ paṭisaṁvedeti."
+    },
+    {
+      "id": "mn51:16.1",
+      "pali": "So cakkhunā rūpaṁ disvā na nimittaggāhī hoti nānubyañjanaggāhī."
+    },
+    {
+      "id": "mn51:16.2",
+      "pali": "Yatvādhikaraṇamenaṁ cakkhundriyaṁ asaṁvutaṁ viharantaṁ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṁ tassa saṁvarāya paṭipajjati, rakkhati cakkhundriyaṁ, cakkhundriye saṁvaraṁ āpajjati."
+    },
+    {
+      "id": "mn51:16.3",
+      "pali": "Sotena saddaṁ sutvā …pe…"
+    },
+    {
+      "id": "mn51:16.4",
+      "pali": "ghānena gandhaṁ ghāyitvā …pe…"
+    },
+    {
+      "id": "mn51:16.5",
+      "pali": "jivhāya rasaṁ sāyitvā …pe…"
+    },
+    {
+      "id": "mn51:16.6",
+      "pali": "kāyena phoṭṭhabbaṁ phusitvā …pe…"
+    },
+    {
+      "id": "mn51:16.7",
+      "pali": "manasā dhammaṁ viññāya na nimittaggāhī hoti nānubyañjanaggāhī."
+    },
+    {
+      "id": "mn51:16.8",
+      "pali": "Yatvādhikaraṇamenaṁ manindriyaṁ asaṁvutaṁ viharantaṁ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṁ tassa saṁvarāya paṭipajjati, rakkhati manindriyaṁ, manindriye saṁvaraṁ āpajjati."
+    },
+    {
+      "id": "mn51:16.9",
+      "pali": "So iminā ariyena indriyasaṁvarena samannāgato ajjhattaṁ abyāsekasukhaṁ paṭisaṁvedeti."
+    },
+    {
+      "id": "mn51:17.1",
+      "pali": "So abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti."
+    },
+    {
+      "id": "mn51:18.1",
+      "pali": "So iminā ca ariyena sīlakkhandhena samannāgato, imāya ca ariyāya santuṭṭhiyā samannāgato, iminā ca ariyena indriyasaṁvarena samannāgato, iminā ca ariyena satisampajaññena samannāgato"
+    },
+    {
+      "id": "mn51:18.2",
+      "pali": "vivittaṁ senāsanaṁ bhajati araññaṁ rukkhamūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vanapatthaṁ abbhokāsaṁ palālapuñjaṁ."
+    },
+    {
+      "id": "mn51:19.1",
+      "pali": "So pacchābhattaṁ piṇḍapātapaṭikkanto nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā."
+    },
+    {
+      "id": "mn51:19.2",
+      "pali": "So abhijjhaṁ loke pahāya vigatābhijjhena cetasā viharati, abhijjhāya cittaṁ parisodheti,"
+    },
+    {
+      "id": "mn51:19.3",
+      "pali": "byāpādapadosaṁ pahāya abyāpannacitto viharati sabbapāṇabhūtahitānukampī, byāpādapadosā cittaṁ parisodheti;"
+    },
+    {
+      "id": "mn51:19.4",
+      "pali": "thinamiddhaṁ pahāya vigatathinamiddho viharati ālokasaññī sato sampajāno, thinamiddhā cittaṁ parisodheti;"
+    },
+    {
+      "id": "mn51:19.5",
+      "pali": "uddhaccakukkuccaṁ pahāya anuddhato viharati ajjhattaṁ vūpasantacitto, uddhaccakukkuccā cittaṁ parisodheti;"
+    },
+    {
+      "id": "mn51:19.6",
+      "pali": "vicikicchaṁ pahāya tiṇṇavicikiccho viharati akathaṅkathī kusalesu dhammesu, vicikicchāya cittaṁ parisodheti."
+    },
+    {
+      "id": "mn51:20.1",
+      "pali": "So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe,"
+    },
+    {
+      "id": "mn51:20.2",
+      "pali": "vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati;"
+    },
+    {
+      "id": "mn51:21.1",
+      "pali": "vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati;"
+    },
+    {
+      "id": "mn51:22.1",
+      "pali": "pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati;"
+    },
+    {
+      "id": "mn51:23.1",
+      "pali": "sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn51:24.1",
+      "pali": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṁ abhininnāmeti."
+    },
+    {
+      "id": "mn51:24.2",
+      "pali": "So anekavihitaṁ pubbenivāsaṁ anussarati, seyyathidaṁ—ekampi jātiṁ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṁsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi anekepi saṁvaṭṭakappe anekepi vivaṭṭakappe anekepi saṁvaṭṭavivaṭṭakappe: ‘amutrāsiṁ evaṁnāmo evaṅgotto evaṁvaṇṇo evamāhāro evaṁsukhadukkhappaṭisaṁvedī evamāyupariyanto, so tato cuto amutra udapādiṁ; tatrāpāsiṁ evaṁnāmo evaṅgotto evaṁvaṇṇo evamāhāro evaṁsukhadukkhappaṭisaṁvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. Iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati."
+    },
+    {
+      "id": "mn51:25.1",
+      "pali": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṁ cutūpapātañāṇāya cittaṁ abhininnāmeti."
+    },
+    {
+      "id": "mn51:25.2",
+      "pali": "So dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāti: ‘ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṁ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā, te kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapannā; ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṁ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā, te kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapannā’ti. Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāti."
+    },
+    {
+      "id": "mn51:26.1",
+      "pali": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṁ khayañāṇāya cittaṁ abhininnāmeti."
+    },
+    {
+      "id": "mn51:26.2",
+      "pali": "So ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti. ‘Ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti. ‘Ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti. ‘Ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "mn51:27.1",
+      "pali": "‘Ime āsavā’ti yathābhūtaṁ pajānāti. ‘Ayaṁ āsavasamudayo’ti yathābhūtaṁ pajānāti. ‘Ayaṁ āsavanirodho’ti yathābhūtaṁ pajānāti. ‘Ayaṁ āsavanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "mn51:27.2",
+      "pali": "Tassa evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccati, bhavāsavāpi cittaṁ vimuccati, avijjāsavāpi cittaṁ vimuccati."
+    },
+    {
+      "id": "mn51:27.3",
+      "pali": "Vimuttasmiṁ vimuttamiti ñāṇaṁ hoti."
+    },
+    {
+      "id": "mn51:27.4",
+      "pali": "‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānāti."
+    },
+    {
+      "id": "mn51:28.1",
+      "pali": "Ayaṁ vuccati, bhikkhave, puggalo nevattantapo nāttaparitāpanānuyogamanuyutto, na parantapo na paraparitāpanānuyogamanuyutto."
+    },
+    {
+      "id": "mn51:28.2",
+      "pali": "So attantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharatī”ti."
+    },
+    {
+      "id": "mn51:28.3",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn51:28.4",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn51:28.5",
+      "pali": "Kandarakasuttaṁ niṭṭhitaṁ paṭhamaṁ."
+    }
+  ]
+}

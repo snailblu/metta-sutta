@@ -1,0 +1,487 @@
+{
+  "uid": "mn141",
+  "title": "Saccavibhaṅgasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn141:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn141:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye."
+    },
+    {
+      "id": "mn141:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn141:1.4",
+      "pali": "“bhikkhavo”ti."
+    },
+    {
+      "id": "mn141:1.5",
+      "pali": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn141:1.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn141:2.1",
+      "pali": "“Tathāgatena, bhikkhave, arahatā sammāsambuddhena bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṁ, yadidaṁ—"
+    },
+    {
+      "id": "mn141:2.2",
+      "pali": "catunnaṁ ariyasaccānaṁ ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ."
+    },
+    {
+      "id": "mn141:2.3",
+      "pali": "Katamesaṁ catunnaṁ?"
+    },
+    {
+      "id": "mn141:3.1",
+      "pali": "Dukkhassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ, dukkhasamudayassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ, dukkhanirodhassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ, dukkhanirodhagāminiyā paṭipadāya ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ."
+    },
+    {
+      "id": "mn141:4.1",
+      "pali": "Tathāgatena, bhikkhave, arahatā sammāsambuddhena bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṁ, yadidaṁ—"
+    },
+    {
+      "id": "mn141:4.2",
+      "pali": "imesaṁ catunnaṁ ariyasaccānaṁ ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ."
+    },
+    {
+      "id": "mn141:5.1",
+      "pali": "Sevatha, bhikkhave, sāriputtamoggallāne;"
+    },
+    {
+      "id": "mn141:5.2",
+      "pali": "bhajatha, bhikkhave, sāriputtamoggallāne."
+    },
+    {
+      "id": "mn141:5.3",
+      "pali": "Paṇḍitā bhikkhū anuggāhakā sabrahmacārīnaṁ."
+    },
+    {
+      "id": "mn141:5.4",
+      "pali": "Seyyathāpi, bhikkhave, janetā, evaṁ sāriputto;"
+    },
+    {
+      "id": "mn141:5.5",
+      "pali": "seyyathāpi jātassa āpādetā, evaṁ moggallāno."
+    },
+    {
+      "id": "mn141:5.6",
+      "pali": "Sāriputto, bhikkhave, sotāpattiphale vineti, moggallāno uttamatthe."
+    },
+    {
+      "id": "mn141:5.7",
+      "pali": "Sāriputto, bhikkhave, pahoti cattāri ariyasaccāni vitthārena ācikkhituṁ desetuṁ paññāpetuṁ paṭṭhapetuṁ vivarituṁ vibhajituṁ uttānīkātun”ti."
+    },
+    {
+      "id": "mn141:6.1",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn141:6.2",
+      "pali": "Idaṁ vatvāna sugato uṭṭhāyāsanā vihāraṁ pāvisi."
+    },
+    {
+      "id": "mn141:7.1",
+      "pali": "Tatra kho āyasmā sāriputto acirapakkantassa bhagavato bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn141:7.2",
+      "pali": "“āvuso bhikkhave”ti."
+    },
+    {
+      "id": "mn141:7.3",
+      "pali": "“Āvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṁ."
+    },
+    {
+      "id": "mn141:7.4",
+      "pali": "Āyasmā sāriputto etadavoca:"
+    },
+    {
+      "id": "mn141:8.1",
+      "pali": "“Tathāgatena, āvuso, arahatā sammāsambuddhena bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṁ, yadidaṁ—"
+    },
+    {
+      "id": "mn141:8.2",
+      "pali": "catunnaṁ ariyasaccānaṁ ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ."
+    },
+    {
+      "id": "mn141:8.3",
+      "pali": "Katamesaṁ catunnaṁ?"
+    },
+    {
+      "id": "mn141:9.1",
+      "pali": "Dukkhassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ, dukkhasamudayassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ, dukkhanirodhassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ, dukkhanirodhagāminiyā paṭipadāya ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ."
+    },
+    {
+      "id": "mn141:10.1",
+      "pali": "Katamañcāvuso, dukkhaṁ ariyasaccaṁ?"
+    },
+    {
+      "id": "mn141:10.2",
+      "pali": "Jātipi dukkhā, jarāpi dukkhā, maraṇampi dukkhaṁ, sokaparidevadukkhadomanassupāyāsāpi dukkhā, yampicchaṁ na labhati tampi dukkhaṁ; saṅkhittena pañcupādānakkhandhā dukkhā."
+    },
+    {
+      "id": "mn141:11.1",
+      "pali": "Katamā cāvuso, jāti?"
+    },
+    {
+      "id": "mn141:11.2",
+      "pali": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jāti sañjāti okkanti abhinibbatti khandhānaṁ pātubhāvo āyatanānaṁ paṭilābho,"
+    },
+    {
+      "id": "mn141:11.3",
+      "pali": "ayaṁ vuccatāvuso: ‘jāti’."
+    },
+    {
+      "id": "mn141:12.1",
+      "pali": "Katamā cāvuso, jarā?"
+    },
+    {
+      "id": "mn141:12.2",
+      "pali": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko,"
+    },
+    {
+      "id": "mn141:12.3",
+      "pali": "ayaṁ vuccatāvuso: ‘jarā’."
+    },
+    {
+      "id": "mn141:13.1",
+      "pali": "Katamañcāvuso, maraṇaṁ?"
+    },
+    {
+      "id": "mn141:13.2",
+      "pali": "Yā tesaṁ tesaṁ sattānaṁ tamhā tamhā sattanikāyā cuti cavanatā bhedo antaradhānaṁ maccu maraṇaṁ kālaṅkiriyā khandhānaṁ bhedo kaḷevarassa nikkhepo jīvitindriyassupacchedo,"
+    },
+    {
+      "id": "mn141:13.3",
+      "pali": "idaṁ vuccatāvuso: ‘maraṇaṁ’."
+    },
+    {
+      "id": "mn141:14.1",
+      "pali": "Katamo cāvuso, soko?"
+    },
+    {
+      "id": "mn141:14.2",
+      "pali": "Yo kho, āvuso, aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa soko socanā socitattaṁ antosoko antoparisoko,"
+    },
+    {
+      "id": "mn141:14.3",
+      "pali": "ayaṁ vuccatāvuso: ‘soko’."
+    },
+    {
+      "id": "mn141:15.1",
+      "pali": "Katamo cāvuso, paridevo?"
+    },
+    {
+      "id": "mn141:15.2",
+      "pali": "Yo kho, āvuso, aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa ādevo paridevo ādevanā paridevanā ādevitattaṁ paridevitattaṁ,"
+    },
+    {
+      "id": "mn141:15.3",
+      "pali": "ayaṁ vuccatāvuso: ‘paridevo’."
+    },
+    {
+      "id": "mn141:16.1",
+      "pali": "Katamañcāvuso, dukkhaṁ?"
+    },
+    {
+      "id": "mn141:16.2",
+      "pali": "Yaṁ kho, āvuso, kāyikaṁ dukkhaṁ kāyikaṁ asātaṁ kāyasamphassajaṁ dukkhaṁ asātaṁ vedayitaṁ,"
+    },
+    {
+      "id": "mn141:16.3",
+      "pali": "idaṁ vuccatāvuso: ‘dukkhaṁ’."
+    },
+    {
+      "id": "mn141:17.1",
+      "pali": "Katamañcāvuso, domanassaṁ?"
+    },
+    {
+      "id": "mn141:17.2",
+      "pali": "Yaṁ kho, āvuso, cetasikaṁ dukkhaṁ cetasikaṁ asātaṁ manosamphassajaṁ dukkhaṁ asātaṁ vedayitaṁ,"
+    },
+    {
+      "id": "mn141:17.3",
+      "pali": "idaṁ vuccatāvuso: ‘domanassaṁ’."
+    },
+    {
+      "id": "mn141:18.1",
+      "pali": "Katamo cāvuso, upāyāso?"
+    },
+    {
+      "id": "mn141:18.2",
+      "pali": "Yo kho, āvuso, aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa āyāso upāyāso āyāsitattaṁ upāyāsitattaṁ,"
+    },
+    {
+      "id": "mn141:18.3",
+      "pali": "ayaṁ vuccatāvuso: ‘upāyāso’."
+    },
+    {
+      "id": "mn141:19.1",
+      "pali": "Katamañcāvuso, yampicchaṁ na labhati tampi dukkhaṁ?"
+    },
+    {
+      "id": "mn141:19.2",
+      "pali": "Jātidhammānaṁ, āvuso, sattānaṁ evaṁ icchā uppajjati:"
+    },
+    {
+      "id": "mn141:19.3",
+      "pali": "‘aho vata mayaṁ na jātidhammā assāma; na ca vata no jāti āgaccheyyā’ti."
+    },
+    {
+      "id": "mn141:19.4",
+      "pali": "Na kho panetaṁ icchāya pattabbaṁ."
+    },
+    {
+      "id": "mn141:19.5",
+      "pali": "Idampi: ‘yampicchaṁ na labhati tampi dukkhaṁ’."
+    },
+    {
+      "id": "mn141:19.6",
+      "pali": "Jarādhammānaṁ, āvuso, sattānaṁ …pe…"
+    },
+    {
+      "id": "mn141:19.7",
+      "pali": "byādhidhammānaṁ, āvuso, sattānaṁ …"
+    },
+    {
+      "id": "mn141:19.8",
+      "pali": "maraṇadhammānaṁ, āvuso, sattānaṁ …"
+    },
+    {
+      "id": "mn141:19.9",
+      "pali": "sokaparidevadukkhadomanassupāyāsadhammānaṁ, āvuso, sattānaṁ evaṁ icchā uppajjati:"
+    },
+    {
+      "id": "mn141:19.10",
+      "pali": "‘aho vata mayaṁ na sokaparidevadukkhadomanassupāyāsadhammā assāma; na ca vata no sokaparidevadukkhadomanassupāyāsā āgaccheyyun’ti."
+    },
+    {
+      "id": "mn141:19.11",
+      "pali": "Na kho panetaṁ icchāya pattabbaṁ."
+    },
+    {
+      "id": "mn141:19.12",
+      "pali": "Idampi: ‘yampicchaṁ na labhati tampi dukkhaṁ’."
+    },
+    {
+      "id": "mn141:20.1",
+      "pali": "Katame cāvuso, saṅkhittena pañcupādānakkhandhā dukkhā?"
+    },
+    {
+      "id": "mn141:20.2",
+      "pali": "Seyyathidaṁ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho."
+    },
+    {
+      "id": "mn141:20.3",
+      "pali": "Ime vuccantāvuso: ‘saṅkhittena pañcupādānakkhandhā dukkhā’."
+    },
+    {
+      "id": "mn141:20.4",
+      "pali": "Idaṁ vuccatāvuso: ‘dukkhaṁ ariyasaccaṁ’."
+    },
+    {
+      "id": "mn141:21.1",
+      "pali": "Katamañcāvuso, dukkhasamudayaṁ ariyasaccaṁ?"
+    },
+    {
+      "id": "mn141:21.2",
+      "pali": "Yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ—"
+    },
+    {
+      "id": "mn141:21.3",
+      "pali": "kāmataṇhā bhavataṇhā vibhavataṇhā,"
+    },
+    {
+      "id": "mn141:21.4",
+      "pali": "idaṁ vuccatāvuso: ‘dukkhasamudayaṁ ariyasaccaṁ’."
+    },
+    {
+      "id": "mn141:22.1",
+      "pali": "Katamañcāvuso, dukkhanirodhaṁ ariyasaccaṁ?"
+    },
+    {
+      "id": "mn141:22.2",
+      "pali": "Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo,"
+    },
+    {
+      "id": "mn141:22.3",
+      "pali": "idaṁ vuccatāvuso: ‘dukkhanirodhaṁ ariyasaccaṁ’."
+    },
+    {
+      "id": "mn141:23.1",
+      "pali": "Katamañcāvuso, dukkhanirodhagāminī paṭipadā ariyasaccaṁ?"
+    },
+    {
+      "id": "mn141:23.2",
+      "pali": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—"
+    },
+    {
+      "id": "mn141:23.3",
+      "pali": "sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi."
+    },
+    {
+      "id": "mn141:24.1",
+      "pali": "Katamā cāvuso, sammādiṭṭhi?"
+    },
+    {
+      "id": "mn141:24.2",
+      "pali": "Yaṁ kho, āvuso, dukkhe ñāṇaṁ, dukkhasamudaye ñāṇaṁ, dukkhanirodhe ñāṇaṁ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṁ,"
+    },
+    {
+      "id": "mn141:24.3",
+      "pali": "ayaṁ vuccatāvuso: ‘sammādiṭṭhi’."
+    },
+    {
+      "id": "mn141:25.1",
+      "pali": "Katamo cāvuso, sammāsaṅkappo?"
+    },
+    {
+      "id": "mn141:25.2",
+      "pali": "Nekkhammasaṅkappo, abyāpādasaṅkappo, avihiṁsāsaṅkappo,"
+    },
+    {
+      "id": "mn141:25.3",
+      "pali": "ayaṁ vuccatāvuso: ‘sammāsaṅkappo’."
+    },
+    {
+      "id": "mn141:26.1",
+      "pali": "Katamā cāvuso, sammāvācā?"
+    },
+    {
+      "id": "mn141:26.2",
+      "pali": "Musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī,"
+    },
+    {
+      "id": "mn141:26.3",
+      "pali": "ayaṁ vuccatāvuso: ‘sammāvācā’."
+    },
+    {
+      "id": "mn141:27.1",
+      "pali": "Katamo cāvuso, sammākammanto?"
+    },
+    {
+      "id": "mn141:27.2",
+      "pali": "Pāṇātipātā veramaṇī, adinnādānā veramaṇī, kāmesumicchācārā veramaṇī,"
+    },
+    {
+      "id": "mn141:27.3",
+      "pali": "ayaṁ vuccatāvuso: ‘sammākammanto’."
+    },
+    {
+      "id": "mn141:28.1",
+      "pali": "Katamo cāvuso, sammāājīvo?"
+    },
+    {
+      "id": "mn141:28.2",
+      "pali": "Idhāvuso, ariyasāvako micchāājīvaṁ pahāya sammāājīvena jīvikaṁ kappeti,"
+    },
+    {
+      "id": "mn141:28.3",
+      "pali": "ayaṁ vuccatāvuso: ‘sammāājīvo’."
+    },
+    {
+      "id": "mn141:29.1",
+      "pali": "Katamo cāvuso, sammāvāyāmo?"
+    },
+    {
+      "id": "mn141:29.2",
+      "pali": "Idhāvuso, bhikkhu anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati,"
+    },
+    {
+      "id": "mn141:29.3",
+      "pali": "uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati,"
+    },
+    {
+      "id": "mn141:29.4",
+      "pali": "anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati,"
+    },
+    {
+      "id": "mn141:29.5",
+      "pali": "uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati,"
+    },
+    {
+      "id": "mn141:29.6",
+      "pali": "ayaṁ vuccatāvuso: ‘sammāvāyāmo’."
+    },
+    {
+      "id": "mn141:30.1",
+      "pali": "Katamā cāvuso, sammāsati?"
+    },
+    {
+      "id": "mn141:30.2",
+      "pali": "Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ."
+    },
+    {
+      "id": "mn141:30.3",
+      "pali": "Vedanāsu vedanānupassī viharati …pe…"
+    },
+    {
+      "id": "mn141:30.4",
+      "pali": "citte cittānupassī viharati …"
+    },
+    {
+      "id": "mn141:30.5",
+      "pali": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ,"
+    },
+    {
+      "id": "mn141:30.6",
+      "pali": "ayaṁ vuccatāvuso: ‘sammāsati’."
+    },
+    {
+      "id": "mn141:31.1",
+      "pali": "Katamo cāvuso, sammāsamādhi?"
+    },
+    {
+      "id": "mn141:31.2",
+      "pali": "Idhāvuso, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati,"
+    },
+    {
+      "id": "mn141:31.3",
+      "pali": "vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati,"
+    },
+    {
+      "id": "mn141:31.4",
+      "pali": "pītiyā ca virāgā upekkhako ca viharati …pe… tatiyaṁ jhānaṁ …pe…"
+    },
+    {
+      "id": "mn141:31.5",
+      "pali": "catutthaṁ jhānaṁ upasampajja viharati,"
+    },
+    {
+      "id": "mn141:31.6",
+      "pali": "ayaṁ vuccatāvuso: ‘sammāsamādhi’."
+    },
+    {
+      "id": "mn141:31.7",
+      "pali": "Idaṁ vuccatāvuso: ‘dukkhanirodhagāminī paṭipadā ariyasaccaṁ’."
+    },
+    {
+      "id": "mn141:32.1",
+      "pali": "Tathāgatenāvuso, arahatā sammāsambuddhena bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṁ, yadidaṁ—"
+    },
+    {
+      "id": "mn141:32.2",
+      "pali": "imesaṁ catunnaṁ ariyasaccānaṁ ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkamman”ti."
+    },
+    {
+      "id": "mn141:32.3",
+      "pali": "Idamavoca āyasmā sāriputto."
+    },
+    {
+      "id": "mn141:32.4",
+      "pali": "Attamanā te bhikkhū āyasmato sāriputtassa bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn141:32.5",
+      "pali": "Saccavibhaṅgasuttaṁ niṭṭhitaṁ ekādasamaṁ."
+    }
+  ]
+}

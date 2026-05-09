@@ -1,0 +1,683 @@
+{
+  "uid": "mn84",
+  "title": "Madhurasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn84:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn84:1.2",
+      "pali": "ekaṁ samayaṁ āyasmā mahākaccāno madhurāyaṁ viharati gundāvane."
+    },
+    {
+      "id": "mn84:2.1",
+      "pali": "Assosi kho rājā mādhuro avantiputto:"
+    },
+    {
+      "id": "mn84:2.2",
+      "pali": "“samaṇo khalu, bho, kaccāno madhurāyaṁ viharati gundāvane."
+    },
+    {
+      "id": "mn84:2.3",
+      "pali": "Taṁ kho pana bhavantaṁ kaccānaṁ evaṁ kalyāṇo kittisaddo abbhuggato:"
+    },
+    {
+      "id": "mn84:2.4",
+      "pali": "‘paṇḍito viyatto medhāvī bahussuto cittakathī kalyāṇapaṭibhāno vuddho ceva arahā ca’."
+    },
+    {
+      "id": "mn84:2.5",
+      "pali": "Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti."
+    },
+    {
+      "id": "mn84:3.1",
+      "pali": "Atha kho rājā mādhuro avantiputto bhadrāni bhadrāni yānāni yojāpetvā bhadraṁ yānaṁ abhiruhitvā bhadrehi bhadrehi yānehi madhurāya niyyāsi mahaccarājānubhāvena āyasmantaṁ mahākaccānaṁ dassanāya."
+    },
+    {
+      "id": "mn84:3.2",
+      "pali": "Yāvatikā yānassa bhūmi yānena gantvā yānā paccorohitvā pattikova yenāyasmā mahākaccāno tenupasaṅkami; upasaṅkamitvā āyasmatā mahākaccānena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rājā mādhuro avantiputto āyasmantaṁ mahākaccānaṁ etadavoca:"
+    },
+    {
+      "id": "mn84:4.1",
+      "pali": "“brāhmaṇā, bho kaccāna, evamāhaṁsu:"
+    },
+    {
+      "id": "mn84:4.2",
+      "pali": "‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo;"
+    },
+    {
+      "id": "mn84:4.3",
+      "pali": "brāhmaṇova sukko vaṇṇo, kaṇho añño vaṇṇo;"
+    },
+    {
+      "id": "mn84:4.4",
+      "pali": "brāhmaṇāva sujjhanti, no abrāhmaṇā;"
+    },
+    {
+      "id": "mn84:4.5",
+      "pali": "brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti."
+    },
+    {
+      "id": "mn84:4.6",
+      "pali": "Idha bhavaṁ kaccāno kimakkhāyī”ti?"
+    },
+    {
+      "id": "mn84:5.1",
+      "pali": "“Ghosoyeva kho eso, mahārāja, lokasmiṁ:"
+    },
+    {
+      "id": "mn84:5.2",
+      "pali": "‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo;"
+    },
+    {
+      "id": "mn84:5.3",
+      "pali": "brāhmaṇova sukko vaṇṇo, kaṇho añño vaṇṇo;"
+    },
+    {
+      "id": "mn84:5.4",
+      "pali": "brāhmaṇāva sujjhanti, no abrāhmaṇā;"
+    },
+    {
+      "id": "mn84:5.5",
+      "pali": "brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti."
+    },
+    {
+      "id": "mn84:5.6",
+      "pali": "Tadamināpetaṁ, mahārāja, pariyāyena veditabbaṁ yathā ghosoyeveso lokasmiṁ:"
+    },
+    {
+      "id": "mn84:5.7",
+      "pali": "‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe…"
+    },
+    {
+      "id": "mn84:5.8",
+      "pali": "brahmadāyādā’ti."
+    },
+    {
+      "id": "mn84:5.9",
+      "pali": "Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:5.10",
+      "pali": "khattiyassa cepi ijjheyya dhanena vā dhaññena vā rajatena vā jātarūpena vā khattiyopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī …"
+    },
+    {
+      "id": "mn84:5.11",
+      "pali": "brāhmaṇopissāssa …"
+    },
+    {
+      "id": "mn84:5.12",
+      "pali": "vessopissāssa …"
+    },
+    {
+      "id": "mn84:5.13",
+      "pali": "suddopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī”ti?"
+    },
+    {
+      "id": "mn84:5.14",
+      "pali": "“Khattiyassa cepi, bho kaccāna, ijjheyya dhanena vā dhaññena vā rajatena vā jātarūpena vā khattiyopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī …"
+    },
+    {
+      "id": "mn84:5.15",
+      "pali": "brāhmaṇopissāssa …"
+    },
+    {
+      "id": "mn84:5.16",
+      "pali": "vessopissāssa …"
+    },
+    {
+      "id": "mn84:5.17",
+      "pali": "suddopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī”ti."
+    },
+    {
+      "id": "mn84:5.18",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:5.19",
+      "pali": "brāhmaṇassa cepi ijjheyya dhanena vā dhaññena vā rajatena vā jātarūpena vā brāhmaṇopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī …"
+    },
+    {
+      "id": "mn84:5.20",
+      "pali": "vessopissāssa …"
+    },
+    {
+      "id": "mn84:5.21",
+      "pali": "suddopissāssa …"
+    },
+    {
+      "id": "mn84:5.22",
+      "pali": "khattiyopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī”ti?"
+    },
+    {
+      "id": "mn84:5.23",
+      "pali": "“Brāhmaṇassa cepi, bho kaccāna, ijjheyya dhanena vā dhaññena vā rajatena vā jātarūpena vā brāhmaṇopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī …"
+    },
+    {
+      "id": "mn84:5.24",
+      "pali": "vessopissāssa …"
+    },
+    {
+      "id": "mn84:5.25",
+      "pali": "suddopissāssa …"
+    },
+    {
+      "id": "mn84:5.26",
+      "pali": "khattiyopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī”ti."
+    },
+    {
+      "id": "mn84:5.27",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja, vessassa cepi ijjheyya dhanena vā dhaññena vā rajatena vā jātarūpena vā vessopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī …"
+    },
+    {
+      "id": "mn84:5.28",
+      "pali": "suddopissāssa …"
+    },
+    {
+      "id": "mn84:5.29",
+      "pali": "khattiyopissāssa …"
+    },
+    {
+      "id": "mn84:5.30",
+      "pali": "brāhmaṇopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī”ti?"
+    },
+    {
+      "id": "mn84:5.31",
+      "pali": "“Vessassa cepi, bho kaccāna, ijjheyya dhanena vā dhaññena vā rajatena vā jātarūpena vā vessopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī …"
+    },
+    {
+      "id": "mn84:5.32",
+      "pali": "suddopissāssa …"
+    },
+    {
+      "id": "mn84:5.33",
+      "pali": "khattiyopissāssa …"
+    },
+    {
+      "id": "mn84:5.34",
+      "pali": "brāhmaṇopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī”ti."
+    },
+    {
+      "id": "mn84:5.35",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja, suddassa cepi ijjheyya dhanena vā dhaññena vā rajatena vā jātarūpena vā suddopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī …"
+    },
+    {
+      "id": "mn84:5.36",
+      "pali": "khattiyopissāssa …"
+    },
+    {
+      "id": "mn84:5.37",
+      "pali": "brāhmaṇopissāssa …"
+    },
+    {
+      "id": "mn84:5.38",
+      "pali": "vessopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī”ti?"
+    },
+    {
+      "id": "mn84:5.39",
+      "pali": "“Suddassa cepi, bho kaccāna, ijjheyya dhanena vā dhaññena vā rajatena vā jātarūpena vā suddopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādīti …"
+    },
+    {
+      "id": "mn84:5.40",
+      "pali": "khattiyopissāssa …"
+    },
+    {
+      "id": "mn84:5.41",
+      "pali": "brāhmaṇopissāssa …"
+    },
+    {
+      "id": "mn84:5.42",
+      "pali": "vessopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī”ti."
+    },
+    {
+      "id": "mn84:5.43",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:5.44",
+      "pali": "yadi evaṁ sante, ime cattāro vaṇṇā samasamā honti no vā?"
+    },
+    {
+      "id": "mn84:5.45",
+      "pali": "Kathaṁ vā te ettha hotī”ti?"
+    },
+    {
+      "id": "mn84:5.46",
+      "pali": "“Addhā kho, bho kaccāna, evaṁ sante, ime cattāro vaṇṇā samasamā honti."
+    },
+    {
+      "id": "mn84:5.47",
+      "pali": "Nesaṁ ettha kiñci nānākaraṇaṁ samanupassāmī”ti."
+    },
+    {
+      "id": "mn84:5.48",
+      "pali": "“Imināpi kho etaṁ, mahārāja, pariyāyena veditabbaṁ yathā ghosoyeveso lokasmiṁ:"
+    },
+    {
+      "id": "mn84:5.49",
+      "pali": "‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe…"
+    },
+    {
+      "id": "mn84:5.50",
+      "pali": "brahmadāyādā’ti."
+    },
+    {
+      "id": "mn84:6.1",
+      "pali": "Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:6.2",
+      "pali": "idhassa khattiyo pāṇātipātī adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhi kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya no vā?"
+    },
+    {
+      "id": "mn84:6.3",
+      "pali": "Kathaṁ vā te ettha hotī”ti?"
+    },
+    {
+      "id": "mn84:6.4",
+      "pali": "“Khattiyopi hi, bho kaccāna, pāṇātipātī adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhi kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya."
+    },
+    {
+      "id": "mn84:6.5",
+      "pali": "Evaṁ me ettha hoti, evañca pana me etaṁ arahataṁ sutan”ti."
+    },
+    {
+      "id": "mn84:6.6",
+      "pali": "“Sādhu sādhu, mahārāja."
+    },
+    {
+      "id": "mn84:6.7",
+      "pali": "Sādhu kho te etaṁ, mahārāja, evaṁ hoti, sādhu ca pana te etaṁ arahataṁ sutaṁ."
+    },
+    {
+      "id": "mn84:6.8",
+      "pali": "Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:6.9",
+      "pali": "idhassa brāhmaṇo …pe…"
+    },
+    {
+      "id": "mn84:6.10",
+      "pali": "idhassa vesso …pe…"
+    },
+    {
+      "id": "mn84:6.11",
+      "pali": "idhassa suddo pāṇātipātī adinnādāyī …pe… micchādiṭṭhi kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya no vā?"
+    },
+    {
+      "id": "mn84:6.12",
+      "pali": "Kathaṁ vā te ettha hotī”ti?"
+    },
+    {
+      "id": "mn84:6.13",
+      "pali": "“Suddopi hi, bho kaccāna, pāṇātipātī adinnādāyī …pe… micchādiṭṭhi kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya."
+    },
+    {
+      "id": "mn84:6.14",
+      "pali": "Evaṁ me ettha hoti, evañca pana me etaṁ arahataṁ sutan”ti."
+    },
+    {
+      "id": "mn84:6.15",
+      "pali": "“Sādhu sādhu, mahārāja."
+    },
+    {
+      "id": "mn84:6.16",
+      "pali": "Sādhu kho te etaṁ, mahārāja, evaṁ hoti, sādhu ca pana te etaṁ arahataṁ sutaṁ."
+    },
+    {
+      "id": "mn84:6.17",
+      "pali": "Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:6.18",
+      "pali": "yadi evaṁ sante, ime cattāro vaṇṇā samasamā honti no vā?"
+    },
+    {
+      "id": "mn84:6.19",
+      "pali": "Kathaṁ vā te ettha hotī”ti?"
+    },
+    {
+      "id": "mn84:6.20",
+      "pali": "“Addhā kho, bho kaccāna, evaṁ sante, ime cattāro vaṇṇā samasamā honti."
+    },
+    {
+      "id": "mn84:6.21",
+      "pali": "Nesaṁ ettha kiñci nānākaraṇaṁ samanupassāmī”ti."
+    },
+    {
+      "id": "mn84:6.22",
+      "pali": "“Imināpi kho etaṁ, mahārāja, pariyāyena veditabbaṁ yathā ghosoyeveso lokasmiṁ:"
+    },
+    {
+      "id": "mn84:6.23",
+      "pali": "‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti."
+    },
+    {
+      "id": "mn84:7.1",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:7.2",
+      "pali": "idhassa khattiyo pāṇātipātā paṭivirato, adinnādānā paṭivirato, kāmesumicchācārā paṭivirato, musāvādā paṭivirato, pisuṇāya vācāya paṭivirato, pharusāya vācāya paṭivirato, samphappalāpā paṭivirato, anabhijjhālu abyāpannacitto sammādiṭṭhi kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyya no vā?"
+    },
+    {
+      "id": "mn84:7.3",
+      "pali": "Kathaṁ vā te ettha hotī”ti?"
+    },
+    {
+      "id": "mn84:7.4",
+      "pali": "“Khattiyopi hi, bho kaccāna, pāṇātipātā paṭivirato, adinnādānā paṭivirato, kāmesumicchācārā paṭivirato, musāvādā paṭivirato, pisuṇāya vācāya paṭivirato, pharusāya vācāya paṭivirato, samphappalāpā paṭivirato, anabhijjhālu abyāpannacitto sammādiṭṭhi kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyya."
+    },
+    {
+      "id": "mn84:7.5",
+      "pali": "Evaṁ me ettha hoti, evañca pana me etaṁ arahataṁ sutan”ti."
+    },
+    {
+      "id": "mn84:7.6",
+      "pali": "“Sādhu sādhu, mahārāja."
+    },
+    {
+      "id": "mn84:7.7",
+      "pali": "Sādhu kho te etaṁ, mahārāja, evaṁ hoti, sādhu ca pana te etaṁ arahataṁ sutaṁ."
+    },
+    {
+      "id": "mn84:7.8",
+      "pali": "Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:7.9",
+      "pali": "idhassa brāhmaṇo, idhassa vesso, idhassa suddo pāṇātipātā paṭivirato adinnādānā paṭivirato …pe… sammādiṭṭhi kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyya no vā?"
+    },
+    {
+      "id": "mn84:7.10",
+      "pali": "Kathaṁ vā te ettha hotī”ti?"
+    },
+    {
+      "id": "mn84:7.11",
+      "pali": "“Suddopi hi, bho kaccāna, pāṇātipātā paṭivirato, adinnādānā paṭivirato …pe… sammādiṭṭhi kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyya."
+    },
+    {
+      "id": "mn84:7.12",
+      "pali": "Evaṁ me ettha hoti, evañca pana me etaṁ arahataṁ sutan”ti."
+    },
+    {
+      "id": "mn84:7.13",
+      "pali": "“Sādhu sādhu, mahārāja."
+    },
+    {
+      "id": "mn84:7.14",
+      "pali": "Sādhu kho te etaṁ, mahārāja, evaṁ hoti, sādhu ca pana te etaṁ arahataṁ sutaṁ."
+    },
+    {
+      "id": "mn84:7.15",
+      "pali": "Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:7.16",
+      "pali": "yadi evaṁ sante, ime cattāro vaṇṇā samasamā honti no vā?"
+    },
+    {
+      "id": "mn84:7.17",
+      "pali": "Kathaṁ vā te ettha hotī”ti?"
+    },
+    {
+      "id": "mn84:7.18",
+      "pali": "“Addhā kho, bho kaccāna, evaṁ sante, ime cattāro vaṇṇā samasamā honti."
+    },
+    {
+      "id": "mn84:7.19",
+      "pali": "Nesaṁ ettha kiñci nānākaraṇaṁ samanupassāmī”ti."
+    },
+    {
+      "id": "mn84:7.20",
+      "pali": "“Imināpi kho etaṁ, mahārāja, pariyāyena veditabbaṁ yathā ghosoyeveso lokasmiṁ:"
+    },
+    {
+      "id": "mn84:7.21",
+      "pali": "‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti."
+    },
+    {
+      "id": "mn84:8.1",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:8.2",
+      "pali": "idha khattiyo sandhiṁ vā chindeyya, nillopaṁ vā hareyya, ekāgārikaṁ vā kareyya, paripanthe vā tiṭṭheyya, paradāraṁ vā gaccheyya, tañce te purisā gahetvā dasseyyuṁ:"
+    },
+    {
+      "id": "mn84:8.3",
+      "pali": "‘ayaṁ te, deva, coro āgucārī."
+    },
+    {
+      "id": "mn84:8.4",
+      "pali": "Imassa yaṁ icchasi taṁ daṇḍaṁ paṇehī’ti."
+    },
+    {
+      "id": "mn84:8.5",
+      "pali": "Kinti naṁ kareyyāsī”ti?"
+    },
+    {
+      "id": "mn84:8.6",
+      "pali": "“Ghāteyyāma vā, bho kaccāna, jāpeyyāma vā pabbājeyyāma vā yathāpaccayaṁ vā kareyyāma."
+    },
+    {
+      "id": "mn84:8.7",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn84:8.8",
+      "pali": "Yā hissa, bho kaccāna, pubbe ‘khattiyo’ti samaññā sāssa antarahitā; corotveva saṅkhyaṁ gacchatī”ti."
+    },
+    {
+      "id": "mn84:8.9",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:8.10",
+      "pali": "idha brāhmaṇo, idha vesso, idha suddo sandhiṁ vā chindeyya, nillopaṁ vā hareyya, ekāgārikaṁ vā kareyya, paripanthe vā tiṭṭheyya, paradāraṁ vā gaccheyya, tañce te purisā gahetvā dasseyyuṁ:"
+    },
+    {
+      "id": "mn84:8.11",
+      "pali": "‘ayaṁ te, deva, coro āgucārī."
+    },
+    {
+      "id": "mn84:8.12",
+      "pali": "Imassa yaṁ icchasi taṁ daṇḍaṁ paṇehī’ti."
+    },
+    {
+      "id": "mn84:8.13",
+      "pali": "Kinti naṁ kareyyāsī”ti?"
+    },
+    {
+      "id": "mn84:8.14",
+      "pali": "“Ghāteyyāma vā, bho kaccāna, jāpeyyāma vā pabbājeyyāma vā yathāpaccayaṁ vā kareyyāma."
+    },
+    {
+      "id": "mn84:8.15",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn84:8.16",
+      "pali": "Yā hissa, bho kaccāna, pubbe ‘suddo’ti samaññā sāssa antarahitā; corotveva saṅkhyaṁ gacchatī”ti."
+    },
+    {
+      "id": "mn84:8.17",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:8.18",
+      "pali": "yadi evaṁ sante, ime cattāro vaṇṇā samasamā honti no vā?"
+    },
+    {
+      "id": "mn84:8.19",
+      "pali": "Kathaṁ vā te ettha hotī”ti?"
+    },
+    {
+      "id": "mn84:8.20",
+      "pali": "“Addhā kho, bho kaccāna, evaṁ sante, ime cattāro vaṇṇā samasamā honti."
+    },
+    {
+      "id": "mn84:8.21",
+      "pali": "Nesaṁ ettha kiñci nānākaraṇaṁ samanupassāmī”ti."
+    },
+    {
+      "id": "mn84:8.22",
+      "pali": "“Imināpi kho etaṁ, mahārāja, pariyāyena veditabbaṁ yathā ghosoyeveso lokasmiṁ:"
+    },
+    {
+      "id": "mn84:8.23",
+      "pali": "‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti."
+    },
+    {
+      "id": "mn84:9.1",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:9.2",
+      "pali": "idha khattiyo kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajito assa virato pāṇātipātā, virato adinnādānā, virato musāvādā, rattūparato, ekabhattiko, brahmacārī, sīlavā, kalyāṇadhammo."
+    },
+    {
+      "id": "mn84:9.3",
+      "pali": "Kinti naṁ kareyyāsī”ti?"
+    },
+    {
+      "id": "mn84:9.4",
+      "pali": "“Abhivādeyyāma vā, bho kaccāna, paccuṭṭheyyāma vā āsanena vā nimanteyyāma abhinimanteyyāma vā naṁ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārehi dhammikaṁ vā assa rakkhāvaraṇaguttiṁ saṁvidaheyyāma."
+    },
+    {
+      "id": "mn84:9.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn84:9.6",
+      "pali": "Yā hissa, bho kaccāna, pubbe ‘khattiyo’ti samaññā sāssa antarahitā; samaṇotveva saṅkhyaṁ gacchatī”ti."
+    },
+    {
+      "id": "mn84:9.7",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:9.8",
+      "pali": "idha brāhmaṇo, idha vesso, idha suddo kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajito assa virato pāṇātipātā, virato adinnādānā virato musāvādā, rattūparato, ekabhattiko, brahmacārī, sīlavā, kalyāṇadhammo."
+    },
+    {
+      "id": "mn84:9.9",
+      "pali": "Kinti naṁ kareyyāsī”ti?"
+    },
+    {
+      "id": "mn84:9.10",
+      "pali": "“Abhivādeyyāma vā, bho kaccāna, paccuṭṭheyyāma vā āsanena vā nimanteyyāma abhinimanteyyāma vā naṁ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārehi dhammikaṁ vā assa rakkhāvaraṇaguttiṁ saṁvidaheyyāma."
+    },
+    {
+      "id": "mn84:9.11",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn84:9.12",
+      "pali": "Yā hissa, bho kaccāna, pubbe ‘suddo’ti samaññā sāssa antarahitā; samaṇotveva saṅkhyaṁ gacchatī”ti."
+    },
+    {
+      "id": "mn84:9.13",
+      "pali": "“Taṁ kiṁ maññasi, mahārāja,"
+    },
+    {
+      "id": "mn84:9.14",
+      "pali": "yadi evaṁ sante, ime cattāro vaṇṇā samasamā honti no vā?"
+    },
+    {
+      "id": "mn84:9.15",
+      "pali": "Kathaṁ vā te ettha hotī”ti?"
+    },
+    {
+      "id": "mn84:9.16",
+      "pali": "“Addhā kho, bho kaccāna, evaṁ sante, ime cattāro vaṇṇā samasamā honti."
+    },
+    {
+      "id": "mn84:9.17",
+      "pali": "Nesaṁ ettha kiñci nānākaraṇaṁ samanupassāmī”ti."
+    },
+    {
+      "id": "mn84:9.18",
+      "pali": "“Imināpi kho etaṁ, mahārāja, pariyāyena veditabbaṁ yathā ghosoyeveso lokasmiṁ:"
+    },
+    {
+      "id": "mn84:9.19",
+      "pali": "‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo;"
+    },
+    {
+      "id": "mn84:9.20",
+      "pali": "brāhmaṇova sukko vaṇṇo, kaṇho añño vaṇṇo;"
+    },
+    {
+      "id": "mn84:9.21",
+      "pali": "brāhmaṇāva sujjhanti, no abrāhmaṇā;"
+    },
+    {
+      "id": "mn84:9.22",
+      "pali": "brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’”ti."
+    },
+    {
+      "id": "mn84:10.1",
+      "pali": "Evaṁ vutte, rājā mādhuro avantiputto āyasmantaṁ mahākaccānaṁ etadavoca:"
+    },
+    {
+      "id": "mn84:10.2",
+      "pali": "“abhikkantaṁ, bho kaccāna, abhikkantaṁ, bho kaccāna."
+    },
+    {
+      "id": "mn84:10.3",
+      "pali": "Seyyathāpi, bho kaccāna, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā kaccānena anekapariyāyena dhammo pakāsito."
+    },
+    {
+      "id": "mn84:10.4",
+      "pali": "Esāhaṁ bhavantaṁ kaccānaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "mn84:10.5",
+      "pali": "Upāsakaṁ maṁ bhavaṁ kaccāno dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti."
+    },
+    {
+      "id": "mn84:10.6",
+      "pali": "“Mā kho maṁ tvaṁ, mahārāja, saraṇaṁ agamāsi."
+    },
+    {
+      "id": "mn84:10.7",
+      "pali": "Tameva tvaṁ bhagavantaṁ saraṇaṁ gaccha yamahaṁ saraṇaṁ gato”ti."
+    },
+    {
+      "id": "mn84:10.8",
+      "pali": "“Kahaṁ pana, bho kaccāna, etarahi so bhagavā viharati arahaṁ sammāsambuddho”ti?"
+    },
+    {
+      "id": "mn84:10.9",
+      "pali": "“Parinibbuto kho, mahārāja, etarahi so bhagavā arahaṁ sammāsambuddho”ti."
+    },
+    {
+      "id": "mn84:11.1",
+      "pali": "“Sacepi mayaṁ, bho kaccāna, suṇeyyāma taṁ bhagavantaṁ dasasu yojanesu, dasapi mayaṁ yojanāni gaccheyyāma taṁ bhagavantaṁ dassanāya arahantaṁ sammāsambuddhaṁ."
+    },
+    {
+      "id": "mn84:11.2",
+      "pali": "Sacepi mayaṁ, bho kaccāna, suṇeyyāma taṁ bhagavantaṁ vīsatiyā yojanesu, tiṁsāya yojanesu, cattārīsāya yojanesu, paññāsāya yojanesu, paññāsampi mayaṁ yojanāni gaccheyyāma taṁ bhagavantaṁ dassanāya arahantaṁ sammāsambuddhaṁ."
+    },
+    {
+      "id": "mn84:11.3",
+      "pali": "Yojanasate cepi mayaṁ bho kaccāna, suṇeyyāma taṁ bhagavantaṁ, yojanasatampi mayaṁ gaccheyyāma taṁ bhagavantaṁ dassanāya arahantaṁ sammāsambuddhaṁ."
+    },
+    {
+      "id": "mn84:11.4",
+      "pali": "Yato ca, bho kaccāna, parinibbuto so bhagavā, parinibbutampi mayaṁ bhagavantaṁ saraṇaṁ gacchāma dhammañca bhikkhusaṅghañca."
+    },
+    {
+      "id": "mn84:11.5",
+      "pali": "Upāsakaṁ maṁ bhavaṁ kaccāno dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti."
+    },
+    {
+      "id": "mn84:11.6",
+      "pali": "Madhurasuttaṁ niṭṭhitaṁ catutthaṁ."
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "uid": "thag17.2",
+  "title": "Paṭhamavagga",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "thag17.2:1.1",
+      "pali": "“Yathācārī yathāsato satīmā,"
+    },
+    {
+      "id": "thag17.2:1.2",
+      "pali": "Yatasaṅkappajjhāyi appamatto;"
+    },
+    {
+      "id": "thag17.2:1.3",
+      "pali": "Ajjhattarato samāhitatto,"
+    },
+    {
+      "id": "thag17.2:1.4",
+      "pali": "Eko santusito tamāhu bhikkhuṁ."
+    },
+    {
+      "id": "thag17.2:2.1",
+      "pali": "Allaṁ sukkhaṁ vā bhuñjanto,"
+    },
+    {
+      "id": "thag17.2:2.2",
+      "pali": "Na bāḷhaṁ suhito siyā;"
+    },
+    {
+      "id": "thag17.2:2.3",
+      "pali": "Ūnūdaro mitāhāro,"
+    },
+    {
+      "id": "thag17.2:2.4",
+      "pali": "Sato bhikkhu paribbaje."
+    },
+    {
+      "id": "thag17.2:3.1",
+      "pali": "Cattāro pañca ālope,"
+    },
+    {
+      "id": "thag17.2:3.2",
+      "pali": "abhutvā udakaṁ pive;"
+    },
+    {
+      "id": "thag17.2:3.3",
+      "pali": "Alaṁ phāsuvihārāya,"
+    },
+    {
+      "id": "thag17.2:3.4",
+      "pali": "pahitattassa bhikkhuno."
+    },
+    {
+      "id": "thag17.2:4.1",
+      "pali": "Kappiyaṁ tañce chādeti,"
+    },
+    {
+      "id": "thag17.2:4.2",
+      "pali": "cīvaraṁ idamatthikaṁ;"
+    },
+    {
+      "id": "thag17.2:4.3",
+      "pali": "Alaṁ phāsuvihārāya,"
+    },
+    {
+      "id": "thag17.2:4.4",
+      "pali": "pahitattassa bhikkhuno."
+    },
+    {
+      "id": "thag17.2:5.1",
+      "pali": "Pallaṅkena nisinnassa,"
+    },
+    {
+      "id": "thag17.2:5.2",
+      "pali": "jaṇṇuke nābhivassati;"
+    },
+    {
+      "id": "thag17.2:5.3",
+      "pali": "Alaṁ phāsuvihārāya,"
+    },
+    {
+      "id": "thag17.2:5.4",
+      "pali": "pahitattassa bhikkhuno."
+    },
+    {
+      "id": "thag17.2:6.1",
+      "pali": "Yo sukhaṁ dukkhato adda,"
+    },
+    {
+      "id": "thag17.2:6.2",
+      "pali": "dukkhamaddakkhi sallato;"
+    },
+    {
+      "id": "thag17.2:6.3",
+      "pali": "Ubhayantarena nāhosi,"
+    },
+    {
+      "id": "thag17.2:6.4",
+      "pali": "kena lokasmi kiṁ siyā."
+    },
+    {
+      "id": "thag17.2:7.1",
+      "pali": "Mā me kadāci pāpiccho,"
+    },
+    {
+      "id": "thag17.2:7.2",
+      "pali": "kusīto hīnavīriyo;"
+    },
+    {
+      "id": "thag17.2:7.3",
+      "pali": "Appassuto anādaro,"
+    },
+    {
+      "id": "thag17.2:7.4",
+      "pali": "kena lokasmi kiṁ siyā."
+    },
+    {
+      "id": "thag17.2:8.1",
+      "pali": "Bahussuto ca medhāvī,"
+    },
+    {
+      "id": "thag17.2:8.2",
+      "pali": "sīlesu susamāhito;"
+    },
+    {
+      "id": "thag17.2:8.3",
+      "pali": "Cetosamathamanuyutto,"
+    },
+    {
+      "id": "thag17.2:8.4",
+      "pali": "api muddhani tiṭṭhatu."
+    },
+    {
+      "id": "thag17.2:9.1",
+      "pali": "Yo papañcamanuyutto,"
+    },
+    {
+      "id": "thag17.2:9.2",
+      "pali": "papañcābhirato mago;"
+    },
+    {
+      "id": "thag17.2:9.3",
+      "pali": "Virādhayī so nibbānaṁ,"
+    },
+    {
+      "id": "thag17.2:9.4",
+      "pali": "yogakkhemaṁ anuttaraṁ."
+    },
+    {
+      "id": "thag17.2:10.1",
+      "pali": "Yo ca papañcaṁ hitvāna,"
+    },
+    {
+      "id": "thag17.2:10.2",
+      "pali": "nippapañcapathe rato;"
+    },
+    {
+      "id": "thag17.2:10.3",
+      "pali": "Ārādhayī so nibbānaṁ,"
+    },
+    {
+      "id": "thag17.2:10.4",
+      "pali": "yogakkhemaṁ anuttaraṁ."
+    },
+    {
+      "id": "thag17.2:11.1",
+      "pali": "Gāme vā yadi vāraññe,"
+    },
+    {
+      "id": "thag17.2:11.2",
+      "pali": "Ninne vā yadi vā thale;"
+    },
+    {
+      "id": "thag17.2:11.3",
+      "pali": "Yattha arahanto viharanti,"
+    },
+    {
+      "id": "thag17.2:11.4",
+      "pali": "Taṁ bhūmirāmaṇeyyakaṁ."
+    },
+    {
+      "id": "thag17.2:12.1",
+      "pali": "Ramaṇīyāni araññāni,"
+    },
+    {
+      "id": "thag17.2:12.2",
+      "pali": "yattha na ramatī jano;"
+    },
+    {
+      "id": "thag17.2:12.3",
+      "pali": "Vītarāgā ramissanti,"
+    },
+    {
+      "id": "thag17.2:12.4",
+      "pali": "na te kāmagavesino."
+    },
+    {
+      "id": "thag17.2:13.1",
+      "pali": "Nidhīnaṁva pavattāraṁ,"
+    },
+    {
+      "id": "thag17.2:13.2",
+      "pali": "yaṁ passe vajjadassinaṁ;"
+    },
+    {
+      "id": "thag17.2:13.3",
+      "pali": "Niggayhavādiṁ medhāviṁ,"
+    },
+    {
+      "id": "thag17.2:13.4",
+      "pali": "tādisaṁ paṇḍitaṁ bhaje;"
+    },
+    {
+      "id": "thag17.2:13.5",
+      "pali": "Tādisaṁ bhajamānassa,"
+    },
+    {
+      "id": "thag17.2:13.6",
+      "pali": "seyyo hoti na pāpiyo."
+    },
+    {
+      "id": "thag17.2:14.1",
+      "pali": "Ovadeyyānusāseyya,"
+    },
+    {
+      "id": "thag17.2:14.2",
+      "pali": "asabbhā ca nivāraye;"
+    },
+    {
+      "id": "thag17.2:14.3",
+      "pali": "Satañhi so piyo hoti,"
+    },
+    {
+      "id": "thag17.2:14.4",
+      "pali": "asataṁ hoti appiyo."
+    },
+    {
+      "id": "thag17.2:15.1",
+      "pali": "Aññassa bhagavā buddho,"
+    },
+    {
+      "id": "thag17.2:15.2",
+      "pali": "dhammaṁ desesi cakkhumā;"
+    },
+    {
+      "id": "thag17.2:15.3",
+      "pali": "Dhamme desiyamānamhi,"
+    },
+    {
+      "id": "thag17.2:15.4",
+      "pali": "sotamodhesimatthiko."
+    },
+    {
+      "id": "thag17.2:16.1",
+      "pali": "Taṁ me amoghaṁ savanaṁ,"
+    },
+    {
+      "id": "thag17.2:16.2",
+      "pali": "vimuttomhi anāsavo."
+    },
+    {
+      "id": "thag17.2:17.1",
+      "pali": "Neva pubbenivāsāya,"
+    },
+    {
+      "id": "thag17.2:17.2",
+      "pali": "napi dibbassa cakkhuno;"
+    },
+    {
+      "id": "thag17.2:17.3",
+      "pali": "Cetopariyāya iddhiyā,"
+    },
+    {
+      "id": "thag17.2:17.4",
+      "pali": "cutiyā upapattiyā;"
+    },
+    {
+      "id": "thag17.2:17.5",
+      "pali": "Sotadhātuvisuddhiyā,"
+    },
+    {
+      "id": "thag17.2:17.6",
+      "pali": "paṇidhī me na vijjati”."
+    },
+    {
+      "id": "thag17.2:18.1",
+      "pali": "“Rukkhamūlaṁva nissāya,"
+    },
+    {
+      "id": "thag17.2:18.2",
+      "pali": "muṇḍo saṅghāṭipāruto;"
+    },
+    {
+      "id": "thag17.2:18.3",
+      "pali": "Paññāya uttamo thero,"
+    },
+    {
+      "id": "thag17.2:18.4",
+      "pali": "upatissova jhāyati."
+    },
+    {
+      "id": "thag17.2:19.1",
+      "pali": "Avitakkaṁ samāpanno,"
+    },
+    {
+      "id": "thag17.2:19.2",
+      "pali": "sammāsambuddhasāvako;"
+    },
+    {
+      "id": "thag17.2:19.3",
+      "pali": "Ariyena tuṇhībhāvena,"
+    },
+    {
+      "id": "thag17.2:19.4",
+      "pali": "upeto hoti tāvade."
+    },
+    {
+      "id": "thag17.2:20.1",
+      "pali": "Yathāpi pabbato selo,"
+    },
+    {
+      "id": "thag17.2:20.2",
+      "pali": "acalo suppatiṭṭhito;"
+    },
+    {
+      "id": "thag17.2:20.3",
+      "pali": "Evaṁ mohakkhayā bhikkhu,"
+    },
+    {
+      "id": "thag17.2:20.4",
+      "pali": "pabbatova na vedhati”."
+    },
+    {
+      "id": "thag17.2:21.1",
+      "pali": "“Anaṅgaṇassa posassa,"
+    },
+    {
+      "id": "thag17.2:21.2",
+      "pali": "niccaṁ sucigavesino;"
+    },
+    {
+      "id": "thag17.2:21.3",
+      "pali": "Vālaggamattaṁ pāpassa,"
+    },
+    {
+      "id": "thag17.2:21.4",
+      "pali": "abbhamattaṁva khāyati."
+    },
+    {
+      "id": "thag17.2:22.1",
+      "pali": "Nābhinandāmi maraṇaṁ,"
+    },
+    {
+      "id": "thag17.2:22.2",
+      "pali": "nābhinandāmi jīvitaṁ;"
+    },
+    {
+      "id": "thag17.2:22.3",
+      "pali": "Nikkhipissaṁ imaṁ kāyaṁ,"
+    },
+    {
+      "id": "thag17.2:22.4",
+      "pali": "sampajāno patissato."
+    },
+    {
+      "id": "thag17.2:23.1",
+      "pali": "Nābhinandāmi maraṇaṁ,"
+    },
+    {
+      "id": "thag17.2:23.2",
+      "pali": "nābhinandāmi jīvitaṁ;"
+    },
+    {
+      "id": "thag17.2:23.3",
+      "pali": "Kālañca paṭikaṅkhāmi,"
+    },
+    {
+      "id": "thag17.2:23.4",
+      "pali": "nibbisaṁ bhatako yathā”."
+    },
+    {
+      "id": "thag17.2:24.1",
+      "pali": "“Ubhayena midaṁ maraṇameva,"
+    },
+    {
+      "id": "thag17.2:24.2",
+      "pali": "Nāmaraṇaṁ pacchā vā pure vā;"
+    },
+    {
+      "id": "thag17.2:24.3",
+      "pali": "Paṭipajjatha mā vinassatha,"
+    },
+    {
+      "id": "thag17.2:24.4",
+      "pali": "Khaṇo vo mā upaccagā."
+    },
+    {
+      "id": "thag17.2:25.1",
+      "pali": "Nagaraṁ yathā paccantaṁ,"
+    },
+    {
+      "id": "thag17.2:25.2",
+      "pali": "guttaṁ santarabāhiraṁ;"
+    },
+    {
+      "id": "thag17.2:25.3",
+      "pali": "Evaṁ gopetha attānaṁ,"
+    },
+    {
+      "id": "thag17.2:25.4",
+      "pali": "khaṇo vo mā upaccagā;"
+    },
+    {
+      "id": "thag17.2:25.5",
+      "pali": "Khaṇātītā hi socanti,"
+    },
+    {
+      "id": "thag17.2:25.6",
+      "pali": "nirayamhi samappitā”."
+    },
+    {
+      "id": "thag17.2:26.1",
+      "pali": "“Upasanto uparato,"
+    },
+    {
+      "id": "thag17.2:26.2",
+      "pali": "mantabhāṇī anuddhato;"
+    },
+    {
+      "id": "thag17.2:26.3",
+      "pali": "Dhunāti pāpake dhamme,"
+    },
+    {
+      "id": "thag17.2:26.4",
+      "pali": "dumapattaṁva māluto."
+    },
+    {
+      "id": "thag17.2:27.1",
+      "pali": "Upasanto uparato,"
+    },
+    {
+      "id": "thag17.2:27.2",
+      "pali": "mantabhāṇī anuddhato;"
+    },
+    {
+      "id": "thag17.2:27.3",
+      "pali": "Appāsi pāpake dhamme,"
+    },
+    {
+      "id": "thag17.2:27.4",
+      "pali": "dumapattaṁva māluto."
+    },
+    {
+      "id": "thag17.2:28.1",
+      "pali": "Upasanto anāyāso,"
+    },
+    {
+      "id": "thag17.2:28.2",
+      "pali": "vippasanno anāvilo;"
+    },
+    {
+      "id": "thag17.2:28.3",
+      "pali": "Kalyāṇasīlo medhāvī,"
+    },
+    {
+      "id": "thag17.2:28.4",
+      "pali": "dukkhassantakaro siyā”."
+    },
+    {
+      "id": "thag17.2:29.1",
+      "pali": "“Na vissase ekatiyesu evaṁ,"
+    },
+    {
+      "id": "thag17.2:29.2",
+      "pali": "Agārisu pabbajitesu cāpi;"
+    },
+    {
+      "id": "thag17.2:29.3",
+      "pali": "Sādhūpi hutvā na asādhu honti,"
+    },
+    {
+      "id": "thag17.2:29.4",
+      "pali": "Asādhu hutvā puna sādhu honti."
+    },
+    {
+      "id": "thag17.2:30.1",
+      "pali": "Kāmacchando ca byāpādo,"
+    },
+    {
+      "id": "thag17.2:30.2",
+      "pali": "thinamiddhañca bhikkhuno;"
+    },
+    {
+      "id": "thag17.2:30.3",
+      "pali": "Uddhaccaṁ vicikicchā ca,"
+    },
+    {
+      "id": "thag17.2:30.4",
+      "pali": "pañcete cittakelisā."
+    },
+    {
+      "id": "thag17.2:31.1",
+      "pali": "Yassa sakkariyamānassa,"
+    },
+    {
+      "id": "thag17.2:31.2",
+      "pali": "asakkārena cūbhayaṁ;"
+    },
+    {
+      "id": "thag17.2:31.3",
+      "pali": "Samādhi na vikampati,"
+    },
+    {
+      "id": "thag17.2:31.4",
+      "pali": "appamādavihārino."
+    },
+    {
+      "id": "thag17.2:32.1",
+      "pali": "Taṁ jhāyinaṁ sātatikaṁ,"
+    },
+    {
+      "id": "thag17.2:32.2",
+      "pali": "sukhumadiṭṭhivipassakaṁ;"
+    },
+    {
+      "id": "thag17.2:32.3",
+      "pali": "Upādānakkhayārāmaṁ,"
+    },
+    {
+      "id": "thag17.2:32.4",
+      "pali": "āhu sappuriso iti."
+    },
+    {
+      "id": "thag17.2:33.1",
+      "pali": "Mahāsamuddo pathavī,"
+    },
+    {
+      "id": "thag17.2:33.2",
+      "pali": "pabbato anilopi ca;"
+    },
+    {
+      "id": "thag17.2:33.3",
+      "pali": "Upamāya na yujjanti,"
+    },
+    {
+      "id": "thag17.2:33.4",
+      "pali": "satthu varavimuttiyā."
+    },
+    {
+      "id": "thag17.2:34.1",
+      "pali": "Cakkānuvattako thero,"
+    },
+    {
+      "id": "thag17.2:34.2",
+      "pali": "mahāñāṇī samāhito;"
+    },
+    {
+      "id": "thag17.2:34.3",
+      "pali": "Pathavāpaggisamāno,"
+    },
+    {
+      "id": "thag17.2:34.4",
+      "pali": "na rajjati na dussati."
+    },
+    {
+      "id": "thag17.2:35.1",
+      "pali": "Paññāpāramitaṁ patto,"
+    },
+    {
+      "id": "thag17.2:35.2",
+      "pali": "mahābuddhi mahāmati;"
+    },
+    {
+      "id": "thag17.2:35.3",
+      "pali": "Ajaḷo jaḷasamāno,"
+    },
+    {
+      "id": "thag17.2:35.4",
+      "pali": "sadā carati nibbuto."
+    },
+    {
+      "id": "thag17.2:36.1",
+      "pali": "Pariciṇṇo mayā satthā,"
+    },
+    {
+      "id": "thag17.2:36.2",
+      "pali": "… pe"
+    },
+    {
+      "id": "thag17.2:36.3",
+      "pali": "…"
+    },
+    {
+      "id": "thag17.2:36.4",
+      "pali": "bhavanetti samūhatā."
+    },
+    {
+      "id": "thag17.2:37.1",
+      "pali": "Sampādethappamādena,"
+    },
+    {
+      "id": "thag17.2:37.2",
+      "pali": "esā me anusāsanī;"
+    },
+    {
+      "id": "thag17.2:37.3",
+      "pali": "Handāhaṁ parinibbissaṁ,"
+    },
+    {
+      "id": "thag17.2:37.4",
+      "pali": "vippamuttomhi sabbadhī”ti."
+    },
+    {
+      "id": "thag17.2:37.5",
+      "pali": "… Sāriputto thero …"
+    }
+  ]
+}

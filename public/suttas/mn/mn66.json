@@ -1,0 +1,807 @@
+{
+  "uid": "mn66",
+  "title": "Laṭukikopamasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn66:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn66:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā aṅguttarāpesu viharati āpaṇaṁ nāma aṅguttarāpānaṁ nigamo."
+    },
+    {
+      "id": "mn66:2.1",
+      "pali": "Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya āpaṇaṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "mn66:2.2",
+      "pali": "Āpaṇe piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yenaññataro vanasaṇḍo tenupasaṅkami divāvihārāya."
+    },
+    {
+      "id": "mn66:2.3",
+      "pali": "Taṁ vanasaṇḍaṁ ajjhogāhetvā aññatarasmiṁ rukkhamūle divāvihāraṁ nisīdi."
+    },
+    {
+      "id": "mn66:3.1",
+      "pali": "Āyasmāpi kho udāyī pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya āpaṇaṁ piṇḍāya pāvisi."
+    },
+    {
+      "id": "mn66:3.2",
+      "pali": "Āpaṇe piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena so vanasaṇḍo tenupasaṅkami divāvihārāya."
+    },
+    {
+      "id": "mn66:3.3",
+      "pali": "Taṁ vanasaṇḍaṁ ajjhogāhetvā aññatarasmiṁ rukkhamūle divāvihāraṁ nisīdi."
+    },
+    {
+      "id": "mn66:3.4",
+      "pali": "Atha kho āyasmato udāyissa rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi:"
+    },
+    {
+      "id": "mn66:4.1",
+      "pali": "“bahūnaṁ vata no bhagavā dukkhadhammānaṁ apahattā, bahūnaṁ vata no bhagavā sukhadhammānaṁ upahattā;"
+    },
+    {
+      "id": "mn66:4.2",
+      "pali": "bahūnaṁ vata no bhagavā akusalānaṁ dhammānaṁ apahattā, bahūnaṁ vata no bhagavā kusalānaṁ dhammānaṁ upahattā”ti."
+    },
+    {
+      "id": "mn66:5.1",
+      "pali": "Atha kho āyasmā udāyī sāyanhasamayaṁ paṭisallānā vuṭṭhito yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā udāyī bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn66:6.1",
+      "pali": "“idha mayhaṁ, bhante, rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi:"
+    },
+    {
+      "id": "mn66:6.2",
+      "pali": "‘bahūnaṁ vata no bhagavā dukkhadhammānaṁ apahattā, bahūnaṁ vata no bhagavā sukhadhammānaṁ upahattā;"
+    },
+    {
+      "id": "mn66:6.3",
+      "pali": "bahūnaṁ vata no bhagavā akusalānaṁ dhammānaṁ apahattā, bahūnaṁ vata no bhagavā kusalānaṁ dhammānaṁ upahattā’ti."
+    },
+    {
+      "id": "mn66:6.4",
+      "pali": "Mayañhi, bhante, pubbe sāyañceva bhuñjāma pāto ca divā ca vikāle."
+    },
+    {
+      "id": "mn66:6.5",
+      "pali": "Ahu kho so, bhante, samayo yaṁ bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn66:6.6",
+      "pali": "‘iṅgha tumhe, bhikkhave, etaṁ divāvikālabhojanaṁ pajahathā’ti."
+    },
+    {
+      "id": "mn66:6.7",
+      "pali": "Tassa mayhaṁ, bhante, ahudeva aññathattaṁ, ahudeva domanassaṁ:"
+    },
+    {
+      "id": "mn66:6.8",
+      "pali": "‘yampi no saddhā gahapatikā divā vikāle paṇītaṁ khādanīyaṁ bhojanīyaṁ denti tassapi no bhagavā pahānamāha, tassapi no sugato paṭinissaggamāhā’ti."
+    },
+    {
+      "id": "mn66:6.9",
+      "pali": "Te mayaṁ, bhante, bhagavati pemañca gāravañca hiriñca ottappañca sampassamānā evaṁ taṁ divāvikālabhojanaṁ pajahimhā."
+    },
+    {
+      "id": "mn66:6.10",
+      "pali": "Te mayaṁ, bhante, sāyañceva bhuñjāma pāto ca."
+    },
+    {
+      "id": "mn66:6.11",
+      "pali": "Ahu kho so, bhante, samayo yaṁ bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn66:6.12",
+      "pali": "‘iṅgha tumhe, bhikkhave, etaṁ rattiṁvikālabhojanaṁ pajahathā’ti."
+    },
+    {
+      "id": "mn66:6.13",
+      "pali": "Tassa mayhaṁ, bhante, ahudeva aññathattaṁ ahudeva domanassaṁ:"
+    },
+    {
+      "id": "mn66:6.14",
+      "pali": "‘yampi no imesaṁ dvinnaṁ bhattānaṁ paṇītasaṅkhātataraṁ tassapi no bhagavā pahānamāha, tassapi no sugato paṭinissaggamāhā’ti."
+    },
+    {
+      "id": "mn66:6.15",
+      "pali": "Bhūtapubbaṁ, bhante, aññataro puriso divā sūpeyyaṁ labhitvā evamāha:"
+    },
+    {
+      "id": "mn66:6.16",
+      "pali": "‘handa ca imaṁ nikkhipatha, sāyaṁ sabbeva samaggā bhuñjissāmā’ti."
+    },
+    {
+      "id": "mn66:6.17",
+      "pali": "Yā kāci, bhante, saṅkhatiyo sabbā tā rattiṁ, appā divā."
+    },
+    {
+      "id": "mn66:6.18",
+      "pali": "Te mayaṁ, bhante, bhagavati pemañca gāravañca hiriñca ottappañca sampassamānā evaṁ taṁ rattiṁvikālabhojanaṁ pajahimhā."
+    },
+    {
+      "id": "mn66:6.19",
+      "pali": "Bhūtapubbaṁ, bhante, bhikkhū rattandhakāratimisāyaṁ piṇḍāya carantā candanikampi pavisanti, oligallepi papatanti, kaṇṭakāvāṭampi ārohanti, suttampi gāviṁ ārohanti, māṇavehipi samāgacchanti katakammehipi akatakammehipi, mātugāmopi te asaddhammena nimanteti."
+    },
+    {
+      "id": "mn66:6.20",
+      "pali": "Bhūtapubbāhaṁ, bhante, rattandhakāratimisāyaṁ piṇḍāya carāmi."
+    },
+    {
+      "id": "mn66:6.21",
+      "pali": "Addasā kho maṁ, bhante, aññatarā itthī vijjantarikāya bhājanaṁ dhovantī."
+    },
+    {
+      "id": "mn66:6.22",
+      "pali": "Disvā maṁ bhītā vissaramakāsi:"
+    },
+    {
+      "id": "mn66:6.23",
+      "pali": "‘abhumme pisāco vata man’ti."
+    },
+    {
+      "id": "mn66:6.24",
+      "pali": "Evaṁ vutte, ahaṁ, bhante, taṁ itthiṁ etadavocaṁ:"
+    },
+    {
+      "id": "mn66:6.25",
+      "pali": "‘nāhaṁ, bhagini, pisāco;"
+    },
+    {
+      "id": "mn66:6.26",
+      "pali": "bhikkhu piṇḍāya ṭhito’ti."
+    },
+    {
+      "id": "mn66:6.27",
+      "pali": "‘Bhikkhussa ātumārī, bhikkhussa mātumārī."
+    },
+    {
+      "id": "mn66:6.28",
+      "pali": "Varaṁ te, bhikkhu, tiṇhena govikantanena kucchi parikanto, na tveva varaṁ yaṁ rattandhakāratimisāyaṁ kucchihetu piṇḍāya carasī’ti."
+    },
+    {
+      "id": "mn66:6.29",
+      "pali": "Tassa mayhaṁ, bhante, tadanussarato evaṁ hoti:"
+    },
+    {
+      "id": "mn66:6.30",
+      "pali": "‘bahūnaṁ vata no bhagavā dukkhadhammānaṁ apahattā, bahūnaṁ vata no bhagavā sukhadhammānaṁ upahattā;"
+    },
+    {
+      "id": "mn66:6.31",
+      "pali": "bahūnaṁ vata no bhagavā akusalānaṁ dhammānaṁ apahattā, bahūnaṁ vata no bhagavā kusalānaṁ dhammānaṁ upahattā’”ti."
+    },
+    {
+      "id": "mn66:7.1",
+      "pali": "“Evameva panudāyi, idhekacce moghapurisā ‘idaṁ pajahathā’ti mayā vuccamānā te evamāhaṁsu:"
+    },
+    {
+      "id": "mn66:7.2",
+      "pali": "‘kiṁ panimassa appamattakassa oramattakassa adhisallikhatevāyaṁ samaṇo’ti."
+    },
+    {
+      "id": "mn66:7.3",
+      "pali": "Te tañceva nappajahanti, mayi ca appaccayaṁ upaṭṭhāpenti."
+    },
+    {
+      "id": "mn66:7.4",
+      "pali": "Ye ca bhikkhū sikkhākāmā tesaṁ taṁ, udāyi, hoti balavaṁ bandhanaṁ, daḷhaṁ bandhanaṁ, thiraṁ bandhanaṁ, apūtikaṁ bandhanaṁ, thūlo, kaliṅgaro—"
+    },
+    {
+      "id": "mn66:8.1",
+      "pali": "seyyathāpi, udāyi, laṭukikā sakuṇikā pūtilatāya bandhanena baddhā tattheva vadhaṁ vā bandhaṁ vā maraṇaṁ vā āgameti."
+    },
+    {
+      "id": "mn66:8.2",
+      "pali": "Yo nu kho, udāyi, evaṁ vadeyya:"
+    },
+    {
+      "id": "mn66:8.3",
+      "pali": "‘yena sā laṭukikā sakuṇikā pūtilatāya bandhanena baddhā tattheva vadhaṁ vā bandhaṁ vā maraṇaṁ vā āgameti, tañhi tassā abalaṁ bandhanaṁ, dubbalaṁ bandhanaṁ, pūtikaṁ bandhanaṁ, asārakaṁ bandhanan’ti;"
+    },
+    {
+      "id": "mn66:8.4",
+      "pali": "sammā nu kho so, udāyi, vadamāno vadeyyā”ti?"
+    },
+    {
+      "id": "mn66:8.5",
+      "pali": "“No hetaṁ, bhante."
+    },
+    {
+      "id": "mn66:8.6",
+      "pali": "Yena sā, bhante, laṭukikā sakuṇikā pūtilatāya bandhanena baddhā tattheva vadhaṁ vā bandhaṁ vā maraṇaṁ vā āgameti, tañhi tassā balavaṁ bandhanaṁ, daḷhaṁ bandhanaṁ, thiraṁ bandhanaṁ apūtikaṁ bandhanaṁ, thūlo, kaliṅgaro”ti."
+    },
+    {
+      "id": "mn66:8.7",
+      "pali": "“Evameva kho, udāyi, idhekacce moghapurisā ‘idaṁ pajahathā’ti mayā vuccamānā te evamāhaṁsu:"
+    },
+    {
+      "id": "mn66:8.8",
+      "pali": "‘kiṁ panimassa appamattakassa oramattakassa adhisallikhatevāyaṁ samaṇo’ti?"
+    },
+    {
+      "id": "mn66:8.9",
+      "pali": "Te tañceva nappajahanti, mayi ca appaccayaṁ upaṭṭhāpenti."
+    },
+    {
+      "id": "mn66:8.10",
+      "pali": "Ye ca bhikkhū sikkhākāmā tesaṁ taṁ, udāyi, hoti balavaṁ bandhanaṁ, daḷhaṁ bandhanaṁ, thiraṁ bandhanaṁ, apūtikaṁ bandhanaṁ, thūlo, kaliṅgaro."
+    },
+    {
+      "id": "mn66:9.1",
+      "pali": "Idha panudāyi, ekacce kulaputtā ‘idaṁ pajahathā’ti mayā vuccamānā te evamāhaṁsu:"
+    },
+    {
+      "id": "mn66:9.2",
+      "pali": "‘kiṁ panimassa appamattakassa oramattakassa pahātabbassa yassa no bhagavā pahānamāha, yassa no sugato paṭinissaggamāhā’ti?"
+    },
+    {
+      "id": "mn66:9.3",
+      "pali": "Te tañceva pajahanti, mayi ca na appaccayaṁ upaṭṭhāpenti."
+    },
+    {
+      "id": "mn66:9.4",
+      "pali": "Ye ca bhikkhū sikkhākāmā te taṁ pahāya appossukkā pannalomā paradattavuttā migabhūtena cetasā viharanti."
+    },
+    {
+      "id": "mn66:9.5",
+      "pali": "Tesaṁ taṁ, udāyi, hoti abalaṁ bandhanaṁ, dubbalaṁ bandhanaṁ, pūtikaṁ bandhanaṁ, asārakaṁ bandhanaṁ—"
+    },
+    {
+      "id": "mn66:10.1",
+      "pali": "seyyathāpi, udāyi, rañño nāgo īsādanto urūḷhavā abhijāto saṅgāmāvacaro daḷhehi varattehi bandhanehi baddho īsakaṁyeva kāyaṁ sannāmetvā tāni bandhanāni saṁchinditvā sampadāletvā yena kāmaṁ pakkamati."
+    },
+    {
+      "id": "mn66:10.2",
+      "pali": "Yo nu kho, udāyi, evaṁ vadeyya:"
+    },
+    {
+      "id": "mn66:10.3",
+      "pali": "‘yehi so rañño nāgo īsādanto urūḷhavā abhijāto saṅgāmāvacaro daḷhehi varattehi bandhanehi baddho īsakaṁyeva kāyaṁ sannāmetvā tāni bandhanāni saṁchinditvā sampadāletvā yena kāmaṁ pakkamati, tañhi tassa balavaṁ bandhanaṁ, daḷhaṁ bandhanaṁ, thiraṁ bandhanaṁ, apūtikaṁ bandhanaṁ, thūlo, kaliṅgaro’ti;"
+    },
+    {
+      "id": "mn66:10.4",
+      "pali": "sammā nu kho so, udāyi, vadamāno vadeyyā”ti?"
+    },
+    {
+      "id": "mn66:10.5",
+      "pali": "“No hetaṁ, bhante."
+    },
+    {
+      "id": "mn66:10.6",
+      "pali": "Yehi so, bhante, rañño nāgo īsādanto urūḷhavā abhijāto saṅgāmāvacaro daḷhehi varattehi bandhanehi baddho īsakaṁyeva kāyaṁ sannāmetvā tāni bandhanāni saṁchinditvā sampadāletvā yena kāmaṁ pakkamati, tañhi tassa abalaṁ bandhanaṁ …pe… asārakaṁ bandhanan”ti."
+    },
+    {
+      "id": "mn66:10.7",
+      "pali": "“Evameva kho, udāyi, idhekacce kulaputtā ‘idaṁ pajahathā’ti mayā vuccamānā te evamāhaṁsu:"
+    },
+    {
+      "id": "mn66:10.8",
+      "pali": "‘kiṁ panimassa appamattakassa oramattakassa pahātabbassa yassa no bhagavā pahānamāha, yassa no sugato paṭinissaggamāhā’ti?"
+    },
+    {
+      "id": "mn66:10.9",
+      "pali": "Te tañceva pajahanti, mayi ca na appaccayaṁ upaṭṭhāpenti."
+    },
+    {
+      "id": "mn66:10.10",
+      "pali": "Ye ca bhikkhū sikkhākāmā te taṁ pahāya appossukkā pannalomā paradattavuttā migabhūtena cetasā viharanti."
+    },
+    {
+      "id": "mn66:10.11",
+      "pali": "Tesaṁ taṁ, udāyi, hoti abalaṁ bandhanaṁ, dubbalaṁ bandhanaṁ, pūtikaṁ bandhanaṁ, asārakaṁ bandhanaṁ."
+    },
+    {
+      "id": "mn66:11.1",
+      "pali": "Seyyathāpi, udāyi, puriso daliddo assako anāḷhiyo;"
+    },
+    {
+      "id": "mn66:11.2",
+      "pali": "tassassa ekaṁ agārakaṁ oluggaviluggaṁ kākātidāyiṁ naparamarūpaṁ, ekā khaṭopikā oluggaviluggā naparamarūpā, ekissā kumbhiyā dhaññasamavāpakaṁ naparamarūpaṁ, ekā jāyikā naparamarūpā."
+    },
+    {
+      "id": "mn66:11.3",
+      "pali": "So ārāmagataṁ bhikkhuṁ passeyya sudhotahatthapādaṁ manuññaṁ bhojanaṁ bhuttāviṁ sītāya chāyāya nisinnaṁ adhicitte yuttaṁ."
+    },
+    {
+      "id": "mn66:11.4",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn66:11.5",
+      "pali": "‘sukhaṁ vata bho sāmaññaṁ, ārogyaṁ vata bho sāmaññaṁ."
+    },
+    {
+      "id": "mn66:11.6",
+      "pali": "So vatassaṁ yohaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan’ti."
+    },
+    {
+      "id": "mn66:11.7",
+      "pali": "So na sakkuṇeyya ekaṁ agārakaṁ oluggaviluggaṁ kākātidāyiṁ naparamarūpaṁ pahāya, ekaṁ khaṭopikaṁ oluggaviluggaṁ naparamarūpaṁ pahāya, ekissā kumbhiyā dhaññasamavāpakaṁ naparamarūpaṁ pahāya, ekaṁ jāyikaṁ naparamarūpaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajituṁ."
+    },
+    {
+      "id": "mn66:11.8",
+      "pali": "Yo nu kho, udāyi, evaṁ vadeyya:"
+    },
+    {
+      "id": "mn66:11.9",
+      "pali": "‘yehi so puriso bandhanehi baddho na sakkoti ekaṁ agārakaṁ oluggaviluggaṁ kākātidāyiṁ naparamarūpaṁ pahāya, ekaṁ khaṭopikaṁ oluggaviluggaṁ naparamarūpaṁ pahāya, ekissā kumbhiyā dhaññasamavāpakaṁ naparamarūpaṁ pahāya, ekaṁ jāyikaṁ naparamarūpaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajituṁ;"
+    },
+    {
+      "id": "mn66:11.10",
+      "pali": "tañhi tassa abalaṁ bandhanaṁ, dubbalaṁ bandhanaṁ, pūtikaṁ bandhanaṁ, asārakaṁ bandhanan’ti;"
+    },
+    {
+      "id": "mn66:11.11",
+      "pali": "sammā nu kho so, udāyi, vadamāno vadeyyā”ti?"
+    },
+    {
+      "id": "mn66:11.12",
+      "pali": "“No hetaṁ, bhante."
+    },
+    {
+      "id": "mn66:11.13",
+      "pali": "Yehi so, bhante, puriso bandhanehi baddho, na sakkoti ekaṁ agārakaṁ oluggaviluggaṁ kākātidāyiṁ naparamarūpaṁ pahāya, ekaṁ khaṭopikaṁ oluggaviluggaṁ naparamarūpaṁ pahāya, ekissā kumbhiyā dhaññasamavāpakaṁ naparamarūpaṁ pahāya, ekaṁ jāyikaṁ naparamarūpaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajituṁ;"
+    },
+    {
+      "id": "mn66:11.14",
+      "pali": "tañhi tassa balavaṁ bandhanaṁ, daḷhaṁ bandhanaṁ, thiraṁ bandhanaṁ, apūtikaṁ bandhanaṁ, thūlo, kaliṅgaro”ti."
+    },
+    {
+      "id": "mn66:11.15",
+      "pali": "“Evameva kho, udāyi, idhekacce moghapurisā ‘idaṁ pajahathā’ti mayā vuccamānā te evamāhaṁsu:"
+    },
+    {
+      "id": "mn66:11.16",
+      "pali": "‘kiṁ panimassa appamattakassa oramattakassa adhisallikhatevāyaṁ samaṇo’ti?"
+    },
+    {
+      "id": "mn66:11.17",
+      "pali": "Te tañceva nappajahanti, mayi ca appaccayaṁ upaṭṭhāpenti."
+    },
+    {
+      "id": "mn66:11.18",
+      "pali": "Ye ca bhikkhū sikkhākāmā tesaṁ taṁ, udāyi, hoti balavaṁ bandhanaṁ, daḷhaṁ bandhanaṁ, thiraṁ bandhanaṁ, apūtikaṁ bandhanaṁ, thūlo, kaliṅgaro."
+    },
+    {
+      "id": "mn66:12.1",
+      "pali": "Seyyathāpi, udāyi, gahapati vā gahapatiputto vā aḍḍho mahaddhano mahābhogo, nekānaṁ nikkhagaṇānaṁ cayo, nekānaṁ dhaññagaṇānaṁ cayo, nekānaṁ khettagaṇānaṁ cayo, nekānaṁ vatthugaṇānaṁ cayo, nekānaṁ bhariyagaṇānaṁ cayo, nekānaṁ dāsagaṇānaṁ cayo, nekānaṁ dāsigaṇānaṁ cayo;"
+    },
+    {
+      "id": "mn66:12.2",
+      "pali": "so ārāmagataṁ bhikkhuṁ passeyya sudhotahatthapādaṁ manuññaṁ bhojanaṁ bhuttāviṁ sītāya chāyāya nisinnaṁ adhicitte yuttaṁ."
+    },
+    {
+      "id": "mn66:12.3",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn66:12.4",
+      "pali": "‘sukhaṁ vata bho sāmaññaṁ, ārogyaṁ vata bho sāmaññaṁ."
+    },
+    {
+      "id": "mn66:12.5",
+      "pali": "So vatassaṁ yohaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan’ti."
+    },
+    {
+      "id": "mn66:12.6",
+      "pali": "So sakkuṇeyya nekāni nikkhagaṇāni pahāya, nekāni dhaññagaṇāni pahāya, nekāni khettagaṇāni pahāya, nekāni vatthugaṇāni pahāya, nekāni bhariyagaṇāni pahāya, nekāni dāsagaṇāni pahāya, nekāni dāsigaṇāni pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajituṁ."
+    },
+    {
+      "id": "mn66:12.7",
+      "pali": "Yo nu kho, udāyi, evaṁ vadeyya:"
+    },
+    {
+      "id": "mn66:12.8",
+      "pali": "‘yehi so gahapati vā gahapatiputto vā bandhanehi baddho, sakkoti nekāni nikkhagaṇāni pahāya, nekāni dhaññagaṇāni pahāya, nekāni khettagaṇāni pahāya, nekāni vatthugaṇāni pahāya, nekāni bhariyagaṇāni pahāya, nekāni dāsagaṇāni pahāya, nekāni dāsigaṇāni pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajituṁ, tañhi tassa balavaṁ bandhanaṁ, daḷhaṁ bandhanaṁ, thiraṁ bandhanaṁ, apūtikaṁ bandhanaṁ, thūlo, kaliṅgaro’ti;"
+    },
+    {
+      "id": "mn66:12.9",
+      "pali": "sammā nu kho so, udāyi, vadamāno vadeyyā”ti?"
+    },
+    {
+      "id": "mn66:12.10",
+      "pali": "“No hetaṁ, bhante."
+    },
+    {
+      "id": "mn66:12.11",
+      "pali": "Yehi so, bhante, gahapati vā gahapatiputto vā bandhanehi baddho, sakkoti nekāni nikkhagaṇāni pahāya, nekāni dhaññagaṇāni pahāya, nekāni khettagaṇāni pahāya, nekāni vatthugaṇāni pahāya, nekāni bhariyagaṇāni pahāya, nekāni dāsagaṇāni pahāya, nekāni dāsigaṇāni pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajituṁ;"
+    },
+    {
+      "id": "mn66:12.12",
+      "pali": "tañhi tassa abalaṁ bandhanaṁ, dubbalaṁ bandhanaṁ, pūtikaṁ bandhanaṁ, asārakaṁ bandhanan”ti."
+    },
+    {
+      "id": "mn66:12.13",
+      "pali": "“Evameva kho, udāyi, idhekacce kulaputtā ‘idaṁ pajahathā’ti mayā vuccamānā te evamāhaṁsu:"
+    },
+    {
+      "id": "mn66:12.14",
+      "pali": "‘kiṁ panimassa appamattakassa oramattakassa pahātabbassa yassa no bhagavā pahānamāha, yassa no sugato paṭinissaggamāhā’ti?"
+    },
+    {
+      "id": "mn66:12.15",
+      "pali": "Te tañceva pajahanti, mayi ca na appaccayaṁ upaṭṭhāpenti."
+    },
+    {
+      "id": "mn66:12.16",
+      "pali": "Ye ca bhikkhū sikkhākāmā te taṁ pahāya appossukkā pannalomā paradattavuttā migabhūtena cetasā viharanti."
+    },
+    {
+      "id": "mn66:12.17",
+      "pali": "Tesaṁ taṁ, udāyi, hoti abalaṁ bandhanaṁ, dubbalaṁ bandhanaṁ, pūtikaṁ bandhanaṁ, asārakaṁ bandhanaṁ."
+    },
+    {
+      "id": "mn66:13.1",
+      "pali": "Cattārome, udāyi, puggalā santo saṁvijjamānā lokasmiṁ."
+    },
+    {
+      "id": "mn66:13.2",
+      "pali": "Katame cattāro?"
+    },
+    {
+      "id": "mn66:14.1",
+      "pali": "Idhudāyi, ekacco puggalo upadhipahānāya paṭipanno hoti upadhipaṭinissaggāya."
+    },
+    {
+      "id": "mn66:14.2",
+      "pali": "Tamenaṁ upadhipahānāya paṭipannaṁ upadhipaṭinissaggāya upadhipaṭisaṁyuttā sarasaṅkappā samudācaranti."
+    },
+    {
+      "id": "mn66:14.3",
+      "pali": "So te adhivāseti, nappajahati, na vinodeti, na byantīkaroti, na anabhāvaṁ gameti."
+    },
+    {
+      "id": "mn66:14.4",
+      "pali": "Imaṁ kho ahaṁ, udāyi, puggalaṁ ‘saṁyutto’ti vadāmi no ‘visaṁyutto’."
+    },
+    {
+      "id": "mn66:14.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn66:14.6",
+      "pali": "Indriyavemattatā hi me, udāyi, imasmiṁ puggale viditā."
+    },
+    {
+      "id": "mn66:15.1",
+      "pali": "Idha panudāyi, ekacco puggalo upadhipahānāya paṭipanno hoti upadhipaṭinissaggāya."
+    },
+    {
+      "id": "mn66:15.2",
+      "pali": "Tamenaṁ upadhipahānāya paṭipannaṁ upadhipaṭinissaggāya upadhipaṭisaṁyuttā sarasaṅkappā samudācaranti."
+    },
+    {
+      "id": "mn66:15.3",
+      "pali": "So te nādhivāseti, pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti."
+    },
+    {
+      "id": "mn66:15.4",
+      "pali": "Imampi kho ahaṁ, udāyi, puggalaṁ ‘saṁyutto’ti vadāmi no ‘visaṁyutto’."
+    },
+    {
+      "id": "mn66:15.5",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn66:15.6",
+      "pali": "Indriyavemattatā hi me, udāyi, imasmiṁ puggale viditā."
+    },
+    {
+      "id": "mn66:16.1",
+      "pali": "Idha panudāyi, ekacco puggalo upadhipahānāya paṭipanno hoti upadhipaṭinissaggāya."
+    },
+    {
+      "id": "mn66:16.2",
+      "pali": "Tamenaṁ upadhipahānāya paṭipannaṁ upadhipaṭinissaggāya kadāci karahaci satisammosā upadhipaṭisaṁyuttā sarasaṅkappā samudācaranti;"
+    },
+    {
+      "id": "mn66:16.3",
+      "pali": "dandho, udāyi, satuppādo."
+    },
+    {
+      "id": "mn66:16.4",
+      "pali": "Atha kho naṁ khippameva pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti."
+    },
+    {
+      "id": "mn66:16.5",
+      "pali": "Seyyathāpi, udāyi, puriso divasaṁsantatte ayokaṭāhe dve vā tīṇi vā udakaphusitāni nipāteyya;"
+    },
+    {
+      "id": "mn66:16.6",
+      "pali": "dandho, udāyi, udakaphusitānaṁ nipāto. Atha kho naṁ khippameva parikkhayaṁ pariyādānaṁ gaccheyya."
+    },
+    {
+      "id": "mn66:16.7",
+      "pali": "Evameva kho, udāyi, idhekacco puggalo upadhipahānāya paṭipanno hoti upadhipaṭinissaggāya."
+    },
+    {
+      "id": "mn66:16.8",
+      "pali": "Tamenaṁ upadhipahānāya paṭipannaṁ upadhipaṭinissaggāya kadāci karahaci satisammosā upadhipaṭisaṁyuttā sarasaṅkappā samudācaranti;"
+    },
+    {
+      "id": "mn66:16.9",
+      "pali": "dandho, udāyi, satuppādo."
+    },
+    {
+      "id": "mn66:16.10",
+      "pali": "Atha kho naṁ khippameva pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti."
+    },
+    {
+      "id": "mn66:16.11",
+      "pali": "Imampi kho ahaṁ, udāyi, puggalaṁ ‘saṁyutto’ti vadāmi no ‘visaṁyutto’."
+    },
+    {
+      "id": "mn66:16.12",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn66:16.13",
+      "pali": "Indriyavemattatā hi me, udāyi, imasmiṁ puggale viditā."
+    },
+    {
+      "id": "mn66:17.1",
+      "pali": "Idha panudāyi, ekacco puggalo ‘upadhi dukkhassa mūlan’ti—"
+    },
+    {
+      "id": "mn66:17.2",
+      "pali": "iti viditvā nirupadhi hoti, upadhisaṅkhaye vimutto."
+    },
+    {
+      "id": "mn66:17.3",
+      "pali": "Imaṁ kho ahaṁ, udāyi, puggalaṁ ‘visaṁyutto’ti vadāmi no ‘saṁyutto’ti."
+    },
+    {
+      "id": "mn66:17.4",
+      "pali": "Taṁ kissa hetu?"
+    },
+    {
+      "id": "mn66:17.5",
+      "pali": "Indriyavemattatā hi me, udāyi, imasmiṁ puggale viditā."
+    },
+    {
+      "id": "mn66:17.6",
+      "pali": "Ime kho, udāyi, cattāro puggalā santo saṁvijjamānā lokasmiṁ."
+    },
+    {
+      "id": "mn66:18.1",
+      "pali": "Pañca kho ime, udāyi, kāmaguṇā."
+    },
+    {
+      "id": "mn66:18.2",
+      "pali": "Katame pañca?"
+    },
+    {
+      "id": "mn66:18.3",
+      "pali": "Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā,"
+    },
+    {
+      "id": "mn66:18.4",
+      "pali": "sotaviññeyyā saddā …pe…"
+    },
+    {
+      "id": "mn66:18.5",
+      "pali": "ghānaviññeyyā gandhā …"
+    },
+    {
+      "id": "mn66:18.6",
+      "pali": "jivhāviññeyyā rasā …"
+    },
+    {
+      "id": "mn66:18.7",
+      "pali": "kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā."
+    },
+    {
+      "id": "mn66:18.8",
+      "pali": "Ime kho, udāyi, pañca kāmaguṇā."
+    },
+    {
+      "id": "mn66:19.1",
+      "pali": "Yaṁ kho, udāyi, ime pañca kāmaguṇe paṭicca uppajjati sukhaṁ somanassaṁ idaṁ vuccati kāmasukhaṁ miḷhasukhaṁ puthujjanasukhaṁ anariyasukhaṁ, na sevitabbaṁ, na bhāvetabbaṁ, na bahulīkātabbaṁ; ‘bhāyitabbaṁ etassa sukhassā’ti vadāmi."
+    },
+    {
+      "id": "mn66:20.1",
+      "pali": "Idhudāyi, bhikkhu vivicceva kāmehi …pe… paṭhamaṁ jhānaṁ upasampajja viharati"
+    },
+    {
+      "id": "mn66:20.2",
+      "pali": "vitakkavicārānaṁ vūpasamā …pe… dutiyaṁ jhānaṁ upasampajja viharati,"
+    },
+    {
+      "id": "mn66:20.3",
+      "pali": "pītiyā ca virāgā …pe… tatiyaṁ jhānaṁ upasampajja viharati,"
+    },
+    {
+      "id": "mn66:20.4",
+      "pali": "sukhassa ca pahānā …pe… catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn66:21.1",
+      "pali": "Idaṁ vuccati nekkhammasukhaṁ pavivekasukhaṁ upasamasukhaṁ sambodhasukhaṁ, āsevitabbaṁ, bhāvetabbaṁ, bahulīkātabbaṁ; ‘na bhāyitabbaṁ etassa sukhassā’ti vadāmi."
+    },
+    {
+      "id": "mn66:22.1",
+      "pali": "Idhudāyi, bhikkhu vivicceva kāmehi …pe… paṭhamaṁ jhānaṁ upasampajja viharati;"
+    },
+    {
+      "id": "mn66:22.2",
+      "pali": "idaṁ kho ahaṁ, udāyi, iñjitasmiṁ vadāmi."
+    },
+    {
+      "id": "mn66:22.3",
+      "pali": "Kiñca tattha iñjitasmiṁ?"
+    },
+    {
+      "id": "mn66:22.4",
+      "pali": "Yadeva tattha vitakkavicārā aniruddhā honti idaṁ tattha iñjitasmiṁ."
+    },
+    {
+      "id": "mn66:23.1",
+      "pali": "Idhudāyi, bhikkhu vitakkavicārānaṁ vūpasamā …pe… dutiyaṁ jhānaṁ upasampajja viharati;"
+    },
+    {
+      "id": "mn66:23.2",
+      "pali": "idampi kho ahaṁ, udāyi, iñjitasmiṁ vadāmi."
+    },
+    {
+      "id": "mn66:23.3",
+      "pali": "Kiñca tattha iñjitasmiṁ?"
+    },
+    {
+      "id": "mn66:23.4",
+      "pali": "Yadeva tattha pītisukhaṁ aniruddhaṁ hoti idaṁ tattha iñjitasmiṁ."
+    },
+    {
+      "id": "mn66:24.1",
+      "pali": "Idhudāyi, bhikkhu pītiyā ca virāgā …pe… tatiyaṁ jhānaṁ upasampajja viharati;"
+    },
+    {
+      "id": "mn66:24.2",
+      "pali": "idampi kho ahaṁ, udāyi, iñjitasmiṁ vadāmi."
+    },
+    {
+      "id": "mn66:24.3",
+      "pali": "Kiñca tattha iñjitasmiṁ?"
+    },
+    {
+      "id": "mn66:24.4",
+      "pali": "Yadeva tattha upekkhāsukhaṁ aniruddhaṁ hoti idaṁ tattha iñjitasmiṁ."
+    },
+    {
+      "id": "mn66:25.1",
+      "pali": "Idhudāyi, bhikkhu sukhassa ca pahānā …pe… catutthaṁ jhānaṁ upasampajja viharati;"
+    },
+    {
+      "id": "mn66:25.2",
+      "pali": "idaṁ kho ahaṁ, udāyi, aniñjitasmiṁ vadāmi."
+    },
+    {
+      "id": "mn66:26.1",
+      "pali": "Idhudāyi, bhikkhu vivicceva kāmehi …pe… paṭhamaṁ jhānaṁ upasampajja viharati;"
+    },
+    {
+      "id": "mn66:26.2",
+      "pali": "idaṁ kho ahaṁ, udāyi, ‘analan’ti vadāmi, ‘pajahathā’ti vadāmi, ‘samatikkamathā’ti vadāmi."
+    },
+    {
+      "id": "mn66:26.3",
+      "pali": "Ko ca tassa samatikkamo?"
+    },
+    {
+      "id": "mn66:27.1",
+      "pali": "Idhudāyi, bhikkhu vitakkavicārānaṁ vūpasamā …pe… dutiyaṁ jhānaṁ upasampajja viharati, ayaṁ tassa samatikkamo;"
+    },
+    {
+      "id": "mn66:27.2",
+      "pali": "idampi kho ahaṁ, udāyi, ‘analan’ti vadāmi, ‘pajahathā’ti vadāmi, ‘samatikkamathā’ti vadāmi."
+    },
+    {
+      "id": "mn66:27.3",
+      "pali": "Ko ca tassa samatikkamo?"
+    },
+    {
+      "id": "mn66:28.1",
+      "pali": "Idhudāyi, bhikkhu pītiyā ca virāgā …pe… tatiyaṁ jhānaṁ upasampajja viharati, ayaṁ tassa samatikkamo;"
+    },
+    {
+      "id": "mn66:28.2",
+      "pali": "idampi kho ahaṁ, udāyi, ‘analan’ti vadāmi, ‘pajahathā’ti vadāmi, ‘samatikkamathā’ti vadāmi."
+    },
+    {
+      "id": "mn66:28.3",
+      "pali": "Ko ca tassa samatikkamo?"
+    },
+    {
+      "id": "mn66:29.1",
+      "pali": "Idhudāyi, bhikkhu sukhassa ca pahānā …pe… catutthaṁ jhānaṁ upasampajja viharati, ayaṁ tassa samatikkamo;"
+    },
+    {
+      "id": "mn66:29.2",
+      "pali": "idampi kho ahaṁ, udāyi, ‘analan’ti vadāmi, ‘pajahathā’ti vadāmi, ‘samatikkamathā’ti vadāmi."
+    },
+    {
+      "id": "mn66:29.3",
+      "pali": "Ko ca tassa samatikkamo?"
+    },
+    {
+      "id": "mn66:30.1",
+      "pali": "Idhudāyi, bhikkhu sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati, ayaṁ tassa samatikkamo;"
+    },
+    {
+      "id": "mn66:30.2",
+      "pali": "idampi kho ahaṁ, udāyi, ‘analan’ti vadāmi, ‘pajahathā’ti vadāmi, ‘samatikkamathā’ti vadāmi."
+    },
+    {
+      "id": "mn66:30.3",
+      "pali": "Ko ca tassa samatikkamo?"
+    },
+    {
+      "id": "mn66:31.1",
+      "pali": "Idhudāyi, bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati, ayaṁ tassa samatikkamo;"
+    },
+    {
+      "id": "mn66:31.2",
+      "pali": "idampi kho ahaṁ, udāyi, ‘analan’ti vadāmi, ‘pajahathā’ti vadāmi, ‘samatikkamathā’ti vadāmi."
+    },
+    {
+      "id": "mn66:31.3",
+      "pali": "Ko ca tassa samatikkamo?"
+    },
+    {
+      "id": "mn66:32.1",
+      "pali": "Idhudāyi, bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati, ayaṁ tassa samatikkamo;"
+    },
+    {
+      "id": "mn66:32.2",
+      "pali": "idampi kho ahaṁ, udāyi, ‘analan’ti vadāmi, ‘pajahathā’ti vadāmi, ‘samatikkamathā’ti vadāmi."
+    },
+    {
+      "id": "mn66:32.3",
+      "pali": "Ko ca tassa samatikkamo?"
+    },
+    {
+      "id": "mn66:33.1",
+      "pali": "Idhudāyi, bhikkhu sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati, ayaṁ tassa samatikkamo;"
+    },
+    {
+      "id": "mn66:33.2",
+      "pali": "idampi kho ahaṁ, udāyi, ‘analan’ti vadāmi, ‘pajahathā’ti vadāmi, ‘samatikkamathā’ti vadāmi."
+    },
+    {
+      "id": "mn66:33.3",
+      "pali": "Ko ca tassa samatikkamo?"
+    },
+    {
+      "id": "mn66:34.1",
+      "pali": "Idhudāyi, bhikkhu sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharati, ayaṁ tassa samatikkamo;"
+    },
+    {
+      "id": "mn66:34.2",
+      "pali": "iti kho ahaṁ, udāyi, nevasaññānāsaññāyatanassapi pahānaṁ vadāmi."
+    },
+    {
+      "id": "mn66:34.3",
+      "pali": "Passasi no tvaṁ, udāyi, taṁ saṁyojanaṁ aṇuṁ vā thūlaṁ vā yassāhaṁ no pahānaṁ vadāmī”ti?"
+    },
+    {
+      "id": "mn66:34.4",
+      "pali": "“No hetaṁ, bhante”ti."
+    },
+    {
+      "id": "mn66:34.5",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn66:34.6",
+      "pali": "Attamano āyasmā udāyī bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn66:34.7",
+      "pali": "Laṭukikopamasuttaṁ niṭṭhitaṁ chaṭṭhaṁ."
+    }
+  ]
+}

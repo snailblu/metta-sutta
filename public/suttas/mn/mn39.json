@@ -1,0 +1,763 @@
+{
+  "uid": "mn39",
+  "title": "Mahāassapurasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn39:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn39:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā aṅgesu viharati assapuraṁ nāma aṅgānaṁ nigamo."
+    },
+    {
+      "id": "mn39:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn39:1.4",
+      "pali": "“bhikkhavo”ti."
+    },
+    {
+      "id": "mn39:1.5",
+      "pali": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn39:1.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn39:2.1",
+      "pali": "“Samaṇā samaṇāti vo, bhikkhave, jano sañjānāti."
+    },
+    {
+      "id": "mn39:2.2",
+      "pali": "Tumhe ca pana ‘ke tumhe’ti puṭṭhā samānā ‘samaṇāmhā’ti paṭijānātha;"
+    },
+    {
+      "id": "mn39:2.3",
+      "pali": "tesaṁ vo, bhikkhave, evaṁsamaññānaṁ sataṁ evaṁpaṭiññānaṁ sataṁ ‘ye dhammā samaṇakaraṇā ca brāhmaṇakaraṇā ca te dhamme samādāya vattissāma, evaṁ no ayaṁ amhākaṁ samaññā ca saccā bhavissati paṭiññā ca bhūtā."
+    },
+    {
+      "id": "mn39:2.4",
+      "pali": "Yesañca mayaṁ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāraṁ paribhuñjāma, tesaṁ te kārā amhesu mahapphalā bhavissanti mahānisaṁsā, amhākañcevāyaṁ pabbajjā avañjhā bhavissati saphalā saudrayā’ti."
+    },
+    {
+      "id": "mn39:2.5",
+      "pali": "Evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn39:3.1",
+      "pali": "Katame ca, bhikkhave, dhammā samaṇakaraṇā ca brāhmaṇakaraṇā ca?"
+    },
+    {
+      "id": "mn39:3.2",
+      "pali": "‘Hirottappena samannāgatā bhavissāmā’ti evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn39:3.3",
+      "pali": "Siyā kho pana, bhikkhave, tumhākaṁ evamassa:"
+    },
+    {
+      "id": "mn39:3.4",
+      "pali": "‘hirottappenamha samannāgatā, alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṁ karaṇīyan’ti tāvatakeneva tuṭṭhiṁ āpajjeyyātha."
+    },
+    {
+      "id": "mn39:3.5",
+      "pali": "Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:"
+    },
+    {
+      "id": "mn39:3.6",
+      "pali": "‘mā vo sāmaññatthikānaṁ sataṁ sāmaññattho parihāyi, sati uttariṁ karaṇīye’."
+    },
+    {
+      "id": "mn39:4.1",
+      "pali": "Kiñca, bhikkhave, uttariṁ karaṇīyaṁ?"
+    },
+    {
+      "id": "mn39:4.2",
+      "pali": "‘Parisuddho no kāyasamācāro bhavissati uttāno vivaṭo na ca chiddavā saṁvuto ca."
+    },
+    {
+      "id": "mn39:4.3",
+      "pali": "Tāya ca pana parisuddhakāyasamācāratāya nevattānukkaṁsessāma na paraṁ vambhessāmā’ti evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn39:4.4",
+      "pali": "Siyā kho pana, bhikkhave, tumhākaṁ evamassa:"
+    },
+    {
+      "id": "mn39:4.5",
+      "pali": "‘hirottappenamha samannāgatā, parisuddho no kāyasamācāro;"
+    },
+    {
+      "id": "mn39:4.6",
+      "pali": "alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṁ karaṇīyan’ti tāvatakeneva tuṭṭhiṁ āpajjeyyātha."
+    },
+    {
+      "id": "mn39:4.7",
+      "pali": "Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:"
+    },
+    {
+      "id": "mn39:4.8",
+      "pali": "‘mā vo sāmaññatthikānaṁ sataṁ sāmaññattho parihāyi, sati uttariṁ karaṇīye’."
+    },
+    {
+      "id": "mn39:5.1",
+      "pali": "Kiñca, bhikkhave, uttariṁ karaṇīyaṁ?"
+    },
+    {
+      "id": "mn39:5.2",
+      "pali": "‘Parisuddho no vacīsamācāro bhavissati uttāno vivaṭo na ca chiddavā saṁvuto ca."
+    },
+    {
+      "id": "mn39:5.3",
+      "pali": "Tāya ca pana parisuddhavacīsamācāratāya nevattānukkaṁsessāma na paraṁ vambhessāmā’ti evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn39:5.4",
+      "pali": "Siyā kho pana, bhikkhave, tumhākaṁ evamassa:"
+    },
+    {
+      "id": "mn39:5.5",
+      "pali": "‘hirottappenamha samannāgatā, parisuddho no kāyasamācāro, parisuddho vacīsamācāro;"
+    },
+    {
+      "id": "mn39:5.6",
+      "pali": "alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṁ karaṇīyan’ti tāvatakeneva tuṭṭhiṁ āpajjeyyātha."
+    },
+    {
+      "id": "mn39:5.7",
+      "pali": "Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:"
+    },
+    {
+      "id": "mn39:5.8",
+      "pali": "‘mā vo sāmaññatthikānaṁ sataṁ sāmaññattho parihāyi, sati uttariṁ karaṇīye’."
+    },
+    {
+      "id": "mn39:6.1",
+      "pali": "Kiñca, bhikkhave, uttariṁ karaṇīyaṁ?"
+    },
+    {
+      "id": "mn39:6.2",
+      "pali": "‘Parisuddho no manosamācāro bhavissati uttāno vivaṭo na ca chiddavā saṁvuto ca."
+    },
+    {
+      "id": "mn39:6.3",
+      "pali": "Tāya ca pana parisuddhamanosamācāratāya nevattānukkaṁsessāma na paraṁ vambhessāmā’ti evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn39:6.4",
+      "pali": "Siyā kho pana, bhikkhave, tumhākaṁ evamassa:"
+    },
+    {
+      "id": "mn39:6.5",
+      "pali": "‘hirottappenamha samannāgatā, parisuddho no kāyasamācāro, parisuddho vacīsamācāro, parisuddho manosamācāro;"
+    },
+    {
+      "id": "mn39:6.6",
+      "pali": "alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṁ karaṇīyan’ti tāvatakeneva tuṭṭhiṁ āpajjeyyātha."
+    },
+    {
+      "id": "mn39:6.7",
+      "pali": "Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:"
+    },
+    {
+      "id": "mn39:6.8",
+      "pali": "‘mā vo sāmaññatthikānaṁ sataṁ sāmaññattho parihāyi, sati uttariṁ karaṇīye’."
+    },
+    {
+      "id": "mn39:7.1",
+      "pali": "Kiñca, bhikkhave, uttariṁ karaṇīyaṁ?"
+    },
+    {
+      "id": "mn39:7.2",
+      "pali": "‘Parisuddho no ājīvo bhavissati uttāno vivaṭo na ca chiddavā saṁvuto ca."
+    },
+    {
+      "id": "mn39:7.3",
+      "pali": "Tāya ca pana parisuddhājīvatāya nevattānukkaṁsessāma na paraṁ vambhessāmā’ti evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn39:7.4",
+      "pali": "Siyā kho pana, bhikkhave, tumhākaṁ evamassa:"
+    },
+    {
+      "id": "mn39:7.5",
+      "pali": "‘hirottappenamha samannāgatā, parisuddho no kāyasamācāro, parisuddho vacīsamācāro, parisuddho manosamācāro, parisuddho ājīvo;"
+    },
+    {
+      "id": "mn39:7.6",
+      "pali": "alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṁ karaṇīyan’ti tāvatakeneva tuṭṭhiṁ āpajjeyyātha."
+    },
+    {
+      "id": "mn39:7.7",
+      "pali": "Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:"
+    },
+    {
+      "id": "mn39:7.8",
+      "pali": "‘mā vo sāmaññatthikānaṁ sataṁ sāmaññattho parihāyi, sati uttariṁ karaṇīye’."
+    },
+    {
+      "id": "mn39:8.1",
+      "pali": "Kiñca, bhikkhave, uttariṁ karaṇīyaṁ?"
+    },
+    {
+      "id": "mn39:8.2",
+      "pali": "‘Indriyesu guttadvārā bhavissāma;"
+    },
+    {
+      "id": "mn39:8.3",
+      "pali": "cakkhunā rūpaṁ disvā na nimittaggāhī nānubyañjanaggāhī."
+    },
+    {
+      "id": "mn39:8.4",
+      "pali": "Yatvādhikaraṇamenaṁ cakkhundriyaṁ asaṁvutaṁ viharantaṁ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṁ, tassa saṁvarāya paṭipajjissāma, rakkhissāma cakkhundriyaṁ, cakkhundriye saṁvaraṁ āpajjissāma."
+    },
+    {
+      "id": "mn39:8.5",
+      "pali": "Sotena saddaṁ sutvā …pe…"
+    },
+    {
+      "id": "mn39:8.6",
+      "pali": "ghānena gandhaṁ ghāyitvā …pe…"
+    },
+    {
+      "id": "mn39:8.7",
+      "pali": "jivhāya rasaṁ sāyitvā …pe…"
+    },
+    {
+      "id": "mn39:8.8",
+      "pali": "kāyena phoṭṭhabbaṁ phusitvā …pe…"
+    },
+    {
+      "id": "mn39:8.9",
+      "pali": "manasā dhammaṁ viññāya na nimittaggāhī nānubyañjanaggāhī."
+    },
+    {
+      "id": "mn39:8.10",
+      "pali": "Yatvādhikaraṇamenaṁ manindriyaṁ asaṁvutaṁ viharantaṁ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṁ, tassa saṁvarāya paṭipajjissāma, rakkhissāma manindriyaṁ, manindriye saṁvaraṁ āpajjissāmā’ti evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn39:8.11",
+      "pali": "Siyā kho pana, bhikkhave, tumhākaṁ evamassa:"
+    },
+    {
+      "id": "mn39:8.12",
+      "pali": "‘hirottappenamha samannāgatā, parisuddho no kāyasamācāro, parisuddho vacīsamācāro, parisuddho manosamācāro, parisuddho ājīvo, indriyesumha guttadvārā;"
+    },
+    {
+      "id": "mn39:8.13",
+      "pali": "alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṁ karaṇīyan’ti tāvatakeneva tuṭṭhiṁ āpajjeyyātha."
+    },
+    {
+      "id": "mn39:8.14",
+      "pali": "Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:"
+    },
+    {
+      "id": "mn39:8.15",
+      "pali": "‘mā vo sāmaññatthikānaṁ sataṁ sāmaññattho parihāyi, sati uttariṁ karaṇīye’."
+    },
+    {
+      "id": "mn39:9.1",
+      "pali": "Kiñca, bhikkhave, uttariṁ karaṇīyaṁ?"
+    },
+    {
+      "id": "mn39:9.2",
+      "pali": "‘Bhojane mattaññuno bhavissāma, paṭisaṅkhā yoniso āhāraṁ āharissāma,"
+    },
+    {
+      "id": "mn39:9.3",
+      "pali": "neva davāya na madāya na maṇḍanāya na vibhūsanāya yāvadeva imassa kāyassa ṭhitiyā yāpanāya, vihiṁsūparatiyā, brahmacariyānuggahāya, iti purāṇañca vedanaṁ paṭihaṅkhāma navañca vedanaṁ na uppādessāma, yātrā ca no bhavissati, anavajjatā ca, phāsu vihāro cā’ti evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn39:9.4",
+      "pali": "Siyā kho pana, bhikkhave, tumhākaṁ evamassa:"
+    },
+    {
+      "id": "mn39:9.5",
+      "pali": "‘hirottappenamha samannāgatā, parisuddho no kāyasamācāro, parisuddho vacīsamācāro, parisuddho manosamācāro, parisuddho ājīvo, indriyesumha guttadvārā, bhojane mattaññuno;"
+    },
+    {
+      "id": "mn39:9.6",
+      "pali": "alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṁ karaṇīyan’ti tāvatakeneva tuṭṭhiṁ āpajjeyyātha."
+    },
+    {
+      "id": "mn39:9.7",
+      "pali": "Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:"
+    },
+    {
+      "id": "mn39:9.8",
+      "pali": "‘mā vo, sāmaññatthikānaṁ sataṁ sāmaññattho parihāyi sati uttariṁ karaṇīye’."
+    },
+    {
+      "id": "mn39:10.1",
+      "pali": "Kiñca, bhikkhave, uttariṁ karaṇīyaṁ?"
+    },
+    {
+      "id": "mn39:10.2",
+      "pali": "‘Jāgariyaṁ anuyuttā bhavissāma, divasaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhessāma."
+    },
+    {
+      "id": "mn39:10.3",
+      "pali": "Rattiyā paṭhamaṁ yāmaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhessāma."
+    },
+    {
+      "id": "mn39:10.4",
+      "pali": "Rattiyā majjhimaṁ yāmaṁ dakkhiṇena passena sīhaseyyaṁ kappessāma pāde pādaṁ accādhāya, sato sampajāno uṭṭhānasaññaṁ manasi karitvā."
+    },
+    {
+      "id": "mn39:10.5",
+      "pali": "Rattiyā pacchimaṁ yāmaṁ paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhessāmā’ti, evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn39:10.6",
+      "pali": "Siyā kho pana, bhikkhave, tumhākaṁ evamassa:"
+    },
+    {
+      "id": "mn39:10.7",
+      "pali": "‘hirottappenamha samannāgatā, parisuddho no kāyasamācāro, parisuddho vacīsamācāro, parisuddho manosamācāro, parisuddho ājīvo, indriyesumha guttadvārā, bhojane mattaññuno, jāgariyaṁ anuyuttā;"
+    },
+    {
+      "id": "mn39:10.8",
+      "pali": "alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṁ karaṇīyan’ti, tāvatakeneva tuṭṭhiṁ āpajjeyyātha."
+    },
+    {
+      "id": "mn39:10.9",
+      "pali": "Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:"
+    },
+    {
+      "id": "mn39:10.10",
+      "pali": "‘mā vo, sāmaññatthikānaṁ sataṁ sāmaññattho parihāyi sati uttariṁ karaṇīye’."
+    },
+    {
+      "id": "mn39:11.1",
+      "pali": "Kiñca, bhikkhave, uttariṁ karaṇīyaṁ?"
+    },
+    {
+      "id": "mn39:11.2",
+      "pali": "‘Satisampajaññena samannāgatā bhavissāma, abhikkante paṭikkante sampajānakārī, ālokite vilokite sampajānakārī, samiñjite pasārite sampajānakārī, saṅghāṭipattacīvaradhāraṇe sampajānakārī, asite pīte khāyite sāyite sampajānakārī, uccārapassāvakamme sampajānakārī, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī’ti, evañhi vo, bhikkhave, sikkhitabbaṁ."
+    },
+    {
+      "id": "mn39:11.3",
+      "pali": "Siyā kho pana, bhikkhave, tumhākaṁ evamassa:"
+    },
+    {
+      "id": "mn39:11.4",
+      "pali": "‘hirottappenamha samannāgatā, parisuddho no kāyasamācāro, parisuddho vacīsamācāro, parisuddho manosamācāro, parisuddho ājīvo, indriyesumha guttadvārā, bhojane mattaññuno, jāgariyaṁ anuyuttā, satisampajaññena samannāgatā;"
+    },
+    {
+      "id": "mn39:11.5",
+      "pali": "alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṁ karaṇīyan’ti tāvatakeneva tuṭṭhiṁ āpajjeyyātha."
+    },
+    {
+      "id": "mn39:11.6",
+      "pali": "Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:"
+    },
+    {
+      "id": "mn39:11.7",
+      "pali": "‘mā vo, sāmaññatthikānaṁ sataṁ sāmaññattho parihāyi sati uttariṁ karaṇīye’."
+    },
+    {
+      "id": "mn39:12.1",
+      "pali": "Kiñca, bhikkhave, uttariṁ karaṇīyaṁ?"
+    },
+    {
+      "id": "mn39:12.2",
+      "pali": "Idha, bhikkhave, bhikkhu vivittaṁ senāsanaṁ bhajati—araññaṁ rukkhamūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vanappatthaṁ abbhokāsaṁ palālapuñjaṁ."
+    },
+    {
+      "id": "mn39:13.1",
+      "pali": "So pacchābhattaṁ piṇḍapātapaṭikkanto nisīdati pallaṅkaṁ ābhujitvā, ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā."
+    },
+    {
+      "id": "mn39:13.2",
+      "pali": "So abhijjhaṁ loke pahāya vigatābhijjhena cetasā viharati, abhijjhāya cittaṁ parisodheti;"
+    },
+    {
+      "id": "mn39:13.3",
+      "pali": "byāpādapadosaṁ pahāya abyāpannacitto viharati, sabbapāṇabhūtahitānukampī, byāpādapadosā cittaṁ parisodheti;"
+    },
+    {
+      "id": "mn39:13.4",
+      "pali": "thinamiddhaṁ pahāya vigatathinamiddho viharati, ālokasaññī sato sampajāno, thinamiddhā cittaṁ parisodheti;"
+    },
+    {
+      "id": "mn39:13.5",
+      "pali": "uddhaccakukkuccaṁ pahāya anuddhato viharati, ajjhattaṁ vūpasantacitto, uddhaccakukkuccā cittaṁ parisodheti;"
+    },
+    {
+      "id": "mn39:13.6",
+      "pali": "vicikicchaṁ pahāya tiṇṇavicikiccho viharati, akathaṅkathī kusalesu dhammesu, vicikicchāya cittaṁ parisodheti."
+    },
+    {
+      "id": "mn39:14.1",
+      "pali": "Seyyathāpi, bhikkhave, puriso iṇaṁ ādāya kammante payojeyya."
+    },
+    {
+      "id": "mn39:14.2",
+      "pali": "Tassa te kammantā samijjheyyuṁ."
+    },
+    {
+      "id": "mn39:14.3",
+      "pali": "So yāni ca porāṇāni iṇamūlāni tāni ca byantī kareyya, siyā cassa uttariṁ avasiṭṭhaṁ dārabharaṇāya."
+    },
+    {
+      "id": "mn39:14.4",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn39:14.5",
+      "pali": "‘ahaṁ kho pubbe iṇaṁ ādāya kammante payojesiṁ, tassa me te kammantā samijjhiṁsu."
+    },
+    {
+      "id": "mn39:14.6",
+      "pali": "Sohaṁ yāni ca porāṇāni iṇamūlāni tāni ca byantī akāsiṁ, atthi ca me uttariṁ avasiṭṭhaṁ dārabharaṇāyā’ti."
+    },
+    {
+      "id": "mn39:14.7",
+      "pali": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ."
+    },
+    {
+      "id": "mn39:14.8",
+      "pali": "Seyyathāpi, bhikkhave, puriso ābādhiko assa dukkhito bāḷhagilāno, bhattañcassa nacchādeyya, na cassa kāye balamattā."
+    },
+    {
+      "id": "mn39:14.9",
+      "pali": "So aparena samayena tamhā ābādhā mucceyya, bhattañcassa chādeyya, siyā cassa kāye balamattā."
+    },
+    {
+      "id": "mn39:14.10",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn39:14.11",
+      "pali": "‘ahaṁ kho pubbe ābādhiko ahosiṁ dukkhito bāḷhagilāno, bhattañca me nacchādesi, na ca me āsi kāye balamattā, somhi etarahi tamhā ābādhā mutto, bhattañca me chādeti, atthi ca me kāye balamattā’ti."
+    },
+    {
+      "id": "mn39:14.12",
+      "pali": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ."
+    },
+    {
+      "id": "mn39:14.13",
+      "pali": "Seyyathāpi, bhikkhave, puriso bandhanāgāre baddho assa."
+    },
+    {
+      "id": "mn39:14.14",
+      "pali": "So aparena samayena tamhā bandhanā mucceyya sotthinā abbhayena, na cassa kiñci bhogānaṁ vayo."
+    },
+    {
+      "id": "mn39:14.15",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn39:14.16",
+      "pali": "‘ahaṁ kho pubbe bandhanāgāre baddho ahosiṁ, somhi etarahi tamhā bandhanā mutto, sotthinā abbhayena, natthi ca me kiñci bhogānaṁ vayo’ti."
+    },
+    {
+      "id": "mn39:14.17",
+      "pali": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ."
+    },
+    {
+      "id": "mn39:14.18",
+      "pali": "Seyyathāpi, bhikkhave, puriso dāso assa anattādhīno parādhīno na yenakāmaṅgamo."
+    },
+    {
+      "id": "mn39:14.19",
+      "pali": "So aparena samayena tamhā dāsabyā mucceyya attādhīno aparādhīno bhujisso yenakāmaṅgamo."
+    },
+    {
+      "id": "mn39:14.20",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn39:14.21",
+      "pali": "‘ahaṁ kho pubbe dāso ahosiṁ anattādhīno parādhīno na yenakāmaṅgamo, somhi etarahi tamhā dāsabyā mutto attādhīno aparādhīno bhujisso yenakāmaṅgamo’ti."
+    },
+    {
+      "id": "mn39:14.22",
+      "pali": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ."
+    },
+    {
+      "id": "mn39:14.23",
+      "pali": "Seyyathāpi, bhikkhave, puriso sadhano sabhogo kantāraddhānamaggaṁ paṭipajjeyya."
+    },
+    {
+      "id": "mn39:14.24",
+      "pali": "So aparena samayena tamhā kantārā nitthareyya sotthinā abbhayena, na cassa kiñci bhogānaṁ vayo."
+    },
+    {
+      "id": "mn39:14.25",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn39:14.26",
+      "pali": "‘ahaṁ kho pubbe sadhano sabhogo kantāraddhānamaggaṁ paṭipajjiṁ."
+    },
+    {
+      "id": "mn39:14.27",
+      "pali": "Somhi etarahi tamhā kantārā nitthiṇṇo sotthinā abbhayena, natthi ca me kiñci bhogānaṁ vayo’ti."
+    },
+    {
+      "id": "mn39:14.28",
+      "pali": "So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ."
+    },
+    {
+      "id": "mn39:14.29",
+      "pali": "Evameva kho, bhikkhave, bhikkhu yathā iṇaṁ yathā rogaṁ yathā bandhanāgāraṁ yathā dāsabyaṁ yathā kantāraddhānamaggaṁ, ime pañca nīvaraṇe appahīne attani samanupassati."
+    },
+    {
+      "id": "mn39:14.30",
+      "pali": "Seyyathāpi, bhikkhave, āṇaṇyaṁ yathā ārogyaṁ yathā bandhanāmokkhaṁ yathā bhujissaṁ yathā khemantabhūmiṁ; evameva bhikkhu ime pañca nīvaraṇe pahīne attani samanupassati."
+    },
+    {
+      "id": "mn39:15.1",
+      "pali": "So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe,"
+    },
+    {
+      "id": "mn39:15.2",
+      "pali": "vivicceva kāmehi vivicca akusalehi dhammehi, savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn39:15.3",
+      "pali": "So imameva kāyaṁ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn39:15.4",
+      "pali": "Seyyathāpi, bhikkhave, dakkho nhāpako vā nhāpakantevāsī vā kaṁsathāle nhānīyacuṇṇāni ākiritvā udakena paripphosakaṁ paripphosakaṁ sanneyya. Sāyaṁ nhānīyapiṇḍi snehānugatā snehaparetā santarabāhirā, phuṭā snehena na ca pagghariṇī."
+    },
+    {
+      "id": "mn39:15.5",
+      "pali": "Evameva kho, bhikkhave, bhikkhu imameva kāyaṁ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn39:16.1",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhu vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn39:16.2",
+      "pali": "So imameva kāyaṁ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn39:16.3",
+      "pali": "Seyyathāpi, bhikkhave, udakarahado ubbhidodako. Tassa nevassa puratthimāya disāya udakassa āyamukhaṁ, na pacchimāya disāya udakassa āyamukhaṁ, na uttarāya disāya udakassa āyamukhaṁ, na dakkhiṇāya disāya udakassa āyamukhaṁ, devo ca na kālena kālaṁ sammādhāraṁ anuppaveccheyya. Atha kho tamhāva udakarahadā sītā vāridhārā ubbhijjitvā tameva udakarahadaṁ sītena vārinā abhisandeyya parisandeyya paripūreyya paripphareyya, nāssa kiñci sabbāvato udakarahadassa sītena vārinā apphuṭaṁ assa."
+    },
+    {
+      "id": "mn39:16.4",
+      "pali": "Evameva kho, bhikkhave, bhikkhu imameva kāyaṁ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn39:17.1",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhu pītiyā ca virāgā upekkhako ca viharati, sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn39:17.2",
+      "pali": "So imameva kāyaṁ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn39:17.3",
+      "pali": "Seyyathāpi, bhikkhave, uppaliniyaṁ vā paduminiyaṁ vā puṇḍarīkiniyaṁ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni antonimuggaposīni, tāni yāva caggā yāva ca mūlā sītena vārinā abhisannāni parisannāni paripūrāni paripphuṭāni, nāssa kiñci sabbāvataṁ uppalānaṁ vā padumānaṁ vā puṇḍarīkānaṁ vā sītena vārinā apphuṭaṁ assa."
+    },
+    {
+      "id": "mn39:17.4",
+      "pali": "Evameva kho, bhikkhave, bhikkhu imameva kāyaṁ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn39:18.1",
+      "pali": "Puna caparaṁ, bhikkhave, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassadomanassānaṁ atthaṅgamā, adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn39:18.2",
+      "pali": "So imameva kāyaṁ parisuddhena cetasā pariyodātena pharitvā nisinno hoti, nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn39:18.3",
+      "pali": "Seyyathāpi, bhikkhave, puriso odātena vatthena sasīsaṁ pārupetvā nisinno assa, nāssa kiñci sabbāvato kāyassa odātena vatthena apphuṭaṁ assa."
+    },
+    {
+      "id": "mn39:18.4",
+      "pali": "Evameva kho, bhikkhave, bhikkhu imameva kāyaṁ parisuddhena cetasā pariyodātena pharitvā nisinno hoti, nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṁ hoti."
+    },
+    {
+      "id": "mn39:19.1",
+      "pali": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṁ abhininnāmeti."
+    },
+    {
+      "id": "mn39:19.2",
+      "pali": "So anekavihitaṁ pubbenivāsaṁ anussarati, seyyathidaṁ—ekampi jātiṁ, dvepi jātiyo …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati."
+    },
+    {
+      "id": "mn39:19.3",
+      "pali": "Seyyathāpi, bhikkhave, puriso sakamhā gāmā aññaṁ gāmaṁ gaccheyya, tamhāpi gāmā aññaṁ gāmaṁ gaccheyya, so tamhā gāmā sakaṁyeva gāmaṁ paccāgaccheyya. Tassa evamassa: ‘ahaṁ kho sakamhā gāmā amuṁ gāmaṁ agacchiṁ, tatrapi evaṁ aṭṭhāsiṁ evaṁ nisīdiṁ evaṁ abhāsiṁ evaṁ tuṇhī ahosiṁ; tamhāpi gāmā amuṁ gāmaṁ agacchiṁ, tatrapi evaṁ aṭṭhāsiṁ evaṁ nisīdiṁ evaṁ abhāsiṁ evaṁ tuṇhī ahosiṁ; somhi tamhā gāmā sakaṁyeva gāmaṁ paccāgato’ti."
+    },
+    {
+      "id": "mn39:19.4",
+      "pali": "Evameva kho, bhikkhave, bhikkhu anekavihitaṁ pubbenivāsaṁ anussarati, seyyathidaṁ—ekampi jātiṁ dvepi jātiyo …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati."
+    },
+    {
+      "id": "mn39:20.1",
+      "pali": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṁ cutūpapātañāṇāya cittaṁ abhininnāmeti."
+    },
+    {
+      "id": "mn39:20.2",
+      "pali": "So dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate, yathākammūpage satte pajānāti …pe…"
+    },
+    {
+      "id": "mn39:20.3",
+      "pali": "seyyathāpi, bhikkhave, dve agārā sadvārā. Tattha cakkhumā puriso majjhe ṭhito passeyya manusse gehaṁ pavisantepi nikkhamantepi, anucaṅkamantepi anuvicarantepi."
+    },
+    {
+      "id": "mn39:20.4",
+      "pali": "Evameva kho, bhikkhave, bhikkhu dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate yathākammūpage satte pajānāti …pe…."
+    },
+    {
+      "id": "mn39:21.1",
+      "pali": "So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṁ khayañāṇāya cittaṁ abhininnāmeti."
+    },
+    {
+      "id": "mn39:21.2",
+      "pali": "So ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "mn39:21.3",
+      "pali": "‘Ime āsavā’ti yathābhūtaṁ pajānāti, ‘ayaṁ āsavasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ āsavanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ āsavanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "mn39:21.4",
+      "pali": "Tassa evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccati, bhavāsavāpi cittaṁ vimuccati, avijjāsavāpi cittaṁ vimuccati."
+    },
+    {
+      "id": "mn39:21.5",
+      "pali": "Vimuttasmiṁ vimuttamiti ñāṇaṁ hoti:"
+    },
+    {
+      "id": "mn39:21.6",
+      "pali": "‘khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānāti."
+    },
+    {
+      "id": "mn39:21.7",
+      "pali": "Seyyathāpi, bhikkhave, pabbatasaṅkhepe udakarahado accho vippasanno anāvilo."
+    },
+    {
+      "id": "mn39:21.8",
+      "pali": "Tattha cakkhumā puriso tīre ṭhito passeyya sippisambukampi sakkharakathalampi macchagumbampi, carantampi tiṭṭhantampi."
+    },
+    {
+      "id": "mn39:21.9",
+      "pali": "Tassa evamassa:"
+    },
+    {
+      "id": "mn39:21.10",
+      "pali": "‘ayaṁ kho udakarahado accho vippasanno anāvilo. Tatrime sippisambukāpi sakkharakathalāpi macchagumbāpi carantipi tiṭṭhantipī’ti’."
+    },
+    {
+      "id": "mn39:21.11",
+      "pali": "Evameva kho, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti …pe…"
+    },
+    {
+      "id": "mn39:21.12",
+      "pali": "nāparaṁ itthattāyāti pajānāti."
+    },
+    {
+      "id": "mn39:22.1",
+      "pali": "Ayaṁ vuccati, bhikkhave, bhikkhu ‘samaṇo’ itipi ‘brāhmaṇo’itipi ‘nhātako’itipi ‘vedagū’itipi ‘sottiyo’itipi ‘ariyo’itipi ‘arahaṁ’itipi."
+    },
+    {
+      "id": "mn39:23.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu samaṇo hoti?"
+    },
+    {
+      "id": "mn39:23.2",
+      "pali": "Samitāssa honti pāpakā akusalā dhammā, saṅkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṁ, jātijarāmaraṇiyā."
+    },
+    {
+      "id": "mn39:23.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu samaṇo hoti."
+    },
+    {
+      "id": "mn39:24.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu brāhmaṇo hoti?"
+    },
+    {
+      "id": "mn39:24.2",
+      "pali": "Bāhitāssa honti pāpakā akusalā dhammā, saṅkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṁ, jātijarāmaraṇiyā."
+    },
+    {
+      "id": "mn39:24.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu brāhmaṇo hoti."
+    },
+    {
+      "id": "mn39:25.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu nhātako hoti?"
+    },
+    {
+      "id": "mn39:25.2",
+      "pali": "Nhātāssa honti pāpakā akusalā dhammā, saṅkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṁ, jātijarāmaraṇiyā."
+    },
+    {
+      "id": "mn39:25.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu nhātako hoti."
+    },
+    {
+      "id": "mn39:26.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu vedagū hoti?"
+    },
+    {
+      "id": "mn39:26.2",
+      "pali": "Viditāssa honti pāpakā akusalā dhammā, saṅkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṁ, jātijarāmaraṇiyā."
+    },
+    {
+      "id": "mn39:26.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu vedagū hoti."
+    },
+    {
+      "id": "mn39:27.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu sottiyo hoti?"
+    },
+    {
+      "id": "mn39:27.2",
+      "pali": "Nissutāssa honti pāpakā akusalā dhammā, saṅkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṁ, jātijarāmaraṇiyā."
+    },
+    {
+      "id": "mn39:27.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu sottiyo hoti."
+    },
+    {
+      "id": "mn39:28.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu ariyo hoti?"
+    },
+    {
+      "id": "mn39:28.2",
+      "pali": "Ārakāssa honti pāpakā akusalā dhammā, saṅkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṁ, jātijarāmaraṇiyā."
+    },
+    {
+      "id": "mn39:28.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu ariyo hoti."
+    },
+    {
+      "id": "mn39:29.1",
+      "pali": "Kathañca, bhikkhave, bhikkhu arahaṁ hoti?"
+    },
+    {
+      "id": "mn39:29.2",
+      "pali": "Ārakāssa honti pāpakā akusalā dhammā, saṅkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṁ, jātijarāmaraṇiyā."
+    },
+    {
+      "id": "mn39:29.3",
+      "pali": "Evaṁ kho, bhikkhave, bhikkhu arahaṁ hotī”ti."
+    },
+    {
+      "id": "mn39:29.4",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn39:29.5",
+      "pali": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti."
+    },
+    {
+      "id": "mn39:29.6",
+      "pali": "Mahāassapurasuttaṁ niṭṭhitaṁ navamaṁ."
+    }
+  ]
+}

@@ -1,0 +1,943 @@
+{
+  "uid": "tha-ap2",
+  "title": "Paccekabuddhaapadāna",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "tha-ap2:1.1",
+      "pali": "Atha paccekabuddhāpadānaṁ suṇātha—"
+    },
+    {
+      "id": "tha-ap2:2.1",
+      "pali": "“Tathāgataṁ jetavane vasantaṁ,"
+    },
+    {
+      "id": "tha-ap2:2.2",
+      "pali": "Apucchi vedehamunī nataṅgo;"
+    },
+    {
+      "id": "tha-ap2:2.3",
+      "pali": "‘Paccekabuddhā kira nāma honti,"
+    },
+    {
+      "id": "tha-ap2:2.4",
+      "pali": "Bhavanti te hetubhi kehi vīra’."
+    },
+    {
+      "id": "tha-ap2:3.1",
+      "pali": "Tadāha sabbaññuvaro mahesi,"
+    },
+    {
+      "id": "tha-ap2:3.2",
+      "pali": "Ānandabhaddaṁ madhurassarena;"
+    },
+    {
+      "id": "tha-ap2:3.3",
+      "pali": "‘Ye pubbabuddhesu katādhikārā,"
+    },
+    {
+      "id": "tha-ap2:3.4",
+      "pali": "Aladdhamokkhā jinasāsanesu."
+    },
+    {
+      "id": "tha-ap2:4.1",
+      "pali": "Teneva saṁvegamukhena dhīrā,"
+    },
+    {
+      "id": "tha-ap2:4.2",
+      "pali": "Vināpi buddhehi sutikkhapaññā;"
+    },
+    {
+      "id": "tha-ap2:4.3",
+      "pali": "Ārammaṇenāpi parittakena,"
+    },
+    {
+      "id": "tha-ap2:4.4",
+      "pali": "Paccekabodhiṁ anupāpuṇanti."
+    },
+    {
+      "id": "tha-ap2:5.1",
+      "pali": "Sabbamhi lokamhi mamaṁ ṭhapetvā,"
+    },
+    {
+      "id": "tha-ap2:5.2",
+      "pali": "Paccekabuddhehi samova natthi;"
+    },
+    {
+      "id": "tha-ap2:5.3",
+      "pali": "Tesaṁ imaṁ vaṇṇapadesamattaṁ,"
+    },
+    {
+      "id": "tha-ap2:5.4",
+      "pali": "Vakkhāmahaṁ sādhu mahāmunīnaṁ."
+    },
+    {
+      "id": "tha-ap2:6.1",
+      "pali": "Sayameva buddhānaṁ mahāisīnaṁ,"
+    },
+    {
+      "id": "tha-ap2:6.2",
+      "pali": "Sādhūni vākyāni madhūva khuddaṁ;"
+    },
+    {
+      "id": "tha-ap2:6.3",
+      "pali": "Anuttaraṁ bhesajaṁ patthayantā,"
+    },
+    {
+      "id": "tha-ap2:6.4",
+      "pali": "Suṇātha sabbesu pasannacittā’."
+    },
+    {
+      "id": "tha-ap2:7.1",
+      "pali": "Paccekabuddhānaṁ samāgatānaṁ,"
+    },
+    {
+      "id": "tha-ap2:7.2",
+      "pali": "Paramparaṁ byākaraṇāni yāni;"
+    },
+    {
+      "id": "tha-ap2:7.3",
+      "pali": "Ādīnavo yañca virāgavatthuṁ,"
+    },
+    {
+      "id": "tha-ap2:7.4",
+      "pali": "Yathā ca bodhiṁ anupāpuṇiṁsu."
+    },
+    {
+      "id": "tha-ap2:8.1",
+      "pali": "Sarāgavatthūsu virāgasaññī,"
+    },
+    {
+      "id": "tha-ap2:8.2",
+      "pali": "Rattamhi lokamhi virattacittā;"
+    },
+    {
+      "id": "tha-ap2:8.3",
+      "pali": "Hitvā papañce jiya phanditāni,"
+    },
+    {
+      "id": "tha-ap2:8.4",
+      "pali": "Tatheva bodhiṁ anupāpuṇiṁsu."
+    },
+    {
+      "id": "tha-ap2:9.1",
+      "pali": "Sabbesu bhūtesu nidhāya daṇḍaṁ,"
+    },
+    {
+      "id": "tha-ap2:9.2",
+      "pali": "Aviheṭhayaṁ aññatarampi tesaṁ;"
+    },
+    {
+      "id": "tha-ap2:9.3",
+      "pali": "Mettena cittena hitānukampī,"
+    },
+    {
+      "id": "tha-ap2:9.4",
+      "pali": "Eko care khaggavisāṇakappo."
+    },
+    {
+      "id": "tha-ap2:10.1",
+      "pali": "Sabbesu bhūtesu nidhāya daṇḍaṁ,"
+    },
+    {
+      "id": "tha-ap2:10.2",
+      "pali": "Aviheṭhayaṁ aññatarampi tesaṁ;"
+    },
+    {
+      "id": "tha-ap2:10.3",
+      "pali": "Na puttamiccheyya kuto sahāyaṁ,"
+    },
+    {
+      "id": "tha-ap2:10.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:11.1",
+      "pali": "‘Saṁsaggajātassa bhavanti snehā,"
+    },
+    {
+      "id": "tha-ap2:11.2",
+      "pali": "Snehanvayaṁ dukkhamidaṁ pahoti;"
+    },
+    {
+      "id": "tha-ap2:11.3",
+      "pali": "Ādīnavaṁ snehajaṁ pekkhamāno,"
+    },
+    {
+      "id": "tha-ap2:11.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:12.1",
+      "pali": "‘Mitte suhajje anukampamāno,"
+    },
+    {
+      "id": "tha-ap2:12.2",
+      "pali": "Hāpeti atthaṁ paṭibaddhacitto;"
+    },
+    {
+      "id": "tha-ap2:12.3",
+      "pali": "Etaṁ bhayaṁ santhave pekkhamāno,"
+    },
+    {
+      "id": "tha-ap2:12.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:13.1",
+      "pali": "‘Vaṁso visālova yathā visatto,"
+    },
+    {
+      "id": "tha-ap2:13.2",
+      "pali": "Puttesu dāresu ca yā apekkhā;"
+    },
+    {
+      "id": "tha-ap2:13.3",
+      "pali": "Vaṁse kaḷīrova asajjamāno,"
+    },
+    {
+      "id": "tha-ap2:13.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:14.1",
+      "pali": "‘Migo araññamhi yathā abaddho,"
+    },
+    {
+      "id": "tha-ap2:14.2",
+      "pali": "Yenicchakaṁ gacchati gocarāya;"
+    },
+    {
+      "id": "tha-ap2:14.3",
+      "pali": "Viññū naro seritaṁ pekkhamāno,"
+    },
+    {
+      "id": "tha-ap2:14.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:15.1",
+      "pali": "‘Āmantanā hoti sahāyamajjhe,"
+    },
+    {
+      "id": "tha-ap2:15.2",
+      "pali": "Vāse ca ṭhāne gamane cārikāya;"
+    },
+    {
+      "id": "tha-ap2:15.3",
+      "pali": "Anabhijjhitaṁ seritaṁ pekkhamāno,"
+    },
+    {
+      "id": "tha-ap2:15.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:16.1",
+      "pali": "‘Khiḍḍā ratī hoti sahāyamajjhe,"
+    },
+    {
+      "id": "tha-ap2:16.2",
+      "pali": "Puttesu pemaṁ vipulañca hoti;"
+    },
+    {
+      "id": "tha-ap2:16.3",
+      "pali": "Piyavippayogaṁ vijigucchamāno,"
+    },
+    {
+      "id": "tha-ap2:16.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:17.1",
+      "pali": "‘Cātuddiso appaṭigho ca hoti,"
+    },
+    {
+      "id": "tha-ap2:17.2",
+      "pali": "Santussamāno itarītarena;"
+    },
+    {
+      "id": "tha-ap2:17.3",
+      "pali": "Parissayānaṁ sahitā achambhī,"
+    },
+    {
+      "id": "tha-ap2:17.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:18.1",
+      "pali": "‘Dussaṅgahā pabbajitāpi eke,"
+    },
+    {
+      "id": "tha-ap2:18.2",
+      "pali": "Atho gahaṭṭhā gharamāvasantā;"
+    },
+    {
+      "id": "tha-ap2:18.3",
+      "pali": "Appossukko paraputtesu hutvā,"
+    },
+    {
+      "id": "tha-ap2:18.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:19.1",
+      "pali": "‘Oropayitvā gihibyañjanāni,"
+    },
+    {
+      "id": "tha-ap2:19.2",
+      "pali": "Sañchinnapatto yathā koviḷāro;"
+    },
+    {
+      "id": "tha-ap2:19.3",
+      "pali": "Chetvāna vīro gihibandhanāni,"
+    },
+    {
+      "id": "tha-ap2:19.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:20.1",
+      "pali": "‘Sace labhetha nipakaṁ sahāyaṁ,"
+    },
+    {
+      "id": "tha-ap2:20.2",
+      "pali": "Saddhiṁ caraṁ sādhuvihāridhīraṁ;"
+    },
+    {
+      "id": "tha-ap2:20.3",
+      "pali": "Abhibhuyya sabbāni parissayāni,"
+    },
+    {
+      "id": "tha-ap2:20.4",
+      "pali": "Careyya tenattamano satīmā’."
+    },
+    {
+      "id": "tha-ap2:21.1",
+      "pali": "‘No ce labhetha nipakaṁ sahāyaṁ,"
+    },
+    {
+      "id": "tha-ap2:21.2",
+      "pali": "Saddhiṁ caraṁ sādhuvihāri dhīraṁ;"
+    },
+    {
+      "id": "tha-ap2:21.3",
+      "pali": "Rājāva raṭṭhaṁ vijitaṁ pahāya,"
+    },
+    {
+      "id": "tha-ap2:21.4",
+      "pali": "Eko care mātaṅgaraññeva nāgo’."
+    },
+    {
+      "id": "tha-ap2:22.1",
+      "pali": "‘Addhā pasaṁsāma sahāyasampadaṁ,"
+    },
+    {
+      "id": "tha-ap2:22.2",
+      "pali": "Seṭṭhā samā sevitabbā sahāyā;"
+    },
+    {
+      "id": "tha-ap2:22.3",
+      "pali": "Ete aladdhā anavajjabhojī,"
+    },
+    {
+      "id": "tha-ap2:22.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:23.1",
+      "pali": "‘Disvā suvaṇṇassa pabhassarāni,"
+    },
+    {
+      "id": "tha-ap2:23.2",
+      "pali": "Kammāraputtena suniṭṭhitāni;"
+    },
+    {
+      "id": "tha-ap2:23.3",
+      "pali": "Saṅghaṭṭamānāni duve bhujasmiṁ,"
+    },
+    {
+      "id": "tha-ap2:23.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:24.1",
+      "pali": "‘Evaṁ dutīyena sahā mamassa,"
+    },
+    {
+      "id": "tha-ap2:24.2",
+      "pali": "Vācābhilāpo abhisajjanā vā;"
+    },
+    {
+      "id": "tha-ap2:24.3",
+      "pali": "Etaṁ bhayaṁ āyatiṁ pekkhamāno,"
+    },
+    {
+      "id": "tha-ap2:24.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:25.1",
+      "pali": "‘Kāmā hi citrā madhurā manoramā,"
+    },
+    {
+      "id": "tha-ap2:25.2",
+      "pali": "Virūparūpena mathenti cittaṁ;"
+    },
+    {
+      "id": "tha-ap2:25.3",
+      "pali": "Ādīnavaṁ kāmaguṇesu disvā,"
+    },
+    {
+      "id": "tha-ap2:25.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:26.1",
+      "pali": "‘Ītī ca gaṇḍo ca upaddavo ca,"
+    },
+    {
+      "id": "tha-ap2:26.2",
+      "pali": "Rogo ca sallañca bhayañca metaṁ;"
+    },
+    {
+      "id": "tha-ap2:26.3",
+      "pali": "Etaṁ bhayaṁ kāmaguṇesu disvā,"
+    },
+    {
+      "id": "tha-ap2:26.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:27.1",
+      "pali": "‘Sītañca uṇhañca khudaṁ pipāsaṁ,"
+    },
+    {
+      "id": "tha-ap2:27.2",
+      "pali": "Vātātape ḍaṁsasarīsape ca;"
+    },
+    {
+      "id": "tha-ap2:27.3",
+      "pali": "Sabbānipetāni abhibbhavitvā,"
+    },
+    {
+      "id": "tha-ap2:27.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:28.1",
+      "pali": "‘Nāgova yūthāni vivajjayitvā,"
+    },
+    {
+      "id": "tha-ap2:28.2",
+      "pali": "Sañjātakhandho padumī uḷāro;"
+    },
+    {
+      "id": "tha-ap2:28.3",
+      "pali": "Yathābhirantaṁ viharaṁ araññe,"
+    },
+    {
+      "id": "tha-ap2:28.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:29.1",
+      "pali": "‘Aṭṭhāna taṁ saṅgaṇikāratassa,"
+    },
+    {
+      "id": "tha-ap2:29.2",
+      "pali": "Yaṁ phassaye sāmayikaṁ vimuttiṁ;"
+    },
+    {
+      "id": "tha-ap2:29.3",
+      "pali": "Ādiccabandhussa vaco nisamma,"
+    },
+    {
+      "id": "tha-ap2:29.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:30.1",
+      "pali": "‘Diṭṭhīvisūkāni upātivatto,"
+    },
+    {
+      "id": "tha-ap2:30.2",
+      "pali": "Patto niyāmaṁ paṭiladdhamaggo;"
+    },
+    {
+      "id": "tha-ap2:30.3",
+      "pali": "Uppannañāṇomhi anaññaneyyo,"
+    },
+    {
+      "id": "tha-ap2:30.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:31.1",
+      "pali": "‘Nillolupo nikkuho nippipāso,"
+    },
+    {
+      "id": "tha-ap2:31.2",
+      "pali": "Nimmakkha niddhantakasāvamoho;"
+    },
+    {
+      "id": "tha-ap2:31.3",
+      "pali": "Nirāsayo sabbaloke bhavitvā,"
+    },
+    {
+      "id": "tha-ap2:31.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:32.1",
+      "pali": "‘Pāpaṁ sahāyaṁ parivajjayetha,"
+    },
+    {
+      "id": "tha-ap2:32.2",
+      "pali": "Anatthadassiṁ visame niviṭṭhaṁ;"
+    },
+    {
+      "id": "tha-ap2:32.3",
+      "pali": "Sayaṁ na seve pasutaṁ pamattaṁ,"
+    },
+    {
+      "id": "tha-ap2:32.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:33.1",
+      "pali": "‘Bahussutaṁ dhammadharaṁ bhajetha,"
+    },
+    {
+      "id": "tha-ap2:33.2",
+      "pali": "Mittaṁ uḷāraṁ paṭibhānavantaṁ;"
+    },
+    {
+      "id": "tha-ap2:33.3",
+      "pali": "Aññāya atthāni vineyya kaṅkhaṁ,"
+    },
+    {
+      "id": "tha-ap2:33.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:34.1",
+      "pali": "‘Khiḍḍaṁ ratiṁ kāmasukhañca loke,"
+    },
+    {
+      "id": "tha-ap2:34.2",
+      "pali": "Analaṅkaritvā anapekkhamāno;"
+    },
+    {
+      "id": "tha-ap2:34.3",
+      "pali": "Vibhūsaṭṭhānā virato saccavādī,"
+    },
+    {
+      "id": "tha-ap2:34.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:35.1",
+      "pali": "‘Puttañca dāraṁ pitarañca mātaraṁ,"
+    },
+    {
+      "id": "tha-ap2:35.2",
+      "pali": "Dhanāni dhaññāni ca bandhavāni;"
+    },
+    {
+      "id": "tha-ap2:35.3",
+      "pali": "Hitvāna kāmāni yathodhikāni,"
+    },
+    {
+      "id": "tha-ap2:35.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:36.1",
+      "pali": "‘Saṅgo eso parittamettha sokhyaṁ,"
+    },
+    {
+      "id": "tha-ap2:36.2",
+      "pali": "Appassādo dukkhamevettha bhiyyo;"
+    },
+    {
+      "id": "tha-ap2:36.3",
+      "pali": "Gaḷo eso iti ñatvā matimā,"
+    },
+    {
+      "id": "tha-ap2:36.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:37.1",
+      "pali": "‘Sandālayitvāna saṁyojanāni,"
+    },
+    {
+      "id": "tha-ap2:37.2",
+      "pali": "Jālaṁva bhetvā salilambucārī;"
+    },
+    {
+      "id": "tha-ap2:37.3",
+      "pali": "Aggīva daḍḍhaṁ anivattamāno,"
+    },
+    {
+      "id": "tha-ap2:37.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:38.1",
+      "pali": "‘Okkhittacakkhū na ca pādalolo,"
+    },
+    {
+      "id": "tha-ap2:38.2",
+      "pali": "Guttindriyo rakkhitamānasāno;"
+    },
+    {
+      "id": "tha-ap2:38.3",
+      "pali": "Anavassuto apariḍayhamāno,"
+    },
+    {
+      "id": "tha-ap2:38.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:39.1",
+      "pali": "‘Ohārayitvā gihibyañjanāni,"
+    },
+    {
+      "id": "tha-ap2:39.2",
+      "pali": "Sañchannapatto yathā pārichatto;"
+    },
+    {
+      "id": "tha-ap2:39.3",
+      "pali": "Kāsāyavattho abhinikkhamitvā,"
+    },
+    {
+      "id": "tha-ap2:39.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:40.1",
+      "pali": "‘Rasesu gedhaṁ akaraṁ alolo,"
+    },
+    {
+      "id": "tha-ap2:40.2",
+      "pali": "Anaññaposī sapadānacārī;"
+    },
+    {
+      "id": "tha-ap2:40.3",
+      "pali": "Kule kule appaṭibaddhacitto,"
+    },
+    {
+      "id": "tha-ap2:40.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:41.1",
+      "pali": "‘Pahāya pañcāvaraṇāni cetaso,"
+    },
+    {
+      "id": "tha-ap2:41.2",
+      "pali": "Upakkilese byapanujja sabbe;"
+    },
+    {
+      "id": "tha-ap2:41.3",
+      "pali": "Anissito chejja sinehadosaṁ,"
+    },
+    {
+      "id": "tha-ap2:41.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:42.1",
+      "pali": "‘Vipiṭṭhikatvāna sukhañca dukkhaṁ,"
+    },
+    {
+      "id": "tha-ap2:42.2",
+      "pali": "Pubbeva somanassadomanassaṁ;"
+    },
+    {
+      "id": "tha-ap2:42.3",
+      "pali": "Laddhānupekkhaṁ samathaṁ visuddhaṁ,"
+    },
+    {
+      "id": "tha-ap2:42.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:43.1",
+      "pali": "‘Āraddhavīriyo paramatthapattiyā,"
+    },
+    {
+      "id": "tha-ap2:43.2",
+      "pali": "Alīnacitto akusītavutti;"
+    },
+    {
+      "id": "tha-ap2:43.3",
+      "pali": "Daḷhanikkamo thāmabalūpapanno,"
+    },
+    {
+      "id": "tha-ap2:43.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:44.1",
+      "pali": "‘Paṭisallānaṁ jhānamariñcamāno,"
+    },
+    {
+      "id": "tha-ap2:44.2",
+      "pali": "Dhammesu niccaṁ anudhammacārī;"
+    },
+    {
+      "id": "tha-ap2:44.3",
+      "pali": "Ādīnavaṁ sammasitā bhavesu,"
+    },
+    {
+      "id": "tha-ap2:44.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:45.1",
+      "pali": "‘Taṇhakkhayaṁ patthayamappamatto,"
+    },
+    {
+      "id": "tha-ap2:45.2",
+      "pali": "Aneḷamūgo sutavā satīmā;"
+    },
+    {
+      "id": "tha-ap2:45.3",
+      "pali": "Saṅkhātadhammo niyato padhānavā,"
+    },
+    {
+      "id": "tha-ap2:45.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:46.1",
+      "pali": "‘Sīhova saddesu asantasanto,"
+    },
+    {
+      "id": "tha-ap2:46.2",
+      "pali": "Vātova jālamhi asajjamāno;"
+    },
+    {
+      "id": "tha-ap2:46.3",
+      "pali": "Padumaṁva toyena alippamāno,"
+    },
+    {
+      "id": "tha-ap2:46.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:47.1",
+      "pali": "‘Sīho yathā dāṭhabalī pasayha,"
+    },
+    {
+      "id": "tha-ap2:47.2",
+      "pali": "Rājā migānaṁ abhibhuyya cārī;"
+    },
+    {
+      "id": "tha-ap2:47.3",
+      "pali": "Sevetha pantāni senāsanāni,"
+    },
+    {
+      "id": "tha-ap2:47.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:48.1",
+      "pali": "‘Mettaṁ upekkhaṁ karuṇaṁ vimuttiṁ,"
+    },
+    {
+      "id": "tha-ap2:48.2",
+      "pali": "Āsevamāno muditañca kāle;"
+    },
+    {
+      "id": "tha-ap2:48.3",
+      "pali": "Sabbena lokena avirujjhamāno,"
+    },
+    {
+      "id": "tha-ap2:48.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:49.1",
+      "pali": "‘Rāgañca dosañca pahāya mohaṁ,"
+    },
+    {
+      "id": "tha-ap2:49.2",
+      "pali": "Sandālayitvāna saṁyojanāni;"
+    },
+    {
+      "id": "tha-ap2:49.3",
+      "pali": "Asantasaṁ jīvitasaṅkhayamhi,"
+    },
+    {
+      "id": "tha-ap2:49.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:50.1",
+      "pali": "‘Bhajanti sevanti ca kāraṇatthā,"
+    },
+    {
+      "id": "tha-ap2:50.2",
+      "pali": "Nikkāraṇā dullabhā ajja mittā;"
+    },
+    {
+      "id": "tha-ap2:50.3",
+      "pali": "Attatthapaññā asucīmanussā,"
+    },
+    {
+      "id": "tha-ap2:50.4",
+      "pali": "Eko care khaggavisāṇakappo’."
+    },
+    {
+      "id": "tha-ap2:51.1",
+      "pali": "Visuddhasīlā suvisuddhapaññā,"
+    },
+    {
+      "id": "tha-ap2:51.2",
+      "pali": "Samāhitā jāgariyānuyuttā;"
+    },
+    {
+      "id": "tha-ap2:51.3",
+      "pali": "Vipassakā dhammavisesadassī,"
+    },
+    {
+      "id": "tha-ap2:51.4",
+      "pali": "Maggaṅgabojjhaṅgagate vijaññā."
+    },
+    {
+      "id": "tha-ap2:52.1",
+      "pali": "Suññappaṇidhiñca tathānimittaṁ,"
+    },
+    {
+      "id": "tha-ap2:52.2",
+      "pali": "Āsevayitvā jinasāsanamhi;"
+    },
+    {
+      "id": "tha-ap2:52.3",
+      "pali": "Ye sāvakattaṁ na vajanti dhīrā,"
+    },
+    {
+      "id": "tha-ap2:52.4",
+      "pali": "Bhavanti paccekajinā sayambhū."
+    },
+    {
+      "id": "tha-ap2:53.1",
+      "pali": "Mahantadhammā bahudhammakāyā,"
+    },
+    {
+      "id": "tha-ap2:53.2",
+      "pali": "Cittissarā sabbadukkhoghatiṇṇā;"
+    },
+    {
+      "id": "tha-ap2:53.3",
+      "pali": "Udaggacittā paramatthadassī,"
+    },
+    {
+      "id": "tha-ap2:53.4",
+      "pali": "Sīhopamā khaggavisāṇakappā."
+    },
+    {
+      "id": "tha-ap2:54.1",
+      "pali": "Santindriyā santamanā samādhī,"
+    },
+    {
+      "id": "tha-ap2:54.2",
+      "pali": "Paccantasattesu patippacārā;"
+    },
+    {
+      "id": "tha-ap2:54.3",
+      "pali": "Dīpā parattha idha vijjalantā,"
+    },
+    {
+      "id": "tha-ap2:54.4",
+      "pali": "Paccekabuddhā satataṁ hitāme."
+    },
+    {
+      "id": "tha-ap2:55.1",
+      "pali": "Pahīnasabbāvaraṇā janindā,"
+    },
+    {
+      "id": "tha-ap2:55.2",
+      "pali": "Lokappadīpā ghanakañcanābhā;"
+    },
+    {
+      "id": "tha-ap2:55.3",
+      "pali": "Nissaṁsayaṁ lokasudakkhiṇeyyā,"
+    },
+    {
+      "id": "tha-ap2:55.4",
+      "pali": "Paccekabuddhā satatappitāme."
+    },
+    {
+      "id": "tha-ap2:56.1",
+      "pali": "Paccekabuddhānaṁ subhāsitāni,"
+    },
+    {
+      "id": "tha-ap2:56.2",
+      "pali": "Caranti lokamhi sadevakamhi;"
+    },
+    {
+      "id": "tha-ap2:56.3",
+      "pali": "Sutvā tathā ye na karonti bālā,"
+    },
+    {
+      "id": "tha-ap2:56.4",
+      "pali": "Caranti dukkhesu punappunaṁ te."
+    },
+    {
+      "id": "tha-ap2:57.1",
+      "pali": "Paccekabuddhāna subhāsitāni,"
+    },
+    {
+      "id": "tha-ap2:57.2",
+      "pali": "Madhuṁ yathā khuddamavassavantaṁ;"
+    },
+    {
+      "id": "tha-ap2:57.3",
+      "pali": "Sutvā tathā ye paṭipattiyuttā,"
+    },
+    {
+      "id": "tha-ap2:57.4",
+      "pali": "Bhavanti te saccadasā sapaññā."
+    },
+    {
+      "id": "tha-ap2:58.1",
+      "pali": "Paccekabuddhehi jinehi bhāsitā,"
+    },
+    {
+      "id": "tha-ap2:58.2",
+      "pali": "Kathā uḷārā abhinikkhamitvā;"
+    },
+    {
+      "id": "tha-ap2:58.3",
+      "pali": "Tā sakyasīhena naruttamena,"
+    },
+    {
+      "id": "tha-ap2:58.4",
+      "pali": "Pakāsitā dhammavijānanatthaṁ."
+    },
+    {
+      "id": "tha-ap2:59.1",
+      "pali": "Lokānukampāya imāni tesaṁ,"
+    },
+    {
+      "id": "tha-ap2:59.2",
+      "pali": "Paccekabuddhāna vikubbitāni;"
+    },
+    {
+      "id": "tha-ap2:59.3",
+      "pali": "Saṁvegasaṅgamativaḍḍhanatthaṁ,"
+    },
+    {
+      "id": "tha-ap2:59.4",
+      "pali": "Sayambhusīhena pakāsitānī”ti."
+    },
+    {
+      "id": "tha-ap2:60.1",
+      "pali": "Paccekabuddhāpadānaṁ samattaṁ."
+    }
+  ]
+}

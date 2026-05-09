@@ -1,0 +1,511 @@
+{
+  "uid": "thag16.10",
+  "title": "Paṭhamavagga",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "thag16.10:1.1",
+      "pali": "Samaṇassa ahu cintā,"
+    },
+    {
+      "id": "thag16.10:1.2",
+      "pali": "pupphitamhi mahāvane;"
+    },
+    {
+      "id": "thag16.10:1.3",
+      "pali": "Ekaggassa nisinnassa,"
+    },
+    {
+      "id": "thag16.10:1.4",
+      "pali": "pavivittassa jhāyino."
+    },
+    {
+      "id": "thag16.10:2.1",
+      "pali": "“Aññathā lokanāthamhi,"
+    },
+    {
+      "id": "thag16.10:2.2",
+      "pali": "tiṭṭhante purisuttame;"
+    },
+    {
+      "id": "thag16.10:2.3",
+      "pali": "Iriyaṁ āsi bhikkhūnaṁ,"
+    },
+    {
+      "id": "thag16.10:2.4",
+      "pali": "aññathā dāni dissati."
+    },
+    {
+      "id": "thag16.10:3.1",
+      "pali": "Sītavātaparittāṇaṁ,"
+    },
+    {
+      "id": "thag16.10:3.2",
+      "pali": "hirikopīnachādanaṁ;"
+    },
+    {
+      "id": "thag16.10:3.3",
+      "pali": "Mattaṭṭhiyaṁ abhuñjiṁsu,"
+    },
+    {
+      "id": "thag16.10:3.4",
+      "pali": "santuṭṭhā itarītare."
+    },
+    {
+      "id": "thag16.10:4.1",
+      "pali": "Paṇītaṁ yadi vā lūkhaṁ,"
+    },
+    {
+      "id": "thag16.10:4.2",
+      "pali": "appaṁ vā yadi vā bahuṁ;"
+    },
+    {
+      "id": "thag16.10:4.3",
+      "pali": "Yāpanatthaṁ abhuñjiṁsu,"
+    },
+    {
+      "id": "thag16.10:4.4",
+      "pali": "agiddhā nādhimucchitā."
+    },
+    {
+      "id": "thag16.10:5.1",
+      "pali": "Jīvitānaṁ parikkhāre,"
+    },
+    {
+      "id": "thag16.10:5.2",
+      "pali": "bhesajje atha paccaye;"
+    },
+    {
+      "id": "thag16.10:5.3",
+      "pali": "Na bāḷhaṁ ussukā āsuṁ,"
+    },
+    {
+      "id": "thag16.10:5.4",
+      "pali": "yathā te āsavakkhaye."
+    },
+    {
+      "id": "thag16.10:6.1",
+      "pali": "Araññe rukkhamūlesu,"
+    },
+    {
+      "id": "thag16.10:6.2",
+      "pali": "kandarāsu guhāsu ca;"
+    },
+    {
+      "id": "thag16.10:6.3",
+      "pali": "Vivekamanubrūhantā,"
+    },
+    {
+      "id": "thag16.10:6.4",
+      "pali": "vihaṁsu tapparāyaṇā."
+    },
+    {
+      "id": "thag16.10:7.1",
+      "pali": "Nīcā niviṭṭhā subharā,"
+    },
+    {
+      "id": "thag16.10:7.2",
+      "pali": "mudū atthaddhamānasā;"
+    },
+    {
+      "id": "thag16.10:7.3",
+      "pali": "Abyāsekā amukharā,"
+    },
+    {
+      "id": "thag16.10:7.4",
+      "pali": "atthacintā vasānugā."
+    },
+    {
+      "id": "thag16.10:8.1",
+      "pali": "Tato pāsādikaṁ āsi,"
+    },
+    {
+      "id": "thag16.10:8.2",
+      "pali": "gataṁ bhuttaṁ nisevitaṁ;"
+    },
+    {
+      "id": "thag16.10:8.3",
+      "pali": "Siniddhā teladhārāva,"
+    },
+    {
+      "id": "thag16.10:8.4",
+      "pali": "ahosi iriyāpatho."
+    },
+    {
+      "id": "thag16.10:9.1",
+      "pali": "Sabbāsavaparikkhīṇā,"
+    },
+    {
+      "id": "thag16.10:9.2",
+      "pali": "mahājhāyī mahāhitā;"
+    },
+    {
+      "id": "thag16.10:9.3",
+      "pali": "Nibbutā dāni te therā,"
+    },
+    {
+      "id": "thag16.10:9.4",
+      "pali": "parittā dāni tādisā."
+    },
+    {
+      "id": "thag16.10:10.1",
+      "pali": "Kusalānañca dhammānaṁ,"
+    },
+    {
+      "id": "thag16.10:10.2",
+      "pali": "paññāya ca parikkhayā;"
+    },
+    {
+      "id": "thag16.10:10.3",
+      "pali": "Sabbākāravarūpetaṁ,"
+    },
+    {
+      "id": "thag16.10:10.4",
+      "pali": "lujjate jinasāsanaṁ."
+    },
+    {
+      "id": "thag16.10:11.1",
+      "pali": "Pāpakānañca dhammānaṁ,"
+    },
+    {
+      "id": "thag16.10:11.2",
+      "pali": "kilesānañca yo utu;"
+    },
+    {
+      "id": "thag16.10:11.3",
+      "pali": "Upaṭṭhitā vivekāya,"
+    },
+    {
+      "id": "thag16.10:11.4",
+      "pali": "ye ca saddhammasesakā."
+    },
+    {
+      "id": "thag16.10:12.1",
+      "pali": "Te kilesā pavaḍḍhantā,"
+    },
+    {
+      "id": "thag16.10:12.2",
+      "pali": "āvisanti bahuṁ janaṁ;"
+    },
+    {
+      "id": "thag16.10:12.3",
+      "pali": "Kīḷanti maññe bālehi,"
+    },
+    {
+      "id": "thag16.10:12.4",
+      "pali": "ummattehiva rakkhasā."
+    },
+    {
+      "id": "thag16.10:13.1",
+      "pali": "Kilesehābhibhūtā te,"
+    },
+    {
+      "id": "thag16.10:13.2",
+      "pali": "tena tena vidhāvitā;"
+    },
+    {
+      "id": "thag16.10:13.3",
+      "pali": "Narā kilesavatthūsu,"
+    },
+    {
+      "id": "thag16.10:13.4",
+      "pali": "sasaṅgāmeva ghosite."
+    },
+    {
+      "id": "thag16.10:14.1",
+      "pali": "Pariccajitvā saddhammaṁ,"
+    },
+    {
+      "id": "thag16.10:14.2",
+      "pali": "aññamaññehi bhaṇḍare;"
+    },
+    {
+      "id": "thag16.10:14.3",
+      "pali": "Diṭṭhigatāni anventā,"
+    },
+    {
+      "id": "thag16.10:14.4",
+      "pali": "idaṁ seyyoti maññare."
+    },
+    {
+      "id": "thag16.10:15.1",
+      "pali": "Dhanañca puttaṁ bhariyañca,"
+    },
+    {
+      "id": "thag16.10:15.2",
+      "pali": "chaḍḍayitvāna niggatā;"
+    },
+    {
+      "id": "thag16.10:15.3",
+      "pali": "Kaṭacchubhikkhahetūpi,"
+    },
+    {
+      "id": "thag16.10:15.4",
+      "pali": "akicchāni nisevare."
+    },
+    {
+      "id": "thag16.10:16.1",
+      "pali": "Udarāvadehakaṁ bhutvā,"
+    },
+    {
+      "id": "thag16.10:16.2",
+      "pali": "sayantuttānaseyyakā;"
+    },
+    {
+      "id": "thag16.10:16.3",
+      "pali": "Kathaṁ vattenti paṭibuddhā,"
+    },
+    {
+      "id": "thag16.10:16.4",
+      "pali": "yā kathā satthugarahitā."
+    },
+    {
+      "id": "thag16.10:17.1",
+      "pali": "Sabbakārukasippāni,"
+    },
+    {
+      "id": "thag16.10:17.2",
+      "pali": "cittiṁ katvāna sikkhare;"
+    },
+    {
+      "id": "thag16.10:17.3",
+      "pali": "Avūpasantā ajjhattaṁ,"
+    },
+    {
+      "id": "thag16.10:17.4",
+      "pali": "sāmaññatthotiacchati."
+    },
+    {
+      "id": "thag16.10:18.1",
+      "pali": "Mattikaṁ telacuṇṇañca,"
+    },
+    {
+      "id": "thag16.10:18.2",
+      "pali": "udakāsanabhojanaṁ;"
+    },
+    {
+      "id": "thag16.10:18.3",
+      "pali": "Gihīnaṁ upanāmenti,"
+    },
+    {
+      "id": "thag16.10:18.4",
+      "pali": "ākaṅkhantā bahuttaraṁ."
+    },
+    {
+      "id": "thag16.10:19.1",
+      "pali": "Dantaponaṁ kapitthañca,"
+    },
+    {
+      "id": "thag16.10:19.2",
+      "pali": "pupphaṁ khādaniyāni ca;"
+    },
+    {
+      "id": "thag16.10:19.3",
+      "pali": "Piṇḍapāte ca sampanne,"
+    },
+    {
+      "id": "thag16.10:19.4",
+      "pali": "ambe āmalakāni ca."
+    },
+    {
+      "id": "thag16.10:20.1",
+      "pali": "Bhesajjesu yathā vejjā,"
+    },
+    {
+      "id": "thag16.10:20.2",
+      "pali": "kiccākicce yathā gihī;"
+    },
+    {
+      "id": "thag16.10:20.3",
+      "pali": "Gaṇikāva vibhūsāyaṁ,"
+    },
+    {
+      "id": "thag16.10:20.4",
+      "pali": "issare khattiyā yathā."
+    },
+    {
+      "id": "thag16.10:21.1",
+      "pali": "Nekatikā vañcanikā,"
+    },
+    {
+      "id": "thag16.10:21.2",
+      "pali": "kūṭasakkhī apāṭukā;"
+    },
+    {
+      "id": "thag16.10:21.3",
+      "pali": "Bahūhi parikappehi,"
+    },
+    {
+      "id": "thag16.10:21.4",
+      "pali": "āmisaṁ paribhuñjare."
+    },
+    {
+      "id": "thag16.10:22.1",
+      "pali": "Lesakappe pariyāye,"
+    },
+    {
+      "id": "thag16.10:22.2",
+      "pali": "parikappenudhāvitā;"
+    },
+    {
+      "id": "thag16.10:22.3",
+      "pali": "Jīvikatthā upāyena,"
+    },
+    {
+      "id": "thag16.10:22.4",
+      "pali": "saṅkaḍḍhanti bahuṁ dhanaṁ."
+    },
+    {
+      "id": "thag16.10:23.1",
+      "pali": "Upaṭṭhāpenti parisaṁ,"
+    },
+    {
+      "id": "thag16.10:23.2",
+      "pali": "kammato no ca dhammato;"
+    },
+    {
+      "id": "thag16.10:23.3",
+      "pali": "Dhammaṁ paresaṁ desenti,"
+    },
+    {
+      "id": "thag16.10:23.4",
+      "pali": "lābhato no ca atthato."
+    },
+    {
+      "id": "thag16.10:24.1",
+      "pali": "Saṅghalābhassa bhaṇḍanti,"
+    },
+    {
+      "id": "thag16.10:24.2",
+      "pali": "saṅghato paribāhirā;"
+    },
+    {
+      "id": "thag16.10:24.3",
+      "pali": "Paralābhopajīvantā,"
+    },
+    {
+      "id": "thag16.10:24.4",
+      "pali": "ahirīkā na lajjare."
+    },
+    {
+      "id": "thag16.10:25.1",
+      "pali": "Nānuyuttā tathā eke,"
+    },
+    {
+      "id": "thag16.10:25.2",
+      "pali": "muṇḍā saṅghāṭipārutā;"
+    },
+    {
+      "id": "thag16.10:25.3",
+      "pali": "Sambhāvanaṁyevicchanti,"
+    },
+    {
+      "id": "thag16.10:25.4",
+      "pali": "lābhasakkāramucchitā."
+    },
+    {
+      "id": "thag16.10:26.1",
+      "pali": "Evaṁ nānappayātamhi,"
+    },
+    {
+      "id": "thag16.10:26.2",
+      "pali": "na dāni sukaraṁ tathā;"
+    },
+    {
+      "id": "thag16.10:26.3",
+      "pali": "Aphusitaṁ vā phusituṁ,"
+    },
+    {
+      "id": "thag16.10:26.4",
+      "pali": "phusitaṁ vānurakkhituṁ."
+    },
+    {
+      "id": "thag16.10:27.1",
+      "pali": "Yathā kaṇṭakaṭṭhānamhi,"
+    },
+    {
+      "id": "thag16.10:27.2",
+      "pali": "careyya anupāhano;"
+    },
+    {
+      "id": "thag16.10:27.3",
+      "pali": "Satiṁ upaṭṭhapetvāna,"
+    },
+    {
+      "id": "thag16.10:27.4",
+      "pali": "evaṁ gāme munī care."
+    },
+    {
+      "id": "thag16.10:28.1",
+      "pali": "Saritvā pubbake yogī,"
+    },
+    {
+      "id": "thag16.10:28.2",
+      "pali": "tesaṁ vattamanussaraṁ;"
+    },
+    {
+      "id": "thag16.10:28.3",
+      "pali": "Kiñcāpi pacchimo kālo,"
+    },
+    {
+      "id": "thag16.10:28.4",
+      "pali": "phuseyya amataṁ padaṁ."
+    },
+    {
+      "id": "thag16.10:29.1",
+      "pali": "Idaṁ vatvā sālavane,"
+    },
+    {
+      "id": "thag16.10:29.2",
+      "pali": "samaṇo bhāvitindriyo;"
+    },
+    {
+      "id": "thag16.10:29.3",
+      "pali": "Brāhmaṇo parinibbāyī,"
+    },
+    {
+      "id": "thag16.10:29.4",
+      "pali": "isi khīṇapunabbhavo”ti."
+    },
+    {
+      "id": "thag16.10:29.5",
+      "pali": "… Pārāpariyo thero …"
+    },
+    {
+      "id": "thag16.10:29.6",
+      "pali": "Vīsatinipāto niṭṭhito."
+    },
+    {
+      "id": "thag16.10:30.1",
+      "pali": "Adhimutto pārāpariyo,"
+    },
+    {
+      "id": "thag16.10:30.2",
+      "pali": "telakāni raṭṭhapālo;"
+    },
+    {
+      "id": "thag16.10:30.3",
+      "pali": "Mālukyaselo bhaddiyo,"
+    },
+    {
+      "id": "thag16.10:30.4",
+      "pali": "aṅguli dibbacakkhuko;"
+    },
+    {
+      "id": "thag16.10:30.5",
+      "pali": "Pārāpariyo dasete,"
+    },
+    {
+      "id": "thag16.10:30.6",
+      "pali": "vīsamhi parikittitā;"
+    },
+    {
+      "id": "thag16.10:30.7",
+      "pali": "Gāthāyo dve satā honti,"
+    },
+    {
+      "id": "thag16.10:30.8",
+      "pali": "pañcatālīsa uttarinti."
+    }
+  ]
+}

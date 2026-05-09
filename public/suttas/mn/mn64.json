@@ -1,0 +1,491 @@
+{
+  "uid": "mn64",
+  "title": "Mahāmālukyasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn64:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn64:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn64:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn64:1.4",
+      "pali": "“bhikkhavo”ti."
+    },
+    {
+      "id": "mn64:1.5",
+      "pali": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn64:1.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn64:2.1",
+      "pali": "“dhāretha no tumhe, bhikkhave, mayā desitāni pañcorambhāgiyāni saṁyojanānī”ti?"
+    },
+    {
+      "id": "mn64:2.2",
+      "pali": "Evaṁ vutte, āyasmā mālukyaputto bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn64:2.3",
+      "pali": "“ahaṁ kho, bhante, dhāremi bhagavatā desitāni pañcorambhāgiyāni saṁyojanānī”ti."
+    },
+    {
+      "id": "mn64:2.4",
+      "pali": "“Yathā kathaṁ pana tvaṁ, mālukyaputta, dhāresi mayā desitāni pañcorambhāgiyāni saṁyojanānī”ti?"
+    },
+    {
+      "id": "mn64:2.5",
+      "pali": "“Sakkāyadiṭṭhiṁ kho ahaṁ, bhante, bhagavatā orambhāgiyaṁ saṁyojanaṁ desitaṁ dhāremi;"
+    },
+    {
+      "id": "mn64:2.6",
+      "pali": "vicikicchaṁ kho ahaṁ, bhante, bhagavatā orambhāgiyaṁ saṁyojanaṁ desitaṁ dhāremi;"
+    },
+    {
+      "id": "mn64:2.7",
+      "pali": "sīlabbataparāmāsaṁ kho ahaṁ, bhante, bhagavatā orambhāgiyaṁ saṁyojanaṁ desitaṁ dhāremi;"
+    },
+    {
+      "id": "mn64:2.8",
+      "pali": "kāmacchandaṁ kho ahaṁ, bhante, bhagavatā orambhāgiyaṁ saṁyojanaṁ desitaṁ dhāremi;"
+    },
+    {
+      "id": "mn64:2.9",
+      "pali": "byāpādaṁ kho ahaṁ, bhante, bhagavatā orambhāgiyaṁ saṁyojanaṁ desitaṁ dhāremi."
+    },
+    {
+      "id": "mn64:2.10",
+      "pali": "Evaṁ kho ahaṁ, bhante, dhāremi bhagavatā desitāni pañcorambhāgiyāni saṁyojanānī”ti."
+    },
+    {
+      "id": "mn64:3.1",
+      "pali": "“Kassa kho nāma tvaṁ, mālukyaputta, imāni evaṁ pañcorambhāgiyāni saṁyojanāni desitāni dhāresi?"
+    },
+    {
+      "id": "mn64:3.2",
+      "pali": "Nanu, mālukyaputta, aññatitthiyā paribbājakā iminā taruṇūpamena upārambhena upārambhissanti?"
+    },
+    {
+      "id": "mn64:3.3",
+      "pali": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa sakkāyotipi na hoti, kuto panassa uppajjissati sakkāyadiṭṭhi?"
+    },
+    {
+      "id": "mn64:3.4",
+      "pali": "Anusetvevassa sakkāyadiṭṭhānusayo."
+    },
+    {
+      "id": "mn64:3.5",
+      "pali": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa dhammātipi na hoti, kuto panassa uppajjissati dhammesu vicikicchā?"
+    },
+    {
+      "id": "mn64:3.6",
+      "pali": "Anusetvevassa vicikicchānusayo."
+    },
+    {
+      "id": "mn64:3.7",
+      "pali": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa sīlātipi na hoti, kuto panassa uppajjissati sīlesu sīlabbataparāmāso?"
+    },
+    {
+      "id": "mn64:3.8",
+      "pali": "Anusetvevassa sīlabbataparāmāsānusayo."
+    },
+    {
+      "id": "mn64:3.9",
+      "pali": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa kāmātipi na hoti, kuto panassa uppajjissati kāmesu kāmacchando?"
+    },
+    {
+      "id": "mn64:3.10",
+      "pali": "Anusetvevassa kāmarāgānusayo."
+    },
+    {
+      "id": "mn64:3.11",
+      "pali": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa sattātipi na hoti, kuto panassa uppajjissati sattesu byāpādo?"
+    },
+    {
+      "id": "mn64:3.12",
+      "pali": "Anusetvevassa byāpādānusayo."
+    },
+    {
+      "id": "mn64:3.13",
+      "pali": "Nanu, mālukyaputta, aññatitthiyā paribbājakā iminā taruṇūpamena upārambhena upārambhissantī”ti?"
+    },
+    {
+      "id": "mn64:4.1",
+      "pali": "Evaṁ vutte, āyasmā ānando bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn64:4.2",
+      "pali": "“etassa, bhagavā, kālo, etassa, sugata, kālo"
+    },
+    {
+      "id": "mn64:4.3",
+      "pali": "yaṁ bhagavā pañcorambhāgiyāni saṁyojanāni deseyya. Bhagavato sutvā bhikkhū dhāressantī”ti."
+    },
+    {
+      "id": "mn64:4.4",
+      "pali": "“Tena hānanda, suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti."
+    },
+    {
+      "id": "mn64:4.5",
+      "pali": "“Evaṁ, bhante”ti kho āyasmā ānando bhagavato paccassosi."
+    },
+    {
+      "id": "mn64:4.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn64:5.1",
+      "pali": "“Idhānanda, assutavā puthujjano ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto"
+    },
+    {
+      "id": "mn64:5.2",
+      "pali": "sakkāyadiṭṭhipariyuṭṭhitena cetasā viharati sakkāyadiṭṭhiparetena;"
+    },
+    {
+      "id": "mn64:5.3",
+      "pali": "uppannāya ca sakkāyadiṭṭhiyā nissaraṇaṁ yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "mn64:5.4",
+      "pali": "Tassa sā sakkāyadiṭṭhi thāmagatā appaṭivinītā orambhāgiyaṁ saṁyojanaṁ."
+    },
+    {
+      "id": "mn64:5.5",
+      "pali": "Vicikicchāpariyuṭṭhitena cetasā viharati vicikicchāparetena;"
+    },
+    {
+      "id": "mn64:5.6",
+      "pali": "uppannāya ca vicikicchāya nissaraṇaṁ yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "mn64:5.7",
+      "pali": "Tassa sā vicikicchā thāmagatā appaṭivinītā orambhāgiyaṁ saṁyojanaṁ."
+    },
+    {
+      "id": "mn64:5.8",
+      "pali": "Sīlabbataparāmāsapariyuṭṭhitena cetasā viharati sīlabbataparāmāsaparetena;"
+    },
+    {
+      "id": "mn64:5.9",
+      "pali": "uppannassa ca sīlabbataparāmāsassa nissaraṇaṁ yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "mn64:5.10",
+      "pali": "Tassa so sīlabbataparāmāso thāmagato appaṭivinīto orambhāgiyaṁ saṁyojanaṁ."
+    },
+    {
+      "id": "mn64:5.11",
+      "pali": "Kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena;"
+    },
+    {
+      "id": "mn64:5.12",
+      "pali": "uppannassa ca kāmarāgassa nissaraṇaṁ yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "mn64:5.13",
+      "pali": "Tassa so kāmarāgo thāmagato appaṭivinīto orambhāgiyaṁ saṁyojanaṁ."
+    },
+    {
+      "id": "mn64:5.14",
+      "pali": "Byāpādapariyuṭṭhitena cetasā viharati byāpādaparetena;"
+    },
+    {
+      "id": "mn64:5.15",
+      "pali": "uppannassa ca byāpādassa nissaraṇaṁ yathābhūtaṁ nappajānāti."
+    },
+    {
+      "id": "mn64:5.16",
+      "pali": "Tassa so byāpādo thāmagato appaṭivinīto orambhāgiyaṁ saṁyojanaṁ."
+    },
+    {
+      "id": "mn64:6.1",
+      "pali": "Sutavā ca kho, ānanda, ariyasāvako ariyānaṁ dassāvī ariyadhammassa kovido ariyadhamme suvinīto, sappurisānaṁ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto na sakkāyadiṭṭhipariyuṭṭhitena cetasā viharati na sakkāyadiṭṭhiparetena;"
+    },
+    {
+      "id": "mn64:6.2",
+      "pali": "uppannāya ca sakkāyadiṭṭhiyā nissaraṇaṁ yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "mn64:6.3",
+      "pali": "Tassa sā sakkāyadiṭṭhi sānusayā pahīyati."
+    },
+    {
+      "id": "mn64:6.4",
+      "pali": "Na vicikicchāpariyuṭṭhitena cetasā viharati na vicikicchāparetena;"
+    },
+    {
+      "id": "mn64:6.5",
+      "pali": "uppannāya ca vicikicchāya nissaraṇaṁ yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "mn64:6.6",
+      "pali": "Tassa sā vicikicchā sānusayā pahīyati."
+    },
+    {
+      "id": "mn64:6.7",
+      "pali": "Na sīlabbataparāmāsapariyuṭṭhitena cetasā viharati na sīlabbataparāmāsaparetena;"
+    },
+    {
+      "id": "mn64:6.8",
+      "pali": "uppannassa ca sīlabbataparāmāsassa nissaraṇaṁ yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "mn64:6.9",
+      "pali": "Tassa so sīlabbataparāmāso sānusayo pahīyati."
+    },
+    {
+      "id": "mn64:6.10",
+      "pali": "Na kāmarāgapariyuṭṭhitena cetasā viharati na kāmarāgaparetena;"
+    },
+    {
+      "id": "mn64:6.11",
+      "pali": "uppannassa ca kāmarāgassa nissaraṇaṁ yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "mn64:6.12",
+      "pali": "Tassa so kāmarāgo sānusayo pahīyati."
+    },
+    {
+      "id": "mn64:6.13",
+      "pali": "Na byāpādapariyuṭṭhitena cetasā viharati na byāpādaparetena;"
+    },
+    {
+      "id": "mn64:6.14",
+      "pali": "uppannassa ca byāpādassa nissaraṇaṁ yathābhūtaṁ pajānāti."
+    },
+    {
+      "id": "mn64:6.15",
+      "pali": "Tassa so byāpādo sānusayo pahīyati."
+    },
+    {
+      "id": "mn64:6.16",
+      "pali": "Yo, ānanda, maggo yā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya taṁ maggaṁ taṁ paṭipadaṁ anāgamma pañcorambhāgiyāni saṁyojanāni ñassati vā dakkhati vā pajahissati vāti—netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "mn64:6.17",
+      "pali": "Seyyathāpi, ānanda, mahato rukkhassa tiṭṭhato sāravato tacaṁ acchetvā phegguṁ acchetvā sāracchedo bhavissatīti—"
+    },
+    {
+      "id": "mn64:6.18",
+      "pali": "netaṁ ṭhānaṁ vijjati;"
+    },
+    {
+      "id": "mn64:6.19",
+      "pali": "evameva kho, ānanda, yo maggo yā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya taṁ maggaṁ taṁ paṭipadaṁ anāgamma pañcorambhāgiyāni saṁyojanāni ñassati vā dakkhati vā pajahissati vāti—netaṁ ṭhānaṁ vijjati."
+    },
+    {
+      "id": "mn64:7.1",
+      "pali": "Yo ca kho, ānanda, maggo yā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya taṁ maggaṁ taṁ paṭipadaṁ āgamma pañcorambhāgiyāni saṁyojanāni ñassati vā dakkhati vā pajahissati vāti—ṭhānametaṁ vijjati."
+    },
+    {
+      "id": "mn64:8.1",
+      "pali": "Seyyathāpi, ānanda, mahato rukkhassa tiṭṭhato sāravato tacaṁ chetvā phegguṁ chetvā sāracchedo bhavissatīti—ṭhānametaṁ vijjati."
+    },
+    {
+      "id": "mn64:8.2",
+      "pali": "evameva kho, ānanda, yo maggo yā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya taṁ maggaṁ taṁ paṭipadaṁ āgamma pañcorambhāgiyāni saṁyojanāni ñassati vā dakkhati vā pajahissati vāti—ṭhānametaṁ vijjati."
+    },
+    {
+      "id": "mn64:8.3",
+      "pali": "Seyyathāpi, ānanda, gaṅgā nadī pūrā udakassa samatittikā kākapeyyā."
+    },
+    {
+      "id": "mn64:8.4",
+      "pali": "Atha dubbalako puriso āgaccheyya:"
+    },
+    {
+      "id": "mn64:8.5",
+      "pali": "‘ahaṁ imissā gaṅgāya nadiyā tiriyaṁ bāhāya sotaṁ chetvā sotthinā pāraṁ gacchissāmī’ti;"
+    },
+    {
+      "id": "mn64:8.6",
+      "pali": "so na sakkuṇeyya gaṅgāya nadiyā tiriyaṁ bāhāya sotaṁ chetvā sotthinā pāraṁ gantuṁ."
+    },
+    {
+      "id": "mn64:8.7",
+      "pali": "Evameva kho, ānanda, yesaṁ kesañci sakkāyanirodhāya dhamme desiyamāne cittaṁ na pakkhandati nappasīdati na santiṭṭhati na vimuccati;"
+    },
+    {
+      "id": "mn64:8.8",
+      "pali": "seyyathāpi so dubbalako puriso evamete daṭṭhabbā."
+    },
+    {
+      "id": "mn64:8.9",
+      "pali": "Seyyathāpi, ānanda, gaṅgā nadī pūrā udakassa samatittikā kākapeyyā."
+    },
+    {
+      "id": "mn64:8.10",
+      "pali": "Atha balavā puriso āgaccheyya:"
+    },
+    {
+      "id": "mn64:8.11",
+      "pali": "‘ahaṁ imissā gaṅgāya nadiyā tiriyaṁ bāhāya sotaṁ chetvā sotthinā pāraṁ gacchissāmī’ti;"
+    },
+    {
+      "id": "mn64:8.12",
+      "pali": "so sakkuṇeyya gaṅgāya nadiyā tiriyaṁ bāhāya sotaṁ chetvā sotthinā pāraṁ gantuṁ."
+    },
+    {
+      "id": "mn64:8.13",
+      "pali": "Evameva kho, ānanda, yesaṁ kesañci sakkāyanirodhāya dhamme desiyamāne cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati;"
+    },
+    {
+      "id": "mn64:8.14",
+      "pali": "seyyathāpi so balavā puriso evamete daṭṭhabbā."
+    },
+    {
+      "id": "mn64:9.1",
+      "pali": "Katamo cānanda, maggo, katamā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya?"
+    },
+    {
+      "id": "mn64:9.2",
+      "pali": "Idhānanda, bhikkhu upadhivivekā akusalānaṁ dhammānaṁ pahānā sabbaso kāyaduṭṭhullānaṁ paṭippassaddhiyā vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn64:9.3",
+      "pali": "So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassati."
+    },
+    {
+      "id": "mn64:9.4",
+      "pali": "So tehi dhammehi cittaṁ paṭivāpeti."
+    },
+    {
+      "id": "mn64:9.5",
+      "pali": "So tehi dhammehi cittaṁ paṭivāpetvā amatāya dhātuyā cittaṁ upasaṁharati:"
+    },
+    {
+      "id": "mn64:9.6",
+      "pali": "‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti."
+    },
+    {
+      "id": "mn64:9.7",
+      "pali": "So tattha ṭhito āsavānaṁ khayaṁ pāpuṇāti;"
+    },
+    {
+      "id": "mn64:9.8",
+      "pali": "no ce āsavānaṁ khayaṁ pāpuṇāti teneva dhammarāgena tāya dhammanandiyā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā."
+    },
+    {
+      "id": "mn64:9.9",
+      "pali": "Ayampi kho, ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya."
+    },
+    {
+      "id": "mn64:10-12.1",
+      "pali": "Puna caparaṁ, ānanda, bhikkhu vitakkavicārānaṁ vūpasamā …pe… dutiyaṁ jhānaṁ upasampajja viharati …pe…"
+    },
+    {
+      "id": "mn64:10-12.2",
+      "pali": "tatiyaṁ jhānaṁ …pe…"
+    },
+    {
+      "id": "mn64:10-12.3",
+      "pali": "catutthaṁ jhānaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn64:10-12.4",
+      "pali": "So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ …"
+    },
+    {
+      "id": "mn64:10-12.5",
+      "pali": "pe…"
+    },
+    {
+      "id": "mn64:10-12.6",
+      "pali": "anāvattidhammo tasmā lokā."
+    },
+    {
+      "id": "mn64:10-12.7",
+      "pali": "Ayampi kho, ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya."
+    },
+    {
+      "id": "mn64:13.1",
+      "pali": "Puna caparaṁ, ānanda, bhikkhu sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn64:13.2",
+      "pali": "So yadeva tattha hoti vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ …"
+    },
+    {
+      "id": "mn64:13.3",
+      "pali": "pe…"
+    },
+    {
+      "id": "mn64:13.4",
+      "pali": "anāvattidhammo tasmā lokā."
+    },
+    {
+      "id": "mn64:13.5",
+      "pali": "Ayampi kho, ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya."
+    },
+    {
+      "id": "mn64:14.1",
+      "pali": "Puna caparaṁ, ānanda, bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn64:14.2",
+      "pali": "So yadeva tattha hoti vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ …"
+    },
+    {
+      "id": "mn64:14.3",
+      "pali": "pe…"
+    },
+    {
+      "id": "mn64:14.4",
+      "pali": "anāvattidhammo tasmā lokā."
+    },
+    {
+      "id": "mn64:14.5",
+      "pali": "Ayampi kho, ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya."
+    },
+    {
+      "id": "mn64:15.1",
+      "pali": "Puna caparaṁ, ānanda, bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati."
+    },
+    {
+      "id": "mn64:15.2",
+      "pali": "So yadeva tattha hoti vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ …"
+    },
+    {
+      "id": "mn64:15.3",
+      "pali": "pe…"
+    },
+    {
+      "id": "mn64:15.4",
+      "pali": "anāvattidhammo tasmā lokā."
+    },
+    {
+      "id": "mn64:15.5",
+      "pali": "Ayampi kho, ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāyā”ti."
+    },
+    {
+      "id": "mn64:16.1",
+      "pali": "“Eso ce, bhante, maggo esā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya, atha kiñcarahi idhekacce bhikkhū cetovimuttino ekacce bhikkhū paññāvimuttino”ti?"
+    },
+    {
+      "id": "mn64:16.2",
+      "pali": "“Ettha kho panesāhaṁ, ānanda, indriyavemattataṁ vadāmī”ti."
+    },
+    {
+      "id": "mn64:16.3",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn64:16.4",
+      "pali": "Attamano āyasmā ānando bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn64:16.5",
+      "pali": "Mahāmālukyasuttaṁ niṭṭhitaṁ catutthaṁ."
+    }
+  ]
+}

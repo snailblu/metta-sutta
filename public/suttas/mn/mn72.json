@@ -1,0 +1,643 @@
+{
+  "uid": "mn72",
+  "title": "Aggivacchasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn72:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn72:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme."
+    },
+    {
+      "id": "mn72:2.1",
+      "pali": "Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi."
+    },
+    {
+      "id": "mn72:2.2",
+      "pali": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn72:3.1",
+      "pali": "“Kiṁ nu kho, bho gotama, ‘sassato loko, idameva saccaṁ moghamaññan’ti—"
+    },
+    {
+      "id": "mn72:3.2",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo”ti?"
+    },
+    {
+      "id": "mn72:3.3",
+      "pali": "“Na kho ahaṁ, vaccha, evaṁdiṭṭhi:"
+    },
+    {
+      "id": "mn72:3.4",
+      "pali": "‘sassato loko, idameva saccaṁ moghamaññan’”ti."
+    },
+    {
+      "id": "mn72:4.1",
+      "pali": "“Kiṁ pana, bho gotama, ‘asassato loko, idameva saccaṁ moghamaññan’ti—"
+    },
+    {
+      "id": "mn72:4.2",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo”ti?"
+    },
+    {
+      "id": "mn72:4.3",
+      "pali": "“Na kho ahaṁ, vaccha, evaṁdiṭṭhi:"
+    },
+    {
+      "id": "mn72:4.4",
+      "pali": "‘asassato loko, idameva saccaṁ moghamaññan’”ti."
+    },
+    {
+      "id": "mn72:5.1",
+      "pali": "“Kiṁ nu kho, bho gotama, ‘antavā loko, idameva saccaṁ moghamaññan’ti—"
+    },
+    {
+      "id": "mn72:5.2",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo”ti?"
+    },
+    {
+      "id": "mn72:5.3",
+      "pali": "“Na kho ahaṁ, vaccha, evaṁdiṭṭhi:"
+    },
+    {
+      "id": "mn72:5.4",
+      "pali": "‘antavā loko, idameva saccaṁ moghamaññan’”ti."
+    },
+    {
+      "id": "mn72:6.1",
+      "pali": "“Kiṁ pana, bho gotama, ‘anantavā loko, idameva saccaṁ moghamaññan’ti—"
+    },
+    {
+      "id": "mn72:6.2",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo”ti?"
+    },
+    {
+      "id": "mn72:6.3",
+      "pali": "“Na kho ahaṁ, vaccha, evaṁdiṭṭhi:"
+    },
+    {
+      "id": "mn72:6.4",
+      "pali": "‘anantavā loko, idameva saccaṁ moghamaññan’”ti."
+    },
+    {
+      "id": "mn72:7.1",
+      "pali": "“Kiṁ nu kho, bho gotama, ‘taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññan’ti—"
+    },
+    {
+      "id": "mn72:7.2",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo”ti?"
+    },
+    {
+      "id": "mn72:7.3",
+      "pali": "“Na kho ahaṁ, vaccha, evaṁdiṭṭhi:"
+    },
+    {
+      "id": "mn72:7.4",
+      "pali": "‘taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññan’”ti."
+    },
+    {
+      "id": "mn72:8.1",
+      "pali": "“Kiṁ pana, bho gotama, ‘aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññan’ti—"
+    },
+    {
+      "id": "mn72:8.2",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo”ti?"
+    },
+    {
+      "id": "mn72:8.3",
+      "pali": "“Na kho ahaṁ, vaccha, evaṁdiṭṭhi:"
+    },
+    {
+      "id": "mn72:8.4",
+      "pali": "‘aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññan’”ti."
+    },
+    {
+      "id": "mn72:9.1",
+      "pali": "“Kiṁ nu kho, bho gotama, ‘hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—"
+    },
+    {
+      "id": "mn72:9.2",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo”ti?"
+    },
+    {
+      "id": "mn72:9.3",
+      "pali": "“Na kho ahaṁ, vaccha, evaṁdiṭṭhi:"
+    },
+    {
+      "id": "mn72:9.4",
+      "pali": "‘hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’”ti."
+    },
+    {
+      "id": "mn72:10.1",
+      "pali": "“Kiṁ pana, bho gotama, ‘na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—"
+    },
+    {
+      "id": "mn72:10.2",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo”ti?"
+    },
+    {
+      "id": "mn72:10.3",
+      "pali": "“Na kho ahaṁ, vaccha, evaṁdiṭṭhi:"
+    },
+    {
+      "id": "mn72:10.4",
+      "pali": "‘na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’”ti."
+    },
+    {
+      "id": "mn72:11.1",
+      "pali": "“Kiṁ nu kho, bho gotama, ‘hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—"
+    },
+    {
+      "id": "mn72:11.2",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo”ti?"
+    },
+    {
+      "id": "mn72:11.3",
+      "pali": "“Na kho ahaṁ, vaccha, evaṁdiṭṭhi:"
+    },
+    {
+      "id": "mn72:11.4",
+      "pali": "‘hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’”ti."
+    },
+    {
+      "id": "mn72:12.1",
+      "pali": "“Kiṁ pana, bho gotama, ‘neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—"
+    },
+    {
+      "id": "mn72:12.2",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo”ti?"
+    },
+    {
+      "id": "mn72:12.3",
+      "pali": "“Na kho ahaṁ, vaccha, evaṁdiṭṭhi:"
+    },
+    {
+      "id": "mn72:12.4",
+      "pali": "‘neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’”ti."
+    },
+    {
+      "id": "mn72:13.1",
+      "pali": "“‘Kiṁ nu kho, bho gotama, sassato loko, idameva saccaṁ moghamaññanti—"
+    },
+    {
+      "id": "mn72:13.2",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—"
+    },
+    {
+      "id": "mn72:13.3",
+      "pali": "sassato loko, idameva saccaṁ moghamaññan’ti vadesi."
+    },
+    {
+      "id": "mn72:13.4",
+      "pali": "‘Kiṁ pana, bho gotama, asassato loko, idameva saccaṁ moghamaññanti—"
+    },
+    {
+      "id": "mn72:13.5",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—"
+    },
+    {
+      "id": "mn72:13.6",
+      "pali": "asassato loko, idameva saccaṁ moghamaññan’ti vadesi."
+    },
+    {
+      "id": "mn72:13.7",
+      "pali": "‘Kiṁ nu kho, bho gotama, antavā loko, idameva saccaṁ moghamaññanti—"
+    },
+    {
+      "id": "mn72:13.8",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—"
+    },
+    {
+      "id": "mn72:13.9",
+      "pali": "antavā loko, idameva saccaṁ moghamaññan’ti vadesi."
+    },
+    {
+      "id": "mn72:13.10",
+      "pali": "‘Kiṁ pana, bho gotama, anantavā loko, idameva saccaṁ moghamaññanti—"
+    },
+    {
+      "id": "mn72:13.11",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—"
+    },
+    {
+      "id": "mn72:13.12",
+      "pali": "anantavā loko, idameva saccaṁ moghamaññan’ti vadesi."
+    },
+    {
+      "id": "mn72:13.13",
+      "pali": "‘Kiṁ nu kho, bho gotama, taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññanti—"
+    },
+    {
+      "id": "mn72:13.14",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—"
+    },
+    {
+      "id": "mn72:13.15",
+      "pali": "taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññan’ti vadesi."
+    },
+    {
+      "id": "mn72:13.16",
+      "pali": "‘Kiṁ pana, bho gotama, aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññanti—"
+    },
+    {
+      "id": "mn72:13.17",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—"
+    },
+    {
+      "id": "mn72:13.18",
+      "pali": "aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññan’ti vadesi."
+    },
+    {
+      "id": "mn72:13.19",
+      "pali": "‘Kiṁ nu kho, bho gotama, hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—"
+    },
+    {
+      "id": "mn72:13.20",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—"
+    },
+    {
+      "id": "mn72:13.21",
+      "pali": "hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi."
+    },
+    {
+      "id": "mn72:13.22",
+      "pali": "‘Kiṁ pana, bho gotama, na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—"
+    },
+    {
+      "id": "mn72:13.23",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—"
+    },
+    {
+      "id": "mn72:13.24",
+      "pali": "na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi."
+    },
+    {
+      "id": "mn72:13.25",
+      "pali": "‘Kiṁ nu kho, bho gotama, hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—"
+    },
+    {
+      "id": "mn72:13.26",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—"
+    },
+    {
+      "id": "mn72:13.27",
+      "pali": "hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi."
+    },
+    {
+      "id": "mn72:13.28",
+      "pali": "‘Kiṁ pana, bho gotama, neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—"
+    },
+    {
+      "id": "mn72:13.29",
+      "pali": "evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—"
+    },
+    {
+      "id": "mn72:13.30",
+      "pali": "neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi."
+    },
+    {
+      "id": "mn72:13.31",
+      "pali": "Kiṁ pana bho gotamo ādīnavaṁ sampassamāno evaṁ imāni sabbaso diṭṭhigatāni anupagato”ti?"
+    },
+    {
+      "id": "mn72:14.1",
+      "pali": "“‘Sassato loko’ti kho, vaccha, diṭṭhigatametaṁ diṭṭhigahanaṁ diṭṭhikantāro diṭṭhivisūkaṁ diṭṭhivipphanditaṁ diṭṭhisaṁyojanaṁ sadukkhaṁ savighātaṁ saupāyāsaṁ sapariḷāhaṁ, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati."
+    },
+    {
+      "id": "mn72:14.2",
+      "pali": "‘Asassato loko’ti kho, vaccha …pe…"
+    },
+    {
+      "id": "mn72:14.3",
+      "pali": "‘antavā loko’ti kho, vaccha …pe…"
+    },
+    {
+      "id": "mn72:14.4",
+      "pali": "‘anantavā loko’ti kho, vaccha …pe…"
+    },
+    {
+      "id": "mn72:14.5",
+      "pali": "‘taṁ jīvaṁ taṁ sarīran’ti kho, vaccha …pe…"
+    },
+    {
+      "id": "mn72:14.6",
+      "pali": "‘aññaṁ jīvaṁ aññaṁ sarīran’ti kho, vaccha …pe…"
+    },
+    {
+      "id": "mn72:14.7",
+      "pali": "‘hoti tathāgato paraṁ maraṇā’ti kho, vaccha …pe…"
+    },
+    {
+      "id": "mn72:14.8",
+      "pali": "‘na hoti tathāgato paraṁ maraṇā’ti kho, vaccha …pe…"
+    },
+    {
+      "id": "mn72:14.9",
+      "pali": "‘hoti ca na ca hoti tathāgato paraṁ maraṇā’ti kho, vaccha …pe…"
+    },
+    {
+      "id": "mn72:14.10",
+      "pali": "‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti kho, vaccha, diṭṭhigatametaṁ diṭṭhigahanaṁ diṭṭhikantāro diṭṭhivisūkaṁ diṭṭhivipphanditaṁ diṭṭhisaṁyojanaṁ sadukkhaṁ savighātaṁ saupāyāsaṁ sapariḷāhaṁ, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati."
+    },
+    {
+      "id": "mn72:14.11",
+      "pali": "Imaṁ kho ahaṁ, vaccha, ādīnavaṁ sampassamāno evaṁ imāni sabbaso diṭṭhigatāni anupagato”ti."
+    },
+    {
+      "id": "mn72:15.1",
+      "pali": "“Atthi pana bhoto gotamassa kiñci diṭṭhigatan”ti?"
+    },
+    {
+      "id": "mn72:15.2",
+      "pali": "“Diṭṭhigatanti kho, vaccha, apanītametaṁ tathāgatassa."
+    },
+    {
+      "id": "mn72:15.3",
+      "pali": "Diṭṭhañhetaṁ, vaccha, tathāgatena:"
+    },
+    {
+      "id": "mn72:15.4",
+      "pali": "‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo;"
+    },
+    {
+      "id": "mn72:15.5",
+      "pali": "iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo;"
+    },
+    {
+      "id": "mn72:15.6",
+      "pali": "iti saññā, iti saññāya samudayo, iti saññāya atthaṅgamo;"
+    },
+    {
+      "id": "mn72:15.7",
+      "pali": "iti saṅkhārā, iti saṅkhārānaṁ samudayo, iti saṅkhārānaṁ atthaṅgamo;"
+    },
+    {
+      "id": "mn72:15.8",
+      "pali": "iti viññāṇaṁ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti."
+    },
+    {
+      "id": "mn72:15.9",
+      "pali": "Tasmā tathāgato sabbamaññitānaṁ sabbamathitānaṁ sabbaahaṅkāramamaṅkāramānānusayānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anupādā vimuttoti vadāmī”ti."
+    },
+    {
+      "id": "mn72:16.1",
+      "pali": "“Evaṁ vimuttacitto pana, bho gotama, bhikkhu kuhiṁ upapajjatī”ti?"
+    },
+    {
+      "id": "mn72:16.2",
+      "pali": "“Upapajjatīti kho, vaccha, na upeti”."
+    },
+    {
+      "id": "mn72:16.3",
+      "pali": "“Tena hi, bho gotama, na upapajjatī”ti?"
+    },
+    {
+      "id": "mn72:16.4",
+      "pali": "“Na upapajjatīti kho, vaccha, na upeti”."
+    },
+    {
+      "id": "mn72:16.5",
+      "pali": "“Tena hi, bho gotama, upapajjati ca na ca upapajjatī”ti?"
+    },
+    {
+      "id": "mn72:16.6",
+      "pali": "“Upapajjati ca na ca upapajjatīti kho, vaccha, na upeti”."
+    },
+    {
+      "id": "mn72:16.7",
+      "pali": "“Tena hi, bho gotama, neva upapajjati na na upapajjatī”ti?"
+    },
+    {
+      "id": "mn72:16.8",
+      "pali": "“Neva upapajjati na na upapajjatīti kho, vaccha, na upeti”."
+    },
+    {
+      "id": "mn72:17.1",
+      "pali": "“‘Evaṁ vimuttacitto pana, bho gotama, bhikkhu kuhiṁ upapajjatī’ti iti puṭṭho samāno ‘upapajjatīti kho, vaccha, na upetī’ti vadesi."
+    },
+    {
+      "id": "mn72:17.2",
+      "pali": "‘Tena hi, bho gotama, na upapajjatī’ti iti puṭṭho samāno ‘na upapajjatīti kho, vaccha, na upetī’ti vadesi."
+    },
+    {
+      "id": "mn72:17.3",
+      "pali": "‘Tena hi, bho gotama, upapajjati ca na ca upapajjatī’ti iti puṭṭho samāno ‘upapajjati ca na ca upapajjatīti kho, vaccha, na upetī’ti vadesi."
+    },
+    {
+      "id": "mn72:17.4",
+      "pali": "‘Tena hi, bho gotama, neva upapajjati na na upapajjatī’ti iti puṭṭho samāno ‘neva upapajjati na na upapajjatīti kho, vaccha, na upetī’ti vadesi."
+    },
+    {
+      "id": "mn72:17.5",
+      "pali": "Etthāhaṁ, bho gotama, aññāṇamāpādiṁ, ettha sammohamāpādiṁ."
+    },
+    {
+      "id": "mn72:17.6",
+      "pali": "Yāpi me esā bhoto gotamassa purimena kathāsallāpena ahu pasādamattā sāpi me etarahi antarahitā”ti."
+    },
+    {
+      "id": "mn72:18.1",
+      "pali": "“Alañhi te, vaccha, aññāṇāya, alaṁ sammohāya."
+    },
+    {
+      "id": "mn72:18.2",
+      "pali": "Gambhīro hāyaṁ, vaccha, dhammo duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo."
+    },
+    {
+      "id": "mn72:18.3",
+      "pali": "So tayā dujjāno aññadiṭṭhikena aññakhantikena aññarucikena aññatrayogena aññatrācariyakena."
+    },
+    {
+      "id": "mn72:18.4",
+      "pali": "Tena hi, vaccha, taññevettha paṭipucchissāmi; yathā te khameyya tathā naṁ byākareyyāsi."
+    },
+    {
+      "id": "mn72:19.1",
+      "pali": "Taṁ kiṁ maññasi, vaccha,"
+    },
+    {
+      "id": "mn72:19.2",
+      "pali": "sace te purato aggi jaleyya, jāneyyāsi tvaṁ:"
+    },
+    {
+      "id": "mn72:19.3",
+      "pali": "‘ayaṁ me purato aggi jalatī’”ti?"
+    },
+    {
+      "id": "mn72:19.4",
+      "pali": "“Sace me, bho gotama, purato aggi jaleyya, jāneyyāhaṁ:"
+    },
+    {
+      "id": "mn72:19.5",
+      "pali": "‘ayaṁ me purato aggi jalatī’”ti."
+    },
+    {
+      "id": "mn72:19.6",
+      "pali": "“Sace pana taṁ, vaccha, evaṁ puccheyya:"
+    },
+    {
+      "id": "mn72:19.7",
+      "pali": "‘yo te ayaṁ purato aggi jalati ayaṁ aggi kiṁ paṭicca jalatī’ti, evaṁ puṭṭho tvaṁ, vaccha, kinti byākareyyāsī”ti?"
+    },
+    {
+      "id": "mn72:19.8",
+      "pali": "“Sace maṁ, bho gotama, evaṁ puccheyya:"
+    },
+    {
+      "id": "mn72:19.9",
+      "pali": "‘yo te ayaṁ purato aggi jalati ayaṁ aggi kiṁ paṭicca jalatī’ti, evaṁ puṭṭho ahaṁ, bho gotama, evaṁ byākareyyaṁ:"
+    },
+    {
+      "id": "mn72:19.10",
+      "pali": "‘yo me ayaṁ purato aggi jalati ayaṁ aggi tiṇakaṭṭhupādānaṁ paṭicca jalatī’”ti."
+    },
+    {
+      "id": "mn72:19.11",
+      "pali": "“Sace te, vaccha, purato so aggi nibbāyeyya, jāneyyāsi tvaṁ:"
+    },
+    {
+      "id": "mn72:19.12",
+      "pali": "‘ayaṁ me purato aggi nibbuto’”ti?"
+    },
+    {
+      "id": "mn72:19.13",
+      "pali": "“Sace me, bho gotama, purato so aggi nibbāyeyya, jāneyyāhaṁ:"
+    },
+    {
+      "id": "mn72:19.14",
+      "pali": "‘ayaṁ me purato aggi nibbuto’”ti."
+    },
+    {
+      "id": "mn72:19.15",
+      "pali": "“Sace pana taṁ, vaccha, evaṁ puccheyya:"
+    },
+    {
+      "id": "mn72:19.16",
+      "pali": "‘yo te ayaṁ purato aggi nibbuto so aggi ito katamaṁ disaṁ gato—"
+    },
+    {
+      "id": "mn72:19.17",
+      "pali": "puratthimaṁ vā dakkhiṇaṁ vā pacchimaṁ vā uttaraṁ vā’ti, evaṁ puṭṭho tvaṁ, vaccha, kinti byākareyyāsī”ti?"
+    },
+    {
+      "id": "mn72:19.18",
+      "pali": "“Na upeti, bho gotama, yañhi so, bho gotama, aggi tiṇakaṭṭhupādānaṁ paṭicca ajali tassa ca pariyādānā aññassa ca anupahārā anāhāro nibbutotveva saṅkhyaṁ gacchatī”ti."
+    },
+    {
+      "id": "mn72:20.1",
+      "pali": "“Evameva kho, vaccha, yena rūpena tathāgataṁ paññāpayamāno paññāpeyya taṁ rūpaṁ tathāgatassa pahīnaṁ ucchinnamūlaṁ tālāvatthukataṁ anabhāvaṅkataṁ āyatiṁ anuppādadhammaṁ."
+    },
+    {
+      "id": "mn72:20.2",
+      "pali": "Rūpasaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—"
+    },
+    {
+      "id": "mn72:20.3",
+      "pali": "seyyathāpi mahāsamuddo."
+    },
+    {
+      "id": "mn72:20.4",
+      "pali": "Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti."
+    },
+    {
+      "id": "mn72:20.5",
+      "pali": "Yāya vedanāya tathāgataṁ paññāpayamāno paññāpeyya sā vedanā tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "mn72:20.6",
+      "pali": "Vedanāsaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—"
+    },
+    {
+      "id": "mn72:20.7",
+      "pali": "seyyathāpi mahāsamuddo."
+    },
+    {
+      "id": "mn72:20.8",
+      "pali": "Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti."
+    },
+    {
+      "id": "mn72:20.9",
+      "pali": "Yāya saññāya tathāgataṁ paññāpayamāno paññāpeyya sā saññā tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "mn72:20.10",
+      "pali": "Saññāsaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—"
+    },
+    {
+      "id": "mn72:20.11",
+      "pali": "seyyathāpi mahāsamuddo."
+    },
+    {
+      "id": "mn72:20.12",
+      "pali": "Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti."
+    },
+    {
+      "id": "mn72:20.13",
+      "pali": "Yehi saṅkhārehi tathāgataṁ paññāpayamāno paññāpeyya te saṅkhārā tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā."
+    },
+    {
+      "id": "mn72:20.14",
+      "pali": "Saṅkhārasaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—"
+    },
+    {
+      "id": "mn72:20.15",
+      "pali": "seyyathāpi mahāsamuddo."
+    },
+    {
+      "id": "mn72:20.16",
+      "pali": "Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti."
+    },
+    {
+      "id": "mn72:20.17",
+      "pali": "Yena viññāṇena tathāgataṁ paññāpayamāno paññāpeyya taṁ viññāṇaṁ tathāgatassa pahīnaṁ ucchinnamūlaṁ tālāvatthukataṁ anabhāvaṅkataṁ āyatiṁ anuppādadhammaṁ."
+    },
+    {
+      "id": "mn72:20.18",
+      "pali": "Viññāṇasaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—"
+    },
+    {
+      "id": "mn72:20.19",
+      "pali": "seyyathāpi mahāsamuddo."
+    },
+    {
+      "id": "mn72:20.20",
+      "pali": "Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upetī”ti."
+    },
+    {
+      "id": "mn72:21.1",
+      "pali": "Evaṁ vutte, vacchagotto paribbājako bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn72:21.2",
+      "pali": "“seyyathāpi, bho gotama, gāmassa vā nigamassa vā avidūre mahāsālarukkho."
+    },
+    {
+      "id": "mn72:21.3",
+      "pali": "Tassa aniccatā sākhāpalāsā palujjeyyuṁ, tacapapaṭikā palujjeyyuṁ, pheggū palujjeyyuṁ;"
+    },
+    {
+      "id": "mn72:21.4",
+      "pali": "so aparena samayena apagatasākhāpalāso apagatatacapapaṭiko apagataphegguko suddho assa, sāre patiṭṭhito;"
+    },
+    {
+      "id": "mn72:21.5",
+      "pali": "evameva bhoto gotamassa pāvacanaṁ apagatasākhāpalāsaṁ apagatatacapapaṭikaṁ apagatapheggukaṁ suddhaṁ, sāre patiṭṭhitaṁ."
+    },
+    {
+      "id": "mn72:22.1",
+      "pali": "Abhikkantaṁ, bho gotama …pe…"
+    },
+    {
+      "id": "mn72:22.2",
+      "pali": "upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti."
+    },
+    {
+      "id": "mn72:22.3",
+      "pali": "Aggivacchasuttaṁ niṭṭhitaṁ dutiyaṁ."
+    }
+  ]
+}

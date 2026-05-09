@@ -1,0 +1,507 @@
+{
+  "uid": "mn106",
+  "title": "Āneñjasappāyasutta",
+  "nikaya": "mn",
+  "segments": [
+    {
+      "id": "mn106:1.1",
+      "pali": "Evaṁ me sutaṁ—"
+    },
+    {
+      "id": "mn106:1.2",
+      "pali": "ekaṁ samayaṁ bhagavā kurūsu viharati kammāsadhammaṁ nāma kurūnaṁ nigamo."
+    },
+    {
+      "id": "mn106:1.3",
+      "pali": "Tatra kho bhagavā bhikkhū āmantesi:"
+    },
+    {
+      "id": "mn106:1.4",
+      "pali": "“bhikkhavo”ti."
+    },
+    {
+      "id": "mn106:1.5",
+      "pali": "“Bhadante”ti te bhikkhū bhagavato paccassosuṁ."
+    },
+    {
+      "id": "mn106:1.6",
+      "pali": "Bhagavā etadavoca:"
+    },
+    {
+      "id": "mn106:2.1",
+      "pali": "“Aniccā, bhikkhave, kāmā tucchā musā mosadhammā."
+    },
+    {
+      "id": "mn106:2.2",
+      "pali": "Māyākatametaṁ, bhikkhave, bālalāpanaṁ."
+    },
+    {
+      "id": "mn106:2.3",
+      "pali": "Ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā;"
+    },
+    {
+      "id": "mn106:2.4",
+      "pali": "yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasaññā—"
+    },
+    {
+      "id": "mn106:2.5",
+      "pali": "ubhayametaṁ māradheyyaṁ, mārassesa visayo, mārassesa nivāpo, mārassesa gocaro."
+    },
+    {
+      "id": "mn106:2.6",
+      "pali": "Etthete pāpakā akusalā mānasā abhijjhāpi byāpādāpi sārambhāpi saṁvattanti."
+    },
+    {
+      "id": "mn106:2.7",
+      "pali": "Teva ariyasāvakassa idhamanusikkhato antarāyāya sambhavanti."
+    },
+    {
+      "id": "mn106:3.1",
+      "pali": "Tatra, bhikkhave, ariyasāvako iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn106:3.2",
+      "pali": "‘ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā;"
+    },
+    {
+      "id": "mn106:3.3",
+      "pali": "yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasaññā—"
+    },
+    {
+      "id": "mn106:3.4",
+      "pali": "ubhayametaṁ māradheyyaṁ, mārassesa visayo, mārassesa nivāpo, mārassesa gocaro."
+    },
+    {
+      "id": "mn106:3.5",
+      "pali": "Etthete pāpakā akusalā mānasā abhijjhāpi byāpādāpi sārambhāpi saṁvattanti,"
+    },
+    {
+      "id": "mn106:3.6",
+      "pali": "teva ariyasāvakassa idhamanusikkhato antarāyāya sambhavanti."
+    },
+    {
+      "id": "mn106:3.7",
+      "pali": "Yannūnāhaṁ vipulena mahaggatena cetasā vihareyyaṁ abhibhuyya lokaṁ adhiṭṭhāya manasā."
+    },
+    {
+      "id": "mn106:3.8",
+      "pali": "Vipulena hi me mahaggatena cetasā viharato abhibhuyya lokaṁ adhiṭṭhāya manasā ye pāpakā akusalā mānasā abhijjhāpi byāpādāpi sārambhāpi te na bhavissanti."
+    },
+    {
+      "id": "mn106:3.9",
+      "pali": "Tesaṁ pahānā aparittañca me cittaṁ bhavissati appamāṇaṁ subhāvitan’ti."
+    },
+    {
+      "id": "mn106:3.10",
+      "pali": "Tassa evaṁpaṭipannassa tabbahulavihārino āyatane cittaṁ pasīdati."
+    },
+    {
+      "id": "mn106:3.11",
+      "pali": "Sampasāde sati etarahi vā āneñjaṁ samāpajjati paññāya vā adhimuccati."
+    },
+    {
+      "id": "mn106:3.12",
+      "pali": "Kāyassa bhedā paraṁ maraṇā, ṭhānametaṁ vijjati yaṁ taṁsaṁvattanikaṁ viññāṇaṁ assa āneñjūpagaṁ."
+    },
+    {
+      "id": "mn106:3.13",
+      "pali": "Ayaṁ, bhikkhave, paṭhamā āneñjasappāyā paṭipadā akkhāyati."
+    },
+    {
+      "id": "mn106:4.1",
+      "pali": "Puna caparaṁ, bhikkhave, ariyasāvako iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn106:4.2",
+      "pali": "‘ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā;"
+    },
+    {
+      "id": "mn106:4.3",
+      "pali": "yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasaññā;"
+    },
+    {
+      "id": "mn106:4.4",
+      "pali": "yaṁ kiñci rūpaṁ sabbaṁ rūpaṁ cattāri ca mahābhūtāni, catunnañca mahābhūtānaṁ upādāyarūpan’ti."
+    },
+    {
+      "id": "mn106:4.5",
+      "pali": "Tassa evaṁpaṭipannassa tabbahulavihārino āyatane cittaṁ pasīdati."
+    },
+    {
+      "id": "mn106:4.6",
+      "pali": "Sampasāde sati etarahi vā āneñjaṁ samāpajjati paññāya vā adhimuccati."
+    },
+    {
+      "id": "mn106:4.7",
+      "pali": "Kāyassa bhedā paraṁ maraṇā, ṭhānametaṁ vijjati yaṁ taṁsaṁvattanikaṁ viññāṇaṁ assa āneñjūpagaṁ."
+    },
+    {
+      "id": "mn106:4.8",
+      "pali": "Ayaṁ, bhikkhave, dutiyā āneñjasappāyā paṭipadā akkhāyati."
+    },
+    {
+      "id": "mn106:5.1",
+      "pali": "Puna caparaṁ, bhikkhave, ariyasāvako iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn106:5.2",
+      "pali": "‘ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā;"
+    },
+    {
+      "id": "mn106:5.3",
+      "pali": "yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasaññā;"
+    },
+    {
+      "id": "mn106:5.4",
+      "pali": "ye ca diṭṭhadhammikā rūpā, ye ca samparāyikā rūpā;"
+    },
+    {
+      "id": "mn106:5.5",
+      "pali": "yā ca diṭṭhadhammikā rūpasaññā, yā ca samparāyikā rūpasaññā—"
+    },
+    {
+      "id": "mn106:5.6",
+      "pali": "ubhayametaṁ aniccaṁ."
+    },
+    {
+      "id": "mn106:5.7",
+      "pali": "Yadaniccaṁ taṁ nālaṁ abhinandituṁ, nālaṁ abhivadituṁ, nālaṁ ajjhositun’ti."
+    },
+    {
+      "id": "mn106:5.8",
+      "pali": "Tassa evaṁpaṭipannassa tabbahulavihārino āyatane cittaṁ pasīdati."
+    },
+    {
+      "id": "mn106:5.9",
+      "pali": "Sampasāde sati etarahi vā āneñjaṁ samāpajjati paññāya vā adhimuccati."
+    },
+    {
+      "id": "mn106:5.10",
+      "pali": "Kāyassa bhedā paraṁ maraṇā, ṭhānametaṁ vijjati yaṁ taṁsaṁvattanikaṁ viññāṇaṁ assa āneñjūpagaṁ."
+    },
+    {
+      "id": "mn106:5.11",
+      "pali": "Ayaṁ, bhikkhave, tatiyā āneñjasappāyā paṭipadā akkhāyati."
+    },
+    {
+      "id": "mn106:6.1",
+      "pali": "Puna caparaṁ, bhikkhave, ariyasāvako iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn106:6.2",
+      "pali": "‘ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā;"
+    },
+    {
+      "id": "mn106:6.3",
+      "pali": "yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasaññā;"
+    },
+    {
+      "id": "mn106:6.4",
+      "pali": "ye ca diṭṭhadhammikā rūpā, ye ca samparāyikā rūpā;"
+    },
+    {
+      "id": "mn106:6.5",
+      "pali": "yā ca diṭṭhadhammikā rūpasaññā, yā ca samparāyikā rūpasaññā;"
+    },
+    {
+      "id": "mn106:6.6",
+      "pali": "yā ca āneñjasaññā—"
+    },
+    {
+      "id": "mn106:6.7",
+      "pali": "sabbā saññā."
+    },
+    {
+      "id": "mn106:6.8",
+      "pali": "Yatthetā aparisesā nirujjhanti etaṁ santaṁ etaṁ paṇītaṁ—"
+    },
+    {
+      "id": "mn106:6.9",
+      "pali": "yadidaṁ ākiñcaññāyatanan’ti."
+    },
+    {
+      "id": "mn106:6.10",
+      "pali": "Tassa evaṁpaṭipannassa tabbahulavihārino āyatane cittaṁ pasīdati."
+    },
+    {
+      "id": "mn106:6.11",
+      "pali": "Sampasāde sati etarahi vā ākiñcaññāyatanaṁ samāpajjati paññāya vā adhimuccati."
+    },
+    {
+      "id": "mn106:6.12",
+      "pali": "Kāyassa bhedā paraṁ maraṇā, ṭhānametaṁ vijjati yaṁ taṁsaṁvattanikaṁ viññāṇaṁ assa ākiñcaññāyatanūpagaṁ."
+    },
+    {
+      "id": "mn106:6.13",
+      "pali": "Ayaṁ, bhikkhave, paṭhamā ākiñcaññāyatanasappāyā paṭipadā akkhāyati."
+    },
+    {
+      "id": "mn106:7.1",
+      "pali": "Puna caparaṁ, bhikkhave, ariyasāvako araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn106:7.2",
+      "pali": "‘suññamidaṁ attena vā attaniyena vā’ti."
+    },
+    {
+      "id": "mn106:7.3",
+      "pali": "Tassa evaṁpaṭipannassa tabbahulavihārino āyatane cittaṁ pasīdati."
+    },
+    {
+      "id": "mn106:7.4",
+      "pali": "Sampasāde sati etarahi vā ākiñcaññāyatanaṁ samāpajjati paññāya vā adhimuccati."
+    },
+    {
+      "id": "mn106:7.5",
+      "pali": "Kāyassa bhedā paraṁ maraṇā, ṭhānametaṁ vijjati yaṁ taṁsaṁvattanikaṁ viññāṇaṁ assa ākiñcaññāyatanūpagaṁ."
+    },
+    {
+      "id": "mn106:7.6",
+      "pali": "Ayaṁ, bhikkhave, dutiyā ākiñcaññāyatanasappāyā paṭipadā akkhāyati."
+    },
+    {
+      "id": "mn106:8.1",
+      "pali": "Puna caparaṁ, bhikkhave, ariyasāvako iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn106:8.2",
+      "pali": "‘nāhaṁ kvacani kassaci kiñcanatasmiṁ, na ca mama kvacani kismiñci kiñcanaṁ natthī’ti."
+    },
+    {
+      "id": "mn106:8.3",
+      "pali": "Tassa evaṁpaṭipannassa tabbahulavihārino āyatane cittaṁ pasīdati."
+    },
+    {
+      "id": "mn106:8.4",
+      "pali": "Sampasāde sati etarahi vā ākiñcaññāyatanaṁ samāpajjati paññāya vā adhimuccati."
+    },
+    {
+      "id": "mn106:8.5",
+      "pali": "Kāyassa bhedā paraṁ maraṇā, ṭhānametaṁ vijjati yaṁ taṁsaṁvattanikaṁ viññāṇaṁ assa ākiñcaññāyatanūpagaṁ."
+    },
+    {
+      "id": "mn106:8.6",
+      "pali": "Ayaṁ, bhikkhave, tatiyā ākiñcaññāyatanasappāyā paṭipadā akkhāyati."
+    },
+    {
+      "id": "mn106:9.1",
+      "pali": "Puna caparaṁ, bhikkhave, ariyasāvako iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn106:9.2",
+      "pali": "‘ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā;"
+    },
+    {
+      "id": "mn106:9.3",
+      "pali": "yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasaññā;"
+    },
+    {
+      "id": "mn106:9.4",
+      "pali": "ye ca diṭṭhadhammikā rūpā, ye ca samparāyikā rūpā;"
+    },
+    {
+      "id": "mn106:9.5",
+      "pali": "yā ca diṭṭhadhammikā rūpasaññā, yā ca samparāyikā rūpasaññā;"
+    },
+    {
+      "id": "mn106:9.6",
+      "pali": "yā ca āneñjasaññā, yā ca ākiñcaññāyatanasaññā—"
+    },
+    {
+      "id": "mn106:9.7",
+      "pali": "sabbā saññā."
+    },
+    {
+      "id": "mn106:9.8",
+      "pali": "Yatthetā aparisesā nirujjhanti etaṁ santaṁ etaṁ paṇītaṁ—"
+    },
+    {
+      "id": "mn106:9.9",
+      "pali": "yadidaṁ nevasaññānāsaññāyatanan’ti."
+    },
+    {
+      "id": "mn106:9.10",
+      "pali": "Tassa evaṁpaṭipannassa tabbahulavihārino āyatane cittaṁ pasīdati."
+    },
+    {
+      "id": "mn106:9.11",
+      "pali": "Sampasāde sati etarahi vā nevasaññānāsaññāyatanaṁ samāpajjati paññāya vā adhimuccati."
+    },
+    {
+      "id": "mn106:9.12",
+      "pali": "Kāyassa bhedā paraṁ maraṇā, ṭhānametaṁ vijjati yaṁ taṁsaṁvattanikaṁ viññāṇaṁ assa nevasaññānāsaññāyatanūpagaṁ."
+    },
+    {
+      "id": "mn106:9.13",
+      "pali": "Ayaṁ, bhikkhave, nevasaññānāsaññāyatanasappāyā paṭipadā akkhāyatī”ti."
+    },
+    {
+      "id": "mn106:10.1",
+      "pali": "Evaṁ vutte, āyasmā ānando bhagavantaṁ etadavoca:"
+    },
+    {
+      "id": "mn106:10.2",
+      "pali": "“idha, bhante, bhikkhu evaṁ paṭipanno hoti:"
+    },
+    {
+      "id": "mn106:10.3",
+      "pali": "‘no cassa, no ca me siyā; na bhavissati, na me bhavissati; yadatthi yaṁ, bhūtaṁ—taṁ pajahāmī’ti."
+    },
+    {
+      "id": "mn106:10.4",
+      "pali": "Evaṁ upekkhaṁ paṭilabhati."
+    },
+    {
+      "id": "mn106:10.5",
+      "pali": "Parinibbāyeyya nu kho so, bhante, bhikkhu na vā parinibbāyeyyā”ti?"
+    },
+    {
+      "id": "mn106:10.6",
+      "pali": "“Apetthekacco, ānanda, bhikkhu parinibbāyeyya, apetthekacco bhikkhu na parinibbāyeyyā”ti."
+    },
+    {
+      "id": "mn106:10.7",
+      "pali": "“Ko nu kho, bhante, hetu ko paccayo yenapetthekacco bhikkhu parinibbāyeyya, apetthekacco bhikkhu na parinibbāyeyyā”ti?"
+    },
+    {
+      "id": "mn106:10.8",
+      "pali": "“Idhānanda, bhikkhu evaṁ paṭipanno hoti:"
+    },
+    {
+      "id": "mn106:10.9",
+      "pali": "‘no cassa, no ca me siyā; na bhavissati, na me bhavissati; yadatthi, yaṁ bhūtaṁ—taṁ pajahāmī’ti."
+    },
+    {
+      "id": "mn106:10.10",
+      "pali": "Evaṁ upekkhaṁ paṭilabhati."
+    },
+    {
+      "id": "mn106:10.11",
+      "pali": "So taṁ upekkhaṁ abhinandati, abhivadati, ajjhosāya tiṭṭhati."
+    },
+    {
+      "id": "mn106:10.12",
+      "pali": "Tassa taṁ upekkhaṁ abhinandato abhivadato ajjhosāya tiṭṭhato tannissitaṁ hoti viññāṇaṁ tadupādānaṁ."
+    },
+    {
+      "id": "mn106:10.13",
+      "pali": "Saupādāno, ānanda, bhikkhu na parinibbāyatī”ti."
+    },
+    {
+      "id": "mn106:11.1",
+      "pali": "“Kahaṁ pana so, bhante, bhikkhu upādiyamāno upādiyatī”ti?"
+    },
+    {
+      "id": "mn106:11.2",
+      "pali": "“Nevasaññānāsaññāyatanaṁ, ānandā”ti."
+    },
+    {
+      "id": "mn106:11.3",
+      "pali": "“Upādānaseṭṭhaṁ kira so, bhante, bhikkhu upādiyamāno upādiyatī”ti?"
+    },
+    {
+      "id": "mn106:11.4",
+      "pali": "“Upādānaseṭṭhañhi so, ānanda, bhikkhu upādiyamāno upādiyati."
+    },
+    {
+      "id": "mn106:11.5",
+      "pali": "Upādānaseṭṭhañhetaṁ, ānanda, yadidaṁ—"
+    },
+    {
+      "id": "mn106:11.6",
+      "pali": "nevasaññānāsaññāyatanaṁ."
+    },
+    {
+      "id": "mn106:12.1",
+      "pali": "Idhānanda, bhikkhu evaṁ paṭipanno hoti:"
+    },
+    {
+      "id": "mn106:12.2",
+      "pali": "‘no cassa, no ca me siyā; na bhavissati, na me bhavissati; yadatthi, yaṁ bhūtaṁ—taṁ pajahāmī’ti."
+    },
+    {
+      "id": "mn106:12.3",
+      "pali": "Evaṁ upekkhaṁ paṭilabhati."
+    },
+    {
+      "id": "mn106:12.4",
+      "pali": "So taṁ upekkhaṁ nābhinandati, nābhivadati, na ajjhosāya tiṭṭhati."
+    },
+    {
+      "id": "mn106:12.5",
+      "pali": "Tassa taṁ upekkhaṁ anabhinandato anabhivadato anajjhosāya tiṭṭhato na tannissitaṁ hoti viññāṇaṁ na tadupādānaṁ."
+    },
+    {
+      "id": "mn106:12.6",
+      "pali": "Anupādāno, ānanda, bhikkhu parinibbāyatī”ti."
+    },
+    {
+      "id": "mn106:13.1",
+      "pali": "“Acchariyaṁ, bhante, abbhutaṁ, bhante."
+    },
+    {
+      "id": "mn106:13.2",
+      "pali": "Nissāya nissāya kira no, bhante, bhagavatā oghassa nittharaṇā akkhātā."
+    },
+    {
+      "id": "mn106:13.3",
+      "pali": "Katamo pana, bhante, ariyo vimokkho”ti?"
+    },
+    {
+      "id": "mn106:13.4",
+      "pali": "“Idhānanda, bhikkhu ariyasāvako iti paṭisañcikkhati:"
+    },
+    {
+      "id": "mn106:13.5",
+      "pali": "‘ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā;"
+    },
+    {
+      "id": "mn106:13.6",
+      "pali": "yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasaññā;"
+    },
+    {
+      "id": "mn106:13.7",
+      "pali": "ye ca diṭṭhadhammikā rūpā, ye ca samparāyikā rūpā;"
+    },
+    {
+      "id": "mn106:13.8",
+      "pali": "yā ca diṭṭhadhammikā rūpasaññā, yā ca samparāyikā rūpasaññā;"
+    },
+    {
+      "id": "mn106:13.9",
+      "pali": "yā ca āneñjasaññā, yā ca ākiñcaññāyatanasaññā, yā ca nevasaññānāsaññāyatanasaññā—"
+    },
+    {
+      "id": "mn106:13.10",
+      "pali": "esa sakkāyo yāvatā sakkāyo."
+    },
+    {
+      "id": "mn106:13.11",
+      "pali": "Etaṁ amataṁ yadidaṁ anupādā cittassa vimokkho."
+    },
+    {
+      "id": "mn106:14.1",
+      "pali": "Iti, kho, ānanda, desitā mayā āneñjasappāyā paṭipadā, desitā ākiñcaññāyatanasappāyā paṭipadā, desitā nevasaññānāsaññāyatanasappāyā paṭipadā, desitā nissāya nissāya oghassa nittharaṇā, desito ariyo vimokkho."
+    },
+    {
+      "id": "mn106:15.1",
+      "pali": "Yaṁ kho, ānanda, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā."
+    },
+    {
+      "id": "mn106:15.2",
+      "pali": "Etāni, ānanda, rukkhamūlāni, etāni suññāgārāni. Jhāyathānanda, mā pamādattha, mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanī’”ti."
+    },
+    {
+      "id": "mn106:15.3",
+      "pali": "Idamavoca bhagavā."
+    },
+    {
+      "id": "mn106:15.4",
+      "pali": "Attamano āyasmā ānando bhagavato bhāsitaṁ abhinandīti."
+    },
+    {
+      "id": "mn106:15.5",
+      "pali": "Āneñjasappāyasuttaṁ niṭṭhitaṁ chaṭṭhaṁ."
+    }
+  ]
+}

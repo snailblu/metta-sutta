@@ -1,0 +1,543 @@
+{
+  "uid": "snp1.9",
+  "title": "Hemavatasutta",
+  "nikaya": "kn",
+  "segments": [
+    {
+      "id": "snp1.9:1.1",
+      "pali": "“Ajja pannaraso uposatho,"
+    },
+    {
+      "id": "snp1.9:1.2",
+      "pali": "(iti sātāgiro yakkho)"
+    },
+    {
+      "id": "snp1.9:1.3",
+      "pali": "Dibbā ratti upaṭṭhitā;"
+    },
+    {
+      "id": "snp1.9:1.4",
+      "pali": "Anomanāmaṁ satthāraṁ,"
+    },
+    {
+      "id": "snp1.9:1.5",
+      "pali": "Handa passāma gotamaṁ”."
+    },
+    {
+      "id": "snp1.9:2.1",
+      "pali": "“Kacci mano supaṇihito,"
+    },
+    {
+      "id": "snp1.9:2.2",
+      "pali": "(iti hemavato yakkho)"
+    },
+    {
+      "id": "snp1.9:2.3",
+      "pali": "Sabbabhūtesu tādino;"
+    },
+    {
+      "id": "snp1.9:2.4",
+      "pali": "Kacci iṭṭhe aniṭṭhe ca,"
+    },
+    {
+      "id": "snp1.9:2.5",
+      "pali": "Saṅkappassa vasīkatā”."
+    },
+    {
+      "id": "snp1.9:3.1",
+      "pali": "“Mano cassa supaṇihito,"
+    },
+    {
+      "id": "snp1.9:3.2",
+      "pali": "(iti sātāgiro yakkho)"
+    },
+    {
+      "id": "snp1.9:3.3",
+      "pali": "Sabbabhūtesu tādino;"
+    },
+    {
+      "id": "snp1.9:3.4",
+      "pali": "Atho iṭṭhe aniṭṭhe ca,"
+    },
+    {
+      "id": "snp1.9:3.5",
+      "pali": "Saṅkappassa vasīkatā”."
+    },
+    {
+      "id": "snp1.9:4.1",
+      "pali": "“Kacci adinnaṁ nādiyati,"
+    },
+    {
+      "id": "snp1.9:4.2",
+      "pali": "(iti hemavato yakkho)"
+    },
+    {
+      "id": "snp1.9:4.3",
+      "pali": "Kacci pāṇesu saññato;"
+    },
+    {
+      "id": "snp1.9:4.4",
+      "pali": "Kacci ārā pamādamhā,"
+    },
+    {
+      "id": "snp1.9:4.5",
+      "pali": "Kacci jhānaṁ na riñcati”."
+    },
+    {
+      "id": "snp1.9:5.1",
+      "pali": "“Na so adinnaṁ ādiyati,"
+    },
+    {
+      "id": "snp1.9:5.2",
+      "pali": "(iti sātāgiro yakkho)"
+    },
+    {
+      "id": "snp1.9:5.3",
+      "pali": "Atho pāṇesu saññato;"
+    },
+    {
+      "id": "snp1.9:5.4",
+      "pali": "Atho ārā pamādamhā,"
+    },
+    {
+      "id": "snp1.9:5.5",
+      "pali": "Buddho jhānaṁ na riñcati”."
+    },
+    {
+      "id": "snp1.9:6.1",
+      "pali": "“Kacci musā na bhaṇati,"
+    },
+    {
+      "id": "snp1.9:6.2",
+      "pali": "(iti hemavato yakkho)"
+    },
+    {
+      "id": "snp1.9:6.3",
+      "pali": "Kacci na khīṇabyappatho;"
+    },
+    {
+      "id": "snp1.9:6.4",
+      "pali": "Kacci vebhūtiyaṁ nāha,"
+    },
+    {
+      "id": "snp1.9:6.5",
+      "pali": "Kacci samphaṁ na bhāsati”."
+    },
+    {
+      "id": "snp1.9:7.1",
+      "pali": "“Musā ca so na bhaṇati,"
+    },
+    {
+      "id": "snp1.9:7.2",
+      "pali": "(iti sātāgiro yakkho)"
+    },
+    {
+      "id": "snp1.9:7.3",
+      "pali": "Atho na khīṇabyappatho;"
+    },
+    {
+      "id": "snp1.9:7.4",
+      "pali": "Atho vebhūtiyaṁ nāha,"
+    },
+    {
+      "id": "snp1.9:7.5",
+      "pali": "Mantā atthañca bhāsati”."
+    },
+    {
+      "id": "snp1.9:8.1",
+      "pali": "“Kacci na rajjati kāmesu,"
+    },
+    {
+      "id": "snp1.9:8.2",
+      "pali": "(iti hemavato yakkho)"
+    },
+    {
+      "id": "snp1.9:8.3",
+      "pali": "Kacci cittaṁ anāvilaṁ;"
+    },
+    {
+      "id": "snp1.9:8.4",
+      "pali": "Kacci mohaṁ atikkanto,"
+    },
+    {
+      "id": "snp1.9:8.5",
+      "pali": "Kacci dhammesu cakkhumā”."
+    },
+    {
+      "id": "snp1.9:9.1",
+      "pali": "“Na so rajjati kāmesu,"
+    },
+    {
+      "id": "snp1.9:9.2",
+      "pali": "(iti sātāgiro yakkho)"
+    },
+    {
+      "id": "snp1.9:9.3",
+      "pali": "Atho cittaṁ anāvilaṁ;"
+    },
+    {
+      "id": "snp1.9:9.4",
+      "pali": "Sabbamohaṁ atikkanto,"
+    },
+    {
+      "id": "snp1.9:9.5",
+      "pali": "Buddho dhammesu cakkhumā”."
+    },
+    {
+      "id": "snp1.9:10.1",
+      "pali": "“Kacci vijjāya sampanno,"
+    },
+    {
+      "id": "snp1.9:10.2",
+      "pali": "(iti hemavato yakkho)"
+    },
+    {
+      "id": "snp1.9:10.3",
+      "pali": "Kacci saṁsuddhacāraṇo;"
+    },
+    {
+      "id": "snp1.9:10.4",
+      "pali": "Kaccissa āsavā khīṇā,"
+    },
+    {
+      "id": "snp1.9:10.5",
+      "pali": "Kacci natthi punabbhavo”."
+    },
+    {
+      "id": "snp1.9:11.1",
+      "pali": "“Vijjāya ceva sampanno,"
+    },
+    {
+      "id": "snp1.9:11.2",
+      "pali": "(iti sātāgiro yakkho)"
+    },
+    {
+      "id": "snp1.9:11.3",
+      "pali": "Atho saṁsuddhacāraṇo;"
+    },
+    {
+      "id": "snp1.9:11.4",
+      "pali": "Sabbassa āsavā khīṇā,"
+    },
+    {
+      "id": "snp1.9:11.5",
+      "pali": "Natthi tassa punabbhavo”."
+    },
+    {
+      "id": "snp1.9:12.1",
+      "pali": "“Sampannaṁ munino cittaṁ,"
+    },
+    {
+      "id": "snp1.9:12.2",
+      "pali": "Kammunā byappathena ca;"
+    },
+    {
+      "id": "snp1.9:12.3",
+      "pali": "Vijjācaraṇasampannaṁ,"
+    },
+    {
+      "id": "snp1.9:12.4",
+      "pali": "Dhammato naṁ pasaṁsati”."
+    },
+    {
+      "id": "snp1.9:13.1",
+      "pali": "“Sampannaṁ munino cittaṁ,"
+    },
+    {
+      "id": "snp1.9:13.2",
+      "pali": "Kammunā byappathena ca;"
+    },
+    {
+      "id": "snp1.9:13.3",
+      "pali": "Vijjācaraṇasampannaṁ,"
+    },
+    {
+      "id": "snp1.9:13.4",
+      "pali": "Dhammato anumodasi."
+    },
+    {
+      "id": "snp1.9:14.1",
+      "pali": "Sampannaṁ munino cittaṁ,"
+    },
+    {
+      "id": "snp1.9:14.2",
+      "pali": "Kammunā byappathena ca;"
+    },
+    {
+      "id": "snp1.9:14.3",
+      "pali": "Vijjācaraṇasampannaṁ,"
+    },
+    {
+      "id": "snp1.9:14.4",
+      "pali": "Handa passāma gotamaṁ”."
+    },
+    {
+      "id": "snp1.9:15.1",
+      "pali": "“Eṇijaṅghaṁ kisaṁ vīraṁ,"
+    },
+    {
+      "id": "snp1.9:15.2",
+      "pali": "Appāhāraṁ alolupaṁ;"
+    },
+    {
+      "id": "snp1.9:15.3",
+      "pali": "Muniṁ vanasmiṁ jhāyantaṁ,"
+    },
+    {
+      "id": "snp1.9:15.4",
+      "pali": "Ehi passāma gotamaṁ."
+    },
+    {
+      "id": "snp1.9:16.1",
+      "pali": "Sīhaṁvekacaraṁ nāgaṁ,"
+    },
+    {
+      "id": "snp1.9:16.2",
+      "pali": "Kāmesu anapekkhinaṁ;"
+    },
+    {
+      "id": "snp1.9:16.3",
+      "pali": "Upasaṅkamma pucchāma,"
+    },
+    {
+      "id": "snp1.9:16.4",
+      "pali": "Maccupāsappamocanaṁ."
+    },
+    {
+      "id": "snp1.9:17.1",
+      "pali": "Akkhātāraṁ pavattāraṁ,"
+    },
+    {
+      "id": "snp1.9:17.2",
+      "pali": "Sabbadhammāna pāraguṁ;"
+    },
+    {
+      "id": "snp1.9:17.3",
+      "pali": "Buddhaṁ verabhayātītaṁ,"
+    },
+    {
+      "id": "snp1.9:17.4",
+      "pali": "Mayaṁ pucchāma gotamaṁ”."
+    },
+    {
+      "id": "snp1.9:18.1",
+      "pali": "“Kismiṁ loko samuppanno,"
+    },
+    {
+      "id": "snp1.9:18.2",
+      "pali": "(iti hemavato yakkho)"
+    },
+    {
+      "id": "snp1.9:18.3",
+      "pali": "Kismiṁ kubbati santhavaṁ;"
+    },
+    {
+      "id": "snp1.9:18.4",
+      "pali": "Kissa loko upādāya,"
+    },
+    {
+      "id": "snp1.9:18.5",
+      "pali": "Kismiṁ loko vihaññati”."
+    },
+    {
+      "id": "snp1.9:19.1",
+      "pali": "“Chasu loko samuppanno,"
+    },
+    {
+      "id": "snp1.9:19.2",
+      "pali": "(hemavatāti bhagavā)"
+    },
+    {
+      "id": "snp1.9:19.3",
+      "pali": "Chasu kubbati santhavaṁ;"
+    },
+    {
+      "id": "snp1.9:19.4",
+      "pali": "Channameva upādāya,"
+    },
+    {
+      "id": "snp1.9:19.5",
+      "pali": "Chasu loko vihaññati”."
+    },
+    {
+      "id": "snp1.9:20.1",
+      "pali": "“Katamaṁ taṁ upādānaṁ,"
+    },
+    {
+      "id": "snp1.9:20.2",
+      "pali": "Yattha loko vihaññati;"
+    },
+    {
+      "id": "snp1.9:20.3",
+      "pali": "Niyyānaṁ pucchito brūhi,"
+    },
+    {
+      "id": "snp1.9:20.4",
+      "pali": "Kathaṁ dukkhā pamuccati”."
+    },
+    {
+      "id": "snp1.9:21.1",
+      "pali": "“Pañca kāmaguṇā loke,"
+    },
+    {
+      "id": "snp1.9:21.2",
+      "pali": "Manochaṭṭhā paveditā;"
+    },
+    {
+      "id": "snp1.9:21.3",
+      "pali": "Ettha chandaṁ virājetvā,"
+    },
+    {
+      "id": "snp1.9:21.4",
+      "pali": "Evaṁ dukkhā pamuccati."
+    },
+    {
+      "id": "snp1.9:22.1",
+      "pali": "Etaṁ lokassa niyyānaṁ,"
+    },
+    {
+      "id": "snp1.9:22.2",
+      "pali": "Akkhātaṁ vo yathātathaṁ;"
+    },
+    {
+      "id": "snp1.9:22.3",
+      "pali": "Etaṁ vo ahamakkhāmi,"
+    },
+    {
+      "id": "snp1.9:22.4",
+      "pali": "Evaṁ dukkhā pamuccati”."
+    },
+    {
+      "id": "snp1.9:23.1",
+      "pali": "“Ko sūdha tarati oghaṁ,"
+    },
+    {
+      "id": "snp1.9:23.2",
+      "pali": "Kodha tarati aṇṇavaṁ;"
+    },
+    {
+      "id": "snp1.9:23.3",
+      "pali": "Appatiṭṭhe anālambe,"
+    },
+    {
+      "id": "snp1.9:23.4",
+      "pali": "Ko gambhīre na sīdati”."
+    },
+    {
+      "id": "snp1.9:24.1",
+      "pali": "“Sabbadā sīlasampanno,"
+    },
+    {
+      "id": "snp1.9:24.2",
+      "pali": "Paññavā susamāhito;"
+    },
+    {
+      "id": "snp1.9:24.3",
+      "pali": "Ajjhattacintī satimā,"
+    },
+    {
+      "id": "snp1.9:24.4",
+      "pali": "Oghaṁ tarati duttaraṁ."
+    },
+    {
+      "id": "snp1.9:25.1",
+      "pali": "Virato kāmasaññāya,"
+    },
+    {
+      "id": "snp1.9:25.2",
+      "pali": "Sabbasaṁyojanātigo;"
+    },
+    {
+      "id": "snp1.9:25.3",
+      "pali": "Nandībhavaparikkhīṇo,"
+    },
+    {
+      "id": "snp1.9:25.4",
+      "pali": "So gambhīre na sīdati”."
+    },
+    {
+      "id": "snp1.9:26.1",
+      "pali": "“Gambhīrapaññaṁ nipuṇatthadassiṁ,"
+    },
+    {
+      "id": "snp1.9:26.2",
+      "pali": "Akiñcanaṁ kāmabhave asattaṁ;"
+    },
+    {
+      "id": "snp1.9:26.3",
+      "pali": "Taṁ passatha sabbadhi vippamuttaṁ,"
+    },
+    {
+      "id": "snp1.9:26.4",
+      "pali": "Dibbe pathe kamamānaṁ mahesiṁ."
+    },
+    {
+      "id": "snp1.9:27.1",
+      "pali": "Anomanāmaṁ nipuṇatthadassiṁ,"
+    },
+    {
+      "id": "snp1.9:27.2",
+      "pali": "Paññādadaṁ kāmālaye asattaṁ;"
+    },
+    {
+      "id": "snp1.9:27.3",
+      "pali": "Taṁ passatha sabbaviduṁ sumedhaṁ,"
+    },
+    {
+      "id": "snp1.9:27.4",
+      "pali": "Ariye pathe kamamānaṁ mahesiṁ."
+    },
+    {
+      "id": "snp1.9:28.1",
+      "pali": "Sudiṭṭhaṁ vata no ajja,"
+    },
+    {
+      "id": "snp1.9:28.2",
+      "pali": "Suppabhātaṁ suhuṭṭhitaṁ;"
+    },
+    {
+      "id": "snp1.9:28.3",
+      "pali": "Yaṁ addasāma sambuddhaṁ,"
+    },
+    {
+      "id": "snp1.9:28.4",
+      "pali": "Oghatiṇṇamanāsavaṁ."
+    },
+    {
+      "id": "snp1.9:29.1",
+      "pali": "Ime dasasatā yakkhā,"
+    },
+    {
+      "id": "snp1.9:29.2",
+      "pali": "Iddhimanto yasassino;"
+    },
+    {
+      "id": "snp1.9:29.3",
+      "pali": "Sabbe taṁ saraṇaṁ yanti,"
+    },
+    {
+      "id": "snp1.9:29.4",
+      "pali": "Tvaṁ no satthā anuttaro."
+    },
+    {
+      "id": "snp1.9:30.1",
+      "pali": "Te mayaṁ vicarissāma,"
+    },
+    {
+      "id": "snp1.9:30.2",
+      "pali": "Gāmā gāmaṁ nagā nagaṁ;"
+    },
+    {
+      "id": "snp1.9:30.3",
+      "pali": "Namassamānā sambuddhaṁ,"
+    },
+    {
+      "id": "snp1.9:30.4",
+      "pali": "Dhammassa ca sudhammatan”ti."
+    },
+    {
+      "id": "snp1.9:30.5",
+      "pali": "Hemavatasuttaṁ navamaṁ."
+    }
+  ]
+}

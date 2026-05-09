@@ -1,0 +1,610 @@
+[
+  {
+    "uid": "mn1",
+    "title": "Mūlapariyāyasutta"
+  },
+  {
+    "uid": "mn2",
+    "title": "Sabbāsavasutta"
+  },
+  {
+    "uid": "mn3",
+    "title": "Dhammadāyādasutta"
+  },
+  {
+    "uid": "mn4",
+    "title": "Bhayabheravasutta"
+  },
+  {
+    "uid": "mn5",
+    "title": "Anaṅgaṇasutta"
+  },
+  {
+    "uid": "mn6",
+    "title": "Ākaṅkheyyasutta"
+  },
+  {
+    "uid": "mn7",
+    "title": "Vatthasutta"
+  },
+  {
+    "uid": "mn8",
+    "title": "Sallekhasutta"
+  },
+  {
+    "uid": "mn9",
+    "title": "Sammādiṭṭhisutta"
+  },
+  {
+    "uid": "mn10",
+    "title": "Satipaṭṭhānasutta"
+  },
+  {
+    "uid": "mn11",
+    "title": "Cūḷasīhanādasutta"
+  },
+  {
+    "uid": "mn12",
+    "title": "Mahāsīhanādasutta"
+  },
+  {
+    "uid": "mn13",
+    "title": "Mahādukkhakkhandhasutta"
+  },
+  {
+    "uid": "mn14",
+    "title": "Cūḷadukkhakkhandhasutta"
+  },
+  {
+    "uid": "mn15",
+    "title": "Anumānasutta"
+  },
+  {
+    "uid": "mn16",
+    "title": "Cetokhilasutta"
+  },
+  {
+    "uid": "mn17",
+    "title": "Vanapatthasutta"
+  },
+  {
+    "uid": "mn18",
+    "title": "Madhupiṇḍikasutta"
+  },
+  {
+    "uid": "mn19",
+    "title": "Dvedhāvitakkasutta"
+  },
+  {
+    "uid": "mn20",
+    "title": "Vitakkasaṇṭhānasutta"
+  },
+  {
+    "uid": "mn21",
+    "title": "Kakacūpamasutta"
+  },
+  {
+    "uid": "mn22",
+    "title": "Alagaddūpamasutta"
+  },
+  {
+    "uid": "mn23",
+    "title": "Vammikasutta"
+  },
+  {
+    "uid": "mn24",
+    "title": "Rathavinītasutta"
+  },
+  {
+    "uid": "mn25",
+    "title": "Nivāpasutta"
+  },
+  {
+    "uid": "mn26",
+    "title": "Pāsarāsisutta"
+  },
+  {
+    "uid": "mn27",
+    "title": "Cūḷahatthipadopamasutta"
+  },
+  {
+    "uid": "mn28",
+    "title": "Mahāhatthipadopamasutta"
+  },
+  {
+    "uid": "mn29",
+    "title": "Mahāsāropamasutta"
+  },
+  {
+    "uid": "mn30",
+    "title": "Cūḷasāropamasutta"
+  },
+  {
+    "uid": "mn31",
+    "title": "Cūḷagosiṅgasutta"
+  },
+  {
+    "uid": "mn32",
+    "title": "Mahāgosiṅgasutta"
+  },
+  {
+    "uid": "mn33",
+    "title": "Mahāgopālakasutta"
+  },
+  {
+    "uid": "mn34",
+    "title": "Cūḷagopālakasutta"
+  },
+  {
+    "uid": "mn35",
+    "title": "Cūḷasaccakasutta"
+  },
+  {
+    "uid": "mn36",
+    "title": "Mahāsaccakasutta"
+  },
+  {
+    "uid": "mn37",
+    "title": "Cūḷataṇhāsaṅkhayasutta"
+  },
+  {
+    "uid": "mn38",
+    "title": "Mahātaṇhāsaṅkhayasutta"
+  },
+  {
+    "uid": "mn39",
+    "title": "Mahāassapurasutta"
+  },
+  {
+    "uid": "mn40",
+    "title": "Cūḷaassapurasutta"
+  },
+  {
+    "uid": "mn41",
+    "title": "Sāleyyakasutta"
+  },
+  {
+    "uid": "mn42",
+    "title": "Verañjakasutta"
+  },
+  {
+    "uid": "mn43",
+    "title": "Mahāvedallasutta"
+  },
+  {
+    "uid": "mn44",
+    "title": "Cūḷavedallasutta"
+  },
+  {
+    "uid": "mn45",
+    "title": "Cūḷadhammasamādānasutta"
+  },
+  {
+    "uid": "mn46",
+    "title": "Mahādhammasamādānasutta"
+  },
+  {
+    "uid": "mn47",
+    "title": "Vīmaṁsakasutta"
+  },
+  {
+    "uid": "mn48",
+    "title": "Kosambiyasutta"
+  },
+  {
+    "uid": "mn49",
+    "title": "Brahmanimantanikasutta"
+  },
+  {
+    "uid": "mn50",
+    "title": "Māratajjanīyasutta"
+  },
+  {
+    "uid": "mn51",
+    "title": "Kandarakasutta"
+  },
+  {
+    "uid": "mn52",
+    "title": "Aṭṭhakanāgarasutta"
+  },
+  {
+    "uid": "mn53",
+    "title": "Sekhasutta"
+  },
+  {
+    "uid": "mn54",
+    "title": "Potaliyasutta"
+  },
+  {
+    "uid": "mn55",
+    "title": "Jīvakasutta"
+  },
+  {
+    "uid": "mn56",
+    "title": "Upālisutta"
+  },
+  {
+    "uid": "mn57",
+    "title": "Kukkuravatikasutta"
+  },
+  {
+    "uid": "mn58",
+    "title": "Abhayarājakumārasutta"
+  },
+  {
+    "uid": "mn59",
+    "title": "Bahuvedanīyasutta"
+  },
+  {
+    "uid": "mn60",
+    "title": "Apaṇṇakasutta"
+  },
+  {
+    "uid": "mn61",
+    "title": "Ambalaṭṭhikarāhulovādasutta"
+  },
+  {
+    "uid": "mn62",
+    "title": "Mahārāhulovādasutta"
+  },
+  {
+    "uid": "mn63",
+    "title": "Cūḷamālukyasutta"
+  },
+  {
+    "uid": "mn64",
+    "title": "Mahāmālukyasutta"
+  },
+  {
+    "uid": "mn65",
+    "title": "Bhaddālisutta"
+  },
+  {
+    "uid": "mn66",
+    "title": "Laṭukikopamasutta"
+  },
+  {
+    "uid": "mn67",
+    "title": "Cātumasutta"
+  },
+  {
+    "uid": "mn68",
+    "title": "Naḷakapānasutta"
+  },
+  {
+    "uid": "mn69",
+    "title": "Goliyānisutta"
+  },
+  {
+    "uid": "mn70",
+    "title": "Kīṭāgirisutta"
+  },
+  {
+    "uid": "mn71",
+    "title": "Tevijjavacchasutta"
+  },
+  {
+    "uid": "mn72",
+    "title": "Aggivacchasutta"
+  },
+  {
+    "uid": "mn73",
+    "title": "Mahāvacchasutta"
+  },
+  {
+    "uid": "mn74",
+    "title": "Dīghanakhasutta"
+  },
+  {
+    "uid": "mn75",
+    "title": "Māgaṇḍiyasutta"
+  },
+  {
+    "uid": "mn76",
+    "title": "Sandakasutta"
+  },
+  {
+    "uid": "mn77",
+    "title": "Mahāsakuludāyisutta"
+  },
+  {
+    "uid": "mn78",
+    "title": "Samaṇamuṇḍikasutta"
+  },
+  {
+    "uid": "mn79",
+    "title": "Cūḷasakuludāyisutta"
+  },
+  {
+    "uid": "mn80",
+    "title": "Vekhanasasutta"
+  },
+  {
+    "uid": "mn81",
+    "title": "Ghaṭikārasutta"
+  },
+  {
+    "uid": "mn82",
+    "title": "Raṭṭhapālasutta"
+  },
+  {
+    "uid": "mn83",
+    "title": "Maghadevasutta"
+  },
+  {
+    "uid": "mn84",
+    "title": "Madhurasutta"
+  },
+  {
+    "uid": "mn85",
+    "title": "Bodhirājakumārasutta"
+  },
+  {
+    "uid": "mn86",
+    "title": "Aṅgulimālasutta"
+  },
+  {
+    "uid": "mn87",
+    "title": "Piyajātikasutta"
+  },
+  {
+    "uid": "mn88",
+    "title": "Bāhitikasutta"
+  },
+  {
+    "uid": "mn89",
+    "title": "Dhammacetiyasutta"
+  },
+  {
+    "uid": "mn90",
+    "title": "Kaṇṇakatthalasutta"
+  },
+  {
+    "uid": "mn91",
+    "title": "Brahmāyusutta"
+  },
+  {
+    "uid": "mn92",
+    "title": "Selasutta"
+  },
+  {
+    "uid": "mn93",
+    "title": "Assalāyanasutta"
+  },
+  {
+    "uid": "mn94",
+    "title": "Ghoṭamukhasutta"
+  },
+  {
+    "uid": "mn95",
+    "title": "Caṅkīsutta"
+  },
+  {
+    "uid": "mn96",
+    "title": "Esukārīsutta"
+  },
+  {
+    "uid": "mn97",
+    "title": "Dhanañjānisutta"
+  },
+  {
+    "uid": "mn98",
+    "title": "Vāseṭṭhasutta"
+  },
+  {
+    "uid": "mn99",
+    "title": "Subhasutta"
+  },
+  {
+    "uid": "mn100",
+    "title": "Saṅgāravasutta"
+  },
+  {
+    "uid": "mn101",
+    "title": "Devadahasutta"
+  },
+  {
+    "uid": "mn102",
+    "title": "Pañcattayasutta"
+  },
+  {
+    "uid": "mn103",
+    "title": "Kintisutta"
+  },
+  {
+    "uid": "mn104",
+    "title": "Sāmagāmasutta"
+  },
+  {
+    "uid": "mn105",
+    "title": "Sunakkhattasutta"
+  },
+  {
+    "uid": "mn106",
+    "title": "Āneñjasappāyasutta"
+  },
+  {
+    "uid": "mn107",
+    "title": "Gaṇakamoggallānasutta"
+  },
+  {
+    "uid": "mn108",
+    "title": "Gopakamoggallānasutta"
+  },
+  {
+    "uid": "mn109",
+    "title": "Mahāpuṇṇamasutta"
+  },
+  {
+    "uid": "mn110",
+    "title": "Cūḷapuṇṇamasutta"
+  },
+  {
+    "uid": "mn111",
+    "title": "Anupadasutta"
+  },
+  {
+    "uid": "mn112",
+    "title": "Chabbisodhanasutta"
+  },
+  {
+    "uid": "mn113",
+    "title": "Sappurisasutta"
+  },
+  {
+    "uid": "mn114",
+    "title": "Sevitabbāsevitabbasutta"
+  },
+  {
+    "uid": "mn115",
+    "title": "Bahudhātukasutta"
+  },
+  {
+    "uid": "mn116",
+    "title": "Isigilisutta"
+  },
+  {
+    "uid": "mn117",
+    "title": "Mahācattārīsakasutta"
+  },
+  {
+    "uid": "mn118",
+    "title": "Ānāpānassatisutta"
+  },
+  {
+    "uid": "mn119",
+    "title": "Kāyagatāsatisutta"
+  },
+  {
+    "uid": "mn120",
+    "title": "Saṅkhārupapattisutta"
+  },
+  {
+    "uid": "mn121",
+    "title": "Cūḷasuññatasutta"
+  },
+  {
+    "uid": "mn122",
+    "title": "Mahāsuññatasutta"
+  },
+  {
+    "uid": "mn123",
+    "title": "Acchariyaabbhutasutta"
+  },
+  {
+    "uid": "mn124",
+    "title": "Bākulasutta"
+  },
+  {
+    "uid": "mn125",
+    "title": "Dantabhūmisutta"
+  },
+  {
+    "uid": "mn126",
+    "title": "Bhūmijasutta"
+  },
+  {
+    "uid": "mn127",
+    "title": "Anuruddhasutta"
+  },
+  {
+    "uid": "mn128",
+    "title": "Upakkilesasutta"
+  },
+  {
+    "uid": "mn129",
+    "title": "Bālapaṇḍitasutta"
+  },
+  {
+    "uid": "mn130",
+    "title": "Devadūtasutta"
+  },
+  {
+    "uid": "mn131",
+    "title": "Bhaddekarattasutta"
+  },
+  {
+    "uid": "mn132",
+    "title": "Ānandabhaddekarattasutta"
+  },
+  {
+    "uid": "mn133",
+    "title": "Mahākaccānabhaddekarattasutta"
+  },
+  {
+    "uid": "mn134",
+    "title": "Lomasakaṅgiyabhaddekarattasutta"
+  },
+  {
+    "uid": "mn135",
+    "title": "Cūḷakammavibhaṅgasutta"
+  },
+  {
+    "uid": "mn136",
+    "title": "Mahākammavibhaṅgasutta"
+  },
+  {
+    "uid": "mn137",
+    "title": "Saḷāyatanavibhaṅgasutta"
+  },
+  {
+    "uid": "mn138",
+    "title": "Uddesavibhaṅgasutta"
+  },
+  {
+    "uid": "mn139",
+    "title": "Araṇavibhaṅgasutta"
+  },
+  {
+    "uid": "mn140",
+    "title": "Dhātuvibhaṅgasutta"
+  },
+  {
+    "uid": "mn141",
+    "title": "Saccavibhaṅgasutta"
+  },
+  {
+    "uid": "mn142",
+    "title": "Dakkhiṇāvibhaṅgasutta"
+  },
+  {
+    "uid": "mn143",
+    "title": "Anāthapiṇḍikovādasutta"
+  },
+  {
+    "uid": "mn144",
+    "title": "Channovādasutta"
+  },
+  {
+    "uid": "mn145",
+    "title": "Puṇṇovādasutta"
+  },
+  {
+    "uid": "mn146",
+    "title": "Nandakovādasutta"
+  },
+  {
+    "uid": "mn147",
+    "title": "Cūḷarāhulovādasutta"
+  },
+  {
+    "uid": "mn148",
+    "title": "Chachakkasutta"
+  },
+  {
+    "uid": "mn149",
+    "title": "Mahāsaḷāyatanikasutta"
+  },
+  {
+    "uid": "mn150",
+    "title": "Nagaravindeyyasutta"
+  },
+  {
+    "uid": "mn151",
+    "title": "Piṇḍapātapārisuddhisutta"
+  },
+  {
+    "uid": "mn152",
+    "title": "Indriyabhāvanāsutta"
+  }
+]
