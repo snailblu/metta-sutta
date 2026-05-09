@@ -1,10 +1,7 @@
 import { readFile } from "fs/promises";
 import { join } from "path";
-import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArrowLeft } from "lucide-react";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+import SuttaReaderClient from "./SuttaReaderClient";
 
 type Nikaya = {
   id: string;
@@ -85,56 +82,11 @@ export default async function SuttaReaderPage({
   const groups = groupSegments(sutta.segments);
 
   return (
-    <main className="min-h-screen bg-background">
-      <div className="mx-auto flex max-w-4xl flex-col gap-6 px-4 py-6 sm:px-6 lg:px-8">
-        <header className="space-y-4">
-          <Button asChild variant="ghost" className="w-fit rounded-xl px-0 hover:bg-transparent">
-            <Link href={`/suttas/${nikaya}`}>
-              <ArrowLeft className="size-4" />
-              {nikayaInfo.nameKo}
-            </Link>
-          </Button>
-
-          <div className="space-y-2">
-            <p className="text-sm text-neutral-500 dark:text-neutral-400">{nikayaInfo.name}</p>
-            <h1 className="text-2xl font-semibold tracking-tight text-neutral-900 dark:text-neutral-100 sm:text-3xl">
-              {sutta.title}
-            </h1>
-            <p className="text-sm font-medium uppercase tracking-wide text-neutral-600 dark:text-neutral-400">
-              {sutta.uid}
-            </p>
-          </div>
-        </header>
-
-        <section className="space-y-6">
-          {groups.map((group, index) => (
-            <div key={`${group.label}-${index}`} className="space-y-4">
-              {index > 0 ? (
-                <div className="border-t border-neutral-200 dark:border-neutral-800" />
-              ) : null}
-
-              <div className="pl-1 text-xs font-semibold tracking-[0.2em] text-neutral-400 dark:text-neutral-500">
-                {group.label}
-              </div>
-
-              <div className="space-y-3">
-                {group.segments.map(segment => (
-                  <Card
-                    key={segment.id}
-                    className="rounded-xl border-neutral-200 bg-white/80 py-0 dark:border-neutral-800 dark:bg-neutral-900/80"
-                  >
-                    <CardContent className="p-5">
-                      <p className="text-base leading-8 text-neutral-900 dark:text-neutral-100 sm:text-lg">
-                        {segment.pali}
-                      </p>
-                    </CardContent>
-                  </Card>
-                ))}
-              </div>
-            </div>
-          ))}
-        </section>
-      </div>
-    </main>
+    <SuttaReaderClient
+      nikayaInfo={nikayaInfo}
+      suttaUid={sutta.uid}
+      suttaTitle={sutta.title}
+      groups={groups}
+    />
   );
 }
