@@ -1,10 +1,11 @@
 import { readFile } from "fs/promises";
 import { join } from "path";
 import Link from "next/link";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import { ArrowLeft } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { SuttaListClient } from "./SuttaListClient";
+import { parseSuttaId, NIKAYA_PREFIXES } from "@/lib/sutta-id";
 
 type Nikaya = {
   id: string;
@@ -36,8 +37,16 @@ async function getSuttaIndex(nikaya: string) {
 
 export default async function NikayaPage({ params }: { params: Promise<{ nikaya: string }> }) {
   const { nikaya } = await params;
-  const [nikayas, items] = await Promise.all([getNikayas(), getSuttaIndex(nikaya)]);
-  const nikayaInfo = nikayas.find(item => item.id === nikaya);
+  const lower = nikaya.toLowerCase();
+
+  // If it looks like a sutta ID (e.g. "sn56.11"), redirect to the reader
+  const parsed = parseSuttaId(lower);
+  if (parsed && !NIKAYA_PREFIXES.includes(lower as (typeof NIKAYA_PREFIXES)[number])) {
+    redirect(`/suttas/${parsed.nikaya}/${parsed.uid}`);
+  }
+
+  const [nikayas, items] = await Promise.all([getNikayas(), getSuttaIndex(lower)]);
+  const nikayaInfo = nikayas.find(item => item.id === lower);
 
   if (!nikayaInfo) {
     notFound();
