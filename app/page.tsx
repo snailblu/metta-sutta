@@ -4,6 +4,7 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { SuttaSearchBar } from "@/components/SuttaSearchBar";
 
 type Nikaya = {
   id: string;
@@ -44,6 +45,10 @@ export default async function HomePage() {
           <p className="mt-4 text-sm leading-6 text-neutral-600 dark:text-neutral-400 sm:text-base">
             다섯 니까야를 따라 경전을 탐색하고, 필요한 경우 직접 입력으로 바로 분석할 수 있습니다.
           </p>
+        </section>
+
+        <section className="mx-auto w-full max-w-2xl">
+          <SuttaSearchBar />
         </section>
 
         <section className="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-5">
