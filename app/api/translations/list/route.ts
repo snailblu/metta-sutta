@@ -39,8 +39,9 @@ export async function GET(req: Request) {
       headers: { "Content-Type": "application/json" },
     });
   } catch (error) {
+    const msg = error instanceof Error ? error.message : String(error);
     logger.error("List translations error", error);
-    return new Response(JSON.stringify({ error: "Failed to list" }), {
+    return new Response(JSON.stringify({ error: "Failed to list", detail: msg, url: convexUrl }), {
       status: 500,
       headers: { "Content-Type": "application/json" },
     });
