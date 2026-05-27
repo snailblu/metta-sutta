@@ -7,6 +7,18 @@ import { logger } from "@/lib/logger";
 
 const mockUseObject = vi.fn();
 
+// Hoisted mocks for vi.mock factories
+const { mockAdd, mockToArray, mockReverse, mockOrderBy, mockFilter, mockReverseFilter } =
+  vi.hoisted(() => {
+    const mockAdd = vi.fn();
+    const mockToArray = vi.fn();
+    const mockFilter = vi.fn(() => ({ toArray: mockToArray }));
+    const mockReverseFilter = vi.fn(() => ({ filter: mockFilter }));
+    const mockReverse = vi.fn(() => ({ toArray: mockToArray }));
+    const mockOrderBy = vi.fn(() => ({ reverse: mockReverse }));
+    return { mockAdd, mockToArray, mockReverse, mockOrderBy, mockFilter, mockReverseFilter };
+  });
+
 vi.mock("@ai-sdk/react", () => ({
   experimental_useObject: () => mockUseObject(),
 }));
@@ -17,6 +29,15 @@ vi.mock("@/lib/logger", () => ({
     warn: vi.fn(),
     info: vi.fn(),
     debug: vi.fn(),
+  },
+}));
+
+vi.mock("@/lib/db", () => ({
+  db: {
+    translations: {
+      add: mockAdd,
+      orderBy: mockOrderBy,
+    },
   },
 }));
 
@@ -45,22 +66,30 @@ const analysisResult: AnalysisResult = {
 };
 
 const historyItem: TranslationHistoryItem = {
-  _id: "history-1",
+  id: 1,
   original: analysisResult.original,
   result: analysisResult,
   createdAt: new Date("2025-01-02T03:04:05Z").getTime(),
 };
 
+function setupMockChain() {
+  mockOrderBy.mockReturnValue({ reverse: mockReverse });
+  mockReverse.mockReturnValue({ toArray: mockToArray });
+  mockReverseFilter.mockReturnValue({ filter: mockFilter });
+  mockFilter.mockReturnValue({ toArray: mockToArray });
+}
+
 describe("MettaTranslator", () => {
   beforeEach(() => {
+    vi.clearAllMocks();
+    setupMockChain();
+
     mockUseObject.mockReturnValue({
       object: null,
       submit: vi.fn(),
       isLoading: false,
       error: null,
     });
-    global.fetch = vi.fn();
-    vi.clearAllMocks();
   });
 
   afterEach(() => {
@@ -103,25 +132,8 @@ describe("MettaTranslator", () => {
   });
 
   it("renders analysis results and persists them after a completed response", async () => {
-    const fetchMock = vi.fn(async (input: RequestInfo | URL, init?: RequestInit) => {
-      const url = String(input);
+    mockToArray.mockResolvedValueOnce([]);
 
-      if (url === "/api/translations/save") {
-        return {
-          json: vi.fn().mockResolvedValue({ ok: true }),
-        } as unknown as Response;
-      }
-
-      if (url === "/api/translations/list") {
-        return {
-          json: vi.fn().mockResolvedValue([historyItem]),
-        } as unknown as Response;
-      }
-
-      throw new Error(`Unexpected fetch: ${url} ${JSON.stringify(init)}`);
-    });
-
-    global.fetch = fetchMock;
     mockUseObject.mockReturnValue({
       object: analysisResult,
       submit: vi.fn(),
@@ -140,18 +152,11 @@ describe("MettaTranslator", () => {
     expect(screen.getByText("有情")).toBeInTheDocument();
 
     await waitFor(() => {
-      const saveCall = fetchMock.mock.calls.find(call => call[0] === "/api/translations/save");
-      expect(saveCall).toBeTruthy();
-
-      const [, init] = saveCall as [string, RequestInit];
-      expect(init?.method).toBe("POST");
-      expect(init?.headers).toEqual({ "Content-Type": "application/json" });
-
-      const body = JSON.parse(String(init?.body));
-      expect(body.original).toBe(analysisResult.original);
-      expect(body.result).toMatchObject(analysisResult);
-
-      expect(fetchMock).toHaveBeenCalledWith("/api/translations/list");
+      expect(mockAdd).toHaveBeenCalledTimes(1);
+      const call = mockAdd.mock.calls[0][0];
+      expect(call.original).toBe(analysisResult.original);
+      expect(JSON.parse(call.result)).toEqual(analysisResult);
+      expect(call.createdAt).toBeTypeOf("number");
     });
   });
 
@@ -180,31 +185,29 @@ describe("MettaTranslator", () => {
   it("loads history, supports search, shows detail, and reanalyzes a saved item", async () => {
     const submit = vi.fn();
     const user = userEvent.setup();
-    const fetchMock = vi.fn(async (input: RequestInfo | URL) => {
-      const url = String(input);
 
-      if (url === "/api/translations/list") {
-        return {
-          json: vi.fn().mockResolvedValue([historyItem]),
-        } as unknown as Response;
-      }
+    const dbRecord = {
+      id: 1,
+      original: historyItem.original,
+      result: JSON.stringify(historyItem.result),
+      createdAt: historyItem.createdAt,
+    };
 
-      if (url === "/api/translations/list?q=Sabbe") {
-        return {
-          json: vi.fn().mockResolvedValue([historyItem]),
-        } as unknown as Response;
-      }
+    // loadHistory call
+    mockToArray.mockResolvedValueOnce([dbRecord]);
 
-      if (url === "/api/translations/list?q=mett%C4%81") {
-        return {
-          json: vi.fn().mockResolvedValue([]),
-        } as unknown as Response;
-      }
+    // searchHistory("Sabbe") call
+    mockToArray.mockResolvedValueOnce([dbRecord]);
 
-      throw new Error(`Unexpected fetch: ${url}`);
-    });
+    // loadHistory after clear
+    mockToArray.mockResolvedValueOnce([dbRecord]);
 
-    global.fetch = fetchMock;
+    // searchHistory("mettā") call - empty result
+    mockToArray.mockResolvedValueOnce([]);
+
+    // loadHistory after clear
+    mockToArray.mockResolvedValueOnce([dbRecord]);
+
     mockUseObject.mockReturnValue({
       object: null,
       submit,
@@ -226,13 +229,13 @@ describe("MettaTranslator", () => {
     await user.type(searchInput, "Sabbe");
 
     await waitFor(() => {
-      expect(fetchMock).toHaveBeenCalledWith("/api/translations/list?q=Sabbe");
+      expect(mockOrderBy).toHaveBeenCalledWith("createdAt");
     });
 
     await user.clear(searchInput);
 
     await waitFor(() => {
-      expect(fetchMock).toHaveBeenCalledWith("/api/translations/list");
+      expect(mockOrderBy).toHaveBeenCalledWith("createdAt");
     });
 
     await user.clear(searchInput);
@@ -267,25 +270,14 @@ describe("MettaTranslator", () => {
 
   it("logs save, load, and search failures", async () => {
     const user = userEvent.setup();
-    const fetchMock = vi.fn(async (input: RequestInfo | URL) => {
-      const url = String(input);
 
-      if (url === "/api/translations/save") {
-        throw new Error("save failed");
-      }
+    // saveTranslation fails
+    mockAdd.mockRejectedValueOnce(new Error("save failed"));
+    // loadHistory fails
+    mockToArray.mockRejectedValueOnce(new Error("load failed"));
+    // searchHistory fails
+    mockToArray.mockRejectedValueOnce(new Error("search failed"));
 
-      if (url === "/api/translations/list") {
-        throw new Error("load failed");
-      }
-
-      if (url === "/api/translations/list?q=mett%C4%81") {
-        throw new Error("search failed");
-      }
-
-      throw new Error(`Unexpected fetch: ${url}`);
-    });
-
-    global.fetch = fetchMock;
     mockUseObject.mockReturnValue({
       object: analysisResult,
       submit: vi.fn(),

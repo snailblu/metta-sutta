@@ -3,8 +3,11 @@
 import { experimental_useObject as useObject } from "@ai-sdk/react";
 import { useState, useEffect } from "react";
 import { logger } from "@/lib/logger";
-import { analysisSchema, type AnalysisResult, type TranslationHistoryItem } from "@/lib/translations";
-import { db } from "@/lib/db";
+import {
+  analysisSchema,
+  type AnalysisResult,
+  type TranslationHistoryItem,
+} from "@/lib/translations";
 
 export default function MettaTranslator() {
   const { object, submit, isLoading, error } = useObject({
@@ -36,61 +39,53 @@ export default function MettaTranslator() {
 
     if (parsedResult.success) {
       void saveTranslation(parsedResult.data);
+      void loadHistory();
     }
   }, [object, isLoading]);
 
   const saveTranslation = async (result: AnalysisResult) => {
     try {
-      await db.translations.add({
-        original: result.original,
-        result: JSON.stringify(result),
-        createdAt: Date.now(),
+      await fetch("/api/translations/save", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          original: result.original,
+          result,
+        }),
       });
-      // 히스토리 패널이 열려있으면 즉시 갱신
-      if (showHistory) {
-        void loadHistory();
-      }
-    } catch (err) {
-      logger.error("Save translation failed", err);
+    } catch (error) {
+      logger.error("Save translation failed", error);
     }
   };
 
   const loadHistory = async () => {
     try {
-      const records = await db.translations.orderBy("createdAt").reverse().toArray();
-      const items: TranslationHistoryItem[] = records.map(r => ({
-        id: r.id,
-        original: r.original,
-        result: analysisSchema.parse(JSON.parse(r.result)),
-        createdAt: r.createdAt,
-      }));
-      setHistory(items);
-    } catch (err) {
-      logger.error("Load translation history failed", err);
+      const res = await fetch("/api/translations/list");
+      if (!res.ok) {
+        logger.error("Load translation history failed", res.status);
+        setHistory([]);
+        return;
+      }
+      const data: TranslationHistoryItem[] = await res.json();
+      setHistory(data);
+    } catch (error) {
+      logger.error("Load translation history failed", error);
       setHistory([]);
     }
   };
 
   const searchHistory = async (query: string) => {
     try {
-      const lowerQuery = query.toLowerCase();
-      const records = await db.translations
-        .orderBy("createdAt")
-        .reverse()
-        .filter(r =>
-          r.original.toLowerCase().includes(lowerQuery) ||
-          r.result.toLowerCase().includes(lowerQuery)
-        )
-        .toArray();
-      const items: TranslationHistoryItem[] = records.map(r => ({
-        id: r.id,
-        original: r.original,
-        result: analysisSchema.parse(JSON.parse(r.result)),
-        createdAt: r.createdAt,
-      }));
-      setHistory(items);
-    } catch (err) {
-      logger.error("Search translation history failed", err);
+      const res = await fetch(`/api/translations/list?q=${encodeURIComponent(query)}`);
+      if (!res.ok) {
+        logger.error("Search translation history failed", res.status);
+        setHistory([]);
+        return;
+      }
+      const data: TranslationHistoryItem[] = await res.json();
+      setHistory(data);
+    } catch (error) {
+      logger.error("Search translation history failed", error);
       setHistory([]);
     }
   };
@@ -147,7 +142,7 @@ export default function MettaTranslator() {
               ) : (
                 history.map(item => (
                   <button
-                    key={item.id}
+                    key={item._id}
                     onClick={() => setSelectedHistory(item)}
                     className="w-full text-left p-2 hover:bg-neutral-100 dark:hover:bg-neutral-800 rounded-lg transition-colors border border-transparent hover:border-neutral-200 dark:hover:border-neutral-700"
                   >
@@ -196,7 +191,7 @@ export default function MettaTranslator() {
                   <div className="pt-3 border-t border-blue-200">
                     <span className="text-sm font-medium text-blue-500">의역</span>
                     <p className="text-xl font-bold text-blue-900 mt-1">
-                      &ldquo;{selectedHistory.result.translations?.zen_style}&rdquo;
+                      "{selectedHistory.result.translations?.zen_style}"
                     </p>
                   </div>
                   {selectedHistory.result.translations?.chineseTranslation && (
@@ -350,7 +345,7 @@ export default function MettaTranslator() {
                     의역 (수행적 번역)
                   </span>
                   <p className="text-2xl font-bold text-blue-900 mt-2 leading-relaxed">
-                    &ldquo;{object.translations?.zen_style}&rdquo;
+                    "{object.translations?.zen_style}"
                   </p>
                 </div>
                 {object.translations?.chineseTranslation && (
