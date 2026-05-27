@@ -7,9 +7,16 @@ import {
   type TranslationHistoryItem,
 } from "@/lib/translations";
 
-const convex = new ConvexHttpClient(process.env.NEXT_PUBLIC_CONVEX_URL!);
+const convexUrl = process.env.NEXT_PUBLIC_CONVEX_URL;
+const convex = convexUrl ? new ConvexHttpClient(convexUrl) : null;
 
 export async function GET(req: Request) {
+  if (!convex) {
+    return new Response(JSON.stringify({ error: "NEXT_PUBLIC_CONVEX_URL not set", url: convexUrl ?? "undefined" }), {
+      status: 500,
+      headers: { "Content-Type": "application/json" },
+    });
+  }
   try {
     const { searchParams } = new URL(req.url);
     const query = searchParams.get("q");
