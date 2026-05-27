@@ -7,16 +7,9 @@ import {
   type TranslationHistoryItem,
 } from "@/lib/translations";
 
-const convexUrl = process.env.NEXT_PUBLIC_CONVEX_URL;
-const convex = convexUrl ? new ConvexHttpClient(convexUrl) : null;
+const convex = new ConvexHttpClient(process.env.NEXT_PUBLIC_CONVEX_URL!);
 
 export async function GET(req: Request) {
-  if (!convex) {
-    return new Response(JSON.stringify({ error: "NEXT_PUBLIC_CONVEX_URL not set", url: convexUrl ?? "undefined" }), {
-      status: 500,
-      headers: { "Content-Type": "application/json" },
-    });
-  }
   try {
     const { searchParams } = new URL(req.url);
     const query = searchParams.get("q");
@@ -39,9 +32,8 @@ export async function GET(req: Request) {
       headers: { "Content-Type": "application/json" },
     });
   } catch (error) {
-    const msg = error instanceof Error ? error.message : String(error);
     logger.error("List translations error", error);
-    return new Response(JSON.stringify({ error: "Failed to list", detail: msg, url: convexUrl }), {
+    return new Response(JSON.stringify({ error: "Failed to list" }), {
       status: 500,
       headers: { "Content-Type": "application/json" },
     });
