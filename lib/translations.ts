@@ -22,15 +22,8 @@ export const analysisSchema = z.object({
 export type AnalysisResult = z.infer<typeof analysisSchema>;
 
 export interface TranslationHistoryItem {
-  _id: string;
+  id: number;
   original: string;
   result: AnalysisResult;
-  createdAt: number;
-}
-
-export interface StoredTranslationRecord {
-  _id: string;
-  original: string;
-  result: string;
   createdAt: number;
 }
