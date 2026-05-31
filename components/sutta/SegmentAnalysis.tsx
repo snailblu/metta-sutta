@@ -62,21 +62,7 @@ export default function SegmentAnalysis({
           throw new Error(errBody.error || `HTTP ${res.status}`);
         }
 
-        // 스트리밍 응답 읽기
-        const reader = res.body?.getReader();
-        if (!reader) throw new Error("응답 스트림을 읽을 수 없습니다");
-
-        const decoder = new TextDecoder();
-        let fullText = "";
-
-        while (true) {
-          const { done, value } = await reader.read();
-          if (done) break;
-          fullText += decoder.decode(value, { stream: true });
-        }
-
-        // AI SDK toTextStreamResponse는 JSON 텍스트 스트림을 반환
-        const parsed = JSON.parse(fullText) as SuttaAnalysisResult;
+        const parsed = (await res.json()) as SuttaAnalysisResult;
         setResult(parsed);
         onAnalysisComplete?.(groupKey, parsed);
       } catch (err) {

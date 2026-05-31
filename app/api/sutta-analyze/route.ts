@@ -1,5 +1,5 @@
 import { createGoogleGenerativeAI } from "@ai-sdk/google";
-import { streamObject } from "ai";
+import { generateObject } from "ai";
 import { z } from "zod";
 import { SUTTA_ANALYSIS_PROMPT } from "@/lib/ai/sutta-prompts";
 import { logger } from "@/lib/logger";
@@ -63,14 +63,16 @@ export async function POST(req: Request) {
     // 구절 목록을 프롬프트로 구성
     const prompt = segments.map((s, i) => `[${i + 1}] ID: ${s.id}\n빨리어: ${s.pali}`).join("\n\n");
 
-    const result = streamObject({
+    const { object } = await generateObject({
       model: google("gemini-2.5-flash"),
       schema: suttaAnalysisSchema,
       system: systemPrompt,
       prompt: prompt,
     });
 
-    return result.toTextStreamResponse();
+    return new Response(JSON.stringify(object), {
+      headers: { "Content-Type": "application/json" },
+    });
   } catch (error) {
     logger.error("Sutta Analyze API error", error);
 

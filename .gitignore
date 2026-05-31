@@ -26,6 +26,10 @@ yarn-error.log*
 # local env files
 .env*.local
 
+# production env files (Vercel injects these at build time)
+.env.prod
+.env.production
+
 # vercel
 .vercel
 
