@@ -45,11 +45,16 @@ export default function SegmentAnalysis({
       setIsLoading(true);
       setError(null);
 
+      // 90초 타임아웃 설정
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 90_000);
+
       try {
         const res = await fetch("/api/sutta-analyze", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ segments, context }),
+          signal: controller.signal,
         });
 
         if (!res.ok) {
@@ -75,9 +80,16 @@ export default function SegmentAnalysis({
         setResult(parsed);
         onAnalysisComplete?.(groupKey, parsed);
       } catch (err) {
-        const message = err instanceof Error ? err.message : "분석 중 오류가 발생했습니다";
-        setError(message);
+        if (err instanceof DOMException && err.name === "AbortError") {
+          setError("분석 시간이 초과되었습니다. 다시 시도해주세요.");
+        } else if (err instanceof SyntaxError) {
+          setError("AI 응답을 처리하는 데 실패했습니다. 다시 시도해주세요.");
+        } else {
+          const message = err instanceof Error ? err.message : "분석 중 오류가 발생했습니다";
+          setError(message);
+        }
       } finally {
+        clearTimeout(timeoutId);
         setIsLoading(false);
       }
     };

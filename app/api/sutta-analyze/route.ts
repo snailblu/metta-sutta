@@ -5,7 +5,7 @@ import { SUTTA_ANALYSIS_PROMPT } from "@/lib/ai/sutta-prompts";
 import { logger } from "@/lib/logger";
 
 // 최대 실행 시간 설정 (Vercel 호환)
-export const maxDuration = 60;
+export const maxDuration = 120;
 
 const google = createGoogleGenerativeAI({
   apiKey: process.env.GOOGLE_GENERATIVE_AI_API_KEY || "",
