@@ -15,10 +15,32 @@ export default defineConfig({
     },
   },
 
+  webServer: [
+    {
+      command: "npx next dev --port 3000",
+      port: 3000,
+      reuseExistingServer: !process.env.CI,
+      timeout: 30_000,
+    },
+  ],
+
   projects: [
+    // 로컬 대상 (기존 UI 테스트)
     {
       name: "chromium",
       use: { ...devices["Desktop Chrome"] },
+      testMatch: /.*\.spec\.ts$/,
+      // api-e2e.spec.ts는 production project에서만
+      ignore: ["**/api-e2e.spec.ts"],
+    },
+    // 프로덕션 대상 (실제 API 호출 E2E)
+    {
+      name: "production",
+      use: {
+        ...devices["Desktop Chrome"],
+        baseURL: "https://metta-sutta.vercel.app",
+      },
+      testMatch: "**/api-e2e.spec.ts",
     },
   ],
 });
