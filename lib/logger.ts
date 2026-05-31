@@ -48,11 +48,17 @@ function writeBrowserLog(level: LogLevel, message: string, error?: unknown) {
     } else {
       console.warn(message, error);
     }
+  } else if (level === "info") {
+    if (error === undefined) {
+      console.info(message);
+    } else {
+      console.info(message, error);
+    }
   } else {
     if (error === undefined) {
-      console.warn(message);
+      console.debug(message);
     } else {
-      console.warn(message, error);
+      console.debug(message, error);
     }
   }
 

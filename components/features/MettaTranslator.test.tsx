@@ -6,18 +6,7 @@ import MettaTranslator from "./MettaTranslator";
 import { logger } from "@/lib/logger";
 
 const mockUseObject = vi.fn();
-
-// Hoisted mocks for vi.mock factories
-const { mockAdd, mockToArray, mockReverse, mockOrderBy, mockFilter, mockReverseFilter } =
-  vi.hoisted(() => {
-    const mockAdd = vi.fn();
-    const mockToArray = vi.fn();
-    const mockFilter = vi.fn(() => ({ toArray: mockToArray }));
-    const mockReverseFilter = vi.fn(() => ({ filter: mockFilter }));
-    const mockReverse = vi.fn(() => ({ toArray: mockToArray }));
-    const mockOrderBy = vi.fn(() => ({ reverse: mockReverse }));
-    return { mockAdd, mockToArray, mockReverse, mockOrderBy, mockFilter, mockReverseFilter };
-  });
+const mockFetch = vi.fn();
 
 vi.mock("@ai-sdk/react", () => ({
   experimental_useObject: () => mockUseObject(),
@@ -32,14 +21,13 @@ vi.mock("@/lib/logger", () => ({
   },
 }));
 
-vi.mock("@/lib/db", () => ({
-  db: {
-    translations: {
-      add: mockAdd,
-      orderBy: mockOrderBy,
-    },
-  },
-}));
+function createFetchResponse(data: unknown) {
+  return {
+    ok: true,
+    status: 200,
+    json: () => Promise.resolve(data),
+  } as Response;
+}
 
 const analysisResult: AnalysisResult = {
   original: "Sabbe sattā bhavantu sukhitattā",
@@ -66,23 +54,17 @@ const analysisResult: AnalysisResult = {
 };
 
 const historyItem: TranslationHistoryItem = {
-  id: 1,
+  _id: "test-id-1",
   original: analysisResult.original,
   result: analysisResult,
   createdAt: new Date("2025-01-02T03:04:05Z").getTime(),
 };
 
-function setupMockChain() {
-  mockOrderBy.mockReturnValue({ reverse: mockReverse });
-  mockReverse.mockReturnValue({ toArray: mockToArray });
-  mockReverseFilter.mockReturnValue({ filter: mockFilter });
-  mockFilter.mockReturnValue({ toArray: mockToArray });
-}
-
 describe("MettaTranslator", () => {
   beforeEach(() => {
     vi.clearAllMocks();
-    setupMockChain();
+    mockFetch.mockReset();
+    vi.stubGlobal("fetch", mockFetch);
 
     mockUseObject.mockReturnValue({
       object: null,
@@ -132,7 +114,10 @@ describe("MettaTranslator", () => {
   });
 
   it("renders analysis results and persists them after a completed response", async () => {
-    mockToArray.mockResolvedValueOnce([]);
+    // saveTranslation POST + loadHistory GET (both fire on mount when object is set)
+    mockFetch
+      .mockResolvedValueOnce(createFetchResponse({ success: true, id: "test-id-1" }))
+      .mockResolvedValueOnce(createFetchResponse([]));
 
     mockUseObject.mockReturnValue({
       object: analysisResult,
@@ -152,12 +137,22 @@ describe("MettaTranslator", () => {
     expect(screen.getByText("有情")).toBeInTheDocument();
 
     await waitFor(() => {
-      expect(mockAdd).toHaveBeenCalledTimes(1);
-      const call = mockAdd.mock.calls[0][0];
-      expect(call.original).toBe(analysisResult.original);
-      expect(JSON.parse(call.result)).toEqual(analysisResult);
-      expect(call.createdAt).toBeTypeOf("number");
+      expect(mockFetch).toHaveBeenCalledTimes(2);
     });
+
+    // Verify saveTranslation call
+    const saveCall = mockFetch.mock.calls[0];
+    expect(saveCall[0]).toBe("/api/translations/save");
+    expect(saveCall[1].method).toBe("POST");
+    expect(saveCall[1].headers).toEqual({ "Content-Type": "application/json" });
+    const saveBody = JSON.parse(saveCall[1].body);
+    expect(saveBody.original).toBe(analysisResult.original);
+    expect(saveBody.result).toEqual(analysisResult);
+
+    // Verify loadHistory call
+    const loadCall = mockFetch.mock.calls[1];
+    expect(loadCall[0]).toBe("/api/translations/list");
+    expect(loadCall[1]).toBeUndefined();
   });
 
   it("shows and dismisses the error popup when analysis fails", async () => {
@@ -186,27 +181,17 @@ describe("MettaTranslator", () => {
     const submit = vi.fn();
     const user = userEvent.setup();
 
-    const dbRecord = {
-      id: 1,
-      original: historyItem.original,
-      result: JSON.stringify(historyItem.result),
-      createdAt: historyItem.createdAt,
-    };
-
-    // loadHistory call
-    mockToArray.mockResolvedValueOnce([dbRecord]);
-
-    // searchHistory("Sabbe") call
-    mockToArray.mockResolvedValueOnce([dbRecord]);
-
-    // loadHistory after clear
-    mockToArray.mockResolvedValueOnce([dbRecord]);
-
-    // searchHistory("mettā") call - empty result
-    mockToArray.mockResolvedValueOnce([]);
-
-    // loadHistory after clear
-    mockToArray.mockResolvedValueOnce([dbRecord]);
+    // Use mockImplementation to handle per-character fetch calls from user.type
+    mockFetch.mockImplementation((url: string) => {
+      if (url.includes("?q=")) {
+        const query = decodeURIComponent(url.split("q=")[1]);
+        if (query.includes("mett") || query.includes("ā")) {
+          return Promise.resolve(createFetchResponse([]));
+        }
+        return Promise.resolve(createFetchResponse([historyItem]));
+      }
+      return Promise.resolve(createFetchResponse([historyItem]));
+    });
 
     mockUseObject.mockReturnValue({
       object: null,
@@ -229,13 +214,13 @@ describe("MettaTranslator", () => {
     await user.type(searchInput, "Sabbe");
 
     await waitFor(() => {
-      expect(mockOrderBy).toHaveBeenCalledWith("createdAt");
+      expect(mockFetch).toHaveBeenCalledWith("/api/translations/list?q=Sabbe");
     });
 
     await user.clear(searchInput);
 
     await waitFor(() => {
-      expect(mockOrderBy).toHaveBeenCalledWith("createdAt");
+      expect(mockFetch).toHaveBeenCalledWith("/api/translations/list");
     });
 
     await user.clear(searchInput);
@@ -271,12 +256,26 @@ describe("MettaTranslator", () => {
   it("logs save, load, and search failures", async () => {
     const user = userEvent.setup();
 
-    // saveTranslation fails
-    mockAdd.mockRejectedValueOnce(new Error("save failed"));
-    // loadHistory fails
-    mockToArray.mockRejectedValueOnce(new Error("load failed"));
-    // searchHistory fails
-    mockToArray.mockRejectedValueOnce(new Error("search failed"));
+    // Use mockImplementation with URL-based routing:
+    // - saveTranslation POST → rejected (logs "Save translation failed")
+    // - 1st loadHistory (useEffect) → rejected (logs "Load translation history failed")
+    // - subsequent loadHistory → succeeds (empty)
+    // - searchHistory → rejected (logs "Search translation history failed")
+    let loadCallCount = 0;
+    mockFetch.mockImplementation((url: string) => {
+      if (url === "/api/translations/save") {
+        return Promise.reject(new Error("save failed"));
+      }
+      if (url.includes("?q=")) {
+        return Promise.reject(new Error("search failed"));
+      }
+      // loadHistory calls
+      loadCallCount++;
+      if (loadCallCount === 1) {
+        return Promise.reject(new Error("load failed"));
+      }
+      return Promise.resolve(createFetchResponse([]));
+    });
 
     mockUseObject.mockReturnValue({
       object: analysisResult,
