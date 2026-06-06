@@ -29,9 +29,7 @@ export default defineConfig({
     {
       name: "chromium",
       use: { ...devices["Desktop Chrome"] },
-      testMatch: /.*\.spec\.ts$/,
-      // api-e2e.spec.ts는 production project에서만
-      ignore: ["**/api-e2e.spec.ts"],
+      testMatch: /^(?!.*api-e2e\.spec\.ts).*\.spec\.ts$/,
     },
     // 프로덕션 대상 (실제 API 호출 E2E)
     {
