@@ -1,6 +1,7 @@
 import { createGoogleGenerativeAI } from "@ai-sdk/google";
 import { streamObject } from "ai";
 import { z } from "zod";
+import { getUserFriendlyErrorMessage } from "@/lib/error-messages";
 import { METTA_SYSTEM_PROMPT } from "@/lib/ai/prompts";
 import { logger } from "@/lib/logger";
 
@@ -55,10 +56,11 @@ export async function POST(req: Request) {
   } catch (error) {
     logger.error("Analyze API error", error);
 
-    const errorMessage = error instanceof Error ? error.message : "Unknown error";
+    const { category, message } = getUserFriendlyErrorMessage(error);
+    const status = category === "credit" ? 503 : 500;
 
-    return new Response(JSON.stringify({ error: errorMessage }), {
-      status: 500,
+    return new Response(JSON.stringify({ error: message }), {
+      status,
       headers: { "Content-Type": "application/json" },
     });
   }

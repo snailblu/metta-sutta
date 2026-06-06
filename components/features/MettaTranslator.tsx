@@ -3,6 +3,7 @@
 import { experimental_useObject as useObject } from "@ai-sdk/react";
 import { useState, useEffect } from "react";
 import { logger } from "@/lib/logger";
+import { getUserFriendlyErrorMessage } from "@/lib/error-messages";
 import {
   analysisSchema,
   type AnalysisResult,
@@ -312,8 +313,8 @@ export default function MettaTranslator() {
               <p className="text-neutral-700 dark:text-neutral-300 mb-4">
                 AI 분석 중 오류가 발생했습니다.
               </p>
-              <div className="bg-red-50 p-3 rounded-lg mb-4 text-sm text-red-700 break-all">
-                {error.message || "알 수 없는 오류"}
+              <div className="bg-red-50 p-3 rounded-lg mb-4 text-sm text-red-700">
+                {getUserFriendlyErrorMessage(error).message}
               </div>
               <button
                 onClick={() => setShowErrorPopup(false)}

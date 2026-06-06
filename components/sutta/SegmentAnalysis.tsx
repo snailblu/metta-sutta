@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { ChevronDown, ChevronUp, Loader2, Sparkles } from "lucide-react";
+import { getUserFriendlyErrorMessage } from "@/lib/error-messages";
 import type { SuttaAnalysisResult } from "@/lib/ai/sutta-analysis-schema";
 
 type SegmentAnalysisProps = {
@@ -67,12 +68,11 @@ export default function SegmentAnalysis({
         onAnalysisComplete?.(groupKey, parsed);
       } catch (err) {
         if (err instanceof DOMException && err.name === "AbortError") {
-          setError("분석 시간이 초과되었습니다. 다시 시도해주세요.");
+          setError(getUserFriendlyErrorMessage(err).message);
         } else if (err instanceof SyntaxError) {
           setError("AI 응답을 처리하는 데 실패했습니다. 다시 시도해주세요.");
         } else {
-          const message = err instanceof Error ? err.message : "분석 중 오류가 발생했습니다";
-          setError(message);
+          setError(getUserFriendlyErrorMessage(err).message);
         }
       } finally {
         clearTimeout(timeoutId);
