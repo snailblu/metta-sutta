@@ -16,7 +16,7 @@ export default function MettaTranslator() {
     schema: analysisSchema,
   });
 
-  const [input, setInput] = useState("Sabbe sattā bhavantu sukhitattā");
+  const [input, setInput] = useState("");
   const [showErrorPopup, setShowErrorPopup] = useState(false);
   const [showHistory, setShowHistory] = useState(false);
   const [history, setHistory] = useState<TranslationHistoryItem[]>([]);
